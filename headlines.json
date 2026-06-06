@@ -1,0 +1,29 @@
+{
+  "updated": null,
+  "regions": {
+    "Gulf": [
+      {"source": "Arab News",      "country": "Saudi Arabia", "lang": "en", "url": "https://www.arabnews.com",           "headlines": [], "error": null},
+      {"source": "The National",   "country": "UAE",          "lang": "en", "url": "https://www.thenationalnews.com",    "headlines": [], "error": null},
+      {"source": "Gulf News",      "country": "UAE",          "lang": "en", "url": "https://gulfnews.com",               "headlines": [], "error": null},
+      {"source": "Gulf Times",     "country": "Qatar",        "lang": "en", "url": "https://www.gulf-times.com",         "headlines": [], "error": null},
+      {"source": "Times of Oman",  "country": "Oman",         "lang": "en", "url": "https://timesofoman.com",            "headlines": [], "error": null}
+    ],
+    "Levant": [
+      {"source": "Jordan Times",    "country": "Jordan",  "lang": "en", "url": "https://www.jordantimes.com",       "headlines": [], "error": null},
+      {"source": "L'Orient Today",  "country": "Lebanon", "lang": "en", "url": "https://today.lorientlejour.com",   "headlines": [], "error": null},
+      {"source": "Egypt Independent","country": "Egypt",  "lang": "en", "url": "https://egyptindependent.com",      "headlines": [], "error": null},
+      {"source": "Al-Akhbar",        "country": "Lebanon","lang": "ar", "url": "https://al-akhbar.com",             "headlines": [], "error": null}
+    ],
+    "Israel": [
+      {"source": "Jerusalem Post",  "country": "Israel", "lang": "en", "url": "https://www.jpost.com",              "headlines": [], "error": null},
+      {"source": "Times of Israel", "country": "Israel", "lang": "en", "url": "https://www.timesofisrael.com",      "headlines": [], "error": null},
+      {"source": "Haaretz",         "country": "Israel", "lang": "en", "url": "https://www.haaretz.com",            "headlines": [], "error": null}
+    ],
+    "Pan-Arab": [
+      {"source": "Al Jazeera",      "country": "Qatar", "lang": "en", "url": "https://www.aljazeera.com",           "headlines": [], "error": null},
+      {"source": "Middle East Eye", "country": "UK",    "lang": "en", "url": "https://www.middleeasteye.net",       "headlines": [], "error": null},
+      {"source": "Al Arabiya",      "country": "UAE",   "lang": "en", "url": "https://english.alarabiya.net",       "headlines": [], "error": null},
+      {"source": "The New Arab",    "country": "UK",    "lang": "en", "url": "https://www.newarab.com",             "headlines": [], "error": null}
+    ]
+  }
+}
