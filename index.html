@@ -328,6 +328,7 @@ buildSrcGrid("grid-gulf", GULF);
 buildSrcGrid("grid-levant", LEVANT);
 buildAnalysis();
 loadHeadlines();
+setInterval(loadHeadlines, 30 * 60 * 1000);
 
 function esc(s){
   return String(s)
@@ -343,7 +344,7 @@ async function loadHeadlines(){
     const data = await res.json();
     renderHeadlines(data, container);
   }catch(err){
-    container.innerHTML=`<div class="hl-loading">Headlines not yet available — the fetcher runs daily at 06:00 UTC.<br><small style="color:var(--muted)">(${err.message})</small></div>`;
+    container.innerHTML=`<div class="hl-loading">Headlines not yet available — the fetcher runs daily at 07:00 UTC.<br><small style="color:var(--muted)">(${err.message})</small></div>`;
   }
 }
 
