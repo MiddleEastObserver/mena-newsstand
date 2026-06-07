@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T15:36:02.341838+00:00",
+  "updated": "2026-06-07T06:29:26.560251+00:00",
   "regions": {
     "Gulf": [
       {
@@ -8,7 +8,7 @@
         "lang": "en",
         "url": "https://www.arabnews.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "403 Client Error: Forbidden for url: https://www.arabnews.com/rss.xml"
       },
       {
         "source": "The National",
@@ -16,7 +16,7 @@
         "lang": "en",
         "url": "https://www.thenationalnews.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "404 Client Error: Not Found for url: https://www.thenationalnews.com/arc/outboundfeeds/rss/"
       },
       {
         "source": "Gulf News",
@@ -24,7 +24,7 @@
         "lang": "en",
         "url": "https://gulfnews.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "404 Client Error: Not Found for url: https://gulfnews.com/rss/world"
       },
       {
         "source": "Gulf Times",
@@ -32,7 +32,7 @@
         "lang": "en",
         "url": "https://www.gulf-times.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "no entries"
       },
       {
         "source": "Times of Oman",
@@ -40,7 +40,7 @@
         "lang": "en",
         "url": "https://timesofoman.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "404 Client Error: Not Found for url: https://timesofoman.com/rss/news"
       }
     ],
     "Levant": [
@@ -50,7 +50,7 @@
         "lang": "en",
         "url": "https://www.jordantimes.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "no entries"
       },
       {
         "source": "L'Orient Today",
@@ -58,7 +58,7 @@
         "lang": "en",
         "url": "https://today.lorientlejour.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "404 Client Error: Not Found for url: https://today.lorientlejour.com/feed/"
       },
       {
         "source": "Egypt Independent",
@@ -100,7 +100,7 @@
         "lang": "ar",
         "url": "https://al-akhbar.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "403 Client Error: Forbidden for url: https://al-akhbar.com/node/feed"
       }
     ],
     "Israel": [
@@ -111,29 +111,29 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
-            "title": "Iran's military 'totally destroyed' with around 21% missile capacity remaining, Trump claims",
-            "url": "https://www.jpost.com/international/article-898509",
-            "published": "2026-06-06T03:30:23+00:00"
+            "title": "US downs two Iranian attack drones 'threatening int'l maritime traffic' in Strait of Hormuz",
+            "url": "https://www.jpost.com/middle-east/iran-news/article-898548",
+            "published": "2026-06-07T08:01:09+00:00"
           },
           {
-            "title": "Witkoff, Kushner consult with Oak Ridge nuclear experts on Iran - report",
-            "url": "https://www.jpost.com/international/article-898519",
-            "published": "2026-06-06T11:08:16+00:00"
+            "title": "Pentagon raises Israel's espionage threat level to 'critical' amid tensions with US - report",
+            "url": "https://www.jpost.com/international/article-898525",
+            "published": "2026-06-06T19:06:06+00:00"
           },
           {
-            "title": "Multiple clashes between Israelis, Palestinians reported in West Bank following alleged sheep theft",
-            "url": "https://www.jpost.com/israel-news/defense-news/article-898524",
-            "published": "2026-06-06T17:39:20+00:00"
+            "title": "Mossad's new chief Gofman ousts deputy director A. during first week of term",
+            "url": "https://www.jpost.com/israel-news/defense-news/article-898529",
+            "published": "2026-06-06T21:18:12+00:00"
           },
           {
-            "title": "'I show up for my Jewish friends': Jerry O’Connell on antisemitism, Israel, and a childhood promise",
-            "url": "https://www.jpost.com/j-spot/article-898243",
-            "published": "2026-06-06T16:00:42+00:00"
+            "title": "Trump faces Republican resistance on Iran war, key issues as midterm elections approach",
+            "url": "https://www.jpost.com/american-politics/article-898549",
+            "published": "2026-06-07T07:52:09+00:00"
           },
           {
-            "title": "The illusion of change in Iraq: Baghdad's militia shake-up masks a deeper Iranian strategy",
-            "url": "https://www.jpost.com/middle-east/article-898441",
-            "published": "2026-06-06T10:52:49+00:00"
+            "title": "Netanyahu’s mafia politics risk degrading integrity of Israeli government - editorial",
+            "url": "https://www.jpost.com/opinion/article-898530",
+            "published": "2026-06-07T05:58:05+00:00"
           }
         ],
         "error": null
@@ -145,29 +145,29 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
-            "title": "Bernadette Chirac, formidable former first lady of France, dies at 93",
-            "url": "https://www.timesofisrael.com/bernadette-chirac-formidable-former-first-lady-of-france-dies-at-93/",
-            "published": "2026-06-06T15:16:50+00:00"
+            "title": "War and economic hardship dampen World Cup excitement in Iran",
+            "url": "https://www.timesofisrael.com/war-and-economic-hardship-dampen-world-cup-excitement-in-iran/",
+            "published": "2026-06-07T05:44:16+00:00"
           },
           {
-            "title": "Tucker Carlson is down, say some Jewish Republicans; others warn he’s not out",
-            "url": "https://www.timesofisrael.com/tucker-carlson-is-down-say-some-jewish-republicans-others-warn-hes-not-out/",
-            "published": "2026-06-06T13:59:15+00:00"
+            "title": "Massive US op prepares to take on unprecedented World Cup security challenges",
+            "url": "https://www.timesofisrael.com/massive-us-op-prepares-to-take-on-unprecedented-world-cup-security-challenges/",
+            "published": "2026-06-07T05:14:35+00:00"
           },
           {
-            "title": "Lebanon inaugurates a second international airport amid Israel-Hezbollah war",
-            "url": "https://www.timesofisrael.com/lebanon-inaugurates-a-second-international-airport-amid-israel-hezbollah-war/",
-            "published": "2026-06-06T13:58:50+00:00"
+            "title": "Netanyahu recalculates his election strategy amid shattered regional dreams",
+            "url": "https://www.timesofisrael.com/netanyahu-recalculates-his-election-strategy-amid-shattered-regional-dreams/",
+            "published": "2026-06-07T04:40:25+00:00"
           },
           {
-            "title": "9 Palestinians wounded in settler rampage in Huwara; IDF soldier seen beating man",
-            "url": "https://www.timesofisrael.com/nine-palestinians-reported-wounded-in-settler-rampage-through-hawara/",
-            "published": "2026-06-06T13:10:44+00:00"
+            "title": "Miss Israel says this year’s contest will be bogus, sparking break with organizers",
+            "url": "https://www.timesofisrael.com/miss-israel-says-this-years-contest-will-be-bogus-sparking-break-with-organizers/",
+            "published": "2026-06-07T03:10:35+00:00"
           },
           {
-            "title": "Iran slams US ‘discriminatory treatment’ over World Cup visa refusals",
-            "url": "https://www.timesofisrael.com/iran-slams-us-discriminatory-treatment-over-world-cup-visa-refusals/",
-            "published": "2026-06-06T12:28:43+00:00"
+            "title": "1 lightly hurt as Palestinian car hits settlers who blocked West Bank road and hurled stones",
+            "url": "https://www.timesofisrael.com/1-lightly-hurt-as-palestinian-car-hits-settlers-who-blocked-west-bank-road-and-hurled-stones/",
+            "published": "2026-06-07T02:28:40+00:00"
           }
         ],
         "error": null
@@ -178,7 +178,7 @@
         "lang": "en",
         "url": "https://www.haaretz.com",
         "headlines": [],
-        "error": "feed error"
+        "error": "no entries"
       }
     ],
     "Pan-Arab": [
@@ -189,29 +189,29 @@
         "url": "https://www.aljazeera.com",
         "headlines": [
           {
-            "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss",
-            "published": "2026-06-06T15:09:56+00:00"
+            "title": "Outrage over Palestinian ‘dog rape’ joke at Tribeca Film Festival",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_outrage-over-palestinian-dog-rape-joke-at-tribeca-070626?traffic_source=rss",
+            "published": "2026-06-07T06:01:48+00:00"
           },
           {
-            "title": "Israeli strike kills at least six people at wedding in Gaza",
-            "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-            "published": "2026-06-06T14:38:50+00:00"
+            "title": "Why are players being issued visas just days before the World Cup?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/why-are-players-being-issued-visas-just-days-before-the-world-cup?traffic_source=rss",
+            "published": "2026-06-07T05:48:49+00:00"
           },
           {
-            "title": "What Afghanistan’s rotten apples tell us about its non-profit sector",
-            "url": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss",
-            "published": "2026-06-06T14:16:56+00:00"
+            "title": "By the numbers: 100 days of the US-Israel war on Iran",
+            "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran?traffic_source=rss",
+            "published": "2026-06-07T05:30:52+00:00"
           },
           {
-            "title": "Lebanon and Israel’s perpetual war machine",
-            "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
-            "published": "2026-06-06T13:31:49+00:00"
+            "title": "How many times were the US and Iran on the verge of a deal?",
+            "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
+            "published": "2026-06-07T04:51:02+00:00"
           },
           {
-            "title": "Pope calls for end to polarisation during visit to Spain",
-            "url": "https://www.aljazeera.com/news/2026/6/6/pope-calls-for-end-to-polarisation-during-visit-to-spain?traffic_source=rss",
-            "published": "2026-06-06T13:26:59+00:00"
+            "title": "Why is Chinese President Xi Jinping visiting North Korea now?",
+            "url": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss",
+            "published": "2026-06-07T04:30:44+00:00"
           }
         ],
         "error": null
@@ -223,29 +223,29 @@
         "url": "https://www.middleeasteye.net",
         "headlines": [
           {
-            "title": "Streeting branded a hypocrite after accusing Starmer of ignoring Gaza war crimes",
-            "url": "https://www.middleeasteye.net/news/streeting-branded-hypocrite-accusing-starmer-gaza-war-crimes",
-            "published": "2026-06-06T15:06:41+00:00"
+            "title": "Tehran raises concerns over strikes at IAEA board meeting",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-raises-concerns-over-strikes-iaea-board-meeting",
+            "published": "2026-06-07T06:13:35+00:00"
           },
           {
-            "title": "Death toll from Israeli attack on Gaza City rises",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-attack-gaza-city-rises",
-            "published": "2026-06-06T14:50:49+00:00"
+            "title": "UN peacekeepers say strike violated Lebanon’s sovereignty",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeepers-say-strike-violated-lebanons-sovereignty",
+            "published": "2026-06-07T06:04:01+00:00"
           },
           {
-            "title": "Israeli attack kills at least five in Gaza City",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-kills-least-five-gaza-city",
-            "published": "2026-06-06T14:39:16+00:00"
+            "title": "Four Israeli reservists wounded as drone alerts sound near Lebanon border",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-israeli-reservists-wounded-drone-alerts-sound-near-lebanon-border",
+            "published": "2026-06-07T05:40:18+00:00"
           },
           {
-            "title": "ICC states should respect judges' report on prosecutor, says Norway’s deputy foreign minister",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/icc-states-should-respect-judges-report-prosecutor-says-norways-deputy",
-            "published": "2026-06-06T14:16:28+00:00"
+            "title": "Video: Palestinian father buries his baby killed by Israeli fire",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinian-father-buries-his-baby-killed-israeli-fire",
+            "published": "2026-06-07T05:29:34+00:00"
           },
           {
-            "title": "Lebanese president: Israel 'will never be able to achieve their objective'",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-president-israel-will-never-be-able-achieve-their-objective",
-            "published": "2026-06-06T14:12:37+00:00"
+            "title": "Hezbollah official rejects claims Lebanon is bargaining chip for Iran",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-official-rejects-claims-lebanon-bargaining-chip-iran",
+            "published": "2026-06-07T05:28:14+00:00"
           }
         ],
         "error": null
@@ -256,7 +256,7 @@
         "lang": "en",
         "url": "https://english.alarabiya.net",
         "headlines": [],
-        "error": "feed error"
+        "error": "403 Client Error: Forbidden for url: https://english.alarabiya.net/tools/rss/category/news"
       },
       {
         "source": "The New Arab",
@@ -265,29 +265,29 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
-            "title": "Bahrain, Kuwait hit by Iran salvoes; Israel bombs South Lebanon",
-            "url": "https://www.newarab.com/news/bahrain-kuwait-hit-iran-salvoes-israel-bombs-south-lebanon",
-            "published": "2026-06-06T15:19:25+00:00"
+            "title": "Makenzie replaces injured Yahya in Iraq's World Cup squad",
+            "url": "https://www.newarab.com/news/makenzie-replaces-injured-yahya-iraqs-world-cup-squad",
+            "published": "2026-06-07T00:17:59+00:00"
           },
           {
-            "title": "PSC urges UK to halt illegal Israeli settlement property event",
-            "url": "https://www.newarab.com/news/psc-urges-uk-halt-illegal-israeli-settlement-property-event",
-            "published": "2026-06-06T14:03:01+00:00"
+            "title": "US eyes Iranian assets for Gulf reconstruction, source says",
+            "url": "https://www.newarab.com/news/us-eyes-iranian-assets-gulf-reconstruction-source-says",
+            "published": "2026-06-06T23:40:33+00:00"
           },
           {
-            "title": "Lebanon launches rehabilitation of its second airport",
-            "url": "https://www.newarab.com/news/lebanon-launches-rehabilitation-its-second-airport",
-            "published": "2026-06-06T13:55:26+00:00"
+            "title": "Drone strike on central Sudan market kills 11: rights group",
+            "url": "https://www.newarab.com/news/drone-strike-central-sudan-market-kills-11-rights-group",
+            "published": "2026-06-06T21:21:45+00:00"
           },
           {
-            "title": "US envoys meet nuclear experts as Iran talks near final phase",
-            "url": "https://www.newarab.com/news/us-envoys-meet-nuclear-experts-iran-talks-near-final-phase",
-            "published": "2026-06-06T13:54:19+00:00"
+            "title": "Iran ex-PM hospitalised after years under house arrest: aide",
+            "url": "https://www.newarab.com/news/iran-ex-pm-hospitalised-after-years-under-house-arrest-aide",
+            "published": "2026-06-06T19:26:13+00:00"
           },
           {
-            "title": "Thousands protest in Albania against Kushner real estate project",
-            "url": "https://www.newarab.com/news/thousands-protest-albania-against-kushner-real-estate-project",
-            "published": "2026-06-06T13:27:40+00:00"
+            "title": "Iraq World Cup striker Hussein questioned for hours at Chicago airport",
+            "url": "https://www.newarab.com/news/iraq-world-cup-striker-hussein-questioned-hours-chicago-airport",
+            "published": "2026-06-06T19:04:40+00:00"
           }
         ],
         "error": null
