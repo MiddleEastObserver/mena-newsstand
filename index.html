@@ -162,7 +162,7 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
   <!-- HEADLINES TAB -->
   <div class="section" id="sec-headlines">
     <div class="sec-head"><h2>Live Headlines</h2></div>
-    <div class="sec-note">Top 5 headlines fetched daily from 16 MENA outlets, organized by region. Updated automatically each morning at 07:00 UTC.</div>
+    <div class="sec-note">Top 5 headlines from 16 MENA outlets, organized by region. Refreshed automatically every 30 minutes.</div>
     <div id="hl-container"><div class="hl-loading">Loading headlines…</div></div>
   </div>
 
@@ -174,6 +174,7 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
     </div>
 
     <div class="sec-head"><h2>Today's Front Pages</h2></div>
+    <div class="sec-note" id="fp-updated"></div>
     <div class="fp-grid" id="fp-grid"></div>
 
     <div class="sec-head" style="margin-top:8px"><h2>More Front Pages — Kiosko</h2></div>
@@ -239,54 +240,36 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
 </footer>
 
 <script>
-// Build today's date for the image CDN URLs (updates automatically each day)
-const _d0 = new Date();
-const _ky = _d0.getFullYear();
-const _km = String(_d0.getMonth() + 1).padStart(2, '0');
-const _kd = String(_d0.getDate()).padStart(2, '0');
-const _ffday = _d0.getDate();   // Freedom Forum uses day-of-month (1–31)
-
-// Kiosko cover:        img.kiosko.net/YYYY/MM/DD/{geo}/{slug}.750.jpg
-function k(geo, slug){ return `https://img.kiosko.net/${_ky}/${_km}/${_kd}/${geo}/${slug}.750.jpg`; }
-// Freedom Forum cover: cdn.freedomforum.org/dfp/jpg{day}/lg/{CODE}.jpg
-function ff(code){ return `https://cdn.freedomforum.org/dfp/jpg${_ffday}/lg/${code}.jpg`; }
-
-// Each paper lists several candidate cover URLs; the page tries them in order
-// and falls back to a placeholder if none load. "site" is the click-through.
+// Front-page covers are downloaded server-side by the daily workflow
+// (scripts/fetch_frontpages.py) and committed under frontpages/. The page
+// loads them from its own origin — no hotlinking — and reads
+// frontpages/manifest.json to know which are available today. "id" must match
+// the ids in fetch_frontpages.py.
 const FP_PAPERS = [
   // ——— Middle East & North Africa ——————————————————————————————
-  { name:"Asharq Al-Awsat", loc:"Pan-Arab / Saudi", lang:"ar", site:"https://aawsat.com",
-    imgs:[ k("uk","asharq_al_awsat"), k("asi","asharq_al_awsat") ] },
-  { name:"Al-Ahram", loc:"Egypt", lang:"ar", site:"https://www.ahram.org.eg",
-    imgs:[ k("eg","al_ahram") ] },
-  { name:"Haaretz", loc:"Israel", lang:"en", site:"https://www.haaretz.com",
-    imgs:[ ff("ISR_HA"), k("il","haaretz") ] },
-  { name:"Al-Quds Al-Arabi", loc:"Pan-Arab / UK", lang:"ar", site:"https://www.alquds.co.uk",
-    imgs:[ k("uk","alquds"), k("uk","al_quds"), k("uk","al_quds_al_arabi") ] },
-  { name:"Arab News", loc:"Saudi Arabia", lang:"en", site:"https://www.arabnews.com",
-    imgs:[ ff("SAU_AN"), k("asi","arab_news"), k("sa","arab_news") ] },
-  { name:"Al-Anba", loc:"Kuwait", lang:"ar", site:"https://www.alanba.com.kw",
-    imgs:[ k("asi","al_anba"), k("asi","al_anbaa"), k("kw","al_anba") ] },
-  { name:"The National", loc:"UAE", lang:"en", site:"https://www.thenationalnews.com",
-    imgs:[ ff("UAE_TN"), k("asi","the_national"), k("asi","national") ] },
-  { name:"An-Nahar", loc:"Lebanon", lang:"ar", site:"https://www.annahar.com",
-    imgs:[ k("asi","nahar"), k("asi","an_nahar"), k("lb","nahar") ] },
-  { name:"Hürriyet", loc:"Turkey", lang:"tr", site:"https://www.hurriyetdailynews.com",
-    imgs:[ k("tr","hurriyet") ] },
-  { name:"Tehran Times", loc:"Iran", lang:"en", site:"https://www.tehrantimes.com",
-    imgs:[ k("ir","tehran_times") ] },
+  { id:"asharq",       name:"Asharq Al-Awsat", loc:"Pan-Arab / Saudi", lang:"ar", site:"https://aawsat.com" },
+  { id:"al_ahram",     name:"Al-Ahram",        loc:"Egypt",            lang:"ar", site:"https://www.ahram.org.eg" },
+  { id:"haaretz",      name:"Haaretz",         loc:"Israel",           lang:"en", site:"https://www.haaretz.com" },
+  { id:"al_quds",      name:"Al-Quds Al-Arabi",loc:"Pan-Arab / UK",    lang:"ar", site:"https://www.alquds.co.uk" },
+  { id:"arab_news",    name:"Arab News",       loc:"Saudi Arabia",     lang:"en", site:"https://www.arabnews.com" },
+  { id:"al_anba",      name:"Al-Anba",         loc:"Kuwait",           lang:"ar", site:"https://www.alanba.com.kw" },
+  { id:"the_national", name:"The National",    loc:"UAE",              lang:"en", site:"https://www.thenationalnews.com" },
+  { id:"annahar",      name:"An-Nahar",        loc:"Lebanon",          lang:"ar", site:"https://www.annahar.com" },
+  { id:"hurriyet",     name:"Hürriyet",        loc:"Turkey",           lang:"tr", site:"https://www.hurriyetdailynews.com" },
+  { id:"tehran_times", name:"Tehran Times",    loc:"Iran",             lang:"en", site:"https://www.tehrantimes.com" },
   // ——— International ————————————————————————————————————————————
-  { name:"New York Times", loc:"USA", lang:"en", site:"https://www.nytimes.com",
-    imgs:[ ff("NY_NYT"), k("us","newyork_times") ] },
-  { name:"Wall Street Journal", loc:"USA", lang:"en", site:"https://www.wsj.com",
-    imgs:[ ff("WSJ"), k("us","wsj") ] },
-  { name:"Financial Times", loc:"UK", lang:"en", site:"https://www.ft.com",
-    imgs:[ k("uk","ft_uk"), k("us","ft_us") ] },
-  { name:"The Guardian", loc:"UK", lang:"en", site:"https://www.theguardian.com",
-    imgs:[ k("uk","guardian"), k("uk","observer") ] },
-  { name:"Le Monde", loc:"France", lang:"fr", site:"https://www.lemonde.fr",
-    imgs:[ k("fr","lemonde") ] },
+  { id:"nyt",          name:"New York Times",  loc:"USA",              lang:"en", site:"https://www.nytimes.com" },
+  { id:"wsj",          name:"Wall Street Journal", loc:"USA",          lang:"en", site:"https://www.wsj.com" },
+  { id:"ft",           name:"Financial Times", loc:"UK",               lang:"en", site:"https://www.ft.com" },
+  { id:"guardian",     name:"The Guardian",    loc:"UK",               lang:"en", site:"https://www.theguardian.com" },
+  { id:"lemonde",      name:"Le Monde",        loc:"France",           lang:"fr", site:"https://www.lemonde.fr" },
 ];
+
+// Filled in from frontpages/manifest.json at load time.
+let FP_STATUS = {};   // id -> {ok, date}
+let FP_VER = "";      // cache-busting version (date) for the image URLs
+
+function fpImgURL(id){ return `frontpages/${id}.jpg?v=${encodeURIComponent(FP_VER || "0")}`; }
 
 const GULF = [
   {n:"Arab News",       loc:"Saudi Arabia", l:"en", u:"https://www.arabnews.com"},
@@ -356,15 +339,29 @@ function lb(l){
   return `<span class="fp-tag t-xx">${l.toUpperCase()}</span>`;
 }
 
-function buildFPGrid(){
-  document.getElementById("fp-grid").innerHTML = FP_PAPERS.map((p,idx)=>`
+async function buildFPGrid(){
+  // Load the manifest produced by the daily workflow (cache-busted).
+  try{
+    const r = await fetch("frontpages/manifest.json?t=" + Date.now());
+    if(r.ok){
+      const m = await r.json();
+      FP_VER = (m.updated || "").slice(0,10);
+      (m.papers || []).forEach(p => { FP_STATUS[p.id] = p; });
+    }
+  }catch(e){ /* manifest not generated yet — show placeholders */ }
+
+  document.getElementById("fp-grid").innerHTML = FP_PAPERS.map((p,idx)=>{
+    const st = FP_STATUS[p.id];
+    const hasImg = !!(st && st.ok);
+    const imgTag = hasImg
+      ? `<img class="fp-img-actual" loading="lazy" src="${fpImgURL(p.id)}"
+           alt="${esc(p.name)} front page" onerror="fpImgError(this)">`
+      : ``;
+    return `
     <div class="fp-card" onclick="openFPModal(${idx})">
       <div class="fp-img-wrap">
-        <img class="fp-img-actual" loading="lazy"
-          data-srcs='${JSON.stringify(p.imgs)}' data-i="0"
-          src="${p.imgs[0]}" alt="${esc(p.name)} front page"
-          onerror="fpImgError(this)">
-        <div class="fp-placeholder" style="display:none">
+        ${imgTag}
+        <div class="fp-placeholder" style="${hasImg?'display:none':'display:flex'}">
           <span style="font-size:26px">📰</span>
           <span>Front page<br>not available today</span>
           <span style="font-size:10px;color:var(--blue)">Click to open paper ↗</span>
@@ -375,48 +372,44 @@ function buildFPGrid(){
         <div class="fp-loc">${esc(p.loc)}</div>
         ${lb(p.lang)}
       </div>
-    </div>`).join("");
+    </div>`;
+  }).join("");
+
+  const note = document.getElementById("fp-updated");
+  if(note) note.textContent = FP_VER ? ("Front pages as of " + FP_VER) : "";
 }
 
-// Try the next candidate cover URL; show placeholder when all fail.
+// If a committed image somehow fails to load, fall back to the placeholder.
 function fpImgError(img){
-  const srcs = JSON.parse(img.dataset.srcs || "[]");
-  const i = parseInt(img.dataset.i || "0", 10) + 1;
-  if(i < srcs.length){
-    img.dataset.i = i;
-    img.src = srcs[i];
-  } else {
-    img.style.display = "none";
-    const ph = img.parentElement.querySelector(".fp-placeholder");
-    if(ph) ph.style.display = "flex";
-  }
+  img.style.display = "none";
+  const ph = img.parentElement.querySelector(".fp-placeholder");
+  if(ph) ph.style.display = "flex";
 }
 
 function openFPModal(idx){
   const p = FP_PAPERS[idx];
+  const st = FP_STATUS[p.id];
+  const hasImg = !!(st && st.ok);
   document.getElementById("fp-modal-title").textContent = p.name + " — Today's Front Page";
   document.getElementById("fp-modal-link").href = p.site;
-  document.getElementById("fp-modal-body").innerHTML = `
-    <img class="fp-modal-img" data-srcs='${JSON.stringify(p.imgs)}' data-i="0"
-      src="${p.imgs[0]}" alt="${esc(p.name)} front page" onerror="fpModalImgError(this)">
-    <div class="fp-modal-fail" style="display:none">
-      <p>Today's front page image isn't available for ${esc(p.name)}.</p>
-      <a href="${p.site}" target="_blank" rel="noopener">Open ${esc(p.name)} website ↗</a>
-    </div>`;
+  document.getElementById("fp-modal-body").innerHTML = hasImg
+    ? `<img class="fp-modal-img" src="${fpImgURL(p.id)}"
+         alt="${esc(p.name)} front page" onerror="fpModalImgError(this)">
+       <div class="fp-modal-fail" style="display:none">
+         <p>Today's front page image isn't available for ${esc(p.name)}.</p>
+         <a href="${p.site}" target="_blank" rel="noopener">Open ${esc(p.name)} website ↗</a>
+       </div>`
+    : `<div class="fp-modal-fail" style="display:block">
+         <p>Today's front page image isn't available for ${esc(p.name)} yet.</p>
+         <a href="${p.site}" target="_blank" rel="noopener">Open ${esc(p.name)} website ↗</a>
+       </div>`;
   document.getElementById("fp-modal").classList.add("open");
   document.body.style.overflow = "hidden";
 }
 
 function fpModalImgError(img){
-  const srcs = JSON.parse(img.dataset.srcs || "[]");
-  const i = parseInt(img.dataset.i || "0", 10) + 1;
-  if(i < srcs.length){
-    img.dataset.i = i;
-    img.src = srcs[i];
-  } else {
-    img.style.display = "none";
-    img.nextElementSibling.style.display = "block";
-  }
+  img.style.display = "none";
+  img.nextElementSibling.style.display = "block";
 }
 
 function closeFPModal(){
@@ -479,12 +472,13 @@ function esc(s){
 async function loadHeadlines(){
   const container = document.getElementById("hl-container");
   try{
-    const res = await fetch("headlines.json");
+    // Cache-bust so the 30-min refresh isn't served a stale copy by the CDN.
+    const res = await fetch("headlines.json?t=" + Date.now(), {cache:"no-store"});
     if(!res.ok) throw new Error("HTTP "+res.status);
     const data = await res.json();
     renderHeadlines(data, container);
   }catch(err){
-    container.innerHTML=`<div class="hl-loading">Headlines not yet available — the fetcher runs daily at 07:00 UTC.<br><small style="color:var(--muted)">(${err.message})</small></div>`;
+    container.innerHTML=`<div class="hl-loading">Headlines not yet available — the fetcher refreshes every 30 minutes.<br><small style="color:var(--muted)">(${err.message})</small></div>`;
   }
 }
 
