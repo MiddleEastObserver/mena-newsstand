@@ -1,5 +1,155 @@
 {
-  "updated": "",
-  "note": "Placeholder manifest. Replaced by scripts/fetch_frontpages.py on the first workflow run.",
-  "papers": []
+  "updated": "2026-06-08T09:48:44.414698+00:00",
+  "papers": [
+    {
+      "id": "asharq",
+      "name": "Asharq Al-Awsat",
+      "loc": "Pan-Arab / Saudi",
+      "lang": "ar",
+      "site": "https://aawsat.com",
+      "ok": false,
+      "src": null,
+      "date": null
+    },
+    {
+      "id": "al_ahram",
+      "name": "Al-Ahram",
+      "loc": "Egypt",
+      "lang": "ar",
+      "site": "https://www.ahram.org.eg",
+      "ok": false,
+      "src": null,
+      "date": null
+    },
+    {
+      "id": "haaretz",
+      "name": "Haaretz",
+      "loc": "Israel",
+      "lang": "en",
+      "site": "https://www.haaretz.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg8/lg/ISR_HA.jpg",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "al_quds",
+      "name": "Al-Quds Al-Arabi",
+      "loc": "Pan-Arab / UK",
+      "lang": "ar",
+      "site": "https://www.alquds.co.uk",
+      "ok": false,
+      "src": null,
+      "date": null
+    },
+    {
+      "id": "arab_news",
+      "name": "Arab News",
+      "loc": "Saudi Arabia",
+      "lang": "en",
+      "site": "https://www.arabnews.com",
+      "ok": false,
+      "src": null,
+      "date": null
+    },
+    {
+      "id": "al_anba",
+      "name": "Al-Anba",
+      "loc": "Kuwait",
+      "lang": "ar",
+      "site": "https://www.alanba.com.kw",
+      "ok": false,
+      "src": null,
+      "date": null
+    },
+    {
+      "id": "the_national",
+      "name": "The National",
+      "loc": "UAE",
+      "lang": "en",
+      "site": "https://www.thenationalnews.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg8/lg/UAE_TN.jpg",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "annahar",
+      "name": "An-Nahar",
+      "loc": "Lebanon",
+      "lang": "ar",
+      "site": "https://www.annahar.com",
+      "ok": false,
+      "src": null,
+      "date": null
+    },
+    {
+      "id": "hurriyet",
+      "name": "Hürriyet",
+      "loc": "Turkey",
+      "lang": "tr",
+      "site": "https://www.hurriyetdailynews.com",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/08/tr/hurriyet.750.jpg",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "tehran_times",
+      "name": "Tehran Times",
+      "loc": "Iran",
+      "lang": "en",
+      "site": "https://www.tehrantimes.com",
+      "ok": false,
+      "src": null,
+      "date": null
+    },
+    {
+      "id": "nyt",
+      "name": "New York Times",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.nytimes.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg8/lg/NY_NYT.jpg",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "wsj",
+      "name": "Wall Street Journal",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.wsj.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg8/lg/WSJ.jpg",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "ft",
+      "name": "Financial Times",
+      "loc": "UK",
+      "lang": "en",
+      "site": "https://www.ft.com",
+      "ok": false,
+      "src": null,
+      "date": null
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian",
+      "loc": "UK",
+      "lang": "en",
+      "site": "https://www.theguardian.com",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/07/uk/observer.750.jpg",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "lemonde",
+      "name": "Le Monde",
+      "loc": "France",
+      "lang": "fr",
+      "site": "https://www.lemonde.fr",
+      "ok": false,
+      "src": null,
+      "date": null
+    }
+  ]
 }
