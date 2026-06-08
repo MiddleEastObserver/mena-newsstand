@@ -1,0 +1,22 @@
+name: Probe front-page sources (diagnostic)
+
+# One-off helper. Trigger it manually from the Actions tab, then read the log to
+# see which cover URLs actually return a real image from GitHub's network.
+# Delete this file (and scripts/probe_frontpages.py) once the winners are baked
+# into fetch_frontpages.py.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install --no-cache-dir requests
+      - run: python scripts/probe_frontpages.py
