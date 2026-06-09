@@ -1,127 +1,66 @@
 #!/usr/bin/env python3
-"""One-off diagnostic: for each paper still missing a cover, fetch its page on
-alternative front-page sites and EXTRACT the real cover-image URL from the HTML
-(og:image meta + cover <img> tags). Runs on the GitHub Actions runner, where
-these sites answer. Read the 'FOUND' lines in the log, then bake the discovered
-URL pattern into fetch_frontpages.py. Safe to delete afterwards.
+"""One-off diagnostic for Al-Akhbar's e-paper cover. Discovers:
+  1. the cover image URL on a known issue page (/newspaper/5796),
+  2. whether /newspaper (no number) shows the *latest* issue,
+  3. the latest issue number (so we can always fetch today's),
+by fetching on the GitHub runner and printing og:image + <img> srcs + issue links.
+Read the log, then bake the working approach into fetch_frontpages.py.
 """
 import re
-from datetime import datetime, timezone
-
 import requests
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
 TIMEOUT = 25
 
-# paper -> candidate page URLs on sites that have dedicated per-paper pages.
-# frontpages.com slugs confirmed to exist: arab-news, le-monde, financial-times.
-PAPERS = {
-    "Asharq Al-Awsat": [
-        "https://www.frontpages.com/asharq-al-awsat/",
-        "https://www.frontpages.com/asharq-al-awsat-english/",
-    ],
-    "Al-Ahram": [
-        "https://www.frontpages.com/al-ahram/",
-        "https://www.frontpages.com/al-ahram-egypt/",
-    ],
-    "Al-Quds Al-Arabi": [
-        "https://www.frontpages.com/al-quds-al-arabi/",
-        "https://www.frontpages.com/al-quds/",
-    ],
-    "Arab News": [
-        "https://www.frontpages.com/arab-news/",
-    ],
-    "Al-Anba": [
-        "https://www.frontpages.com/al-anba/",
-        "https://www.frontpages.com/alanba/",
-    ],
-    "An-Nahar": [
-        "https://www.frontpages.com/an-nahar/",
-        "https://www.frontpages.com/annahar/",
-    ],
-    "Tehran Times": [
-        "https://www.frontpages.com/tehran-times/",
-    ],
-    "Financial Times": [
-        "https://www.frontpages.com/financial-times/",
-    ],
-    "Le Monde": [
-        "https://www.frontpages.com/le-monde/",
-    ],
-}
+URLS = [
+    "https://www.al-akhbar.com/newspaper",
+    "https://www.al-akhbar.com/newspaper/",
+    "https://www.al-akhbar.com/newspaper/5796",
+    "https://www.al-akhbar.com/",
+]
 
 OG_RE = re.compile(
-    r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
-    re.I)
+    r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', re.I)
 OG_RE2 = re.compile(
-    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
-    re.I)
-# <img ...> whose src/data-src looks like a front-page cover (jpg/jpeg/png/webp)
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', re.I)
 IMG_RE = re.compile(
-    r'<img[^>]+(?:src|data-src)=["\']([^"\']+\.(?:jpe?g|png|webp)[^"\']*)["\']',
-    re.I)
+    r'(?:src|data-src)=["\']([^"\']+\.(?:jpe?g|png|webp)[^"\']*)["\']', re.I)
+ISSUE_RE = re.compile(r'/newspaper/(\d+)', re.I)
 
 
 def fetch(session, url):
     headers = {"User-Agent": UA,
-               "Accept": "text/html,application/xhtml+xml,*/*"}
+               "Accept": "text/html,application/xhtml+xml,*/*",
+               "Accept-Language": "ar,en;q=0.9",
+               "Referer": "https://www.al-akhbar.com/"}
     try:
-        r = session.get(url, headers=headers, timeout=TIMEOUT,
-                        allow_redirects=True)
+        r = session.get(url, headers=headers, timeout=TIMEOUT, allow_redirects=True)
     except Exception as exc:
         return None, f"ERR {exc}"
-    return r, f"{r.status_code} {r.headers.get('Content-Type','?')} {len(r.text)}B"
-
-
-def find_covers(html):
-    found = []
-    for rx in (OG_RE, OG_RE2):
-        found += rx.findall(html)
-    imgs = IMG_RE.findall(html)
-    # Heuristic: covers usually have 'cover', 'front', 'page', a date, or live on
-    # an image CDN. Surface the most cover-like first, but show all candidates.
-    def score(u):
-        u_l = u.lower()
-        s = 0
-        for kw in ("cover", "front", "frontpage", "page", "newspaper", "thumb"):
-            if kw in u_l:
-                s += 2
-        if re.search(r"/20\d\d[/-]?\d\d", u_l):  # a date in the path
-            s += 3
-        if any(c in u_l for c in ("kiosko", "freedomforum", "cloudfront",
-                                  "amazonaws", "frontpages")):
-            s += 1
-        return -s
-    imgs = sorted(set(imgs), key=score)
-    return found, imgs[:8]
+    return r, f"{r.status_code} {r.headers.get('Content-Type','?')} {len(r.text)}B  (final: {r.url})"
 
 
 def main():
     session = requests.Session()
-    today = datetime.now(timezone.utc).date()
-    print(f"Probe date: {today}\n")
-    for name, urls in PAPERS.items():
-        print(f"=== {name} ===")
-        hit = False
-        for url in urls:
-            r, status = fetch(session, url)
-            print(f"  GET {url} -> {status}")
-            if not r or r.status_code != 200 or "html" not in \
-                    r.headers.get("Content-Type", ""):
-                continue
-            og, imgs = find_covers(r.text)
-            for u in og:
-                print(f"      FOUND og:image -> {u}")
-                hit = True
-            for u in imgs:
-                print(f"      img candidate -> {u}")
-            if og or imgs:
-                hit = True
-                break
-        if not hit:
-            print("      (no cover image found)")
-        print()
+    for url in URLS:
+        print(f"\n=== GET {url} ===")
+        r, status = fetch(session, url)
+        print(f"  -> {status}")
+        if not r or r.status_code != 200:
+            continue
+        og = [m for rx in (OG_RE, OG_RE2) for m in rx.findall(r.text)]
+        for u in og:
+            print(f"  og:image -> {u}")
+        # Cover-ish images first (contain 'news', 'paper', 'cover', 'front', a date)
+        imgs = sorted(set(IMG_RE.findall(r.text)),
+                      key=lambda u: -sum(k in u.lower() for k in
+                                         ("news", "paper", "cover", "front", "issue", "pdf")))
+        for u in imgs[:10]:
+            print(f"  img -> {u}")
+        issues = sorted({int(n) for n in ISSUE_RE.findall(r.text)}, reverse=True)
+        if issues:
+            print(f"  issue numbers on page (top 5): {issues[:5]}")
 
 
 if __name__ == "__main__":
