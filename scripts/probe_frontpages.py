@@ -1,130 +1,108 @@
 #!/usr/bin/env python3
-"""Downloads today's newspaper front-page images server-side and saves them
-under frontpages/ so the static site can serve them from its own origin.
+"""One-off diagnostic: which Arabic newspaper covers can the GitHub runner
+actually fetch? Tries a list of candidates on Kiosko (today + yesterday, a few
+slug spellings each) and Freedom Forum, and prints which return a real image.
 
-Why server-side: Kiosko and Freedom Forum block hotlinking by checking the
-Referer header, so loading their images directly from the browser fails.
-Fetching them here — from the GitHub Actions runner — and committing the results
-sidesteps that entirely. Everything is then served from GitHub Pages.
-
-Only papers whose covers are actually reachable from a datacenter IP are listed.
-Many MENA dailies (Asharq, Al-Ahram, Al-Quds, Arab News, Al-Anba, An-Nahar,
-Tehran Times) aren't carried by Kiosko/Freedom Forum or block our requests, and
-paywalled titles (FT, Le Monde) are hotlink-protected — so they're omitted
-rather than shown as permanent "not available" placeholders.
-
-Writes frontpages/manifest.json describing which papers have a current image.
-
-Source kinds:
-  ("ff", CODE)          -> Freedom Forum CDN (keyed by day-of-month)
-  ("kiosko", GEO, SLUG) -> Kiosko CDN (keyed by full date)
+Run it from the Actions tab, read the log, then tell Claude which line says OK
+so the winner can be baked into fetch_frontpages.py.
 """
-import json
-import sys
-from datetime import datetime, timedelta, timezone
-from pathlib import Path
-
 import requests
+from datetime import datetime, timedelta, timezone
 
-PAPERS = [
-    {"id": "haaretz", "name": "Haaretz", "loc": "Israel", "lang": "en",
-     "site": "https://www.haaretz.com",
-     "src": [("ff", "ISR_HA"), ("kiosko", "il", "haaretz")]},
-    {"id": "the_national", "name": "The National", "loc": "UAE", "lang": "en",
-     "site": "https://www.thenationalnews.com",
-     "src": [("ff", "UAE_TN"), ("kiosko", "asi", "the_national")]},
-    {"id": "hurriyet", "name": "Hürriyet", "loc": "Turkey", "lang": "tr",
-     "site": "https://www.hurriyetdailynews.com",
-     "src": [("kiosko", "tr", "hurriyet")]},
-    {"id": "nyt", "name": "New York Times", "loc": "USA", "lang": "en",
-     "site": "https://www.nytimes.com",
-     "src": [("ff", "NY_NYT"), ("kiosko", "us", "newyork_times")]},
-    {"id": "wsj", "name": "Wall Street Journal", "loc": "USA", "lang": "en",
-     "site": "https://www.wsj.com",
-     "src": [("ff", "WSJ"), ("kiosko", "us", "wsj")]},
-    {"id": "guardian", "name": "The Guardian", "loc": "UK", "lang": "en",
-     "site": "https://www.theguardian.com",
-     "src": [("kiosko", "uk", "guardian"), ("kiosko", "uk", "observer")]},
-]
-
-OUT_DIR = Path(__file__).parent.parent / "frontpages"
-MIN_BYTES = 12000
-TIMEOUT = 25
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+TIMEOUT = 25
+MIN_BYTES = 12000
+
+today = datetime.now(timezone.utc).date()
+DATES = [today, today - timedelta(days=1)]
+
+# Kiosko candidates: (label, geo, [slug spellings to try])
+KIOSKO = [
+    ("Al-Ahram (Egypt)",        "eg", ["al_ahram", "al-ahram"]),
+    ("Al-Masry Al-Youm (Egypt)","eg", ["al_masry_al_youm", "almasry_alyoum"]),
+    ("Al-Akhbar (Egypt)",       "eg", ["al_akhbar", "al-akhbar"]),
+    ("Al-Gomhuria (Egypt)",     "eg", ["al_gomhuria", "al_gomhuriah"]),
+    ("Al-Watan (Egypt)",        "eg", ["al_watan", "al-watan"]),
+    ("Al-Shorouk (Egypt)",      "eg", ["al_shorouk", "ash_shorouk"]),
+    ("Youm7 (Egypt)",           "eg", ["youm7", "el_youm_7"]),
+    ("Al-Dustour (Egypt)",      "eg", ["al_dustour", "ad_dustour"]),
+    ("Asharq Al-Awsat",         "asi",["asharq_al_awsat", "ash_sharq_al_awsat"]),
+    ("Al-Quds Al-Arabi",        "uk", ["al_quds_al_arabi", "alquds_alarabi"]),
+    ("An-Nahar (Lebanon)",      "asi",["an_nahar", "annahar"]),
+    ("Al-Bayan (UAE)",          "asi",["al_bayan"]),
+    ("Al-Ittihad (UAE)",        "asi",["al_ittihad"]),
+    ("Al-Khaleej (UAE)",        "asi",["al_khaleej"]),
+    ("Al-Riyadh (Saudi)",       "asi",["al_riyadh", "arriyadh"]),
+    ("Okaz (Saudi)",            "asi",["okaz", "ukaz"]),
+    ("Al-Jazirah (Saudi)",      "asi",["al_jazirah", "aljazirah"]),
+    ("Ad-Dustour (Jordan)",     "asi",["ad_dustour_jo", "addustour"]),
+]
+
+# Freedom Forum candidates: (label, [code spellings])
+FF = [
+    ("Egypt / Al-Ahram",  ["EGY_AA", "EGY_AHR"]),
+    ("Jordan",            ["JOR_JT", "JOR"]),
+    ("Lebanon",           ["LBN_DS", "LBN"]),
+    ("Saudi Arabia",      ["SAU_AW", "SAU"]),
+]
 
 
-def candidate_url(src, d) -> str:
-    if src[0] == "ff":
-        return f"https://cdn.freedomforum.org/dfp/jpg{d.day}/lg/{src[1]}.jpg"
-    if src[0] == "kiosko":
-        return f"https://img.kiosko.net/{d:%Y/%m/%d}/{src[1]}/{src[2]}.750.jpg"
-    raise ValueError(src)
-
-
-def referer_for(url: str):
-    if "kiosko.net" in url:
+def referer(u):
+    if "kiosko" in u:
         return "https://en.kiosko.net/"
-    if "freedomforum.org" in url:
-        return "https://www.freedomforum.org/todaysfrontpages/"
-    return None
+    return "https://www.freedomforum.org/todaysfrontpages/"
 
 
-def try_download(session: requests.Session, url: str):
-    headers = {"User-Agent": UA, "Accept": "image/avif,image/webp,image/*,*/*"}
-    ref = referer_for(url)
-    if ref:
-        headers["Referer"] = ref
+def get(session, u):
     try:
-        r = session.get(url, headers=headers, timeout=TIMEOUT)
-    except Exception as exc:
-        print(f"      ! {url} -> {exc}", file=sys.stderr)
-        return None
+        r = session.get(u, timeout=TIMEOUT, headers={
+            "User-Agent": UA, "Referer": referer(u),
+            "Accept": "image/avif,image/webp,image/*,*/*"})
+    except Exception as e:
+        return None, f"ERR {e}"
     ct = r.headers.get("Content-Type", "")
-    if r.status_code == 200 and ct.startswith("image/") and len(r.content) >= MIN_BYTES:
-        return r.content
-    print(f"      - {url} -> {r.status_code} {ct or '?'} {len(r.content)}B")
-    return None
+    ok = r.status_code == 200 and ct.startswith("image/") and len(r.content) >= MIN_BYTES
+    return ok, f"{r.status_code} {ct or '?'} {len(r.content)}B"
 
 
 def main():
-    OUT_DIR.mkdir(exist_ok=True)
-    today = datetime.now(timezone.utc).date()
-    dates = [today, today - timedelta(days=1)]   # today, then yesterday fallback
-    session = requests.Session()
-    manifest = {"updated": datetime.now(timezone.utc).isoformat(), "papers": []}
-
-    for p in PAPERS:
-        dest = OUT_DIR / f"{p['id']}.jpg"
-        got = used_url = used_date = None
-        for d in dates:
-            for src in p["src"]:
-                url = candidate_url(src, d)
-                data = try_download(session, url)
-                if data:
-                    got, used_url, used_date = data, url, d.isoformat()
+    s = requests.Session()
+    print("==== KIOSKO ====")
+    for label, geo, slugs in KIOSKO:
+        winner = None
+        for d in DATES:
+            for slug in slugs:
+                u = f"https://img.kiosko.net/{d:%Y/%m/%d}/{geo}/{slug}.750.jpg"
+                ok, info = get(s, u)
+                if ok:
+                    winner = (geo, slug, d, u)
                     break
-            if got:
+            if winner:
                 break
-
-        if got:
-            dest.write_bytes(got)
-            print(f"  + {p['name']}: {len(got)}B from {used_url}")
-            ok = True
+        if winner:
+            geo, slug, d, u = winner
+            print(f"OK  {label:26s} -> kiosko {geo}/{slug}  ({d})  {u}")
         else:
-            ok = dest.exists()   # keep yesterday's image if today's failed
-            print(f"  x {p['name']}: {'kept previous image' if ok else 'no image'}",
-                  file=sys.stderr)
+            print(f"--  {label:26s} (last: {info})")
 
-        manifest["papers"].append({
-            "id": p["id"], "name": p["name"], "loc": p["loc"], "lang": p["lang"],
-            "site": p["site"], "ok": ok, "src": used_url, "date": used_date,
-        })
-
-    (OUT_DIR / "manifest.json").write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
-    n_ok = sum(1 for x in manifest["papers"] if x["ok"])
-    print(f"\nFront pages: {n_ok}/{len(PAPERS)} available")
+    print("\n==== FREEDOM FORUM ====")
+    for label, codes in FF:
+        winner = None
+        for d in DATES:
+            for code in codes:
+                u = f"https://cdn.freedomforum.org/dfp/jpg{d.day}/lg/{code}.jpg"
+                ok, info = get(s, u)
+                if ok:
+                    winner = (code, d, u)
+                    break
+            if winner:
+                break
+        if winner:
+            code, d, u = winner
+            print(f"OK  {label:26s} -> ff {code}  ({d})  {u}")
+        else:
+            print(f"--  {label:26s} (last: {info})")
 
 
 if __name__ == "__main__":
