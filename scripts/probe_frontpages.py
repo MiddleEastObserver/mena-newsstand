@@ -1,121 +1,127 @@
 #!/usr/bin/env python3
-"""One-off diagnostic: probe many candidate cover URLs per paper and report
-which actually return a real image FROM THE GITHUB ACTIONS RUNNER (the only
-network where the cover CDNs answer). Run this via the workflow, read the log,
-then bake the winners into fetch_frontpages.py. Safe to delete afterwards.
+"""One-off diagnostic: for each paper still missing a cover, fetch its page on
+alternative front-page sites and EXTRACT the real cover-image URL from the HTML
+(og:image meta + cover <img> tags). Runs on the GitHub Actions runner, where
+these sites answer. Read the 'FOUND' lines in the log, then bake the discovered
+URL pattern into fetch_frontpages.py. Safe to delete afterwards.
 """
-import sys
-from datetime import datetime, timedelta, timezone
+import re
+from datetime import datetime, timezone
 
 import requests
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
-MIN_BYTES = 12000
 TIMEOUT = 25
 
-# Papers still failing, with generous candidate identifiers to try.
-#   kiosko geos to try, kiosko slugs to try, freedom-forum codes to try.
-PAPERS = [
-    {"name": "Asharq Al-Awsat",
-     "kiosko_geo": ["uk", "asi", "sa"],
-     "kiosko_slug": ["asharq_al_awsat", "asharq", "asharqalawsat", "alsharq_alawsat"],
-     "ff": ["SAU_AAA", "UK_AAA", "ASHARQ", "SAU_SA"]},
-    {"name": "Al-Ahram",
-     "kiosko_geo": ["eg", "asi"],
-     "kiosko_slug": ["al_ahram", "alahram", "ahram"],
-     "ff": ["EGY_AA", "EGY_AH", "EG_AA"]},
-    {"name": "Al-Quds Al-Arabi",
-     "kiosko_geo": ["uk", "asi"],
-     "kiosko_slug": ["alquds", "al_quds", "al_quds_al_arabi", "alqudsalarabi", "quds"],
-     "ff": ["UK_QUDS", "PSE_QA"]},
-    {"name": "Arab News",
-     "kiosko_geo": ["asi", "sa", "uk"],
-     "kiosko_slug": ["arab_news", "arabnews"],
-     "ff": ["SAU_AN", "SAU_ARN", "SA_AN", "SAUDI_AN"]},
-    {"name": "Al-Anba",
-     "kiosko_geo": ["asi", "kw"],
-     "kiosko_slug": ["al_anba", "al_anbaa", "alanba", "anba"],
-     "ff": ["KWT_AA", "KUW_AA"]},
-    {"name": "An-Nahar",
-     "kiosko_geo": ["asi", "lb"],
-     "kiosko_slug": ["nahar", "an_nahar", "annahar", "al_nahar"],
-     "ff": ["LBN_AN", "LEB_AN"]},
-    {"name": "Tehran Times",
-     "kiosko_geo": ["ir", "asi"],
-     "kiosko_slug": ["tehran_times", "tehrantimes"],
-     "ff": ["IRN_TT", "IR_TT"]},
-    {"name": "Financial Times",
-     "kiosko_geo": ["uk", "us"],
-     "kiosko_slug": ["ft_uk", "ft_us", "ft", "financial_times"],
-     "ff": ["UK_FT", "FT", "USA_FT", "ENG_FT"]},
-    {"name": "Le Monde",
-     "kiosko_geo": ["fr"],
-     "kiosko_slug": ["lemonde", "le_monde"],
-     "ff": ["FRA_LM", "FR_LM", "FRANCE_LM"]},
-]
+# paper -> candidate page URLs on sites that have dedicated per-paper pages.
+# frontpages.com slugs confirmed to exist: arab-news, le-monde, financial-times.
+PAPERS = {
+    "Asharq Al-Awsat": [
+        "https://www.frontpages.com/asharq-al-awsat/",
+        "https://www.frontpages.com/asharq-al-awsat-english/",
+    ],
+    "Al-Ahram": [
+        "https://www.frontpages.com/al-ahram/",
+        "https://www.frontpages.com/al-ahram-egypt/",
+    ],
+    "Al-Quds Al-Arabi": [
+        "https://www.frontpages.com/al-quds-al-arabi/",
+        "https://www.frontpages.com/al-quds/",
+    ],
+    "Arab News": [
+        "https://www.frontpages.com/arab-news/",
+    ],
+    "Al-Anba": [
+        "https://www.frontpages.com/al-anba/",
+        "https://www.frontpages.com/alanba/",
+    ],
+    "An-Nahar": [
+        "https://www.frontpages.com/an-nahar/",
+        "https://www.frontpages.com/annahar/",
+    ],
+    "Tehran Times": [
+        "https://www.frontpages.com/tehran-times/",
+    ],
+    "Financial Times": [
+        "https://www.frontpages.com/financial-times/",
+    ],
+    "Le Monde": [
+        "https://www.frontpages.com/le-monde/",
+    ],
+}
 
-# Sizes to try for kiosko (some papers only expose smaller sizes publicly).
-KIOSKO_SIZES = ["750", "550", "wide", ""]
-
-
-def kiosko_urls(geo, slug, d):
-    for size in KIOSKO_SIZES:
-        suffix = f".{size}.jpg" if size else ".jpg"
-        yield f"https://img.kiosko.net/{d:%Y/%m/%d}/{geo}/{slug}{suffix}"
+OG_RE = re.compile(
+    r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+    re.I)
+OG_RE2 = re.compile(
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+    re.I)
+# <img ...> whose src/data-src looks like a front-page cover (jpg/jpeg/png/webp)
+IMG_RE = re.compile(
+    r'<img[^>]+(?:src|data-src)=["\']([^"\']+\.(?:jpe?g|png|webp)[^"\']*)["\']',
+    re.I)
 
 
-def ff_urls(code, d):
-    # old CDN (day-of-month keyed) — proven to work for ISR_HA/NY_NYT/WSJ
-    yield f"https://cdn.freedomforum.org/dfp/jpg{d.day}/lg/{code}.jpg"
-
-
-def referer_for(url):
-    if "kiosko.net" in url:
-        return "https://en.kiosko.net/"
-    if "freedomforum.org" in url:
-        return "https://www.freedomforum.org/todaysfrontpages/"
-    return None
-
-
-def probe(session, url):
-    headers = {"User-Agent": UA, "Accept": "image/avif,image/webp,image/*,*/*"}
-    ref = referer_for(url)
-    if ref:
-        headers["Referer"] = ref
+def fetch(session, url):
+    headers = {"User-Agent": UA,
+               "Accept": "text/html,application/xhtml+xml,*/*"}
     try:
-        r = session.get(url, headers=headers, timeout=TIMEOUT)
+        r = session.get(url, headers=headers, timeout=TIMEOUT,
+                        allow_redirects=True)
     except Exception as exc:
-        return f"ERR {exc}"
-    ct = r.headers.get("Content-Type", "")
-    n = len(r.content)
-    ok = r.status_code == 200 and ct.startswith("image/") and n >= MIN_BYTES
-    return f"{'OK ' if ok else '   '} {r.status_code} {ct or '?':<12} {n:>8}B", ok
+        return None, f"ERR {exc}"
+    return r, f"{r.status_code} {r.headers.get('Content-Type','?')} {len(r.text)}B"
+
+
+def find_covers(html):
+    found = []
+    for rx in (OG_RE, OG_RE2):
+        found += rx.findall(html)
+    imgs = IMG_RE.findall(html)
+    # Heuristic: covers usually have 'cover', 'front', 'page', a date, or live on
+    # an image CDN. Surface the most cover-like first, but show all candidates.
+    def score(u):
+        u_l = u.lower()
+        s = 0
+        for kw in ("cover", "front", "frontpage", "page", "newspaper", "thumb"):
+            if kw in u_l:
+                s += 2
+        if re.search(r"/20\d\d[/-]?\d\d", u_l):  # a date in the path
+            s += 3
+        if any(c in u_l for c in ("kiosko", "freedomforum", "cloudfront",
+                                  "amazonaws", "frontpages")):
+            s += 1
+        return -s
+    imgs = sorted(set(imgs), key=score)
+    return found, imgs[:8]
 
 
 def main():
     session = requests.Session()
     today = datetime.now(timezone.utc).date()
-    dates = [today, today - timedelta(days=1)]
-    for p in PAPERS:
-        print(f"\n=== {p['name']} ===")
-        winners = []
-        for d in dates:
-            cands = []
-            for geo in p["kiosko_geo"]:
-                for slug in p["kiosko_slug"]:
-                    cands.extend(kiosko_urls(geo, slug, d))
-            for code in p["ff"]:
-                cands.extend(ff_urls(code, d))
-            for url in cands:
-                res = probe(session, url)
-                line, ok = res if isinstance(res, tuple) else (res, False)
-                print(f"  {line}  {url}")
-                if ok:
-                    winners.append(url)
-            if winners:
+    print(f"Probe date: {today}\n")
+    for name, urls in PAPERS.items():
+        print(f"=== {name} ===")
+        hit = False
+        for url in urls:
+            r, status = fetch(session, url)
+            print(f"  GET {url} -> {status}")
+            if not r or r.status_code != 200 or "html" not in \
+                    r.headers.get("Content-Type", ""):
+                continue
+            og, imgs = find_covers(r.text)
+            for u in og:
+                print(f"      FOUND og:image -> {u}")
+                hit = True
+            for u in imgs:
+                print(f"      img candidate -> {u}")
+            if og or imgs:
+                hit = True
                 break
-        print(f"  --> WINNERS: {winners or 'none'}")
+        if not hit:
+            print("      (no cover image found)")
+        print()
 
 
 if __name__ == "__main__":
