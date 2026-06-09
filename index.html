@@ -245,24 +245,19 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
 // loads them from its own origin — no hotlinking — and reads
 // frontpages/manifest.json to know which are available today. "id" must match
 // the ids in fetch_frontpages.py.
+// Only papers whose covers can actually be fetched server-side are listed.
+// Others (most MENA dailies, plus paywalled UK/FR titles) either aren't carried
+// by any reachable cover source or block datacenter IPs, so they're omitted
+// rather than shown as permanent "not available" placeholders.
 const FP_PAPERS = [
-  // ——— Middle East & North Africa ——————————————————————————————
-  { id:"asharq",       name:"Asharq Al-Awsat", loc:"Pan-Arab / Saudi", lang:"ar", site:"https://aawsat.com" },
-  { id:"al_ahram",     name:"Al-Ahram",        loc:"Egypt",            lang:"ar", site:"https://www.ahram.org.eg" },
+  // ——— Middle East ——————————————————————————————————————————————
   { id:"haaretz",      name:"Haaretz",         loc:"Israel",           lang:"en", site:"https://www.haaretz.com" },
-  { id:"al_quds",      name:"Al-Quds Al-Arabi",loc:"Pan-Arab / UK",    lang:"ar", site:"https://www.alquds.co.uk" },
-  { id:"arab_news",    name:"Arab News",       loc:"Saudi Arabia",     lang:"en", site:"https://www.arabnews.com" },
-  { id:"al_anba",      name:"Al-Anba",         loc:"Kuwait",           lang:"ar", site:"https://www.alanba.com.kw" },
   { id:"the_national", name:"The National",    loc:"UAE",              lang:"en", site:"https://www.thenationalnews.com" },
-  { id:"annahar",      name:"An-Nahar",        loc:"Lebanon",          lang:"ar", site:"https://www.annahar.com" },
   { id:"hurriyet",     name:"Hürriyet",        loc:"Turkey",           lang:"tr", site:"https://www.hurriyetdailynews.com" },
-  { id:"tehran_times", name:"Tehran Times",    loc:"Iran",             lang:"en", site:"https://www.tehrantimes.com" },
   // ——— International ————————————————————————————————————————————
   { id:"nyt",          name:"New York Times",  loc:"USA",              lang:"en", site:"https://www.nytimes.com" },
   { id:"wsj",          name:"Wall Street Journal", loc:"USA",          lang:"en", site:"https://www.wsj.com" },
-  { id:"ft",           name:"Financial Times", loc:"UK",               lang:"en", site:"https://www.ft.com" },
   { id:"guardian",     name:"The Guardian",    loc:"UK",               lang:"en", site:"https://www.theguardian.com" },
-  { id:"lemonde",      name:"Le Monde",        loc:"France",           lang:"fr", site:"https://www.lemonde.fr" },
 ];
 
 // Filled in from frontpages/manifest.json at load time.
