@@ -3,14 +3,18 @@
 
 Many outlets' own RSS feeds return 403 to datacenter IPs (GitHub Actions
 runners) behind Cloudflare/Akamai. When an outlet's native feed fails or comes
-back empty, we fall back to Google News' RSS, scoped to that outlet's domain —
-Google News is not blocked from datacenter IPs, so this rescues most outlets.
-Links then point at Google News' redirect, which resolves to the original
-article in the browser.
+back empty, we fall back to Google News' RSS, scoped to that outlet's domain.
+
+Freshness guard: some outlets have thin Google News coverage, so Google returns
+evergreen navigation pages ("Contact Us", "Sports") with years-old dates. We
+therefore sort every feed newest-first, drop anything older than MAX_AGE_DAYS,
+and drop obvious navigation/section titles. An outlet only "falls back" to
+Google News if its native feed has no FRESH items, and we prefer whichever
+source yields fresh, dated articles.
 """
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import quote_plus, urlparse
 
@@ -110,8 +114,17 @@ SOURCES = {
 
 HEADLINES_PER_OUTLET = 5
 REQUEST_TIMEOUT = 20
+MAX_AGE_DAYS = 4          # drop entries older than this (kills evergreen junk)
 
-# Google News RSS locale per language, so Arabic outlets get Arabic results.
+# Titles that are navigation/section pages, not articles. Matched case-folded
+# against the whole title. Google News returns these for thinly-covered outlets.
+JUNK_TITLES = {
+    "contact us", "about us", "home", "homepage", "sports", "sport", "opinion",
+    "football", "roundup", "magazine", "business", "world", "news", "videos",
+    "photos", "gallery", "archive", "subscribe", "advertise", "weather",
+    "e-paper", "epaper", "newsletters",
+}
+
 GNEWS_LOCALE = {
     "en": ("en-US", "US", "US:en"),
     "ar": ("ar", "EG", "EG:ar"),
@@ -134,15 +147,16 @@ HEADERS = {
 }
 
 
-def parse_date(entry) -> str:
+def parse_dt(entry):
+    """Return a tz-aware datetime for the entry, or None if unavailable."""
     for attr in ("published_parsed", "updated_parsed"):
         t = getattr(entry, attr, None)
         if t:
             try:
-                return datetime(*t[:6], tzinfo=timezone.utc).isoformat()
+                return datetime(*t[:6], tzinfo=timezone.utc)
             except Exception:
                 pass
-    return ""
+    return None
 
 
 def domain_of(url: str) -> str:
@@ -157,8 +171,24 @@ def gnews_url(meta: dict) -> str:
     return f"https://news.google.com/rss/search?q={query}&hl={hl}&gl={gl}&ceid={ceid}"
 
 
-def parse_feed(session: requests.Session, url: str, referer: str | None):
-    """Return a list of {title,url,published} or None on failure/empty."""
+def is_junk_title(title: str, source: str) -> bool:
+    t = title.strip().casefold()
+    if t in JUNK_TITLES:
+        return True
+    # "Jordan Times - Jordan Times", "Gulf News: Latest UAE news..." homepages
+    if t == source.casefold():
+        return True
+    # Title is just the outlet name (or name + a couple chars) — a homepage/tagline.
+    if source.casefold() in t and len(t) <= len(source) + 3:
+        return True
+    return False
+
+
+def parse_feed(session: requests.Session, url: str, referer):
+    """Return entries as list of dicts sorted newest-first, or None on failure.
+
+    Each dict: {title, url, published(iso str), _dt(datetime or None)}.
+    """
     headers = dict(HEADERS)
     if referer:
         headers["Referer"] = referer
@@ -169,68 +199,88 @@ def parse_feed(session: requests.Session, url: str, referer: str | None):
         print(f"      ! {url} -> {exc}", file=sys.stderr)
         return None
     feed = feedparser.parse(resp.content)
-    items = [
-        {
-            "title": e.title.strip(),
-            "url": e.get("link") or e.get("id", ""),
-            "published": parse_date(e),
-        }
-        for e in feed.entries[:HEADLINES_PER_OUTLET]
-        if e.get("title") and (e.get("link") or e.get("id"))
-    ]
+    items = []
+    for e in feed.entries:
+        title = (e.get("title") or "").strip()
+        link = e.get("link") or e.get("id", "")
+        if not title or not link:
+            continue
+        dt = parse_dt(e)
+        items.append({
+            "title": title,
+            "url": link,
+            "published": dt.isoformat() if dt else "",
+            "_dt": dt,
+        })
+    # Newest first; undated entries sink to the bottom.
+    floor = datetime.min.replace(tzinfo=timezone.utc)
+    items.sort(key=lambda x: x["_dt"] or floor, reverse=True)
     return items or None
+
+
+def fresh_items(items, source: str):
+    """Keep only recent, non-junk, dated entries."""
+    if not items:
+        return []
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+    return [
+        it for it in items
+        if it["_dt"] and it["_dt"] >= cutoff and not is_junk_title(it["title"], source)
+    ]
+
+
+def strip_internal(items):
+    return [{"title": it["title"], "url": it["url"], "published": it["published"]}
+            for it in items[:HEADLINES_PER_OUTLET]]
 
 
 def fetch_outlet(session: requests.Session, meta: dict) -> dict:
     result = {
-        "source": meta["source"],
-        "country": meta["country"],
-        "lang": meta["lang"],
-        "url": meta["url"],
-        "headlines": [],
-        "error": None,
+        "source": meta["source"], "country": meta["country"],
+        "lang": meta["lang"], "url": meta["url"],
+        "headlines": [], "error": None,
     }
-    # 1) Try the outlet's own feed (own domain as Referer dodges some blocks).
-    items = parse_feed(session, meta["rss"], meta["url"] + "/")
+    source = meta["source"]
+
+    # 1) Native feed (own domain as Referer dodges some blocks).
+    native = parse_feed(session, meta["rss"], meta["url"] + "/") or []
+    items = fresh_items(native, source)
     via = "native"
-    # 2) Fall back to Google News scoped to the outlet's domain.
+
+    # 2) Fall back to Google News only if native has no fresh items.
+    gn = []
     if not items:
-        items = parse_feed(session, gnews_url(meta), "https://news.google.com/")
+        gn = parse_feed(session, gnews_url(meta), "https://news.google.com/") or []
+        items = fresh_items(gn, source)
         via = "google-news"
+
+    # 3) Last resort: if nothing is "fresh" anywhere, show the newest we have
+    #    (still date-sorted, junk removed) rather than an empty card.
+    if not items:
+        items = [it for it in (native or gn) if not is_junk_title(it["title"], source)]
+        via += "/stale"
+
     if items:
-        result["headlines"] = items
-        print(f"  + {meta['source']}: {len(items)} headlines ({via})")
+        result["headlines"] = strip_internal(items)
+        newest = items[0]["published"][:10] or "undated"
+        print(f"  + {source}: {len(result['headlines'])} headlines ({via}, newest {newest})")
     else:
         result["error"] = "no entries"
-        print(f"  x {meta['source']}: no entries (native + google-news failed)",
-              file=sys.stderr)
+        print(f"  x {source}: no entries (native + google-news failed)", file=sys.stderr)
     return result
 
 
 def main():
     session = requests.Session()
-    output = {
-        "updated": datetime.now(timezone.utc).isoformat(),
-        "regions": {},
-    }
+    output = {"updated": datetime.now(timezone.utc).isoformat(), "regions": {}}
     for region, sources in SOURCES.items():
         print(f"\n[{region}]")
         output["regions"][region] = [fetch_outlet(session, s) for s in sources]
 
     out_path = Path(__file__).parent.parent / "headlines.json"
-    out_path.write_text(
-        json.dumps(output, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-    total = sum(
-        len(outlet["headlines"])
-        for outlets in output["regions"].values()
-        for outlet in outlets
-    )
-    ok = sum(
-        1 for outlets in output["regions"].values()
-        for outlet in outlets if outlet["headlines"]
-    )
+    out_path.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
+    total = sum(len(o["headlines"]) for outs in output["regions"].values() for o in outs)
+    ok = sum(1 for outs in output["regions"].values() for o in outs if o["headlines"])
     print(f"\nWrote {out_path} — {total} headlines, {ok} outlets live")
 
 
