@@ -1,10 +1,16 @@
 name: MENA Newsstand
 
 # One integrated job drives everything:
-#   • every 30 min  → refresh headlines.json  (keeps the Headlines tab live)
-#   • 05:05 UTC     → full run: headlines + front-page images + morning email
+#   • every 30 min  → refresh headlines.json ONLY (keeps the Headlines tab live)
+#   • 04:05 UTC     → full run: headlines + front-page images + morning email
 #   • 11:05 UTC     → refresh front-page images (Western editions are up by now)
-#   • manual run    → full run (handy for testing)
+#   • manual run    → headlines only, unless you tick the email / front-page boxes
+#
+# IMPORTANT: the every-30-min refresh is driven by an external cron-job.org
+# trigger that calls the workflow_dispatch API with NO inputs. A plain dispatch
+# must therefore do HEADLINES ONLY — never the email or front pages — or you'd
+# get an email every 30 minutes. Email + front pages only happen on the daily
+# schedule (or when you explicitly tick the boxes on a manual run).
 #
 # Cron minutes are deliberately off the hour. GitHub de-prioritises scheduled
 # runs at :00 under load, which is why the old '0 7 * * *' job kept getting
@@ -13,9 +19,18 @@ name: MENA Newsstand
 on:
   schedule:
     - cron: '15,45 * * * *'   # every 30 min — headlines only
-    - cron: '5 5 * * *'       # daily 05:05 UTC — headlines + front pages + email
+    - cron: '5 4 * * *'       # daily 04:05 UTC ≈ 07:05 Israel — headlines + front pages + email
     - cron: '5 11 * * *'      # daily 11:05 UTC — refresh front pages
-  workflow_dispatch:           # manual trigger (also sends the email)
+  workflow_dispatch:           # manual trigger — headlines only by default
+    inputs:
+      send_email:
+        description: 'Also send the email digest'
+        type: boolean
+        default: false
+      refresh_frontpages:
+        description: 'Also refresh front-page images'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -50,11 +65,21 @@ jobs:
         run: |
           EVENT="${{ github.event_name }}"
           SCHED="${{ github.event.schedule }}"
+          EMAIL_IN="${{ github.event.inputs.send_email }}"
+          FP_IN="${{ github.event.inputs.refresh_frontpages }}"
           DO_FP=false
           DO_EMAIL=false
-          if [ "$EVENT" = "workflow_dispatch" ]; then DO_FP=true; DO_EMAIL=true; fi
-          if [ "$SCHED" = "5 5 * * *" ]; then DO_FP=true; DO_EMAIL=true; fi
+          # Daily full run: headlines + front pages + email.
+          if [ "$SCHED" = "5 4 * * *" ]; then DO_FP=true; DO_EMAIL=true; fi
+          # Midday: refresh front pages only.
           if [ "$SCHED" = "5 11 * * *" ]; then DO_FP=true; fi
+          # Manual / cron-job.org dispatch: headlines only, unless explicitly
+          # opted in. cron-job.org's 30-min trigger sends no inputs, so both
+          # stay false and only headlines refresh.
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            [ "$FP_IN" = "true" ] && DO_FP=true
+            [ "$EMAIL_IN" = "true" ] && DO_EMAIL=true
+          fi
           echo "DO_FRONTPAGES=$DO_FP" >> "$GITHUB_ENV"
           echo "DO_EMAIL=$DO_EMAIL" >> "$GITHUB_ENV"
           echo "event=$EVENT schedule='$SCHED' frontpages=$DO_FP email=$DO_EMAIL"
