@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T16:04:55.354770+00:00",
+  "updated": "2026-06-14T11:47:14.808909+00:00",
   "papers": [
     {
       "id": "haaretz",
@@ -8,8 +8,8 @@
       "lang": "en",
       "site": "https://www.haaretz.com",
       "ok": true,
-      "src": "https://cdn.freedomforum.org/dfp/jpg12/lg/ISR_HA.jpg",
-      "date": "2026-06-12"
+      "src": "https://cdn.freedomforum.org/dfp/jpg14/lg/ISR_HA.jpg",
+      "date": "2026-06-14"
     },
     {
       "id": "the_national",
@@ -18,8 +18,8 @@
       "lang": "en",
       "site": "https://www.thenationalnews.com",
       "ok": true,
-      "src": "https://cdn.freedomforum.org/dfp/jpg12/lg/UAE_TN.jpg",
-      "date": "2026-06-12"
+      "src": null,
+      "date": null
     },
     {
       "id": "hurriyet",
@@ -28,8 +28,8 @@
       "lang": "tr",
       "site": "https://www.hurriyetdailynews.com",
       "ok": true,
-      "src": "https://img.kiosko.net/2026/06/13/tr/hurriyet.750.jpg",
-      "date": "2026-06-13"
+      "src": "https://img.kiosko.net/2026/06/14/tr/hurriyet.750.jpg",
+      "date": "2026-06-14"
     },
     {
       "id": "nyt",
@@ -38,8 +38,8 @@
       "lang": "en",
       "site": "https://www.nytimes.com",
       "ok": true,
-      "src": "https://cdn.freedomforum.org/dfp/jpg13/lg/NY_NYT.jpg",
-      "date": "2026-06-13"
+      "src": "https://cdn.freedomforum.org/dfp/jpg14/lg/NY_NYT.jpg",
+      "date": "2026-06-14"
     },
     {
       "id": "wsj",
@@ -58,8 +58,8 @@
       "lang": "en",
       "site": "https://www.theguardian.com",
       "ok": true,
-      "src": null,
-      "date": null
+      "src": "https://img.kiosko.net/2026/06/14/uk/observer.750.jpg",
+      "date": "2026-06-14"
     }
   ]
 }
