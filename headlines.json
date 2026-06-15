@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T22:00:43.057117+00:00",
+  "updated": "2026-06-15T22:30:38.330378+00:00",
   "regions": {
     "Gulf": [
       {
@@ -8,11 +8,6 @@
         "lang": "en",
         "url": "https://www.arabnews.com",
         "headlines": [
-          {
-            "title": "In US, Trump’s Iran deal receives mixed reception - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaS1dWalVuNWhUWDVPOEJITnZLOE8xQWtrdGluaGNSODRRNTVkelZhZE5RajNUX01FdmJWOU5pRnBpanlxMlFnUjh0NWtBM1Ewc09N?oc=5",
-            "published": "2026-06-15T20:48:15+00:00"
-          },
           {
             "title": "Somaliland opens embassy in Jerusalem - Arab News",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAydEUwSjBfVzF0c0U4dEFMOGpOOFZzRDQtTnFtR2lDMFF2d3ROMU9uZUtBZnFiS3ozYjRmWTV5M1FEOEo3V2hTbkFmQTdCaEJxajBV?oc=5",
@@ -32,6 +27,11 @@
             "title": "Qatar’s goalkeeper Abunada enjoys ‘most beautiful moment’ at World Cup - Arab News",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGcUJLeFdTbzVOd2dfZ240dDdHbnhoSHQzUHBKQ2xPamVZZTNaa3Y2MWk2WmNFTU5sLXFZa1N3UGwyd0F4R0ttYWRsbFZSb0pNcjVz?oc=5",
             "published": "2026-06-15T19:33:01+00:00"
+          },
+          {
+            "title": "South American teams start off on the wrong foot - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kOV9fZFdSSFZ1enoydmg2QTQ2ZE1DdVVIclZJbGVIOV9yUTBVbG45MUxkQXZWb2Q2c0JhUWhNY3IxaXJjRnIyRmF3YWMxUExodkNF?oc=5",
+            "published": "2026-06-15T19:18:52+00:00"
           }
         ],
         "error": null
@@ -77,7 +77,12 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "Hormuz passage limited: Underwater mine threat, war-risk insurance remain high - Gulf News",
+            "title": "Oil prices crash: Sell-off comes after US–Iran de-escalation, preliminary peace framework - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMlhZdWlVaU1qT3VibTFyY1p4TFBBUHNzekg3MU9Bc2ZEMk5EOXpsTXllQm1lckRRNU1SdThjamRBRTZ5bURSeEJMT2s0SzY0azBvVUhYWmNoSU53RkdQUFhCN1ZnUThyd0pxdzZzaWVKNXlZZDlFZW5tTlFYRnU1c3ZVa3dLUGZnRi1vYkltRWxLM3ltVG1nbnZTSnVCMzZVd3VSc2RkSHEwQjBva1RoY2wtb2VYRFBPVVM1ZFE1blJDRXZEVVJlTHUwemhBM2tY0gHjAUFVX3lxTE1DVjhGQ25GazZPeTZNOW1LdHA3WWVULXVvUTI4UXhBbU80S3ZuQlhXTmVRVVBCcTlhX3dKM0Vmck5VbUMzcWpQbTRIT3JOZ0twempiQWt4Q1lrb2EtSWcxQTN5b0tlVUM4T2xCQW1zTzc1UXJlWG8wMXo4ZDQyTTAxZ0NaVVJ6VEhIc0V4SVVUNTJoYVNEclZSWU9PQ1ZQVGo1cGlRNGpqXzEtVDFhdzFQcUhlUGtGamNHUzY0M1oxbW1oazZNUldqMWxnaWZSTTlnSmJvNjFSRV9mSGFRNkw3SVBV?oc=5",
+            "published": "2026-06-15T22:11:02+00:00"
+          },
+          {
+            "title": "Hormuz passage: Underwater mine threat, war-risk insurance remain high - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGJ5Ty1YVHpGaXB3SFZCWEptT2dObW9zUGFzaWlIN0VybXJUQTdVR1dwV3QycS1ZamdKVzB1NVRPYWpEaHZuczdEWk5XVi1OUGhTUzBiTTEyZzVBX0huVkhvU3cyc01lOEtfdWstQ0JiTVozNk9Bb25zVElNSmFUUHo5VTJ0U0tKZUc4ZUMxUVNjQmVQYzJLR2VmeXQwN1F0SWd4djNiQ21ja094RDBHYmg1b0tqQUVEUlEwX9IBzwFBVV95cUxOdmxud3JpR19BRno2ZWJFdk1LQjc5UVg0dDZvR3pscU1TbGtBNHhMT1hBMlQ3QlJ1Q3daOWRUY3BNWkl5M3B2M0dQNFJibUZuSEdNZmlMM2NVQ3F5M09zcE54a0FzMl9OQUJoNzl1ekoxeW1NY3pyOHJYWXotV1JqNG1NUWFUUFNiU3ZpUzBKM3J2aW12czFJTkpJMkRETmJmdmdHSDNZWTRUTExCSEk5U1ZNZ3RMa3hBSVlGVUg4Wlg3by1qYWFyYXNQajVpSDQ?oc=5",
             "published": "2026-06-15T21:38:14+00:00"
           },
@@ -95,11 +100,6 @@
             "title": "Etihad’s biggest summer yet: 300+ daily flights, new routes and returning favourites - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTFTY1hCNmcxTjJUd25RdmpvblYxWF9zVnUxUThmbXdDY1E4aHBpXzBrT1dCZGJITjlhWi1EdTI4M3JmdHBzVU1fUi1EZVZNRGNpc3ZCa0FvOTBsc2NTMTJveGg5VEtqODVVU2x6SmhOREwzVlVKN0JWZGVSeklqeE5KU21zSHhtc3BXdnVlQ2ZnSTUyRGUySTc2TjQxZ3oyMjVTbzVOblEwekoxR0tNZGFYSDBia1lCbWxsR0VQMWJ4d3BtMUJGbjNMWdIB3gFBVV95cUxPdHd0N2FncjBObUhRVE1ETVdJMDJ0aUdpenlydzYxYW43WDl3YmlrMi1fNUhUdnpZbzNCeS1ZanJLeEZ6VU03Qk55MGw2SGlndUVzenp4TjRhTFJSclU4aTJWRGtySV9uZWNPRmFoanlCa3lzZjhXajA2QnpLTF9oazVLbXZ3V1B6dVlDSGRXTE56c1RwX3JTRm9haVljTnVuSnZybWhWcmxDLWhnRWRjODlqRDVTOWJpaGFydTZGVDg0bWtwVnZRZEl1bGlhWUZGdE54NGk1TmNQbHEwd0E?oc=5",
             "published": "2026-06-15T20:00:32+00:00"
-          },
-          {
-            "title": "UAE emerges stronger and more confident following US-Iran understanding, says Gargash - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2UzWjNiVnhwQjNodW9yMHZ0ZFZkSzVKZTh0MEY1anAtbzhNWmZLYVZla3JYTUtRRlNISzNxczJJYUxKYmIxQk5qNVR0dVd0ZVV2V0hWQlotdlJUd01UMjlUdjJhU0FxSFk2ZjdBLU5GNE0wV2FsdDh4dWlVMUZ1RWFZdXk1ZnBYTk9fYTk4RDdBcmVGdVB5elY4QThZcXk3WlBKVGVrX3Z0OC1rVmlFTlYzZS1mZDJEdkg4V25IcFdQeElZTkkzWW1mdjRvQdIBzgFBVV95cUxNQ2UzWjNiVnhwQjNodW9yMHZ0ZFZkSzVKZTh0MEY1anAtbzhNWmZLYVZla3JYTUtRRlNISzNxczJJYUxKYmIxQk5qNVR0dVd0ZVV2V0hWQlotdlJUd01UMjlUdjJhU0FxSFk2ZjdBLU5GNE0wV2FsdDh4dWlVMUZ1RWFZdXk1ZnBYTk9fYTk4RDdBcmVGdVB5elY4QThZcXk3WlBKVGVrX3Z0OC1rVmlFTlYzZS1mZDJEdkg4V25IcFdQeElZTkkzWW1mdjRvQQ?oc=5",
-            "published": "2026-06-15T19:32:22+00:00"
           }
         ],
         "error": null
@@ -111,29 +111,29 @@
         "url": "https://www.gulf-times.com",
         "headlines": [
           {
+            "title": "Trump: Prelim Iran agreement to end the war already signed - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QSGxCYTlKalFtRm9QQzlwT1dDUUt6eG5tMnlsd0pYRnJBY1hRLVdpUWlCWkJaM3JOZ1Z1QkY0ZWZaOG5XblFFeGRUNVJ5THhWczI5ckFQTmpkaU9sQWxMRTRLR0hMMGlwQ1E5clpSYVk2eW1tSWc4c2xUWQ?oc=5",
+            "published": "2026-06-15T22:02:56+00:00"
+          },
+          {
+            "title": "GULF TIMES - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVmsxbGlfZEtFNG8zaWxwb19NRWZEaVZyVnpqalVtMk91dGRaSS1QVmRtckVaZ243a0RuVnh0QW5RallPaUVHWnhpVDJPdG1ha2lvWDEtNl9VQzBLTm0wcFFhTG1fRGtqaXFUaXotdEd6angtMEM3cW9VM1Q5ZGQzcg?oc=5",
+            "published": "2026-06-15T22:01:16+00:00"
+          },
+          {
+            "title": "We never stopped believing: Khoukhi after historic point - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3MFFockFWVFlHbGJjUmt4My1PQUxkZ3l1Y1RPamZDc1JtYW5uUEkyRW5jaHdyeDFGQjZLS25JZzRLeWdoVW9LMklVTEt5YjVvaDZDUGZDcWNHUWtoczdKQ2YyTGZLblZWQXlHVE9hWDJ1clpXSXYydWdleHM?oc=5",
+            "published": "2026-06-15T22:01:13+00:00"
+          },
+          {
+            "title": "Cartoon Corner | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXJlMjVFV0RoLTlnOV9aanpGVEpMUWZrdzdEU3V2OF94MkkwdGxzZUhIam5UZGx5WHB1OEZfcWIzZTBYU1ZXZlJrNnl2akZ4dWtoUnZCb0dPOHA4dzdZdU41N2dwZGkxYmo3M3JNWTZOMjVVbld1dmVHVFZjMjc5SEJKODREUdIBiwFBVV95cUxPOEgxQlBzbmtLZWdjNmpKeHFrU2hlV3Z4UEk1bldmQTFDbVVLaTNUVmZWSmdWVDhpV3V3d25ScHU3VnB4MGNlQnQ5Z2xLOEQ4YS1wQzFfVnBDOEg4SjdPbDZkNTZiZTU3X1luY2x2alFWMlZyVHhObktucUtDV3B0WFZRSEtBeVNVOHhz?oc=5",
+            "published": "2026-06-15T21:38:00+00:00"
+          },
+          {
             "title": "SECRETARY - Gulf Times",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUlEQ04wblpaQkVNWWxFcko3dTRJRXBydUgyUEZROWU5NF84UnlNM3NFczJHVF9aZWpEdV9qcHZ3M1FQQ3J1WGprUHd1WkswTG0ySUVUbVJ5NGliVWxtSW9tLUF4UmZkLUxGWHpQY1VZcFFzei05S0E5bzFtNGZKM3l6Yw?oc=5",
             "published": "2026-06-15T21:00:17+00:00"
-          },
-          {
-            "title": "US Air Force B-52 bomber crashes on takeoff | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRG44U09YUW1uaHM3Z0JEOUpnN0tseV9sWHFBOTE3QjhQM0dfZkQxbnlLbnN4MW9LTWJHZTE0dldwZjFnajZaWkxrVmJtMkR0VldsTjRMRnN6aTVVdm5XY1R2ZUktYWpLbGMyemxJcE1WUkdZVW5ubERyWHJoWS1ud3NsbGhZc2JXUFhUTTItUkJfYjl1aHYyazZDeXplWHJVVW5OZ3U0MXhXbUREaTk2Qk9TN1FLQdIBuwFBVV95cUxPTVdkcjR6cWRmemQ2dXhFY3Z0X0I2N3d1eXl1RlNTaTZWZGVMcVJCZTFJN3RvZ0F2QVRkUGhUSzJ4aU5FY3lqbGRHY3FJRlF1NHU4VUtSVTlxUndDNmpraUVuRi1GOTRITjZwZmZ4R3BUbnZmaXIzLUZuTFRfS1pxdmlaM1JiWWo2cG1abzFoYVVvS1hPZWVMMENMa1h0amptelpGRE5LMDZzT1hheWd5dmNQU2ttQWFlRDVZ?oc=5",
-            "published": "2026-06-15T20:48:00+00:00"
-          },
-          {
-            "title": "Tamim bin Hamad Chair at University of Granada | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3dYcHFqUFMtVTdEd0d3ZnJBSmxWOFI1Y01HZ0pzLXIyWVJvaHhsTXVNU2gweE0wS0Z1SG1leGxoZEpDQVpxTTVXNWFqVmI4XzMtOFNLTEdlSWtnUlprd1ZscjBhU3ZlN3BocFVTRHN6RnBRSFBOeUxvamo1VUwtUXNuNHo2dlZ2X2xHY0tWczVPRmJIb0NXMFFhbkdnWTjSAZ8BQVVfeXFMTkt3WHBxalBTLVU3RHdHd2ZyQUpsVjhSNWNNR2dKcy1yMllSb2h4bE11TVNoMHhNMEtGdUhtZXhsaGRKQ0FacU01VzVhalZiOF8zLThTS0xHZUlrZ1Jaa3dWbHIwYVN2ZTdwaHBVU0RzekZwUUhQTnlMb2pqNVVMLVFzbjR6NnZWdl9sR2NLVnM1T0ZiSG9DVzBRYW5HZ1k4?oc=5",
-            "published": "2026-06-15T19:52:00+00:00"
-          },
-          {
-            "title": "tag - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iNjVYeXlDN2JnMFJTVmR4Y2s1UTZRQVBxQkpaMXVlczR6T2l2OW1LdGRkcnVKRUFNQmxoa0NfNnZVTnVHMkw0WnFCN3FwemhFWkFBdDdCc0tYX3JjT0JPUlRrLTJrYnpO?oc=5",
-            "published": "2026-06-15T14:09:39+00:00"
-          },
-          {
-            "title": "Open letter calls for Nobel Peace Prize for HH the Amir in recognition of global peace efforts | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmJhVmN1TUVuaEtfbWVDMnpDeWdRS2w0MlBONk5TcEYtWXQyU2lqSGJTbWFWQ2pOSjFEcVVZbGlUQTd2LTdDb0E0R3Jac3pBT1ZZYWNCc3NseWc5Y1F4NnJKOVg2WkszZUFjaC1IUFAzY0UyUERiS0xzRGJ1eFFTdWI0MWxtaGVBTVpBVHVjYnQ4TTg0dWN4c3pNc0p0cm1BQTJKRC1UaF96T2ZhV1RvUDhDRzFFaTMtaHNjMmJjNktyMjNEcVhLZ01PVUt1MTlXX1dwNEJQeHBoQdIB3wFBVV95cUxOdXJuU0JqeTRqUkYzMVRwSzZiM3AyM1pNYW1PS0R2OGZDZGJSNzQ4Q2xMeXBjd0g3OVBQblFGeENUUjFMaHRsZkU1bkRWZmRTZTJrYWJGMTlQZF96Tzc1TmV4YlVYby1NNlRqSEpUUDBFUVNqM0x5OFF0RGhxMVFuOFA2bHY4bkZSdGFXdEdsVDhsNjlIQ2lNYm85eTM2bm81VVRyMWNPMXdDR1RvdzlEMWJUb1VNdlhmMVlQMkpNRjMxUm9BTWpiMWlZOFZYRU9RQW5WM0w3cWhRbkhPSElN?oc=5",
-            "published": "2026-06-15T14:05:00+00:00"
           }
         ],
         "error": null
@@ -309,7 +309,7 @@
             "published": "2026-06-15T22:37:52+00:00"
           },
           {
-            "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+            "title": "Eight presumed dead following US Air Force B-52 bomber crash, Edwards Air Force Base says",
             "url": "https://www.jpost.com/international/article-899522",
             "published": "2026-06-15T22:21:20+00:00"
           },
@@ -338,6 +338,16 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
+            "title": "IDF says Hezbollah attacks on troops in south Lebanon continue; no injuries caused",
+            "url": "https://www.timesofisrael.com/liveblog-june-16-2026/",
+            "published": "2026-06-15T21:57:26+00:00"
+          },
+          {
+            "title": "Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved",
+            "url": "https://www.timesofisrael.com/netanyahu-avoids-criticizing-us-iran-deal-claims-wars-main-goals-have-been-achieved/",
+            "published": "2026-06-15T21:52:20+00:00"
+          },
+          {
             "title": "As war ends, Iran’s regime now has to face its own angry, embittered people",
             "url": "https://www.timesofisrael.com/as-war-ends-irans-regime-now-has-to-face-its-own-angry-embittered-people/",
             "published": "2026-06-15T20:52:59+00:00"
@@ -351,16 +361,6 @@
             "title": "US says Trump, Vance and Iran’s Ghalibaf ‘digitally’ signed Iran deal on Sunday",
             "url": "https://www.timesofisrael.com/us-says-trump-vance-and-irans-ghalibaf-digitally-signed-iran-deal-on-sunday/",
             "published": "2026-06-15T19:44:39+00:00"
-          },
-          {
-            "title": "Knesset panel votes to grant Gotliv immunity for exposing Shin Bet officer’s identity",
-            "url": "https://www.timesofisrael.com/knesset-panel-votes-to-grant-gotliv-immunity-for-exposing-shin-bet-officers-identity/",
-            "published": "2026-06-15T19:13:09+00:00"
-          },
-          {
-            "title": "Gulf states could be left in the lurch and exposed by the US-Iran deal",
-            "url": "https://www.timesofisrael.com/gulf-states-could-be-left-in-the-lurch-and-exposed-by-the-us-iran-deal/",
-            "published": "2026-06-15T18:34:03+00:00"
           }
         ],
         "error": null
@@ -371,6 +371,16 @@
         "lang": "en",
         "url": "https://www.haaretz.com",
         "headlines": [
+          {
+            "title": "Jewish-Arab movement Standing Together launches Knesset run with new party - Haaretz",
+            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPN1BoUkxkdWtYSVhHX2dpSXVTRjRvaWpzZ0ZLLUtvNG4xSTNxMjVRS1RLeXFrOHpDdVpZM1lsUnZleEwwZElDYVJZWDZUMWZQZ0RObmVTYl85WENWbkltZDBFb1Z0NDhNaHhnRTJYOTRzTFlPVzBfM2t2elY3WjhYSDIxdXN1U1R1U1dFbngzcEdhLUNQZXBpT0JSdWl2WllITzJGLUFLckpYYzAwSlE0QzlLOWV3VDhFSU0zdGc0aEhURGVUWUVmRlM0M2hUUGxZMVV6THVVRjNUZWZxVGVRbDNIU1BUMUd2M25OSjVlSkwyV2FHV2J0a2FFNGtVUll5TXdURC0tclhZemFnZUFQeHlFdElQSkxCZk5ObEcyaw?oc=5",
+            "published": "2026-06-15T22:24:00+00:00"
+          },
+          {
+            "title": "A Government Addicted to War, Blind to Its Limits - Haaretz",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODdRQzh3czZ6VnJPd0phb0ZzbEF3SGpmYUZSa1VVbHFCUkNJdzRHbXNfelpNOWk4ZzZ6NHRCNXBaZXRjYlNsSFh0dHZQUk5wRmNBd1lSbkRQMGxQUnBudDFSdDhfa0VNYVFYaUR4Q1hlaDJXTmdsOTVQS0YzSWNhbjd1NHVFV0lvTTVJSUpkalFndENqQ2p3RUlza1ZvYXlYUlh4REs2SFZQVEY2eXE0dzU5Vi1YelowREluczQwLTlGQ2t4U3J5TmR0RG9ERU83MVJwZGVkYk1WUHNVdjQySk5IWFppSXdwOVRTcExR?oc=5",
+            "published": "2026-06-15T21:58:00+00:00"
+          },
           {
             "title": "Ben-Gvir cancels family vacation to U.S. after difficulties with travel visa - Haaretz",
             "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNSFhtcXEwdUc1cTV4UURKNTl0cmg5Yk9JUjBQemppYUFfYXMwWjFhLUhDR2xiTFdlWmNNdTRWbElVXzNCcmFkdVdoeFF3b1ZNVFJySHNlTUdXQWVqSDN1bkZPUnZkc3hlM0VjcndUS2M1TXVTOGdYQjhYN2FiejVPMk5WY0dZZDUwdHJLR2Etc3BmVEJpV0xZTmo3Wl9VV1VwZmVnRzJYVE9TVC1TZHZPc2RXNlAzNFMyOWpDcFc3Tnk3UzN4YjNhRURTcTRiUVpSeXVwckpLdEdZSE9uRkpJclZ0VE94SEM0azVHWWtQLW9SWkVVc2xielpoZlpBUFNjTGVxSlA4UWFNZlVxTTY1cEM0WlNCZXBmU1hZdUFmT0E?oc=5",
@@ -385,16 +395,6 @@
             "title": "New guise for old reality? U.S.-Iran deal raises questions and fears in Lebanon - Haaretz",
             "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOSGRiSmd1c1hxX2F4NHV5a3RIR3NsdnRMTmdhZHZzS0JycElJVF9MdXFRRXp6aFFHSV8wQVZaekRqQkpPbUcyRExOMnYzYXlQdEtKczFLSEVGUzBwMW1TenJwdXkxVnczYWpVcEpKRkQyZnprZmlzS19RUTJGblYxRGh5b0RKdld0TmIwWUpkTFllbEVIeEhiWWdPcDk0RUc5VHZJNDM2NDdvSXVoSkQwNE1EQVJCNktTVUdhRGtBdFdJSEtxejdTdmpzNTI5RGlPZUxGdHo5UWV2UXZXdlFISmhGcTBfTmd0a0V1YmdOVHBGdHBuWTN5MV9Ub3lhMUlOSmJ3dkx4ZGhmU3NWUTROM1gzVXdaRVAzRHZiTWxXRnNJc3M3?oc=5",
             "published": "2026-06-15T20:57:00+00:00"
-          },
-          {
-            "title": "For This Government, Political Suppression of Israel's Arabs Is Just the Start - Haaretz",
-            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWXlxemxnTlJ6Z0VjNENmdk5idm9vX2FHdkYtYlFGZWFGbVA1cGRwNjF3SEhxTXRQdUVrZnJoY2QyOGJzRVhZejRocmJPYVFQOWZkYlc2WDBvYk9Dd1RxX0NCOXFza0FxXzRRNU0zUUFkS0FBN0RwcTZwaHF4VlZSU3A3ek5FWVp5dFhqMDZFY0o3TmZHcExEX19YXzE2V1hYSmtaWUEyNUVZeTJCdUlqRDhPZGpfa180dzR3VWktTEFkNVJpRWg0WjlHNTBxQkxqOE1saHFuN01BQUtYQlVoYnp1T29yVjFhSzBpVjNJRHdhSmdwb093RnVHbGl5WHpDV0lRYU9rZlI2eUVzb1NUNmp6dTZhR2kz?oc=5",
-            "published": "2026-06-15T19:44:00+00:00"
-          },
-          {
-            "title": "Israel Is Turning the West Bank Into Gaza. There's Only One Way to Stop It - Haaretz",
-            "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOc29sUGpBcVJGNmk5SnJaUE1wanN2cTNqb2FSWUZnZk92SnlGcFJra1lSWGdFWFRxRWRrUTZrMm5DVFp5OEx6MWNieFBZQU9MRlY4THdYMWZhOUpqV1B3Y3EzSFdzWVVEYzVwdXlIcUF0UzMyQWxNb0NoaUpOMVlxdUFuOF9UcGJWNVFRSXZ3OUhxbmVKNkxsNHQtLVlxMjNqWFdYMHlmeHVxYTlCT0hrQWM0S0xQSWFTWElXT09wNktTbTB0Rkw4SUNFbzZYdEFzV2ZiSnJRQlFzQTFjUEVVb2k0S3dtNjZicDNiSTRKWmc1TU5HZklfSEhZQllNZ2wzS2xBZTFnZE94REl3a2xOcm5zRnlyZkxtMzh1ZQ?oc=5",
-            "published": "2026-06-15T19:18:00+00:00"
           }
         ],
         "error": null
@@ -413,7 +413,7 @@
             "published": "2026-06-15T21:36:22+00:00"
           },
           {
-            "title": "Egypt draw 1–1 with Belgium at World Cup group-stage game",
+            "title": "Egypt draw 1–1 with Belgium at World Cup group game",
             "url": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss",
             "published": "2026-06-15T21:23:40+00:00"
           },
@@ -477,7 +477,7 @@
         "headlines": [
           {
             "title": "Trump’s Iran accord offers exit from war — and fresh political risks - Al Arabiya English",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnlfUUhjT05Xb1VRWWlycHVXWjIyU0ozZkJqLWw0N1AyS0xkaUxqUGR6VlM5c002VXhmWHVvTHFHckhRZmNxcko5WGVvUUN4cmhRQjlMbHdPaVNpdGlMWGMteGtqb0t2Vk8xZmlMdlNZUlY3SXBYQlFObVhlUmNtTjNZa0F4Q3J5WkJKOS1ldVpVck1YZTZjSmFEdXNrc2hFWVlnbmx1MDhHZ2lpRllBTloxNUh3dlRUMmw5UXBIRlVqQdIBxwFBVV95cUxQeGVCRmRDVG5yZDJGbXBwcTlhWWFlYzJqcnk0NGR2WlpiRUpMLW9jRi1udXMxNmdTTzJMaXJvVGRDU2I2cG5YUGVBWUZNQzdqWEx5WEFVczdKNUY4Vl9IUi11NkhnZ3Y4NXhZU2RTSVVzUzJmZUp1N2RtOGNjakVfMXRqaHRrZlNLUWpnZm1LZVE5NjR2eXBnUmtPZU85ZEJyeHBLU0ZKTk82eFd2VnY0OHFrMGNWSW1xc3ljX1lPczVxdlhkMlVZ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGVCRmRDVG5yZDJGbXBwcTlhWWFlYzJqcnk0NGR2WlpiRUpMLW9jRi1udXMxNmdTTzJMaXJvVGRDU2I2cG5YUGVBWUZNQzdqWEx5WEFVczdKNUY4Vl9IUi11NkhnZ3Y4NXhZU2RTSVVzUzJmZUp1N2RtOGNjakVfMXRqaHRrZlNLUWpnZm1LZVE5NjR2eXBnUmtPZU85ZEJyeHBLU0ZKTk82eFd2VnY0OHFrMGNWSW1xc3ljX1lPczVxdlhkMlVZ0gHHAUFVX3lxTFB4ZUJGZENUbnJkMkZtcHBxOWFZYWVjMmpyeTQ0ZHZaWmJFSkwtb2NGLW51czE2Z1NPMkxpcm9UZENTYjZwblhQZUFZRk1DN2pYTHlYQVVzN0o1RjhWX0hSLXU2SGdndjg1eFlTZFNJVXNTMmZlSnU3ZG04Y2NqRV8xdGpodGtmU0tRamdmbUtlUTk2NHZ5cGdSa09lTzlkQnJ4cEtTRkpOTzZ4V3ZWdjQ4cWswY1ZJbXFzeWNfWU9zNXF2WGQyVVk?oc=5",
             "published": "2026-06-15T20:23:00+00:00"
           },
           {
@@ -492,7 +492,7 @@
           },
           {
             "title": "Analysis: Netanyahu and Trump on collision course as US, Iran agree to halt war - Al Arabiya English",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYkY3alBNdzdub1dHaFNxUUZNdFJNR0ZKNzRYM1oyUHZSSzJxTTJGUVRjei0wQlBBb1hENEFYd1hMelBhM2FTeDcyZFpZd2w2TEVzaUtFeHNqRWh5U2ZJaDZXWDliS2swYlU3TG5GMG9CVUxpaFNuWndCTExEdVJLZEhXMTE5cGt5OGpvQkVPR2pGUklhSGFoNXh6UWt2MGN4VnhyWjFiUmhBN0pMU080SkRoZjIwSFZsYk9zdUFsM1JkWmlpeTFjVHlBUWUtVG5DdEN6TW530gHWAUFVX3lxTE5iRjdqUE13N25vV0doU3FRRk10Uk1HRko3NFgzWjJQdlJLMnFNMkZRVGN6LTBCUEFvWEQ0QVh3WEx6UGEzYVN4NzJkWll3bDZMRXNpS0V4c2pFaHlTZkloNldYOWJLazBiVTdMbkYwb0JVTGloU25ad0JMTER1UktkSFcxMTlwa3k4am9CRU9HakZSSWFIYWg1eHpRa3YwY3hWeHJaMWJSaEE3SkxTTzRKRGhmMjBIVmxiT3N1QWwzUmRaaWl5MWNUeUFRZS1UbkN0Q3pNbnc?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd2x1dkNuQVQ4b0NBUFBRZEczaTBEVkFpck5XQzBuNS1tTWNtM0tHZ1FwOXAwQ3M4TmY3N2psQUdHMGoyUUx0SlVWRzFoNEJyRWxIejZXUVJwdW4zckhjS2JtYS1QdW9GMmJWZjdQeEVWeEltQ0NweTBwM3VtTU1JOE1KQnhDZV9xcVAtVmVWLXhiWUdCOWV0a1hxdWpWQzdIcEtiMm8zYmVKSUtpbE5WNWJBelUwbGt4UjlqSWhsam1xLVFCa1VqTGFjbF9pZEpB0gHWAUFVX3lxTE5iRjdqUE13N25vV0doU3FRRk10Uk1HRko3NFgzWjJQdlJLMnFNMkZRVGN6LTBCUEFvWEQ0QVh3WEx6UGEzYVN4NzJkWll3bDZMRXNpS0V4c2pFaHlTZkloNldYOWJLazBiVTdMbkYwb0JVTGloU25ad0JMTER1UktkSFcxMTlwa3k4am9CRU9HakZSSWFIYWg1eHpRa3YwY3hWeHJaMWJSaEE3SkxTTzRKRGhmMjBIVmxiT3N1QWwzUmRaaWl5MWNUeUFRZS1UbkN0Q3pNbnc?oc=5",
             "published": "2026-06-15T19:11:00+00:00"
           },
           {
@@ -509,6 +509,11 @@
         "lang": "en",
         "url": "https://www.newarab.com",
         "headlines": [
+          {
+            "title": "Israeli forces kill four in Gaza ahead of truce talks in Egypt",
+            "url": "https://www.newarab.com/news/israeli-forces-kill-four-gaza-ahead-truce-talks-egypt",
+            "published": "2026-06-15T22:22:38+00:00"
+          },
           {
             "title": "Netanyahu defends Iran war amid fury in Israel over peace deal",
             "url": "https://www.newarab.com/news/netanyahu-defends-iran-war-amid-fury-israel-over-peace-deal",
@@ -528,11 +533,6 @@
             "title": "Trump's Iran deal receives mixed reception in the US",
             "url": "https://www.newarab.com/news/trumps-iran-deal-receives-mixed-reception-us",
             "published": "2026-06-15T20:41:14+00:00"
-          },
-          {
-            "title": "Palestinian leader Abbas announces presidential election in 2027",
-            "url": "https://www.newarab.com/news/palestinian-leader-abbas-announces-presidential-election-2027",
-            "published": "2026-06-15T18:36:51+00:00"
           }
         ],
         "error": null
