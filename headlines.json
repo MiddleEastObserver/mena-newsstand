@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T01:00:39.274339+00:00",
+  "updated": "2026-06-18T01:30:31.719541+00:00",
   "regions": {
     "Gulf": [
       {
@@ -8,11 +8,6 @@
         "lang": "en",
         "url": "https://www.arabnews.com",
         "headlines": [
-          {
-            "title": "Macron deploys Versailles’ gold, mirrors and history in a high-stakes courtship of Trump - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9INndtZ3dITXJTX3Y2ODVuMDlkWWJLUDhGckxoZlVrcW1SUGplVnJONzNsUmNrXy1mT0lsaXZUZDlMNW9TNXVxVzZBTGV2VmR4Y28w?oc=5",
-            "published": "2026-06-17T23:41:01+00:00"
-          },
           {
             "title": "Kane scores twice as England beat Croatia to launch World Cup charge - Arab News",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNLXpLaUNTYm9Sa1gtLXdFeU05OTBySmcxcXNSOWJwczRPQUx0ak5IZllVTjlNQzhGUlI4Q05FNUtsOFR6elZZbXhGUmxrMERwTm1V?oc=5",
@@ -32,6 +27,11 @@
             "title": "Gulf aviation hubs remain critical to global industry despite regional tensions, says Jetex CEO - Arab News",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uTEdvVU84M1B4RWd4YmxLX2JPbjJ6Sm04ZGZOR2lqZTRQYXNCOWo0MElYOHlLbnVDZ2ExSjdoQlZMVjFjTWhMSF9uRlRXS0FpT1lB?oc=5",
             "published": "2026-06-17T21:12:07+00:00"
+          },
+          {
+            "title": "Czechs expect a different South Africa, says coach Koubek - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNW1EbUdDaTUwbGM0bHJLTnhYRFVBNFVweGozeHI5cDNTaHVKajRidk5US2YwRjdGa0hCUldhLWhmOVNsdlZYS3U0emlGWjlOUlNv?oc=5",
+            "published": "2026-06-17T20:58:28+00:00"
           }
         ],
         "error": null
@@ -77,9 +77,14 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "FIFA World Cup: England 4-2 Croatia - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX0dsTXU5Z0FaVHVDT055LV9iMmx0VTBCbG0wVVdfcE5hXzJNbWlvUzlZM2F2TnBidTU4Tkw5amxUS2pFU3EwaTEtU0tJMjFyN1RTbGNOZWp2eGhBaGdPTnVaei0tdWZ2N2I4STluMnNOWW84dlhEb1JWaDlGRm1uU19wcEhHeTY2R2JIN2FJY0N6TXViVllVWmNWZnRCVTMzeVJLMGJ2aE1mMHo5UEM2YUpET0hwQzDSAbcBQVVfeXFMT19HbE11OWdBWlR1Q09OeS1fYjJsdFUwQmxtMFVXX3BOYV8yTW1pb1M5WTNhdk5wYnU1OE5MOWpsVEtqRVNxMGkxLVNLSTIxcjdUU2xjTmVqdnhoQWhnT051WnotLXVmdjdiOEk5bjJzTllvOHZYRG9SVmg5RkZtblNfcHBIR3k2NkdiSDdhSWNDek11YlZZVVpjVmZ0QlUzM3lSSzBidmhNZjB6OVBDNmFKRE9IcEMw?oc=5",
-            "published": "2026-06-17T23:57:37+00:00"
+            "title": "US-ISRAEL-IRAN WAR - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MakRIM2tfbVRMV2V4SG5qdkJLTFY3V18xYmRoLURNWG1PakxyWW5QajlfWlJ2V1Q3NXZNTWdHUnhocFV5UGw5RFBpbXRFS2JQX0p3UFhoWlc?oc=5",
+            "published": "2026-06-18T00:50:10+00:00"
+          },
+          {
+            "title": "After 111 days of war: Iran oil sales set to roar as sanctions relief could unleash billions, reshape global energy markets - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTHVBRTRlanlCM3hYTG1FLXN3OWw0eHJxVXZTa0FEbW9FT1dTYVoxUnBRZVF1YmVVa2tYa2FXZXVTOVpIeENscHVQU0hlY0laSU55eDZBOHEtTHZSbC1GNTh0bnAxNGJIdTdaQzNnNkR1TDZ1Qkh6Z3hPdFd4MElpbWFzeEw5b2dPWUlWQ1Uwd01kX0dWakxNMjJxdWltMGRWX1FtcFdqOEs0U0pvNlF1WHg4YVE4WTUxRVZhZVZndzk5RTRVVTNRakNrT2plY3FqQmw2QnVMR2kxem1qSVdjR1ppVXJ2LTVXYktCUTd6QjQ0eFJpc3hSSzczTFpwOVBOTFJTS2RpelBxWWZxd0EyVF9B0gGSAkFVX3lxTE9MdUFFNGVqeUIzeFhMbUUtc3c5bDR4cnFVdlNrQURtb0VPV1NhWjFScFFlUXViZVVra1hrYVdldVM5Wkh4Q2xwdVBTSGVjSVpJTnl4NkE4cS1MdlJsLUY1OHRucDE0Ykh1N1pDM2c2RHVMNnVCSHpneE90V3gwSWltYXN4TDlvZ09ZSVZDVTB3TWRfR1ZqTE0yMnF1aW0wZFZfUW1wV2o4SzRTSm82UXVYeDhhUThZNTFFVmFlVmd3OTlFNFVVM1FqQ2tPamVjcWpCbDZCdUxHaTF6bWpJV2NHWmlVcnYtNVdiS0JRN3pCNDR4UmlzeFJLNzNMWnA5UE5MUlNLZGl6UHFZZnF3QTJUX0E?oc=5",
+            "published": "2026-06-17T23:44:43+00:00"
           },
           {
             "title": "Fire in a Dubai building undergoing maintenance quickly extinguished - Gulf News",
@@ -87,19 +92,14 @@
             "published": "2026-06-17T22:59:10+00:00"
           },
           {
-            "title": "Jay Hilotin - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUGZtd2NjQzdfY2loVnY0Q1BFSXI4ZGNTWHljcVlSZWxZYWI5enZWaFdmaS1fMXJ3QlVudU50TEhDb2VjS09rVnZRRVB6b1drRkZF?oc=5",
-            "published": "2026-06-17T22:49:01+00:00"
+            "title": "Latest MENA News & Top Stories - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UMTFNN3dMTmFaTFUxWlJuckVzYVRUalJ1bjlzV1doWEZtLVZxOXBWNUpSWUpzbWpXNHF4Rzg2OUdfY0FOSlE?oc=5",
+            "published": "2026-06-17T22:45:01+00:00"
           },
           {
-            "title": "US-ISRAEL-IRAN WAR - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MakRIM2tfbVRMV2V4SG5qdkJLTFY3V18xYmRoLURNWG1PakxyWW5QajlfWlJ2V1Q3NXZNTWdHUnhocFV5UGw5RFBpbXRFS2JQX0p3UFhoWlc?oc=5",
-            "published": "2026-06-17T22:30:53+00:00"
-          },
-          {
-            "title": "World News, International News from India, Pakistan, Asia, Australia, Europe and America - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE42Y3IwWVBYaFg0dlNEQ1BCdmpuRXFVVGNkaUxIWlpDaFZDeFBoZFRYNzd2dFcxUnJEd1pPdEQ0cw?oc=5",
-            "published": "2026-06-17T21:38:38+00:00"
+            "title": "UAE, Qatar sign MoU on data protection in joint projects - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORm1aRFdKQkR4TTFNenRkMXZfenlwQzU5dDZKdGhZSlVVSXJiMW9YY2Z2NzVpcWJnSk9DMEpBU2Ffemk0cEpFZXB4NkJxR1FodGoxd2JrWGd1UktjOGhWdHY4ajQ2WEFrS1NPUERITnZrZHkxMkVxejFiSlhmNkNxbnNucWpELWF1QTdCdmQxclNremtIdzh4cGkxazJ5Vksya2QzQWVSMlFlYmIwQW4tLXMzONIBswFBVV95cUxORm1aRFdKQkR4TTFNenRkMXZfenlwQzU5dDZKdGhZSlVVSXJiMW9YY2Z2NzVpcWJnSk9DMEpBU2Ffemk0cEpFZXB4NkJxR1FodGoxd2JrWGd1UktjOGhWdHY4ajQ2WEFrS1NPUERITnZrZHkxMkVxejFiSlhmNkNxbnNucWpELWF1QTdCdmQxclNremtIdzh4cGkxazJ5Vksya2QzQWVSMlFlYmIwQW4tLXMzOA?oc=5",
+            "published": "2026-06-17T21:30:08+00:00"
           }
         ],
         "error": null
@@ -116,6 +116,11 @@
             "published": "2026-06-17T23:17:27+00:00"
           },
           {
+            "title": "Gulf Times ePaper-June 18, 2026 - Gulf Times ePaper",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUF1RVo2Vjhac0lPZU9tSVZGd2ZvUkpMY2pCX2pjdkEyUmhYYU1fWGhwS095YXdFNzdNb2FnM3llejJoMWVDbWR6d3pmN0dCbVpXMlVuY1RaQThhbTF2ZUtZM3BCanNTeEU5ZHp5RHA2d3ZQT1BLMG9reG04cEc5V1FNclc?oc=5",
+            "published": "2026-06-17T22:42:49+00:00"
+          },
+          {
             "title": "Turkiye, Kuwait hail Qatar’s role in US-Iran agreement - Gulf Times",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tMjlNRWwyQ2pUcEhoeEkwYmRqZ2x1QVcxWTktQlNJR3FWNk81T09MdHRvek8zTXB0RUE4UnlQem1LMEp4UHMzTFlCRno0TTlZaktqY24tTzhkdXhlc2tscXlEQmdDZE9mRWhVakg4QWFCSlgzOUd5eFZwbw?oc=5",
             "published": "2026-06-17T21:44:23+00:00"
@@ -129,11 +134,6 @@
             "title": "Qatar eye win over Canada to boost knockout hopes - Gulf Times",
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VWjNYQ1QtWWl1cnIzQ21FUWp6Vm43OHpDWkQtVmJmUzJIbUFMSlJ0d1RIZUJFNDhxdThfcnJ1N016c0FpdUVMVVFleFdjVHZ4Sy04RnEwTkZ4ZzhOZGpxN3JSS09VYU9OVGlJUjhkUmVBQ1FXYW9WMU9fRUg?oc=5",
             "published": "2026-06-17T21:42:23+00:00"
-          },
-          {
-            "title": "AT YOUR SERVICE - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQkxHSnRPY3U4RXBxNm9YSzdIc3F3cjNGLVFQQ2R2UU55dXd6akt6dzk3cV9mT3hza0h6Yk1WdjBTTzJHZnhUZE93X0JRUUw4MXlsMG1Ia0NTN2Y1S0Q2Njd2TjBjTlVVRjVvZURMaTF1bVpENE5OWkRveU42d2tqNXRGdw?oc=5",
-            "published": "2026-06-17T21:00:22+00:00"
           }
         ],
         "error": null
@@ -144,11 +144,6 @@
         "lang": "en",
         "url": "https://timesofoman.com",
         "headlines": [
-          {
-            "title": "Sports - Times of Oman",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NWEl0d09fbkxCb05HTDM2VkdzN1NxTkluaUtkVlpPVloxWWViUjE1SmNfY3RXR0F0WWtOSkNtMVEtMnVmbGJQUE1nRnpJdUJudnE0RDNXRTE2bU1YdkNWcjdrUmFwMjN5NXc?oc=5",
-            "published": "2026-06-17T22:40:54+00:00"
-          },
           {
             "title": "Gill, Kishan and pacers help India beat Afghanistan by 170 runs in 2nd ODI - Times of Oman",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWo5aW1la2VIMC03MzZ4d2xacDJ3RkwzZ1dmeXRQcWNrSG15QWVWMnV5YkdXR1ZCRFFXeHdtQkMzNDRNeEJKUUZSVDFfTDluMGxhZGlucnM2ZHBheENhSVEzNXU2NGlHdHFkRl9wSlh3bGtNdHJtZGVPdG1tZHZyX0VHdDVUdmFsZzVsbkZhSGZHQTRZeWdual9ZZndQZktHdl9jRWVIc0N1R2ZQS3VvS3N3?oc=5",
@@ -168,6 +163,11 @@
             "title": "Oman elected to UNESCO Intangible Heritage Committee for 2026‑2030 term - Times of Oman",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGI5QmRHSElkcHNOd2RiVEM3dDFYZm91Ulg2cTFxa2xEMl9EWW0tRGtmUTlfdVpwaW53NDNHX1haYjg4a3RtdFE1ZS1rLUlvVHppbHlpNVEyZS1LWDY4V1hQRUNLS0c2SFNoU1lOVWk1UUJYVENUOVplY3lKNEItZ3hUTy1IbThncXhrYUFiblpraS1ETlZzQzVobDY0LWI4MTFidEdyTWxpQ2FwNXc?oc=5",
             "published": "2026-06-17T17:25:00+00:00"
+          },
+          {
+            "title": "Housing Ministry offers 375 investment opportunities via “Tatweer” platform in first 4 months of 2026 - Times of Oman",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeE9kWTRCZjVqNVlwUTNmcm1fU2YtZzhSN19vY01yQnl4RVc5VEdRWGxKWU9JT3ZFeU9hczFrc3lOXzd3bmhKMnh0ald5LVZKNGhwUnZSWkdtczI2bVB2NDNPU3RpaXFKNGZ6RGtXeHJSV2RkRm9SOGFiNE83QUk3bUZiZnV4NF9TelgzZlhjYkZHT0NaenIwbGJWeFhjbnZxRTNiMUtBTGxpTVR0amt4LTVzNWM4SGo2RzFxcUJKQ2ttMU5XdlpUNTdKUmhybHFMN3gzMQ?oc=5",
+            "published": "2026-06-17T17:23:00+00:00"
           }
         ],
         "error": null
@@ -319,7 +319,7 @@
             "published": "2026-06-18T02:29:30+00:00"
           },
           {
-            "title": "Ben Gurion Airport Terminal One to reopen ahead of school holidays after Iran war forced closure",
+            "title": "Ben-Gurion Airport Terminal One to reopen ahead of school holidays after Iran war forced closure",
             "url": "https://www.jpost.com/israel-news/article-899762",
             "published": "2026-06-18T02:14:22+00:00"
           },
@@ -348,6 +348,11 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
+            "title": "Trump suggests Israel in no place to criticize Iran deal for not joining 2020 strike on Soleimani",
+            "url": "https://www.timesofisrael.com/trump-suggests-israel-in-no-place-to-criticize-iran-deal-for-not-joining-2020-strike-on-soleimani/",
+            "published": "2026-06-18T00:48:14+00:00"
+          },
+          {
             "title": "As deal takes force, Trump says ‘it’s okay’ for Iran to have some ballistic missiles",
             "url": "https://www.timesofisrael.com/as-deal-takes-force-trump-says-its-okay-for-iran-to-have-some-ballistic-missiles/",
             "published": "2026-06-17T23:40:43+00:00"
@@ -366,11 +371,6 @@
             "title": "Hezbollah chief: Iran deal a ‘great victory,’ can be used to expel Israel from Lebanon",
             "url": "https://www.timesofisrael.com/hezbollah-chief-iran-deal-a-great-victory-can-be-used-to-expel-israel-from-lebanon/",
             "published": "2026-06-17T20:13:04+00:00"
-          },
-          {
-            "title": "Canceled flights, high prices: Is the golden age of American Jewish travel to Israel ending?",
-            "url": "https://www.timesofisrael.com/canceled-flights-high-prices-is-the-golden-age-of-american-jewish-travel-to-israel-ending/",
-            "published": "2026-06-17T19:38:58+00:00"
           }
         ],
         "error": null
