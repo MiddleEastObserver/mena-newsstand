@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T11:00:59.931530+00:00",
+  "updated": "2026-06-19T16:21:41.027096+00:00",
   "papers": [
     {
       "id": "haaretz",
@@ -50,6 +50,166 @@
       "ok": true,
       "src": "https://cdn.freedomforum.org/dfp/jpg18/lg/WSJ.jpg",
       "date": "2026-06-18"
+    },
+    {
+      "id": "usa_today",
+      "name": "USA Today",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.usatoday.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg19/lg/USAT.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "washington_times",
+      "name": "The Washington Times",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.washingtontimes.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg19/lg/DC_WT.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "la_times",
+      "name": "Los Angeles Times",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.latimes.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg19/lg/CA_LAT.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "chicago_tribune",
+      "name": "Chicago Tribune",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.chicagotribune.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg19/lg/IL_CT.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "boston_globe",
+      "name": "The Boston Globe",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.bostonglobe.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg19/lg/MA_BG.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "sf_chronicle",
+      "name": "San Francisco Chronicle",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.sfchronicle.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg19/lg/CA_SFC.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "philly_inquirer",
+      "name": "The Philadelphia Inquirer",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.inquirer.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg19/lg/PA_PI.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "seattle_times",
+      "name": "The Seattle Times",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.seattletimes.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg18/lg/WA_ST.jpg",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "miami_herald",
+      "name": "Miami Herald",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.miamiherald.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg19/lg/FL_MH.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "the_independent",
+      "name": "The Independent",
+      "loc": "UK",
+      "lang": "en",
+      "site": "https://www.independent.co.uk",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/19/uk/the_independent.750.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "daily_mail",
+      "name": "Daily Mail",
+      "loc": "UK",
+      "lang": "en",
+      "site": "https://www.dailymail.co.uk",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/19/uk/daily_mail.750.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "abc_es",
+      "name": "ABC",
+      "loc": "Spain",
+      "lang": "es",
+      "site": "https://www.abc.es",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/19/es/abc.750.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "marca",
+      "name": "Marca",
+      "loc": "Spain",
+      "lang": "es",
+      "site": "https://www.marca.com",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/19/es/marca.750.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "as_es",
+      "name": "Diario AS",
+      "loc": "Spain",
+      "lang": "es",
+      "site": "https://as.com",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/19/es/as.750.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "corriere",
+      "name": "Corriere della Sera",
+      "loc": "Italy",
+      "lang": "it",
+      "site": "https://www.corriere.it",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/19/it/corriere_della_sera.750.jpg",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "die_welt",
+      "name": "Die Welt",
+      "loc": "Germany",
+      "lang": "de",
+      "site": "https://www.welt.de",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/19/de/die_welt.750.jpg",
+      "date": "2026-06-19"
     }
   ]
 }
