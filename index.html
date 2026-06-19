@@ -39,8 +39,8 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .section.active{display:block}
 
 /* Front page cards */
-.fp-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:12px;margin-bottom:24px}
-.fp-card{background:var(--card);border:1px solid var(--line);border-radius:9px;overflow:hidden;transition:.15s;cursor:pointer}
+.fp-grid{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-bottom:24px}
+.fp-card{flex:1 1 155px;max-width:176px;background:var(--card);border:1px solid var(--line);border-radius:9px;overflow:hidden;transition:.15s;cursor:pointer}
 .fp-card:hover{border-color:#BFBAB0;box-shadow:0 3px 12px rgba(0,0,0,.12);transform:translateY(-2px)}
 .fp-img-wrap{position:relative;width:100%;padding-bottom:141%;background:#f0ede6;overflow:hidden}
 .fp-img-actual{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top;transition:.25s}
@@ -250,7 +250,7 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
 // any reachable cover source or block datacenter IPs, so they're omitted rather
 // than shown as permanent "not available" placeholders.
 const FP_PAPERS = [
-  // ——— Middle East —————————————————————————————————————————————
+  // ——— Middle East ——————————————————————————————————————————————
   { id:"haaretz",      name:"Haaretz",         loc:"Israel",           lang:"en", site:"https://www.haaretz.com" },
   { id:"the_national", name:"The National",    loc:"UAE",              lang:"en", site:"https://www.thenationalnews.com" },
   // ——— United States ————————————————————————————————————————————
