@@ -40,8 +40,10 @@ those so they never appear on the site.
 """
 import copy
 import hashlib
+import html
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -263,10 +265,31 @@ def is_junk_title(title: str, source: str) -> bool:
     return False
 
 
+def clean_description(raw: str, title: str) -> str:
+    """Turn an RSS summary/description into clean plain text, or '' when it has
+    no real content beyond the title.
+
+    Google News RSS stubs are essentially "<a>title</a> <font>source</font>" —
+    once the title is stripped, nothing useful remains, so we return '' and the
+    snippet step will skip that headline (rather than inventing a summary).
+    """
+    if not raw:
+        return ""
+    text = re.sub(r"<[^>]+>", " ", raw)      # drop HTML tags
+    text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return ""
+    leftover = text.replace(title, "").strip()
+    if len(leftover) < 40:                    # basically just the title + source
+        return ""
+    return text[:600]                         # cap what we feed the model
+
+
 def parse_feed(session: requests.Session, url: str, referer):
     """Return entries as list of dicts sorted newest-first, or None on failure.
 
-    Each dict: {title, url, published(iso str), _dt(datetime or None)}.
+    Each dict: {title, url, published(iso str), description(str), _dt(datetime)}.
     """
     headers = dict(HEADERS)
     if referer:
@@ -285,10 +308,12 @@ def parse_feed(session: requests.Session, url: str, referer):
         if not title or not link:
             continue
         dt = parse_dt(e)
+        raw_desc = e.get("summary") or e.get("description") or ""
         items.append({
             "title": title,
             "url": link,
             "published": dt.isoformat() if dt else "",
+            "description": clean_description(raw_desc, title),
             "_dt": dt,
         })
     # Newest first; undated entries sink to the bottom.
@@ -309,7 +334,10 @@ def fresh_items(items, source: str):
 
 
 def strip_internal(items):
-    return [{"title": it["title"], "url": it["url"], "published": it["published"]}
+    # "description" is kept temporarily for snippet generation, then removed
+    # before the file is written (see translate_all_languages).
+    return [{"title": it["title"], "url": it["url"], "published": it["published"],
+             "description": it.get("description", "")}
             for it in items[:HEADLINES_PER_OUTLET]]
 
 
@@ -350,115 +378,170 @@ def fetch_outlet(session: requests.Session, meta: dict) -> dict:
 
 
 def _titles_hash(regions: dict) -> str:
-    """SHA-256 (truncated) of all headline titles — cache key for translations."""
+    """SHA-256 (truncated) of all titles + descriptions — the cache key for
+    snippets and translations. Including descriptions means a snippet refreshes
+    if its source text changes, even when the title is identical."""
     parts = []
     for outlets in regions.values():
         for outlet in outlets:
             for h in outlet.get("headlines", []):
-                parts.append(h["title"])
+                parts.append(h.get("title", ""))
+                parts.append(h.get("description", ""))
     return hashlib.sha256("|".join(parts).encode()).hexdigest()[:16]
 
 
-def translate_all_languages(regions: dict, existing_output: dict = None) -> dict:
-    """Translate all headlines into 7 languages using the Google Gemini API.
+def _strip_descriptions(regions: dict):
+    """Remove the temporary raw 'description' field before the file is written."""
+    for outlets in regions.values():
+        for outlet in outlets:
+            for h in outlet.get("headlines", []):
+                h.pop("description", None)
 
-    Returns a dict with keys regions_he, regions_ar, regions_ru, regions_zh,
-    regions_fr, regions_de, regions_es.  If the set of headline titles hasn't
-    changed since the last run, the cached translations are reused so no API
-    call is made.  Returns {} on any failure — non-fatal.
+
+def translate_all_languages(regions: dict, existing_output: dict = None) -> dict:
+    """Generate a short English snippet for each headline and translate both the
+    title and the snippet into 7 languages, using the Google Gemini API.
+
+    Mutates `regions` (English) in place: adds a "snippet" field to each headline
+    and removes the temporary "description" field.
+
+    Returns a dict with keys regions_he/ar/ru/zh/fr/de/es (each a full regions
+    copy with translated titles + snippets) plus "titles_hash". If the content
+    hasn't changed since the last run, snippets and translations are reused with
+    no API calls. Returns {} on failure — non-fatal.
 
     Uses Gemini's free tier (GEMINI_MODEL), so the workload here costs nothing
     in practice.
     """
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        print("  GEMINI_API_KEY not set — skipping translations", file=sys.stderr)
+        print("  GEMINI_API_KEY not set — skipping snippets/translations", file=sys.stderr)
+        _strip_descriptions(regions)
         return {}
 
-    positions = []
-    titles = []
+    positions, titles, descriptions = [], [], []
     for region, outlets in regions.items():
         for o_idx, outlet in enumerate(outlets):
             for h_idx, h in enumerate(outlet.get("headlines", [])):
                 positions.append((region, o_idx, h_idx))
                 titles.append(h["title"])
+                descriptions.append(h.get("description", ""))
 
     if not titles:
+        _strip_descriptions(regions)
         return {}
 
     current_hash = _titles_hash(regions)
+
+    # Cache hit: reuse last run's snippets (into the fresh English regions) and
+    # its translated copies, with no API calls.
     if existing_output and existing_output.get("titles_hash") == current_hash:
         cached = {k: v for k, v in existing_output.items() if k.startswith("regions_")}
-        if len(cached) >= len(LANG_TARGETS):
-            print(f"  Headlines unchanged — reusing translations (hash {current_hash})")
+        prev = existing_output.get("regions")
+        if len(cached) >= len(LANG_TARGETS) and prev:
+            for (region, o_idx, h_idx) in positions:
+                try:
+                    snip = prev[region][o_idx]["headlines"][h_idx].get("snippet", "")
+                except Exception:
+                    snip = ""
+                regions[region][o_idx]["headlines"][h_idx]["snippet"] = snip
+            _strip_descriptions(regions)
+            cached["titles_hash"] = current_hash
+            print(f"  Content unchanged — reusing snippets + translations (hash {current_hash})")
             return cached
 
     try:
         from google import genai
         from google.genai import types
     except ImportError:
-        print("  google-genai package not installed — skipping translations", file=sys.stderr)
+        print("  google-genai package not installed — skipping", file=sys.stderr)
+        _strip_descriptions(regions)
         return {}
 
     client = genai.Client(api_key=api_key)
-    # Structured output: force Gemini to return a valid JSON array of strings.
-    # Without this, hand-written JSON occasionally breaks (e.g. an unescaped
-    # quote in a Hebrew/Arabic headline) and the whole language is lost.
-    gen_config = types.GenerateContentConfig(
+    # Structured output: force a valid JSON array of strings every time, so a
+    # stray quote in an RTL headline can't break the whole response.
+    str_list_config = types.GenerateContentConfig(
         response_mime_type="application/json",
         response_schema=list[str],
     )
-    titles_json = json.dumps(titles, ensure_ascii=False)
-    result = {}
 
-    for lang_code, lang_name in LANG_TARGETS.items():
-        prompt = (
-            f"Translate each news headline in the JSON array below to {lang_name}. "
-            "Keep translations natural and journalistic — match the register of the "
-            "original. Do not add explanations or notes.\n\n"
-            f"Headlines:\n{titles_json}\n\n"
-            f"Return ONLY a JSON array of {len(titles)} translated strings "
-            "(no markdown, no code fences, no explanation), in the same order as "
-            "the input."
-        )
-        # Retry transient rate limits (429) with a short backoff; a few outlets
-        # per minute is well within free-tier limits, but bunched calls can trip
-        # the per-minute cap.
+    def call_model(prompt: str, expected_len: int):
+        """Call Gemini, returning a list[str] of expected_len, or None.
+        Retries transient 429s with a short backoff."""
         for attempt in range(3):
             try:
-                response = client.models.generate_content(
-                    model=GEMINI_MODEL,
-                    contents=prompt,
-                    config=gen_config,
+                resp = client.models.generate_content(
+                    model=GEMINI_MODEL, contents=prompt, config=str_list_config,
                 )
-                raw = (response.text or "").strip()
-                if raw.startswith("```"):
-                    raw = raw.split("```")[1]
-                    if raw.startswith("json"):
-                        raw = raw[4:]
-                    raw = raw.strip()
-                lang_titles = json.loads(raw)
-                if not isinstance(lang_titles, list) or len(lang_titles) != len(titles):
-                    print(f"  [{lang_code}] Unexpected response shape — skipping", file=sys.stderr)
-                    break
-                regions_lang = copy.deepcopy(regions)
-                for i, (region, o_idx, h_idx) in enumerate(positions):
-                    if i < len(lang_titles) and lang_titles[i]:
-                        regions_lang[region][o_idx]["headlines"][h_idx]["title"] = lang_titles[i]
-                result[f"regions_{lang_code}"] = regions_lang
-                print(f"  [{lang_code}] Translated {len(titles)} headlines")
-                break
+                arr = json.loads((resp.text or "").strip())
+                if isinstance(arr, list) and len(arr) == expected_len:
+                    return arr
+                got = len(arr) if isinstance(arr, list) else "?"
+                print(f"    unexpected response shape ({got} vs {expected_len})", file=sys.stderr)
+                return None
             except Exception as exc:
                 msg = str(exc)
-                is_rate_limit = "429" in msg or "RESOURCE_EXHAUSTED" in msg
-                if is_rate_limit and attempt < 2:
+                if ("429" in msg or "RESOURCE_EXHAUSTED" in msg) and attempt < 2:
                     wait = 6 * (attempt + 1)
-                    print(f"  [{lang_code}] rate-limited — retrying in {wait}s", file=sys.stderr)
+                    print(f"    rate-limited — retrying in {wait}s", file=sys.stderr)
                     time.sleep(wait)
                     continue
-                print(f"  [{lang_code}] Translation failed: {exc}", file=sys.stderr)
-                break
+                print(f"    model call failed: {exc}", file=sys.stderr)
+                return None
+        return None
 
+    # ---- Step 1: one-sentence English snippets, strictly from the description ----
+    snippet_items = [{"title": t, "description": d} for t, d in zip(titles, descriptions)]
+    snip_prompt = (
+        "For each news item in the JSON array below, write a single-sentence "
+        "summary of at most 25 words, in English, using ONLY the facts stated in "
+        "its 'description'. Do not add anything not present in the description. If "
+        "'description' is empty or adds nothing beyond 'title', return an empty "
+        "string for that item.\n\n"
+        f"Items:\n{json.dumps(snippet_items, ensure_ascii=False)}\n\n"
+        f"Return ONLY a JSON array of exactly {len(titles)} strings, same order."
+    )
+    en_snippets = call_model(snip_prompt, len(titles)) or [""] * len(titles)
+    n_snips = sum(1 for s in en_snippets if s)
+    for i, (region, o_idx, h_idx) in enumerate(positions):
+        regions[region][o_idx]["headlines"][h_idx]["snippet"] = en_snippets[i]
+    _strip_descriptions(regions)
+    print(f"  Generated {n_snips}/{len(titles)} English snippets")
+
+    # ---- Step 2: translate title + snippet into each language ----
+    # One structured call per language over a flat [title, snippet, title, ...]
+    # list keeps us at 7 calls total.
+    flat = []
+    for t, s in zip(titles, en_snippets):
+        flat.append(t)
+        flat.append(s)
+
+    result = {}
+    for lang_code, lang_name in LANG_TARGETS.items():
+        prompt = (
+            f"Translate each string in the JSON array below to {lang_name}. The "
+            "array alternates between a headline and its one-sentence summary. "
+            "Translate naturally and journalistically. Keep empty strings as empty "
+            "strings. Do not add notes.\n\n"
+            f"Strings:\n{json.dumps(flat, ensure_ascii=False)}\n\n"
+            f"Return ONLY a JSON array of exactly {len(flat)} strings, same order."
+        )
+        translated = call_model(prompt, len(flat))
+        if not translated:
+            continue
+        regions_lang = copy.deepcopy(regions)  # already has snippet, no description
+        for i, (region, o_idx, h_idx) in enumerate(positions):
+            hl = regions_lang[region][o_idx]["headlines"][h_idx]
+            t_title, t_snip = translated[2 * i], translated[2 * i + 1]
+            if t_title:
+                hl["title"] = t_title
+            hl["snippet"] = t_snip or ""
+        result[f"regions_{lang_code}"] = regions_lang
+        print(f"  [{lang_code}] Translated {len(titles)} headlines + snippets")
+
+    if result:
+        result["titles_hash"] = current_hash
     return result
 
 
@@ -477,11 +560,11 @@ def main():
         except Exception:
             pass
 
-    print("\n[Translations]")
+    print("\n[Snippets + translations]")
+    # Adds English snippets to output["regions"], returns translated copies
+    # (regions_he/ar/...) plus "titles_hash", and strips raw descriptions.
     translations = translate_all_languages(output["regions"], existing)
     output.update(translations)
-    if translations:
-        output["titles_hash"] = _titles_hash(output["regions"])
 
     out_path.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
     total = sum(len(o["headlines"]) for outs in output["regions"].values() for o in outs)
