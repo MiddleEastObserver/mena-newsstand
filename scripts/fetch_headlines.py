@@ -39,7 +39,9 @@ instead of real articles. The JUNK_TITLES list below tells the script to skip
 those so they never appear on the site.
 """
 import copy
+import hashlib
 import json
+import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -161,6 +163,16 @@ GNEWS_LOCALE = {
     "he": ("he", "IL", "IL:he"),
     "tr": ("tr", "TR", "TR:tr"),
     "fr": ("fr", "FR", "FR:fr"),
+}
+
+LANG_TARGETS = {
+    "he": "Hebrew",
+    "ar": "Arabic",
+    "ru": "Russian",
+    "zh": "Mandarin Chinese (Simplified)",
+    "fr": "French",
+    "de": "German",
+    "es": "Spanish",
 }
 
 HEADERS = {
@@ -332,52 +344,93 @@ def fetch_outlet(session: requests.Session, meta: dict) -> dict:
     return result
 
 
-def translate_to_hebrew(regions: dict):
-    """Translate all headline titles to Hebrew using Google Translate.
+def _titles_hash(regions: dict) -> str:
+    """SHA-256 (truncated) of all headline titles — cache key for translations."""
+    parts = []
+    for outlets in regions.values():
+        for outlet in outlets:
+            for h in outlet.get("headlines", []):
+                parts.append(h["title"])
+    return hashlib.sha256("|".join(parts).encode()).hexdigest()[:16]
 
-    Returns a deep-copied regions dict with Hebrew titles, or None on failure.
-    Failures are non-fatal — the site simply won't show the toggle until the
-    next successful run.
+
+def translate_all_languages(regions: dict, existing_output: dict = None) -> dict:
+    """Translate all headlines into 7 languages using the Claude API.
+
+    Returns a dict with keys regions_he, regions_ar, regions_ru, regions_zh,
+    regions_fr, regions_de, regions_es.  If the set of headline titles hasn't
+    changed since the last run, the cached translations are reused so no API
+    call is made.  Returns {} on any failure — non-fatal.
     """
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        print("  ANTHROPIC_API_KEY not set — skipping translations", file=sys.stderr)
+        return {}
+
+    positions = []
+    titles = []
+    for region, outlets in regions.items():
+        for o_idx, outlet in enumerate(outlets):
+            for h_idx, h in enumerate(outlet.get("headlines", [])):
+                positions.append((region, o_idx, h_idx))
+                titles.append(h["title"])
+
+    if not titles:
+        return {}
+
+    current_hash = _titles_hash(regions)
+    if existing_output and existing_output.get("titles_hash") == current_hash:
+        cached = {k: v for k, v in existing_output.items() if k.startswith("regions_")}
+        if len(cached) >= len(LANG_TARGETS):
+            print(f"  Headlines unchanged — reusing translations (hash {current_hash})")
+            return cached
+
     try:
-        from deep_translator import GoogleTranslator
+        import anthropic
     except ImportError:
-        print("  deep-translator not installed — skipping Hebrew translation", file=sys.stderr)
-        return None
+        print("  anthropic package not installed — skipping translations", file=sys.stderr)
+        return {}
 
-    try:
-        positions = []
-        titles = []
-        for region, outlets in regions.items():
-            for o_idx, outlet in enumerate(outlets):
-                for h_idx, h in enumerate(outlet.get("headlines", [])):
-                    positions.append((region, o_idx, h_idx))
-                    titles.append(h["title"])
+    client = anthropic.Anthropic(api_key=api_key)
+    titles_json = json.dumps(titles, ensure_ascii=False)
+    result = {}
 
-        if not titles:
-            return None
+    for lang_code, lang_name in LANG_TARGETS.items():
+        prompt = (
+            f"Translate each news headline in the JSON array below to {lang_name}. "
+            "Keep translations natural and journalistic — match the register of the "
+            "original. Do not add explanations or notes.\n\n"
+            f"Headlines:\n{titles_json}\n\n"
+            f"Return ONLY a JSON array of {len(titles)} translated strings "
+            "(no markdown, no code fences, no explanation), in the same order as "
+            "the input."
+        )
+        try:
+            message = client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=4096,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            raw = message.content[0].text.strip()
+            if raw.startswith("```"):
+                raw = raw.split("```")[1]
+                if raw.startswith("json"):
+                    raw = raw[4:]
+                raw = raw.strip()
+            lang_titles = json.loads(raw)
+            if not isinstance(lang_titles, list) or len(lang_titles) != len(titles):
+                print(f"  [{lang_code}] Unexpected response shape — skipping", file=sys.stderr)
+                continue
+            regions_lang = copy.deepcopy(regions)
+            for i, (region, o_idx, h_idx) in enumerate(positions):
+                if i < len(lang_titles) and lang_titles[i]:
+                    regions_lang[region][o_idx]["headlines"][h_idx]["title"] = lang_titles[i]
+            result[f"regions_{lang_code}"] = regions_lang
+            print(f"  [{lang_code}] Translated {len(titles)} headlines")
+        except Exception as exc:
+            print(f"  [{lang_code}] Translation failed: {exc}", file=sys.stderr)
 
-        # NOTE: deep-translator's Google backend uses the legacy ISO code
-        # "iw" for Hebrew (not the modern "he"), or it raises
-        # "No support for the provided language".
-        translator = GoogleTranslator(source="auto", target="iw")
-        # translate_batch handles the list correctly; chunk to stay under limits
-        CHUNK = 40
-        translated: list = []
-        for i in range(0, len(titles), CHUNK):
-            translated.extend(translator.translate_batch(titles[i : i + CHUNK]))
-
-        regions_he = copy.deepcopy(regions)
-        for i, (region, o_idx, h_idx) in enumerate(positions):
-            if i < len(translated) and translated[i]:
-                regions_he[region][o_idx]["headlines"][h_idx]["title"] = translated[i]
-
-        print(f"  Translated {len(titles)} headlines to Hebrew")
-        return regions_he
-
-    except Exception as exc:
-        print(f"  Hebrew translation failed: {exc}", file=sys.stderr)
-        return None
+    return result
 
 
 def main():
@@ -387,12 +440,20 @@ def main():
         print(f"\n[{region}]")
         output["regions"][region] = [fetch_outlet(session, s) for s in sources]
 
-    print("\n[Hebrew translation]")
-    regions_he = translate_to_hebrew(output["regions"])
-    if regions_he:
-        output["regions_he"] = regions_he
-
     out_path = Path(__file__).parent.parent / "headlines.json"
+    existing = None
+    if out_path.exists():
+        try:
+            existing = json.loads(out_path.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+
+    print("\n[Translations]")
+    translations = translate_all_languages(output["regions"], existing)
+    output.update(translations)
+    if translations:
+        output["titles_hash"] = _titles_hash(output["regions"])
+
     out_path.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
     total = sum(len(o["headlines"]) for outs in output["regions"].values() for o in outs)
     ok = sum(1 for outs in output["regions"].values() for o in outs if o["headlines"])
