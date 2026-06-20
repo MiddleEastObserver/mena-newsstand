@@ -160,6 +160,10 @@ JUNK_TITLES = {
     "breaking news", "podcasts", "podcast",
 }
 
+# Order regions appear in the Headlines tab (the site renders them in the order
+# they're written to headlines.json).
+REGION_ORDER = ["Pan-Arab", "Levant", "Gulf", "Israel"]
+
 GNEWS_LOCALE = {
     "en": ("en-US", "US", "US:en"),
     "ar": ("ar", "EG", "EG:ar"),
@@ -562,9 +566,9 @@ def translate_all_languages(regions: dict, existing_output: dict = None) -> dict
 def main():
     session = requests.Session()
     output = {"updated": datetime.now(timezone.utc).isoformat(), "regions": {}}
-    for region, sources in SOURCES.items():
+    for region in REGION_ORDER:
         print(f"\n[{region}]")
-        output["regions"][region] = [fetch_outlet(session, s) for s in sources]
+        output["regions"][region] = [fetch_outlet(session, s) for s in SOURCES[region]]
 
     out_path = Path(__file__).parent.parent / "headlines.json"
     existing = None
