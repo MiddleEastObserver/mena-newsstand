@@ -192,7 +192,7 @@ SNIPPET_WORDS = 50
 
 # Bump this whenever the snippet/translation prompt changes so the content cache
 # is invalidated and everything regenerates on the next run.
-TRANSLATION_VERSION = "v2-50w"
+TRANSLATION_VERSION = "v3-50w"
 
 HEADERS = {
     "User-Agent": (
@@ -509,11 +509,13 @@ def translate_all_languages(regions: dict, existing_output: dict = None) -> dict
     # ---- Step 1: short English snippets, strictly from the description ----
     snippet_items = [{"title": t, "description": d} for t, d in zip(titles, descriptions)]
     snip_prompt = (
-        f"For each news item in the JSON array below, write a summary of at most "
-        f"{SNIPPET_WORDS} words (one or two sentences), in English, using ONLY the "
-        "facts stated in its 'description'. Do not add anything not present in the "
-        "description. If 'description' is empty or adds nothing beyond 'title', "
-        "return an empty string for that item.\n\n"
+        f"For each news item in the JSON array below, write an informative summary "
+        f"of about {SNIPPET_WORDS} words (two to three sentences), in English, that "
+        "captures ALL the key facts in its 'description' — keep specific details "
+        "like numbers, names, places and quotes. Use ONLY information present in the "
+        "'description'; never add anything that isn't there, and do not pad. If the "
+        "'description' is empty or only restates the 'title', return an empty string "
+        "for that item.\n\n"
         f"Items:\n{json.dumps(snippet_items, ensure_ascii=False)}\n\n"
         f"Return ONLY a JSON array of exactly {len(titles)} strings, same order."
     )
@@ -553,9 +555,9 @@ def translate_all_languages(regions: dict, existing_output: dict = None) -> dict
     for lang_code, lang_name in LANG_TARGETS.items():
         prompt = (
             f"Translate each string in the JSON array below to {lang_name}. The "
-            "array alternates between a headline and its one-sentence summary. "
-            "Translate naturally and journalistically. Keep empty strings as empty "
-            "strings. Do not add notes.\n\n"
+            "array alternates between a headline and its summary. Translate "
+            "naturally and journalistically. Keep empty strings as empty strings. "
+            "Do not add notes.\n\n"
             f"Strings:\n{json.dumps(flat, ensure_ascii=False)}\n\n"
             f"Return ONLY a JSON array of exactly {len(flat)} strings, same order."
         )
