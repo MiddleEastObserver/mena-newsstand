@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T22:30:36.533135+00:00",
+  "updated": "2026-06-20T23:00:46.089608+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group",
+            "url": "https://www.aljazeera.com/sports/2026/6/20/amiri-injury-time-goal-sees-germany-beat-ivory-coast-to-top-world-cup-group?traffic_source=rss",
+            "published": "2026-06-20T22:40:55+00:00",
+            "snippet": ""
+          },
           {
             "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
             "url": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
             "published": "2026-06-20T19:43:47+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win",
-            "url": "https://www.aljazeera.com/sports/2026/6/20/netherlands-vs-sweden-gakpo-brobbey-doubles-give-dutch-5-1-world-cup?traffic_source=rss",
-            "published": "2026-06-20T19:42:47+00:00",
-            "snippet": "The Dutch secured their first World Cup win in Houston against Sweden with a 5-1 scoreline, giving them four points. Sweden is second in Group F with three points."
           }
         ],
         "error": null
@@ -48,10 +48,22 @@
         "url": "https://www.middleeasteye.net",
         "headlines": [
           {
-            "title": "Outcry after several injured attacks targeted Muslims in Edinburgh",
+            "title": "Israeli strike kills journalist in central Gaza",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-journalist-central-gaza-0",
+            "published": "2026-06-20T22:51:41+00:00",
+            "snippet": "Al Jazeera cameraman Ahmed Samir Wishah was killed in an Israeli strike targeting a residential home in central Gaza's Al-Bureij refugee camp. This is less than two months after his brother, Mohammed Samir Wishah, was killed."
+          },
+          {
+            "title": "Israeli strikes in Lebanon kill seven",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-lebanon-kill-seven",
+            "published": "2026-06-20T22:47:41+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Outcry after several injured in attacks targeting Muslims in Edinburgh",
             "url": "https://www.middleeasteye.net/news/outcry-after-several-injured-violent-anti-muslim-attacks-edinburgh",
             "published": "2026-06-20T22:23:23+00:00",
-            "snippet": "Following political rhetoric, rights groups expressed outrage over violent attacks targeting Muslim men aged 22-36 in Edinburgh on Friday. Counter Terror Police are investigating the attacks which injured five people. A 36-year-old Scottish man was arrested."
+            "snippet": ""
           },
           {
             "title": "Iranian delegation arrives in Switzerland",
@@ -64,18 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-us-tolls-hormuz-strait-if-iran-talks-fail",
             "published": "2026-06-20T19:51:12+00:00",
             "snippet": "President Trump warned that the US could impose tolls on the Strait of Hormuz if Iran war negotiations fail. He stated on Truth Social that tolls would only be imposed by and for the United States for reimbursement of costs."
-          },
-          {
-            "title": "Israeli strikes kill at least 20 in Lebanon hours after ceasefire",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-20-lebanon-hours-after-ceasefire",
-            "published": "2026-06-20T19:22:16+00:00",
-            "snippet": "Lebanon's state news agency reported that Israeli strikes killed at least 20 people on Saturday, a day after a ceasefire with Hezbollah took effect. An Israeli military official stated Hezbollah launched over 50 projectiles at Israeli forces."
-          },
-          {
-            "title": "Israeli strike kills journalist in central Gaza",
-            "url": "https://www.middleeasteye.net/news/israeli-strike-kills-journalist-central-gaza",
-            "published": "2026-06-20T19:03:31+00:00",
-            "snippet": "Al Jazeera cameraman Ahmed Samir Wishah was killed in an Israeli strike targeting a residential home in central Gaza's Al-Bureij refugee camp. This is less than two months after his brother, Mohammed Samir Wishah, was killed."
           }
         ],
         "error": null
@@ -126,6 +126,18 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "Rights groups denounce shutting of LGBT X accounts in Turkey",
+            "url": "https://www.newarab.com/news/rights-groups-denounce-shutting-lgbt-x-accounts-turkey",
+            "published": "2026-06-20T22:45:45+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Scottish police investigate Edinburgh attacks after five injured",
+            "url": "https://www.newarab.com/news/scottish-police-investigate-edinburgh-attacks-after-five-injured",
+            "published": "2026-06-20T22:30:44+00:00",
+            "snippet": ""
+          },
+          {
             "title": "UN Security Council warns of 'imminent risk of mass atrocities' in Sudan",
             "url": "https://www.newarab.com/news/un-security-council-warns-imminent-risk-mass-atrocities-sudan",
             "published": "2026-06-20T22:20:04+00:00",
@@ -142,18 +154,6 @@
             "url": "https://www.newarab.com/news/al-jazeera-says-israeli-strike-kills-journalist-gaza",
             "published": "2026-06-20T21:16:12+00:00",
             "snippet": "Al Jazeera reported that another one of its journalists was killed in an Israeli strike in Gaza, whose brother was also killed in an Israeli attack in April."
-          },
-          {
-            "title": "Assad-era officers, doctors confess to detainee organ removals",
-            "url": "https://www.newarab.com/news/assad-era-officers-doctors-confess-detainee-organ-removals",
-            "published": "2026-06-20T20:10:45+00:00",
-            "snippet": "Officers and doctors have confessed to orchestrating operations to remove organs from detainees, which were then transplanted into individuals close to Assad's regime."
-          },
-          {
-            "title": "Family fights to preserve legacy of Lebanon turtle sanctuary",
-            "url": "https://www.newarab.com/news/family-fights-preserve-legacy-lebanon-turtle-sanctuary",
-            "published": "2026-06-20T19:38:04+00:00",
-            "snippet": "The family of slain Lebanese conservationist Mona Khalil fears her turtle sanctuary may cease to exist following an Israeli strike on her home."
           }
         ],
         "error": null
@@ -307,6 +307,12 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
+            "title": "Startup Wrap: More than $69m flows into MENA startups - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fbS1DZEpxeEQ1V0hnVGdnOEtrZFQ5OGNKcEl1NE1GNHRtN2RTLXFsc3h5NkgzNlRQNXJldnZsNjBqdDBjeFZXV0hkMmk0ZWtNd3dn?oc=5",
+            "published": "2026-06-20T20:31:12+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Brobbey, Gakpo double delight as slick Netherlands dismantle Sweden - Arab News",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veU9HdTBPQnNXckQtQVNqc19XTnBKS0ExVjlyZUh1MXV1elNKcTJldlBfQkQ2UjNhM2NuWkktV1BOVENvckJqYXRoc1J5RnJBRFRN?oc=5",
             "published": "2026-06-20T20:16:18+00:00",
@@ -329,12 +335,6 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zYmZaMmkzVFFYMGl1ZFJiRFEtUGNIYWxjX0FNeU1vU0xadFJvVmI3SGowckNETXdPbXRSdlpVLXVPbk5fRHdqUUF1c0pOckQwcC1R?oc=5",
             "published": "2026-06-20T19:31:23+00:00",
             "snippet": "Rising numbers of Syrian refugees return home from Jordan"
-          },
-          {
-            "title": "UN Security Council demands RSF halt assault on Sudan’s El Obeid amid mass atrocity fears - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04UHRUdUVoNWFMNVRsWXdrVG8xOE5wRm1OMDh0dlJVcG94MmhXYkhDWWZ1NjVMcWVMQjVSYmc4NXNOaTliSUF4anBySl8wRkZCZ01z?oc=5",
-            "published": "2026-06-20T19:31:23+00:00",
-            "snippet": "UN Security Council demands RSF halt assault on Sudan’s El Obeid amid mass atrocity fears"
           }
         ],
         "error": null
@@ -387,14 +387,8 @@
           {
             "title": "US-ISRAEL-IRAN WAR - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MakRIM2tfbVRMV2V4SG5qdkJLTFY3V18xYmRoLURNWG1PakxyWW5QajlfWlJ2V1Q3NXZNTWdHUnhocFV5UGw5RFBpbXRFS2JQX0p3UFhoWlc?oc=5",
-            "published": "2026-06-20T20:46:13+00:00",
+            "published": "2026-06-20T20:45:05+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0dGpyamIyRWE4c3pSSnpHaWdhSGVsQjFkeWxfMmtBTDlaY1Y0YnVGaGpyV1NzZGVsWmxCM3NzYnZIMHg2eDlj?oc=5",
-            "published": "2026-06-20T20:41:59+00:00",
-            "snippet": "Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
           },
           {
             "title": "France issues record red heat alert for one-third of country - Gulf News",
@@ -413,6 +407,12 @@
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTENqNmhSdF9wcEZ5eTBienk1b3ZuYWo0RUZGWHNGQzBfdFdMNVN3S25jMURqVC1xZlYtemdqb1lZaGJjMzNwa0JZUENmZ3BhOXF4NzRsSXhUQzFwUXdQT2hrTnlFOU1HVnNhbFpqR0tJRjlMWWU2Nlh4d2lpeV9NNnBSQ20yS0cybG1XOFhmQno1UnNBQTEtU0tZRlU0VjB0aUlYQWduSDdCSlBUV0xkc3J6QmxRMktUWG0tRmVWdHVqMkFLZ25LS2s4Wmh6NmtJVUdj0gHTAUFVX3lxTFBMQ2o2aFJ0X3BwRnl5MGJ6eTVvdm5hajRFRkZYc0ZDMF90V0w1U3dLbmMxRGpULXFmVi16Z2pvWVloYmMzM3BrQllQQ2ZncGE5cXg3NGxJeFRDMXBRd1BPaGtOeUU5TUdWc2FsWmpHS0lGOUxZZTY2WHh3aWl5X002cFJDbTJLRzJsbVc4WGZCejVSc0FBMS1TS1lGVTRWMHRpSVhBZ25IN0JKUFRXTGRzcnpCbFEyS1RYbS1GZVZ0dWoyQUtnbktLazhaaHo2a0lVR2M?oc=5",
             "published": "2026-06-20T18:01:32+00:00",
             "snippet": "Abu Dhabi Police are warning drivers to remove six fire-risk items from their cars this summer."
+          },
+          {
+            "title": "Iran negotiators leave for Switzerland to discuss US deal: state media - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGc5Tkp1U1JJMXJQR1p0NF9ReElHeWx5X1NVaVg2ekRFb204Z1NQcXpMaXh2a0tPUU9sTmxMUGZxeXVERTBkVkhrQnlWdTB5X0d2M2UyYkxrQldFRFpyWW9MZi0zM3NZY2lWYlltaFRkMXhKRGlDLTd4bXJ0TEFrdlF2c09ueHllUXBsWk9pZWpWbDNNek1MRE0tWTZEbEtUcm5hU2VVUGZJVnVDZFlISWlrMXFCaUl3ZTZqTVFoVnlHZ1FWTnfSAcYBQVVfeXFMTzhnOU5KdVNSSTFyUEdadDRfUXhJR3lseV9TVWlYNnpERW9tOGdTUHF6TGl4dmtLT1FPbE5sTFBmcXl1REUwZFZIa0J5VnUweV9HdjNlMmJMa0JXRURacllvTGYtMzNzWWNpVmJZbWhUZDF4SkRpQy03eG1ydExBa3ZRdnNPbnh5ZVFwbFpPaWVqVmwzTXpNTERNLVk2RGxLVHJuYVNlVVBmSVZ1Q2RZSElpazFxQmlJd2U2ak1RaFZ5R2dRVk53?oc=5",
+            "published": "2026-06-20T17:48:01+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -423,6 +423,12 @@
         "lang": "en",
         "url": "https://www.gulf-times.com",
         "headlines": [
+          {
+            "title": "Qatar to continue peace bid | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1Q3WGpkZWVMdnFmUkRlSXBweUIwS2FaRlR5MDZwa0pfRW5jdUFCeEVZQU5OY0gwd3hKcXJqZExPRzE2c2EwWDg1Z2NZUEJlVzNzbEJWNlcyUE1KVU1GOWpZTVA5djRNNzBUTmEtUy12d1pORDhmQ25yeG9ZdlkzT9IBhgFBVV95cUxPYmg4QVo0OFFBRnREWkRaa1FDVlRoSXhVTmhSY0JocXZtLS03VzdHSUctY0RPT29GWFljWG5yTFJIeXFlYTRwTnBsNWV0d3NyUHdadG1nZ2NDMFlRcHc1UlRGQ0FMQnR5TVN4WVVhdHdQVEFtaEhJRF9ZbHRDVFR0NnQwMkJnUQ?oc=5",
+            "published": "2026-06-20T21:00:00+00:00",
+            "snippet": ""
+          },
           {
             "title": "Netherlands thump Sweden in Houston to get World Cup liftoff | Gulf Times - Gulf Times",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDNtM1RjbkQ4czU1eUNXYWtISHN2TnF3VFhhVkFDNzY2SVpkdVhDQ0U1VkFGM1BYZXI5WmphWWV1aFZQTm95aEN4N1JzalNycGNZd3Zkang0dndxYVBaRHc5d0pBTEtGRVU2T2UyQ3ZQaVlFdTZ0YlJQVEg4TlVla0NxY2w4YzdVcVBuRzRPYi1ZX2dCT1NlNG5zel8zNVdUc2Q2cEE0U0RPZk5n0gGyAUFVX3lxTFBmX2JBdTR2ZXFHNnFwTnIzb3FpTWtXS25jRnNaLUt6amJSaHVkT0F5TUdySnN2dGxHR3k0ZkpmeVA0NE1GZTQwdmQzS2xtWDNSS05fb3FWMy1lUEFHNTIwa0Vjc0xlRFRuMVh6YTBUUFpEOHFldXhZRi1iR2Z2TlRVWF8zcDRIYVl4ZnZ3RG9xeVBFNVZnc3poTWh3eWtVR1ZvSVNaa2Z4d1F4SXRrS3hreUE?oc=5",
@@ -446,12 +452,6 @@
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTJyS3JkcUZ0U1JHU2lvNkRyTXpZS0dSNFJpaG1sUzFsWEhfOVEwcExiVFk2SVAtZkhWc3ZaRmY1U1lPTGNpQTl1dXRCa0FqSWNnWGl2a09CMVd1cnNRc0lfaE9IekF2SVU5bGl3MFBwU2FyZFhrY0N1MGdUZnRJVUxCZkFNUzFPLTJPUjJyb1lLamdRRmlub0cwY1Y4RXVvUTJLRTRhZU1XeTRENW5fQ1ZidmljQ3fSAbwBQVVfeXFMT1NZVnAzUFR3cERBbHoyTG5paksxaEJYbVNvMWhNR2YtV3gxeFlxM1V6Rld1RG1XVkxVU2o1bE8zcTBQVUo3VDhGaTF3Y3BUdVFuWFh6bzJYenRoUzJIYW9uZzcyQkFPU0syUGZBaHpRWThMRUkxTmR0QjNtQi11VkhKem5TTjZrc0NuZmNXZmFyS1Zia3Zzak4xNnFITU5ndWtuSnJQZXc4azFqR0NiX1RtN3ZJMDVDNE1qb3U?oc=5",
             "published": "2026-06-20T19:47:00+00:00",
             "snippet": "Cerundolo sees off Nakashima to set up Queen's final with Paul"
-          },
-          {
-            "title": "Root reaches 14,000-run milestone but New Zealand edge towards victory | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnBzTjdxVjd4MWM3UDJIN1Z2MW0zam5qTGhoUFh2M0IwcUlBRVl4TFZNVEZPNDZZWE5hX1YyX19DeTBCZEQzWW9Cb2NqbXdJTnNaSC1udXlGU1pkZUsyZVg4WnlCaThNWHZHRGlwTU52RUp1TFhkTFRxZi12SVVjZEN0aGNnRlZEc1kxRmpCT0pDUUpJallPTWFRUTROMnVjZlpvXzhNbU4wNzdNOGJ0V05FVEczSFJ6NGdZM09uYnFEV1XSAcgBQVVfeXFMTVdhaVNYQjZPRkJPMm5Fd1pIT20xdDZmR2JxWVJScFFMZU1mNHUtR1BrWmNXa0ExUW9ia0JXUFlINi1Bd0ZjUXZXSmVIZnF0MEtuT1JxWVAyOG5Uc1V5NGJQSEhvaGltOHBrUDJSNnJZSnZlbnVLekZRWmhha0xfNnBLaTRiWkU3dUhFeDh4THVKdDR3QXhiOThMekxod0hDM1UwdEZsTEZTTmo5STUzVksxazB6bGhMamRHaFhKNXFKMzVSSGlRYkY?oc=5",
-            "published": "2026-06-20T18:29:00+00:00",
-            "snippet": "Root reaches 14,000-run milestone but New Zealand edge towards victory"
           }
         ],
         "error": null
@@ -463,9 +463,33 @@
         "url": "https://timesofoman.com",
         "headlines": [
           {
-            "title": "Sports - Times of Oman",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3VnZrbzVjQjVLcmpWY0FfZXRtVVJlQWswVWVNLW9EX2NmSm9IOW5PU3N2eUk1cDJpazl2cFFadTFWZFN6TXpVeW9XZzZSeWp6NHVObzIxMVlMQXNBTVdwWXotTFBLT3hvdmc?oc=5",
-            "published": "2026-06-20T01:13:12+00:00",
+            "title": "How Oman’s Consumer Protection Law regulates price display - Times of Oman",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXFzeVo0QTJsNkJpaHduU0JVdGlwZzJ1U0U5a2NlWWtCZWUzWVlqOTZaWmwzNTBzVzkwVTc1YXo4eUNCZ09iWEpRMDBpSVV2cjFzdmIyNjhaT0ZEclRUM19welNvNlBtT2ZReU1FOGctanluRTRVaVItSzlEYXlBZnFDY3d5YnZGeE1YVVYzVDZsWTJxbEpHV3hhdnY?oc=5",
+            "published": "2026-06-20T15:47:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "India complete series whitewash against Afghanistan with nine-wicket win in 3rd ODI - Times of Oman",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGdjNkRYMk1RMllpQXpFaXZSOVB3RlE0VDY4ZUpVUnhocUh1dUtRNmhQSUtvR29MOWoxY2gwVGQwbTVfcE9UOWtUUEdranphT0VIVWQxdjRuQVJwUzEtRVY4dEF4NTdpUTc4akpITjNOa2N0dDRpTk9tN2RoOFNONEdVTXZRMkYzZnlrd0RFTDBaZkpldUxXb0lSN0ZlNDhsRGtSX2RkS09yNllreW8zQ2hudzZYcXZZeUx0N1N6NA?oc=5",
+            "published": "2026-06-20T15:43:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Pakistan plans to roll out home delivery of e-passports for citizens in Oman - Times of Oman",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2Q0aDZpZXFMVlU5czVQYmY4bUd4VzFNaWVmNEZnWXlNbndjZEZLLTQweTN6UHhXXzFhVVRpdWV0Q0ZraVYxU3JzQjN3VHg2UDl3UWZKOE1oSDJBY2owekVtWWRhNE1QSTR4aFNoMGJxVE5aSEdLZjczZjZUTUVQN0Q1eFpncGdWaGJfVE5KVlFtVEo3OFVlcUhHV0hXcEZKSFhjOHRhV3VhNy1ieENxWmQ5ZjNHQQ?oc=5",
+            "published": "2026-06-20T15:40:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Pakistan: Roadside bombs kill 7 in northwest - Times of Oman",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmxtbjlvVC1OQUJ6dUdncVE5UFFiV3RITGZKTUVJQnM4ZFBkS1BTNUVfZ21aQzc5NnlSZlBpRG52T2ZTNDR2Vl8tOW1vaTBQMDBtekdzLUFIcXFMXzhsYllLeGNlOHYxeTUzbWNibDc5UjdEUmxRdG5jZE1NZUJ5Z0xwbHlLY2RZc2c?oc=5",
+            "published": "2026-06-20T15:37:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Sultan’s Armed Forces Shooting Team wins top honours in the UK - Times of Oman",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2FqRWRLSU5NYkUzc0RweTdoZ0JNdWZncHdyRHFuUFRzQU1vYVVmQV9MYWhqYnZmUThiZlBKcHc2eFhGTmc5TXZZakhaR3NmNTUxNHd1WGNvUldyY084LTJNemxWVG5Dek9pQXVCVkpuc3lwak81TDhTR0pFbUU3OS1zYWdmWmFKRnJrc0Z1ZW5jSUVuZHV2WS01cEwyQ2EyRUE?oc=5",
+            "published": "2026-06-20T15:32:00+00:00",
             "snippet": ""
           }
         ],
@@ -480,34 +504,34 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
-            "title": "Trump’s Iran strategy may hand Tehran the world’s economic choke point - opinion",
-            "url": "https://www.jpost.com/opinion/article-899810",
-            "published": "2026-06-20T22:40:52+00:00",
-            "snippet": "If Tehran gains more leverage from the crisis, the implication is that aggression does not fail."
+            "title": "Hamas terrorist doubling as Al Jazeera photojournalist killed in Gaza",
+            "url": "https://www.jpost.com/israel-news/defense-news/article-899982",
+            "published": "2026-06-21T01:23:33+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Voices from the Arab press: Elon Musk, the world's first trillionaire",
+            "url": "https://www.jpost.com/middle-east/article-899836",
+            "published": "2026-06-21T01:17:24+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "IDF troops corner 30 Hezbollah terrorists in Tebnit tunnel headquarters - report",
+            "url": "https://www.jpost.com/israel-news/defense-news/article-899980",
+            "published": "2026-06-21T00:55:14+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Grapevine, June 21, 2026: Peace, a distant dream - opinion",
+            "url": "https://www.jpost.com/opinion/article-899981",
+            "published": "2026-06-21T00:52:15+00:00",
+            "snippet": ""
           },
           {
             "title": "Scottish counter-terrorism police investigate attacks in Edinburgh after five injured",
             "url": "https://www.jpost.com/international/article-899976",
             "published": "2026-06-20T21:45:44+00:00",
             "snippet": "A 36-year-old Scottish man was arrested after a series of threats, robbery, and vandalism incidents in Edinburgh injured five people, with three requiring hospital treatment."
-          },
-          {
-            "title": "Greece returns over 1,000 coins to Turkey in joint effort against antiquities smuggling",
-            "url": "https://www.jpost.com/international/article-899936",
-            "published": "2026-06-20T21:43:25+00:00",
-            "snippet": "Greece has returned over 1,000 coins to Turkey as part of a joint initiative to combat antiquities smuggling, with ministers discussing future cooperation."
-          },
-          {
-            "title": "UK healthcare worker tried to sell Princess Kate's medical information for profit, probe finds",
-            "url": "https://www.jpost.com/omg/article-899719",
-            "published": "2026-06-20T21:41:51+00:00",
-            "snippet": "A former healthcare worker has been found to have deliberately misused sensitive information and offered to disclose it for financial gain, according to an ICO investigation."
-          },
-          {
-            "title": "Five soldiers killed, 13 injured within two days, hours of Lebanon ceasefire announcement",
-            "url": "https://www.jpost.com/israel-news/article-899975",
-            "published": "2026-06-20T21:20:34+00:00",
-            "snippet": "Five soldiers were killed and 13 injured within two days following the announcement of a ceasefire in Lebanon. Four soldiers, including Klein and Ben-Shimon, died when an object struck their tank."
           }
         ],
         "error": null
@@ -518,6 +542,12 @@
         "lang": "en",
         "url": "https://www.timesofisrael.com",
         "headlines": [
+          {
+            "title": "Suspected Ebola patient being treated at Haifa hospital after recent trip to DRC",
+            "url": "https://www.timesofisrael.com/suspected-ebola-patient-being-treated-at-haifa-hospital-after-recent-trip-to-drc/",
+            "published": "2026-06-20T22:50:22+00:00",
+            "snippet": ""
+          },
           {
             "title": "Settlers filmed grazing livestock inside Palestinian village in central West Bank",
             "url": "https://www.timesofisrael.com/settlers-filmed-grazing-livestock-inside-palestinian-village-in-central-west-bank/",
@@ -541,12 +571,6 @@
             "url": "https://www.timesofisrael.com/trump-claims-he-can-control-idf-actions-in-lebanon-because-israelis-respect-him/",
             "published": "2026-06-20T19:37:10+00:00",
             "snippet": "Trump asserted he can influence IDF actions in Lebanon due to Israeli respect for him, although Israel reportedly rejected a private US request to withdraw. He stated his relationship with Netanyahu is good."
-          },
-          {
-            "title": "IDF strikes in Gaza said to kill at least 11, including Al Jazeera cameraman",
-            "url": "https://www.timesofisrael.com/idf-strikes-in-gaza-said-to-kill-at-least-9-including-al-jazeera-cameraman/",
-            "published": "2026-06-20T18:58:09+00:00",
-            "snippet": "The IDF confirmed targeting Al Jazeera cameraman Ahmed Washah, accusing him of being a Hamas sniper. This occurred two months after his brother, also an Al Jazeera journalist, was killed."
           }
         ],
         "error": null
