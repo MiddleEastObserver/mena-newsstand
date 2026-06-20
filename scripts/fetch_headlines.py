@@ -357,7 +357,10 @@ def translate_to_hebrew(regions: dict):
         if not titles:
             return None
 
-        translator = GoogleTranslator(source="auto", target="he")
+        # NOTE: deep-translator's Google backend uses the legacy ISO code
+        # "iw" for Hebrew (not the modern "he"), or it raises
+        # "No support for the provided language".
+        translator = GoogleTranslator(source="auto", target="iw")
         # translate_batch handles the list correctly; chunk to stay under limits
         CHUNK = 40
         translated: list = []
