@@ -187,6 +187,13 @@ LANG_TARGETS = {
 # on this project) — important because each run makes ~8 calls.
 GEMINI_MODEL = "gemini-2.5-flash-lite"
 
+# Target length of the per-headline summary, in words.
+SNIPPET_WORDS = 50
+
+# Bump this whenever the snippet/translation prompt changes so the content cache
+# is invalidated and everything regenerates on the next run.
+TRANSLATION_VERSION = "v2-50w"
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -386,7 +393,7 @@ def _titles_hash(regions: dict) -> str:
     """SHA-256 (truncated) of all titles + descriptions — the cache key for
     snippets and translations. Including descriptions means a snippet refreshes
     if its source text changes, even when the title is identical."""
-    parts = []
+    parts = [TRANSLATION_VERSION]
     for outlets in regions.values():
         for outlet in outlets:
             for h in outlet.get("headlines", []):
@@ -473,7 +480,7 @@ def translate_all_languages(regions: dict, existing_output: dict = None) -> dict
 
     def call_model(prompt: str, expected_len: int):
         """Call Gemini, returning a list[str] of expected_len, or None.
-        Retries transient 429s with a short backoff."""
+        Retries both transient 429s and wrong-length responses."""
         for attempt in range(3):
             try:
                 resp = client.models.generate_content(
@@ -484,6 +491,9 @@ def translate_all_languages(regions: dict, existing_output: dict = None) -> dict
                     return arr
                 got = len(arr) if isinstance(arr, list) else "?"
                 print(f"    unexpected response shape ({got} vs {expected_len})", file=sys.stderr)
+                if attempt < 2:
+                    time.sleep(2)
+                    continue
                 return None
             except Exception as exc:
                 msg = str(exc)
@@ -496,18 +506,34 @@ def translate_all_languages(regions: dict, existing_output: dict = None) -> dict
                 return None
         return None
 
-    # ---- Step 1: one-sentence English snippets, strictly from the description ----
+    # ---- Step 1: short English snippets, strictly from the description ----
     snippet_items = [{"title": t, "description": d} for t, d in zip(titles, descriptions)]
     snip_prompt = (
-        "For each news item in the JSON array below, write a single-sentence "
-        "summary of at most 25 words, in English, using ONLY the facts stated in "
-        "its 'description'. Do not add anything not present in the description. If "
-        "'description' is empty or adds nothing beyond 'title', return an empty "
-        "string for that item.\n\n"
+        f"For each news item in the JSON array below, write a summary of at most "
+        f"{SNIPPET_WORDS} words (one or two sentences), in English, using ONLY the "
+        "facts stated in its 'description'. Do not add anything not present in the "
+        "description. If 'description' is empty or adds nothing beyond 'title', "
+        "return an empty string for that item.\n\n"
         f"Items:\n{json.dumps(snippet_items, ensure_ascii=False)}\n\n"
         f"Return ONLY a JSON array of exactly {len(titles)} strings, same order."
     )
-    en_snippets = call_model(snip_prompt, len(titles)) or [""] * len(titles)
+    snip_result = call_model(snip_prompt, len(titles))
+    snippets_ok = snip_result is not None
+    en_snippets = snip_result or [""] * len(titles)
+
+    # If snippet generation failed, reuse last run's snippets (matched by title)
+    # so the site doesn't go blank while we wait for the next run to retry.
+    if not snippets_ok and existing_output:
+        prev_snip = {}
+        for outs in existing_output.get("regions", {}).values():
+            for o in outs:
+                for h in o.get("headlines", []):
+                    if h.get("snippet"):
+                        prev_snip[h.get("title", "")] = h["snippet"]
+        if prev_snip:
+            en_snippets = [prev_snip.get(t, "") for t in titles]
+            print(f"  snippet refresh failed — reused {sum(1 for s in en_snippets if s)} prior snippets", file=sys.stderr)
+
     n_snips = sum(1 for s in en_snippets if s)
     for i, (region, o_idx, h_idx) in enumerate(positions):
         regions[region][o_idx]["headlines"][h_idx]["snippet"] = en_snippets[i]
@@ -556,9 +582,10 @@ def translate_all_languages(regions: dict, existing_output: dict = None) -> dict
                 result[key] = existing_output[key]
                 print(f"  [{lang_code}] kept previous translation (refresh failed)", file=sys.stderr)
 
-    # Only stamp the content hash when every language was refreshed this run, so
-    # a partial run doesn't get cached and the next run retries the rest.
-    if fresh == len(LANG_TARGETS):
+    # Only stamp the content hash when snippets were freshly generated AND every
+    # language was refreshed this run, so a partial run never gets cached (which
+    # would otherwise freeze empty snippets in place until headlines change).
+    if snippets_ok and fresh == len(LANG_TARGETS):
         result["titles_hash"] = current_hash
     return result
 
