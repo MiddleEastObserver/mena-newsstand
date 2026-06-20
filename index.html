@@ -100,6 +100,11 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .tip{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 6px 6px 0;padding:12px 15px;margin-bottom:20px;font-size:13px;line-height:1.6;color:var(--ink2)}
 .tip strong{color:var(--ink)}
 
+/* Language toggle */
+.lang-toggle{font-size:11px;font-weight:600;padding:4px 11px;border:1px solid var(--line);border-radius:5px;background:var(--card);color:var(--ink2);cursor:pointer;margin-left:auto;transition:.15s;white-space:nowrap}
+.lang-toggle:hover:not(:disabled){border-color:var(--ink);color:var(--ink)}
+.lang-toggle:disabled{opacity:.4;cursor:default}
+
 /* Headlines tab */
 .hl-updated{font-size:11px;color:var(--muted);font-style:italic;margin-bottom:16px}
 .hl-loading{text-align:center;padding:48px;color:var(--muted);font-style:italic;font-size:14px}
@@ -169,7 +174,10 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
 
   <!-- HEADLINES TAB -->
   <div class="section" id="sec-headlines">
-    <div class="sec-head"><h2>Live Headlines</h2></div>
+    <div class="sec-head">
+      <h2>Live Headlines</h2>
+      <button class="lang-toggle" id="lang-toggle" onclick="toggleLang()" disabled title="Hebrew translation not available yet — will appear after the next automatic update">🇮🇱 עברית</button>
+    </div>
     <div class="sec-note">Top 5 headlines from 16 MENA outlets, organized by region. Refreshed automatically every 30 minutes.</div>
     <div id="hl-container"><div class="hl-loading">Loading headlines…</div></div>
   </div>
@@ -229,15 +237,6 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
 </footer>
 
 <script>
-// Front-page covers are downloaded server-side by the daily workflow
-// (scripts/fetch_frontpages.py) and committed under frontpages/. The page
-// loads them from its own origin — no hotlinking — and reads
-// frontpages/manifest.json to know which are available today. "id" must match
-// the ids in fetch_frontpages.py.
-// Only papers whose covers can actually be fetched server-side are listed.
-// Others (most MENA dailies, plus paywalled UK/FR titles) either aren't carried
-// by any reachable cover source or block datacenter IPs, so they're omitted
-// rather than shown as permanent "not available" placeholders.
 const FP_PAPERS = [
   // ——— Middle East ——————————————————————————————
   { id:"haaretz",      name:"Haaretz",         loc:"Israel",           lang:"en", site:"https://www.haaretz.com" },
@@ -252,9 +251,31 @@ const FP_PAPERS = [
   { id:"die_welt",        name:"Die Welt",               loc:"Germany", lang:"de", site:"https://www.welt.de" },
 ];
 
-// Filled in from frontpages/manifest.json at load time.
-let FP_STATUS = {};   // id -> {ok, date}
-let FP_VER = "";      // cache-busting version (date) for the image URLs
+let FP_STATUS = {};
+let FP_VER = "";
+
+// Headlines language state
+let hlData = null;
+let currentLang = "en";
+
+function updateLangToggle(){
+  const btn = document.getElementById("lang-toggle");
+  if(!btn) return;
+  const hasHe = !!(hlData && hlData.regions_he);
+  btn.disabled = !hasHe;
+  btn.title = hasHe ? "" : "Hebrew translation not available yet — will appear after the next automatic update";
+  btn.textContent = currentLang === "he" ? "🌐 English" : "🇮🇱 עברית";
+}
+
+function toggleLang(){
+  if(!hlData) return;
+  currentLang = (currentLang === "en" && hlData.regions_he) ? "he" : "en";
+  updateLangToggle();
+  const displayData = currentLang === "he"
+    ? Object.assign({}, hlData, {regions: hlData.regions_he})
+    : hlData;
+  renderHeadlines(displayData, document.getElementById("hl-container"));
+}
 
 function fpImgURL(id){ return `frontpages/${id}.jpg?v=${encodeURIComponent(FP_VER || "0")}`; }
 
@@ -327,7 +348,6 @@ function lb(l){
 }
 
 async function buildFPGrid(){
-  // Load the manifest produced by the daily workflow (cache-busted).
   try{
     const r = await fetch("frontpages/manifest.json?t=" + Date.now());
     if(r.ok){
@@ -335,7 +355,7 @@ async function buildFPGrid(){
       FP_VER = (m.updated || "").slice(0,10);
       (m.papers || []).forEach(p => { FP_STATUS[p.id] = p; });
     }
-  }catch(e){ /* manifest not generated yet — show placeholders */ }
+  }catch(e){}
 
   document.getElementById("fp-grid").innerHTML = FP_PAPERS.map((p,idx)=>{
     const st = FP_STATUS[p.id];
@@ -366,7 +386,6 @@ async function buildFPGrid(){
   if(note) note.textContent = FP_VER ? ("Front pages as of " + FP_VER) : "";
 }
 
-// If a committed image somehow fails to load, fall back to the placeholder.
 function fpImgError(img){
   img.style.display = "none";
   const ph = img.parentElement.querySelector(".fp-placeholder");
@@ -459,10 +478,12 @@ function esc(s){
 async function loadHeadlines(){
   const container = document.getElementById("hl-container");
   try{
-    // Cache-bust so the 30-min refresh isn't served a stale copy by the CDN.
     const res = await fetch("headlines.json?t=" + Date.now(), {cache:"no-store"});
     if(!res.ok) throw new Error("HTTP "+res.status);
     const data = await res.json();
+    hlData = data;
+    currentLang = "en";
+    updateLangToggle();
     renderHeadlines(data, container);
   }catch(err){
     container.innerHTML=`<div class="hl-loading">Headlines not yet available — the fetcher refreshes every 30 minutes.<br><small style="color:var(--muted)">(${err.message})</small></div>`;
@@ -477,13 +498,7 @@ function renderHeadlines(data, container){
     html+=`<div class="hl-updated">Last updated: ${label}</div>`;
   }
   const regions=data.regions||{};
-  // Fixed display order requested for the Headlines tab; any other region
-  // (should one appear) is shown afterwards.
-  const REGION_ORDER=["Pan-Arab","Levant","Gulf","Israel"];
-  const ordered=[...REGION_ORDER.filter(r=>r in regions),
-                 ...Object.keys(regions).filter(r=>!REGION_ORDER.includes(r))];
-  for(const region of ordered){
-    const outlets=regions[region];
+  for(const [region,outlets] of Object.entries(regions)){
     html+=`<div class="hl-region">
       <div class="hl-region-head">${esc(region)}</div>
       <div class="hl-grid">${outlets.map(renderOutletCard).join("")}</div>
@@ -497,7 +512,7 @@ function renderOutletCard(outlet){
   let listHTML;
   if(headlines.length){
     listHTML=`<ul class="hl-list">${headlines.map(h=>`
-      <li><a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.title)}</a></li>`
+      <li><a href="${esc(h.url)}" target="_blank" rel="noopener" dir="auto">${esc(h.title)}</a></li>`
     ).join("")}</ul>`;
   }else{
     listHTML=`<div class="hl-none">${outlet.error?"Feed unavailable today":"No headlines"}</div>`;

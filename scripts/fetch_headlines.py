@@ -38,6 +38,7 @@ Sometimes Google News returns navigation pages ("Contact Us", "Sports", etc.)
 instead of real articles. The JUNK_TITLES list below tells the script to skip
 those so they never appear on the site.
 """
+import copy
 import json
 import sys
 from datetime import datetime, timedelta, timezone
@@ -331,12 +332,62 @@ def fetch_outlet(session: requests.Session, meta: dict) -> dict:
     return result
 
 
+def translate_to_hebrew(regions: dict):
+    """Translate all headline titles to Hebrew using Google Translate.
+
+    Returns a deep-copied regions dict with Hebrew titles, or None on failure.
+    Failures are non-fatal — the site simply won't show the toggle until the
+    next successful run.
+    """
+    try:
+        from deep_translator import GoogleTranslator
+    except ImportError:
+        print("  deep-translator not installed — skipping Hebrew translation", file=sys.stderr)
+        return None
+
+    try:
+        positions = []
+        titles = []
+        for region, outlets in regions.items():
+            for o_idx, outlet in enumerate(outlets):
+                for h_idx, h in enumerate(outlet.get("headlines", [])):
+                    positions.append((region, o_idx, h_idx))
+                    titles.append(h["title"])
+
+        if not titles:
+            return None
+
+        translator = GoogleTranslator(source="auto", target="he")
+        # translate_batch handles the list correctly; chunk to stay under limits
+        CHUNK = 40
+        translated: list = []
+        for i in range(0, len(titles), CHUNK):
+            translated.extend(translator.translate_batch(titles[i : i + CHUNK]))
+
+        regions_he = copy.deepcopy(regions)
+        for i, (region, o_idx, h_idx) in enumerate(positions):
+            if i < len(translated) and translated[i]:
+                regions_he[region][o_idx]["headlines"][h_idx]["title"] = translated[i]
+
+        print(f"  Translated {len(titles)} headlines to Hebrew")
+        return regions_he
+
+    except Exception as exc:
+        print(f"  Hebrew translation failed: {exc}", file=sys.stderr)
+        return None
+
+
 def main():
     session = requests.Session()
     output = {"updated": datetime.now(timezone.utc).isoformat(), "regions": {}}
     for region, sources in SOURCES.items():
         print(f"\n[{region}]")
         output["regions"][region] = [fetch_outlet(session, s) for s in sources]
+
+    print("\n[Hebrew translation]")
+    regions_he = translate_to_hebrew(output["regions"])
+    if regions_he:
+        output["regions_he"] = regions_he
 
     out_path = Path(__file__).parent.parent / "headlines.json"
     out_path.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
