@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T22:02:55.112470+00:00",
+  "updated": "2026-06-21T22:30:38.596276+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
+            "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+            "published": "2026-06-21T21:45:02+00:00",
+            "snippet": ""
+          },
           {
             "title": "What are the end goals of Iran-US negotiations?",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/sports/2026/6/21/serena-williams-to-play-womens-singles-at-wimbledon-as-wildcard-entrant?traffic_source=rss",
             "published": "2026-06-21T20:05:19+00:00",
             "snippet": "Seven-time champion Serena Williams will compete in the women's singles at Wimbledon as a wildcard, marking her Grand Slam return six years after her last appearance."
-          },
-          {
-            "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss",
-            "published": "2026-06-21T20:04:40+00:00",
-            "snippet": "Displaced residents have returned to Nabatieh, southern Lebanon, following Israel's decision to halt military operations in the region."
           }
         ],
         "error": null
@@ -47,6 +47,18 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Iran says messages continue through mediators after refusing to rejoin talks",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
+            "published": "2026-06-21T22:25:36+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Israeli army says killed two Palestinians near Hebron",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-two-palestinians-near-hebron",
+            "published": "2026-06-21T22:12:58+00:00",
+            "snippet": ""
+          },
           {
             "title": "Israeli attacks kill nine people in Gaza in past 24 hours",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-gaza-past-24-hours",
@@ -64,18 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-minister-warns-israeli-sabotage-risk-us-iran-deal",
             "published": "2026-06-21T20:33:22+00:00",
             "snippet": "Turkish Foreign Minister Hakan Fidan warned of potential Israeli sabotage against the US-Iran deal, citing unresolved technical issues and Israel's readiness to derail the process."
-          },
-          {
-            "title": "Loud boom heard in Doha as explosion at factory reported",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-boom-heard-doha-factory-explosion-reported",
-            "published": "2026-06-21T19:58:36+00:00",
-            "snippet": "A loud boom in Doha was attributed to a factory explosion in Ras Laffan due to a technical incident, with Qatar's Interior Ministry reporting no injuries or leaks."
-          },
-          {
-            "title": "Iran delegation 'remains engaged' in Switzerland talks, report says",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-delegation-remains-engaged-switzerland-talks-report-says",
-            "published": "2026-06-21T19:49:21+00:00",
-            "snippet": "Iran's delegation remains engaged in US-Iran talks in Switzerland, mediated by Pakistan and Qatar, despite reports of negotiators leaving the venue."
           }
         ],
         "error": null
@@ -126,6 +126,12 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "Despite recent appearances, Dahlan's role in Gaza 'very limited'",
+            "url": "https://www.newarab.com/analysis/despite-recent-appearances-dahlans-role-gaza-very-limited",
+            "published": "2026-06-21T22:06:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "British-Syrian activist Hassan Akkad released in Damascus",
             "url": "https://www.newarab.com/news/british-syrian-activist-hassan-akkad-released-damascus",
             "published": "2026-06-21T16:52:45+00:00",
@@ -148,12 +154,6 @@
             "url": "https://www.newarab.com/news/coalition-strike-revives-debate-over-syrias-foreign-fighters",
             "published": "2026-06-21T15:02:54+00:00",
             "snippet": "A suspected coalition strike in Idlib has reignited the debate surrounding Syria's foreign fighters and the government's integration plans."
-          },
-          {
-            "title": "Vance hopes US, Iran can turn the page at 'historic' talks",
-            "url": "https://www.newarab.com/news/vance-hopes-us-iran-can-turn-page-historic-talks",
-            "published": "2026-06-21T14:32:03+00:00",
-            "snippet": "US and Iranian negotiators are meeting in Switzerland to discuss Tehran's nuclear program and the conflict in Lebanon, with Vance expressing hope for progress."
           }
         ],
         "error": null
@@ -267,6 +267,12 @@
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWlOOEJmZ3Jrc0lvdkhZR3R2TG04SjcwSU9BLUtwbEk4bGhXUWt5b25CVENXcFM5U2ppQkhrWncyUEQzQ2lxcmVaU3JmUWNKbGlWcHE5RWhWaURHYmhLdVFTTEFXTllrbHBoYzZlaG9zTllkMUluSXFvZXQtdm5hUnpmQVdyaTBjSnZham9kNlRkN2ROYmxGcGhyQlpSVUM4ZldzV3AzektpeTh3cUlyd3lXRC1iUW5t?oc=5",
             "published": "2026-06-21T09:31:20+00:00",
             "snippet": "The event 'A Night of Ideas' in Beirut advocated for poetry over debate, as covered by L'Orient Today."
+          },
+          {
+            "title": "Mufti Deriane warns against 'those who want to draw Syria into a conflict against Hezbollah' in Lebanon - L'Orient Today",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0VmcDBsZmp4UFVwN0wwVlNaekltR0lRQm5mb2JyNlRCdHozSnBNTWdPME9ITGNXVEM3N05TeFBacy1KRTBpdjRWRlFySjJpckRWV0FkOXZieUNvMzZwNm4tSFRXd1V1V2MzNm5lQzMyZWpwYlRZbWFoNVhTOUxTZmowSlZzZmpnTmNheHNQV3JwTWxmMGxVZXZ1R2tMTFQ3dWlONDFzWUpzNHF3VGVrN0RIUGZBaFZZeFZxWHNNYUcwYVdVUnRTcWFFVlNDYzljckd3d1c1UnNqUGxrVVprREl1LXVQTEs5Q0E?oc=5",
+            "published": "2026-06-21T07:11:14+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -317,16 +323,22 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "إسرائيل تعلن تسجيل أول حالة اشتباه بالإصابة بفيروس «إيبولا» - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPbV9hMTVzQUtHRkFIQWxaWjJSOHVhRjZ1N0pqTXJIMko0c1RINFNZTEsybWNmVFdGYS1uNkVLOXVxVGJBem5BUGlrRG14N3V1RFcyejkweU52Vk44M0dOS003a0pudzEtMUZfRUs4NjZ3aE44Zm4tZ3N5VGZ2bnFBVzBYOW4yV1FhY3FiejVyNE1pWnlMSnJPa2R1dTlZM3lhOTNpUmRaUVdKQVhYLVJsenFpY1hRcFNETkJjQks5OXhtaFo0Q2xSaXpXR3hhVVdNRVFNUEl2MWdfS2ZNcGRITlB2dkNVZFFDUFM5YUJMRjlwdmRydi1JQUtyc3R2MExuYlVUaVBDRGwwZ2pJVENReG9qS004dVhXV2o3OURvNGg0S0pXeW1RSUFVaGRHeVdiN2RrWURfTGdaMk5uUzNRQnFQOXREZjNhN2tRdkZfbnUxSnJ4M1hmSFd0SmpOTlNILVktQ1J3ZHhTaGRoYWpNQnExUjlZVkM4aXNCZnJYS01nWlJNWjFacnpnUE11VWNqcHoycV9uRmRJTERZVkp5bzFhQzN0NHh4akZFdDBBdTVaa21fdlNGUFkzOWtwNXVaVnZuSUZGbUFGaWYySWFMTElDd2NMMkQ4cW11Zkc1TzdzaTJMTW02TTlR?oc=5",
+            "published": "2026-06-21T22:04:58+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "روبيو يعرض مناورة إسرائيلية: اطردوا حزب الله من علي الطاهر | لماذا يحاول عون ضم الوفد العسكري إلى الوفد السـياسي؟ - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPZy0tRGRSUmZ6eGZ4ZmEwdy02MlJiVkp4M3pRRl9KOXZhM1k0NlRJSEdUMGVEQ2RPbXhtaDd4LVhxd3ltLXlNcmwwSWt0dzJtNmxtQVBlVG83N1FNT0g1WWNoUExpUEtSQUZMMkdwbUJ5bTJOWEZkWmlFUHFSZzBGdVJtNnZfeFU2dFJpYW9Lb1BlSi15cGNDMHE5M2FZVHFLVFg5VVBwMnNrLTNMdDFlOVlTTzkxZWxDQTNhZDFXc2ZyeW1vWVQ1bjN4d2hMNmVFSzkyR2paU3dfeHA5VjRLcE1uNGFxRFNtYVMzRUFPNEdBUzNLLWpFMXVUTGRhY1pLSWRRUC1rTDhrbE51S1JxZWdVQkFJRjRyRXVKTEtQOW1Zdi1IRnRLZ1VQMlhrQTZZZXV5RVRzajV0MENQUmZJSGlwV1I5ZXR5Z2xielY0T05pTUVNck5DZThTeWdHb2RuMXlCeDFlMnM1aGFJUzFYSnVDY0JTYnhRSTFHTDhhc2N4ZTVXRHJQelZEdjl5Rk1WTC1HWXIwWWlMbFRFaWxQZFhaaGM4TFNReDE5WWtqZ2dWZWhSTmNDOGdvWG5ySWx1VXFwb3RtWGY5a0NIa2J0MlR1elRJTzNCM2tZVEI3TUF0cGlBY2d5T1BjWmo0ZGp4dnpOWEdReU8?oc=5",
+            "published": "2026-06-21T22:04:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "دانيال كريغ... الرجل الذي أحيا جيمس بوند! - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQZmVXYzM3eVpHODh1TjdpQUpRUE1NN0VqTEVhUm9pNzFJQjhrcFcwWlh2RERKRzNJX0FaV3lHUWlzRWQtbFdwRDd6QTFWLVN1Z0lLU2Y5UTZhQlVESzdsODRMZmZIdlNiYmEtN29fMHN0SHh6NWJoUEJoR0o0LU0tR0wzQk5WUEZvNXUxVU53WmJNQkxYZm4xeUhqOTZiejA3bm9ub1NyREhta0tFYTNIdzNfTHcyX0tKOWVwMnFCLTRNU1loQWthc2pWWmtqNFJhdkV3YnptMGhSRWpONkUzcHY5eHcyWnI2MDJVLVZmYjBpLWdadWRIWGVVa3dCZk1ibHlfSGlPUXBSZWhLek9BSXgtWWI4bWpiSHQxNmNsQ1daVU44RUp4WV9QWGlyZkdORjRqbnNwMEZRcU4tRlpRRUE5SF9yd1J5Yk1sZTNrSVNkSjVFYnUzbU5KVE8yanRZU3NncV8zbE1KV3g4V2NV?oc=5",
             "published": "2026-06-21T21:30:00+00:00",
             "snippet": "Daniel Craig is celebrated as the actor who revitalized the James Bond character, according to Al Akhbar."
-          },
-          {
-            "title": "تبدّلات في خارطة الانقسام التقليدي: «مذكّرة التفاهم» تحصد تأييداً إيرانياً واسعاً - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOYUE5UmZxbzZjT3UycFdmVXlWVk1Yd0I4dk9CUjlSZ0JYQ0twcmhvX1RlUDB4c3NqSE5MeXZCeTNVYVRQUXJ3MHMtdVZ2ZGNIdG5nTjh6YUNUQ1Bqa1J5LVBGMWE5VnZjVlRvRFVlMHhlSUxLaXVCWUl1THl2NVNjRzY2Z01ITXAtQU1ZYjJYdzczRllBRmIxU0RkX0dSWjVxUzVfTFh0WFlZclNIUDNsZk1DT1Y3SFpSTThyRkNrUzhMVjZJTHI4S1dIUE0wYW5KQTBiRldCbDlTMVdiWHRRZHhTZE5oVzBWMl9wLTF4M2tsTVlrT3VwWFlRTmk2bDhOVDNfczhMLW5nbU91MmZ4NWJGZGFhanBQOFFNTTBraElVaFlyVi1jOE9EZkNFZUNpS1ctOGZKQUx4RFdOdER5eVhaY2NqTVFEM0xvM2JOc3FUQTdLRkMyUVBfeUFFZzk4MlJrNzl5S1Y0TTFnUzJ6ampUcjBFWGhOU3RZaFc1UE5GUDE2MWp2T1hjTGZGN0c4LWRBWmh0cVRxM3RzcU82c0J6SFZERWxWSjBNNHVxVjktclU4bGt1U3p3VTQtYU8wN250d1lJZ1dyaEJBMnltbFdReTNQTmJURDBkRnRLZlFsQU1fSE9GWnJxLXVEQlAwNnJ6T0EyeWRkMExzVllj?oc=5",
-            "published": "2026-06-21T21:30:00+00:00",
-            "snippet": "Al Akhbar discusses shifts in traditional divisions with the memorandum of understanding receiving broad Iranian support."
           },
           {
             "title": "تنفيس إسرائيلي للغضب في غزة: ميلادينوف يتبنّى شروط العدو - Al Akhbar",
@@ -339,12 +351,6 @@
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFI1VEhHcFlDb2ZvWVZkazB4WkZ4ZmJaQWRlZFc3ajR6RW94SWdkNTlRSmxZTmpLZXJFN08wUUc5OVF1RnFaaWtQUGpnWC1mcEZhWmEwQVBqUWNKRmtPeFVyNFNuMDNtS19wYjFSMjd4OGxCajRyV0NqN2dsaHJ3eW54VFVpOGU3WDFySUh4dUVGVTVFaVY4d2syTDdGQ1lmb1lxdUxVMEU5THhwa1I4?oc=5",
             "published": "2026-06-21T21:22:30+00:00",
             "snippet": "An item titled 'على بالي' is listed without a description in Al Akhbar."
-          },
-          {
-            "title": "كأس العالم 2026: مصر لخطف النقاط من نيوزيلندا - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSzZFTnBIYlNNRndsQ2N2anJwQk0yWUw4cHdpN2VCaWhiM3pJbzZQZloxSF9SUXZlWlVMa3JQSTF1bElHTFM3Q0c4SFVSU2ctM1hPdnVYWkZTUDhYWm9nOHNEVGl3LVA5ZW5jMXA1b3U2dFM0RlRmRkczby0tbnNpaFVBNG5DOVlReU51RW41UTdSQ1dwbWNwdkVqNFZsZHdUSGFkU1ZaVFdDbjdSTWdBUWpBSGN5Y0xHUXdJQ2FxVUl5VGQtUWNsVi16TkZCVGtnbGNHbU1QcldCV2I2bEgwb3N5bUtxVEo4bmpaVnJBVnMwMGNmdUtNczQ3dHQ2WFJsVjlpemhveVJJRVhoc2JnS01wZ3FkUjZCUlpxRW1sQndpdDRJSm40RG9mZmVPa096TjJuVzhmbW9ZMU1iUHFOeEZTdGpoRWt4NXhaVWhmSUx5bDVBMnBrR24tdGwxWXdVX2JZTWQwSWM3NUkxenktMw?oc=5",
-            "published": "2026-06-21T19:53:00+00:00",
-            "snippet": "Al Akhbar previews the 2026 World Cup match where Egypt aims to secure points against New Zealand."
           }
         ],
         "error": null
@@ -362,10 +368,10 @@
             "snippet": "Iranian Revolutionary Guard Corps' Quds Force Commander, Brigadier General Esmail Qaani, threatened Israel, stating that if they do not leave southern Lebanon on foot, the 2000 scenario will repeat."
           },
           {
-            "title": "قطر | وقوع انفجار داخلي في أحد المصانع بمنطقة رأس لفان الصناعية اثر حادث تقني",
+            "title": "قطر | انفجار فني في منطقة رأس لفان الصناعية شمال الدوحة دون تسجيل إصابات أو تسربات",
             "url": "https://www.almanar.com.lb/article/967872/",
             "published": "2026-06-21T21:29:51+00:00",
-            "snippet": "Qatar's Ministry of Interior announced an internal explosion at a factory in Ras Laffan Industrial City due to a technical incident, confirming no injuries or leaks."
+            "snippet": ""
           },
           {
             "title": "الهلال الأحمر: طواقمنا تتعامل مع إصابة طفل (15 عاماً) بالرصاص الحي من اعتداء المستوطنين في بيت أمر قرب الخليل في الضفة الغربية المحتلة",
@@ -475,34 +481,34 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "Reconstruction, energy drive renewed Syria-Germany ties - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LbmZnYzNjdHlMalo5eXcxS0lvM3hHSVNYVWU5RFFWd0pJN1V0SF8xaUxkODQxYjJCQ2Y2ZVdkbGVwbF95VXkwUXQzMVNOdWJCR2lJ?oc=5",
+            "title": "Some southern Lebanon residents trickle back as fighting pauses - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Yy1KZ0c5OHFvRF9lUGdZdXlnSVdRTVFNd2xrUFdydU1zdWpUWC1SOGctMXNUUHNlQWJSc1pEVzUzck13ak1BZGQ5YmYwNUwyT0Nr?oc=5",
+            "published": "2026-06-21T21:00:15+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Agriculture ministry: No watermelon virus cases recorded in Palestinian fields - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81WUVvb0EwSG1MZ3BFZFdad0U1RkxCSnQ4UjljczEwLXdJUl94X2JWb0xkVFAxd3UzUWJ5anNVR0dyeV9oaTBoZmk2ZUxQX1p3UmJR?oc=5",
             "published": "2026-06-21T20:21:19+00:00",
             "snippet": ""
           },
           {
-            "title": "Mourners gather in Beirut to pay respects to Lebanese conservationist who died after Israeli strike - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGLWJGejBURmVTU05qdEd2cUtxdVRzSURmZkxjaWltVGo3OE53TFpWTWtMcFdxdGszQXhzcm16QjlxRlhrZnAxZEd1aXJhWVJWOE5R?oc=5",
+            "title": "‘Great ambition and professionalism’: Hamza Abdelkarim’s former coach lauds Egypt’s teenage star - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tdU94dWJpb0FEVk1ZeDN1SlBXZXVCWGVESWtvbkJkdzRRVTJIbVhMN1R6djE5Vkw5cUFpbURwTmpzS1BTamptTW5tQW1zVXhHQ29n?oc=5",
             "published": "2026-06-21T20:21:19+00:00",
-            "snippet": "Mourners gathered in Beirut to pay tribute to a Lebanese conservationist killed in an Israeli strike, as reported by Arab News."
+            "snippet": ""
           },
           {
-            "title": "What We Are Reading Today: ‘Fungi of Temperate Europe’ - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNYnpURjBhQ1hvcmpfWUgyWmYtQjV0VFFMeVEtY2x1dEJiQTZrVy00MjVMcHJtd3Q5clFpQ2VFUGZvbFZhVHJfa2ZJU2tIU2tOa0VCZnJ3?oc=5",
-            "published": "2026-06-21T19:38:18+00:00",
-            "snippet": "The article 'What We Are Reading Today: ‘Fungi of Temperate Europe’' is featured by Arab News."
+            "title": "Saudi Arabia’s march toward a cashless economy - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYjFoX0Q4eGNJRVJieTIzX1dLNWpXdVM3Q25qZWlxZnJBUUVQbHp0T1otMTc0S2Qxd1V3cHNzM2d1cGZvSFByb1Y1c2lhSGNYMW1R?oc=5",
+            "published": "2026-06-21T20:21:19+00:00",
+            "snippet": ""
           },
           {
-            "title": "GCC secretary general receives Iraqi ambassador to Saudi Arabia - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5COU9RRG5vQlhDMkswdTZnRHpkZHc5YTJwQUZ2ZEFidGJMYTdNcUR4aW9xYXo4R2cwMFh6MlNDdzVDcXJlaERDbk9DMHBNM3hJVFhv?oc=5",
-            "published": "2026-06-21T18:51:28+00:00",
-            "snippet": "The GCC secretary general received the Iraqi ambassador to Saudi Arabia, according to Arab News."
-          },
-          {
-            "title": "Review: ‘Swapped’ – animated comedy film - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xamljMDBQLW5PNTAteDBaOEFNMUc3THVTWUZkMVpxVTNhQnFmbzZzU0tNVnV6TW54TUVDcEhIcDVsQmJLMjJya3BVZ3FwUk56OUdrTC1JUTltdlE?oc=5",
-            "published": "2026-06-21T18:33:26+00:00",
-            "snippet": "Arab News features a review of the animated comedy film ‘Swapped’."
+            "title": "Reconstruction, energy drive renewed Syria-Germany ties - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LbmZnYzNjdHlMalo5eXcxS0lvM3hHSVNYVWU5RFFWd0pJN1V0SF8xaUxkODQxYjJCQ2Y2ZVdkbGVwbF95VXkwUXQzMVNOdWJCR2lJ?oc=5",
+            "published": "2026-06-21T20:21:19+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -553,34 +559,34 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "7 killed and dozens injured following series of weekend shootings in Chicago - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGw0TVVVeDlRSTFHZ0R5SmlKYTBTczk4RGpiTWNSaE94OWlTOEVFT2ZvRWo1SDQ3dlc1YVBKdzB6V0Z4MWY2MFVlUnNrczZfN3pSYl9YQ2hHNTNBSzY3ZXVpdkZtcXNSNmFxeDNKa3huQTZOM2Y3OVVBa3JObzkzSkNTcEVvenVnOWd5bnpkTXVKTWVubnlONzItajRwZEZubk0yMVJHblZJZ08zRDNxdXR1TEpUam5kRk43T21OczVJUdIB1AFBVV95cUxQZGx0d0JwbmpJZWpidGpOQzR6a0Y4UnVENU4zS2dtSmVFb1hkSFA3MGhNd016X3hxdVJ2ZGkxZGZTc08xWEs0SzRUSndxcGt0UDMtWmZlNHl5dmFjNktCMWIyampQRnNlMjRpTGFQRkItREQxSWNUc0RwT1Y5WEsxUWRqZnhCMmo3YVQxSXJEMHdNazBvTl83Mkp3eUlQb2wwTUtPN2Qzdi1mVERjSEtBZGZlaUJzQzR5MkV0TF9NV0ttZk9EbEh0ZHlzQ1lteHJnNmlaMQ?oc=5",
-            "published": "2026-06-21T21:58:09+00:00",
+            "title": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc2ZsNWxOUmIzUUczRl9IWVJJU3V6M3lsUVNDY1lIVS13ZHVmR0tzWFBVVFJJcVpWakN2M19nZUc3Y3hkUk1jUWZLSEROVzd6X29lZWM1c1hyYU5iLThQY3VOLWV6WGtCVEYtVC0yejV5SDFMeXhhRTBHeThoUXRudHVhbEdGZ3dGTHp1VnhyUjRoaFRLY3B4RUpaYnpPbTYyR0JLOTgyQUJWd2pNRFg3UFNsNk1XaWpFYjIyb1NIU2tjQkFPNDU5ZHY2QlpFVEJoYzJhYXVLZVQyUTc0Z0YwNS1JNlpHRjdmLXBqNV9tT2RITXfSAYYCQVVfeXFMUFdiSDJWMmhDcExELWFKQVVROUpvclFobXZOcm82aVl5bUt1WC1Qc1Z0MlJXSWdmWVZfcWRuZTZpRzRfWE1PSVQ1enAtaVBqVU0xVloxZVFXeDdhVm5zMl90R1JSZUFmTUhtOUVhVzNTRXN3TXBNaFg0NklZR0V1aUJSVUtPZ1JmT0IzRkNjOF9aT3RweHdHbUFZNkJKaWFGR2FGQkxvdk5VV0s0LXlxTVJhLXNDWWtWZHdvem5MdVd4SkNuVHVxMDZ3a015N2gwMk5HNGRYcE9nMFJETkZwRGs5OWk1X2RtakFsR0s2em5mYlA2M0J0UjJYZ01MQWNNVTlmMTFFdw?oc=5",
+            "published": "2026-06-21T22:22:04+00:00",
             "snippet": ""
           },
           {
-            "title": "European heatwave sweeps across continent - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZkNhNUJHMFRGYy1xYVVTd3lnN0psNENKTFRGc1RxTjhxVjQyWm9EaFczeE1yQVNFOFRaanQ4SWRYZkl2U0FVQm9YTHVnc3htY3MwWW5Ea3NBM1k4SGR3SlFGbFVOYnBrVG1PVzYxVndMUk9nV0dHaXhYUTU3ZHAyd2tvQUtxZ3BmWWg1a2kxMlrSAaMBQVVfeXFMT1J2QTJWV3Rpd29PckRNeXM3bllXUkRQUTdlLXJ2T1J5bFZES09KVmctQzRodmx1Q0RjOEJ5dHdTT1Q2bkhTV09OXzNtaXVKY0VOYWxuX0M3bFVFQkk3YXQwbWQtRVVKZUNaTXVpWVh6ZlYzZkFsMzR0Y2NJSDNUTTZtU0JxVi1FT0E5OFB5b0ZhdjRDQnJQSDZFN1FmS0lnT0VmTQ?oc=5",
-            "published": "2026-06-21T21:38:30+00:00",
-            "snippet": "A European heatwave is sweeping across the continent, as reported by Gulf News."
+            "title": "'Toy Story 5' rakes in the biggest box-office debut of the year with a franchise-best $160 million - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZm80eFRKRHh3c1FiSEVQNVhJWElmeVRjLUZITUh6OUZMM0JkX3Y4eXptcmVLOTJfNldNM1NxUVdVdzZjV0dsamRHbkJVRmI0dWVRczZoSHBZYmNTRjRRU21vanFZX1l4akdhU3prOW52NHN6LTVKYXFIdWllRFkwdU01cVgyRU8wTWhQOWRMZTNyUkJ3QmZtUVQ4VmcxWS03azJURnd0bC14NHMySExwWW91N01pSVRtTlFrOGpBVkIzWGlXSHVVSXplYURpTTA5WGxVLWJiWWVPUdIB6gFBVV95cUxOai1DQ2xrdlpVWE1pUUFUeDI1NUxkcXpTM1dFdjJPWndjdnhyS0FwZENidUp1emEzUWNGVDV5NmQwMmltelNvbl9mRlJDR014dFRKQ25PYUxmS0dUYmxZdnNyVWJtbnNXbGljOEVHcjhJNnNyejF0bW50UldIaWFyT3ZMdDJ5em9tWk1kWUllMW8zcERlMkllREhubWhmejdaNGYxOUVEdTYwcDltU0ZNRlhuUlpUSUxQdXBVcl9UQ0JmWE1RYWhvU1VkbkxNY3ltdFpHNHJwbzZBT09uY3hPU1htczNBalNLNmc?oc=5",
+            "published": "2026-06-21T22:11:40+00:00",
+            "snippet": ""
           },
           {
-            "title": "US-ISRAEL-IRAN WAR - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MakRIM2tfbVRMV2V4SG5qdkJLTFY3V18xYmRoLURNWG1PakxyWW5QajlfWlJ2V1Q3NXZNTWdHUnhocFV5UGw5RFBpbXRFS2JQX0p3UFhoWlc?oc=5",
-            "published": "2026-06-21T21:14:47+00:00",
-            "snippet": "The US-Israel-Iran war is mentioned by Gulf News without further details in the description."
+            "title": "Explosion at Qatar's Ras Laffan industrial zone leaves several injured - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEpoTWFxLVpmYmtLd0RyTHg5RlVXR1NPdzhLdm5JQXlFaW5qMXpOTk1RblVuRjJOT0hSdWJieFRwUUNQYm1WX211WEk4MHhVQUdqMVhoMk94bzAxZEg0T1RQNGxnclY4bzN1NkFfN2ZsTm5BM0tpWVVaYThSZW9mX3c0dEpacFEzNDlnMk5LQW5TZGFSaURPSE5xd1BLR2tCS3d3cnlrTWdKblZmbS1VMVhLdm1nVTZidG1R0gHQAUFVX3lxTFByU01haUs1VWFzeUVHVk5FSnhOT1FtSE5NdTlNRC0taHNxZUdHblFZUjl5YVZUTTNlWTJGcl9BNWxPZ0Z0aUpKNmtweU9IVjZveEV6Qm5jX2cwTUtjdm04Ympid2FpdkUtb3JHZzVqYXZFeGs1Z3lNU1QwU1czclRJRE9yb29RNWRuOGRYcjUtMllTQV9nYkJuazBiQUNDV1FaSjREV2w1LThWNl8zSjhqbE9Qd2hXSXkzU2hRQUZtOWk5TXpHcF9nSlJfS3ljYU8?oc=5",
+            "published": "2026-06-21T22:08:27+00:00",
+            "snippet": ""
           },
           {
-            "title": "Massive explosion at Qatar factory, no gas leaks reported - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanNmR3drV19LaS0yX0FYOHd2SEpZZmk4MnFxUTZidkJ0MFFYdFprVHJmQXJMVDZ4eGVjTW5FREZRSDZQc0ZYbFVuOEpiU1VTTUpLaWtWa2I0OGw4QVRQOTV2ckNtbkRWb3lNOHRVZFQ5ajFJOG9PczY1aHZ3VXFEaUpDVVR4MmNOUGpSLUJTbDVwM1JwOWdRRWVVbVFZVUNQX1FaazFYRzJXd9IBvwFBVV95cUxNSmY3ZjROVXY4eDRTUGxZbVUtWE9Eci1WZXVLMmZFZlRIUEdISU0wOXFIc3YxbS1yTkpXTFhLSm9nX0pCZ2MtdWtTS3E5RDVLZ0FER2Y4SmFFWTZXVHdrRHYtajhGZ0pkRUNEeGY5aFdqUFB4czEycUVGaXJ5d3JmNVVPWVplVm9lYWstSXZlNGRuaWo1VkRKSTcwdENZY3VCX3VlbDlSYUdlQTRLSXRyWTRMTnIxU21SaG1ETDhXTQ?oc=5",
-            "published": "2026-06-21T19:57:31+00:00",
-            "snippet": "A massive explosion occurred at a Qatar factory with no gas leaks reported, according to Gulf News."
+            "title": "Trump says repairs to begin 'immediately' for Washington pool renovation - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3lFajNGOTZmNUNUTHF2ZVc3NlJJZEduaGItMHNBc1hvaHMyYUo1OERvUEZ6R19aUjZ6Tkd0OGNoVzNxUDB5NHBDbVViLVBRbVB6WS13WmI5MTNIUWs1WS13ZFIwNHZ5ZF85dFVNeHF3dmdxREM1Rk1BMVMyaU1wR3VaSEFMWXRUUjFSWXRrblYwRW5RMjItQzAxeUdZLU01dUJoSUF4bzBfekE1WWltVkpJckI2WnI5d0HSAcwBQVVfeXFMT3dQcXZVMG9uQ2lXY0FidWk5YjlzdWtoakY1bGN3UDV3VzQ1MElTVmItdGtGeFZudERCNjZqb1FvelUxcE82NG5sS3dpU1RNOGZYSnFvZTNJLU1jMjJ2OHZKeE15UmJ0d3A3QWZXQXplUzVua3ItMjc5VUxuRF9YTjhPZE5Nc0ptOXJoNTVVR0RMUlVpUEE5WmZ3SnFTaVI0MjdiNkNDdVdEbzhQb0lDemMxbk1SQnhsQ3R0SjJDSzR5MWNKSF9PVUxtNE5W?oc=5",
+            "published": "2026-06-21T22:04:59+00:00",
+            "snippet": ""
           },
           {
-            "title": "Video: Iran skips photo-op at US–Iran talks after Trump’s latest threats - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOajRPbHh4UFBHMW1uY2RCeEN0S1FILW1zcFFmMXZPazJxdHk0a2ZmREhlaWRoRGtwM19xQjlvaENxd0k2ZUJkMnF0MHpnc0dlUnc5Y3FIRFJqQ1BkZFh2dFVmM0ZHcG90RnI4Mzd2akJYZWx6WVo4cWg2LWVPdXFNVFhmUDZOc214SUhPalRxTGFFZXcybWlTNWhkcnA1dzZlejkwZHhnN3EyYTBxZTJCdTAxR3lQNU1pdFhrMHVVajhRMjJ5cUhKTS1zdm0?oc=5",
-            "published": "2026-06-21T19:34:33+00:00",
-            "snippet": "Gulf News reports and shows video of Iran skipping a photo opportunity at US-Iran talks after Trump's threats."
+            "title": "UAE riders claim top three spots in Emirates Global Endurance Series opener in France - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmdfN3RMcmhBRDYwcGEzNzVqWjJlcllfblYzTUljSjk5S25OUUY3R0VfNXpvNXdNTzZsUDdSUFp0TnZsQ1owNFA4ektpMmEyTzdwZU5NNEU3UDVhMmVzX0NURXdsN1hjMzM0V0JQb2NiRDhZSzRUek11eS1VNTlNQ3NVaklwR1Mwd1daNUhmbzltTHpCMGQ3Yy1XUXA1MFhETDZSa1V6ZGVFeWhZWkxtSGdrZ3dibFEzaGZIVndLSmh3Z9IB0gFBVV95cUxNdGUyZERmVEFSZDY5VVgtR1ZUcXBLeE1PNDB4bF9CRDZXRjJtRVB5Z0NJMlJVcXhval9hR3VuQm1UY3ZaVTIzWWRrTUFGNU45SUxMUkxEby16NWx5NDhYNWtIWXdwako5YUkxUjd3RHJnV2tsX01CdXlKejVwbFItcFJCX21Nd3lkOFJ1RC1KLWtFTW9RdllMOHFIR0lYbkQ1WWtKSjRhajdhZThkWDZ4MG42M3NHTHh3eTVWZHRTNVd1UTdROGVuenNxUzhlU2NSeVE?oc=5",
+            "published": "2026-06-21T22:01:30+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -598,28 +604,28 @@
             "snippet": "QatarEnergy reported an operational incident at the Ras Laffan industrial city, as stated by Gulf Times."
           },
           {
-            "title": "Qatar reports explosion at factory in Ras Laffan, several injured | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGFqYVJOOXA4QzFjbkZDV1Z1SkgzVkpIQ0xoTXhsOGZjYXBaVXpZRkpHYnU2allnTVY0X09UVno3RkwxRm1DSVYzc0NfMXJfVkJLQXNtemtBRVF1Z3B6R2hqWEJNRVZFN0gyZnh4YlNOUVVOMXlmUGV0bUMxV05sZmxEd3Q5WGhvc3hKVG1HR0hIWkxPS1VKOVZfS1pBN1M0NVAzSDM3aU5FZm50UGxGVTV30gG3AUFVX3lxTFAwTU9odjAtMVNxVHFUdXl6YTZVYzdIcFN3TllXM2hNVzFZUEVMV1lkZHNsbVU0ZUJpRnBwYzBPdk1KS2JLQU90N2tFWEdGZ0ZjcGo1S2NUR2kzX1M1eGUwTm5vYTAxNWpHdGdoSXVkWlkwZGVWTnBEbWtKaGtYeGc2QzNkbkpkR0xmZ0pHc1c5dFRmX2Exd0Qya1U0dDBjVzllZFpmcTBIN29PQ1BRSUtaX1JkNy1KOA?oc=5",
-            "published": "2026-06-21T20:45:00+00:00",
-            "snippet": "Qatar reported an explosion at a factory in Ras Laffan, with several injured, according to Gulf Times."
+            "title": "Qatar ranks 8th in MENA startup ecosystems | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNEcweHRQblJoV1NGT3VtY1lDUWpMOGxEVnBheWVpdnFTWFhBVWRnN0l6Z1pCT0pNV0dMOGRtVVVQeDJYdUpCV1RCM0ozLWVaVDQ5VnJuWnI0aDVpaFAyRlY3NkRVMUJFd09BeVYycENBRHdyZW81eWNmUFAtRlpOdVo4REpkLTZlRkgxd2pGd0oxSXR40gGaAUFVX3lxTE9XbTNocy1DcUZtMERPeG5YYWdxNGZIcXBFZS0yLURTMnh2STg5YjJXZldWNEl2bFdRaU55bEt5UzVPY2hqZzFUTUVHSkR4UzNzakFMbFdMLVViUDVkX2x4NmxrQkEwMGFJYVplLWJaRzc4QzYwS0lDQmZtbjFkRmVoa01yaDhDNVlpWnJQbXlfdUV0RjlPbEpRRUE?oc=5",
+            "published": "2026-06-21T21:00:00+00:00",
+            "snippet": ""
           },
           {
-            "title": "Gakpo savours 'freedom' to fire Dutch in World Cup title bid | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQei1WTUhkM3E5czM4LVp3NnFpeXVabWFvM0M3MThJX0VoM1lYczkzeUtFd2NtbW83cTRkejk4YkpqV18zSXFLOFZvb0dyTnRYMGRYWG5wTmh4ejhfclJxUzNMQklJbTFLQmFINDgtZXB2VXo0b3dBOHZTV3I1dTkwdTFfeDE3OVNjYi1ncDQ3N0V3WXU5MWlOZ053ZEhaVTFLLUNIS3JoemVneEE2SVlGM0d6Nkw2UdIBuwFBVV95cUxQbmtiblcycko1ZVktWEtkVGd3a0wtdF9mYnQ4WFBscmRpZW52U1BjSFR4ZlpRZXV4OV84VjRVZXhVbktjbHM5V0NjSjJueXEtNjB6RnVVaEk3NDh6UlNSTkFwQ0piQkE2U01oQS1tOWpwc1BpUUw5eGJVNmZXTGhaNm0wRXYxZUEtREdBUlpHdC1rMmhKdDNJTjU5MUZSQ2hEYlZ3bjh3SnFWU1R5b0M3Q2tubXFCOXlxUUc4?oc=5",
-            "published": "2026-06-21T19:09:00+00:00",
-            "snippet": "Gakpo expressed his 'freedom' in scoring for the Dutch team's World Cup title bid, as reported by Gulf Times."
+            "title": "Reading between the lines... and the space between words and deeds | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0pIUnZzRl9CWS1mczlaVkJxY0hDUFNRNFVLLTZGT0FhQ3o4c2hWbzVaM3FacmlkN2JleFlrbUJqdU5OVEhNZDJqeTZfZlZRQUpTQVR2cWI5UDhHRk51ZHA5SXN3QU1nN2hNZE1zOUVsUUhjd2JHUVhiRnh3N3I1S2VITktiU2RKYkl6MDlrVDlqYVRNMWFsanZLaVJSalE3blNPelQ4dHBadjdxWnBEVVc4a9IBuAFBVV95cUxNZU9yTlJ2TGlOOGhLb2hINnRJS0xxdGgwZHZSM1pOZTdEQWVSUXBMYmR1QXFuY3BmemRaaHIzcTY5WFRtWXF6WllDVWVNbk5iVnVnZkpKMnNaN1N1QUloTU5hYzh6alQ5QkFsbzBXVXozZ1owQVVXNTJhdFRFM09oR2VaZGNtSHloRzdROXJrUm1ubDdUY2NqSmFQRDlCR0NlLXdWeUYxdkJuR0lXaXRaQ0g0dmx4Wnh6?oc=5",
+            "published": "2026-06-21T21:00:00+00:00",
+            "snippet": ""
           },
           {
-            "title": "Noskova beats Pegula to lift Berlin Open trophy | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHVkNFktUHNRQWJFWFZiQVRCS0oxUzBScmxReFRmRTVrX0E4bDZtSGV0eVhBMmkzelRyLU94OXFPSktoWTIyNFV6eTQwRUpKYU41b0pMWTNYNmFBX19jcEhjNzNObVZtYUI5ZUpMWk10aE10X0ZOZzY2dHlXbnk3UDk0UURRaXhaNHYxd1NIYW1TU0NyUUhMaXhfT1g0SGJ1MVp0dU1BRFhUZ9IBqgFBVV95cUxNZHVkNFktUHNRQWJFWFZiQVRCS0oxUzBScmxReFRmRTVrX0E4bDZtSGV0eVhBMmkzelRyLU94OXFPSktoWTIyNFV6eTQwRUpKYU41b0pMWTNYNmFBX19jcEhjNzNObVZtYUI5ZUpMWk10aE10X0ZOZzY2dHlXbnk3UDk0UURRaXhaNHYxd1NIYW1TU0NyUUhMaXhfT1g0SGJ1MVp0dU1BRFhUZw?oc=5",
-            "published": "2026-06-21T19:02:00+00:00",
-            "snippet": "Noskova defeated Pegula to win the Berlin Open trophy, according to Gulf Times."
+            "title": "How Trump’s deal compares to Obama’s | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjlZSnU1YlYxdUNyNVZ0ZU5FUXE2bXowR2F0X0M4VW5WZzdGLTZvR2RfQTB0R0ZWYU1XYkRCYnZGMlZXMUlOYk9BSHJFQk5JQS05cXNvaTdqUmJTc1RySFota1hWMDRsVXhYSXo3UWRObUpEOV9OTTNiSDBrTS1ZTGxsRDk4b1c3NmR1cNIBkgFBVV95cUxOdlAtYjJwNnU5RVlLTVNmbV9SY2FKajZZRGFvcnJXNFp6bnhuTEFCMWtObVJidW54MlJpRlhMdkVCelhYSHF2VVcxd1ZUa2twbGNjMnhYWXktLW56VFhCTFEzVm53UVZWNjY3OE5rTElscEx3Y1lVaElpTVZFYjYtanppWENoQmpxMU5NU1pldWl5Zw?oc=5",
+            "published": "2026-06-21T21:00:00+00:00",
+            "snippet": ""
           },
           {
-            "title": "Qatar Charity inaugurates solidarity market in Nouakchott to support vulnerable families | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUprdW0zNDRKX3VrS1hqbWM4SmQ0NWxOb2xlUEYxelpUQTU4cFFrWW5wVlNmNFEtUm82LUFjYzJHWVRlZy1LMG1iUTFwVDNYOFp6V04xRV9KaUZrZmRkVGhGQ2U3azRKdW1yWmVYRmMwNUFTRnJWQUNIa0ExVUlGdVZCRHdCRHdDRVlwTWFVUllyZHd6cXRsUFJtUVUwMnI5NVJnck5PdkJTQWROUlVRWXpzV0xLYXBkcklBUllCR091WHJ6alQtbnFqNnUxcTV3NWfSAdcBQVVfeXFMTVQ0UVFaSFFRMWE5WVV2Ukh6dFE5QmhINzFxMnEzOXY0bGFWWl9NQTdYajRuZ1ZoY0g4YUl3aE5hZEZ4WGc2UFFnbWwzM2t0R1BfOXQyek1TaGxUVzRSVU9CdFR4TURfeUlrMXhleWc1eHc4T0JKUkhxYVdxSmR1U3ZORncyMkh5ZDBkdkZHMUdRLVVqdlNxel9PWmJIOWYyZ2NGOWJRWTZEVE9JVVJjNkpRUnRDWXlIWkxqSnFXVjc0aURmOS12NzlPc3dXeHhoUnNTSE90LVk?oc=5",
-            "published": "2026-06-21T17:02:00+00:00",
-            "snippet": "Qatar Charity inaugurated a solidarity market in Nouakchott to support vulnerable families, as reported by Gulf Times."
+            "title": "Timeless Messi eyes World Cup record as Argentina face Austria | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2xFV05rWklaeEJxbUVRdEtKSkh4eDdNNmVCQnR1TlJTeTUtcXJjQy1VX2ZySF9qenBPbVFEcjdLQ0s3ZGdzQ2xiVk9WSnZvM0dHYTZ3ZFVaZ01DVDNteDl5WnQwaHVzeHBzSTA1YXdNZUltdi0ya1R5NHQtRG96NG1WMFZIejhkTGVfeWpmRm5XaXEzdS1HekZsUHgwWHBpR0dvaW12TlZPc2NOSzFR0gG0AUFVX3lxTFB4emVMbkZRRmRJR2sxeGxocS1DNHU1czQ5QWtWWC1zN2QydFE2Y3ViTnplcGJLc1dscHloMFYyQ1BIRFJ5a05SYzNGaEhQSm93ZUExRzVnRUh2RW5HWWpCZ01yOFdpMWNVY3l1dHdVOFRpQnJwWExCNDhXZnRUbE14aVJJVTlxNHVXc3BkSFpYN2dxWk5lU1lmT0xCY2dsbk10UndWbTNGRmttUE1WbmN1UWpXRw?oc=5",
+            "published": "2026-06-21T21:00:00+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -630,12 +636,6 @@
         "lang": "en",
         "url": "https://timesofoman.com",
         "headlines": [
-          {
-            "title": "Asia - Times of Oman",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51N3dnazRVYXBpeXRvSkZ2UTZCMm1Kb2hQaGxTdm1WX0RnUmRQT3AxcUhYXzR4RDJ6UnFzMGtodWh3M3J6VHp3NkVqTHAtdmJPYkNELUZZQUI5SVdpT1RHT1kwV0gyMTFzOFlGZVdR?oc=5",
-            "published": "2026-06-21T17:59:49+00:00",
-            "snippet": ""
-          },
           {
             "title": "Oman’s Message of Peace: The Muscat Plan and a Legacy of Peacemaking - Times of Oman",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3hVdEJMTGlCNGltR2czdGhXbHhUcER1SXZ2YzRleVVnc2VOLUNGbXhmYjdWMVZQeWs3eEQ0ZGlyZmpNRzBfeDgyNWYwakZxMUgyVDh0NUlQZEhqcjNsdmZKVVowekRCS20zazhma2ZTOVY5NWdGa253MjMzbEx0NFczZlVJa09ic0VCYV9ncjBrY2NZbHAtczRpaTRiU0Z5OFBGRXlndHk?oc=5",
@@ -659,6 +659,12 @@
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakItQ2lJMHc4aTg5U1ZzOU94WDdRSlI2cXlrcEM1SzdyM3lqTjFDN1dJQXlxdWd2UzQ2NGhWWXFRNmg5UUhLODNtaTJGTjlfZS1JcjU4dVJyQ1FLaXQ3aGRVNmZiOGNuODF5UlJDYVY5TWNoRHlDUE1SMUNBQ2lkZ1gwSFk5NzhoREdEU2FjTmtkRlotU3FLeHVsSmlJcmhidjB0d2Y0YjZJbXJZQjA4ZElVTVlHZms?oc=5",
             "published": "2026-06-21T16:03:00+00:00",
             "snippet": "Hawana Salalah Hotels are prepared to welcome guests for the Khareef 2026 season, according to Times of Oman."
+          },
+          {
+            "title": "South Al Batinah Summer 2026 forum activities kck off - Times of Oman",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORm96dEJRbXF4VnpZMXkzZzBtS0hLcjZnTkk5NEx3VDBOc2J3cjVLZkFIVG5ZS2R5b3ViTjlsQlRtNi1mYXdjeUtfWWQ3NC1wd1RHTjVYR2tpUnNsdFZPYmxOZ2lnb1kzVnpSalhQOFVzYUxsZHNrUVlsRWFDS09hLVd4c2I1Q2xDYmcycVg1U0poLUVyZkg0?oc=5",
+            "published": "2026-06-21T15:35:00+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -672,34 +678,34 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
+            "title": "US-Iran talks focused on elements of nuclear deal, enforcement of Lebanon ceasefire - report",
+            "url": "https://www.jpost.com/middle-east/iran-news/article-900087",
+            "published": "2026-06-22T00:19:12+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Israel will not withdraw troops from southern Lebanon ahead of negotiations, official tells 'Post'",
+            "url": "https://www.jpost.com/middle-east/article-900086",
+            "published": "2026-06-21T23:49:32+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Israel National Basketball Team begins prep for pair of qualifiers vs Germany, Croatia",
+            "url": "https://www.jpost.com/israel-news/sports/article-900085",
+            "published": "2026-06-21T22:59:50+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "US-Iran deal leaves Europe on the sidelines in the Strait of Hormuz - analysis",
+            "url": "https://www.jpost.com/middle-east/article-900081",
+            "published": "2026-06-21T22:50:38+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Home Front Command eases security guideline restrictions on Lebanon border communities",
             "url": "https://www.jpost.com/israel-news/defense-news/article-900083",
             "published": "2026-06-21T22:34:59+00:00",
             "snippet": "Due to the ongoing conflict with Hezbollah, border communities have faced restrictions, leading the Home Front Command to ease some security guidelines."
-          },
-          {
-            "title": "The children of the northern border pay the price of war - opinion",
-            "url": "https://www.jpost.com/opinion/article-899680",
-            "published": "2026-06-21T21:58:47+00:00",
-            "snippet": "The article argues that the government should prioritize investing in community resilience and respite models for children of the northern border, rather than just managing evacuations."
-          },
-          {
-            "title": "Israel’s long-term challenge requires strategy beyond military power in Iran rivalry - opinion",
-            "url": "https://www.jpost.com/opinion/article-899813",
-            "published": "2026-06-21T21:58:01+00:00",
-            "snippet": "Israel's long-term rivalry with Iran requires a strategy beyond military power, focusing on building a sustainable coalition, according to an opinion piece."
-          },
-          {
-            "title": "WATCH: 'Iran will never have nuclear weapon while I'm PM,' Netanyahu tells JNS summit",
-            "url": "https://www.jpost.com/israel-news/article-900080",
-            "published": "2026-06-21T21:27:41+00:00",
-            "snippet": "Prime Minister Netanyahu stated at a JNS summit that Iran will never possess nuclear weapons while he is Prime Minister, with US Ambassador Mike Huckabee also speaking."
-          },
-          {
-            "title": "IDF, Shin Bet kill PIJ terrorist who kidnapped minor from kibbutz during October 7 massacre",
-            "url": "https://www.jpost.com/middle-east/article-900078",
-            "published": "2026-06-21T21:18:13+00:00",
-            "snippet": "The IDF and Shin Bet announced the killing of PIJ terrorist Zaki Youssef Mahmoud Abu Mustafa, who had kidnapped a minor during the October 7 massacre."
           }
         ],
         "error": null
@@ -791,27 +797,33 @@
         "url": "https://www.farsnews.ir",
         "headlines": [
           {
-            "title": "Farsnews | Senior UK Cabinet Minister Confirms PM Considering Resigning - خبرگزاری فارس",
+            "title": "Farsnews | Senior UK Cabinet Minister Confirms PM Considering Resigning - farsnews.ir",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1lvTUpwcVZiakFOTVFERTdiSmYwR0M2ci1ncG5NZGIzRmJHRXE1Qm5ueUZFM3U2X1ZDWlpTZWY3am9xN0UyUnp4ZFpjNXJoZk5rMmtnbjh1Y1JOREhMNEVjNm1Yb290X0VzVUdGWTBUc2RNbDNzWFY3Wnh4Ni16Q1ZTNkczVjRkckhKUWwyNGVxRHFwc1NvbHZObjdiVVlVUy1kQXRIUlRnNmZINk12VA?oc=5",
             "published": "2026-06-21T12:20:02+00:00",
             "snippet": ""
           },
           {
-            "title": "Farsnews | Lead Negotiator: Iran to Pursue War, Diplomacy - خبرگزاری فارس",
+            "title": "Farsnews | Lead Negotiator: Iran to Pursue War, Diplomacy - farsnews.ir",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDRLenB1Qi1DS1lLZjFPYXA5RWRobVBfaTJoZnpPNE42dWpHY0NmNDFTX1F5LVU0TmV6anVjWEVFbWFGMHp4cndJQm1kX3B3VEVkSlV5VW9MbkZTbGplR0MxWUN6ZFNKNVlqNUVOdHAzUGx1NDZ2aHdNTVVnSFl4N0FmRW1lSjVMZndiTm5rWS0tY3ZvcUE?oc=5",
             "published": "2026-06-21T10:21:35+00:00",
             "snippet": ""
           },
           {
-            "title": "Farsnews | IRGC Navy: 15 Vessels Permitted to Cross Strait of Hormuz in Past 24 Hours - خبرگزاری فارس",
+            "title": "Farsnews | IRGC Navy: 15 Vessels Permitted to Cross Strait of Hormuz in Past 24 Hours - farsnews.ir",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGR4c0VDaVlQZXF2Z01Wb09tSV9GbG9lWG9lSHl1SXBXcS01dU5aM2NRa2o2UTBWWmZBT0dBUVBUSG96QXZ0WmhxYU1zQmliUnNpcGJhal9rVGxvR2RHZ3FEVHh3bFR6SGxoaFI4ZGhKZWtxM1UzWmVUb3dIc0pfV3hyR2puTjFZdGtwcXJyU1VSd1hkd3Y3VXVlYkNzLVpyT0pOUnFJM2xLZGxWcmRJQzNtLUZ6SUI5OE5rMDZabDg1QjR2VzlB?oc=5",
             "published": "2026-06-21T07:55:36+00:00",
             "snippet": ""
           },
           {
-            "title": "Farsnews | Mount Sheyvar Showcases Untouched Landscapes in Northwestern Iran - خبرگزاری فارس",
+            "title": "Farsnews | Mount Sheyvar Showcases Untouched Landscapes in Northwestern Iran - farsnews.ir",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVpOUE1tSlZFUlJvV29ubHhWeHduYmRtWjliR00wd3JrMDhoNVY0dFZtVG9YRmVMcFF1a1laOC1ZbkNuZ2dMX0h6cU5POEhVUUZ0aUNhS3pLMDNPS2tHUG5ERnNZNkt1UEp0V1Z1eU41NEZRNzhFYkRueVVKQnBhOWdYRjUzMW9ESjJxUi16bjFvTkNjLWFjZUJpcDF0MTUxY05DMGpxV3MzNFI1b0FtU0M0YlJQY3Q3eTc0?oc=5",
             "published": "2026-06-21T07:12:48+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Smart search for Iranian and world news | #شمس‌آذر | Fars News Agency - farsnews.ir",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkNyT1JvWTBEdDNVanJLb3liLUtVdHliNDdmRUd3UW1XeHc3N0ltengtZG03T0ZfOUo3RzhGNXNTSXlySS15Qm5XWXBtWDRPMGV1UF9JTUVrMXFyaFFUd1h3ZXFUbDNhS1EwVVU1QzJ6M0psWG52dkNrZFdGekhNVDFEQzJ0SlFJZzBGZF9jU2RlbVRndlE?oc=5",
+            "published": "2026-06-21T04:32:22+00:00",
             "snippet": ""
           }
         ],
@@ -823,6 +835,12 @@
         "lang": "en",
         "url": "https://en.mehrnews.com",
         "headlines": [
+          {
+            "title": "Four-way talks in Swtizerland still suspended: report",
+            "url": "https://en.mehrnews.com/news/245513/Four-way-talks-in-Swtizerland-still-suspended-report",
+            "published": "2026-06-21T22:07:39+00:00",
+            "snippet": ""
+          },
           {
             "title": "Iran sets 2 conditions for returning to talks: report",
             "url": "https://en.mehrnews.com/news/245512/Iran-sets-2-conditions-for-returning-to-talks-report",
@@ -845,12 +863,6 @@
             "title": "We are at stage of defeating Israel project: Hezbollah leader",
             "url": "https://en.mehrnews.com/news/245509/We-are-a-stage-of-defating-Israeli-project-Hezbollah-leader",
             "published": "2026-06-21T16:18:58+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "UKMTO reports incident for ship off Yemeni coasts",
-            "url": "https://en.mehrnews.com/news/245508/UKMTO-reports-incident-for-ship-off-Yemeni-coasts",
-            "published": "2026-06-21T14:44:58+00:00",
             "snippet": ""
           }
         ],
