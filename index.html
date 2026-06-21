@@ -195,7 +195,7 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
     <!-- World Briefing card — hidden until briefing.json loads -->
     <div class="briefing-card" id="briefing-card" style="display:none">
       <div class="briefing-head">
-        <span class="briefing-title">World Briefing</span>
+        <span class="briefing-title" id="briefing-title">World Briefing</span>
         <span class="briefing-ts" id="briefing-ts"></span>
       </div>
       <div id="briefing-body"></div>
@@ -336,6 +336,7 @@ function switchLang(lang){
     ? hlData
     : Object.assign({}, hlData, {regions: hlData[LANG_KEYS[lang]]});
   renderHeadlines(displayData, document.getElementById("hl-container"));
+  renderBriefing(lang);
 }
 
 function fpImgURL(id){ return `frontpages/${id}.jpg?v=${encodeURIComponent(FP_VER || "0")}`; }
@@ -611,24 +612,43 @@ loadBriefing();
 setInterval(loadHeadlines, 30 * 60 * 1000);
 setInterval(loadBriefing,   6 * 60 * 60 * 1000);
 
+let briefingData = null;
+
+// Localized label for the card title, per supported language.
+const BRIEFING_LABELS = {
+  en:"World Briefing", he:"תדריך עולמי", ar:"موجز عالمي", ru:"Мировая сводка",
+  zh:"世界简报", fr:"Briefing mondial", de:"Welt-Briefing", es:"Resumen mundial"
+};
+
 async function loadBriefing(){
   try{
     const r = await fetch("briefing.json?t=" + Date.now(), {cache:"no-store"});
     if(!r.ok) return;
-    const data = await r.json();
-    const html = (data.html || "").trim();
-    if(!html) return;
-    document.getElementById("briefing-body").innerHTML = html;
+    briefingData = await r.json();
+    if(!(briefingData.html_by_lang || briefingData.html)) return;
     const ts = document.getElementById("briefing-ts");
-    if(data.updated){
-      const d = new Date(data.updated);
+    if(briefingData.updated){
+      const d = new Date(briefingData.updated);
       ts.textContent = "Updated " + d.toLocaleString("en-US",{
         weekday:"short", month:"short", day:"numeric",
         hour:"2-digit", minute:"2-digit", timeZone:"UTC", timeZoneName:"short"
       });
     }
+    renderBriefing(currentLang);
     document.getElementById("briefing-card").style.display = "";
   }catch(e){ /* briefing.json not yet available */ }
+}
+
+function renderBriefing(lang){
+  if(!briefingData) return;
+  const byLang = briefingData.html_by_lang || {en: briefingData.html || ""};
+  const html = (byLang[lang] || byLang.en || briefingData.html || "").trim();
+  if(!html) return;
+  const body = document.getElementById("briefing-body");
+  body.innerHTML = html;
+  body.dir = (lang === "he" || lang === "ar") ? "rtl" : "ltr";
+  document.getElementById("briefing-title").textContent =
+    BRIEFING_LABELS[lang] || BRIEFING_LABELS.en;
 }
 
 function esc(s){

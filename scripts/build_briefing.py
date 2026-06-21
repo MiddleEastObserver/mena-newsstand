@@ -22,8 +22,22 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 REGION_ORDER = ["Pan-Arab", "Levant", "Gulf", "Israel"]
+# flash for the synthesis (quality matters, 4 calls/day); flash-lite for the
+# translations (more mechanical, higher free-tier quota) — 7 calls/briefing.
 GEMINI_MODEL = "gemini-2.5-flash"
+TRANSLATE_MODEL = "gemini-2.5-flash-lite"
 BRIEFING_WORDS = "350-500"
+
+# Same languages offered for the headlines toggle (en is the source).
+LANG_TARGETS = {
+    "he": "Hebrew",
+    "ar": "Arabic",
+    "ru": "Russian",
+    "zh": "Mandarin Chinese (Simplified)",
+    "fr": "French",
+    "de": "German",
+    "es": "Spanish",
+}
 
 # Major international feeds that ground the briefing in today's world news.
 WORLD_FEEDS = [
@@ -130,6 +144,24 @@ def build_prompt(world: list[str], mena: list[str]) -> str:
     )
 
 
+def translate_text(client, text: str, lang_name: str) -> str:
+    """Translate the plain-text briefing into lang_name, preserving paragraph
+    breaks and the **bold** lead-in markers. Returns '' on failure."""
+    prompt = (
+        f"Translate the following news briefing into {lang_name}. Preserve the "
+        "paragraph structure exactly (keep the blank lines between paragraphs), "
+        "and keep the **double-asterisk bold markers** around the same lead-in "
+        "phrases. Translate naturally and journalistically. Return ONLY the "
+        "translated text — no notes, no preamble.\n\n" + text
+    )
+    try:
+        resp = client.models.generate_content(model=TRANSLATE_MODEL, contents=prompt)
+        return (resp.text or "").strip()
+    except Exception as exc:
+        print(f"  [{lang_name}] translation failed: {exc}", file=sys.stderr)
+        return ""
+
+
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -163,13 +195,31 @@ def main():
         print("Empty response from Gemini — skipping write", file=sys.stderr)
         sys.exit(0)
 
+    # English first, then translate into each supported language. A language that
+    # fails simply isn't included — the UI falls back to English for it.
+    html_by_lang = {"en": _para_to_html(text)}
+    for code, name in LANG_TARGETS.items():
+        translated = translate_text(client, text, name)
+        if translated:
+            html_by_lang[code] = _para_to_html(translated)
+            print(f"  [{code}] translated briefing")
+
     updated = datetime.now(timezone.utc).isoformat()
     OUT_PATH.write_text(
-        json.dumps({"updated": updated, "html": _para_to_html(text), "model": GEMINI_MODEL},
-                   ensure_ascii=False, indent=2),
+        json.dumps(
+            {
+                "updated": updated,
+                "model": GEMINI_MODEL,
+                "html": html_by_lang["en"],   # back-compat: English
+                "html_by_lang": html_by_lang,
+            },
+            ensure_ascii=False,
+            indent=2,
+        ),
         encoding="utf-8",
     )
-    print(f"Wrote briefing.json ({len(text.split())} words)")
+    print(f"Wrote briefing.json ({len(text.split())} words, "
+          f"{len(html_by_lang)} languages)")
 
 
 if __name__ == "__main__":
