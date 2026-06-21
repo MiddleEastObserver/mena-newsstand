@@ -130,6 +130,17 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .briefing-card p{font-size:14px;line-height:1.75;color:var(--ink2);margin:0 0 12px}
 .briefing-card p:last-child{margin-bottom:0}
 .briefing-card strong{color:var(--ink);font-weight:600}
+/* Media Pulse word cloud */
+.pulse-cloud{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:6px 16px;background:var(--card);border:1px solid var(--line);border-radius:9px;padding:28px 24px;margin-bottom:18px;line-height:1.3}
+.pulse-term{cursor:pointer;font-family:'Playfair Display',serif;font-weight:600;color:var(--blue);transition:.12s;line-height:1}
+.pulse-term:hover{color:var(--gold)}
+.pulse-term.active{color:var(--gold);text-decoration:underline}
+.pulse-detail{margin-bottom:24px}
+.pulse-detail-head{font-family:'Playfair Display',serif;font-size:17px;font-weight:600;border-bottom:2px solid var(--ink);padding-bottom:5px;margin-bottom:12px}
+.pulse-hl{background:var(--card);border:1px solid var(--line);border-radius:7px;padding:10px 14px;margin-bottom:8px}
+.pulse-hl a{font-size:13px;font-weight:500;color:var(--blue);line-height:1.4}
+.pulse-hl a:hover{text-decoration:underline}
+.pulse-hl .meta{font-size:11px;color:var(--muted);margin-top:3px}
 .hl-none{font-size:12px;color:var(--muted);font-style:italic;flex:1}
 .hl-site-btn{display:block;padding:6px 0;border-radius:5px;font-size:12px;font-weight:500;text-align:center;border:1px solid var(--line);background:none;color:var(--ink2);transition:.15s}
 .hl-site-btn:hover{border-color:var(--ink);background:var(--bg)}
@@ -178,6 +189,7 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
     <button class="navbtn active" data-sec="frontpages">Front Pages</button>
     <button class="navbtn" data-sec="archive">Archive</button>
     <button class="navbtn" data-sec="headlines">Headlines</button>
+    <button class="navbtn" data-sec="pulse">Pulse</button>
     <button class="navbtn" data-sec="gulf">Gulf</button>
     <button class="navbtn" data-sec="levant">Levant & Egypt</button>
     <button class="navbtn" data-sec="analysis">Analysis</button>
@@ -212,6 +224,14 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
     </div>
     <div class="sec-note">Top 5 headlines from 16 MENA outlets, organized by region. Refreshed automatically every 30 minutes.</div>
     <div id="hl-container"><div class="hl-loading">Loading headlines…</div></div>
+  </div>
+
+  <!-- PULSE TAB -->
+  <div class="section" id="sec-pulse">
+    <div class="sec-head"><h2>Media Pulse</h2></div>
+    <div class="sec-note">The most-mentioned terms across every headline right now — bigger means more coverage. Click any word to see the headlines driving it. Updates every 30 minutes.</div>
+    <div class="pulse-cloud" id="pulse-cloud"><div class="hl-loading">Loading pulse…</div></div>
+    <div class="pulse-detail" id="pulse-detail"></div>
   </div>
 
   <!-- FRONT PAGES TAB -->
@@ -609,8 +629,50 @@ buildSrcGrid("grid-levant", LEVANT);
 buildAnalysis();
 loadHeadlines();
 loadBriefing();
+loadPulse();
 setInterval(loadHeadlines, 30 * 60 * 1000);
 setInterval(loadBriefing,   6 * 60 * 60 * 1000);
+setInterval(loadPulse,     30 * 60 * 1000);
+
+// ——— Media Pulse word cloud —————————————————————————————————————————
+let pulseData = null;
+
+async function loadPulse(){
+  const cloud = document.getElementById("pulse-cloud");
+  try{
+    const r = await fetch("pulse.json?t=" + Date.now(), {cache:"no-store"});
+    if(!r.ok) throw new Error("HTTP " + r.status);
+    pulseData = await r.json();
+  }catch(e){
+    cloud.innerHTML = `<div class="hl-loading">Pulse not yet available — it builds on the next 30-min refresh.</div>`;
+    return;
+  }
+  const terms = (pulseData.terms || []);
+  if(!terms.length){ cloud.innerHTML = `<div class="hl-loading">No terms yet.</div>`; return; }
+  const counts = terms.map(t=>t.count);
+  const min = Math.min(...counts), max = Math.max(...counts);
+  const MIN_PX = 14, MAX_PX = 46;
+  const size = c => max === min ? (MIN_PX+MAX_PX)/2
+    : MIN_PX + (c - min) / (max - min) * (MAX_PX - MIN_PX);
+  cloud.innerHTML = terms.map((t,i)=>
+    `<span class="pulse-term" data-i="${i}" style="font-size:${size(t.count).toFixed(1)}px"
+       onclick="showPulseTerm(${i})" title="${t.count} headlines">${esc(t.term)}</span>`
+  ).join("");
+}
+
+function showPulseTerm(i){
+  const t = (pulseData && pulseData.terms || [])[i];
+  if(!t) return;
+  document.querySelectorAll(".pulse-term").forEach(el=>
+    el.classList.toggle("active", el.dataset.i == i));
+  const hls = (t.headlines || []).map(h=>`
+    <div class="pulse-hl">
+      <a href="${esc(h.url)}" target="_blank" rel="noopener" dir="auto">${esc(h.title)}</a>
+      <div class="meta">${esc(h.source)} · ${esc(h.region)}</div>
+    </div>`).join("");
+  document.getElementById("pulse-detail").innerHTML =
+    `<div class="pulse-detail-head">“${esc(t.term)}” — ${t.count} headline${t.count===1?"":"s"}</div>${hls}`;
+}
 
 let briefingData = null;
 

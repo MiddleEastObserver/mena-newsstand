@@ -81,6 +81,11 @@ jobs:
       - name: Fetch headlines
         run: python scripts/fetch_headlines.py
 
+      # Media Pulse word cloud — cheap, no API, runs every refresh.
+      - name: Build media pulse
+        continue-on-error: true
+        run: python scripts/build_pulse.py
+
       # Build the world briefing every 6 hours. continue-on-error so a Gemini
       # quota or network hiccup never blocks the headlines commit or email.
       - name: Build world briefing
@@ -100,6 +105,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add headlines.json state/daily.json
+          git add pulse.json 2>/dev/null || true
           git add briefing.json 2>/dev/null || true
           git add frontpages 2>/dev/null || true
           if git diff --cached --quiet; then
