@@ -1,0 +1,65 @@
+{
+  "papers": {
+    "haaretz": {
+      "name": "Haaretz",
+      "loc": "Israel",
+      "lang": "en",
+      "site": "https://www.haaretz.com"
+    },
+    "the_national": {
+      "name": "The National",
+      "loc": "UAE",
+      "lang": "en",
+      "site": "https://www.thenationalnews.com"
+    },
+    "nyt": {
+      "name": "New York Times",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.nytimes.com"
+    },
+    "wsj": {
+      "name": "Wall Street Journal",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.wsj.com"
+    },
+    "usa_today": {
+      "name": "USA Today",
+      "loc": "USA",
+      "lang": "en",
+      "site": "https://www.usatoday.com"
+    },
+    "the_independent": {
+      "name": "The Independent",
+      "loc": "UK",
+      "lang": "en",
+      "site": "https://www.independent.co.uk"
+    },
+    "daily_mail": {
+      "name": "Daily Mail",
+      "loc": "UK",
+      "lang": "en",
+      "site": "https://www.dailymail.co.uk"
+    },
+    "die_welt": {
+      "name": "Die Welt",
+      "loc": "Germany",
+      "lang": "de",
+      "site": "https://www.welt.de"
+    }
+  },
+  "dates": {
+    "2026-06-21": [
+      "haaretz",
+      "the_national",
+      "nyt",
+      "wsj",
+      "usa_today",
+      "the_independent",
+      "daily_mail",
+      "die_welt"
+    ]
+  },
+  "updated": "2026-06-21T11:03:46.055759+00:00"
+}
