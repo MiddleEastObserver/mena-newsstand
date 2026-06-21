@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:00:42.850863+00:00",
+  "updated": "2026-06-21T17:04:29.706744+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,24 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Iran, US, Israel: Memorandum of misunderstanding?",
+            "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
+            "published": "2026-06-21T16:49:31+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "The looming Super El Nino",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/the-looming-super-el-nino?traffic_source=rss",
+            "published": "2026-06-21T16:45:39+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
+            "url": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
+            "published": "2026-06-21T16:37:49+00:00",
+            "snippet": ""
+          },
           {
             "title": "Syria frees activist Hassan Akkad days after he was detained",
             "url": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
@@ -18,24 +36,6 @@
             "title": "Mbappe, France play Iraq in World Cup match: prediction, team news, lineups",
             "url": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
             "published": "2026-06-21T15:17:44+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "US-Iran negotiations in Switzerland kick off",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-negotiations-in-switzerland-kick-off?traffic_source=rss",
-            "published": "2026-06-21T15:16:44+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Iran-U.S. launch historic peace talks with 60-day roadmap",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
-            "published": "2026-06-21T14:54:56+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Fans flood Atlanta streets before Spain-Saudi Arabia match",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss",
-            "published": "2026-06-21T14:48:18+00:00",
             "snippet": ""
           }
         ],
@@ -85,39 +85,8 @@
         "country": "UAE",
         "lang": "en",
         "url": "https://english.alarabiya.net",
-        "headlines": [
-          {
-            "title": "Trump threatens to strike Iran over support for Lebanon’s Hezbollah - Al Arabiya English",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFJQdzJWRlpHS0xNWTZRRUtOa25TTHpncWxoSmVsd2x3NVFuX2libGpqVzBTTjdtX3ZLRW43OWVsVnV1dExvRU9Pa1EtbW96aExkczZjOG1yelZDeHNveXJjYms3d3RYZ2s4VHZ4XzI1YnViRWoydV9vSDlqVzF1T2cxbGVmc0FWa3E1OTAwTjJDUU1SVVdoZFNpbUdIUG54dlJNdXB3S0tLY3FtMmx6QUh5ckZuazZZQ2M1dktWUkF1M1HSAcgBQVVfeXFMTmlieWdrMVk3OW5nd3g1bWNQNVBZdXFQdU0zeDk5N3JHNkhnUTE3aTlYZmtDZ19YX1RaWUw3ZXFPSTBzeW9MQVRCeHNUTU9qUWlwVXp6SDFoenhhckc4bk5BMy1BTS1kb21faVZJZjhmWjRRcGlET1ZFWHNoQU5GOWVYVGo3V0ViSFMyMlFvRElMS0daN0l5QVVQeS1uLWFwcGMwOS1LaWZwMGkwVG9ROWlXREJfdjJ5c1NodG5Oa2NoVlc4dzhSWmQ?oc=5",
-            "published": "2026-06-21T16:10:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Vance hopes US, Iran can turn the page at ‘historic’ talks - Al Arabiya English",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVZoM2E0aU5KbUxnYUtOTTFJelRsQTBjNW9oQW9QaWFhNlR5bjhleUc5OUxPSzhUZTdPUGNyc1htTUU3Z2tuZTZaLURBWUotQndMZ2N6RWliQUhITWZxb0dCRy0yYVRxZHF4RVp1WHhXdmVONERRYVpXN2Y1aFlrdElfbFBjbEZEYWFHOVZQbTdMSlNSeWdjOGxSN3hnOVV5a3RjNENtaXhpdEJES1h6OEpaa9IBuAFBVV95cUxNajY2RGx5WjZ3Vm1mMXZFSmtkZlI4UFVEMmhEWk1WdVZGTDRXc3A4dDZLcktmdmJQczlHT1Jfak1BcXJFejRpOW1udGw0VERWSFdBS29PMkhYMDBHUE9jTmJoUFpvbUhLc2Q1WnVXbnVlTUtzS0lyQ3NJT19KaVlsenhZcDJ5TTJIWnlUMi10ZHMzWmp1MEFkVzNPNHR2ak1obElMb3ZSSWRPaGxkVWxuT1dISGo3UXNz?oc=5",
-            "published": "2026-06-21T14:49:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Israeli Troop Presence Risks Permanent Occupation: Lebanon - Al Arabiya English",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXlqbk95VUN0NmE0UGhZTmlZT1RtUW5VUDlKb0xlRW9yb3E4QW9VRmtiYk1ZdzVqMHJqOGEzWnN6UUt4VHdORVBlekNYUlIzWE5xMkRDYzR6WlRrMVV2NnZWejNBYmE2dDN2OE1HUUJHR2ZxcG9xOXU3Uktub0t0TUxHWWhuRnZxTWhKNk44TE5xa2gyODhwWXB1SGlXUDdiRjhZM29VZzY1ZzREZDB3?oc=5",
-            "published": "2026-06-21T14:25:13+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Messi, Ronaldo or Mbappe: Who will win the 2026 FIFA World Cup Golden Boot? - Al Arabiya English",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTM0Wms5QXBTaFc2MGNoMGp2WmpRcW5BZzkyb1MyVHd5bWlyRWw5OXh5M21BQWloYWZoX3hJRGtfLVFSTGd5TnpjTEpaSmQ0UlFzWWlYMzNmOXAySzMzV3FNbkVyNVRhMmNwNF9xaTNHbzQzcFBlYmlsNnhLRFQzd0Q3dG9JVk5QQzFzUG5IQUhIbC1ON01lNEdLajBsaDB5NlVzQmxEV2xGVTNZeXc3SmtmQ0NPZjFpTmNucVZhVlZ6UdIBwgFBVV95cUxPbTM0Wms5QXBTaFc2MGNoMGp2WmpRcW5BZzkyb1MyVHd5bWlyRWw5OXh5M21BQWloYWZoX3hJRGtfLVFSTGd5TnpjTEpaSmQ0UlFzWWlYMzNmOXAySzMzV3FNbkVyNVRhMmNwNF9xaTNHbzQzcFBlYmlsNnhLRFQzd0Q3dG9JVk5QQzFzUG5IQUhIbC1ON01lNEdLajBsaDB5NlVzQmxEV2xGVTNZeXc3SmtmQ0NPZjFpTmNucVZhVlZ6UQ?oc=5",
-            "published": "2026-06-21T13:47:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Regional envoys push for swift progress in US-Iran talks - Al Arabiya English",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXBuclM2ZlZqX291YlRBbFhaak03WjJDb20xdGI2aldOckVramZoM2FDV0VOZ2kyRjB0YkVhUmx0Vks0bTVKRXJuQVgtdU5kZ0dBSVBpcGowYjJpY1BkNnh3VlllYkdNMXV2dVRsRVNEMVdsSF9SYzNKbktfUVAtRFBRTDFlV01yalJEeGJwcmJqblZyV2ZyR1NJODhQblVaMXctZG8yeHNKelVSbVhBaDZONnN1TGZU0gG4AUFVX3lxTE1xcG5yUzZmVmpfb3ViVEFsWFpqTTdaMkNvbTF0YjZqV05yRWtqZmgzYUNXRU5naTJGMHRiRWFSbHRWSzRtNUpFcm5BWC11TmRnR0FJUGlwajBiMmljUGQ2eHdWWWViR00xdXZ1VGxFU0QxV2xIX1JjM0puS19RUC1EUFFMMWVXTXJqUkR4YnByYmpuVnJXZnJHU0k4OFBuVVoxdy1kbzJ4c0p6VVJtWEFoNk42c3VMZlQ?oc=5",
-            "published": "2026-06-21T12:59:00+00:00",
-            "snippet": "Regional envoys are urging for rapid progress in the US-Iran talks that have commenced in Switzerland, aiming to achieve swift advancements in the negotiations."
-          }
-        ],
-        "error": null
+        "headlines": [],
+        "error": "no entries"
       },
       {
         "source": "The New Arab",
@@ -350,6 +319,12 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "تقرير مصور | من سويسرا.. المفاوضات تتقدم بعيداً عن الجبهات في محاولة لإنهاء الحرب",
+            "url": "https://www.almanar.com.lb/article/967342/",
+            "published": "2026-06-21T17:02:10+00:00",
+            "snippet": ""
+          },
+          {
             "title": "بالفيديو | مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ 12-06-2026 دبّابة ميركافا تابعة في الأطراف الشرقية لبلدة يحمر الشقيف بمحلّقة أبابيل الانقضاضيّة",
             "url": "https://www.almanar.com.lb/article/967337/",
             "published": "2026-06-21T16:59:01+00:00",
@@ -372,12 +347,6 @@
             "url": "https://www.almanar.com.lb/article/967212/",
             "published": "2026-06-21T16:54:29+00:00",
             "snippet": ""
-          },
-          {
-            "title": "سرايا القدس: في الذكرى السنوية الأولى لارتقاء القائد الجهادي الكبير اللواء محمد سعيد إيزدي “الحاج رمضان” نبعث لروحه الطاهرة أسمى آيات الوفاء والإجلال ونجدد العهد بأن تبقى راية الجهاد والمقاومة خفاقة",
-            "url": "https://www.almanar.com.lb/article/967227/",
-            "published": "2026-06-21T16:53:30+00:00",
-            "snippet": ""
           }
         ],
         "error": null
@@ -398,20 +367,8 @@
         "headlines": [
           {
             "title": "- paltoday.ps",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXk2RTdoak0wa0RxLUdIZTNJdWd0NHQ2UU04YnFSV3JyMldBTGFvMG9EQnFVY0VZRnFUUXVmSFlxWkxuaWlFZndyUVJFOGVPTFBJZG9OaU9OV01tNFR2dklpUEhWMm9sLTRmWlh6R3RRLWdhUU1hbXJQNk9WeTFORGducjNWdHpadkNtQnBXQXdyMjhGbnF0SWliYTBrQQ?oc=5",
-            "published": "2026-06-21T16:03:50+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "- paltoday.ps",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmlMcUJoaUpQY0hmUFdtcFcyRjZ2dTgzNEJqaGw2NG1HcUJhWmVKU3pyZENQY3Jfelh3aW5TV09CLWJDeUMtY0F5U0t2eTlfS1FfT0dnMU92Ymo3c3lqeWFHV2VIQVBvUWtIZ3RoZXdKdzJITTNYRFZKajFxV2ZpUlZYclNEcVExaEVDdFdzVFpCV056U05KeG95ZUE1Zw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14OHFSeTg5bmVKVEFPUEdDNUE5aFNIV0pLMWt3Zk5YNjhCaEVZbDVad21MYThnUVVHX2lCUzRIeXhzNWlySTdHNHRES2l4YmhaSHZhanYtSHpua29jUlZaOWtSRGhFQmJUNUFORXotQ0M3NDFZ?oc=5",
             "published": "2026-06-21T15:27:42+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "تقرير خبير اقتصادي يحذر من تداعيات أزمة \"الشيكل الخامل\" على اقتصاد غزة المنهك - paltoday.ps",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbFMwYkRMZUxDUWZuZkNTaGI2S295OHRSQkJaWkFERFVuTlZOSC1xWW5aaHNyNUY1Wlo4ajhQZ1pzSWVLQ29wTnBYd3lSbkxZQk5UcGFIZFF2WmkyVEwzaUhvUTItaG9ZSjFKUmswcVlVdXpzWnc2NkRjWFVTX241YnhRR3diazN1TTBqSkp1NlVRc0dkdVBHTl9Remx6bnNfdUdCY2hfdlBrMWl2ekcwMmhCb0NOdG1qS3hMYkd3WDh3ZjZqOGdaT1JKd1ROUU41bS1xTkZRbGxrTzRaSE51dlhrYU5tZmlaTkE4M0tLdm0zMnBNVlRXT1hRQnFVMS1lUHU0Q0c0WnFGYjhfZUxWb1JIdHhPR1lvQkE?oc=5",
-            "published": "2026-06-21T14:17:00+00:00",
             "snippet": ""
           },
           {
@@ -424,6 +381,18 @@
             "title": "- paltoday.ps",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sbXhobUhSSGUwdEZRclEwNDhMV21CZDdSNVJGeXVNRUJhcWo0d0xDa3RQdms3cVFPSFlvcllUUF9YUVNGZWhIamNzRTlMZUh1NmotV0phdFNLUF9CRm12YmdyamYwTDRxdHNzOVltTDFZMEZB?oc=5",
             "published": "2026-06-21T13:50:32+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "- paltoday.ps",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CbElLcHg5NWpra2tmZmIzRWVIOVRRWnB4SWxDUDlRdE1OLWVKMDFoYnowT3RTOG41ajFIbFJHWVlmV3JGeWs4SzV1ZTNaRFRjVDZ4aXBISmJjUDFFUVhHTzNPeDhWZHZRM1l4cGIxTWhlaEZX?oc=5",
+            "published": "2026-06-21T13:27:41+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "- paltoday.ps",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHBVX1hMdGY3cGQ4WTNxaTZaOURSUC1hWW9uOVRtR3pwd2JwaTdmUkNra2FaTUtDcFA5aS1SS0lGUmZ0c1hwSk8zUGtrRUtXSEFNQVl6VUtCaXZKTFNLclFpallOMGJfdmJ4amxXcTJvZmdEWk5WRHpQcWJCb1ItUGpUSmt5a2ZyM3lMYVc4SVdZM3lzeFoybFRFOHl1UQ?oc=5",
+            "published": "2026-06-21T13:27:41+00:00",
             "snippet": ""
           }
         ],
@@ -774,33 +743,33 @@
         "url": "https://www.aljazeera.com",
         "headlines": [
           {
-            "title": "سوريا تفرج عن الناشط حسن عقاد بعد أيام من اعتقاله",
+            "title": "איראן, ארה\"ב, ישראל: מבוי סתום?",
+            "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
+            "published": "2026-06-21T16:49:31+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "אל ניניו הגדול המאיים",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/the-looming-super-el-nino?traffic_source=rss",
+            "published": "2026-06-21T16:45:39+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "תנועת 'תיקנים' ההודית מפגינה עד שהרפורמה בחינוך תתפטר",
+            "url": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
+            "published": "2026-06-21T16:37:49+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "סוריה משחררת את הפעיל חסן עכאד ימים ספורים לאחר מעצרו",
             "url": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
             "published": "2026-06-21T15:56:04+00:00",
             "snippet": ""
           },
           {
-            "title": "مبابي وفرنسا في مواجهة العراق بكأس العالم: توقعات، أخبار الفريق، التشكيلات",
+            "title": "מבפה וצרפת נגד עיראק במשחק מונדיאל: תחזית, חדשות צוות, הרכבים",
             "url": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
             "published": "2026-06-21T15:17:44+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "بدء مفاوضات أمريكية إيرانية في سويسرا",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-negotiations-in-switzerland-kick-off?traffic_source=rss",
-            "published": "2026-06-21T15:16:44+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "إيران والولايات المتحدة تطلقان محادثات سلام تاريخية بخارطة طريق لمدة 60 يومًا",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
-            "published": "2026-06-21T14:54:56+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "الجماهير تغمر شوارع أتلانتا قبل مباراة إسبانيا والسعودية",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss",
-            "published": "2026-06-21T14:48:18+00:00",
             "snippet": ""
           }
         ],
@@ -813,31 +782,31 @@
         "url": "https://www.middleeasteye.net",
         "headlines": [
           {
-            "title": "إيران تحذر أمريكا من \"التصرف بحذر\" بعد تهديدات ترامب",
+            "title": "איראן מזהירה את ארה\"ב 'להיזהר' לאחר איום טראמפ",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-be-careful-after-trump-threat",
             "published": "2026-06-21T16:55:45+00:00",
             "snippet": ""
           },
           {
-            "title": "زعيم حزب الله يرفض أي منطقة أمنية إسرائيلية في لبنان",
+            "title": "מזכיר חיזבאללה דוחה כל אזור ביטחון ישראלי בלבנון",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
             "published": "2026-06-21T16:29:35+00:00",
             "snippet": ""
           },
           {
-            "title": "زعيم حزب الله يقول إنه سيرد على أي انتهاك من إسرائيل",
+            "title": "מזכיר חיזבאללה אומר שיגיב לכל הפרה מצד ישראל",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-would-respond-any-violation-israel",
             "published": "2026-06-21T16:10:26+00:00",
             "snippet": ""
           },
           {
-            "title": "الولايات المتحدة تأمل في \"طي صفحة جديدة\" مع إيران، لكن ترامب يهدد باستئناف القصف",
+            "title": "ארה\"ב מקווה 'לפתוח דף חדש' עם איראן, אך טראמפ מאיים לחדש את ההפצצות",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-hopes-turn-over-new-leaf-iran-trump-threatens-resume-bombing",
             "published": "2026-06-21T16:03:52+00:00",
             "snippet": ""
           },
           {
-            "title": "إعلام إيراني رسمي يقول إن البرنامج النووي لم يناقش في محادثات أمريكية",
+            "title": "כלי תקשורת איראניים: תוכנית הגרעין לא נדונה בשיחות עם ארה\"ב",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-state-media-says-nuclear-programme-not-discussed-us-talks",
             "published": "2026-06-21T16:01:26+00:00",
             "snippet": ""
@@ -850,39 +819,8 @@
         "country": "UAE",
         "lang": "en",
         "url": "https://english.alarabiya.net",
-        "headlines": [
-          {
-            "title": "ترامب يهدد بضرب إيران لدعمها حزب الله في لبنان - العربية",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFJQdzJWRlpHS0xNWTZRRUtOa25TTHpncWxoSmVsd2x3NVFuX2libGpqVzBTTjdtX3ZLRW43OWVsVnV1dExvRU9Pa1EtbW96aExkczZjOG1yelZDeHNveXJjYms3d3RYZ2s4VHZ4XzI1YnViRWoydV9vSDlqVzF1T2cxbGVmc0FWa3E1OTAwTjJDUU1SVVdoZFNpbUdIUG54dlJNdXB3S0tLY3FtMmx6QUh5ckZuazZZQ2M1dktWUkF1M1HSAcgBQVVfeXFMTmlieWdrMVk3OW5nd3g1bWNQNVBZdXFQdU0zeDk5N3JHNkhnUTE3aTlYZmtDZ19YX1RaWUw3ZXFPSTBzeW9MQVRCeHNUTU9qUWlwVXp6SDFoenhhckc4bk5BMy1BTS1kb21faVZJZjhmWjRRcGlET1ZFWHNoQU5GOWVYVGo3V0ViSFMyMlFvRElMS0daN0l5QVVQeS1uLWFwcGMwOS1LaWZwMGkwVG9ROWlXREJfdjJ5c1NodG5Oa2NoVlc4dzhSWmQ?oc=5",
-            "published": "2026-06-21T16:10:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "فانس يأمل أن تتمكن الولايات المتحدة وإيران من طي الصفحة في محادثات \"تاريخية\" - العربية",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVZoM2E0aU5KbUxnYUtOTTFJelRsQTBjNW9oQW9QaWFhNlR5bjhleUc5OUxPSzhUZTdPUGNyc1htTUU3Z2tuZTZaLURBWUotQndMZ2N6RWliQUhITWZxb0dCRy0yYVRxZHF4RVp1WHhXdmVONERRYVpXN2Y1aFlrdElfbFBjbEZEYWFHOVZQbTdMSlNSeWdjOGxSN3hnOVV5a3RjNENtaXhpdEJES1h6OEpaa9IBuAFBVV95cUxNajY2RGx5WjZ3Vm1mMXZFSmtkZlI4UFVEMmhEWk1WdVZGTDRXc3A4dDZLcktmdmJQczlHT1Jfak1BcXJFejRpOW1udGw0VERWSFdBS29PMkhYMDBHUE9jTmJoUFpvbUhLc2Q1WnVXbnVlTUtzS0lyQ3NJT19KaVlsenhZcDJ5TTJIWnlUMi10ZHMzWmp1MEFkVzNPNHR2ak1obElMb3ZSSWRPaGxkVWxuT1dISGo3UXNz?oc=5",
-            "published": "2026-06-21T14:49:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "التواجد العسكري الإسرائيلي يخاطر بالاحتلال الدائم: لبنان - العربية",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXlqbk95VUN0NmE0UGhZTmlZT1RtUW5VUDlKb0xlRW9yb3E4QW9VRmtiYk1ZdzVqMHJqOGEzWnN6UUt4VHdORVBlekNYUlIzWE5xMkRDYzR6WlRrMVV2NnZWejNBYmE2dDN2OE1HUUJHR2ZxcG9xOXU3Uktub0t0TUxHWWhuRnZxTWhKNk44TE5xa2gyODhwWXB1SGlXUDdiRjhZM29VZzY1ZzREZDB3?oc=5",
-            "published": "2026-06-21T14:25:13+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "ميسي، رونالدو أم مبابي: من سيفوز بالحذاء الذهبي لكأس العالم 2026؟ - العربية",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTM0Wms5QXBTaFc2MGNoMGp2WmpRcW5BZzkyb1MyVHd5bWlyRWw5OXh5M21BQWloYWZoX3hJRGtfLVFSTGd5TnpjTEpaSmQ0UlFzWWlYMzNmOXAySzMzV3FNbkVyNVRhMmNwNF9xaTNHbzQzcFBlYmlsNnhLRFQzd0Q3dG9JVk5QQzFzUG5IQUhIbC1ON01lNEdLajBsaDB5NlVzQmxEV2xGVTNZeXc3SmtmQ0NPZjFpTmNucVZhVlZ6UdIBwgFBVV95cUxPbTM0Wms5QXBTaFc2MGNoMGp2WmpRcW5BZzkyb1MyVHd5bWlyRWw5OXh5M21BQWloYWZoX3hJRGtfLVFSTGd5TnpjTEpaSmQ0UlFzWWlYMzNmOXAySzMzV3FNbkVyNVRhMmNwNF9xaTNHbzQzcFBlYmlsNnhLRFQzd0Q3dG9JVk5QQzFzUG5IQUhIbC1ON01lNEdLajBsaDB5NlVzQmxEV2xGVTNZeXc3SmtmQ0NPZjFpTmNucVZhVlZ6UQ?oc=5",
-            "published": "2026-06-21T13:47:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "مبعوثون إقليميون يدفعون نحو تقدم سريع في محادثات أمريكا وإيران - العربية",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXBuclM2ZlZqX291YlRBbFhaak03WjJDb20xdGI2aldOckVramZoM2FDV0VOZ2kyRjB0YkVhUmx0Vks0bTVKRXJuQVgtdU5kZ0dBSVBpcGowYjJpY1BkNnh3VlllYkdNMXV2dVRsRVNEMVdsSF9SYzNKbktfUVAtRFBRTDFlV01yalJEeGJwcmJqblZyV2ZyR1NJODhQblVaMXctZG8yeHNKelVSbVhBaDZONnN1TGZU0gG4AUFVX3lxTE1xcG5yUzZmVmpfb3ViVEFsWFpqTTdaMkNvbTF0YjZqV05yRWtqZmgzYUNXRU5naTJGMHRiRWFSbHRWSzRtNUpFcm5BWC11TmRnR0FJUGlwajBiMmljUGQ2eHdWWWViR00xdXZ1VGxFU0QxV2xIX1JjM0puS19RUC1EUFFMMWVXTXJqUkR4YnByYmpuVnJXZnJHU0k4OFBuVVoxdy1kbzJ4c0p6VVJtWEFoNk42c3VMZlQ?oc=5",
-            "published": "2026-06-21T12:59:00+00:00",
-            "snippet": "المبعوثون الإقليميون يحثون على تحقيق تقدم سريع في المحادثات الأمريكية الإيرانية التي بدأت في سويسرا، بهدف تحقيق تقدم سريع في المفاوضات."
-          }
-        ],
-        "error": null
+        "headlines": [],
+        "error": "no entries"
       },
       {
         "source": "The New Arab",
@@ -891,31 +829,31 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
-            "title": "الناشط البريطاني السوري حسن عقاد يطلق سراحه في دمشق",
+            "title": "הפעיל הבריטי-סורי חסן עכאד שוחרר בדמשק",
             "url": "https://www.newarab.com/news/british-syrian-activist-hassan-akkad-released-damascus",
             "published": "2026-06-21T16:52:45+00:00",
             "snippet": ""
           },
           {
-            "title": "طائرات مسيرة إسرائيلية تقتل 3 فلسطينيين، بينهم طفل، في غزة",
+            "title": "כטב\"מים ישראלים הורגים 3 פלסטינים, כולל ילד, בעזה",
             "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
             "published": "2026-06-21T16:47:27+00:00",
             "snippet": ""
           },
           {
-            "title": "مسلمون يشعرون بالجزع من هجوم إدنبرة ويُرجعون السبب إلى الخطاب اليميني المتطرف",
+            "title": "מוסלמים מזועזעים ממתקפת אדינבורו, הממסד מאשים רטוריקה ימנית קיצונית",
             "url": "https://www.newarab.com/news/muslims-alarmed-edinburgh-attack-far-right-rhetoric-blamed",
             "published": "2026-06-21T16:41:59+00:00",
             "snippet": ""
           },
           {
-            "title": "ضربة التحالف تعيد الجدل حول المقاتلين الأجانب في سوريا",
+            "title": "תקיפת הקואליציה מעוררת מחדש את הדיון על לוחמים זרים בסוריה",
             "url": "https://www.newarab.com/news/coalition-strike-revives-debate-over-syrias-foreign-fighters",
             "published": "2026-06-21T15:02:54+00:00",
             "snippet": ""
           },
           {
-            "title": "فانس يأمل أن تتمكن الولايات المتحدة وإيران من طي الصفحة في محادثات \"تاريخية\"",
+            "title": "ואנס מקווה שארה\"ב ואיראן יוכלו 'לפתוח דף חדש' בשיחות 'היסטוריות'",
             "url": "https://www.newarab.com/news/vance-hopes-us-iran-can-turn-page-historic-talks",
             "published": "2026-06-21T14:32:03+00:00",
             "snippet": ""
@@ -930,31 +868,31 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
-            "title": "كوراساو تدخل التاريخ بنقطة مونديالية أولى أمام الإكوادور - الميادين",
+            "title": "קוראסאו נכנסת להיסטוריה עם נקודת מונדיאל ראשונה מול אקוודור - אלמיאדיין",
             "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxON2hKbUx5VkJ4Y0dMV3c3YXVtNlpNUWJPS3JXQXZMQ19femM1Y1NlUC16eGF0RFZHWEVCWGpIT0FqcHRFSklvOUtXSnlMNzNUTklIbWFSblBBVm5HTUlOVjJUMTgyUFdMRlhoaXFQVHBua2dUcjNndEtvazM1dm93RjJaMkRqYzBiWXI5RF9EaEVkYjZjR1plY0xCd0lIOFRkU3FVbkpNYk9HX2trQm13Unl4SGduOWNxYUdiVnV5aTc4UkRUZkswcTZLcTJoQW1RVWVmQW96bjVYUWtBN3gwUi1KTkltRmM1cmxMWHcwTUhuRFI5ZFBOZmQzTkRFX0l1Q3c5dGI5bVJxVFJBcUNFOVZuUEZxbEc2MDdRYXRXbm5SNER6LWx2LXplQnVwRVpUaEhkSzJDQ09TUlpsUEdNa2FDbTA2Zm1uMFlOR3Q0YXEyNFZheFY4bFozUlVORWpmQmdFb2J3VHE2Q3hpdEF3UUlramJsdGhFQUZfRnRKQ0F0RkE0eWpKSkV0ZXcyTVdDbWFyOGZ1SlZIWWc3Wlh2MmVLaEw1d2dkWnhKdGpCd3l2emltdVU1eVVINzVXTEJPcHBocG1yeEFUajdweVJLSjVjaWFVLW1uc0tZ?oc=5",
             "published": "2026-06-21T15:06:57+00:00",
             "snippet": ""
           },
           {
-            "title": "مصدر لـ\"إسرائيل هيوم\": واشنطن تستعد لمطالبة \"إسرائيل\" بالانسحاب من جنوب لبنان - الميادين",
+            "title": "מקור ל'ישראל היום': וושינגטון נערכת לדרוש מ'ישראל' לסגת מדרום לבנון - אלמיאדיין",
             "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPU0tNZzhlRWV5Mkd1QkVjVHljV01BN3I2RFFyYUhuVW1hb1ZSY0tGSTBDNXNucVJiejhIYnNSb0ZBRnNjcFNNSVpuVzlJQmVjTGJNNzdQUFZiWUFKVFdSTnhzcHRKekFhMDk1aE9RdG1YcG5JT3JLWkswQ0dQMEgyeUoxMUh0bDZtTUVYdjZZNmx4eW5fVDJnUGpJZ0IyMVE2Z3RVUWVxQmN0em95MnhyaEdhTXplYkZIeDh0Tnp3Y2V2SU84d3cyZGhVcUZmakRIVWc0OHZ5SUJkblZ6Z0ZURTNuU0N5cXU1dDhhYzhwalZEa3BtRWJoVTE4RjlkeXpVb0Y0eHFwcHU4M1ZjdUtMSUY0dXFXeHZIV2pacFdDSGtpVnRYdk9BbzdwcV92OXVRUmpGejJJVVhIbkxRdmYzX1Vybk5vRFh3UlRXOGx1VlRleHVtZktUY1lFaVVuUW5DeHBhcTFvdWZObjBPZHoyc1J4TEhEZlNSaHQ4NWxnVWx3X1hEMEZWcjVEZ3NJRHQtaW5fNWtWVV9rR0NZQ2c4OWdlNWJjbHFhZzh2YmlldEdUYWZnRkZ3MFNIdFVSQlF1ZHNxMzViYk5MZ2pKekJtMnJENjNDLU9xVXhUZzI0ZEdLZUxBTVhOYmNNc0NIdmxJZk8yeGFTaVNNZnNkSThvVzdJeks3SzcwVEFXcTEta3BrRjJHUUhCWWlfTWVtOHlqdUNHdkZ4ZldVenNaM3RpeGJMa3dqOTNw?oc=5",
             "published": "2026-06-21T14:16:13+00:00",
             "snippet": ""
           },
           {
-            "title": "فيروس إنفلونزا الطيور القاتل يفتك بآلاف الفقمات والبطاريق في جزر نائية - الميادين",
+            "title": "וירוס שפעת העופות הקטלני תוקף אלפי כלבי ים ופינגווינים באיים מרוחקים - אלמיאדיין",
             "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOelNYN3VvZVJxS0g2ckJsSk5JOVZIOGM1clIwa1F0aDU2LUlJNmxYamRxSlI1QUJwX3pvRkJtY25JQW9xc0JjelRSZlQ2ZWNKcGNWZTl3MU53VkdXSzNPcjZpdjVaNlhMV25EbklHOFJiOHlHMms0Ym44d2dIMG1vNm0wcXAtLXBPcHlkdUhRcFJmSk5paF9HVC01T0VzOC1DV3F6bHlCUzF6b3ItYzhYdl9qMzlpSXQ1b0ZsSHJ2bU8wUWNVOXRFalVkYkJVYlBaekFrVkJNQ1ZSaDlZRHZjclNyTWQxOFFqSE1LMl9ETFpMb2lrSTYxci1UdmlCRTJxSkhNcl81QkJTcWtPZE9DTUZheldyYVFEbzd5U3hqdGVZMUVmUzN5Uk8tcHEtTnpZTDc3NjJDM3ptYnFiY09xYUI0OWhsZTFZNEtMRFVVLU9Ic2Ntam9kLWxBQ3VIaE1QZVdzUy1zdDFJN2lYc0hvMmJOR3R3NjEtU2NCLVNnOGVxYVZqakYwYlBQNnRSNEVKdFFjMTBna2hUMTdCa0k4Y21Bck9EeWVnUVZtUGwydEdSSnRpU25MRVdLeTU3WGZ4V0RzMWFKdnF3OEtFSy03RjYzRHlWYW5PSmFQbDlyYWdiNzlFYXB6NFBoeUxyTHJwRzBycXVNeF9MTUU?oc=5",
             "published": "2026-06-21T14:16:12+00:00",
             "snippet": ""
           },
           {
-            "title": "جنيف: رحيمي للميادين: تأخر الاجتماع 20 دقيقة وأُجبر الجانب السويسري على إخراج الإعلاميين ولم نأخذ صورة مشتركة وحينها دخل وفد إيران - الميادين",
+            "title": "ז'נבה: רחימי למיידאן: האיחור בפגישה 20 דקות והצד השוויצרי נאלץ להוציא את העיתונאים, ולא נלקחה תמונה משותפת, ואז נכנסה המשלחת האיראנית - אלמיאדיין",
             "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNdkw2Tm9kU1VTOTVVTHgxWGFDWmZ2S0ZiTTNDMFQ1RDVBRFh4X1FNM29jSzFBQ3J6eEFCWWlvdVYxanh2b2NlaExRWXRkU0hEcWxfLTBSODR3dlFNRzlfRDhjSXdqQ014U0trZHpoNmxCVnNiWnRJYWd3a2FCeXJtd1oyYTdhbTVtVloyRmp2RUdmTFhBRGNNd3AzR1g0UnRHY2NXQjZZejFxMUxzMGZxQk9aNGJyMHdfeFktNUdMcW1oZ2RzMmlkbHg1cVVSdUxwanhSOER6eVJieXVfUTFKX09kVUJyZmNOcDFqS29mdER3MHJlTlRhbmlOeTJCSFoxejJxUzk3eDIyUDlyMGowUHV2QkNiejVtc2dUb1NiZHRSSldMeEp1WnBHZnlxMjUzeDh3aFpTeDdnYzdVZVRYNlVLd0NuUWd6VkkteUhqYTZCY3RYZXJZRjdIQ0wwM3BsQTBlWFdIdlBoY3o4U1hQeTBuWXJSd1NYOHF4cXZvNkltTGRvYW5kVE5lQ0RxRGVIS0FYb0l5QTFBX1lFU05pUVhoZGRzeHZWdER1U1BjZ1Z2d2lZRHFhYnY5RC1YQWoxOHg4UVMzR09nRWRWVFR2NnU3UzFSRGNQQjhST3Zoak1rWllUSUE?oc=5",
             "published": "2026-06-21T14:06:49+00:00",
             "snippet": ""
           },
           {
-            "title": "إيران: \"تسنيم\" عن مصدر مطلع: الوفد الإيراني رفض مشهد المصافحة ومراسم لالتقاط صورة مشتركة مع الوفد الأميركي - الميادين",
+            "title": "איראן: 'תסנים' ממקור מוסמך: המשלחת האיראנית דחתה את תמונת הלחיצת היד וטקסים לצילום משותף עם המשלחת האמריקאית - אלמיאדיין",
             "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNU2xoU3NrNDdocHNSLTlOVkY4OXl3TXNhaldTOTZGUEFvek9BSUtjbG03QlNra3c1M3N6b2laZTdXcnVtQXVYOURKVkVTTTZQWi1wZEdqWlVXZnU4dGFRaGhUV0Z6Y0ZObHJFeVJpR3p0MlJfcV9LQ2Q4QlNKLV8ta1JmMkdzMXRnYjJXVUtqY2tqZ1MybHlpdXdyY25TR0pZZmZPQnQ5QURpYktDTjk3QzZqbVFxaXdTenoxWXhaSUNqS0J6ajY4aWhBdHVBdVRrRFFfWHg0dGhzejBuMmRtYVFEMWxrSmVuM1FKU2VhLUxxLU1OOE1YTVFtV1ZoMnVnNmx2ZmVyanJIV05NNzR0U0tnOHFBSnlWcWd3ajdTU2V6dC1VeGlPdnVhLUxHa3RsdXQzTWFZc1ZWcURKakJhOGxNQVRJWEdqSE03Nzd1QXJUS19CenpTRDlDZVdVRDY2R0V3eUpWZXh4UmpEOUlZRzV5Z0Y2V2U3NGU0cEMxTENTYk1QVjdmRWM3QWRNelZCckhPN2JtNlAyYVl0RFhIdndDc3pYWnhWbVBHdzBSSFIwOEE1YWVFZ0FmbU1MQWppbWdyaHVNVlhGbkpsUjJOR2RoX3JscTZsNmVWSXRCUVBJcTZzcXc?oc=5",
             "published": "2026-06-21T14:06:48+00:00",
             "snippet": ""
@@ -971,34 +909,34 @@
         "url": "https://www.jordantimes.com",
         "headlines": [
           {
-            "title": "الحكومة تعدل القانون لتوسيع نطاق عقوبة الإعدام، حسب رئيس الوزراء - Jordan Times",
+            "title": "הממשלה תתקן חוק להרחבת עונש המוות, ראש הממשלה אומר - ג'ורדן טיימס",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTYwUHljNmlmUno5eG5wXzJkSXJhTzctNE5FQUM3TVJ4VmQtMXdCU0UwNnRFSFhUaHJObEY3WHpHNVpnSlhhY0tnTlVnTTk2dVlXRFIyekxTajlPZXBLT1ozMVVKVWpDUTJ2ek9PUXhXUXJJTk0tSEhmM1EwTEQ3ZHQ3Vm5YV2tBOVUyY2dnU1RkdFhGb3BobjMzWDQ?oc=5",
             "published": "2026-06-21T13:09:50+00:00",
             "snippet": ""
           },
           {
-            "title": "رئيس الوزراء يكشف عن برنامج تنموي بقيمة 800 مليون دينار لمدينة الزرقاء - Jordan Times",
+            "title": "ראש הממשלה מציג תוכנית פיתוח בסך 800 מיליון דינר ירדני לזרקה - ג'ורדן טיימס",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmlheEtwbkNzOE44Rm9qNHpQUDVXOHg1aUpuVS03TGVNQUdnOUVONHJhN1c5ZzJLdGNadkgtRndOZkxRWnB3RnU4TFBEUmhYNUlGMFZWZW0wRVJ4QW5jaVk4NWdSR0lmSjFlNW9mX2lKQkEyTU94eU5sTnB2eW5vdkxqem5GSVF5b2RYaHhSTENyMWFvOXBVNTJfUzY?oc=5",
             "published": "2026-06-21T13:00:42+00:00",
             "snippet": ""
           },
           {
-            "title": "إعدام ستة أشخاص بتهمة قتل 10 من رجال إنفاذ القانون - الحكومة - Jordan Times",
+            "title": "שישה הוצאו להורג בגין הריגת 10 אנשי אכיפת חוק - הממשלה - ג'ורדן טיימס",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU28xOE5xeGdRclR4bnR0ZVNXbkZRei1yT3ZIZ294UHVsa2JZWU1qQVJXRXhzNGpnNm9jVlVfTmFxQXBfQTlsY0RPMmhuQ0pmRFd0dTVFQ1JkcFFGMEljQXdvQXVSZVppQWZiYXRSU2ozR1VUSlVIaTdtZFZiZHBoeVpvbWI3d3BkNUhVYjdjcjkwTWg2LVdpc1ZR?oc=5",
             "published": "2026-06-21T10:55:09+00:00",
-            "snippet": "تم إعدام ستة أفراد بعد إدانتهم بقتل 10 من رجال إنفاذ القانون، وفقًا لتقارير حكومية من الأردن."
+            "snippet": "שישה אנשים הוצאו להורג לאחר שהורשעו בהריגת 10 אנשי אכיפת חוק, על פי דיווחים ממשלתיים מירדן."
           },
           {
-            "title": "الأردن يبقي التضخم أقل من المتوسط العالمي على الرغم من صدمات الأسعار العالمية - Jordan Times",
+            "title": "ירדן שומרת על האינפלציה מתחת לממוצע העולמי למרות זעזועי מחירים גלובליים - ג'ורדן טיימס",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTBNRVlXaThSeXN0OFpUcF9qT0F1SFBGeGRYLUZfVEh6NUU3X0ZmWUd2OHF1WF9lbUZsREtualR0ZFZUZlhjSkpnMV9kSy1tRzZmMDNYZDFNWDJGZ3gzSTNIZm54LThha3lmLU91Uy1xRnQ3alFRaU4tMUhYalZoTHpfeEdUN2w3WUNuOWVxbTllcFprbzJKb1lqeXFQUmx4ZGQ5d3ZrZy1Edw?oc=5",
             "published": "2026-06-21T10:55:09+00:00",
-            "snippet": "نجح الأردن في الحفاظ على معدل التضخم لديه أقل من المتوسط العالمي، على الرغم من تعرضه لصدمات أسعار عالمية كبيرة."
+            "snippet": "ירדן הצליחה לשמור על שיעור האינפלציה שלה מתחת לממוצע העולמי, למרות שחוותה זעזועי מחירים גלובליים משמעותיים."
           },
           {
-            "title": "زلزال قاتل في الفلبين يحول قاع البحر إلى شاطئ - Jordan Times",
+            "title": "רעידת אדמה קטלנית בפיליפינים הופכת את קרקעית הים לחוף - ג'ורדן טיימס",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ0ZDVkg4R0k3dUdaT2k3RldDeVRkZ09sVnpoOVlESWtFejNXME9wVUhZMFdPWFFlQ2RqMVRnaGZRM21majdiaG1xSS1sMEEyNTJ4bTJsX3hkRjJwdWdhcF8wUDlfb3ZvY0lKZWdJZHRhZHU0dWNIQ3lmZndMVUQ1aW9MTTFGTG00cm5F?oc=5",
             "published": "2026-06-21T06:00:05+00:00",
-            "snippet": "ضرب زلزال قوي بقوة 5.12 درجة شمال غرب مرسى مطروح في مصر، حسبما سجلتها الشبكة الوطنية لرصد الزلازل."
+            "snippet": "רעידת אדמה בעוצמה 5.12 נרשמה צפונית-מערבית למרסא מטרוח במצרים, כפי שנרשם על ידי הרשת הסייסמית הלאומית."
           }
         ],
         "error": null
@@ -1010,22 +948,22 @@
         "url": "https://today.lorientlejour.com",
         "headlines": [
           {
-            "title": "جنبلاط يدعو لفتح ملاجئ جديدة للنازحين - L'Orient Today",
+            "title": "ג'ומבלאט קורא לפתיחת מקלטים חדשים לעקורים - אל-אוריינט טודיי",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnFiX3FkSkl6RFdINE1HM1ZRUVlrWmprdDFFckNpVmxDcUd3a01RQ1haMmJjYTFSN25DeGZGdXZ6MDhKaFA3SzZFd1hVUldtWnoyb0xxLTNZeHRXbzFfSDJ5cWU1allEVEJqUUswemhpLTJibVNSODE3TWdMZzdoeUdHQXFFZ2dJby1KMjVRVEZTaHp6LTBVNTRFZ2FQQ1lmaUU4dDY2WE5sTUc2VEdVemxPYTlRUW1j?oc=5",
             "published": "2026-06-21T11:37:16+00:00",
-            "snippet": "دعا جنبلاط إلى إنشاء ملاجئ جديدة لاستيعاب النازحين، معالجاً الحاجة المستمرة للدعم."
+            "snippet": "ג'ומבלאט קרא להקמת מקלטים חדשים לקליטת עקורים, ומתייחס לצורך המתמשך בתמיכה."
           },
           {
-            "title": "الجزيرة ترفض اتهامات إسرائيلية ضد صحفي قُتل في غزة - L'Orient Today",
+            "title": "אל ג'זירה דוחה האשמות ישראליות נגד עיתונאי שנהרג בעזה - אל-אוריינט טודיי",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhLYno0elF5WG41STlnanN0ZGpzSEJ3R3lDUUpRSzhoN250ZkVocmx2Zk44VmY3N2xUNjVfVml3WlNTWWc0enlvNlFxXzAyaXZKTzZNbXM5RlB3MzRzVFNreWlYeTBEdnk2aUtRUE5CdnhoelplUm90YVNwb185RjB3ZVpjRFFMTGpwUXJLTjFJaUl2SXU5ZHh5MjAwRkpwd3JkZkNveEk2YU5FVGJ3bmxCRDZzNXhWNEJyX3hwVkZGaGM?oc=5",
             "published": "2026-06-21T11:05:24+00:00",
             "snippet": ""
           },
           {
-            "title": "في بيروت، ليلة الأفكار تدافع عن الشعر ضد النقاش - L'Orient Today",
+            "title": "בביירות, לילה של רעיונות מקדם את היתרון של שירה על פני ויכוח - אל-אוריינט טודיי",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWlOOEJmZ3Jrc0lvdkhZR3R2TG04SjcwSU9BLUtwbEk4bGhXUWt5b25CVENXcFM5U2ppQkhrWncyUEQzQ2lxcmVaU3JmUWNKbGlWcHE5RWhWaURHYmhLdVFTTEFXTllrbHBoYzZlaG9zTllkMUluSXFvZXQtdm5hUnpmQVdyaTBjSnZham9kNlRkN2ROYmxGcGhyQlpSVUM4ZldzV3AzektpeTh3cUlyd3lXRC1iUW5t?oc=5",
             "published": "2026-06-21T09:31:20+00:00",
-            "snippet": "روّج حدث بعنوان \"ليلة الأفكار\" في بيروت لقيمة الشعر على النقاش التقليدي، مما عزز المشاركة الفكرية والفنية."
+            "snippet": "אירוע שכותרתו 'לילה של רעיונות' בביירות קידם את ערך השירה על פני דיון מסורתי, תוך טיפוח מעורבות אינטלקטואלית ואמנותית."
           }
         ],
         "error": null
@@ -1037,34 +975,34 @@
         "url": "https://egyptindependent.com",
         "headlines": [
           {
-            "title": "الصيف 2026 يبدأ رسمياً هذا الأحد",
+            "title": "קיץ 2026 מתחיל רשמית ביום ראשון הקרוב",
             "url": "https://www.egyptindependent.com/summer-2026-officially-starts-this-sunday/",
             "published": "2026-06-21T03:30:51+00:00",
-            "snippet": "الانقلاب الصيفي في 21 يونيو يمثل البداية الرسمية للصيف في نصف الكرة الشمالي، ويشهد أطول يوم وأقصر ليلة في العام."
+            "snippet": "נקודת ההיפוך של הקיץ ב-21 ביוני מסמנת את תחילתו הרשמית של הקיץ בחצי הכדור הצפוני, עם היום הארוך ביותר והלילה הקצר ביותר בשנה."
           },
           {
-            "title": "معبد الكرنك يشهد محاذاة شمسية نادرة مع الانقلاب الصيفي",
+            "title": "מקדשי קרנאק יזכו לאליינמנטים סולאריים נדירים לקראת היפוך הקיץ",
             "url": "https://www.egyptindependent.com/karnak-temples-to-witness-rare-solar-alignments-for-summer-solstice/",
             "published": "2026-06-21T03:25:49+00:00",
-            "snippet": "سيشهد معبد الكرنك في مصر محاذاة شمسية نادرة خلال الانقلاب الصيفي، بما في ذلك محاذاة شمس الظهيرة فوق المجمع ومحاذاة غروب الشمس في معبد آمون."
+            "snippet": "מקדשי קרנאק במצרים יחוו אליינמנטים סולאריים נדירים במהלך היפוך הקיץ, כולל אליינמנט שמש בצהריים מעל המתחם ואליינמנט שקיעה במקדש אמון."
           },
           {
-            "title": "تسجيل زلزال بقوة 5.12 درجة شمال غرب مرسى مطروح",
+            "title": "נרשמה רעידת אדמה בעוצמה 5.12 צפונית-מערבית למרסא מטרוח",
             "url": "https://www.egyptindependent.com/5-12-magnitude-earthquake-recorded-northwest-of-marsa-matrouh/",
             "published": "2026-06-21T03:22:00+00:00",
-            "snippet": "تم تسجيل زلزال بقوة 5.12 درجة شمال غرب مرسى مطروح، مصر، من قبل المعهد القومي للبحوث الفلكية والجيوفيزيقية في الساعة 12:27 مساءً بتوقيت القاهرة."
+            "snippet": "רעידת אדמה בעוצמה 5.12 נרשמה צפונית-מערבית למרסא מטרוח, מצרים, על ידי המכון הלאומי לחקר אסטרונומיה וגיאופיזיקה בשעה 12:27 בצהריים לפי שעון קהיר."
           },
           {
-            "title": "مصر تحذر من نشر شكاوى على وسائل التواصل الاجتماعي بعد مزاعم مستشفى فيروسية",
+            "title": "מצרים מזהירה מפני פרסום תלונות ברשתות חברתיות בעקבות טענות ויראליות בבית חולים",
             "url": "https://www.egyptindependent.com/egypt-warns-against-posting-social-media-complaints-following-viral-hospital-claims/",
             "published": "2026-06-21T03:15:36+00:00",
-            "snippet": "حذرت النيابة العامة المصرية المواطنين من نشر شكاوى غير مؤكدة على وسائل التواصل الاجتماعي قد تثير الذعر أو تخل بالنظام العام، عقب حادثة مستشفى فيروسية."
+            "snippet": "התביעה הכללית במצרים הזהירה אזרחים מפני פרסום תלונות לא מאומתות ברשתות חברתיות שעלולות להסית בהלה או להפר את הסדר הציבורי, בעקבות אירוע ויראלי בבית חולים."
           },
           {
-            "title": "رانيا المشاط تؤدي اليمين الدستورية كوكيلة أمين عام للأمم المتحدة والأمينة التنفيذية للإسكوا",
+            "title": "רנייה אל-משאט הושבעה לתפקיד תת-מזכירה הכללית של האו\"ם ומזכירה מנהלת ESCWA",
             "url": "https://www.egyptindependent.com/rania-al-mashat-sworn-in-as-under-secretary-general-of-the-un-and-executive-secretary-of-escwa/",
             "published": "2026-06-21T03:12:09+00:00",
-            "snippet": "تولت رانيا المشاط رسمياً منصب وكيلة الأمين العام للأمم المتحدة والأمينة التنفيذية للإسكوا بعد أدائها اليمين أمام الأمين العام أنطونيو غوتيريش."
+            "snippet": "רנייה אל-משאט נטלה רשמית את תפקידה כתת-מזכירה הכללית של האו\"ם ומזכירה מנהלת ESCWA לאחר שהושבעה על ידי המזכיר הכללי אנטוניו גוטרש."
           }
         ],
         "error": null
@@ -1076,34 +1014,34 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
-            "title": "الخنسا: تصريحات فانس تعطي الصراع مع العدو أبعاداً دينية وطائفية بغيضة - الأخبار",
+            "title": "אל-ח'נסא: הצהרות ואנס מעניקות לסכסוך עם האויב מימדים דתיים וכתתיים דוחים - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQWWhZRXVWNUV2TUtlcnotZGxTUU5kRTNfU0VvWkx6MWdyYzhzVkM0cHN3WHB4R3JUc1NVWENxNmgtUmxjNGRBZ0xJcnhjZVhUYzRSbXJCYzQ5RnVzLWxLUXBwSFcyWjhYNlVTd3VzUjl0cTNkRmRqMkZlQi1CT2w3Zjl2dEdvTHg4cFVkb3g4eEdMRnhjOUNyR0t4cnJhSkw3TkpfUUFOcDhWeVZ2UGVZRHU5b3VqNElXcF9TYkRBVjNseDJScXdIQU84MXlZcFhSYmhUTUZUUDdWTXQ5THRqWE9CTERpVzFORmxSM05zb2ZHQ0dpMmdubVR2Z2FNdmM2WlFzaG5ySHpKVFBPajhrN3VNcDhNUTlzVlpIYWY4MzF3aHc5MXdJLWprdGVqajZLVU9ZMFlkN1hhRzdYOWJteGhtUjUwdDRFUnZGQ0IxVHp6U2xleXBRMHQyMlhKZ3ZQaXpuYTVDZ0xyMGNEOFBwM1BTMGJYeWQyOV9vbGVoVG9PeWl3c2NRYlpGdXl2NXppcmtNLUlUX1l0MFUycHBKaUpWWXdtSk9qQVhxNHdGejJGaXlYSzduWFBkUmpXT2ozNWdMNmYzbjFtOXRabkg3emdxWHVwajRyQ1RWOG9CdThFZnhtTW9QUEQtQXZKaG5m?oc=5",
             "published": "2026-06-21T14:59:00+00:00",
             "snippet": ""
           },
           {
-            "title": "اختبار صعب للسعودية أمام إسبانيا في كأس العالم - الأخبار",
+            "title": "מבחן קשה לסעודיה מול ספרד במונדיאל - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNWFFpVzlhNlFKTVJEOWtHYXhMcEdiVm5KT0VkRlNPYlFqNG1SU2RhYlRTYnZrak9mbGNrNkFiLXI4YTRCSkpWM2hfZjl1UFROZ1NkZFlkakhjdU5yZ0VpX2FrNVkyQnQxcWZzeGhtdU9saUxONkh1UG1JUU83eEt6LV9Ec0h3LUJSOS1icmFoaWU2VUhwdkt6bXFRVXg3NnJXQUltZmRZb0phSWNXTmN2ZFNFX0FVcmNnV053NVhKQjdZWnlYaUY1TVA0VXFyNzJXYlNOcGxhZ1Rjcld3VFJZOU5WYl9XVmk3UFo0bWJJQ2s2Ym5lS2JqUlB5NjN1YnpOV3dEaFpOOG1jN3BWYjJrTnR2V2hYQlBJZ2o1N2xFejZXTkpiTnJaR2FJZU0zalNKZFRSdEtYMUF4TnJra0NydllReDdaTzhpRWJNRmtFb3ZoV1ZvSnhGRkMzN1Bub3FaLXpwMDRncjlSVjJKVUJtaGxla0dMcE5DUjBaeWxCaVNBS002bTkxTG56cGM3cTBxbGMxTmRzRFNqdw?oc=5",
             "published": "2026-06-21T14:45:00+00:00",
             "snippet": ""
           },
           {
-            "title": "فضل الله: الدبلوماسية المستندة إلى الصواريخ هي التي تحمي بيروت - الأخبار",
+            "title": "פדלאלה: הדיפלומטיה המבוססת על טילים היא זו שמגנה על ביירות - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNclAtZGV2UFVfdEtucndOMXYwVk5wcUh1SmcxcWdrUzVkZTRjalduYUtBbGJuQU44blhvekNTRkJWdVVpa1cwV0pBa1JtUW5UbXZKZjZLQ0pRUDl2ODNCR0pRTEY5U0hUWHhZUW1NaWRqMkd6VUhTWlJUcFpMczV3TFliaG9TYTlORG5tR2tNSDJEQ2VUTk5pUTgwbjdYUGJHcEt6bTdZeE1mVHdkS2dkY1VWdXJReEUtSVNIRjdlLW9UdVJsUVpRbUotYUdmNWp6N0MtaVJCNDVmQ1pSSVhMODIzdGlVRTYybmZlREkxeXh0X042MmdLSU8tNE5yUUxSUEtlWDNpcHdpa1B2RVlEeVFxbXlYRENtZXBPVkZ1azZ3aVhWRnp2UHlmcVQ0Qk5BMVQ5eXZJWUwwemFGLWVKc1hONkVXeDRCX0d6di1QUU01dDhYeUlsck51REtSeWEwNG5jVEZNVUNlQlJBNWk0TUZfY0pvR0NUQjQxeUtYcXZlU2RJZHZ2aG5sa0lWQVdYaGgtYndxbVNhVEZVVTVwazU4OHhKYWd6MFBGZG84NVR3dFJuOHNkMnJsRjIyTnZLTE5fdzA0UWotWlo3M0wweFQ4SnBub29hdHVKTU1pOEpwTVdyWWJMVUU5RkZUMl96U3JBYTlNTQ?oc=5",
             "published": "2026-06-21T12:39:10+00:00",
             "snippet": ""
           },
           {
-            "title": "«ألبانيا ليست للبيع»... غضب عارم من مشروع سياحي لعائلة ترامب - الأخبار",
+            "title": "\"אלבניה לא למכירה\"... זעם עצום על פרויקט תיירותי של משפחת טראמפ - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOMmJQQ2RXY3AyaHlTZzNTeEtGZnk3eGV0MThnNEcyWnUzQzFFYnNuZ21rcFZXaHhmV3dRNGd4S1NiMVJfQWpoWHZkclRPUXNHUVd1QVI5R1Zqa3FvaVZjQ3lPRlVyRERSTEhKWER6OVUtTlZFYnM1UEVMREdCT3JrTXQ3NVF6cHpBRUdCeGpqSzVuQTMzNDM4OEdMa21PZng2b01Id055LUppOXZQak1nR2s4bDNFdTZMUkUxY1IyWWY2X0s1Tm1qT2hQcGpkZkFab2dNRm5XVDMwQzhBT0s4X3hMejY0Y1JpVHdrQzlCWEpKQkVaQ2Izc1djbUVYWkV1dGtxT1ljQTFfdGkwOTVrM0Y1X09tYkIzaEN3SlcyTUY3WFd6Qk4xLXY3SlVRaXA4ak9McWpReE5CRm1VcnI0VG1ZN2MtTTNDWkNINFI2REwyRFpBUEdjZnNvV1dQY0RYMHRTMU1DVm92VHI2WDNYeDVwaTh3d2VhMUdnNGg4Uzh2Ym5PZlQxY2plaF9LYWdoNFBfZGNxU05UTzBIWnBlaTNhMWs4eXh1TXJqaldHX0RBay1hbXBJcDAtdmlRaFpIYzZCeVhjcjN1ZDRIRFJRVkVnTFBGN2lIYWc?oc=5",
             "published": "2026-06-21T12:02:16+00:00",
-            "snippet": "أثار مشروع سياحي لعائلة ترامب في ألبانيا غضباً واسعاً، حيث احتج المواطنون تحت شعار \"ألبانيا ليست للبيع\"."
+            "snippet": "פרויקט תיירות של משפחת טראמפ באלבניה עורר זעם רחב, כאשר אזרחים מוחים תחת הסלוגן 'אלבניה לא למכירה'."
           },
           {
-            "title": "خروج تونس من المونديال بعد الخسارة أمام اليابان - الأخبار",
+            "title": "יציאת תוניסיה מהמונדיאל לאחר הפסד ליפן - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPa09zbFduNDZWREl6ekFDd0pwWjl5Y2ktalhEZjJyMHhoMVRLOWtuZnRqajk5YmZQRGZBS0JVSnhkSUF1dU5naUFBaFQ1WVR5TzZCcXpERmNiNFQtMVZ6d2lIV3Q0MmRrcVlvOEZHUHFEZVZoOWJka2JPdDRlVGs0VUpVaFRmZFNsQzNNZ2NGekh1T3plb0VQMlB2TG13MVoyUUdyWEp3QUpCM09sV3c0c2pwUVlDYktqUXJNRUhKcEpQd0JvanlsSC1Db00tdVktUGV2UmFmQ3Fha3NqNjhVQlpQQ1JKWWxUMU55djlRMXFLS1R2UEQ1dUVWUnY5YmRmc2p3ajZZaF9rRGV6UmFveTNFTTJ3bjZPekI0UmNjemU2TzlfWnRaVWNVRVBGTzFNM0pkYjRlQW1DNFZvVXZHc083ZG02ZV8xTGUwbGFRNTh2VXZsNlVqclBvcE55QmN6MnJJeC1aVnVXaEJ4THlhRS1fa0NwWE1zaWNYclBaQmRiWmJfVU1aOHBmTUtFbC1LcG0tZ3g1eDJYM2tSQWhZRl9R?oc=5",
             "published": "2026-06-21T10:31:00+00:00",
-            "snippet": "خرجت تونس من المونديال بعد تعرضها لهزيمة كبيرة أمام اليابان، مما يمثل خروجها من البطولة."
+            "snippet": "תוניסיה יצאה מהמונדיאל לאחר שספגה תבוסה משמעותית מול יפן, מה שמסמן את הדחתה מהטורניר."
           }
         ],
         "error": null
@@ -1115,33 +1053,33 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "بالفيديو | مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ 12-06-2026 دبّابة ميركافا تابعة في الأطراف الشرقية لبلدة يحمر الشقيف بمحلّقة أبابيل الانقضاضيّة",
+            "title": "כתבה מצולמת | משוויץ... המשא ומתן מתקדם הרחק מהחזיתות בניסיון לסיים את המלחמה",
+            "url": "https://www.almanar.com.lb/article/967342/",
+            "published": "2026-06-21T17:02:10+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "בוידאו | צילומים מפעולת תקיפת מוקדם התנגדות האיסלאמית בתאריך 12-06-2026 טנק מרכבה של חטיבה בהאבּיל מטווח קצר באזור המזרחי של העיירה יחמר שקפיף.",
             "url": "https://www.almanar.com.lb/article/967337/",
             "published": "2026-06-21T16:59:01+00:00",
             "snippet": ""
           },
           {
-            "title": "مهرجان تكريمي للشهيد الحاج رمضان في مخيم برج البراجنة",
+            "title": "פסטיבל הוקרה לשהיד חאג' רמדאן במחנה בורג' אל-בראג'נה",
             "url": "https://www.almanar.com.lb/article/967277/",
             "published": "2026-06-21T16:56:38+00:00",
             "snippet": ""
           },
           {
-            "title": "سرايا القدس: ندعو شباب أمتنا العربية والإسلامية إلى أن يجعلوا من القائد الشهيد الحاج رمضان ومن القادة المجاهدين الأوفياء أمثاله نبراسا وقدوة على طريق الجهاد والتحرير",
+            "title": "גדודי אל-קודס: אנו קוראים לצעירי אומתנו הערבית והאסלאמית להפוך את המנהיג השהיד חאג' רמדאן ואת המנהיגים האמיצים האוהבים כמוהו לנר ולדוגמה בדרך הג'יהאד והשחרור",
             "url": "https://www.almanar.com.lb/article/967312/",
             "published": "2026-06-21T16:55:28+00:00",
             "snippet": ""
           },
           {
-            "title": "سرايا القدس: لقد خلّف الحاج رمضان إرثا جهاديا عظيما ومسيرة حافلة بالعطاء والبذل في ميادين المقاومة وكان ركنا أصيلا في إسناد فلسطين وتعزيز قوتها",
+            "title": "גדודי אל-קודס: חאג' רמדאן הותיר מורשת ג'יהאדית גדולה ומסע עשיר של תרומה והקרבה בשדות ההתנגדות, והיה עמוד תווך בתמיכה בפלסטין וחיזוק כוחה",
             "url": "https://www.almanar.com.lb/article/967212/",
             "published": "2026-06-21T16:54:29+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "سرايا القدس: في الذكرى السنوية الأولى لارتقاء القائد الجهادي الكبير اللواء محمد سعيد إيزدي “الحاج رمضان” نبعث لروحه الطاهرة أسمى آيات الوفاء والإجلال ونجدد العهد بأن تبقى راية الجهاد والمقاومة خفاقة",
-            "url": "https://www.almanar.com.lb/article/967227/",
-            "published": "2026-06-21T16:53:30+00:00",
             "snippet": ""
           }
         ],
@@ -1162,33 +1100,33 @@
         "url": "https://paltoday.ps",
         "headlines": [
           {
-            "title": "-بالتوداي.بي إس",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXk2RTdoak0wa0RxLUdIZTNJdWd0NHQ2UU04YnFSV3JyMldBTGFvMG9EQnFVY0VZRnFUUXVmSFlxWkxuaWlFZndyUVJFOGVPTFBJZG9OaU9OV01tNFR2dklpUEhWMm9sLTRmWlh6R3RRLWdhUU1hbXJQNk9WeTFORGducjNWdHpadkNtQnBXQXdyMjhGbnF0SWliYTBrQQ?oc=5",
-            "published": "2026-06-21T16:03:50+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "-بالتوداي.بي إس",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmlMcUJoaUpQY0hmUFdtcFcyRjZ2dTgzNEJqaGw2NG1HcUJhWmVKU3pyZENQY3Jfelh3aW5TV09CLWJDeUMtY0F5U0t2eTlfS1FfT0dnMU92Ymo3c3lqeWFHV2VIQVBvUWtIZ3RoZXdKdzJITTNYRFZKajFxV2ZpUlZYclNEcVExaEVDdFdzVFpCV056U05KeG95ZUE1Zw?oc=5",
+            "title": "- paltoday.ps",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14OHFSeTg5bmVKVEFPUEdDNUE5aFNIV0pLMWt3Zk5YNjhCaEVZbDVad21MYThnUVVHX2lCUzRIeXhzNWlySTdHNHRES2l4YmhaSHZhanYtSHpua29jUlZaOWtSRGhFQmJUNUFORXotQ0M3NDFZ?oc=5",
             "published": "2026-06-21T15:27:42+00:00",
             "snippet": ""
           },
           {
-            "title": "تقرير خبير اقتصادي يحذر من تداعيات أزمة \"الشيكل الخامل\" على اقتصاد غزة المنهك - بالتوداي.بي إس",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbFMwYkRMZUxDUWZuZkNTaGI2S295OHRSQkJaWkFERFVuTlZOSC1xWW5aaHNyNUY1Wlo4ajhQZ1pzSWVLQ29wTnBYd3lSbkxZQk5UcGFIZFF2WmkyVEwzaUhvUTItaG9ZSjFKUmswcVlVdXpzWnc2NkRjWFVTX241YnhRR3diazN1TTBqSkp1NlVRc0dkdVBHTl9Remx6bnNfdUdCY2hfdlBrMWl2ekcwMmhCb0NOdG1qS3hMYkd3WDh3ZjZqOGdaT1JKd1ROUU41bS1xTkZRbGxrTzRaSE51dlhrYU5tZmlaTkE4M0tLdm0zMnBNVlRXT1hRQnFVMS1lUHU0Q0c0WnFGYjhfZUxWb1JIdHhPR1lvQkE?oc=5",
-            "published": "2026-06-21T14:17:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "-بالتوداي.بي إس",
+            "title": "- paltoday.ps",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVpvYXNwTml3NGNoODduelQzdFhhNE5pNGJnQm5MZ19NZTU0bm1fazJ2bl9IR0FYQ19Sc2ZtTXhtdzFTbWprVWptOVlfYi1HTmlqeDFQeUxzeUNCTnVwSFNmN05paVZyb1paZEhGVzNMRFVWR1pzOWFkTVJmUmxMdE9VRFBKR2VYa1FLQ0NocmdQTXN1T0lLWEQ1SlhFUQ?oc=5",
             "published": "2026-06-21T13:50:33+00:00",
             "snippet": ""
           },
           {
-            "title": "-بالتوداي.بي إس",
+            "title": "- paltoday.ps",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sbXhobUhSSGUwdEZRclEwNDhMV21CZDdSNVJGeXVNRUJhcWo0d0xDa3RQdms3cVFPSFlvcllUUF9YUVNGZWhIamNzRTlMZUh1NmotV0phdFNLUF9CRm12YmdyamYwTDRxdHNzOVltTDFZMEZB?oc=5",
             "published": "2026-06-21T13:50:32+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "- paltoday.ps",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CbElLcHg5NWpra2tmZmIzRWVIOVRRWnB4SWxDUDlRdE1OLWVKMDFoYnowT3RTOG41ajFIbFJHWVlmV3JGeWs4SzV1ZTNaRFRjVDZ4aXBISmJjUDFFUVhHTzNPeDhWZHZRM1l4cGIxTWhlaEZX?oc=5",
+            "published": "2026-06-21T13:27:41+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "- paltoday.ps",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHBVX1hMdGY3cGQ4WTNxaTZaOURSUC1hWW9uOVRtR3pwd2JwaTdmUkNra2FaTUtDcFA5aS1SS0lGUmZ0c1hwSk8zUGtrRUtXSEFNQVl6VUtCaXZKTFNLclFpallOMGJfdmJ4amxXcTJvZmdEWk5WRHpQcWJCb1ItUGpUSmt5a2ZyM3lMYVc4SVdZM3lzeFoybFRFOHl1UQ?oc=5",
+            "published": "2026-06-21T13:27:41+00:00",
             "snippet": ""
           }
         ],
@@ -1203,31 +1141,31 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "السعودية ومصر وباكستان وتركيا تدعم محادثات أمريكا وإيران في اجتماع القاهرة - عرب نيوز",
+            "title": "ערב הסעודית, מצרים, פקיסטן וטורקיה תומכות בשיחות ארה\"ב-איראן בפגישת קהיר - ערב ניוז",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QMklTRDNZTWhjYy1fdVFOazJlTklMamUzY01kc2tCNmYwU0NYYm5OZEY5cmdLSl9EWjlPU1JqRk5GOF9RRHh6RTJ1aDZ1ajhySlBB?oc=5",
             "published": "2026-06-21T15:29:35+00:00",
             "snippet": ""
           },
           {
-            "title": "معرض مكة يعرض بلاط رخامي تاريخي من المسجد الحرام - عرب نيوز",
+            "title": "תערוכה במכה מציגה אריחי שיש היסטוריים מהמסגד הגדול - ערב ניוז",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GWFI1dFFwU2NSMU91RUpPTEpCdGlGWFlPejRPb1ZpSHZpWFQyZmZkS1lHR0hjWGRxcklTREdEdFVIQzNLTXctd2p2aDlvbkJIRlFn?oc=5",
             "published": "2026-06-21T14:46:17+00:00",
             "snippet": ""
           },
           {
-            "title": "وكالة البحرية الباكستانية تقول إنها تعيد ثمانية مواطنين إيرانيين تم إنقاذهم في البحر - عرب نيوز",
+            "title": "סוכנות הימאות הפקיסטנית מדווחת על החזרת שמונה אזרחים איראנים שניצלו בים - ערב ניוז",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzSWktQ1M1QjhscEJTbFVuYkNnc001QWZCcnJiRzhQRy1CRDY0SGZFelhOQ3d2YnR1dEk3TTU3bjd2WjBQVzR0SGtkTXNzemZsOXFj?oc=5",
             "published": "2026-06-21T14:38:17+00:00",
             "snippet": ""
           },
           {
-            "title": "الولايات المتحدة تأمل في \"طي صفحة جديدة\" مع إيران في محادثات توسطت فيها باكستان في سويسرا - عرب نيوز",
+            "title": "ארה\"ב מקווה 'לפתוח דף חדש' עם איראן בשיחות מתווכות פקיסטניות בשוויץ - ערב ניוז",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1UmJPVmVQcEZieGRzbVlqM1dHWU5GY3VKQ25hd1N5UDI5NnlQVjBFVWpEVVhhQ1Zoc3dySmlvbWlaOXB5dGZFU1NkTTFyUF9QWTNR?oc=5",
             "published": "2026-06-21T14:38:16+00:00",
             "snippet": ""
           },
           {
-            "title": "استطلاع رأي: الإسرائيليون يعتقدون أن إيران فازت بحرب الشرق الأوسط - عرب نيوز",
+            "title": "סקר: ישראלים מאמינים שאיראן ניצחה במלחמה במזרח התיכון - ערב ניוז",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tQWVhZi1iRWVudzZFLUwtb09pTFcxbUtKdFU3aUtQQTRCeFVwZ1dKNHRqdzVJWmVkNDVrVWdIVTF4SklzTmkxNjdRTGhFTk1peHI4?oc=5",
             "published": "2026-06-21T14:20:58+00:00",
             "snippet": ""
@@ -1242,31 +1180,31 @@
         "url": "https://www.thenationalnews.com",
         "headlines": [
           {
-            "title": "فيبهاف سوريافانشي يحقق رقماً قياسياً عالمياً في الخمسينات قبل جولة أيرلندا وإنجلترا - The National",
+            "title": "וייבב סוריאוונשי קובע שיא עולם בחמישים ריצה לפני הסיור באירלנד ואנגליה - דה נשיונל",
             "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcjg1SFd3T24xdGRtUmFyWm1WOTlia2p6M0IyWVg4WWZCcHdmSHZnY2x0X1ExUFRGODVSQ0ZXYlp5ZDNrMlQ5cTh6RkxxazN4N2FuaFM1NkcwTVZTOVNNNHdyM18yM19iOXZ5aUNJQ1BrektWanNuRTE3bWEwVTg5NTc5RXNERV81Vm5rZ3BORXlMM2hENG5Udy1OOGtCYy1qblRqcEowRkpIcDNFR0k5U1RJaGVpenFDRFdxaGt6MGpLM0hyLUJyZXdQM0lLTGZPT0t6dTh3?oc=5",
             "published": "2026-06-21T16:19:29+00:00",
             "snippet": ""
           },
           {
-            "title": "الحرس الثوري الإيراني يقول إن مضيق هرمز مغلق. بيانات الشحن تشير إلى خلاف ذلك - The National",
+            "title": "משמרות המהפכה האיראניים טוענים שמיצרי הורמוז סגורים. נתוני ספנות מראים אחרת - דה נשיונל",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWGVXdEY5VUpMeWpERHV2bjBzRmxmRjA0dGU3Z3ZKbS1OYnFaUThGTTJvVUhuLU4tRGl4cjB3cVhDSTBxZ1hhdFp6cjROU21HLUNGeXdtN3U2bFBpZDV3Nk8yS25EcFJCSHdsX0dwN3lTalVGMWhiUi1iWXJ5NGJ4dHBIMDhqOGtVUE1Pdm5HSzV2a0dIQkV0MHNyamkxODFBZ1hCa0NEN0JCUFNxNE5ybUh2ODlUQThz?oc=5",
             "published": "2026-06-21T15:56:15+00:00",
             "snippet": ""
           },
           {
-            "title": "وزراء خارجية باكستان والسعودية ومصر وتركيا يدعون إلى اتفاق أمريكي إيراني دائم - The National",
+            "title": "שר החוץ של פקיסטן, ערב הסעודית, מצרים וטורקיה קוראים להסכם קבוע בין ארה\"ב לאיראן - דה נשיונל",
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
             "published": "2026-06-21T15:52:47+00:00",
             "snippet": ""
           },
           {
-            "title": "رئيس دولة الإمارات يشارك رسالة عيد الأب - The National",
+            "title": "נשיא איחוד האמירויות משתף מסר ליום האב - דה נשיונל",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWRKbGpLZlhxaXBxdEJ6WDgwYmQwNV81T3haTGs3clpSS3lvZnVpc0RkMzkzdzBnVWJMVUZxbU5QNGFhclNNRHp6SHFPZEY3M1MydXZpMXc2QnFYVHJscnpyR3RRc1AxXzkxM1hGT0RsUnpDeklMRkMtVllPaHF0VEVzTkFpM1BIRC16VFVhUXktQ1piRGptSw?oc=5",
             "published": "2026-06-21T15:43:41+00:00",
             "snippet": ""
           },
           {
-            "title": "قوات الدعم السريع السودانية تقترب من الأبيض مع تحذير الأمم المتحدة من فظائع وشيكة - The National",
+            "title": "כוחות התמיכה המהירה של סודן מתקרבים לאל-עובייד, האו\"ם מזהיר מפני פשעי זוועה מיידיים - דה נשיונל",
             "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZUNVOXpkVFAyYlc2SHhoZFNqM0MwZDVldFdpYTlaQmJKUGo5ZEpDd2dxUm1abl9ja0sxRm1DZUE2T1ZqX1I0TElodHU1SENOM2w1Z0lUUkxYcGxYVHRRWWVvM0dHV2FLYWZnSzEtN2FHMzBQZ0hxWlQwblMwRm1EenRLYjVvVnJBay1RYnkzR0t3N0xXbVJlLTRIWmNPZ196YW0tdTZmV05EN3ZWMjFROG96a3p0dFZ3WXdzckhMQWViWmJpTWhWdUlxSjdFd0pObS1JZW1OX2JoRDI3MUtUbw?oc=5",
             "published": "2026-06-21T15:33:45+00:00",
             "snippet": ""
@@ -1281,31 +1219,31 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "ما تريده واشنطن من محادثات إيران الجديدة حول البرنامج النووي ومضيق هرمز وحزب الله - الخليج",
+            "title": "מה וושינגטון רוצה מהשיחות החדשות עם איראן על תוכנית הגרעין, מיצרי הורמוז וחיזבאללה - גאלף ניוז",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaURyR3hYNnd0SldyVEpfXzRzU0xtLU1SN21Uc1hFUjJuRXVpQ0gxeEFLMDJCcEJKSmQxWHp4WXlFWFBxN0V1bXhqM3FpVFNRLW5JOWlMa0FHYXh4b05abVJvekNMdEZRNjNWUHJwNU5samhJY0RQSlRyZ09QOXNYQTRxaVZjYjZETXZMbXFHLXBPUHRnYTUyX0dNTU10QVBkR0s0eGJUYnk3U2JfTGtEdUhiV19YT2JzS0hCRlZvcmhZMlZCUzdteNIB2wFBVV95cUxOQmp4LWdyNjFXcDhJVHNrSnVGZWNNb2gtTy0wSVNBUVV6LU44dTRzSmtacXFNYVJLZHZXdVNzU2tpeHZDMHZRcmFZUEZIU01vU3J3N3RyZmhlU3p3V2tmOVQ0UC0yTHZsa3Z4SEU4NEFWWG1nV28wUklNOEk3b2JMN2d1dXFtQ2k2Y0l4dTF0dUlxQ252U19VZlhYTXhfaGZJcmlrLWpGSFMwNmUyejUzVlMtSkppQlEzYVRIWlVQZHE2NldNVzNOajBSYUk4S3NrVEw4YVkyMHAyclk?oc=5",
             "published": "2026-06-21T16:49:14+00:00",
             "snippet": ""
           },
           {
-            "title": "دبي ستصدر إرشادات حول السلوك العام والاحتفالات - الخليج",
+            "title": "דובאי תוציא הנחיות על התנהגות ציבורית וחגיגות - גאלף ניוז",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUFJMNHVQaFRuT3I4bEgtWmVfVm92bHJoR3NoU1Bnc1ZqVGp2eVNWNjB2bGItUmo2MDRMMmRzUTI4N2tJT0l6SXA5NWpTTHlzNEduRTVoY2NWeklvbVNVLW5tNmcwWS0xZFJfSXJoTllhYjB5SW1zRnRKVVBVQVZRNDNQZExKNXBpLVk5U3kxTnJnNGFaU0lIZEpjalo1bDU0?oc=5",
             "published": "2026-06-21T16:16:29+00:00",
             "snippet": ""
           },
           {
-            "title": "حرب أمريكا - إسرائيل - إيران - الخليج",
+            "title": "מלחמה ארה\"ב-ישראל-איראן - גאלף ניוז",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MakRIM2tfbVRMV2V4SG5qdkJLTFY3V18xYmRoLURNWG1PakxyWW5QajlfWlJ2V1Q3NXZNTWdHUnhocFV5UGw5RFBpbXRFS2JQX0p3UFhoWlc?oc=5",
             "published": "2026-06-21T16:10:45+00:00",
             "snippet": ""
           },
           {
-            "title": "أبو ظبي تحصل على رحلات مباشرة جديدة من نافي مومباي مع إطلاق شركة طيران هندية مسارًا - الخليج",
+            "title": "אבו דאבי מקבלת טיסות ישירות חדשות מנאבי מומבאי כאשר חברת תעופה הודית משיקה קו - גאלף ניוז",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcWxzcldvZUpxUFhkNF92OVlBcFRaZU5xQTZ1ci1CVEFTdjg3YmlqM2ZxdEJ3QXdxeFBUeFNXbDZGYzdkNWg3dklKR2xwR09HdndrdVNFeWNkU1c4dEJReVZNTlk0WU5tdnI4VUhFUG12OURfV0oySmJ4VEJZU2N4a1FwM1RUU0diOW13UnBaemhISTBIRkZSSU9BNUJ6TmhNWWlWY1lucThTa1k3Mkd5Q3ZVdVk3QXAzdWlzY1czekFlcHQySHIycmVibmZHalHSAeIBQVVfeXFMTTExbUdpWGN2ZGdMay00emxkV2RJd2l0NnJkd1hCLUhBVS1iR3FPQTJTaVBoZjl2ZDNlemtKT09Gd3pGOHJoMFRHQTdTQ3ROLS1sRGFFeFlOaXpKTWkybjVLNUxpM2FpYWVfcGszbE5uQ3NpUjNzaWQtNFpBcHB1aG04N2w5SVFab0VWMHAyRldxWWRKN21Tc2NvS0ktSHBUaFA0M1diQVg2ZHVYV0lSU1g0Y01hdFpFSlVCWVpfYnlFblFsV0NodF9qYW9zdXlidXVwNnNST1A0Q2lZd0FBV1BwQQ?oc=5",
             "published": "2026-06-21T16:05:54+00:00",
             "snippet": ""
           },
           {
-            "title": "قمة فوربس الشرق الأوسط 2026: تركيز على رهان البنية التحتية لأبو ظبي البالغ 255 مليار درهم - الخليج",
+            "title": "פסגת פורבס מזרח התיכון 2026: השקעת התשתיות של אבו דאבי ב-255 מיליארד דירהם במרכז - גאלף ניוז",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFVSSUJWT3JES2JXcTN3TXQ0RVk0S2g5Yk9TQ0pEZVhnS1VhdVhwQ1lueXVwZERMRlVldF9iQWdDZXRYU0xJbl9hZk9qYzcxY0N3ZlNTd2pSX0hDcmhYMnh5TDJicER5Q3RINC1QQWhwS2p2NlZNcWQzRVdLbUtWRVFVeGdTdFZCV0xKczNkNktaeEluOUFZaXBsY2VBWEVkWHRTb3RqRm40Nl84SkxUbjVDZ9IBwwFBVV95cUxQbFVOemxHdHlWekNGcnRRRFdiQ2FOM2ZWbVd0TExTTHZOVFRjc1REMGVxTHE0U2tXX3pHY0l6WXhIZmM3RXExU2V1V2JFT0RIYVZHZUpON0FiTDRaeUlvRl9iSUZKbVRid0Q5LXlLNWd1ejBsWERpVWtJNnVhZ3V5REZLZEtxYXBHWGV2dVZIenhqMVZ5ak94TDdsT0kyTmlQOUZRSlZIS1F3emdlZGFTbUs5TW51b2JsTVZCblVFUmZJdGs?oc=5",
             "published": "2026-06-21T15:52:41+00:00",
             "snippet": ""
@@ -1320,34 +1258,34 @@
         "url": "https://www.gulf-times.com",
         "headlines": [
           {
-            "title": "ستوكس يعود لقيادة الفريق في المباراة التجريبية الثالثة لإنجلترا، حسب ما قاله مجلس الكريكيت الإنجليزي | غلف تايمز - غلف تايمز",
+            "title": "סטוקס חוזר לקפטן במשחק השלישי של אנגליה, אומר ה-ECB | גאלף טיימס - גאלף טיימס",
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSWwxQk9mMFh3R0NKbkVTQXJIMUxkUFlwZUVMMXFYVFpzMG9SaHlnaVZjSFdLb3RIR1FoVGNPSVQ3bzVrYllrWGVCQW44SkJVZml1RzhGZmMydWhSRlRtUmtuZ0dzVm83cnNSZ01zb29qMlhlZkktNUc1UnA0dlFoeGlPTS1Gdk9nMjNuakQ5Ykh3YmpDVFlnSjlQSktQOGFCaUlnSW45dDVYczVBZ1F2ZTE3eEg2dzTSAbwBQVVfeXFMTzlJSERQYmtzaks4eXBmSXQ3MFg4M256OU9aQVUzZUV5QURfRkR0WDhkMk5mbnpxYkJVTEZTMVpVMzZUNGlsV3lGZkNNcmRodjdaNUswZ3lTOFk1QU15aDRMX0FCQjNOeFNoWjQ2Ym1sQXdNZEd0SHJqVUxvc1pyOUNIU0M2YUxoLVhLTE16WnZncTQ4bnVZUmVnMkcyMWNzakdkYjQwdm5tM2JLNjJVdXpwMFpCYjk1dHhRNUk?oc=5",
             "published": "2026-06-21T16:16:00+00:00",
             "snippet": ""
           },
           {
-            "title": "تيامفوي المهيمن يقضي على فريتز ليفوز ببطولة هاله | غلف تايمز - غلف تايمز",
+            "title": "טיאפו הדומיננטי מביס את פריץ וזוכה בהאל אופן | גאלף טיימס - גאלף טיימס",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFZ0M1JaUHRudXE5ZllhZ2pJa2ctUF9keHNLOV9od3h3TEdsZE5uWnRSaVZyY3dWTklZMHlUU1laak9mR0oxYy1wMGNDbmhLLXlXdk1YOUluZ09WcVRtMlYtdnV5bzVsYnBHUWlOd2JXNFY0UllIbnJIYjI2ekRNcy1TakhiU0dRQ0E1cEh0VHdtZUp5ank1dHJGRFFILUtiZmhuMGxtTjV3UdIBrwFBVV95cUxQV1A3ekVrOHFNcUJvLUFLQXQxa25odUZXNmY2VURhNmxBOTJNTzlSa3Nta0p1amRZa0dLc1VuNVBDclkwSkZuMFBnLVA3cDJ0MjhWRUdQaC1aZGVNRWVEREFrcHdDNUJ2ZzBDQ1BlRHpXb3dYaDhGTVEzMU1JREVRSFFvV3NGTjctSFZmd2NwVEdTNThNWTM2RElMNG92dDROWUlDV1IxM05CS3BvWDB3?oc=5",
             "published": "2026-06-21T15:31:00+00:00",
             "snippet": ""
           },
           {
-            "title": "مارك ماركيز يفوز بسباق جائزة التشيك الكبرى للدراجات النارية ليقلص الفارق مع بيزيشيشي الموقوف | غلف تايمز - غلف تايمز",
+            "title": "מארק מרקס זוכה ב-MotoGP הצ'כי וסוגר פער מול בזצ'י המושהה | גאלף טיימס - גאלף טיימס",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0xQOW9SakdydUVNWl9DV3ZlUER0R09iUUlVbnkzcldXVEFJR3VFVi1CR0JUdFV5TnJkdjhKdEljZU1FQ2lUV0NpVW1Id1U3WHpWb2twVWNzU1pCbkR2Z1dPZUNQZUlwVHlGR1Y5WGRpZmJaOVBrZS1MVWs0a3NtbnhYZUhOQWV5S09uVUdrZ2JfTWRuSEp1NmxTc2JNUnhNcHlCaGxkS2kwa0gtTXl5V9IBtgFBVV95cUxOVVdzaUNpZUdheWJiWGJSWlpqeklnbks3SlNDa3VHQWlhaDhUcEU4UUpNTjhDakFDLWpya0tGMWxjQ3RKd2MtMkFOWTBkdnd6QmQ0MEEyYUJhRlhzOGZhT19RVEJVUC02SFI3WHJIUVE1UkdCWVUtM1FtQ3ZhSkx2ZjEtWmdnS0NsczRHQ2ZieEJHckc4elZVRFBXWGY1UkRzMlVzaXZQUE9pTVhJbnpNU2FMbUZvdw?oc=5",
             "published": "2026-06-21T14:45:00+00:00",
             "snippet": ""
           },
           {
-            "title": "تتواصل الجلسات الاستشارية بشأن خطة العمل الوطنية لحقوق الإنسان | غلف تايمز - غلف تايمز",
+            "title": "דיונים מייעצים על תוכנית הפעולה הלאומית לזכויות אדם נמשכים | גאלף טיימס - גאלף טיימס",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGNDZmcwN1lhTTlYUndFcm5sSUxIQVpGaVlPajBOWU10T3RoY3ZBbXZxZTFBWWNOY29ZTGNXQXJ0VzdUX1pDQWxvV2pDYTJ3cDlqc2o5YUc0QTBnd2s0RGxJWHR3SmMyOVpYcWtPTlk3ZllLRFc3QUNoMVZ4VU9FUEFRVExzWWZid3dqeFFBeC0xWTRtd1BTUEltU21nMGlmcjg3NjRmTDdka2JxXzhZMnFCSlVrZ9IBuwFBVV95cUxQdFhGWXNqaFA1T2pMZ0xXZjJwQnFscVhKMWZnY0lWWldFSmRlOHJOeDFYRTU4Xy0xeTZBTWFuM1lldWxaYzRyVEZVYW1OekpITVpyU3dnV0owdnRhWTdTX242R3lVaFBWTzUyZDNkaTVwcWFhOUpNTFc0RHBsdHdjcHpIeEs4amREckxrS3NUYVZQVTNrdmdnTDhhWGgtbUJPUVhOZVhZUUhhY1lXY0cxcW5WLUwydDBoLU00?oc=5",
             "published": "2026-06-21T12:30:00+00:00",
-            "snippet": "تستمر الجلسات الاستشارية المتعلقة بخطة العمل الوطنية لحقوق الإنسان، بمشاركة أصحاب المصلحة المتعددين."
+            "snippet": "דיונים מייעצים נמשכים בנוגע לתוכנית הפעולה הלאומית לזכויות אדם, בהשתתפות בעלי עניין שונים."
           },
           {
-            "title": "وزيرا خارجية الكويت والمالديف يناقشان التطورات الإقليمية والدولية | غلف تايمز - غلف تايمز",
+            "title": "שר החוץ הכוויתי והמלדיבי דנים בהתפתחויות אזוריות ובינלאומיות | גאלף טיימס - גאלף טיימס",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGdPcFdOd2tVeUpqUzdsLTN5c2w4MF9OVlA3aU04OGJFX0VPbjF0bE9leWtDemlTWUdEUEhFZlFKZWw0SVEtSms5ckl6MFh0OE9Na1MxeWdnOVdneGhMYWFNSnZRazJYOUlOU0hfbzNURFg0NTRWbk1ERVVmTmcxcWxldG5UbEVUMXJIbEpiOGxYRzJySU1WRzNHdlRqcXpQOC1OQ0M1VmZ2UmkyaTlwWDUtNDE3MFp3T1Z1X0lwS1hRMTdxZFE00gHMAUFVX3lxTE1hd04wajlKUHN3SWNJWVVYc2NrWl9zWFdDMjFOWDROQkMzN1EzdkxFU2xneXAyeGNmNU9HYm5vc09nYnFkUWZFalpkS2lwaEZGSldsUmt4VDNGS2ZrcnNtdDZuRFU2TC1VbmM1bDE1NGl4dzNmT29RZ3lMaVJ2VTlXdEJUR1NwUEVNQmFFanRXaUpRMHkzVktKM25pQVVHcGFGZklvWHQ4SHFsWS1zbU9rS1pHRzM2YnNXck15ZmNQS0NKaVA3aVJDZnBvQQ?oc=5",
             "published": "2026-06-21T12:15:00+00:00",
-            "snippet": "عقد وزيرا خارجية الكويت والمالديف مناقشات حول التطورات الإقليمية والدولية الحالية."
+            "snippet": "שרי החוץ של כווית והאיים המלדיביים קיימו דיונים על התפתחויות אזוריות ובינלאומיות שוטפות."
           }
         ],
         "error": null
@@ -1359,31 +1297,31 @@
         "url": "https://timesofoman.com",
         "headlines": [
           {
-            "title": "وزير الإعلام يكرم الطلاب والعاملين في الإعلام في صحار - تايمز أوف عمان",
+            "title": "שר המידע מכבד סטודנטים ואנשי תקשורת בסור - טיימס אוף עומאן",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3RibnNhN2pmbXpSbjBXbUV0M2tIN1BlaXdDWHB1T21CaGpPNnR5ZlRkZDBsNnZpSlpGemFCNER0eUNtWUdfazhITk9rWkw0Qnk1R0ppMjdxcFV0X2tNNndoaFM3aXVKRTVwaUwwRms1OUQ0cDBYN2d5MXNzRF9pZzRsNEF6RmVwY0otYXlzaXdYVFBGSlBwbW5LTEFaUTFD?oc=5",
             "published": "2026-06-21T16:37:00+00:00",
             "snippet": ""
           },
           {
-            "title": "هل رئيسك متنمر؟ - تايمز أوف عمان",
+            "title": "האם הבוס שלך בריון? - טיימס אוף עומאן",
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBENlJLY3VPMm11b1hIc2dLbmdwVk9TWG45S2x4M21ESllCLS1EWkg1MTZHRzVYS2NXLUg1SDRweFFJSE9ISlhqLXBDSXdkUzNrZHJMRElxLUZCRlNKeWctVXRtWFlQc01oQzlr?oc=5",
             "published": "2026-06-21T16:06:00+00:00",
             "snippet": ""
           },
           {
-            "title": "فنادق هوانا صلالة جاهزة لاستقبال الضيوف لموسم الخريف 2026 - تايمز أوف عمان",
+            "title": "מלונות הוואנה סלאלה מוכנים לקבל אורחים לעונת ח'ריף 2026 - טיימס אוף עומאן",
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakItQ2lJMHc4aTg5U1ZzOU94WDdRSlI2cXlrcEM1SzdyM3lqTjFDN1dJQXlxdWd2UzQ2NGhWWXFRNmg5UUhLODNtaTJGTjlfZS1JcjU4dVJyQ1FLaXQ3aGRVNmZiOGNuODF5UlJDYVY5TWNoRHlDUE1SMUNBQ2lkZ1gwSFk5NzhoREdEU2FjTmtkRlotU3FLeHVsSmlJcmhidjB0d2Y0YjZJbXJZQjA4ZElVTVlHZms?oc=5",
             "published": "2026-06-21T16:03:00+00:00",
             "snippet": ""
           },
           {
-            "title": "فعاليات ملتقى صيف 2026 بالجنوبية تبدأ - تايمز أوف عمان",
+            "title": "פעילויות הפורום של דרום אל-באטינה קיץ 2026 יוצאות לדרך - טיימס אוף עומאן",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORm96dEJRbXF4VnpZMXkzZzBtS0hLcjZnTkk5NEx3VDBOc2J3cjVLZkFIVG5ZS2R5b3ViTjlsQlRtNi1mYXdjeUtfWWQ3NC1wd1RHTjVYR2tpUnNsdFZPYmxOZ2lnb1kzVnpSalhQOFVzYUxsZHNrUVlsRWFDS09hLVd4c2I1Q2xDYmcycVg1U0poLUVyZkg0?oc=5",
             "published": "2026-06-21T15:35:00+00:00",
             "snippet": ""
           },
           {
-            "title": "صادر تنبيه بفقدان شخص في سمائل - تايمز أوف عمان",
+            "title": "הוכרזה התראת נעדר לאזרח בסמייל - טיימס אוף עומאן",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHRNcmIyQmlwMVU5cV9OQXNzenQ5MXRBYV9uVHdKUWxLdEFPNUhXa3k3NWk3Q1BpZndxdVhaa0F1Z1ZaX1NMTzE0YjZDU0pqTEROaUFvUHVMUGRhY1FraHF4dXpwZTZaQzM1T1RwTjVkNVctbnQ3eGpPQS1vcnBsbXVQQlhhd0dJWmNHYkwyOUZ1dw?oc=5",
             "published": "2026-06-21T15:29:00+00:00",
             "snippet": ""
@@ -1400,31 +1338,31 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
-            "title": "نائب إيراني يثير عاصفة قانونية بعد الكشف عن رسائل خامنئي بشأن اتفاق أمريكي",
+            "title": "חבר פרלמנט איראני מעורר סערה משפטית לאחר שחשף מכתבים של ח'אמנאי על הסכם עם ארה\"ב",
             "url": "https://www.jpost.com/middle-east/iran-news/article-900072",
             "published": "2026-06-21T19:23:02+00:00",
             "snippet": ""
           },
           {
-            "title": "شاهد: الجيش الإسرائيلي يسيطر على نفق ضخم لحزب الله مليء بأعشاش إطلاق صواريخ في جنوب لبنان",
+            "title": "צפו: צה\"ל משתלט על מנהרת חיזבאללה ענקית מלאה בפתחי ירי רקטות בדרום לבנון",
             "url": "https://www.jpost.com/israel-news/defense-news/article-900067",
             "published": "2026-06-21T19:00:00+00:00",
             "snippet": ""
           },
           {
-            "title": "العراق في مرحلة انتقالية: بغداد تفرض احتكار الأسلحة وسط إصلاحات - تحليل",
+            "title": "עיראק במעבר: בגדאד דוחקת במונופול נשק על רקע רפורמות - ניתוח",
             "url": "https://www.jpost.com/middle-east/article-900068",
             "published": "2026-06-21T18:58:07+00:00",
             "snippet": ""
           },
           {
-            "title": "خطر الإيبولا لا يزال منخفضاً، حسب وزارة الصحة، بينما يتم إدخال شخص ثانٍ عائد من جمهورية الكونغو يظهر عليه أعراض إلى المستشفى",
+            "title": "סיכון לאבולה נותר נמוך, משרד הבריאות אומר, בזמן שחולה שני שחזר מ-DRC מראה תסמינים ומאושפז",
             "url": "https://www.jpost.com/health-and-wellness/article-900066",
             "published": "2026-06-21T18:57:56+00:00",
             "snippet": ""
           },
           {
-            "title": "ترامب: \"ستارمر فشل فشلاً ذريعاً، سيستقيل كرئيس وزراء المملكة المتحدة\"",
+            "title": "טראמפ: 'סטארמר נכשל קשות, יתפטר מראש ממשלת בריטניה'",
             "url": "https://www.jpost.com/international/article-900065",
             "published": "2026-06-21T18:00:02+00:00",
             "snippet": ""
@@ -1439,31 +1377,31 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
-            "title": "الأردن يعدم 6 أشخاص بتهمة قتل أفراد الأمن بعد توقف 9 سنوات في تنفيذ أحكام الإعدام",
+            "title": "ירדן תולה 6 אנשים בגין הריגת אנשי ביטחון לאחר הפסקה של 9 שנים בעונשי מוות",
             "url": "https://www.timesofisrael.com/jordan-hangs-6-for-killing-security-personnel-after-9-year-pause-in-death-penalties/",
             "published": "2026-06-21T16:05:25+00:00",
             "snippet": ""
           },
           {
-            "title": "الجيش الإسرائيلي يستولي على مصنع طائرات مسيرة وموقع إطلاق لحزب الله مخبأ داخل جبل في جنوب لبنان",
+            "title": "צה\"ל משתלט על מפעל רחפנים ונקודת שיגור של חיזבאללה מוסתרים בתוך הר בדרום לבנון",
             "url": "https://www.timesofisrael.com/idf-captures-hezbollah-drone-factory-and-launch-site-hidden-inside-south-lebanon-mountain/",
             "published": "2026-06-21T16:01:33+00:00",
             "snippet": ""
           },
           {
-            "title": "شرطة اسكتلندا توجه تهمة لرجل بعد هجمات معادية للإسلام في إدنبرة",
+            "title": "משטרת סקוטלנד מאשימה גבר לאחר התקפות אנטי-מוסלמיות לכאורה באדינבורו",
             "url": "https://www.timesofisrael.com/scottish-police-charge-man-after-apparent-anti-muslim-attacks-in-edinburgh/",
             "published": "2026-06-21T15:59:34+00:00",
             "snippet": ""
           },
           {
-            "title": "نتنياهو قد يلوح بحل الكنيست خلال أيام بعد عرقلته من قبل المتشددين الحريديم",
+            "title": "מסוכל על ידי עקשנות חרדית, נתניהו עשוי לדחוף לפירוק הכנסת בימים הקרובים",
             "url": "https://www.timesofisrael.com/thwarted-by-haredi-intransigence-netanyahu-may-push-to-dissolve-knesset-within-days/",
             "published": "2026-06-21T15:54:00+00:00",
             "snippet": ""
           },
           {
-            "title": "رئيس الكنيست يرفض دعوة المحكمة العليا لإعادة التصويت على مراقب الدولة الملوث",
+            "title": "יו\"ר הכנסת דוחה את קריאת בית המשפט העליון לחזור על הצבעת מבקר המדינה הפגומה",
             "url": "https://www.timesofisrael.com/knesset-speaker-rejects-high-court-call-to-redo-tainted-state-comptroller-vote/",
             "published": "2026-06-21T15:21:21+00:00",
             "snippet": ""
@@ -1478,31 +1416,31 @@
         "url": "https://www.haaretz.com",
         "headlines": [
           {
-            "title": "تحليل • أزمة هوية أيباك: بعد عقد من محاربة أوباما بشأن إيران، تواجه ترامب الآن - هآرتس",
+            "title": "ניתוח • משבר זהות של AIPAC: עשור מאז המאבק באובמה על איראן, כעת הוא מתמודד עם טראמפ - הארץ",
             "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMFlmQlNyM3VmZnZOUm9DY2pjR2YzZnZqd1JHNU15NzlPTUlsbVdhLWRIWHZMaG14TUhDY1BiTXhTQlhpeklVSmYxeWE2amFtazUyVG1ad0luc3JoZlpKTWs0Mmh5ejduVGF0bl80YkFSWElEa25XR0hQZFpCSE81ODlVaVZJeVdjRWpQSjdDMkx5dWVQdmRSMElPeXRUUGd6TDF2YjRicElrZ3R0dUNqN253bzM4U0NvZkhvc1JCcy14UWZBWnpkb3dOZXdDcjJBZzR6eXJUby1oSlRDSkNxVkExSEZmWTlOMmgzQUpBVE9CS2pGVHZrWFBMNmpOQlFHQlphVm96eU5TZw?oc=5",
             "published": "2026-06-21T16:35:00+00:00",
             "snippet": ""
           },
           {
-            "title": "نتنياهو يطالب الشاباك بالتحقيق في كيفية معرفة القناة 12 متى ستبدأ حرب إيران - هآرتس",
+            "title": "נתניהו דורש חקירת שב\"כ כיצד ערוץ 12 ידע מתי תחל מלחמה עם איראן - הארץ",
             "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOaWZBVU9GZFRScTNMdlFIdllVSXlJYjhtUTdVWWVETEVYLXRNWG9FcWtBMjkzamRMaFRoODVnS2FILTc4b1JyZ3EwczZYYlQ5UDVWYlNrekVjSFVydVRaZ0Z4WE10dklXNmdyUDJEZV9hR1RqVUlaaHdQdV84Rk9wbmZlTTlNSlVDRDFWVVMyV3loMW9IMk5UdWM5V0paSUM3MVUwNU1MOUh4X0RhUnAwZDBmb2FlejZzcFVBMVpvLWNDd3dteHAxcm5fMkxETlVxQmRqMXg1QUxSbmd3Y3VTeWJzbnJTWXJEN3doSHZxekdCREQxZlhtQjJlZ0hhRXMxQ1JYOWIweFhFUVRraWhsNEVlRDVGU05uMFdQSERERWQ1RTZQ?oc=5",
             "published": "2026-06-21T16:34:00+00:00",
             "snippet": ""
           },
           {
-            "title": "هوكابي: إيران لن تكون قادرة على دعم وكلاءها، الرابط الأمريكي الإسرائيلي \"لا ينكسر\" - هآرتس",
+            "title": "הוקבי: איראן לא תהיה מסוגלת לתמוך בגרורות, הקשר ארה\"ב-ישראל 'בלתי שביר' - הארץ",
             "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcktURjFrTldhT1pvREhGZElEQmEzZ2tSZGZ6ZEt5S0pqemxFckdEMzk0NHE0NzdTQlVIam1XNmszenlTcDdXY3A2cEkwNFY5UzA4cmJHbG83WlZxc0ZKSW1tRXJpLVVtVGgzbHU3UFhBWWxyc0Uzc01vSm5SUkNKalFMU0sxQ3BuZE1UeUZZWGZkclhsY3AzS0xFQjRxcW9vLTR3ZUw0dDlUM3Q1R29FUXprQzJmUTBYSklqMTRDZXlFZElPNV9SVjdRdHRjM1M1NTZaSkdscmJMNktBOVBsV3h2bzZDLVE1bEtSRGw1clVtLUVXU0Iwb205ZXBYYWRtdnV6OHZn?oc=5",
             "published": "2026-06-21T16:20:00+00:00",
             "snippet": ""
           },
           {
-            "title": "الكنيست لن يعقد إعادة تصويت بعد انتخاب محامي رئيس الوزراء الشخصي مراقباً للدولة - هآرتس",
+            "title": "הכנסת לא תקיים הצבעה חוזרת לאחר שעורך דינו האישי של ראש הממשלה נבחר למבקר המדינה - הארץ",
             "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSUQ5aUZoX3hiOXBJVThMRDNfS2s5Q0kxSGpaQWpOTGl1THdENnJzajBLYTdxWnFWdS0xTU9SZXFBZk9uNXkwRHJwOTE5cjI1UzMyWk5YdHBTaWh4cDk3NHVUcFQ5bjc1ZEFCYzBrSHJrUzQtOUZabnNhVW51dHBONkpvVnV0NmRHNWExQ1R1eXRJRU84MHVoZkRDOUhXMm1aRWlTMkZfQVhmcjQ3bHhuSVlmcDlMbWxVLTZkMnNoRERMMUZZeVBjZUZPWjRPa1FoLXp3Mkw0YUl5dFZXRHdqUWdIajBPVE1XLWZMZmU5ZEowakhxcjJHdXNDb3RoZzdhTGU5Nno0SUt1ZHNKZ0d4dlJFaXRON2lkVU0tZTB5SVBMQQ?oc=5",
             "published": "2026-06-21T14:43:00+00:00",
             "snippet": ""
           },
           {
-            "title": "أغلبية الناخبين الإسرائيليين لأول مرة يعتقدون أن تصويتهم يمكن أن يغير الواقع - هآرتس",
+            "title": "רוב מצביעי ישראל לראשונה מאמינים שקולם יכול לשנות מציאות - הארץ",
             "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQWI1VldPN0c5MDFuZUw5VVBOM3o0NkpLV2ZQZVdmNnNfTmRuM2d3OUNiMUhNcGxNSUtMdmJpenRMcUgwdVRKUmZzSlVZeVg1Sm5GVTJoMzJuX2s2RGRPeEljTDN6d3F2TjNVQktpZG9zUzV3SzViVE9fcWxYLXVzVDExY1pneXlnOVUtbURzYXBWUHlsRmxmZEtOMHdKME54VmtHbXhmdVREMzVraF9yeUQyRlNnRUFwZTBDYnFoS3lPZGlJekFCZ1ZxYTJKQXpTLW1HeTZhZXBEcFNRa2pPN0dGZVlueDNvdzJnSmNTOWFNQzdVSUZPbWduQks1bURrZXBSejNKVDhjeG9jM2lmV2VldXhLSVA3NEpB?oc=5",
             "published": "2026-06-21T14:41:00+00:00",
             "snippet": ""
