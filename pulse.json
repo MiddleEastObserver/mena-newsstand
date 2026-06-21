@@ -1,11 +1,17 @@
 {
-  "updated": "2026-06-21T17:10:54.039680+00:00",
-  "total_headlines": 93,
+  "updated": "2026-06-21T17:21:44.086369+00:00",
+  "total_headlines": 98,
   "terms": [
     {
       "term": "iran",
-      "count": 13,
+      "count": 15,
       "headlines": [
+        {
+          "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
+          "url": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Iran, US, Israel: Memorandum of misunderstanding?",
           "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
@@ -55,16 +61,16 @@
           "region": "Gulf"
         },
         {
-          "title": "Poll finds Israelis believe Iran won Middle East war - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tQWVhZi1iRWVudzZFLUwtb09pTFcxbUtKdFU3aUtQQTRCeFVwZ1dKNHRqdzVJWmVkNDVrVWdIVTF4SklzTmkxNjdRTGhFTk1peHI4?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
           "title": "What Washington wants from fresh Iran talks on nuclear programme, Hormuz and Hezbollah - Gulf News",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaURyR3hYNnd0SldyVEpfXzRzU0xtLU1SN21Uc1hFUjJuRXVpQ0gxeEFLMDJCcEJKSmQxWHp4WXlFWFBxN0V1bXhqM3FpVFNRLW5JOWlMa0FHYXh4b05abVJvekNMdEZRNjNWUHJwNU5samhJY0RQSlRyZ09QOXNYQTRxaVZjYjZETXZMbXFHLXBPUHRnYTUyX0dNTU10QVBkR0s0eGJUYnk3U2JfTGtEdUhiV19YT2JzS0hCRlZvcmhZMlZCUzdteNIB2wFBVV95cUxOQmp4LWdyNjFXcDhJVHNrSnVGZWNNb2gtTy0wSVNBUVV6LU44dTRzSmtacXFNYVJLZHZXdVNzU2tpeHZDMHZRcmFZUEZIU01vU3J3N3RyZmhlU3p3V2tmOVQ0UC0yTHZsa3Z4SEU4NEFWWG1nV28wUklNOEk3b2JMN2d1dXFtQ2k2Y0l4dTF0dUlxQ252U19VZlhYTXhfaGZJcmlrLWpGSFMwNmUyejUzVlMtSkppQlEzYVRIWlVQZHE2NldNVzNOajBSYUk4S3NrVEw4YVkyMHAyclk?oc=5",
           "source": "Gulf News",
           "region": "Gulf"
+        },
+        {
+          "title": "Pakistan emerges key player in Iran talks as Vance praises Islamabad - analysis",
+          "url": "https://www.jpost.com/middle-east/article-900075",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         },
         {
           "title": "Analysis • AIPAC identity crisis: A decade since fighting Obama on Iran, it now faces Trump - Haaretz",
@@ -83,12 +89,174 @@
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcktURjFrTldhT1pvREhGZElEQmEzZ2tSZGZ6ZEt5S0pqemxFckdEMzk0NHE0NzdTQlVIam1XNmszenlTcDdXY3A2cEkwNFY5UzA4cmJHbG83WlZxc0ZKSW1tRXJpLVVtVGgzbHU3UFhBWWxyc0Uzc01vSm5SUkNKalFMU0sxQ3BuZE1UeUZZWGZkclhsY3AzS0xFQjRxcW9vLTR3ZUw0dDlUM3Q1R29FUXprQzJmUTBYSklqMTRDZXlFZElPNV9SVjdRdHRjM1M1NTZaSkdscmJMNktBOVBsV3h2bzZDLVE1bEtSRGw1clVtLUVXU0Iwb205ZXBYYWRtdnV6OHZn?oc=5",
           "source": "Haaretz",
           "region": "Israel"
+        },
+        {
+          "title": "Farsnews | Iran Approves First Domestic Umbilical Cord Stem Cell Therapy for Osteoarthritis - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOW5BUHV2aW9KQ21lRGVGUVQ2UVlOZGlVdGVBWFV3R001WFp1Rjk3R1dSUHZXTnByZHc5ejA3MDNIVVN4ZVRyTGJDLTI3NXdRNmROSW9Lc0pRbzAwRHQ4Z0VTNE1IMGZSNjZpTXczMTVFQ0YyM1lDMjhOUkc4SkE2cHc1Z3BXUG1qWVd5X3lqa3hoTXVhNC0wZFRYVUI3eFA5UDJYVFczX0I4SVlMVkx0SVliTXlRR05TQUlhczEydHRyNEhr?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "hezbollah",
+      "count": 9,
+      "headlines": [
+        {
+          "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hezbollah chief says would respond to any violation from Israel",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-would-respond-any-violation-israel",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli army chief says Hezbollah in ‘difficult position’ in visit to south Lebanon - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2otenBPNDRkdGV2cEk2dk9xMVpLeU1uSmFqN0QzalI0ZGpxamxYVHVWNk80QkZNODBoTThGaDdNZUt1YS13Q2dMd2l5Y3dwUVNMNlhSY1REcGFtSzF0UklRSUhaVG44UUdkTUt1blRUM0Z4Vjl2VFdwLVFjMk9tQ3N0c0N3eFpMOUh2NU5na3F5bm9tanpVZkFMaU1GenFPZWEtNWhDOVlVYm5sWERzUzFfXzdVdVpFNDVNZEFXUmZxaDVCVngzb0ZRNzFlWWNTeEJ5VU1R0gHbAUFVX3lxTE5WdDROTjlvRWdWRFRJTFZ1TnFQUkN1ZHEyWjNEVFI2d1R4aGZxZXJ6MUQ2YUx4R0JOZXJoRTF1Z3VORXQ4aVdFNVdrbUx5RERjdkJQakhHT2ZXbF92TElQa1pGbmUtRWYxWTNHRUo2ZDVXX1R4NWpwMG50VEp2LTlVazVTVXRoRHhxU1RRN3JPaTFkNVJoZXprazBBNU40UF81czEySXZxZkl6cWh5TEJVR1BBWjhUNGk1a05Ja1Bqb1NSMEFXOFhSZ2tXZmdTUTIzeEFmSVdhb3JVYw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump threatens to strike Iran over support for Lebanon’s Hezbollah - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFJQdzJWRlpHS0xNWTZRRUtOa25TTHpncWxoSmVsd2x3NVFuX2libGpqVzBTTjdtX3ZLRW43OWVsVnV1dExvRU9Pa1EtbW96aExkczZjOG1yelZDeHNveXJjYms3d3RYZ2s4VHZ4XzI1YnViRWoydV9vSDlqVzF1T2cxbGVmc0FWa3E1OTAwTjJDUU1SVVdoZFNpbUdIUG54dlJNdXB3S0tLY3FtMmx6QUh5ckZuazZZQ2M1dktWUkF1M1HSAcgBQVVfeXFMTmlieWdrMVk3OW5nd3g1bWNQNVBZdXFQdU0zeDk5N3JHNkhnUTE3aTlYZmtDZ19YX1RaWUw3ZXFPSTBzeW9MQVRCeHNUTU9qUWlwVXp6SDFoenhhckc4bk5BMy1BTS1kb21faVZJZjhmWjRRcGlET1ZFWHNoQU5GOWVYVGo3V0ViSFMyMlFvRElMS0daN0l5QVVQeS1uLWFwcGMwOS1LaWZwMGkwVG9ROWlXREJfdjJ5c1NodG5Oa2NoVlc4dzhSWmQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "What Washington wants from fresh Iran talks on nuclear programme, Hormuz and Hezbollah - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaURyR3hYNnd0SldyVEpfXzRzU0xtLU1SN21Uc1hFUjJuRXVpQ0gxeEFLMDJCcEJKSmQxWHp4WXlFWFBxN0V1bXhqM3FpVFNRLW5JOWlMa0FHYXh4b05abVJvekNMdEZRNjNWUHJwNU5samhJY0RQSlRyZ09QOXNYQTRxaVZjYjZETXZMbXFHLXBPUHRnYTUyX0dNTU10QVBkR0s0eGJUYnk3U2JfTGtEdUhiV19YT2JzS0hCRlZvcmhZMlZCUzdteNIB2wFBVV95cUxOQmp4LWdyNjFXcDhJVHNrSnVGZWNNb2gtTy0wSVNBUVV6LU44dTRzSmtacXFNYVJLZHZXdVNzU2tpeHZDMHZRcmFZUEZIU01vU3J3N3RyZmhlU3p3V2tmOVQ0UC0yTHZsa3Z4SEU4NEFWWG1nV28wUklNOEk3b2JMN2d1dXFtQ2k2Y0l4dTF0dUlxQ252U19VZlhYTXhfaGZJcmlrLWpGSFMwNmUyejUzVlMtSkppQlEzYVRIWlVQZHE2NldNVzNOajBSYUk4S3NrVEw4YVkyMHAyclk?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "IDF chief Zamir visits with family of Armored Corps officer killed by Hezbollah in s. Lebanon",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900074",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Hezbollah chief Naim Qassem demands Israel withdraw from Lebanon, says 'no safe zone' for IDF",
+          "url": "https://www.jpost.com/middle-east/article-900071",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "WATCH: IDF takes over massive Hezbollah tunnel full of rocket firing shafts in southern Lebanon",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900067",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "IDF captures Hezbollah drone factory and launch site hidden inside south Lebanon mountain",
+          "url": "https://www.timesofisrael.com/idf-captures-hezbollah-drone-factory-and-launch-site-hidden-inside-south-lebanon-mountain/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "lebanon",
+      "count": 8,
+      "headlines": [
+        {
+          "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli army chief says Hezbollah in ‘difficult position’ in visit to south Lebanon - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2otenBPNDRkdGV2cEk2dk9xMVpLeU1uSmFqN0QzalI0ZGpxamxYVHVWNk80QkZNODBoTThGaDdNZUt1YS13Q2dMd2l5Y3dwUVNMNlhSY1REcGFtSzF0UklRSUhaVG44UUdkTUt1blRUM0Z4Vjl2VFdwLVFjMk9tQ3N0c0N3eFpMOUh2NU5na3F5bm9tanpVZkFMaU1GenFPZWEtNWhDOVlVYm5sWERzUzFfXzdVdVpFNDVNZEFXUmZxaDVCVngzb0ZRNzFlWWNTeEJ5VU1R0gHbAUFVX3lxTE5WdDROTjlvRWdWRFRJTFZ1TnFQUkN1ZHEyWjNEVFI2d1R4aGZxZXJ6MUQ2YUx4R0JOZXJoRTF1Z3VORXQ4aVdFNVdrbUx5RERjdkJQakhHT2ZXbF92TElQa1pGbmUtRWYxWTNHRUo2ZDVXX1R4NWpwMG50VEp2LTlVazVTVXRoRHhxU1RRN3JPaTFkNVJoZXprazBBNU40UF81czEySXZxZkl6cWh5TEJVR1BBWjhUNGk1a05Ja1Bqb1NSMEFXOFhSZ2tXZmdTUTIzeEFmSVdhb3JVYw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli Troop Presence Risks Permanent Occupation: Lebanon - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXlqbk95VUN0NmE0UGhZTmlZT1RtUW5VUDlKb0xlRW9yb3E4QW9VRmtiYk1ZdzVqMHJqOGEzWnN6UUt4VHdORVBlekNYUlIzWE5xMkRDYzR6WlRrMVV2NnZWejNBYmE2dDN2OE1HUUJHR2ZxcG9xOXU3Uktub0t0TUxHWWhuRnZxTWhKNk44TE5xa2gyODhwWXB1SGlXUDdiRjhZM29VZzY1ZzREZDB3?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel escalates war in Lebanon and Gaza in challenge to US diplomatic push - The National",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelpsXy1UOUJXdkxCSlMxNk1ENTBId21naTF6U1dhUGh4WlJTYTBoX1J5RGRKbE45M0hJQlNJcHJ1NTFXSl9Rc2RQTDNtZGQ0ZVZBSDExMnZKQUJaX2U3V005MkR4Vkp1cTJybGNaMi1OZW5ScDNNcndVOXlQZF9jSHVNdDlUb3RWX055eHJ2TjRHaXJuak51OU1PTHVzOTN5MjR3M1ByODh4NFc3Y3lRTVZZc3B4UFpoSzBV?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "IDF chief Zamir visits with family of Armored Corps officer killed by Hezbollah in s. Lebanon",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900074",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Hezbollah chief Naim Qassem demands Israel withdraw from Lebanon, says 'no safe zone' for IDF",
+          "url": "https://www.jpost.com/middle-east/article-900071",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "WATCH: IDF takes over massive Hezbollah tunnel full of rocket firing shafts in southern Lebanon",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900067",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "IDF captures Hezbollah drone factory and launch site hidden inside south Lebanon mountain",
+          "url": "https://www.timesofisrael.com/idf-captures-hezbollah-drone-factory-and-launch-site-hidden-inside-south-lebanon-mountain/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "chief",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hezbollah chief says would respond to any violation from Israel",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-would-respond-any-violation-israel",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli army chief says Hezbollah in ‘difficult position’ in visit to south Lebanon - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2otenBPNDRkdGV2cEk2dk9xMVpLeU1uSmFqN0QzalI0ZGpxamxYVHVWNk80QkZNODBoTThGaDdNZUt1YS13Q2dMd2l5Y3dwUVNMNlhSY1REcGFtSzF0UklRSUhaVG44UUdkTUt1blRUM0Z4Vjl2VFdwLVFjMk9tQ3N0c0N3eFpMOUh2NU5na3F5bm9tanpVZkFMaU1GenFPZWEtNWhDOVlVYm5sWERzUzFfXzdVdVpFNDVNZEFXUmZxaDVCVngzb0ZRNzFlWWNTeEJ5VU1R0gHbAUFVX3lxTE5WdDROTjlvRWdWRFRJTFZ1TnFQUkN1ZHEyWjNEVFI2d1R4aGZxZXJ6MUQ2YUx4R0JOZXJoRTF1Z3VORXQ4aVdFNVdrbUx5RERjdkJQakhHT2ZXbF92TElQa1pGbmUtRWYxWTNHRUo2ZDVXX1R4NWpwMG50VEp2LTlVazVTVXRoRHhxU1RRN3JPaTFkNVJoZXprazBBNU40UF81czEySXZxZkl6cWh5TEJVR1BBWjhUNGk1a05Ja1Bqb1NSMEFXOFhSZ2tXZmdTUTIzeEFmSVdhb3JVYw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance jokes he speaks more to Pakistan’s army chief than his wife - The National",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTcyNUJ4aUt2Sll1Y0NkTDAtTjVBZ1JMa21Hc2JGd0JIR09aZVhDdWlsVTNRa1pQUTJkU3VpTUhhcEJSejdhaUxNSXJ2U05RaWlvdE5mdHBsamtkTFhMOGVZYjNnRTFBakxqNTVHbkJqU0dBUGRTQXVMMnVpcjdELV9lUVJBVERaWW9sVVYwVDhUaEhiNy1UUzRqS204Q0VWSWpFQlNRMUtFSWdRY2RxRE1B?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "IDF chief Zamir visits with family of Armored Corps officer killed by Hezbollah in s. Lebanon",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900074",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Hezbollah chief Naim Qassem demands Israel withdraw from Lebanon, says 'no safe zone' for IDF",
+          "url": "https://www.jpost.com/middle-east/article-900071",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     },
     {
       "term": "trump",
-      "count": 6,
+      "count": 5,
       "headlines": [
         {
           "title": "Iran warns US to 'be careful' after Trump threat",
@@ -115,12 +283,6 @@
           "region": "Levant"
         },
         {
-          "title": "Trump: 'Starmer failed badly, will resign as UK PM'",
-          "url": "https://www.jpost.com/international/article-900065",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
           "title": "Analysis • AIPAC identity crisis: A decade since fighting Obama on Iran, it now faces Trump - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMFlmQlNyM3VmZnZOUm9DY2pjR2YzZnZqd1JHNU15NzlPTUlsbVdhLWRIWHZMaG14TUhDY1BiTXhTQlhpeklVSmYxeWE2amFtazUyVG1ad0luc3JoZlpKTWs0Mmh5ejduVGF0bl80YkFSWElEa25XR0hQZFpCSE81ODlVaVZJeVdjRWpQSjdDMkx5dWVQdmRSMElPeXRUUGd6TDF2YjRicElrZ3R0dUNqN253bzM4U0NvZkhvc1JCcy14UWZBWnpkb3dOZXdDcjJBZzR6eXJUby1oSlRDSkNxVkExSEZmWTlOMmgzQUpBVE9CS2pGVHZrWFBMNmpOQlFHQlphVm96eU5TZw?oc=5",
           "source": "Haaretz",
@@ -129,127 +291,19 @@
       ]
     },
     {
-      "term": "hezbollah",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Hezbollah chief says would respond to any violation from Israel",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-would-respond-any-violation-israel",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump threatens to strike Iran over support for Lebanon’s Hezbollah - Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFJQdzJWRlpHS0xNWTZRRUtOa25TTHpncWxoSmVsd2x3NVFuX2libGpqVzBTTjdtX3ZLRW43OWVsVnV1dExvRU9Pa1EtbW96aExkczZjOG1yelZDeHNveXJjYms3d3RYZ2s4VHZ4XzI1YnViRWoydV9vSDlqVzF1T2cxbGVmc0FWa3E1OTAwTjJDUU1SVVdoZFNpbUdIUG54dlJNdXB3S0tLY3FtMmx6QUh5ckZuazZZQ2M1dktWUkF1M1HSAcgBQVVfeXFMTmlieWdrMVk3OW5nd3g1bWNQNVBZdXFQdU0zeDk5N3JHNkhnUTE3aTlYZmtDZ19YX1RaWUw3ZXFPSTBzeW9MQVRCeHNUTU9qUWlwVXp6SDFoenhhckc4bk5BMy1BTS1kb21faVZJZjhmWjRRcGlET1ZFWHNoQU5GOWVYVGo3V0ViSFMyMlFvRElMS0daN0l5QVVQeS1uLWFwcGMwOS1LaWZwMGkwVG9ROWlXREJfdjJ5c1NodG5Oa2NoVlc4dzhSWmQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "What Washington wants from fresh Iran talks on nuclear programme, Hormuz and Hezbollah - Gulf News",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaURyR3hYNnd0SldyVEpfXzRzU0xtLU1SN21Uc1hFUjJuRXVpQ0gxeEFLMDJCcEJKSmQxWHp4WXlFWFBxN0V1bXhqM3FpVFNRLW5JOWlMa0FHYXh4b05abVJvekNMdEZRNjNWUHJwNU5samhJY0RQSlRyZ09QOXNYQTRxaVZjYjZETXZMbXFHLXBPUHRnYTUyX0dNTU10QVBkR0s0eGJUYnk3U2JfTGtEdUhiV19YT2JzS0hCRlZvcmhZMlZCUzdteNIB2wFBVV95cUxOQmp4LWdyNjFXcDhJVHNrSnVGZWNNb2gtTy0wSVNBUVV6LU44dTRzSmtacXFNYVJLZHZXdVNzU2tpeHZDMHZRcmFZUEZIU01vU3J3N3RyZmhlU3p3V2tmOVQ0UC0yTHZsa3Z4SEU4NEFWWG1nV28wUklNOEk3b2JMN2d1dXFtQ2k2Y0l4dTF0dUlxQ252U19VZlhYTXhfaGZJcmlrLWpGSFMwNmUyejUzVlMtSkppQlEzYVRIWlVQZHE2NldNVzNOajBSYUk4S3NrVEw4YVkyMHAyclk?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "WATCH: IDF takes over massive Hezbollah tunnel full of rocket firing shafts in southern Lebanon",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900067",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "IDF captures Hezbollah drone factory and launch site hidden inside south Lebanon mountain",
-          "url": "https://www.timesofisrael.com/idf-captures-hezbollah-drone-factory-and-launch-site-hidden-inside-south-lebanon-mountain/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "almayadeen",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "كوراساو تدخل التاريخ بنقطة مونديالية أولى أمام الإكوادور - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxON2hKbUx5VkJ4Y0dMV3c3YXVtNlpNUWJPS3JXQXZMQ19femM1Y1NlUC16eGF0RFZHWEVCWGpIT0FqcHRFSklvOUtXSnlMNzNUTklIbWFSblBBVm5HTUlOVjJUMTgyUFdMRlhoaXFQVHBua2dUcjNndEtvazM1dm93RjJaMkRqYzBiWXI5RF9EaEVkYjZjR1plY0xCd0lIOFRkU3FVbkpNYk9HX2trQm13Unl4SGduOWNxYUdiVnV5aTc4UkRUZkswcTZLcTJoQW1RVWVmQW96bjVYUWtBN3gwUi1KTkltRmM1cmxMWHcwTUhuRFI5ZFBOZmQzTkRFX0l1Q3c5dGI5bVJxVFJBcUNFOVZuUEZxbEc2MDdRYXRXbm5SNER6LWx2LXplQnVwRVpUaEhkSzJDQ09TUlpsUEdNa2FDbTA2Zm1uMFlOR3Q0YXEyNFZheFY4bFozUlVORWpmQmdFb2J3VHE2Q3hpdEF3UUlramJsdGhFQUZfRnRKQ0F0RkE0eWpKSkV0ZXcyTVdDbWFyOGZ1SlZIWWc3Wlh2MmVLaEw1d2dkWnhKdGpCd3l2emltdVU1eVVINzVXTEJPcHBocG1yeEFUajdweVJLSjVjaWFVLW1uc0tZ?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مصدر لـ\"إسرائيل هيوم\": واشنطن تستعد لمطالبة \"إسرائيل\" بالانسحاب من جنوب لبنان - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPU0tNZzhlRWV5Mkd1QkVjVHljV01BN3I2RFFyYUhuVW1hb1ZSY0tGSTBDNXNucVJiejhIYnNSb0ZBRnNjcFNNSVpuVzlJQmVjTGJNNzdQUFZiWUFKVFdSTnhzcHRKekFhMDk1aE9RdG1YcG5JT3JLWkswQ0dQMEgyeUoxMUh0bDZtTUVYdjZZNmx4eW5fVDJnUGpJZ0IyMVE2Z3RVUWVxQmN0em95MnhyaEdhTXplYkZIeDh0Tnp3Y2V2SU84d3cyZGhVcUZmakRIVWc0OHZ5SUJkblZ6Z0ZURTNuU0N5cXU1dDhhYzhwalZEa3BtRWJoVTE4RjlkeXpVb0Y0eHFwcHU4M1ZjdUtMSUY0dXFXeHZIV2pacFdDSGtpVnRYdk9BbzdwcV92OXVRUmpGejJJVVhIbkxRdmYzX1Vybk5vRFh3UlRXOGx1VlRleHVtZktUY1lFaVVuUW5DeHBhcTFvdWZObjBPZHoyc1J4TEhEZlNSaHQ4NWxnVWx3X1hEMEZWcjVEZ3NJRHQtaW5fNWtWVV9rR0NZQ2c4OWdlNWJjbHFhZzh2YmlldEdUYWZnRkZ3MFNIdFVSQlF1ZHNxMzViYk5MZ2pKekJtMnJENjNDLU9xVXhUZzI0ZEdLZUxBTVhOYmNNc0NIdmxJZk8yeGFTaVNNZnNkSThvVzdJeks3SzcwVEFXcTEta3BrRjJHUUhCWWlfTWVtOHlqdUNHdkZ4ZldVenNaM3RpeGJMa3dqOTNw?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "فيروس إنفلونزا الطيور القاتل يفتك بآلاف الفقمات والبطاريق في جزر نائية - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOelNYN3VvZVJxS0g2ckJsSk5JOVZIOGM1clIwa1F0aDU2LUlJNmxYamRxSlI1QUJwX3pvRkJtY25JQW9xc0JjelRSZlQ2ZWNKcGNWZTl3MU53VkdXSzNPcjZpdjVaNlhMV25EbklHOFJiOHlHMms0Ym44d2dIMG1vNm0wcXAtLXBPcHlkdUhRcFJmSk5paF9HVC01T0VzOC1DV3F6bHlCUzF6b3ItYzhYdl9qMzlpSXQ1b0ZsSHJ2bU8wUWNVOXRFalVkYkJVYlBaekFrVkJNQ1ZSaDlZRHZjclNyTWQxOFFqSE1LMl9ETFpMb2lrSTYxci1UdmlCRTJxSkhNcl81QkJTcWtPZE9DTUZheldyYVFEbzd5U3hqdGVZMUVmUzN5Uk8tcHEtTnpZTDc3NjJDM3ptYnFiY09xYUI0OWhsZTFZNEtMRFVVLU9Ic2Ntam9kLWxBQ3VIaE1QZVdzUy1zdDFJN2lYc0hvMmJOR3R3NjEtU2NCLVNnOGVxYVZqakYwYlBQNnRSNEVKdFFjMTBna2hUMTdCa0k4Y21Bck9EeWVnUVZtUGwydEdSSnRpU25MRVdLeTU3WGZ4V0RzMWFKdnF3OEtFSy03RjYzRHlWYW5PSmFQbDlyYWdiNzlFYXB6NFBoeUxyTHJwRzBycXVNeF9MTUU?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "جنيف: رحيمي للميادين: تأخر الاجتماع 20 دقيقة وأُجبر الجانب السويسري على إخراج الإعلاميين ولم نأخذ صورة مشتركة وحينها دخل وفد إيران - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNdkw2Tm9kU1VTOTVVTHgxWGFDWmZ2S0ZiTTNDMFQ1RDVBRFh4X1FNM29jSzFBQ3J6eEFCWWlvdVYxanh2b2NlaExRWXRkU0hEcWxfLTBSODR3dlFNRzlfRDhjSXdqQ014U0trZHpoNmxCVnNiWnRJYWd3a2FCeXJtd1oyYTdhbTVtVloyRmp2RUdmTFhBRGNNd3AzR1g0UnRHY2NXQjZZejFxMUxzMGZxQk9aNGJyMHdfeFktNUdMcW1oZ2RzMmlkbHg1cVVSdUxwanhSOER6eVJieXVfUTFKX09kVUJyZmNOcDFqS29mdER3MHJlTlRhbmlOeTJCSFoxejJxUzk3eDIyUDlyMGowUHV2QkNiejVtc2dUb1NiZHRSSldMeEp1WnBHZnlxMjUzeDh3aFpTeDdnYzdVZVRYNlVLd0NuUWd6VkkteUhqYTZCY3RYZXJZRjdIQ0wwM3BsQTBlWFdIdlBoY3o4U1hQeTBuWXJSd1NYOHF4cXZvNkltTGRvYW5kVE5lQ0RxRGVIS0FYb0l5QTFBX1lFU05pUVhoZGRzeHZWdER1U1BjZ1Z2d2lZRHFhYnY5RC1YQWoxOHg4UVMzR09nRWRWVFR2NnU3UzFSRGNQQjhST3Zoak1rWllUSUE?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "إيران: \"تسنيم\" عن مصدر مطلع: الوفد الإيراني رفض مشهد المصافحة ومراسم لالتقاط صورة مشتركة مع الوفد الأميركي - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNU2xoU3NrNDdocHNSLTlOVkY4OXl3TXNhaldTOTZGUEFvek9BSUtjbG03QlNra3c1M3N6b2laZTdXcnVtQXVYOURKVkVTTTZQWi1wZEdqWlVXZnU4dGFRaGhUV0Z6Y0ZObHJFeVJpR3p0MlJfcV9LQ2Q4QlNKLV8ta1JmMkdzMXRnYjJXVUtqY2tqZ1MybHlpdXdyY25TR0pZZmZPQnQ5QURpYktDTjk3QzZqbVFxaXdTenoxWXhaSUNqS0J6ajY4aWhBdHVBdVRrRFFfWHg0dGhzejBuMmRtYVFEMWxrSmVuM1FKU2VhLUxxLU1OOE1YTVFtV1ZoMnVnNmx2ZmVyanJIV05NNzR0U0tnOHFBSnlWcWd3ajdTU2V6dC1VeGlPdnVhLUxHa3RsdXQzTWFZc1ZWcURKakJhOGxNQVRJWEdqSE03Nzd1QXJUS19CenpTRDlDZVdVRDY2R0V3eUpWZXh4UmpEOUlZRzV5Z0Y2V2U3NGU0cEMxTENTYk1QVjdmRWM3QWRNelZCckhPN2JtNlAyYVl0RFhIdndDc3pYWnhWbVBHdzBSSFIwOEE1YWVFZ0FmbU1MQWppbWdyaHVNVlhGbkpsUjJOR2RoX3JscTZsNmVWSXRCUVBJcTZzcXc?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "paltoday",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "- paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14OHFSeTg5bmVKVEFPUEdDNUE5aFNIV0pLMWt3Zk5YNjhCaEVZbDVad21MYThnUVVHX2lCUzRIeXhzNWlySTdHNHRES2l4YmhaSHZhanYtSHpua29jUlZaOWtSRGhFQmJUNUFORXotQ0M3NDFZ?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "- paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVpvYXNwTml3NGNoODduelQzdFhhNE5pNGJnQm5MZ19NZTU0bm1fazJ2bl9IR0FYQ19Sc2ZtTXhtdzFTbWprVWptOVlfYi1HTmlqeDFQeUxzeUNCTnVwSFNmN05paVZyb1paZEhGVzNMRFVWR1pzOWFkTVJmUmxMdE9VRFBKR2VYa1FLQ0NocmdQTXN1T0lLWEQ1SlhFUQ?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "- paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sbXhobUhSSGUwdEZRclEwNDhMV21CZDdSNVJGeXVNRUJhcWo0d0xDa3RQdms3cVFPSFlvcllUUF9YUVNGZWhIamNzRTlMZUh1NmotV0phdFNLUF9CRm12YmdyamYwTDRxdHNzOVltTDFZMEZB?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "- paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CbElLcHg5NWpra2tmZmIzRWVIOVRRWnB4SWxDUDlRdE1OLWVKMDFoYnowT3RTOG41ajFIbFJHWVlmV3JGeWs4SzV1ZTNaRFRjVDZ4aXBISmJjUDFFUVhHTzNPeDhWZHZRM1l4cGIxTWhlaEZX?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "- paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHBVX1hMdGY3cGQ4WTNxaTZaOURSUC1hWW9uOVRtR3pwd2JwaTdmUkNra2FaTUtDcFA5aS1SS0lGUmZ0c1hwSk8zUGtrRUtXSEFNQVl6VUtCaXZKTFNLclFpallOMGJfdmJ4amxXcTJvZmdEWk5WRHpQcWJCb1ItUGpUSmt5a2ZyM3lMYVc4SVdZM3lzeFoybFRFOHl1UQ?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "israeli",
-      "count": 4,
+      "count": 5,
       "headlines": [
         {
           "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
           "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli army chief says Hezbollah in ‘difficult position’ in visit to south Lebanon - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2otenBPNDRkdGV2cEk2dk9xMVpLeU1uSmFqN0QzalI0ZGpxamxYVHVWNk80QkZNODBoTThGaDdNZUt1YS13Q2dMd2l5Y3dwUVNMNlhSY1REcGFtSzF0UklRSUhaVG44UUdkTUt1blRUM0Z4Vjl2VFdwLVFjMk9tQ3N0c0N3eFpMOUh2NU5na3F5bm9tanpVZkFMaU1GenFPZWEtNWhDOVlVYm5sWERzUzFfXzdVdVpFNDVNZEFXUmZxaDVCVngzb0ZRNzFlWWNTeEJ5VU1R0gHbAUFVX3lxTE5WdDROTjlvRWdWRFRJTFZ1TnFQUkN1ZHEyWjNEVFI2d1R4aGZxZXJ6MUQ2YUx4R0JOZXJoRTF1Z3VORXQ4aVdFNVdrbUx5RERjdkJQakhHT2ZXbF92TElQa1pGbmUtRWYxWTNHRUo2ZDVXX1R4NWpwMG50VEp2LTlVazVTVXRoRHhxU1RRN3JPaTFkNVJoZXprazBBNU40UF81czEySXZxZkl6cWh5TEJVR1BBWjhUNGk1a05Ja1Bqb1NSMEFXOFhSZ2tXZmdTUTIzeEFmSVdhb3JVYw?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -273,32 +327,74 @@
       ]
     },
     {
-      "term": "lebanon",
-      "count": 4,
+      "term": "almayadeen",
+      "count": 5,
       "headlines": [
         {
-          "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
-          "source": "Middle East Eye",
+          "title": "الشيخ قاسم: سنلتزم بأي وقف للنار تحت عنوان وقف العدوان الشامل.. ولن نقبل بأي خرق - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQbno0cC0wV1FkT1hsb3BKQVpscGFFcjdLYmh3WjVqZmt4OW1CcFlBSzNRQU5uNDdubExXWTU5N3FJZVhjVHRYekJmMDdobGItZ01QUTJoMEJBWTlpVE4xR0ZxNkVPaEJFc1Z6S3J2ZktLOXFlR2QtZEFlcklhUG1IQzlubXRrQ0lMclN6c1FFSExqWU1xOXc4SlRMWmdFYmtYX1F6OUl5TTltRmEwc29DUW1DbVVBWUxIR1djSDRQbEpzdFVEYjkwMVNhbTZUMkppVjFTRVlGbWQxSGxLcm9yaWpOd1hJWDFkalJUOXF1YU5XcXN3Rmttc01OU3VpRC1QRTVRZEtwbXotcXJGOURzbUlsTjF4M3RFWXdWeXN1cG54WGpZWThXZ2stVy1GOTNaMTdPd1RsanRNRWdGTlpvankxU1JFMDNiVExsajBGSXlkWEYzS1ZxaGRtR1B3R3NhdVB5TWhoY2RCUE5DSk5EWkVKWkM4dmZFTzJDbTcyWWRTWVNJWk9xN0N1TUJtVkhNdmpFX2lJRWkwb1puU2lheHJQREM5LW5HRVpPR3ZEekM1YVBob2ZOZkNLMlZyTmllZWd2eDVIaW1hTk5DVWlSbGhJZlRVYXFqRUlyM3k2bVQwMVE3U3FYR2lB0gHuA0FVX3lxTE1zdDFPMFZIMllpc3pXVkFhRTlmVjhsMlB1TkdtbjI4TzJmSzV4QVpJSXdpVlBIVFIzY25lYXpyMXZpQXhPZDVtR2ZJY21qM2V6MTZjM1JwNkFBOTJtRjNab1JqUGFueWVLU1UzdHJZRU5wMVIzSHhvX3hHYWw4a3RsV1BjWTRYOGlFZVMxSmRJUkZvSnpsdTNpdGFyaXdoVHQxTENObWNDZ3E2QjlpNXBNeXctUVdreXBmQU1ob2J5cEJQVURiMEwxZ1ptREcxNmVtWE1Rb2g2Y2l6eDdMSmd2VGF2N1NlMDlqT1VIYllpX1lwTUZfTUVKbVdHT0RHTnpXTVEtVVBFaU9QazBveVNUQVZKc2Z2ODJKWGNiM0xBSXVWTWFTdFBMNHJGc0dPV25PWktPRi1tV3N5czBDbWZONUhDb3FXWVhpcGMxZ3dxTG5vMTdLZDM3N3R0N1hOYmhhY003alhKTXhtX2hTMlhhei0zX29KNF9nSW5yOUZyRF9QSG50QUhfTERkMzY2cWdmTDg3WHNYY0JwdzVjVjlaQ2daaGhiZ1JlVUZrZ001VlkwallVdGR1VHk3bWY4dFFGRTkxZFd2QmNZblRDYlBpV1ZkVldIZDR5dV9EaEZITmxaTzBtaVJ6Y2ZXcWt3?oc=5",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli Troop Presence Risks Permanent Occupation: Lebanon - Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXlqbk95VUN0NmE0UGhZTmlZT1RtUW5VUDlKb0xlRW9yb3E4QW9VRmtiYk1ZdzVqMHJqOGEzWnN6UUt4VHdORVBlekNYUlIzWE5xMkRDYzR6WlRrMVV2NnZWejNBYmE2dDN2OE1HUUJHR2ZxcG9xOXU3Uktub0t0TUxHWWhuRnZxTWhKNk44TE5xa2gyODhwWXB1SGlXUDdiRjhZM29VZzY1ZzREZDB3?oc=5",
-          "source": "Al Arabiya",
+          "title": "حزب الله يدين جولات التفاوض المباشر مع الاحتلال: هدفها إذعان واستسلام - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxObWN2QTdkWnNKNEEyVkFtazN0bUt5eG9LRVhmbFliWTI5LWZsbGl0ODNXM3QxVFRGcWlRWTF3YWVseDJRTWNsMXNDbkpjN3pJU2FuWnNFMWc4Uzd0NWVJRUJqUmFOZWVDNUo1cE1IcWczZEFleEtlSGZRVHd6ajF5emZBbmlXaHBmc0tqdWtRd2Qyd2JlTDAzcHlBNm1iS3BTWjFRdDItQ1BOMk5JN2NwVDdEaEZrcHNBRTFIZUZvdzJ3b1dmalJfdGVJc3hvQlA1eDBmM1FCRDh4WUd5U1F5WjQzUFNLTm12WjgwT2t0Rktkbm5VNXJiWFAzbHc3VTNEOFctd19xOG9nYlo0R1pPTHFfMW04OE9NZE90bVg2Tm9MSVhCM2tTcGZGQVFycHFFQk1tZWhETlRQQlBwaUxsSFNCWnZIVE00V2VRV1hYUnkyRjl2UjlWVk1HQ1NtUGhhYlpPRkZiYmRsY2lBMTlRM3pKQU1YbHAtdWVQNlVwRkQ2eDE5a2dMcF8zXzRpdENOTlVqV3V4YUMzZ0ZaZ0YtNE51eURoRldFOVZJT21RWldnSXFyQkVEUVpBbVVubGxZVElyT1FDeWZ0RTlwZnQ0QnNHbW9OSm5URE9CN25wR1dNNjhldkNveTB3bTN2T25l0gH0A0FVX3lxTE5TWjZqNUZMcjBJZnJaelhLd3dfbnRlczhRcEdaQ19GeDZpRVJhZnNaT0pRbGRCMUQtRnhYY1N5SktiM1MxWG9XMi1KRXowU0thRjR6cHFLRXpFOWhOSFlzU3hpd3RGYzViWmprNzMxR1JuY21uLVFJVjQxR25KX2MxWnJHS2lGZG1PR0g2X0FGS1lPSzI5bGwtN3NtQ0NfRDdFWnU2MFBtVVRtSHY0MzJNN2hJMkEwOTI5YnNNYlhtb0VZUXRMdE5hZk1WMHpJNVZ1M0dTcHg0NnFkb3NkZE1fcUE0Nm1VaXYzcFBHYVhJZFEwU3FzbTJ5T0pTU01ZdjBvb2FlZ2tCWDFjdnFpZjhlQllQcTJUZ3FGV0dqSlk5YUEzbTdYcndkdlZfWWNTd3V6azh1eml4cFl0X2ZBNGd4SFZIRnNjdU9BQ1p1bk9paE5lU19zenJBWjI1bEFZaTE1aDd3NUhnWWliXzZKY3FxNHhHQjdUYzNVbEMzWUdVLUtLX0k1VDh3WkwtdmRjNTl1M3lSSENIejA2VVdhTjBCV0huUlBqWVpQM2w5aGFDSGoyRlZSNXNhNDZMQnJiQmNtZnh4d2lPMzMtZGZOSldOalVNX1pVLS1UcnktdWFyNlZYeXM3RGtjelVuc08tLUxOY3Ey?oc=5",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "WATCH: IDF takes over massive Hezbollah tunnel full of rocket firing shafts in southern Lebanon",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900067",
-          "source": "Jerusalem Post",
-          "region": "Israel"
+          "title": "كوراساو تدخل التاريخ بنقطة مونديالية أولى أمام الإكوادور - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxON2hKbUx5VkJ4Y0dMV3c3YXVtNlpNUWJPS3JXQXZMQ19femM1Y1NlUC16eGF0RFZHWEVCWGpIT0FqcHRFSklvOUtXSnlMNzNUTklIbWFSblBBVm5HTUlOVjJUMTgyUFdMRlhoaXFQVHBua2dUcjNndEtvazM1dm93RjJaMkRqYzBiWXI5RF9EaEVkYjZjR1plY0xCd0lIOFRkU3FVbkpNYk9HX2trQm13Unl4SGduOWNxYUdiVnV5aTc4UkRUZkswcTZLcTJoQW1RVWVmQW96bjVYUWtBN3gwUi1KTkltRmM1cmxMWHcwTUhuRFI5ZFBOZmQzTkRFX0l1Q3c5dGI5bVJxVFJBcUNFOVZuUEZxbEc2MDdRYXRXbm5SNER6LWx2LXplQnVwRVpUaEhkSzJDQ09TUlpsUEdNa2FDbTA2Zm1uMFlOR3Q0YXEyNFZheFY4bFozUlVORWpmQmdFb2J3VHE2Q3hpdEF3UUlramJsdGhFQUZfRnRKQ0F0RkE0eWpKSkV0ZXcyTVdDbWFyOGZ1SlZIWWc3Wlh2MmVLaEw1d2dkWnhKdGpCd3l2emltdVU1eVVINzVXTEJPcHBocG1yeEFUajdweVJLSjVjaWFVLW1uc0tZ?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
         },
         {
-          "title": "IDF captures Hezbollah drone factory and launch site hidden inside south Lebanon mountain",
-          "url": "https://www.timesofisrael.com/idf-captures-hezbollah-drone-factory-and-launch-site-hidden-inside-south-lebanon-mountain/",
-          "source": "Times of Israel",
-          "region": "Israel"
+          "title": "مصدر لـ\"إسرائيل هيوم\": واشنطن تستعد لمطالبة \"إسرائيل\" بالانسحاب من جنوب لبنان - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPU0tNZzhlRWV5Mkd1QkVjVHljV01BN3I2RFFyYUhuVW1hb1ZSY0tGSTBDNXNucVJiejhIYnNSb0ZBRnNjcFNNSVpuVzlJQmVjTGJNNzdQUFZiWUFKVFdSTnhzcHRKekFhMDk1aE9RdG1YcG5JT3JLWkswQ0dQMEgyeUoxMUh0bDZtTUVYdjZZNmx4eW5fVDJnUGpJZ0IyMVE2Z3RVUWVxQmN0em95MnhyaEdhTXplYkZIeDh0Tnp3Y2V2SU84d3cyZGhVcUZmakRIVWc0OHZ5SUJkblZ6Z0ZURTNuU0N5cXU1dDhhYzhwalZEa3BtRWJoVTE4RjlkeXpVb0Y0eHFwcHU4M1ZjdUtMSUY0dXFXeHZIV2pacFdDSGtpVnRYdk9BbzdwcV92OXVRUmpGejJJVVhIbkxRdmYzX1Vybk5vRFh3UlRXOGx1VlRleHVtZktUY1lFaVVuUW5DeHBhcTFvdWZObjBPZHoyc1J4TEhEZlNSaHQ4NWxnVWx3X1hEMEZWcjVEZ3NJRHQtaW5fNWtWVV9rR0NZQ2c4OWdlNWJjbHFhZzh2YmlldEdUYWZnRkZ3MFNIdFVSQlF1ZHNxMzViYk5MZ2pKekJtMnJENjNDLU9xVXhUZzI0ZEdLZUxBTVhOYmNNc0NIdmxJZk8yeGFTaVNNZnNkSThvVzdJeks3SzcwVEFXcTEta3BrRjJHUUhCWWlfTWVtOHlqdUNHdkZ4ZldVenNaM3RpeGJMa3dqOTNw?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "فيروس إنفلونزا الطيور القاتل يفتك بآلاف الفقمات والبطاريق في جزر نائية - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOelNYN3VvZVJxS0g2ckJsSk5JOVZIOGM1clIwa1F0aDU2LUlJNmxYamRxSlI1QUJwX3pvRkJtY25JQW9xc0JjelRSZlQ2ZWNKcGNWZTl3MU53VkdXSzNPcjZpdjVaNlhMV25EbklHOFJiOHlHMms0Ym44d2dIMG1vNm0wcXAtLXBPcHlkdUhRcFJmSk5paF9HVC01T0VzOC1DV3F6bHlCUzF6b3ItYzhYdl9qMzlpSXQ1b0ZsSHJ2bU8wUWNVOXRFalVkYkJVYlBaekFrVkJNQ1ZSaDlZRHZjclNyTWQxOFFqSE1LMl9ETFpMb2lrSTYxci1UdmlCRTJxSkhNcl81QkJTcWtPZE9DTUZheldyYVFEbzd5U3hqdGVZMUVmUzN5Uk8tcHEtTnpZTDc3NjJDM3ptYnFiY09xYUI0OWhsZTFZNEtMRFVVLU9Ic2Ntam9kLWxBQ3VIaE1QZVdzUy1zdDFJN2lYc0hvMmJOR3R3NjEtU2NCLVNnOGVxYVZqakYwYlBQNnRSNEVKdFFjMTBna2hUMTdCa0k4Y21Bck9EeWVnUVZtUGwydEdSSnRpU25MRVdLeTU3WGZ4V0RzMWFKdnF3OEtFSy03RjYzRHlWYW5PSmFQbDlyYWdiNzlFYXB6NFBoeUxyTHJwRzBycXVNeF9MTUU?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "paltoday",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "تقرير خبير اقتصادي يحذر من تداعيات أزمة \"الشيكل الخامل\" على اقتصاد غزة المنهك - paltoday.ps",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbFMwYkRMZUxDUWZuZkNTaGI2S295OHRSQkJaWkFERFVuTlZOSC1xWW5aaHNyNUY1Wlo4ajhQZ1pzSWVLQ29wTnBYd3lSbkxZQk5UcGFIZFF2WmkyVEwzaUhvUTItaG9ZSjFKUmswcVlVdXpzWnc2NkRjWFVTX241YnhRR3diazN1TTBqSkp1NlVRc0dkdVBHTl9Remx6bnNfdUdCY2hfdlBrMWl2ekcwMmhCb0NOdG1qS3hMYkd3WDh3ZjZqOGdaT1JKd1ROUU41bS1xTkZRbGxrTzRaSE51dlhrYU5tZmlaTkE4M0tLdm0zMnBNVlRXT1hRQnFVMS1lUHU0Q0c0WnFGYjhfZUxWb1JIdHhPR1lvQkE?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "بقائي: بدء المفاوضات غير مُمكن ما لم تنتهِ الحرب على لبنان - paltoday.ps",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQak5yb0ZVbmlzZ1BTN0luYnhHSmp3SEtUWHpRNjAtZ0hYWWdlNXRFaWdldjlQU0RhR1FKS05CVTR2Z19uVk9NaGRQb3Zjb0UzVldUYThyWE9FLWtmaFdLLUxQQThTOHlTVkp4VzQ5OHNHb0RJclphcmFUMmVOUHBqNWZPbWFlSVFUY1VRaGtjbkVBVmsxdWVPUXJJV2VpejF3VnVkQ2RwM1R3MVhodkVaOG5pN1FINnBIZ0c5RFAzZjROUmNKR1Q3aXlXNDNJc0tmQlZPbEJ3LXZtMG94VGo1LTRMZkFjT1VlVkdlekxja08xNWtJV01nSWhXRGJqdWk0R2paQTFYdzR4cC1FMmQzVURn?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "محدث شهيدان وجرحى في قصف إسرائيلي استهدف مدنيين غرب خان يونس - paltoday.ps",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON2RnYlhOaXkwZUljQmFpdy1FbGcyMHZmUEZXWWRqMlVaQnpWQ2RKLUdpRkRZVTlnM05lb2pOSVdQWnRiVVBzV3Bsa3NjQk1HdW9zOTJzdWt3Tk95SjZPQk04VW91VWFkWEVOdXZtRS1nRV9vWnRPYzNFZ2FBdHFPQ2E1dDBic1oyeUNPdVZUVk9NZnhtblU5WVZjS0dKbDlldGVsSUxJS2xoVnZWcWF5RlVwU3RZdWcxVGpOczd4ODFicjh6YlVkOU80c1JtbFpJUTlrY1lhMWNidFg2dGVWNzNKbXJ2T1lDUWI1TVUzbjhTRnZ1dlZmbUZCTkhjcVpDNjYyeUNLQkFqemJfc1B0b0ZFRlZtSW00a0E?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "الاحتلال يعتقل 7 مواطنين من عائلة واحدة شرق خان يونس - paltoday.ps",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWXlocnpfSEZ4anVLMC13OUlVYVU1UkdqZ0hlaEdhNlpDYThBaGtvUkpNZEFZSXpNWFI0NVBpZkpWY1hNNXhpMmFORVZEVTJyWXdQNXFUU2c4c3BQODVjelBTWW5oNXpBV2ZyOXpBZzFLc2VDQWdCNFJEcXAyN0RfaDVqYjNmZWFEWURsX0Q5V084ZGVZMnV3c3ZfZUg2V3VON3Q2NEliV2ZXX3hGVzBFa09xVjI4VWlBVHI4bi1QblVnT3lEMHFGT2JCY3htZElSYk1OUzg0VTNUVzRkN0xmWXRmLTJTN3BaOFlEaDVBR2ZZcjgwZ2dpR0xDcElQaWt4dWRfRkNhdkVkem4wSHNLaHlOSQ?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "كاتس: متمسكون بحرية العمل العسكري في لبنان وبقاء قواتنا بالمنطقة - paltoday.ps",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcXVZMFZTbmtfT2tnbW5WNlRWdkEwd2V2VVFERnBiVEJna25uMVQ4ZmM4cEhocXVaNC1VTGQxaE9JOFpzWHp3NG94dUhjTUFsZWVpX0pneWdpTmktV3RpeGlfYV85SWQ4bld2MTZzYTVKTi1Lc1BmM19LNnY1ZDZaenBHYzQwRV9zOW40WWZLb1VDQXJBdWFQdk9CRVVSUDY1UUdETkZCeURGQkRYSE1QNllIZUtpcVV6c1VLVEJ4bE5sNmJxXzNHeU52dmxQN3B5eGdadzRWVEtoYkwyX21RTWlFR2N1TDJSTVhPdk1TdkNCUVpmdzRSTUQ2OGI5VzFJQjBTUWlkb1lrYWlvcVhyZnItRFdvQ2txd2wxYUxpZEg?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         }
       ]
     },
@@ -363,50 +459,110 @@
       ]
     },
     {
-      "term": "rejects",
-      "count": 3,
+      "term": "vance",
+      "count": 4,
       "headlines": [
         {
-          "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
-          "source": "Middle East Eye",
+          "title": "Vance hopes US, Iran can turn the page at ‘historic’ talks - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVZoM2E0aU5KbUxnYUtOTTFJelRsQTBjNW9oQW9QaWFhNlR5bjhleUc5OUxPSzhUZTdPUGNyc1htTUU3Z2tuZTZaLURBWUotQndMZ2N6RWliQUhITWZxb0dCRy0yYVRxZHF4RVp1WHhXdmVONERRYVpXN2Y1aFlrdElfbFBjbEZEYWFHOVZQbTdMSlNSeWdjOGxSN3hnOVV5a3RjNENtaXhpdEJES1h6OEpaa9IBuAFBVV95cUxNajY2RGx5WjZ3Vm1mMXZFSmtkZlI4UFVEMmhEWk1WdVZGTDRXc3A4dDZLcktmdmJQczlHT1Jfak1BcXJFejRpOW1udGw0VERWSFdBS29PMkhYMDBHUE9jTmJoUFpvbUhLc2Q1WnVXbnVlTUtzS0lyQ3NJT19KaVlsenhZcDJ5TTJIWnlUMi10ZHMzWmp1MEFkVzNPNHR2ak1obElMb3ZSSWRPaGxkVWxuT1dISGo3UXNz?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza - L'Orient Today",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhLYno0elF5WG41STlnanN0ZGpzSEJ3R3lDUUpRSzhoN250ZkVocmx2Zk44VmY3N2xUNjVfVml3WlNTWWc0enlvNlFxXzAyaXZKTzZNbXM5RlB3MzRzVFNreWlYeTBEdnk2aUtRUE5CdnhoelplUm90YVNwb185RjB3ZVpjRFFMTGpwUXJLTjFJaUl2SXU5ZHh5MjAwRkpwd3JkZkNveEk2YU5FVGJ3bmxCRDZzNXhWNEJyX3hwVkZGaGM?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Vance hopes US, Iran can turn the page at 'historic' talks",
+          "url": "https://www.newarab.com/news/vance-hopes-us-iran-can-turn-page-historic-talks",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Knesset speaker rejects High Court call to redo tainted state comptroller vote",
-          "url": "https://www.timesofisrael.com/knesset-speaker-rejects-high-court-call-to-redo-tainted-state-comptroller-vote/",
-          "source": "Times of Israel",
+          "title": "Vance jokes he speaks more to Pakistan’s army chief than his wife - The National",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTcyNUJ4aUt2Sll1Y0NkTDAtTjVBZ1JMa21Hc2JGd0JIR09aZVhDdWlsVTNRa1pQUTJkU3VpTUhhcEJSejdhaUxNSXJ2U05RaWlvdE5mdHBsamtkTFhMOGVZYjNnRTFBakxqNTVHbkJqU0dBUGRTQXVMMnVpcjdELV9lUVJBVERaWW9sVVYwVDhUaEhiNy1UUzRqS204Q0VWSWpFQlNRMUtFSWdRY2RxRE1B?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Pakistan emerges key player in Iran talks as Vance praises Islamabad - analysis",
+          "url": "https://www.jpost.com/middle-east/article-900075",
+          "source": "Jerusalem Post",
           "region": "Israel"
         }
       ]
     },
     {
-      "term": "state",
+      "term": "pakistan",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QMklTRDNZTWhjYy1fdVFOazJlTklMamUzY01kc2tCNmYwU0NYYm5OZEY5cmdLSl9EWjlPU1JqRk5GOF9RRHh6RTJ1aDZ1ajhySlBB?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Pakistan maritime agency says repatriating eight Iranian nationals rescued at sea - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzSWktQ1M1QjhscEJTbFVuYkNnc001QWZCcnJiRzhQRy1CRDY0SGZFelhOQ3d2YnR1dEk3TTU3bjd2WjBQVzR0SGtkTXNzemZsOXFj?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Foreign ministers of Pakistan, Saudi Arabia, Egypt and Turkey call for permanent US-Iran deal - The National",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Pakistan emerges key player in Iran talks as Vance praises Islamabad - analysis",
+          "url": "https://www.jpost.com/middle-east/article-900075",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "debate",
       "count": 3,
       "headlines": [
         {
-          "title": "Iran state media says nuclear programme not discussed in US talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-state-media-says-nuclear-programme-not-discussed-us-talks",
-          "source": "Middle East Eye",
+          "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
+          "url": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Knesset speaker rejects High Court call to redo tainted state comptroller vote",
-          "url": "https://www.timesofisrael.com/knesset-speaker-rejects-high-court-call-to-redo-tainted-state-comptroller-vote/",
-          "source": "Times of Israel",
-          "region": "Israel"
+          "title": "Coalition strike revives debate over Syria's foreign fighters",
+          "url": "https://www.newarab.com/news/coalition-strike-revives-debate-over-syrias-foreign-fighters",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Knesset will not hold revote after PM personal lawyer elected state watchdog - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSUQ5aUZoX3hiOXBJVThMRDNfS2s5Q0kxSGpaQWpOTGl1THdENnJzajBLYTdxWnFWdS0xTU9SZXFBZk9uNXkwRHJwOTE5cjI1UzMyWk5YdHBTaWh4cDk3NHVUcFQ5bjc1ZEFCYzBrSHJrUzQtOUZabnNhVW51dHBONkpvVnV0NmRHNWExQ1R1eXRJRU84MHVoZkRDOUhXMm1aRWlTMkZfQVhmcjQ3bHhuSVlmcDlMbWxVLTZkMnNoRERMMUZZeVBjZUZPWjRPa1FoLXp3Mkw0YUl5dFZXRHdqUWdIajBPVE1XLWZMZmU5ZEowakhxcjJHdXNDb3RoZzdhTGU5Nno0SUt1ZHNKZ0d4dlJFaXRON2lkVU0tZTB5SVBMQQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
+          "title": "In Beirut, a Night of Ideas makes the case for poetry over debate - L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWlOOEJmZ3Jrc0lvdkhZR3R2TG04SjcwSU9BLUtwbEk4bGhXUWt5b25CVENXcFM5U2ppQkhrWncyUEQzQ2lxcmVaU3JmUWNKbGlWcHE5RWhWaURHYmhLdVFTTEFXTllrbHBoYzZlaG9zTllkMUluSXFvZXQtdm5hUnpmQVdyaTBjSnZham9kNlRkN2ROYmxGcGhyQlpSVUM4ZldzV3AzektpeTh3cUlyd3lXRC1iUW5t?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "switzerland",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
+          "url": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US hopes to ‘turn a new leaf’ with Iran at Pakistan-mediated talks in Switzerland - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1UmJPVmVQcEZieGRzbVlqM1dHWU5GY3VKQ25hd1N5UDI5NnlQVjBFVWpEVVhhQ1Zoc3dySmlvbWlaOXB5dGZFU1NkTTFyUF9QWTNR?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Pogacar wins final stage to seal Tour of Switzerland success | Gulf Times - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzhDcEVDN0N6V1ZVWUpFS0tXTlZnVUt5S3BKNkRfWUQ4dWJDbVdDeWE5bHFsclJxdFJ6cjZiQUJXbGl0c1otWnpUbWZVaElJVWxuWExaTTV2bk1OdGhLQ0N2TTVnOG53SnBzQkpkaThCZFZaT2J6VUNLU2g4RVR3djl0QmNSZllWWkt3WTZIbGVZWG1PTWtoZ24xTDJyT2tMRXl4RE13eEsxb2ZU0gGyAUFVX3lxTE5md09HVElsSjlpUXlCR0NJaUNMYlFtOGpzRGNSY2haQlk3emd3c0ROZnFYbHlMUnpJSk8xaFlmREZoVjZFSWE3ZFhrVFk0Ni1fREtwbnBWNHVKdXpBSWtZcWkyeDFFWlJvNkUyeDRMVHJVTGZqLW0zblVBTnl0Tmc3TG9MYy1ka1NDbkllY1NGMjFqWWxuazhFMEZKRTVqNktSanN5VGtrdFFHYjFHWmNScHc?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
@@ -435,6 +591,30 @@
       ]
     },
     {
+      "term": "south",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Israeli army chief says Hezbollah in ‘difficult position’ in visit to south Lebanon - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2otenBPNDRkdGV2cEk2dk9xMVpLeU1uSmFqN0QzalI0ZGpxamxYVHVWNk80QkZNODBoTThGaDdNZUt1YS13Q2dMd2l5Y3dwUVNMNlhSY1REcGFtSzF0UklRSUhaVG44UUdkTUt1blRUM0Z4Vjl2VFdwLVFjMk9tQ3N0c0N3eFpMOUh2NU5na3F5bm9tanpVZkFMaU1GenFPZWEtNWhDOVlVYm5sWERzUzFfXzdVdVpFNDVNZEFXUmZxaDVCVngzb0ZRNzFlWWNTeEJ5VU1R0gHbAUFVX3lxTE5WdDROTjlvRWdWRFRJTFZ1TnFQUkN1ZHEyWjNEVFI2d1R4aGZxZXJ6MUQ2YUx4R0JOZXJoRTF1Z3VORXQ4aVdFNVdrbUx5RERjdkJQakhHT2ZXbF92TElQa1pGbmUtRWYxWTNHRUo2ZDVXX1R4NWpwMG50VEp2LTlVazVTVXRoRHhxU1RRN3JPaTFkNVJoZXprazBBNU40UF81czEySXZxZkl6cWh5TEJVR1BBWjhUNGk1a05Ja1Bqb1NSMEFXOFhSZ2tXZmdTUTIzeEFmSVdhb3JVYw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "South Al Batinah Summer 2026 forum activities kck off - Times of Oman",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORm96dEJRbXF4VnpZMXkzZzBtS0hLcjZnTkk5NEx3VDBOc2J3cjVLZkFIVG5ZS2R5b3ViTjlsQlRtNi1mYXdjeUtfWWQ3NC1wd1RHTjVYR2tpUnNsdFZPYmxOZ2lnb1kzVnpSalhQOFVzYUxsZHNrUVlsRWFDS09hLVd4c2I1Q2xDYmcycVg1U0poLUVyZkg0?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "IDF captures Hezbollah drone factory and launch site hidden inside south Lebanon mountain",
+          "url": "https://www.timesofisrael.com/idf-captures-hezbollah-drone-factory-and-launch-site-hidden-inside-south-lebanon-mountain/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "support",
       "count": 3,
       "headlines": [
@@ -459,49 +639,49 @@
       ]
     },
     {
-      "term": "us-iran",
+      "term": "historic",
       "count": 3,
       "headlines": [
         {
-          "title": "Regional envoys push for swift progress in US-Iran talks - Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXBuclM2ZlZqX291YlRBbFhaak03WjJDb20xdGI2aldOckVramZoM2FDV0VOZ2kyRjB0YkVhUmx0Vks0bTVKRXJuQVgtdU5kZ0dBSVBpcGowYjJpY1BkNnh3VlllYkdNMXV2dVRsRVNEMVdsSF9SYzNKbktfUVAtRFBRTDFlV01yalJEeGJwcmJqblZyV2ZyR1NJODhQblVaMXctZG8yeHNKelVSbVhBaDZONnN1TGZU0gG4AUFVX3lxTE1xcG5yUzZmVmpfb3ViVEFsWFpqTTdaMkNvbTF0YjZqV05yRWtqZmgzYUNXRU5naTJGMHRiRWFSbHRWSzRtNUpFcm5BWC11TmRnR0FJUGlwajBiMmljUGQ2eHdWWWViR00xdXZ1VGxFU0QxV2xIX1JjM0puS19RUC1EUFFMMWVXTXJqUkR4YnByYmpuVnJXZnJHU0k4OFBuVVoxdy1kbzJ4c0p6VVJtWEFoNk42c3VMZlQ?oc=5",
+          "title": "Vance hopes US, Iran can turn the page at ‘historic’ talks - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVZoM2E0aU5KbUxnYUtOTTFJelRsQTBjNW9oQW9QaWFhNlR5bjhleUc5OUxPSzhUZTdPUGNyc1htTUU3Z2tuZTZaLURBWUotQndMZ2N6RWliQUhITWZxb0dCRy0yYVRxZHF4RVp1WHhXdmVONERRYVpXN2Y1aFlrdElfbFBjbEZEYWFHOVZQbTdMSlNSeWdjOGxSN3hnOVV5a3RjNENtaXhpdEJES1h6OEpaa9IBuAFBVV95cUxNajY2RGx5WjZ3Vm1mMXZFSmtkZlI4UFVEMmhEWk1WdVZGTDRXc3A4dDZLcktmdmJQczlHT1Jfak1BcXJFejRpOW1udGw0VERWSFdBS29PMkhYMDBHUE9jTmJoUFpvbUhLc2Q1WnVXbnVlTUtzS0lyQ3NJT19KaVlsenhZcDJ5TTJIWnlUMi10ZHMzWmp1MEFkVzNPNHR2ak1obElMb3ZSSWRPaGxkVWxuT1dISGo3UXNz?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QMklTRDNZTWhjYy1fdVFOazJlTklMamUzY01kc2tCNmYwU0NYYm5OZEY5cmdLSl9EWjlPU1JqRk5GOF9RRHh6RTJ1aDZ1ajhySlBB?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "Vance hopes US, Iran can turn the page at 'historic' talks",
+          "url": "https://www.newarab.com/news/vance-hopes-us-iran-can-turn-page-historic-talks",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Foreign ministers of Pakistan, Saudi Arabia, Egypt and Turkey call for permanent US-Iran deal - The National",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
-          "source": "The National",
+          "title": "Makkah exhibition displays historic marble tiles from Grand Mosque - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GWFI1dFFwU2NSMU91RUpPTEpCdGlGWFlPejRPb1ZpSHZpWFQyZmZkS1lHR0hjWGRxcklTREdEdFVIQzNLTXctd2p2aDlvbkJIRlFn?oc=5",
+          "source": "Arab News",
           "region": "Gulf"
         }
       ]
     },
     {
-      "term": "foreign",
+      "term": "gaza",
       "count": 3,
       "headlines": [
         {
-          "title": "Coalition strike revives debate over Syria's foreign fighters",
-          "url": "https://www.newarab.com/news/coalition-strike-revives-debate-over-syrias-foreign-fighters",
+          "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
+          "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Foreign ministers of Pakistan, Saudi Arabia, Egypt and Turkey call for permanent US-Iran deal - The National",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
-          "source": "The National",
-          "region": "Gulf"
+          "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza - L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhLYno0elF5WG41STlnanN0ZGpzSEJ3R3lDUUpRSzhoN250ZkVocmx2Zk44VmY3N2xUNjVfVml3WlNTWWc0enlvNlFxXzAyaXZKTzZNbXM5RlB3MzRzVFNreWlYeTBEdnk2aUtRUE5CdnhoelplUm90YVNwb185RjB3ZVpjRFFMTGpwUXJLTjFJaUl2SXU5ZHh5MjAwRkpwd3JkZkNveEk2YU5FVGJ3bmxCRDZzNXhWNEJyX3hwVkZGaGM?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
         },
         {
-          "title": "Kuwaiti, Maldivian Foreign Ministers discuss regional, international developments | Gulf Times - Gulf Times",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGdPcFdOd2tVeUpqUzdsLTN5c2w4MF9OVlA3aU04OGJFX0VPbjF0bE9leWtDemlTWUdEUEhFZlFKZWw0SVEtSms5ckl6MFh0OE9Na1MxeWdnOVdneGhMYWFNSnZRazJYOUlOU0hfbzNURFg0NTRWbk1ERVVmTmcxcWxldG5UbEVUMXJIbEpiOGxYRzJySU1WRzNHdlRqcXpQOC1OQ0M1VmZ2UmkyaTlwWDUtNDE3MFp3T1Z1X0lwS1hRMTdxZFE00gHMAUFVX3lxTE1hd04wajlKUHN3SWNJWVVYc2NrWl9zWFdDMjFOWDROQkMzN1EzdkxFU2xneXAyeGNmNU9HYm5vc09nYnFkUWZFalpkS2lwaEZGSldsUmt4VDNGS2ZrcnNtdDZuRFU2TC1VbmM1bDE1NGl4dzNmT29RZ3lMaVJ2VTlXdEJUR1NwUEVNQmFFanRXaUpRMHkzVktKM25pQVVHcGFGZklvWHQ4SHFsWS1zbU9rS1pHRzM2YnNXck15ZmNQS0NKaVA3aVJDZnBvQQ?oc=5",
-          "source": "Gulf Times",
+          "title": "Israel escalates war in Lebanon and Gaza in challenge to US diplomatic push - The National",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelpsXy1UOUJXdkxCSlMxNk1ENTBId21naTF6U1dhUGh4WlJTYTBoX1J5RGRKbE45M0hJQlNJcHJ1NTFXSl9Rc2RQTDNtZGQ0ZVZBSDExMnZKQUJaX2U3V005MkR4Vkp1cTJybGNaMi1OZW5ScDNNcndVOXlQZF9jSHVNdDlUb3RWX055eHJ2TjRHaXJuak51OU1PTHVzOTN5MjR3M1ByODh4NFc3Y3lRTVZZc3B4UFpoSzBV?oc=5",
+          "source": "The National",
           "region": "Gulf"
         }
       ]
@@ -531,181 +711,49 @@
       ]
     },
     {
-      "term": "pakistan",
+      "term": "user",
       "count": 3,
       "headlines": [
         {
-          "title": "Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QMklTRDNZTWhjYy1fdVFOazJlTklMamUzY01kc2tCNmYwU0NYYm5OZEY5cmdLSl9EWjlPU1JqRk5GOF9RRHh6RTJ1aDZ1ajhySlBB?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "9**7699 (@user1709101460149866040) | Fars News Agency - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFT2tKVTlqWEw2bkVRc1R6SEVKdGxXSUp6Qnl5U1U2SWI0Q1RuM3VXS0pkRTBJSEJ2ZnFzUUR5dFhHWFpYMmU3dUNKMV9hNU1qS1NYSTdYRXhLbUJoNENCTA?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
         },
         {
-          "title": "Pakistan maritime agency says repatriating eight Iranian nationals rescued at sea - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzSWktQ1M1QjhscEJTbFVuYkNnc001QWZCcnJiRzhQRy1CRDY0SGZFelhOQ3d2YnR1dEk3TTU3bjd2WjBQVzR0SGtkTXNzemZsOXFj?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "9**6628 (@user1709101571251855170) | Fars News Agency - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vX0Q4NjZNaHVVQm1Vbm13LThNVnllTDg3U0wwX1k3OE1KRmt4MmEtQ2c1TERKTnVRX0ZGT3NZcjE5anB5aU1BeVJjRzJGOWQzR0gxd2UwRUFFTm5JWXIyZA?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
         },
         {
-          "title": "Foreign ministers of Pakistan, Saudi Arabia, Egypt and Turkey call for permanent US-Iran deal - The National",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
-          "source": "The National",
-          "region": "Gulf"
+          "title": "9**4736 (@user1709100472281848015) | Fars News Agency - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1b3lPUnlvV2cxQ0xzdTBvSUJiTHZjQ2l3MThXc0RnVjgxWlFudDRsdVY2ZHJUYVViOGZXMzBCZ2l3TEFsWk1DUURzTVVmMi1FSFQ2SDdYX2N2eUo3SEZfVA?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
         }
       ]
     },
     {
-      "term": "knesset",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Thwarted by Haredi intransigence, Netanyahu may push to dissolve Knesset within days",
-          "url": "https://www.timesofisrael.com/thwarted-by-haredi-intransigence-netanyahu-may-push-to-dissolve-knesset-within-days/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Knesset speaker rejects High Court call to redo tainted state comptroller vote",
-          "url": "https://www.timesofisrael.com/knesset-speaker-rejects-high-court-call-to-redo-tainted-state-comptroller-vote/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Knesset will not hold revote after PM personal lawyer elected state watchdog - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSUQ5aUZoX3hiOXBJVThMRDNfS2s5Q0kxSGpaQWpOTGl1THdENnJzajBLYTdxWnFWdS0xTU9SZXFBZk9uNXkwRHJwOTE5cjI1UzMyWk5YdHBTaWh4cDk3NHVUcFQ5bjc1ZEFCYzBrSHJrUzQtOUZabnNhVW51dHBONkpvVnV0NmRHNWExQ1R1eXRJRU84MHVoZkRDOUhXMm1aRWlTMkZfQVhmcjQ3bHhuSVlmcDlMbWxVLTZkMnNoRERMMUZZeVBjZUZPWjRPa1FoLXp3Mkw0YUl5dFZXRHdqUWdIajBPVE1XLWZMZmU5ZEowakhxcjJHdXNDb3RoZzdhTGU5Nno0SUt1ZHNKZ0d4dlJFaXRON2lkVU0tZTB5SVBMQQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "syria",
+      "term": "prime",
       "count": 2,
       "headlines": [
         {
-          "title": "Syria frees activist Hassan Akkad days after he was detained",
-          "url": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
+          "title": "Ethiopian prime minister’s party easily wins parliamentary election",
+          "url": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Syria to launch direct Damascus-Amsterdam flights in July - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SeEx6T0RGamRpVVh6UWY1R0dITUFKSXdUV1RObjVpTXk0ck9hNkpBVmNCOHZTekdSeENTOTdrWXVLbnZuTnZocXpCeUlVS0FjeGJ3?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "Prime minister unveils JD800m development programme for Zarqa - Jordan Times",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmlheEtwbkNzOE44Rm9qNHpQUDVXOHg1aUpuVS03TGVNQUdnOUVONHJhN1c5ZzJLdGNadkgtRndOZkxRWnB3RnU4TFBEUmhYNUlGMFZWZW0wRVJ4QW5jaVk4NWdSR0lmSjFlNW9mX2lKQkEyTU94eU5sTnB2eW5vdkxqem5GSVF5b2RYaHhSTENyMWFvOXBVNTJfUzY?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         }
       ]
     },
     {
-      "term": "activist",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Syria frees activist Hassan Akkad days after he was detained",
-          "url": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "British-Syrian activist Hassan Akkad released in Damascus",
-          "url": "https://www.newarab.com/news/british-syrian-activist-hassan-akkad-released-damascus",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "hassan",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Syria frees activist Hassan Akkad days after he was detained",
-          "url": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "British-Syrian activist Hassan Akkad released in Damascus",
-          "url": "https://www.newarab.com/news/british-syrian-activist-hassan-akkad-released-damascus",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "akkad",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Syria frees activist Hassan Akkad days after he was detained",
-          "url": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "British-Syrian activist Hassan Akkad released in Damascus",
-          "url": "https://www.newarab.com/news/british-syrian-activist-hassan-akkad-released-damascus",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "days",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Syria frees activist Hassan Akkad days after he was detained",
-          "url": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Thwarted by Haredi intransigence, Netanyahu may push to dissolve Knesset within days",
-          "url": "https://www.timesofisrael.com/thwarted-by-haredi-intransigence-netanyahu-may-push-to-dissolve-knesset-within-days/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "mbappe",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Mbappe, France play Iraq in World Cup match: prediction, team news, lineups",
-          "url": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Messi, Ronaldo or Mbappe: Who will win the 2026 FIFA World Cup Golden Boot? - Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTM0Wms5QXBTaFc2MGNoMGp2WmpRcW5BZzkyb1MyVHd5bWlyRWw5OXh5M21BQWloYWZoX3hJRGtfLVFSTGd5TnpjTEpaSmQ0UlFzWWlYMzNmOXAySzMzV3FNbkVyNVRhMmNwNF9xaTNHbzQzcFBlYmlsNnhLRFQzd0Q3dG9JVk5QQzFzUG5IQUhIbC1ON01lNEdLajBsaDB5NlVzQmxEV2xGVTNZeXc3SmtmQ0NPZjFpTmNucVZhVlZ6UdIBwgFBVV95cUxPbTM0Wms5QXBTaFc2MGNoMGp2WmpRcW5BZzkyb1MyVHd5bWlyRWw5OXh5M21BQWloYWZoX3hJRGtfLVFSTGd5TnpjTEpaSmQ0UlFzWWlYMzNmOXAySzMzV3FNbkVyNVRhMmNwNF9xaTNHbzQzcFBlYmlsNnhLRFQzd0Q3dG9JVk5QQzFzUG5IQUhIbC1ON01lNEdLajBsaDB5NlVzQmxEV2xGVTNZeXc3SmtmQ0NPZjFpTmNucVZhVlZ6UQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "iraq",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Mbappe, France play Iraq in World Cup match: prediction, team news, lineups",
-          "url": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraq in transition: Baghdad pushes weapons monopoly amid reforms - analysis",
-          "url": "https://www.jpost.com/middle-east/article-900068",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "chief",
+      "term": "rejects",
       "count": 2,
       "headlines": [
         {
@@ -715,10 +763,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Hezbollah chief says would respond to any violation from Israel",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-would-respond-any-violation-israel",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza - L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhLYno0elF5WG41STlnanN0ZGpzSEJ3R3lDUUpRSzhoN250ZkVocmx2Zk44VmY3N2xUNjVfVml3WlNTWWc0enlvNlFxXzAyaXZKTzZNbXM5RlB3MzRzVFNreWlYeTBEdnk2aUtRUE5CdnhoelplUm90YVNwb185RjB3ZVpjRFFMTGpwUXJLTjFJaUl2SXU5ZHh5MjAwRkpwd3JkZkNveEk2YU5FVGJ3bmxCRDZzNXhWNEJyX3hwVkZGaGM?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
         }
       ]
     },
@@ -736,6 +784,24 @@
           "title": "Jordan hangs 6 for killing security personnel after 9-year pause in death penalties",
           "url": "https://www.timesofisrael.com/jordan-hangs-6-for-killing-security-personnel-after-9-year-pause-in-death-penalties/",
           "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "zone",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hezbollah chief Naim Qassem demands Israel withdraw from Lebanon, says 'no safe zone' for IDF",
+          "url": "https://www.jpost.com/middle-east/article-900071",
+          "source": "Jerusalem Post",
           "region": "Israel"
         }
       ]
@@ -777,6 +843,24 @@
       ]
     },
     {
+      "term": "state",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran state media says nuclear programme not discussed in US talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-state-media-says-nuclear-programme-not-discussed-us-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Knesset will not hold revote after PM personal lawyer elected state watchdog - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSUQ5aUZoX3hiOXBJVThMRDNfS2s5Q0kxSGpaQWpOTGl1THdENnJzajBLYTdxWnFWdS0xTU9SZXFBZk9uNXkwRHJwOTE5cjI1UzMyWk5YdHBTaWh4cDk3NHVUcFQ5bjc1ZEFCYzBrSHJrUzQtOUZabnNhVW51dHBONkpvVnV0NmRHNWExQ1R1eXRJRU84MHVoZkRDOUhXMm1aRWlTMkZfQVhmcjQ3bHhuSVlmcDlMbWxVLTZkMnNoRERMMUZZeVBjZUZPWjRPa1FoLXp3Mkw0YUl5dFZXRHdqUWdIajBPVE1XLWZMZmU5ZEowakhxcjJHdXNDb3RoZzdhTGU5Nno0SUt1ZHNKZ0d4dlJFaXRON2lkVU0tZTB5SVBMQQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "nuclear",
       "count": 2,
       "headlines": [
@@ -790,6 +874,24 @@
           "title": "What Washington wants from fresh Iran talks on nuclear programme, Hormuz and Hezbollah - Gulf News",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaURyR3hYNnd0SldyVEpfXzRzU0xtLU1SN21Uc1hFUjJuRXVpQ0gxeEFLMDJCcEJKSmQxWHp4WXlFWFBxN0V1bXhqM3FpVFNRLW5JOWlMa0FHYXh4b05abVJvekNMdEZRNjNWUHJwNU5samhJY0RQSlRyZ09QOXNYQTRxaVZjYjZETXZMbXFHLXBPUHRnYTUyX0dNTU10QVBkR0s0eGJUYnk3U2JfTGtEdUhiV19YT2JzS0hCRlZvcmhZMlZCUzdteNIB2wFBVV95cUxOQmp4LWdyNjFXcDhJVHNrSnVGZWNNb2gtTy0wSVNBUVV6LU44dTRzSmtacXFNYVJLZHZXdVNzU2tpeHZDMHZRcmFZUEZIU01vU3J3N3RyZmhlU3p3V2tmOVQ0UC0yTHZsa3Z4SEU4NEFWWG1nV28wUklNOEk3b2JMN2d1dXFtQ2k2Y0l4dTF0dUlxQ252U19VZlhYTXhfaGZJcmlrLWpGSFMwNmUyejUzVlMtSkppQlEzYVRIWlVQZHE2NldNVzNOajBSYUk4S3NrVEw4YVkyMHAyclk?oc=5",
           "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "army",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli army chief says Hezbollah in ‘difficult position’ in visit to south Lebanon - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2otenBPNDRkdGV2cEk2dk9xMVpLeU1uSmFqN0QzalI0ZGpxamxYVHVWNk80QkZNODBoTThGaDdNZUt1YS13Q2dMd2l5Y3dwUVNMNlhSY1REcGFtSzF0UklRSUhaVG44UUdkTUt1blRUM0Z4Vjl2VFdwLVFjMk9tQ3N0c0N3eFpMOUh2NU5na3F5bm9tanpVZkFMaU1GenFPZWEtNWhDOVlVYm5sWERzUzFfXzdVdVpFNDVNZEFXUmZxaDVCVngzb0ZRNzFlWWNTeEJ5VU1R0gHbAUFVX3lxTE5WdDROTjlvRWdWRFRJTFZ1TnFQUkN1ZHEyWjNEVFI2d1R4aGZxZXJ6MUQ2YUx4R0JOZXJoRTF1Z3VORXQ4aVdFNVdrbUx5RERjdkJQakhHT2ZXbF92TElQa1pGbmUtRWYxWTNHRUo2ZDVXX1R4NWpwMG50VEp2LTlVazVTVXRoRHhxU1RRN3JPaTFkNVJoZXprazBBNU40UF81czEySXZxZkl6cWh5TEJVR1BBWjhUNGk1a05Ja1Bqb1NSMEFXOFhSZ2tXZmdTUTIzeEFmSVdhb3JVYw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance jokes he speaks more to Pakistan’s army chief than his wife - The National",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTcyNUJ4aUt2Sll1Y0NkTDAtTjVBZ1JMa21Hc2JGd0JIR09aZVhDdWlsVTNRa1pQUTJkU3VpTUhhcEJSejdhaUxNSXJ2U05RaWlvdE5mdHBsamtkTFhMOGVZYjNnRTFBakxqNTVHbkJqU0dBUGRTQXVMMnVpcjdELV9lUVJBVERaWW9sVVYwVDhUaEhiNy1UUzRqS204Q0VWSWpFQlNRMUtFSWdRY2RxRE1B?oc=5",
+          "source": "The National",
           "region": "Gulf"
         }
       ]
@@ -813,43 +915,7 @@
       ]
     },
     {
-      "term": "vance",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Vance hopes US, Iran can turn the page at ‘historic’ talks - Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVZoM2E0aU5KbUxnYUtOTTFJelRsQTBjNW9oQW9QaWFhNlR5bjhleUc5OUxPSzhUZTdPUGNyc1htTUU3Z2tuZTZaLURBWUotQndMZ2N6RWliQUhITWZxb0dCRy0yYVRxZHF4RVp1WHhXdmVONERRYVpXN2Y1aFlrdElfbFBjbEZEYWFHOVZQbTdMSlNSeWdjOGxSN3hnOVV5a3RjNENtaXhpdEJES1h6OEpaa9IBuAFBVV95cUxNajY2RGx5WjZ3Vm1mMXZFSmtkZlI4UFVEMmhEWk1WdVZGTDRXc3A4dDZLcktmdmJQczlHT1Jfak1BcXJFejRpOW1udGw0VERWSFdBS29PMkhYMDBHUE9jTmJoUFpvbUhLc2Q1WnVXbnVlTUtzS0lyQ3NJT19KaVlsenhZcDJ5TTJIWnlUMi10ZHMzWmp1MEFkVzNPNHR2ak1obElMb3ZSSWRPaGxkVWxuT1dISGo3UXNz?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Vance hopes US, Iran can turn the page at 'historic' talks",
-          "url": "https://www.newarab.com/news/vance-hopes-us-iran-can-turn-page-historic-talks",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
       "term": "page",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Vance hopes US, Iran can turn the page at ‘historic’ talks - Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVZoM2E0aU5KbUxnYUtOTTFJelRsQTBjNW9oQW9QaWFhNlR5bjhleUc5OUxPSzhUZTdPUGNyc1htTUU3Z2tuZTZaLURBWUotQndMZ2N6RWliQUhITWZxb0dCRy0yYVRxZHF4RVp1WHhXdmVONERRYVpXN2Y1aFlrdElfbFBjbEZEYWFHOVZQbTdMSlNSeWdjOGxSN3hnOVV5a3RjNENtaXhpdEJES1h6OEpaa9IBuAFBVV95cUxNajY2RGx5WjZ3Vm1mMXZFSmtkZlI4UFVEMmhEWk1WdVZGTDRXc3A4dDZLcktmdmJQczlHT1Jfak1BcXJFejRpOW1udGw0VERWSFdBS29PMkhYMDBHUE9jTmJoUFpvbUhLc2Q1WnVXbnVlTUtzS0lyQ3NJT19KaVlsenhZcDJ5TTJIWnlUMi10ZHMzWmp1MEFkVzNPNHR2ak1obElMb3ZSSWRPaGxkVWxuT1dISGo3UXNz?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Vance hopes US, Iran can turn the page at 'historic' talks",
-          "url": "https://www.newarab.com/news/vance-hopes-us-iran-can-turn-page-historic-talks",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "historic",
       "count": 2,
       "headlines": [
         {
@@ -885,42 +951,6 @@
       ]
     },
     {
-      "term": "regional",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Regional envoys push for swift progress in US-Iran talks - Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXBuclM2ZlZqX291YlRBbFhaak03WjJDb20xdGI2aldOckVramZoM2FDV0VOZ2kyRjB0YkVhUmx0Vks0bTVKRXJuQVgtdU5kZ0dBSVBpcGowYjJpY1BkNnh3VlllYkdNMXV2dVRsRVNEMVdsSF9SYzNKbktfUVAtRFBRTDFlV01yalJEeGJwcmJqblZyV2ZyR1NJODhQblVaMXctZG8yeHNKelVSbVhBaDZONnN1TGZU0gG4AUFVX3lxTE1xcG5yUzZmVmpfb3ViVEFsWFpqTTdaMkNvbTF0YjZqV05yRWtqZmgzYUNXRU5naTJGMHRiRWFSbHRWSzRtNUpFcm5BWC11TmRnR0FJUGlwajBiMmljUGQ2eHdWWWViR00xdXZ1VGxFU0QxV2xIX1JjM0puS19RUC1EUFFMMWVXTXJqUkR4YnByYmpuVnJXZnJHU0k4OFBuVVoxdy1kbzJ4c0p6VVJtWEFoNk42c3VMZlQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Kuwaiti, Maldivian Foreign Ministers discuss regional, international developments | Gulf Times - Gulf Times",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGdPcFdOd2tVeUpqUzdsLTN5c2w4MF9OVlA3aU04OGJFX0VPbjF0bE9leWtDemlTWUdEUEhFZlFKZWw0SVEtSms5ckl6MFh0OE9Na1MxeWdnOVdneGhMYWFNSnZRazJYOUlOU0hfbzNURFg0NTRWbk1ERVVmTmcxcWxldG5UbEVUMXJIbEpiOGxYRzJySU1WRzNHdlRqcXpQOC1OQ0M1VmZ2UmkyaTlwWDUtNDE3MFp3T1Z1X0lwS1hRMTdxZFE00gHMAUFVX3lxTE1hd04wajlKUHN3SWNJWVVYc2NrWl9zWFdDMjFOWDROQkMzN1EzdkxFU2xneXAyeGNmNU9HYm5vc09nYnFkUWZFalpkS2lwaEZGSldsUmt4VDNGS2ZrcnNtdDZuRFU2TC1VbmM1bDE1NGl4dzNmT29RZ3lMaVJ2VTlXdEJUR1NwUEVNQmFFanRXaUpRMHkzVktKM25pQVVHcGFGZklvWHQ4SHFsWS1zbU9rS1pHRzM2YnNXck15ZmNQS0NKaVA3aVJDZnBvQQ?oc=5",
-          "source": "Gulf Times",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "push",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Regional envoys push for swift progress in US-Iran talks - Al Arabiya English",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXBuclM2ZlZqX291YlRBbFhaak03WjJDb20xdGI2aldOckVramZoM2FDV0VOZ2kyRjB0YkVhUmx0Vks0bTVKRXJuQVgtdU5kZ0dBSVBpcGowYjJpY1BkNnh3VlllYkdNMXV2dVRsRVNEMVdsSF9SYzNKbktfUVAtRFBRTDFlV01yalJEeGJwcmJqblZyV2ZyR1NJODhQblVaMXctZG8yeHNKelVSbVhBaDZONnN1TGZU0gG4AUFVX3lxTE1xcG5yUzZmVmpfb3ViVEFsWFpqTTdaMkNvbTF0YjZqV05yRWtqZmgzYUNXRU5naTJGMHRiRWFSbHRWSzRtNUpFcm5BWC11TmRnR0FJUGlwajBiMmljUGQ2eHdWWWViR00xdXZ1VGxFU0QxV2xIX1JjM0puS19RUC1EUFFMMWVXTXJqUkR4YnByYmpuVnJXZnJHU0k4OFBuVVoxdy1kbzJ4c0p6VVJtWEFoNk42c3VMZlQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Thwarted by Haredi intransigence, Netanyahu may push to dissolve Knesset within days",
-          "url": "https://www.timesofisrael.com/thwarted-by-haredi-intransigence-netanyahu-may-push-to-dissolve-knesset-within-days/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "including",
       "count": 2,
       "headlines": [
@@ -934,24 +964,6 @@
           "title": "Karnak Temples to witness rare solar alignments for summer solstice",
           "url": "https://www.egyptindependent.com/karnak-temples-to-witness-rare-solar-alignments-for-summer-solstice/",
           "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "gaza",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
-          "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza - L'Orient Today",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhLYno0elF5WG41STlnanN0ZGpzSEJ3R3lDUUpRSzhoN250ZkVocmx2Zk44VmY3N2xUNjVfVml3WlNTWWc0enlvNlFxXzAyaXZKTzZNbXM5RlB3MzRzVFNreWlYeTBEdnk2aUtRUE5CdnhoelplUm90YVNwb185RjB3ZVpjRFFMTGpwUXJLTjFJaUl2SXU5ZHh5MjAwRkpwd3JkZkNveEk2YU5FVGJ3bmxCRDZzNXhWNEJyX3hwVkZGaGM?oc=5",
-          "source": "L'Orient Today",
           "region": "Levant"
         }
       ]
@@ -975,7 +987,7 @@
       ]
     },
     {
-      "term": "debate",
+      "term": "foreign",
       "count": 2,
       "headlines": [
         {
@@ -985,10 +997,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "In Beirut, a Night of Ideas makes the case for poetry over debate - L'Orient Today",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWlOOEJmZ3Jrc0lvdkhZR3R2TG04SjcwSU9BLUtwbEk4bGhXUWt5b25CVENXcFM5U2ppQkhrWncyUEQzQ2lxcmVaU3JmUWNKbGlWcHE5RWhWaURHYmhLdVFTTEFXTllrbHBoYzZlaG9zTllkMUluSXFvZXQtdm5hUnpmQVdyaTBjSnZham9kNlRkN2ROYmxGcGhyQlpSVUM4ZldzV3AzektpeTh3cUlyd3lXRC1iUW5t?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Foreign ministers of Pakistan, Saudi Arabia, Egypt and Turkey call for permanent US-Iran deal - The National",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
+          "source": "The National",
+          "region": "Gulf"
         }
       ]
     },
@@ -1173,20 +1185,20 @@
       ]
     },
     {
-      "term": "ongoing",
+      "term": "killed",
       "count": 2,
       "headlines": [
         {
-          "title": "Joumblatt calls for opening of new shelters for displaced people - L'Orient Today",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnFiX3FkSkl6RFdINE1HM1ZRUVlrWmprdDFFckNpVmxDcUd3a01RQ1haMmJjYTFSN25DeGZGdXZ6MDhKaFA3SzZFd1hVUldtWnoyb0xxLTNZeHRXbzFfSDJ5cWU1allEVEJqUUswemhpLTJibVNSODE3TWdMZzdoeUdHQXFFZ2dJby1KMjVRVEZTaHp6LTBVNTRFZ2FQQ1lmaUU4dDY2WE5sTUc2VEdVemxPYTlRUW1j?oc=5",
+          "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza - L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhLYno0elF5WG41STlnanN0ZGpzSEJ3R3lDUUpRSzhoN250ZkVocmx2Zk44VmY3N2xUNjVfVml3WlNTWWc0enlvNlFxXzAyaXZKTzZNbXM5RlB3MzRzVFNreWlYeTBEdnk2aUtRUE5CdnhoelplUm90YVNwb185RjB3ZVpjRFFMTGpwUXJLTjFJaUl2SXU5ZHh5MjAwRkpwd3JkZkNveEk2YU5FVGJ3bmxCRDZzNXhWNEJyX3hwVkZGaGM?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "Consultative sessions on National Human Rights Action Plan continue | Gulf Times - Gulf Times",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGNDZmcwN1lhTTlYUndFcm5sSUxIQVpGaVlPajBOWU10T3RoY3ZBbXZxZTFBWWNOY29ZTGNXQXJ0VzdUX1pDQWxvV2pDYTJ3cDlqc2o5YUc0QTBnd2s0RGxJWHR3SmMyOVpYcWtPTlk3ZllLRFc3QUNoMVZ4VU9FUEFRVExzWWZid3dqeFFBeC0xWTRtd1BTUEltU21nMGlmcjg3NjRmTDdka2JxXzhZMnFCSlVrZ9IBuwFBVV95cUxQdFhGWXNqaFA1T2pMZ0xXZjJwQnFscVhKMWZnY0lWWldFSmRlOHJOeDFYRTU4Xy0xeTZBTWFuM1lldWxaYzRyVEZVYW1OekpITVpyU3dnV0owdnRhWTdTX242R3lVaFBWTzUyZDNkaTVwcWFhOUpNTFc0RHBsdHdjcHpIeEs4amREckxrS3NUYVZQVTNrdmdnTDhhWGgtbUJPUVhOZVhZUUhhY1lXY0cxcW5WLUwydDBoLU00?oc=5",
-          "source": "Gulf Times",
-          "region": "Gulf"
+          "title": "IDF chief Zamir visits with family of Armored Corps officer killed by Hezbollah in s. Lebanon",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900074",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     },
@@ -1317,19 +1329,109 @@
       ]
     },
     {
-      "term": "launch",
+      "term": "family",
       "count": 2,
       "headlines": [
         {
-          "title": "Syria to launch direct Damascus-Amsterdam flights in July - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SeEx6T0RGamRpVVh6UWY1R0dITUFKSXdUV1RObjVpTXk0ck9hNkpBVmNCOHZTekdSeENTOTdrWXVLbnZuTnZocXpCeUlVS0FjeGJ3?oc=5",
+          "title": "«ألبانيا ليست للبيع»... غضب عارم من مشروع سياحي لعائلة ترامب - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOMmJQQ2RXY3AyaHlTZzNTeEtGZnk3eGV0MThnNEcyWnUzQzFFYnNuZ21rcFZXaHhmV3dRNGd4S1NiMVJfQWpoWHZkclRPUXNHUVd1QVI5R1Zqa3FvaVZjQ3lPRlVyRERSTEhKWER6OVUtTlZFYnM1UEVMREdCT3JrTXQ3NVF6cHpBRUdCeGpqSzVuQTMzNDM4OEdMa21PZng2b01Id055LUppOXZQak1nR2s4bDNFdTZMUkUxY1IyWWY2X0s1Tm1qT2hQcGpkZkFab2dNRm5XVDMwQzhBT0s4X3hMejY0Y1JpVHdrQzlCWEpKQkVaQ2Izc1djbUVYWkV1dGtxT1ljQTFfdGkwOTVrM0Y1X09tYkIzaEN3SlcyTUY3WFd6Qk4xLXY3SlVRaXA4ak9McWpReE5CRm1VcnI0VG1ZN2MtTTNDWkNINFI2REwyRFpBUEdjZnNvV1dQY0RYMHRTMU1DVm92VHI2WDNYeDVwaTh3d2VhMUdnNGg4Uzh2Ym5PZlQxY2plaF9LYWdoNFBfZGNxU05UTzBIWnBlaTNhMWs4eXh1TXJqaldHX0RBay1hbXBJcDAtdmlRaFpIYzZCeVhjcjN1ZDRIRFJRVkVnTFBGN2lIYWc?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "IDF chief Zamir visits with family of Armored Corps officer killed by Hezbollah in s. Lebanon",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900074",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "diplomatic",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Frankly Speaking: Is the Middle East at a diplomatic turning point? - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Xa2FfS2xDN1dMeWhoRmtWVmpoeDFpZURCZkU3Qm1MZVpGWjc2UzBIbHBoMzFTb25MY0ZBcHZFWlVqUkRCOVFKMUFOOFQtZHU2TFpZ?oc=5",
           "source": "Arab News",
           "region": "Gulf"
         },
         {
-          "title": "IDF captures Hezbollah drone factory and launch site hidden inside south Lebanon mountain",
-          "url": "https://www.timesofisrael.com/idf-captures-hezbollah-drone-factory-and-launch-site-hidden-inside-south-lebanon-mountain/",
-          "source": "Times of Israel",
+          "title": "Israel escalates war in Lebanon and Gaza in challenge to US diplomatic push - The National",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelpsXy1UOUJXdkxCSlMxNk1ENTBId21naTF6U1dhUGh4WlJTYTBoX1J5RGRKbE45M0hJQlNJcHJ1NTFXSl9Rc2RQTDNtZGQ0ZVZBSDExMnZKQUJaX2U3V005MkR4Vkp1cTJybGNaMi1OZW5ScDNNcndVOXlQZF9jSHVNdDlUb3RWX055eHJ2TjRHaXJuak51OU1PTHVzOTN5MjR3M1ByODh4NFc3Y3lRTVZZc3B4UFpoSzBV?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "saudi",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QMklTRDNZTWhjYy1fdVFOazJlTklMamUzY01kc2tCNmYwU0NYYm5OZEY5cmdLSl9EWjlPU1JqRk5GOF9RRHh6RTJ1aDZ1ajhySlBB?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Foreign ministers of Pakistan, Saudi Arabia, Egypt and Turkey call for permanent US-Iran deal - The National",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "arabia",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QMklTRDNZTWhjYy1fdVFOazJlTklMamUzY01kc2tCNmYwU0NYYm5OZEY5cmdLSl9EWjlPU1JqRk5GOF9RRHh6RTJ1aDZ1ajhySlBB?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Foreign ministers of Pakistan, Saudi Arabia, Egypt and Turkey call for permanent US-Iran deal - The National",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "us-iran",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Saudi Arabia, Egypt, Pakistan and Turkiye back US-Iran talks at Cairo meeting - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QMklTRDNZTWhjYy1fdVFOazJlTklMamUzY01kc2tCNmYwU0NYYm5OZEY5cmdLSl9EWjlPU1JqRk5GOF9RRHh6RTJ1aDZ1ajhySlBB?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Foreign ministers of Pakistan, Saudi Arabia, Egypt and Turkey call for permanent US-Iran deal - The National",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUEtc2F5TWhFX2E3blZMV04wTHVnbkk0UWFZWU1EWkxsMUdvUW5GSG1TOWI1Z0EwWGZKQUR1b2REQ2M1TnUwMmFaZUo5VWxjSzhmNFJfOXdqUjFWQy0zTGpxd3h3Q2xmbXBlRi1yV2hzLUdjWHlyMlh5bWRscGx1QlYzMllMOWVWNncyOG81Nk5yOHQ1MDRLbmVvT0ZIWlVOc1RnZFQzTU1MZUkzc0pUM2ZWUlg1ODduVkFHXzJKdE9xTDdkenVzbU5SVnBJQ3VUaHlIdkE1U2h6Q3l0VFE?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "iranian",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Pakistan maritime agency says repatriating eight Iranian nationals rescued at sea - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzSWktQ1M1QjhscEJTbFVuYkNnc001QWZCcnJiRzhQRy1CRDY0SGZFelhOQ3d2YnR1dEk3TTU3bjd2WjBQVzR0SGtkTXNzemZsOXFj?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iranian lawmaker sparks legal storm after revealing Khamenei letters on US deal",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900072",
+          "source": "Jerusalem Post",
           "region": "Israel"
         }
       ]
