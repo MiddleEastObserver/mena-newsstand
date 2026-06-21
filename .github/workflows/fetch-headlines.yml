@@ -2,24 +2,19 @@ name: MENA Newsstand
 
 # WHAT THIS WORKFLOW DOES (plain English)
 # =========================================
-# This file tells GitHub how to keep the site updated automatically.
-# It runs the Python scripts in the scripts/ folder on a schedule and
-# commits the results back to the repo so the website always shows fresh data.
+# EVERY RUN (every 30 minutes via cron-job.org):
+#   - scripts/fetch_headlines.py  → refreshes headlines.json
 #
-# WHAT RUNS EVERY 30 MINUTES (every run):
-#   - scripts/fetch_headlines.py → reads the 16 RSS feeds and writes
-#     headlines.json, which the website loads to show the Headlines tab.
+# EVERY 6 HOURS (first run crossing 00:00 / 06:00 / 12:00 / 18:00 Israel time):
+#   - scripts/build_briefing.py   → fetches world feeds + MENA headlines,
+#                                   calls Gemini, writes briefing.json
+#   - scripts/send_email.py       → sends the digest email (if secrets set)
 #
-# WHAT RUNS ONCE A DAY AT ~7 AM ISRAEL TIME (morning run only):
-#   - scripts/fetch_frontpages.py → downloads today's newspaper front-page
-#     images and saves them under frontpages/. The website shows these images
-#     on the Front Pages tab.
-#   - scripts/send_email.py → sends the morning email digest (only if you
-#     have set up the EMAIL_FROM / EMAIL_TO / EMAIL_PASSWORD secrets).
+# ONCE A DAY at ~07:00 Israel time (morning):
+#   - scripts/fetch_frontpages.py → downloads today's newspaper cover images
 #
-# WHAT RUNS ONCE A DAY AT ~2 PM ISRAEL TIME (afternoon run only):
-#   - scripts/fetch_frontpages.py again → updates the front-page images a
-#     second time to catch later editions published after the morning run.
+# ONCE A DAY at ~14:00 Israel time (afternoon):
+#   - scripts/fetch_frontpages.py → re-downloads to catch later editions
 #
 # HOW THE 30-MINUTE SCHEDULE WORKS
 # ==================================
@@ -29,10 +24,9 @@ name: MENA Newsstand
 # like clockwork. The schedule lines below are just a backup in case that
 # external service ever has a problem.
 #
-# The once-a-day routines (front pages, email) use scripts/plan_run.py as a
-# gatekeeper: it checks the current time in Israel and a small file called
-# state/daily.json to make sure each daily task runs exactly once — even if
-# the 7 AM trigger fires a bit late.
+# scripts/plan_run.py acts as a gatekeeper: it checks the current time in
+# Israel and state/daily.json to make sure each timed task runs exactly once
+# per slot — even if the trigger fires a bit late.
 
 on:
   schedule:
@@ -51,7 +45,7 @@ on:
 permissions:
   contents: write
 
-# Serialise runs so the 30-min and daily jobs never race on git push.
+# Serialise runs so concurrent jobs never race on git push.
 concurrency:
   group: newsstand-data
   cancel-in-progress: false
@@ -60,8 +54,8 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      EMAIL_FROM:     ${{ secrets.EMAIL_FROM }}
+      EMAIL_TO:       ${{ secrets.EMAIL_TO }}
       EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
@@ -78,18 +72,24 @@ jobs:
       - name: Install dependencies
         run: pip install --no-cache-dir -r requirements.txt
 
-      - name: Plan the run (daily email + front pages, off the reliable heartbeat)
+      - name: Plan the run
         env:
-          FORCE_EMAIL: ${{ github.event.inputs.send_email }}
-          FORCE_FRONTPAGES: ${{ github.event.inputs.refresh_frontpages }}
+          FORCE_EMAIL:       ${{ github.event.inputs.send_email }}
+          FORCE_FRONTPAGES:  ${{ github.event.inputs.refresh_frontpages }}
         run: python scripts/plan_run.py
 
       - name: Fetch headlines
         run: python scripts/fetch_headlines.py
 
-      # continue-on-error: a bad day at the cover CDNs must never block the
-      # headlines refresh or the morning email. The script already exits 0 on
-      # partial failure; this guards against an unexpected crash too.
+      # Build the world briefing every 6 hours. continue-on-error so a Gemini
+      # quota or network hiccup never blocks the headlines commit or email.
+      - name: Build world briefing
+        if: ${{ env.DO_BRIEFING == 'true' }}
+        continue-on-error: true
+        run: python scripts/build_briefing.py
+
+      # Front-page images: downloaded on morning + afternoon runs only.
+      # continue-on-error: a CDN outage must never block headlines or email.
       - name: Fetch front pages
         if: ${{ env.DO_FRONTPAGES == 'true' }}
         continue-on-error: true
@@ -99,10 +99,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # frontpages/ only changes on full runs; state/daily.json only changes
-          # when a daily routine is claimed. Never let a missing pathspec fail
-          # the headlines-only (every-30-min) commit.
           git add headlines.json state/daily.json
+          git add briefing.json 2>/dev/null || true
           git add frontpages 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nothing changed — skipping commit."
@@ -116,8 +114,8 @@ jobs:
             done
           fi
 
-      # always(): the digest must go out even if the front-page or push step
-      # had trouble, as long as this is a full run and the secrets are set.
+      # Send email after the commit so it links to the freshest data. always()
+      # means it runs even if the front-page or push step had trouble.
       - name: Send email digest
         if: ${{ always() && env.DO_EMAIL == 'true' && env.EMAIL_FROM != '' }}
         run: python scripts/send_email.py
@@ -127,4 +125,4 @@ jobs:
         run: |
           echo "::warning::Email digest skipped — EMAIL_FROM/EMAIL_TO/EMAIL_PASSWORD"
           echo "repository secrets are not set. Add them under Settings →"
-          echo "Secrets and variables → Actions for the morning email to send."
+          echo "Secrets and variables → Actions for the digest emails to send."

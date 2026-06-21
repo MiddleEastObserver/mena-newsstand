@@ -1,0 +1,176 @@
+#!/usr/bin/env python3
+"""Synthesises a global world-affairs briefing and writes briefing.json.
+
+Run every 6 hours by the workflow (when DO_BRIEFING=true). The briefing
+covers the full global picture — great-power politics, wars, the economy —
+and treats the Middle East as one part of the world order, not the focus.
+
+Output (briefing.json):
+  { "updated": "<ISO>", "html": "<p>...</p>…", "model": "<model-id>" }
+
+send_email.py reads this file rather than calling the API a second time.
+index.html loads it directly to show the in-page world briefing.
+"""
+import html as html_lib
+import json
+import os
+import re
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+
+REGION_ORDER = ["Pan-Arab", "Levant", "Gulf", "Israel"]
+GEMINI_MODEL = "gemini-2.5-flash"
+BRIEFING_WORDS = "350-500"
+
+# Major international feeds that ground the briefing in today's world news.
+WORLD_FEEDS = [
+    ("BBC World",        "http://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("The Guardian",     "https://www.theguardian.com/world/rss"),
+    ("NPR World",        "https://feeds.npr.org/1004/rss.xml"),
+    ("France 24",        "https://www.france24.com/en/rss"),
+    ("Deutsche Welle",   "https://rss.dw.com/rdf/rss-en-world"),
+    ("Reuters",          "https://feeds.reuters.com/reuters/worldNews"),
+    ("Google News Top",
+     "https://news.google.com/rss/headlines/section/topic/WORLD"
+     "?hl=en-US&gl=US&ceid=US:en"),
+]
+WORLD_PER_FEED = 8
+
+OUT_PATH    = Path(__file__).parent.parent / "briefing.json"
+HL_PATH     = Path(__file__).parent.parent / "headlines.json"
+
+
+def _para_to_html(text: str) -> str:
+    """Convert plain-text paragraphs with **bold** lead-ins to safe HTML."""
+    paras = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    out = []
+    for p in paras:
+        safe = html_lib.escape(p)
+        safe = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", safe)
+        safe = safe.replace("\n", "<br>")
+        out.append(f"<p>{safe}</p>")
+    return "\n".join(out)
+
+
+def fetch_world_lines() -> list[str]:
+    """Pull today's top stories from major international RSS feeds."""
+    try:
+        import requests
+        from fetch_headlines import fresh_items, parse_feed
+    except Exception as exc:
+        print(f"World-feed helpers unavailable ({exc})", file=sys.stderr)
+        return []
+
+    session = requests.Session()
+    lines, seen = [], set()
+    for name, url in WORLD_FEEDS:
+        items = parse_feed(session, url, None) or []
+        for it in (fresh_items(items, name) or items[:WORLD_PER_FEED])[:WORLD_PER_FEED]:
+            title = (it.get("title") or "").strip()
+            key = title.lower()
+            if not title or key in seen:
+                continue
+            seen.add(key)
+            entry = f"[World · {name}] {title}"
+            desc = (it.get("description") or "").strip()
+            if desc:
+                entry += f" — {desc}"
+            lines.append(entry)
+    print(f"Collected {len(lines)} world headlines from {len(WORLD_FEEDS)} feeds")
+    return lines
+
+
+def fetch_mena_lines() -> list[str]:
+    """Pull today's MENA headlines + snippets from headlines.json."""
+    try:
+        data = json.loads(HL_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    lines = []
+    for region in REGION_ORDER:
+        for outlet in data.get("regions", {}).get(region, []):
+            for h in outlet.get("headlines", []):
+                title = (h.get("title") or "").strip()
+                if not title:
+                    continue
+                entry = f"[{region} · {outlet.get('source', '')}] {title}"
+                snip = (h.get("snippet") or "").strip()
+                if snip:
+                    entry += f" — {snip}"
+                lines.append(entry)
+    return lines
+
+
+def build_prompt(world: list[str], mena: list[str]) -> str:
+    return (
+        "You are the editor of a daily world-affairs intelligence briefing. "
+        "Below are today's headlines from major international outlets, followed "
+        "by Middle East & North Africa headlines.\n\n"
+        "Write a cohesive GLOBAL briefing for a well-informed reader:\n"
+        "- Lead with the single biggest development shaping the world order today, "
+        "in 1-2 sentences.\n"
+        "- Then 5-7 short paragraphs covering the day's most consequential global "
+        "stories: great-power politics (US, China, Russia/Ukraine, Europe), wars "
+        "and security, the global economy and markets, and other major world events.\n"
+        "- Treat the Middle East as ONE part of the global picture — include MENA "
+        "stories only when they rank among the day's most consequential worldwide.\n"
+        "- Synthesize across outlets; note where framing diverges when relevant.\n"
+        "- Stay factual and grounded STRICTLY in the material provided; never "
+        "invent facts, figures, or attributions that are not in the headlines.\n"
+        "- Begin each paragraph with a short bold lead-in in **double asterisks** "
+        "(e.g. **Russia-Ukraine:**).\n"
+        f"- Aim for {BRIEFING_WORDS} words. Return plain text only — no headings, "
+        "no bullet lists.\n\n"
+        "WORLD HEADLINES:\n" + "\n".join(world or ["(none available)"]) +
+        "\n\nMIDDLE EAST & NORTH AFRICA HEADLINES:\n" +
+        "\n".join(mena or ["(none available)"])
+    )
+
+
+def main():
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("GEMINI_API_KEY not set — skipping briefing", file=sys.stderr)
+        sys.exit(0)
+
+    try:
+        from google import genai
+    except ImportError:
+        print("google-genai not installed — skipping briefing", file=sys.stderr)
+        sys.exit(0)
+
+    world = fetch_world_lines()
+    mena  = fetch_mena_lines()
+
+    if not world and not mena:
+        print("No headlines available — skipping briefing", file=sys.stderr)
+        sys.exit(0)
+
+    prompt = build_prompt(world, mena)
+
+    try:
+        client = genai.Client(api_key=api_key)
+        resp   = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+        text   = (resp.text or "").strip()
+    except Exception as exc:
+        print(f"Gemini call failed: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    if not text:
+        print("Empty response from Gemini — skipping write", file=sys.stderr)
+        sys.exit(0)
+
+    updated = datetime.now(timezone.utc).isoformat()
+    OUT_PATH.write_text(
+        json.dumps({"updated": updated, "html": _para_to_html(text), "model": GEMINI_MODEL},
+                   ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"Wrote briefing.json ({len(text.split())} words)")
+
+
+if __name__ == "__main__":
+    main()

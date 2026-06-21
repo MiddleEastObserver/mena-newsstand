@@ -2,23 +2,22 @@
 """Decides what each workflow run should do, using the reliable 30-min trigger
 as a clock instead of GitHub's flaky `schedule` events.
 
-Background: GitHub frequently drops/delays scheduled runs, so the old design —
-"send the email and refresh front pages on the 04:05 cron" — meant the email
-arrived irregularly (or not at all) and the front pages went stale. The every-
-30-min refresh, by contrast, is driven by an external cron-job.org trigger that
-fires like clockwork. So we let THAT heartbeat drive everything:
+Every run:
+  - Fetch headlines (always, handled by the workflow itself)
 
-  • every run            → refresh headlines.json (handled by the workflow)
-  • first run >= 07:00   → also refresh front pages AND send the morning email
-    Israel time            (once per day)
-  • first run >= 14:00   → also refresh front pages (once per day), to pick up
-    Israel time            the Western editions that post later
+Every 6 hours (slots 00:00, 06:00, 12:00, 18:00 Israel time — first run
+after each boundary):
+  - DO_BRIEFING=true  → build_briefing.py writes briefing.json
+  - DO_EMAIL=true     → send_email.py sends the digest
 
-"Once per day" is enforced with a tiny committed marker (state/daily.json) that
-records the last date each routine ran, keyed to Israel local dates. Times are
-computed in Asia/Jerusalem so 07:00 means 7 AM local all year — DST included.
+Once a day at ~07:00 Israel time (morning):
+  - DO_FRONTPAGES=true → fetch_frontpages.py downloads today's covers
 
-The decision is exported to GITHUB_ENV as DO_FRONTPAGES / DO_EMAIL.
+Once a day at ~14:00 Israel time (afternoon):
+  - DO_FRONTPAGES=true → fetch_frontpages.py (catches later editions)
+
+"Once per slot/day" is enforced with state/daily.json. Times are in
+Asia/Jerusalem so DST is handled automatically.
 """
 import json
 import os
@@ -26,9 +25,9 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-TZ = ZoneInfo("Asia/Jerusalem")
-MORNING_HOUR = 7        # 07:00 Israel — front pages + email
-AFTERNOON_HOUR = 14     # 14:00 Israel — front pages only (Western editions)
+TZ             = ZoneInfo("Asia/Jerusalem")
+MORNING_HOUR   = 7    # front pages + first briefing slot of the day
+AFTERNOON_HOUR = 14   # front pages again for later editions
 
 STATE_PATH = Path(__file__).parent.parent / "state" / "daily.json"
 
@@ -55,44 +54,57 @@ def emit_env(**values) -> None:
 
 
 def main() -> None:
-    now = datetime.now(TZ)
+    now   = datetime.now(TZ)
     today = now.date().isoformat()
-    hour = now.hour
+    hour  = now.hour
     state = load_state()
 
-    do_fp = False
-    do_email = False
-    reason = "headlines only"
+    do_fp       = False
+    do_briefing = False
+    do_email    = False
+    reasons     = []
 
-    # Morning routine claims the day first: even if the 07:00/07:30 runs were
-    # missed, the next heartbeat after 07:00 still sends the email + refreshes.
-    if hour >= MORNING_HOUR and state.get("morning") != today:
+    # ── Front pages: morning + afternoon (once each per day) ──────────────────
+    if hour >= MORNING_HOUR and state.get("fp_morning") != today:
         do_fp = True
-        do_email = True
-        state["morning"] = today
-        reason = "morning routine (front pages + email)"
-    elif hour >= AFTERNOON_HOUR and state.get("afternoon") != today:
-        do_fp = True
-        state["afternoon"] = today
-        reason = "afternoon refresh (front pages)"
+        state["fp_morning"] = today
+        reasons.append("front pages (morning)")
 
-    # Manual override via workflow_dispatch inputs (handy for testing). These
-    # force the action without claiming the daily marker.
+    if hour >= AFTERNOON_HOUR and state.get("fp_afternoon") != today:
+        do_fp = True
+        state["fp_afternoon"] = today
+        reasons.append("front pages (afternoon)")
+
+    # ── World briefing + email: every 6-hour slot ─────────────────────────────
+    # Slot 0 = 00:00-05:59, slot 1 = 06:00-11:59, etc.
+    slot     = hour // 6
+    slot_key = f"{today}_s{slot}"
+    if state.get("briefing_slot") != slot_key:
+        do_briefing = True
+        do_email    = True
+        state["briefing_slot"] = slot_key
+        reasons.append(f"briefing + email (slot {slot}, ~{slot*6:02d}:00-{slot*6+5:02d}:59)")
+
+    # ── Manual overrides (workflow_dispatch inputs, handy for testing) ─────────
     if os.environ.get("FORCE_FRONTPAGES", "").lower() == "true":
         do_fp = True
-        reason += " + forced front pages"
+        reasons.append("forced front pages")
     if os.environ.get("FORCE_EMAIL", "").lower() == "true":
-        do_email = True
-        reason += " + forced email"
+        do_briefing = True
+        do_email    = True
+        reasons.append("forced email + briefing")
 
-    # Always rewrite the marker (no-op diff on headline-only runs, so git won't
-    # commit it); on a claimed routine the new date lands in the same commit and
-    # blocks the next heartbeat from repeating it.
+    reason = " | ".join(reasons) if reasons else "headlines only"
+
     save_state(state)
-    emit_env(DO_FRONTPAGES=str(do_fp).lower(), DO_EMAIL=str(do_email).lower())
+    emit_env(
+        DO_FRONTPAGES=str(do_fp).lower(),
+        DO_BRIEFING=str(do_briefing).lower(),
+        DO_EMAIL=str(do_email).lower(),
+    )
 
-    print(f"Israel time {now:%Y-%m-%d %H:%M %Z} (hour={hour}) -> {reason}")
-    print(f"  DO_FRONTPAGES={do_fp}  DO_EMAIL={do_email}")
+    print(f"Israel time {now:%Y-%m-%d %H:%M %Z} (hour={hour}, slot={slot}) → {reason}")
+    print(f"  DO_FRONTPAGES={do_fp}  DO_BRIEFING={do_briefing}  DO_EMAIL={do_email}")
     print(f"  state={state}")
 
 

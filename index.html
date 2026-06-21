@@ -123,6 +123,13 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .hl-list a{font-size:12px;line-height:1.4;color:var(--blue);font-weight:500}
 .hl-list a:hover{text-decoration:underline}
 .hl-snippet{font-size:11px;line-height:1.45;color:var(--muted);margin-top:3px}
+.briefing-card{background:var(--card);border:1px solid var(--line);border-radius:9px;padding:20px 24px;margin-bottom:24px}
+.briefing-head{display:flex;align-items:baseline;gap:12px;margin-bottom:16px;border-bottom:2px solid var(--ink);padding-bottom:8px;flex-wrap:wrap}
+.briefing-title{font-family:'Playfair Display',serif;font-size:20px;font-weight:600}
+.briefing-ts{font-size:11px;color:var(--muted);font-style:italic}
+.briefing-card p{font-size:14px;line-height:1.75;color:var(--ink2);margin:0 0 12px}
+.briefing-card p:last-child{margin-bottom:0}
+.briefing-card strong{color:var(--ink);font-weight:600}
 .hl-none{font-size:12px;color:var(--muted);font-style:italic;flex:1}
 .hl-site-btn{display:block;padding:6px 0;border-radius:5px;font-size:12px;font-weight:500;text-align:center;border:1px solid var(--line);background:none;color:var(--ink2);transition:.15s}
 .hl-site-btn:hover{border-color:var(--ink);background:var(--bg)}
@@ -183,6 +190,15 @@ footer{border-top:3px double var(--ink);margin-top:20px;padding:18px 16px;text-a
   <div class="section" id="sec-headlines">
     <div class="sec-head">
       <h2>Live Headlines</h2>
+    </div>
+
+    <!-- World Briefing card — hidden until briefing.json loads -->
+    <div class="briefing-card" id="briefing-card" style="display:none">
+      <div class="briefing-head">
+        <span class="briefing-title">World Briefing</span>
+        <span class="briefing-ts" id="briefing-ts"></span>
+      </div>
+      <div id="briefing-body"></div>
     </div>
     <div class="lang-bar" id="lang-bar">
       <button class="lang-chip active" data-lang="en" onclick="switchLang('en')">English</button>
@@ -591,7 +607,29 @@ buildSrcGrid("grid-gulf", GULF);
 buildSrcGrid("grid-levant", LEVANT);
 buildAnalysis();
 loadHeadlines();
+loadBriefing();
 setInterval(loadHeadlines, 30 * 60 * 1000);
+setInterval(loadBriefing,   6 * 60 * 60 * 1000);
+
+async function loadBriefing(){
+  try{
+    const r = await fetch("briefing.json?t=" + Date.now(), {cache:"no-store"});
+    if(!r.ok) return;
+    const data = await r.json();
+    const html = (data.html || "").trim();
+    if(!html) return;
+    document.getElementById("briefing-body").innerHTML = html;
+    const ts = document.getElementById("briefing-ts");
+    if(data.updated){
+      const d = new Date(data.updated);
+      ts.textContent = "Updated " + d.toLocaleString("en-US",{
+        weekday:"short", month:"short", day:"numeric",
+        hour:"2-digit", minute:"2-digit", timeZone:"UTC", timeZoneName:"short"
+      });
+    }
+    document.getElementById("briefing-card").style.display = "";
+  }catch(e){ /* briefing.json not yet available */ }
+}
 
 function esc(s){
   return String(s)
