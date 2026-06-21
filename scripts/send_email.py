@@ -11,16 +11,34 @@ import json
 import os
 import re
 import smtplib
+import sys
 from datetime import datetime, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
 
+# Allow importing sibling modules (fetch_headlines) when run as a script.
+sys.path.insert(0, str(Path(__file__).parent))
+
 REGION_ORDER = ["Gulf", "Levant", "Israel", "Pan-Arab"]
 
 # One briefing per day, so the better flash model is well within the free tier.
 GEMINI_MODEL = "gemini-2.5-flash"
-REVIEW_WORDS = "300-450"
+REVIEW_WORDS = "350-500"
+
+# Major international feeds that ground the briefing in today's WORLD news, so
+# it covers the global order rather than only the MENA outlets in headlines.json.
+WORLD_FEEDS = [
+    ("BBC World", "http://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("Guardian World", "https://www.theguardian.com/world/rss"),
+    ("NPR World", "https://feeds.npr.org/1004/rss.xml"),
+    ("France 24", "https://www.france24.com/en/rss"),
+    ("Deutsche Welle", "https://rss.dw.com/rdf/rss-en-world"),
+    ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
+    ("Google News World",
+     "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en"),
+]
+WORLD_PER_FEED = 8   # newest items to take from each world feed
 
 
 def load_headlines() -> dict:
@@ -54,17 +72,49 @@ def _review_to_html(text: str) -> str:
     return "".join(out)
 
 
+def fetch_world_headlines() -> list:
+    """Pull today's top stories from major international feeds so the briefing
+    reflects the global news cycle, not just the MENA outlets. Returns a list of
+    '[World · Outlet] Title — summary' strings; tolerant of any feed failing."""
+    try:
+        import requests
+        from fetch_headlines import fresh_items, parse_feed
+    except Exception as exc:
+        print(f"World-feed helpers unavailable ({exc}) — briefing skips world feeds")
+        return []
+
+    session = requests.Session()
+    lines, seen = [], set()
+    for name, url in WORLD_FEEDS:
+        items = parse_feed(session, url, None) or []
+        for it in fresh_items(items, name)[:WORLD_PER_FEED]:
+            title = (it.get("title") or "").strip()
+            key = title.lower()
+            if not title or key in seen:
+                continue
+            seen.add(key)
+            entry = f"[World · {name}] {title}"
+            if it.get("description"):
+                entry += f" — {it['description']}"
+            lines.append(entry)
+    print(f"Collected {len(lines)} world headlines from {len(WORLD_FEEDS)} feeds")
+    return lines
+
+
 def build_review(data: dict) -> str:
-    """Synthesize a coherent morning briefing from the day's headlines via
-    Gemini. Returns formatted HTML, or '' if unavailable (the email then falls
-    back to the link list only)."""
+    """Synthesize a coherent GLOBAL morning briefing — the day's biggest world
+    developments, with MENA as one part of the picture — grounded in today's
+    international + regional headlines via Gemini. Returns formatted HTML, or ''
+    if unavailable (the email then falls back to the link list only)."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("GEMINI_API_KEY not set — email will use the link list only")
         return ""
 
+    world_lines = fetch_world_headlines()
+
     regions = data.get("regions", {})
-    lines = []
+    mena_lines = []
     for region in REGION_ORDER:
         for outlet in regions.get(region, []):
             for h in outlet.get("headlines", []):
@@ -75,8 +125,9 @@ def build_review(data: dict) -> str:
                 entry = f"[{region} · {outlet.get('source', '')}] {title}"
                 if snip:
                     entry += f" — {snip}"
-                lines.append(entry)
-    if not lines:
+                mena_lines.append(entry)
+
+    if not world_lines and not mena_lines:
         return ""
 
     try:
@@ -86,22 +137,30 @@ def build_review(data: dict) -> str:
         return ""
 
     prompt = (
-        "You are the editor of the MENA Morning Briefing, an intelligence digest "
-        "on the Middle East and North Africa. Below are today's headlines (each "
-        "with a short summary) from major regional and international outlets, "
-        "tagged by region and source.\n\n"
-        "Write a cohesive morning briefing for a well-informed reader:\n"
-        "- Open with a 1-2 sentence overview of the single biggest development.\n"
-        "- Then 4-6 short paragraphs that GROUP related stories thematically or by "
-        "region and synthesize across outlets — do not just relist headlines.\n"
-        "- Note where coverage or framing diverges between outlets when relevant.\n"
+        "You are the editor of a daily world-affairs intelligence briefing. Below "
+        "are today's headlines (many with short summaries) from major international "
+        "news outlets, followed by headlines from Middle East & North Africa "
+        "outlets.\n\n"
+        "Write a cohesive GLOBAL morning briefing for a well-informed reader:\n"
+        "- Lead with the single biggest development shaping the world order today, "
+        "in 1-2 sentences.\n"
+        "- Then 5-7 short paragraphs covering the day's most consequential global "
+        "stories: great-power politics (US, China, Russia/Ukraine, Europe), wars "
+        "and security, the global economy and markets, and other major world "
+        "events.\n"
+        "- Treat the Middle East as ONE part of the global picture, not the focus "
+        "— include MENA stories only when they rank among the day's most important "
+        "worldwide.\n"
+        "- Synthesize across outlets rather than relisting headlines; note where "
+        "framing diverges when relevant.\n"
         "- Stay factual and grounded STRICTLY in the material provided; never "
         "invent facts, figures, or attributions.\n"
         "- Begin each paragraph with a short bold lead-in in **double asterisks** "
-        "(e.g. **Gulf diplomacy:**).\n"
+        "(e.g. **Ukraine war:**).\n"
         f"- Aim for {REVIEW_WORDS} words. Return plain text only — no headings, no "
         "bullet lists.\n\n"
-        "Headlines:\n" + "\n".join(lines)
+        "WORLD HEADLINES:\n" + "\n".join(world_lines) +
+        "\n\nMIDDLE EAST & NORTH AFRICA HEADLINES:\n" + "\n".join(mena_lines)
     )
 
     try:
@@ -114,7 +173,7 @@ def build_review(data: dict) -> str:
 
     if not text:
         return ""
-    print(f"Generated morning briefing ({len(text.split())} words)")
+    print(f"Generated world briefing ({len(text.split())} words)")
     return _review_to_html(text)
 
 
@@ -171,7 +230,7 @@ def build_html(data: dict, review_html: str = "") -> str:
       <td style="padding:24px 28px 8px">
         <div style="font-family:Georgia,serif;font-size:12px;font-weight:bold;
             text-transform:uppercase;letter-spacing:2px;color:#9A7B2E;
-            margin-bottom:14px">Today's Briefing</div>
+            margin-bottom:14px">Today's World Briefing</div>
         {review_html}
       </td>
     </tr>
