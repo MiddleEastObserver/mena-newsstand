@@ -149,6 +149,62 @@ jobs:
           echo "Secrets and variables → Actions for the digest emails to send."
 
   # ---------------------------------------------------------------------------
+  # Publish to GitHub Pages ourselves, every run, right after the data commit.
+  # WHY: GitHub's legacy "deploy from branch" builder was unreliable for this
+  # repo — it silently dropped about every other refresh, so the LIVE site
+  # lagged ~1 hour behind `main` even though the data committed every 30 min.
+  # (Diagnosed from the pages-build-deployment history: four 30-min refreshes
+  # in a row, but only two distinct commits ever reached the site.)
+  # Deploying from the workflow makes the live site match the exact commit we
+  # just pushed — deterministic, no skipped refreshes.
+  #
+  # configure-pages (enablement: true) switches the Pages "Source" to
+  # "GitHub Actions" automatically. If that ever fails on a fresh repo, set it
+  # by hand once: Settings → Pages → Build and deployment → Source →
+  # "GitHub Actions".
+  # ---------------------------------------------------------------------------
+  deploy:
+    needs: run
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    # Serialise deploys; never cancel one mid-publish.
+    concurrency:
+      group: newsstand-pages
+      cancel-in-progress: false
+    steps:
+      - name: Checkout main (the commit the run job just pushed)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Configure Pages (sets Source = GitHub Actions)
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Assemble the published site (everything except git/CI internals)
+        run: |
+          mkdir -p _site
+          rsync -a --delete \
+            --exclude='.git' --exclude='.github' --exclude='_site' \
+            ./ _site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # ---------------------------------------------------------------------------
   # Self-perpetuating timer: wait ~28 min, then trigger the next run so the site
   # refreshes about every 30 minutes without relying on GitHub's flaky cron.
   # ---------------------------------------------------------------------------
