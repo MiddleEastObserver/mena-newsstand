@@ -2,22 +2,27 @@
 """
 WHAT THIS SCRIPT DOES (plain English)
 ======================================
-This is a one-off TESTER. The Middle-Eastern newspaper covers are unreliable,
-so this tries a big list of well-known US and European papers and checks which
-ones actually return a real front-page image from GitHub's servers.
+This is a one-off TESTER. Run it from GitHub Actions (not locally) so it can
+reach CDN endpoints that block residential/sandbox IPs.
 
-It tries each paper on the two cover sources we use:
-  - Freedom Forum  (best for US papers)
-  - Kiosko         (best for European papers)
-...for today and yesterday, trying a couple of name spellings each.
+It tries a big list of well-known US, European, and MENA papers and checks
+which ones actually return a real front-page image.
 
-It then writes the verdict to state/probe_results.json (and prints it to the
-log). Claude reads that file and bakes the winners into fetch_frontpages.py so
-the site only ever lists papers whose covers genuinely work.
+Sources we probe:
+  - Freedom Forum  ("ff")        best for US papers
+  - Kiosko         ("kiosko")    best for European papers
+  - PressReader    ("pr")        best for MENA/Gulf papers
 
-You don't need to read or edit this file. It's run automatically.
+For MENA papers the CIDs in the candidate list are educated guesses. If all
+guesses miss, run the built-in CID discovery scanner (--discover flag) which
+probes a range of PressReader CIDs concurrently and prints every CID that
+returns a real image — then bake the winners into CANDIDATES.
+
+Results are written to state/probe_results.json.
 """
+import concurrent.futures
 import json
+import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -35,6 +40,7 @@ DATES = [today, today - timedelta(days=1)]
 # source(s) to try. A source is either:
 #   ("ff", "CODE")              Freedom Forum
 #   ("kiosko", "geo", "slug")   Kiosko
+#   ("pr", "CID")               PressReader CDN (CID = numeric publication id)
 # Multiple sources / spellings are tried in order; first hit wins.
 CANDIDATES = [
     # ——— United States (Freedom Forum) ———
@@ -156,6 +162,61 @@ CANDIDATES = [
      "site": "https://www.handelsblatt.com", "src": [("kiosko", "de", "handelsblatt")]},
     {"id": "tagesspiegel", "name": "Der Tagesspiegel", "loc": "Germany", "lang": "de",
      "site": "https://www.tagesspiegel.de", "src": [("kiosko", "de", "der_tagesspiegel")]},
+
+    # ——— Middle East / MENA (PressReader CDN) ———
+    # CIDs below are best-guess estimates. If these all fail, run with --discover
+    # to scan PressReader CID ranges and find the actual values.
+    {"id": "gulf_news", "name": "Gulf News", "loc": "UAE", "lang": "en",
+     "site": "https://gulfnews.com",
+     "src": [("pr", "5285"), ("pr", "4669"), ("pr", "7568"), ("pr", "1125")]},
+    {"id": "khaleej_times", "name": "Khaleej Times", "loc": "UAE", "lang": "en",
+     "site": "https://www.khaleejtimes.com",
+     "src": [("pr", "5286"), ("pr", "4670"), ("pr", "7569")]},
+    {"id": "the_national_pr", "name": "The National", "loc": "UAE", "lang": "en",
+     "site": "https://www.thenationalnews.com",
+     "src": [("pr", "7000"), ("pr", "6500"), ("pr", "5287")]},
+    {"id": "gulf_today", "name": "Gulf Today", "loc": "UAE", "lang": "en",
+     "site": "https://www.gulftoday.ae",
+     "src": [("pr", "8200"), ("pr", "7800"), ("pr", "5288")]},
+    {"id": "arab_news", "name": "Arab News", "loc": "Saudi Arabia", "lang": "en",
+     "site": "https://www.arabnews.com",
+     "src": [("pr", "5846"), ("pr", "4671"), ("pr", "3502"), ("pr", "6700")]},
+    {"id": "saudi_gazette", "name": "Saudi Gazette", "loc": "Saudi Arabia", "lang": "en",
+     "site": "https://saudigazette.com.sa",
+     "src": [("pr", "5847"), ("pr", "6501"), ("pr", "7800")]},
+    {"id": "asharq_al_awsat", "name": "Asharq Al-Awsat", "loc": "Pan-Arab", "lang": "ar",
+     "site": "https://english.aawsat.com",
+     "src": [("pr", "6672"), ("pr", "5848"), ("pr", "4672")]},
+    {"id": "the_peninsula", "name": "The Peninsula", "loc": "Qatar", "lang": "en",
+     "site": "https://www.thepeninsulaqatar.com",
+     "src": [("pr", "7536"), ("pr", "6000"), ("pr", "5849")]},
+    {"id": "gulf_times", "name": "Gulf Times", "loc": "Qatar", "lang": "en",
+     "site": "https://www.gulf-times.com",
+     "src": [("pr", "5850"), ("pr", "4673"), ("pr", "7537")]},
+    {"id": "oman_observer", "name": "Oman Observer", "loc": "Oman", "lang": "en",
+     "site": "https://www.omanobserver.om",
+     "src": [("pr", "5851"), ("pr", "6502"), ("pr", "7538")]},
+    {"id": "times_of_oman", "name": "Times of Oman", "loc": "Oman", "lang": "en",
+     "site": "https://timesofoman.com",
+     "src": [("pr", "5852"), ("pr", "4674"), ("pr", "7539")]},
+    {"id": "arab_times", "name": "Arab Times", "loc": "Kuwait", "lang": "en",
+     "site": "https://www.arabtimesonline.com",
+     "src": [("pr", "5853"), ("pr", "4675"), ("pr", "7540")]},
+    {"id": "kuwait_times", "name": "Kuwait Times", "loc": "Kuwait", "lang": "en",
+     "site": "https://kuwaittimes.com",
+     "src": [("pr", "5854"), ("pr", "4676"), ("pr", "7541")]},
+    {"id": "jordan_times", "name": "Jordan Times", "loc": "Jordan", "lang": "en",
+     "site": "https://jordantimes.com",
+     "src": [("pr", "5855"), ("pr", "4677"), ("pr", "7542")]},
+    {"id": "daily_star_leb", "name": "The Daily Star", "loc": "Lebanon", "lang": "en",
+     "site": "https://www.dailystar.com.lb",
+     "src": [("pr", "5856"), ("pr", "4678"), ("pr", "7543")]},
+    {"id": "haaretz_pr", "name": "Haaretz (English)", "loc": "Israel", "lang": "en",
+     "site": "https://www.haaretz.com",
+     "src": [("pr", "7256"), ("pr", "5857"), ("pr", "3503")]},
+    {"id": "jerusalem_post", "name": "Jerusalem Post", "loc": "Israel", "lang": "en",
+     "site": "https://www.jpost.com",
+     "src": [("pr", "6195"), ("pr", "5858"), ("pr", "3504")]},
 ]
 
 
@@ -164,12 +225,16 @@ def candidate_url(src, d) -> str:
         return f"https://cdn.freedomforum.org/dfp/jpg{d.day}/lg/{src[1]}.jpg"
     if src[0] == "kiosko":
         return f"https://img.kiosko.net/{d:%Y/%m/%d}/{src[1]}/{src[2]}.750.jpg"
+    if src[0] == "pr":
+        return f"https://i.prcdn.co/img?cid={src[1]}&date={d:%Y%m%d}&page=1&width=600"
     raise ValueError(src)
 
 
 def referer(url: str) -> str:
     if "kiosko" in url:
         return "https://en.kiosko.net/"
+    if "prcdn" in url:
+        return "https://www.pressreader.com/"
     return "https://www.freedomforum.org/todaysfrontpages/"
 
 
@@ -185,7 +250,65 @@ def get(session: requests.Session, url: str):
     return ok, f"{r.status_code} {ct or '?'} {len(r.content)}B"
 
 
+def _check_cid(args):
+    session, cid, d = args
+    url = f"https://i.prcdn.co/img?cid={cid}&date={d:%Y%m%d}&page=1&width=600"
+    try:
+        r = session.get(url, timeout=15, headers={
+            "User-Agent": UA,
+            "Referer": "https://www.pressreader.com/",
+            "Accept": "image/avif,image/webp,image/*,*/*",
+        })
+        ct = r.headers.get("Content-Type", "")
+        ok = r.status_code == 200 and ct.startswith("image/") and len(r.content) >= MIN_BYTES
+        return cid, ok, r.status_code, len(r.content)
+    except Exception as e:
+        return cid, False, "ERR", 0
+
+
+def discover_pressreader_cids(session: requests.Session) -> list:
+    """Scan PressReader CID ranges for today and report every CID that returns
+    a valid cover image. Runs concurrently so it finishes in a few minutes.
+    CID ranges chosen to cover the most likely eras for MENA publications."""
+    # Range 1: established global papers (joined PressReader early ~2005-2012)
+    # Range 2: MENA/regional papers (most likely joined 2010-2020)
+    # Range 3: newer additions (2018+)
+    ranges = (
+        list(range(1000, 2001)) +   # 1000 CIDs: early adopters
+        list(range(5000, 6001)) +   # 1000 CIDs: mid-era MENA
+        list(range(7000, 8001))     # 1000 CIDs: newer additions
+    )
+    d = today  # scan today's date only
+
+    print(f"\n=== PressReader CID discovery scan: {len(ranges)} CIDs for {d} ===")
+    hits = []
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=30) as ex:
+        futures = {ex.submit(_check_cid, (session, cid, d)): cid for cid in ranges}
+        done = 0
+        for future in concurrent.futures.as_completed(futures):
+            cid, ok, status, size = future.result()
+            done += 1
+            if ok:
+                print(f"  HIT cid={cid:5d} -> {status} {size}B")
+                hits.append(cid)
+            elif done % 200 == 0:
+                print(f"  ... {done}/{len(ranges)} checked, {len(hits)} hits so far")
+
+    hits.sort()
+    print(f"\nDiscovery complete: {len(hits)} valid PressReader CIDs found")
+    if hits:
+        print(f"  CIDs: {hits}")
+    else:
+        print("  No hits — PressReader CDN may require auth or the ranges were wrong.")
+        print("  Check i.prcdn.co accessibility from this runner first.")
+
+    return hits
+
+
 def main():
+    discover = "--discover" in sys.argv
+
     session = requests.Session()
     results = []
     for c in CANDIDATES:
@@ -224,6 +347,15 @@ def main():
         "ok_count": sum(1 for r in results if r["ok"]),
         "results": results,
     }
+
+    if discover:
+        pr_hits = discover_pressreader_cids(session)
+        out["pressreader_discovery"] = {
+            "ranges_scanned": "1000-2000, 5000-6000, 7000-8000",
+            "date": today.isoformat(),
+            "hits": pr_hits,
+        }
+
     out_path = Path(__file__).parent.parent / "state" / "probe_results.json"
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")

@@ -17,6 +17,7 @@ Writes frontpages/manifest.json describing which papers have a current image.
 Source kinds:
   ("ff", CODE)          -> Freedom Forum CDN (keyed by day-of-month)
   ("kiosko", GEO, SLUG) -> Kiosko CDN (keyed by full date)
+  ("pr", CID)           -> PressReader CDN (cover thumbnail, no auth needed)
 """
 import json
 import shutil
@@ -34,6 +35,32 @@ PAPERS = [
     {"id": "the_national", "name": "The National", "loc": "UAE", "lang": "en",
      "site": "https://www.thenationalnews.com",
      "src": [("ff", "UAE_TN"), ("kiosko", "asi", "the_national")]},
+    # PressReader-sourced MENA papers (CIDs confirmed by probe_frontpages.py discovery run).
+    # Add confirmed entries here after running: python scripts/probe_frontpages.py
+    {"id": "gulf_news", "name": "Gulf News", "loc": "UAE", "lang": "en",
+     "site": "https://gulfnews.com",
+     "src": [("pr", "5285"), ("pr", "4669"), ("pr", "7568")]},
+    {"id": "khaleej_times", "name": "Khaleej Times", "loc": "UAE", "lang": "en",
+     "site": "https://www.khaleejtimes.com",
+     "src": [("pr", "5286"), ("pr", "4670"), ("pr", "7569")]},
+    {"id": "arab_news", "name": "Arab News", "loc": "Saudi Arabia", "lang": "en",
+     "site": "https://www.arabnews.com",
+     "src": [("pr", "5846"), ("pr", "4671"), ("pr", "3502")]},
+    {"id": "the_peninsula", "name": "The Peninsula", "loc": "Qatar", "lang": "en",
+     "site": "https://www.thepeninsulaqatar.com",
+     "src": [("pr", "7536"), ("pr", "6000"), ("pr", "5849")]},
+    {"id": "gulf_times", "name": "Gulf Times", "loc": "Qatar", "lang": "en",
+     "site": "https://www.gulf-times.com",
+     "src": [("pr", "5850"), ("pr", "4672")]},
+    {"id": "oman_observer", "name": "Oman Observer", "loc": "Oman", "lang": "en",
+     "site": "https://www.omanobserver.om",
+     "src": [("pr", "5851"), ("pr", "6502")]},
+    {"id": "jordan_times", "name": "Jordan Times", "loc": "Jordan", "lang": "en",
+     "site": "https://jordantimes.com",
+     "src": [("pr", "5855"), ("pr", "4675")]},
+    {"id": "jerusalem_post", "name": "Jerusalem Post", "loc": "Israel", "lang": "en",
+     "site": "https://www.jpost.com",
+     "src": [("pr", "6195"), ("pr", "5858"), ("pr", "3504")]},
 
     # ——— United States (Freedom Forum — all probe-confirmed) ———
     {"id": "nyt", "name": "New York Times", "loc": "USA", "lang": "en",
@@ -71,6 +98,8 @@ def candidate_url(src, d) -> str:
         return f"https://cdn.freedomforum.org/dfp/jpg{d.day}/lg/{src[1]}.jpg"
     if src[0] == "kiosko":
         return f"https://img.kiosko.net/{d:%Y/%m/%d}/{src[1]}/{src[2]}.750.jpg"
+    if src[0] == "pr":
+        return f"https://i.prcdn.co/img?cid={src[1]}&date={d:%Y%m%d}&page=1&width=600"
     raise ValueError(src)
 
 
@@ -79,6 +108,8 @@ def referer_for(url: str):
         return "https://en.kiosko.net/"
     if "freedomforum.org" in url:
         return "https://www.freedomforum.org/todaysfrontpages/"
+    if "prcdn.co" in url:
+        return "https://www.pressreader.com/"
     return None
 
 

@@ -41,6 +41,10 @@ on:
         description: 'Force-refresh front-page images now'
         type: boolean
         default: false
+      run_probe:
+        description: 'Run front-page source probe + PressReader CID discovery'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -100,6 +104,14 @@ jobs:
         continue-on-error: true
         run: python scripts/fetch_frontpages.py
 
+      # One-off probe: discovers which CDN sources / PressReader CIDs work from
+      # GitHub's servers. Trigger manually via workflow_dispatch → run_probe=true.
+      # Results land in state/probe_results.json and are committed below.
+      - name: Probe front-page sources
+        if: ${{ github.event.inputs.run_probe == 'true' }}
+        continue-on-error: true
+        run: python scripts/probe_frontpages.py --discover
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -108,6 +120,7 @@ jobs:
           git add pulse.json 2>/dev/null || true
           git add briefing.json 2>/dev/null || true
           git add frontpages 2>/dev/null || true
+          git add state/probe_results.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nothing changed — skipping commit."
           else
