@@ -57,11 +57,19 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 
 /* Nav — light, sticky, contrasts dark masthead */
 .navbar{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50;box-shadow:var(--sh1)}
-.navbar .wrap{display:flex;justify-content:center;overflow-x:auto;scrollbar-width:none}
+.navbar .wrap{display:flex;justify-content:flex-start;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
 .navbar .wrap::-webkit-scrollbar{display:none}
-.navbtn{color:var(--muted);font-size:12.5px;font-weight:600;letter-spacing:.8px;text-transform:uppercase;padding:15px 20px;border:none;background:none;white-space:nowrap;border-bottom:3px solid transparent;transition:.15s;position:relative}
+/* Auto-margin spacers center the tabs when they fit, but collapse to 0 when
+   they overflow — so the first tab ("World Briefing") stays fully visible and
+   scrollable on narrow phones instead of being clipped by centring. */
+.navbar .wrap::before,.navbar .wrap::after{content:"";flex:0 0 0;margin:auto}
+.navbtn{flex:0 0 auto;color:var(--muted);font-size:12.5px;font-weight:600;letter-spacing:.8px;text-transform:uppercase;padding:15px 20px;border:none;background:none;white-space:nowrap;border-bottom:3px solid transparent;transition:.15s;position:relative}
 .navbtn:hover{color:var(--ink)}
 .navbtn.active{color:var(--accent);border-bottom-color:var(--accent)}
+/* Phones: tighten the tab spacing so more fit before scrolling kicks in. */
+@media (max-width:560px){
+  .navbtn{padding:13px 12px;font-size:11px;letter-spacing:.3px}
+}
 
 .main{max-width:960px;margin:0 auto;padding:24px 16px}
 .section{display:none}
