@@ -178,6 +178,7 @@ SOURCES = {
 
 HEADLINES_PER_OUTLET = 5
 REQUEST_TIMEOUT = 20
+ARTICLE_TIMEOUT = 10      # per-article fetch when enriching a missing description
 MAX_AGE_DAYS = 4          # drop entries older than this (kills evergreen junk)
 
 # Titles that are navigation/section/tag pages, not articles. Matched
@@ -337,6 +338,64 @@ def clean_description(raw: str, title: str) -> str:
     return text[:600]                         # cap what we feed the model
 
 
+def _meta_content(html_text: str, key_attr: str, key_val: str) -> str:
+    """Extract the content of a <meta> tag identified by key_attr=key_val,
+    tolerant of attribute order (content may come before or after the key)."""
+    for m in re.finditer(r"<meta\b[^>]*>", html_text, re.I):
+        tag = m.group(0)
+        if re.search(rf'{key_attr}\s*=\s*["\']{re.escape(key_val)}["\']', tag, re.I):
+            cm = re.search(r'content\s*=\s*["\'](.*?)["\']', tag, re.I | re.S)
+            if cm:
+                return html.unescape(cm.group(1)).strip()
+    return ""
+
+
+def fetch_meta_description(session: requests.Session, url: str) -> str:
+    """Fetch an article page and return its og:description / twitter:description /
+    meta description — a real one- or two-sentence summary the outlet wrote.
+
+    Used only when the RSS feed gave us nothing to summarise, so every headline
+    can get a snippet instead of only the ones whose feed happens to carry a
+    description. Best-effort: any failure (block, timeout, no meta) returns ''.
+    """
+    try:
+        r = session.get(url, headers=HEADERS, timeout=ARTICLE_TIMEOUT)
+    except Exception:
+        return ""
+    if r.status_code != 200 or "text/html" not in r.headers.get("Content-Type", ""):
+        return ""
+    text = r.text[:200000]   # the <head> is near the top; cap to stay fast
+    for key_attr, key_val in (
+        ("property", "og:description"),
+        ("name", "twitter:description"),
+        ("name", "description"),
+    ):
+        desc = _meta_content(text, key_attr, key_val)
+        desc = re.sub(r"\s+", " ", desc).strip()
+        if len(desc) >= 40:
+            return desc[:600]
+    return ""
+
+
+def enrich_missing_descriptions(session: requests.Session, headlines: list) -> int:
+    """For each kept headline lacking a description, fetch the article's meta
+    description so the snippet step has real source text. Google News redirect
+    links can't be enriched (they point at news.google.com, not the article), so
+    they're skipped. Returns how many descriptions were filled in."""
+    filled = 0
+    for h in headlines:
+        if h.get("description"):
+            continue
+        url = h.get("url", "")
+        if not url or "news.google.com" in url:
+            continue
+        desc = fetch_meta_description(session, url)
+        if desc:
+            h["description"] = desc
+            filled += 1
+    return filled
+
+
 def parse_feed(session: requests.Session, url: str, referer):
     """Return entries as list of dicts sorted newest-first, or None on failure.
 
@@ -420,8 +479,12 @@ def fetch_outlet(session: requests.Session, meta: dict) -> dict:
 
     if items:
         result["headlines"] = strip_internal(items)
+        # Fill in missing descriptions from the article pages so every headline
+        # can get a snippet, not just the ones whose feed shipped a description.
+        filled = enrich_missing_descriptions(session, result["headlines"])
         newest = items[0]["published"][:10] or "undated"
-        print(f"  + {source}: {len(result['headlines'])} headlines ({via}, newest {newest})")
+        extra = f", +{filled} desc" if filled else ""
+        print(f"  + {source}: {len(result['headlines'])} headlines ({via}, newest {newest}{extra})")
     else:
         result["error"] = "no entries"
         print(f"  x {source}: no entries (native + google-news failed)", file=sys.stderr)
