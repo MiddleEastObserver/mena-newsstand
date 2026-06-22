@@ -1,12 +1,12 @@
 {
-  "name": "MENA Morning Briefing",
-  "short_name": "MENA Briefing",
-  "description": "Live newspaper front pages and top headlines across the Middle East, US and Europe — refreshed every 30 minutes.",
+  "name": "Middle East Intelligence Hub",
+  "short_name": "Intel Hub",
+  "description": "Live newspaper front pages, top headlines, and a world-affairs briefing across the Middle East, US and Europe — refreshed automatically every 30 minutes.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#F7F4EE",
-  "theme_color": "#18171A",
+  "background_color": "#EEF1F6",
+  "theme_color": "#15264F",
   "icons": [
     { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
