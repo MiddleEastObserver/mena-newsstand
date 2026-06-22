@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T16:28:57.010202+00:00",
+  "updated": "2026-06-22T16:58:13.680610+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,18 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Canada’s inflation hits 29-month high amid heightened oil prices",
+            "url": "https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices?traffic_source=rss",
+            "published": "2026-06-22T16:24:55+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Lebanon Latest: Israeli attacks surge despite ceasefire efforts",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss",
+            "published": "2026-06-22T16:19:27+00:00",
+            "snippet": ""
+          },
           {
             "title": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks",
             "url": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks?traffic_source=rss",
@@ -25,18 +37,6 @@
             "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
             "published": "2026-06-22T15:26:36+00:00",
             "snippet": "Football fans in Gaza expressed strong support for Spain during their World Cup match against Saudi Arabia, highlighting themes of football, war, and solidarity."
-          },
-          {
-            "title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100",
-            "url": "https://www.aljazeera.com/economy/2026/6/22/former-us-federal-reserve-chairman-alan-greenspan-dies-at-age-100?traffic_source=rss",
-            "published": "2026-06-22T15:12:01+00:00",
-            "snippet": "Alan Greenspan, former US Federal Reserve Chairman, has died at 100. He led the Fed for 18 years, presiding over periods of economic turbulence, including crises and booms."
-          },
-          {
-            "title": "What the World Cup looks like from Gaza",
-            "url": "https://www.aljazeera.com/video/the-take-2/2026/6/22/what-the-world-cup-looks-like-from-gaza?traffic_source=rss",
-            "published": "2026-06-22T15:02:28+00:00",
-            "snippet": "Gaza's footballers face significant challenges, training on broken pitches without shoes, while FIFA's rebuilding plan has reportedly stalled."
           }
         ],
         "error": null
@@ -47,6 +47,18 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "At long last, Starmer is out. Can Burnham bring new hope to Britain?",
+            "url": "https://www.middleeasteye.net/opinion/long-last-starmer-out-can-burnham-bring-new-hope-britain",
+            "published": "2026-06-22T16:51:36+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Vance says Middle East was ‘desperately’ calling on US to broker a deal",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-middle-east-was-desperately-calling-us-broker-deal",
+            "published": "2026-06-22T16:39:13+00:00",
+            "snippet": ""
+          },
           {
             "title": "Netanyahu says Israeli troops will remain in southern Lebanon",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israeli-troops-will-remain-southern-lebanon",
@@ -64,18 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-visit-gulf-states-talks-us-iran-agreement",
             "published": "2026-06-22T15:37:43+00:00",
             "snippet": "US Secretary of State Marco Rubio is visiting Bahrain, Kuwait, and the UAE to build regional support for the US-Iran agreement. He will attend a GCC meeting in Bahrain to discuss the memorandum of understanding and regional security."
-          },
-          {
-            "title": "Once Keir Starmer had beaten the left, he had no plan for government",
-            "url": "https://www.middleeasteye.net/news/once-keir-starmer-had-beaten-left-he-had-no-plan-government",
-            "published": "2026-06-22T14:49:50+00:00",
-            "snippet": "The description provided in the JSON does not offer a concise summary of the title. Therefore, an empty string is returned."
-          },
-          {
-            "title": "More than 11,000 south Lebanon buildings 'completely destroyed' in latest war: report",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-11000-south-lebanon-buildings-completely-destroyed-latest-war",
-            "published": "2026-06-22T14:46:46+00:00",
-            "snippet": "A report indicates that over 11,000 buildings in southern Lebanon have been 'completely destroyed' by Israeli attacks since March 2nd, with the UN estimating damage at $1.38 billion."
           }
         ],
         "error": null
@@ -101,13 +101,13 @@
           {
             "title": "Latest Science and Technology News - Al Arabiya English",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xS013T2FPWTVFN1p1RDdTVUwyOGNSMjl2UVVMVUhlUExzZzV2WVFHU2hzRnRieVBFLWg3Ql9BTXVjSnJiaUNKTHNsRDBpWVgyS0l5dVNScmZINjluVFE?oc=5",
-            "published": "2026-06-22T15:38:34+00:00",
+            "published": "2026-06-22T15:56:31+00:00",
             "snippet": "Latest Science and Technology News from Al Arabiya English."
           },
           {
             "title": "Transportation and Aviation News - Al Arabiya English",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03dS1MZldyZGV2ZkZ2cWRqOWJ0Y0Y1RFQ2cVdybUxOeHZRTzU0cy1zNWpOR3FubUtKbzZDbHJfZGVIX2w2MDZ4aTAtYjZodVgtMlMxX3UzM0Z1Y1FWSUc2ZW5DUG0xZW9ZT0REQUdn?oc=5",
-            "published": "2026-06-22T15:38:22+00:00",
+            "published": "2026-06-22T15:56:01+00:00",
             "snippet": "Transportation and Aviation News from Al Arabiya English."
           },
           {
@@ -171,6 +171,18 @@
             "snippet": ""
           },
           {
+            "title": "فنان يعيد الحياة للآلات الموسيقية وسط ركام غزة - almayadeen.net",
+            "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOd0VVWVFZbE9MX1N0S3otSWpNbVZWcWFMR3lSc0dKa3o2OThCNE9zWkowLUFrZmJ0eUdkS3NMTUY4SHluNDA5Z1NUY2E0M2pZQ1hpeDVRRjh2XzlpQlkwYTJPZFBDcG9RNkZQcVRpblN1eGFwM0duWXNsZHdqRjQtWXRCOEdOb1hYeUx1c0ZWTDhkcVdUTTI0WkZHaFBxRkt3WU9WaV9XWHZPUGd6VGtlcmFwWWtTTkhKZDVwM0V2eko5MDhHb0EtdXJhTnJ0LS1JMTREa2t2SURRcTFpdmxGcHlFWjJTOGNSeGRfM0tfSmVKbFpCcDZYdjZXZHpFRVlGWUEyb1dMRFZNSEJHM0VtbnlON0FUWDRidWQteU9xLXdjYjYtd3dtNTdyQVVpOWdVNnNfMHZYaUlVbjVieFNsZFNGSkR4VW44MlVNZ0NjeklpdFJHS2V6QS1WX0VNM2o4LVVzczBSS2xDMV92M2x5ZWowTmJVeFplRjhMQldFSWhXZWxwazhVcURnRUpISmp1WE4w?oc=5",
+            "published": "2026-06-22T15:05:58+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "الخزانة الأميركية تعلق العقوبات على النفط الإيراني لمدة 60 يوماً - almayadeen.net",
+            "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNTDUyTDVTWjNlTk5KSHJxWUZVT3Y2bzRSaDRVZzdza2FSc0R4YzExV3VyX0hrM2RabmlFT3NDUlpCd0xtQVNxbk9FcXFqVGRpS3g2TUN3Wkc2TEF5cl9uRGdyeGN2MnNLQTRLTmhWM2ZNVW1FUTFtdTlGNmVOM1cwZVdHZGVYQVI4MzR5Q01KYmpYLWludEplekFCaFIwWU9aWEVkMGpEOXZaNVItSlhKOERXRHRCSVl6THZSMDRJbVJQZTNlaGdlM3JFbHpTdUNjU3ZvZlp4U19kamt0bWk0TTgxOVVNQ3QtcG5qbzNNR3UwcVdGRmlia0t5Z0t1ZmVvSXQ4SE1BV00wVDlldERlaG5zaWdERjhtdXV4S0hvbHFWWU9WTl9PVGpVVVB5M2hjQWV2Z2pWR1g5SWRrcG5RNzJRSXNXVnFoNjd6RVdUaXpQLXVPMzE0NnpHdVMxbUI4NVlVUDVjUUVMcWxvTmpRUUlIYl95ZS1hU0tIWm9ubFdyUXFoSmNPYUw2QThac0tZZlBHT2R2ZnFWZW5FWkhqcWhfMmcyVGtocnFEbGlwOVJpeGtEb1ZMdlowVnl4RUNtMzBPYnRTaklFWnpKanBlc2Z6QWpKbEE3c3V1OHVWQnFRYi02VW51em930gHuA0FVX3lxTE5iLTNXdzVPY1pKYWJ5WjhxUVJneVF3LWw5VWFLRFUxajY0YmpiYUFPWE03TXlVQ19ad1U4YU41SWplQkNreXpmYWJfcXhzX2J6R1pZcm1oRGFGYmtmVWpSNGI3a0FaZExXWU8ycHZuRmZlYmdKR2FjVkN1Vzd1cS01d0xGYVhIdVItMnoyamJwWERlazJSZG8tY1g3b2plX0F2VkZkbnhMYWh0Mk9MU2h5eUV4UmR1VkFlclhWQmRwVEtDTkRtLXliTFBHb1N5d0thV09UWUtHUFJnQ21IdkltdTF5cmhSdVhpOVZlT0c5Ymo1TDA0alpocmd4OHZWRFVLeTAxcUhCMnBqRWVWSGQ4TGc5MTItc0VVV1VzcDludGNFajhvdXZ1b25VVThESFFINjVWa08yd0dlUWx0Q0FrUXB2OXA0aHhmUzBGXzBkV25pMjJjNjBQcjJ2eGpYSHg4bXRMR1FVM21xbldyVVRmckRzd0tmZkRLVm1qb3ZZd3NXbjk4S3JCMW1hdVgwNGtRaFZtdWl4Q21RTGhrMzdwSHdMVnFXVjN2ZzBCTkszYzB0dGNsaXhmY3hEaTFqbUxWUThpRExFbjhtOEtfNWdvRm93RFl2M2xhaktJbUE2eEhsZkpQM0NXNC1HRVRn?oc=5",
+            "published": "2026-06-22T14:40:52+00:00",
+            "snippet": ""
+          },
+          {
             "title": "آليات مراقبة جديدة لتثبيت وقف النار وسط أزمات المنطقة - almayadeen.net",
             "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxQa2RQZkFhNHJnVS1ydFlKTS1Qb3lrdTV2X2p4RnFfNHJVaDhBM0NIYkZrU0JGNkcxd09YdmVDTmpfM0QyM1owOWg0eGlobXRTak5DVnZPZlplSjlyMzFQeHBwQXEwcG1QRDRtSUx6cE9ONUxxVHRLTFdKZ19mS1FBSFJDdUVsQXlQNkdrTWk5S0p5Umd3LVBKYk1EUTlwZzhvR0JneWVaUmtoMlN6OVRER2taXzhDcFJPajJYeEpRZXFJQ0dfXy05aHhiWTJiTHNSb0VXTUJKRFJUWXZqLURhMV8xaU5hSjJ5Q0RkNTZsWGJUekh6Mmt4SlVGekJMSmxoREtCUVRCRUo1TkhKVzBIcXdmNWN0WkRLVHFVdnJvNjNVOTlHdDdpNDZGa09BT0RZT1MxenhyOWZUbHlEYUdBdEYweWxXdW0wa0pOUmc1RURJOFZKVWdFWDk1eVpCU21jOWRRWnFJQ0VYNmZtZm5scTVPYUtEU2g4dnhMbnVlbzRNWUFMQXBFa3BBTmcxakUtdE9sellseGlWZFNOU1VHWGhNVFRGWGU4c2YyekpXWGxkWWhCdkdkQ3p4LVMtVElYclhDYUVlbjczZWdnUE5qcDRDZVRQMWJhWWsxRmhJY0J1UjZGVGg2dWxSbVpIYW1KaFQ2cVk1aU50NFdNbjI5VlZrcm1EVlVSTHlTR200c3QzblAtcF94c21mNA?oc=5",
             "published": "2026-06-22T13:57:18+00:00",
@@ -180,18 +192,6 @@
             "title": "استمرار النقاشات حول ملفات إقليمية ضمن إطار تفاوضي موسّع - almayadeen.net",
             "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxQbVhpcVhReGZqUWZJcE8zMmsxX19lTzVSampYeGRQLU1ZVXo5eUQ4NExzX1lRQTc1UzFmR2ZsYjJMUGxPSlRJN1JhcjVSenBobWt3d2dCbjRaajFaMmxrRUd4NnBJMmdlbFh6QTdYVDB5REEydWpnUy1LYWxsVF9qQ3ZseU8yTk9SWkNBQ05md1duVXBOeDhGcUg3N2NKRXpxb0w2WHVRdmFsZmJUcG52NVNoNjgyMVk3M2JDdkV6enBseG1XUUg3eXFYUDhFUVZoVmRWek9UQnE3b24wbndCeEh3R1BHYWVBdEs5UGNmT3RBcmlRNndSVEF6aDVLdGJRZG5ITVB3RkNqTXVleEFDZDduUHBWR09uQ1lFeDNKU1Rsdjc1YlRUbDZfdWRBYXRfczBGWVNQWE00bWtFZWhEZVNfSWJ0WERTZ0I1aEtySktBZEwxeGo1cDh2TjFUUWNHRE9FSFNRb1ZHaEc5bFVFeFlsbmNYbk9YNEF1OW9kaVlpb3AycTJCYVhLcFNEV0ZETTZxcEczbm5Uamp1ZVVvYk1sdGtQSTc4RlhrcXhaZ3Z2OFpWUmxXUXJhRHJqTmdQNE9rN3NSQUJJVWZydGlMVTFRSFhiZ0ZIVWZRTFdiWjJTakdMbjdmWlZMcFhVcGY5SndFNmNQQTF6M2tmSnA1bFR5VzlpUVp5enR0eXF4RlJ5Nm9rTXZYQlVhaW45azc5SmpDdXA2eVJQMTA?oc=5",
             "published": "2026-06-22T13:57:18+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "إيران بين طاولة السياسة وهتاف الملاعب.. مشهد واحد برسائل متعددة - almayadeen.net",
-            "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNUHVZMW1ULU1wRFZxb0lTZ185ZWhKdTJKbGVveEQySFRSem5ONlh3aGQ2NW9mM0x4X2xNVldCMXZkazlvYWozTVRNczRfdS1JWHlaMldFcnA4aWV3empxNGxmRGZJSjhtVnFNUENCejg0cFpnc2dJbTY0VUZ0cXFVRWRqa0Zlbm5fcGhTYms4VkpHU0FiSFc0VXVHdnkxQzFaSG5kaHkwV2VnM3R6SDR2Y2ZHM2kwMmR3MnZOR0hxdmJPdDZNTnhRVnJpOW9HQTM2NzduTUU1Vlk0TmFoSEp3bkhSQkRzcjdyc2EwZTVQdGk1UDRuOUxJelM5MFdXRTZaRkFialJJUDhidktCNUhDYmVlQklFbHNrVDBiZzUzMnMxanBpN0lzOUxUMXJFN0R3Z0dpZzY0ckszVTB0cjRRNVdGYklhRGlFUXJxdWFXRGw4NU15cjBub2tkX2FoVzZTNUVYZVVhRVk5ek5PbVRXVHRrOUN6OV8wM1JyS0k2N1prTVlxVm5ZVk1hbHIxUkkyNDF2WnYtT25SWVlrTWVrcWNHWEwwSWE1SmVIMU9nYjdRaHJra1hJR0ZKQmJFVld1QXNYOU9tSUMzRDhhak9vQW5yRGtoYXRKLWhHVDFwNkVCUXdhZWtwRjdfand0djF1a0lPZ3NSM0E3blZlWk9Hc1ZRbC1XdzlXR1V1NExZYXp3bkxEYjVubnBNWEZZUldLMmRXbmxKRG5aYkdYeGFBZll5bDFPem44UlJaaDBPdw?oc=5",
-            "published": "2026-06-22T13:57:18+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "الولايات المتحدة الأميركية: وزير الخزانة الأميركية: إصدار ترخيص عام يسمح حتى 21 آب/أغسطس 2026 بالعمليات المرتبطة بإنتاج وبيع ونقل وتفريغ النفط الإيراني - almayadeen.net",
-            "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNbkdOMllqd1B5S09SNTdLX2F4ckFkUDFmQUs0RHkxY0RSdWFzLVNpTEZWam5oOUdJS25tX2ZUVFpfY3dLdUhLeDJzdzNCN0lhTGNsN3V5WWhiZkRQVDJFREdlbEhNVnFqUllvd2FxODRMNHFIMEVtNFJIbm1fU0xVWnk4RGdoa25rckx0TkFkV0YxR2tUclFhU1FBNTQzczlOZWd4VncwWF9xNTNacEZ3OU1qMEFscndMVkE1WVF2NlFVT0RhazVSd2tHX3lHNTZzNVFHM1pnMEd5QVVoNmNNOE9aRi1fZHBaMElXS3ZqRi1Od3pmVXFUdmpuX0pZdG1oeFBfZHRtck9sRGs2QktKY3ZYRjBhclQtZkxBa1dyVWg2SVFYUzV1b1JVemxpY1FXdUF6aXFrM0R2VXoxVkduWGxXRjZtdlVlOURRal9pNjM5VzRjTlRhalFTWC1sRDQ1YUVRNmxmX0hpU0dTT284YlJlY3BsWGJNejN5M1VQNlhxMU1xQ2tNNDkzMExuSWo1ellwNU4wX1hwU1BuMmMzcWRJalo1WHYwQWgxMDZDMHBZTDd1Mm5fZks3NFprRzV0UmV2Y1FpdXozTmlUN1JSd21DMUdNU0U0UGVUYm5TTmtlU2djdnRDRnJqVFFRb3FmYm0ybG1icDhlUmxURmZUUw?oc=5",
-            "published": "2026-06-22T13:49:56+00:00",
             "snippet": ""
           }
         ],
@@ -224,16 +224,16 @@
             "snippet": "Palestinian media reports that Israel is withholding the bodies of two teenagers killed in the West Bank."
           },
           {
+            "title": "Jordan seeks round-the-clock operation of King Hussein Bridge — interior minister - Jordan Times",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFpXYWFZQmxQd3NnZHFFbjdmUG1oTkhjWVRYSVNrVm90OVd4ZDZjTmxmTnpQM1hybHN3a3JXc3JaOG5kR251Sm9IRzA1aXFUeTFaSm9HZTNmV0dyZm1uTWJlamo2UlMtZS04WUJvQ0huS0ZNV0VIbU1VbDlJR1dEWnFyVWdlRjF6eUd5d2hBbjJJakdSX2cxUG16M3MybzJXQkNaamt2ZDE5OENMeklNdWQzTVQ?oc=5",
+            "published": "2026-06-22T06:23:03+00:00",
+            "snippet": ""
+          },
+          {
             "title": "US, Iran set for talks as Lebanon conflict threatens deal - Jordan Times",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczRWaVF4cjVJemxjVl9mNS1mbWZKQmpDWW9Ka2FtZzZiVlJQWWdZMlMwMUhXVVNST2tidjFmWklPTXBCajZ5bGlNVUhkTm9FYjhab3ZVT0hxMUlXVW5oQU8zcTdURFdJVjBIS3VCd25MU3FxM2NlZzhZSmlKeFVqb1lOS0NndUtvZUFwNEU2R1BrcVNRVmc?oc=5",
             "published": "2026-06-21T19:47:56+00:00",
             "snippet": "US-Iran talks are scheduled to proceed, though the conflict in Lebanon poses a threat to the agreement."
-          },
-          {
-            "title": "ECB favours cross-border banking in Europe - Jordan Times",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmNnTlRFZ1JlbXkwaXNZYzZyUC1ibEs5SGY4dWN5ZnNHZ1ExN2RZcU9GYVRybzZGaHBYTlVJZ3lYQnZEdllXVzV2TFdTTlBDa0ZFN2FMQ09wNUs4RENlMXZrZU5VSjZESHk0LS1LWGtDWmFzMDJOM0N5SU1PSDZiNTFqRQ?oc=5",
-            "published": "2026-06-21T18:56:56+00:00",
-            "snippet": ""
           }
         ],
         "error": null
@@ -362,6 +362,18 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "وزارة الصحة اللبنانية: الحصيلة التراكمية الاجمالية للعدوان منذ 2 آذار حتى 22 حزيران بلغت 4175 شهيداً و 12164 جريحاً",
+            "url": "https://www.almanar.com.lb/article/969982/",
+            "published": "2026-06-22T16:57:02+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "رويترز: انخفاض مخزونات النفط الخام في احتياطي البترول الاستراتيجي الأمريكي إلى أدنى مستوى لها منذ 1983",
+            "url": "https://www.almanar.com.lb/article/970012/",
+            "published": "2026-06-22T16:40:53+00:00",
+            "snippet": ""
+          },
+          {
             "title": "الرئيس بري ابرق معزيا امير دولة قطر الشيخ تميم بن حمد بن خليفة آل ثاني بضحايا حادثة “رأس لفان”",
             "url": "https://www.almanar.com.lb/article/969997/",
             "published": "2026-06-22T16:18:41+00:00",
@@ -378,18 +390,6 @@
             "url": "https://www.almanar.com.lb/article/969922/",
             "published": "2026-06-22T16:07:47+00:00",
             "snippet": ""
-          },
-          {
-            "title": "تقرير مصور | نشاط الرئاسات الثلاث في سياق التقرير التالي",
-            "url": "https://www.almanar.com.lb/article/969957/",
-            "published": "2026-06-22T15:59:14+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "تقرير مصور | الشيخ نعيم قاسم يطرح رؤية سياسية تستند إلى تضحيات المقاومة ومصلحة الدولة",
-            "url": "https://www.almanar.com.lb/article/969942/",
-            "published": "2026-06-22T15:57:50+00:00",
-            "snippet": "Hezbollah Secretary-General Sheikh Naim Qassem presented a political vision emphasizing the sacrifices of the resistance and national interests, advocating for alignment with countries correcting their stance on Iran."
           }
         ],
         "error": null
@@ -400,6 +400,12 @@
         "lang": "en",
         "url": "https://english.wafa.ps",
         "headlines": [
+          {
+            "title": "President Abbas offers condolences to Emir of Qatar over victims of Ras Laffan factory explosion - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VQXdvbDFuaGhFTjV5UFRHaVlBb1RQX3M0X2FNUTBRNkFPVktzRFhtQVprcHVDdWdmVXpmXzY3Q2FveWJoaUNsaHBtdVJrNUdxbGtaSmpLaw?oc=5",
+            "published": "2026-06-22T16:47:13+00:00",
+            "snippet": ""
+          },
           {
             "title": "Meeting in Tubas warns of geographic reshaping of Jordan Valley by colonial activity, separation wall, and military roads - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWb09kLXhZQWpZeGxYeGplZk5ocUtZeXBEN3EzQUZ2MWgtalI1cTNZQmpFeHJyMVhzT2hXTFhuSElPZzRvZUphWVVQR3NST19uVWFqMFFJNA?oc=5",
@@ -423,12 +429,6 @@
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fRVRSNnRGWDBMdlFRS2ZDQTVjcGgxZ29Kcmo0aGRCV0ROM0Q1Z1FGWkU0bFR2cVYwT05FaXBBbDE5OHF4Mks2RURxYVJ3dnlFN0V3azUwVQ?oc=5",
             "published": "2026-06-22T12:58:20+00:00",
             "snippet": "The Prisoner's Society is calling for urgent intervention to secure the release of three pregnant Palestinian women detainees."
-          },
-          {
-            "title": "Israeli colonists assault, briefly detain Palestinians near Ramallah - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfXzBZUnp0ZzR0enBFeWt5Rk0wRlBnWHVkVXJSNjdlZmgyMVd6Vm92Qk1SbGEtenlaZ2NVWno3elJrd0FjOUw1bWlNanRnbGFyU0g1S3JGYw?oc=5",
-            "published": "2026-06-22T12:53:49+00:00",
-            "snippet": "Israeli colonists reportedly assaulted and briefly detained Palestinians near Ramallah."
           }
         ],
         "error": null
@@ -481,16 +481,16 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "Syrian officials discuss demining efforts in Geneva with European partners - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUlhpaWtmN2tER1czSmhqNVRlbTU5OVRnYVZPTEo2dUthckhUcDhJTXpzQ0FMdUU3TjJ6S0pxU2FwZXNITi1LcXBEY1hqNWRKZm5r?oc=5",
-            "published": "2026-06-22T15:31:26+00:00",
+            "title": "South Lebanon building damage estimated at $1.38 bn: survey - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtaEhkOHRVQ2VxV2hjMVk1VHlvWWZKTy10NWg0ZlctcVZKNUdMaGhSc3dnRnFOZ0dJSWlNVThnYmloYm9mdC04dDdpUGZ5ODNLQjhV?oc=5",
+            "published": "2026-06-22T14:57:41+00:00",
             "snippet": ""
           },
           {
-            "title": "Pakistan court sentences prominent rights activist Dr. Mahrang Baloch to life imprisonment - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOVDVDM0hDdXAtdTl5c2VOd3ZrX1RReFlIcTUxaU1waWg0OWo2ck9kWUlVUW9lY3JXMHR1WVZIZzdpNEg1dlRBYVJwS3VrQ0hEXzQw?oc=5",
-            "published": "2026-06-22T14:35:41+00:00",
-            "snippet": "A Pakistani court has sentenced prominent rights activist Dr. Mahrang Baloch to life imprisonment."
+            "title": "Qatar gas plant blast kills 13, injures dozens, says energy minister - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wLS1Za1FaZnFVdXR5OW1xWWstYTFHbmlLSW9BSVdnMGJtQjBObTRmRnMyNFlqZDRKUnpmRXFUWkw2SlZKdF9BRGhNNmFoNFFtWEJR?oc=5",
+            "published": "2026-06-22T14:35:33+00:00",
+            "snippet": ""
           },
           {
             "title": "Qatar gas plant blast kills 13, injures dozens, says energy minister - Arab News",
@@ -505,8 +505,8 @@
             "snippet": ""
           },
           {
-            "title": "Iran leaves message of peace after World Cup draw in Los Angeles - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5feXE0VndVWDFhLVhpN0I1YThHLWotak52NHlXTEtGejJxV3ZJbFFYNHpRWTM1RHN5MDBPSGhMZ1dGaGVtS2MyQjNLOHh5d0g5dDdB?oc=5",
+            "title": "‘Poisonous narrative’ surrounding Muslims in the UK emboldening far-right attacks, groups say - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JQzY2V0thdGlhS01DcjE5b1ZydVNucXo2MEZZYlpGOVNIRmNIdk15QjZ0N041a1AycWloY1pBdmc4VkRyU01LTXYyNlNHM2tCbmFZ?oc=5",
             "published": "2026-06-22T14:06:29+00:00",
             "snippet": ""
           }
@@ -519,6 +519,12 @@
         "lang": "en",
         "url": "https://www.thenationalnews.com",
         "headlines": [
+          {
+            "title": "Israel is main obstacle to stability in Syria, Damascus's UN envoy says - The National",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRF9uRWJ5d0ozMmJHMHJQYklQYnhMbC1aTWFmekNMLWQ4ZzZGaDhBam51cTVWc0FyeFJzOHU1NVZtczRWUlJGc1JQcERMbC1sVXphc2dxdjZsQjQyX18weTNXZk8yUjF5SzN1MEJhbXlkcHRVQmw1cnJCMzRJbHhBYm14SEFOSkNRNElJbmxxd0dxd01KUURJNDFVamtnd0Q1dkRwdkJZOS1YamZXbFNOLWZwVF9hUXViOHlsN3dPcFQ?oc=5",
+            "published": "2026-06-22T16:53:17+00:00",
+            "snippet": ""
+          },
           {
             "title": "Marco Rubio to hold talks in the UAE during Gulf visit - The National",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHRVTEY5SU9WQXBsMW1DSFVhNHJzemJ2MmM5M05sUGx3akpfSnNzTWlXQzdPZU9WXzg5RV9SZWFyUGZGZkpKLXNlZ2JSTmNRSWdaNUE4WWxiZVhFeTVnbjRvX3hXWi0wYzFzQmJoaEVKQy13eG91TEcwczlHdWEyZThwYVlwN2txWC1CSE9JVnA3ZzZFSW9qUGpRc3NQejhySm05eHphTV9ZQQ?oc=5",
@@ -538,16 +544,10 @@
             "snippet": "The US has issued a general license related to Iran, permitting oil sales."
           },
           {
-            "title": "Vance says Iran nuclear talks to start this week after 'good progress' in opening negotiations - The National",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkltNWNEdl8wYk5zNDJDdTBqdVZYN2hsMGNQRG1hVlBha2lYQXNWLXVQWmZfRmVDUzlqVEhtc3hyR1NjUTdsV3ZSUTVqbWpXZm1jaXJOR3JITzJ0OURLLWdxdHA4bG44VS10NUhDRm9NcFhYVmRNV3lNQkZPN181VDB1QWtkdXlYdXFSR0tWUmFKTi1DaVZ0ZDlpVEdtd3J3RFBZTzFQem5UdkVobXdyUWJ3?oc=5",
-            "published": "2026-06-22T15:34:22+00:00",
+            "title": "World Cup 2026 Golden Boot: Super-sub Undav leads, Messi and David in pursuit - The National",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlBlbm9Oa3JJWlE2ekMwb19QWDZMSnFUaXNiUDlaekxwWEZGdjZGMURCYVpSZW9RdHFuaTB2RlFTalZtekY3aVMzRGkxZUdPYzI3d05ZTHRjR0dQUHV0Y2xDTXVadURNLTNNbHFEQzhzSFEtcUxyUXpBZHU0U2p5d29LRzBZbDJpY25XLVNDTQ?oc=5",
+            "published": "2026-06-22T15:37:16+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Syria's Al Shara willing to hold talks with Hezbollah 'if it serves Lebanon's interests' - The National",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1VNNmRZeE9oZlUySWN6MHFXaXI1S2VETnpadkViQnJqckc4MTROTnNTNTJ2cXBZTGo0ZHJVSjNNVkpNaW16bTVXcXhOYmxQM2FNWmwwX1VSWXdtdVY3TnBZNEs2WXF5OXFCNHZrd21KQXVmcGk5RVBpT0h3TlgwRmxNR1JqWVF1dXhRR0lERmdXYm5mZlR5RjB6YmhOaXJMZ21lbXhrYXJpdXBWQVpodlFvWmxiNzRrWTZHQWpyOE1OR0ZTeG5vdEVvUFZlSG52TTgyOA?oc=5",
-            "published": "2026-06-22T15:30:21+00:00",
-            "snippet": "Syria's Al Shara has expressed willingness to hold talks with Hezbollah if it benefits Lebanon."
           }
         ],
         "error": null
@@ -558,6 +558,12 @@
         "lang": "en",
         "url": "https://gulfnews.com",
         "headlines": [
+          {
+            "title": "From CRED to WhatsApp CEO: Inside Kunal Shah’s rise in India’s startup world - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlBsVnh5d09WSEV1MmtXWDZPVzN2OXU0Ukw0M1FlY0ViUE9NWlRKbDdQeVpEY1c2X0VjRkV1T2pCNjM1RnFYUkk4LWhuV3ROc1NDVVNfV19ELXZjOVRuWnEycGQ1WXVJeHVHRzNWTFQxalJDZk5WTXZSWlMwY2VRbTZlWnVJQWFZOEhzTjJoelRNekluR2lrUUxJbTA4azZreG1ZUmtKQjlXS1lEbWdlY2dGM3pzaWhBRlpVMmhzOXNBTDdkRU1QedIByAFBVV95cUxNNlBsVnh5d09WSEV1MmtXWDZPVzN2OXU0Ukw0M1FlY0ViUE9NWlRKbDdQeVpEY1c2X0VjRkV1T2pCNjM1RnFYUkk4LWhuV3ROc1NDVVNfV19ELXZjOVRuWnEycGQ1WXVJeHVHRzNWTFQxalJDZk5WTXZSWlMwY2VRbTZlWnVJQWFZOEhzTjJoelRNekluR2lrUUxJbTA4azZreG1ZUmtKQjlXS1lEbWdlY2dGM3pzaWhBRlpVMmhzOXNBTDdkRU1QeQ?oc=5",
+            "published": "2026-06-22T15:43:50+00:00",
+            "snippet": ""
+          },
           {
             "title": "US-ISRAEL-IRAN WAR - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MakRIM2tfbVRMV2V4SG5qdkJLTFY3V18xYmRoLURNWG1PakxyWW5QajlfWlJ2V1Q3NXZNTWdHUnhocFV5UGw5RFBpbXRFS2JQX0p3UFhoWlc?oc=5",
@@ -581,12 +587,6 @@
             "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWUtYZG5UaDBGWWVQWE5zdkNESGdvWnc5V2pUVDU3aUF3eHVsdWlvOUNndkZGbm1rUU8tRUIyZWF5TUQ0cFg3WkphN0VvLUdrLVRmYl9GXzJPZHdfSTNRU2dQZGt1dWFSeXZHZWpHckZoV0dVVFM0Vm1xNktpVXpJMl9fbFdVWDVXTHlhOW5QaXhHRm9oay1sVDVkRmhTeFpGUlRIVkZwV2ZkTTZiZ21wMXg3Z3FFZlFGUk8ydHc3cW9ZMGZYdEt6a1VXM25idUVpRFhYTTRXTkRSaTA2LTZrUtIB4AFBVV95cUxOWUtYZG5UaDBGWWVQWE5zdkNESGdvWnc5V2pUVDU3aUF3eHVsdWlvOUNndkZGbm1rUU8tRUIyZWF5TUQ0cFg3WkphN0VvLUdrLVRmYl9GXzJPZHdfSTNRU2dQZGt1dWFSeXZHZWpHckZoV0dVVFM0Vm1xNktpVXpJMl9fbFdVWDVXTHlhOW5QaXhHRm9oay1sVDVkRmhTeFpGUlRIVkZwV2ZkTTZiZ21wMXg3Z3FFZlFGUk8ydHc3cW9ZMGZYdEt6a1VXM25idUVpRFhYTTRXTkRSaTA2LTZrUg?oc=5",
             "published": "2026-06-22T14:20:04+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Stephen Ward on “dream” international career and UAE football role - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjZqdTFiMWJsZ1BqY29KN3NxbnB2MmhSdkt2cC1Mb2FWVWhHZnNHVXNkOGgzaHFtVFB3TGxaR0syRFZkN2kzNDVseE81ZU52UGlST3RWYU9YRUpYUE5UdWg1QWIzQlU5RkRmR24yVFhSVEdnam55WXMxYTQ4dHdzcG1McWp1bXFkZ2hxQUFDMVd0R05fQVRKRHRLTnB1elp3Z3hQdUltb2daV1BFSWNESnVOdnY4UdIBtgFBVV95cUxOTjZqdTFiMWJsZ1BqY29KN3NxbnB2MmhSdkt2cC1Mb2FWVWhHZnNHVXNkOGgzaHFtVFB3TGxaR0syRFZkN2kzNDVseE81ZU52UGlST3RWYU9YRUpYUE5UdWg1QWIzQlU5RkRmR24yVFhSVEdnam55WXMxYTQ4dHdzcG1McWp1bXFkZ2hxQUFDMVd0R05fQVRKRHRLTnB1elp3Z3hQdUltb2daV1BFSWNESnVOdnY4UQ?oc=5",
-            "published": "2026-06-22T14:05:49+00:00",
-            "snippet": "Stephen Ward discusses his 'dream' international career and his role in UAE football."
           }
         ],
         "error": null
@@ -598,34 +598,34 @@
         "url": "https://www.gulf-times.com",
         "headlines": [
           {
+            "title": "Sheikh Khalifa discusses trade co-operation with Finnish delegation | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQanBMMVk5OGQ5OUZnTFoyU1kyVGNjN0xmakc5elVzYTFxUXo0cFl0UDR0aUdXXzVXR3R2c2lvMXJseGFFU1ZBT2RGVDdoN1lvbmFXU3pyaTl0eDBEa2drZkVCUTBmVEItNUkxYXh1Z3J1bGxwaXBUemg3aHJvOXh5ZTBDT0Y4TjNVaTZ1bkZzc2ZVTTlLXzJJbVJvN19GakMzaERjaXN2YVMzamJlMzJ3V1c4cFBkUDhCMEHSAb8BQVVfeXFMT1NtSWhJNXBucFp0TWRfRk13VjZwVjNyOTRXOE1NSVNRUTRFSDlnWWRZZF9KRVJjYkxQOS1haUdsQWRlODRFZlhlUFhia1NRX1p4Ny1BQzhqS2tRRFp5dXZVZXhPZ01QTUY0VDM1Ui0zS3J6RGtXeWs5dXZDTXJQTmJ3cE1aRU5kb1NMdlJrUVhuekpqUUZ3dS1yRUI5MzlfSDdLUzd2Vy1NVWlTTFVXLWtBdWMwcDhBdExNdTd4d00?oc=5",
+            "published": "2026-06-22T16:39:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Ex-Wimbledon champion Vondrousova banned four years for refusing drugs test | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM250WFNFQ2F5T01MNFQ0dDBFMjA0WUFsWTdOZlEyb1YzNkZ0Z3ZRYW5VQW13Qjh1UUJpUzdJSW9fd2MydXpHcEhIQ2xmVXJVdDNLNWFFZ0Y0UWtpY1ItenVodEtlLU96aVJGVnd5QmhBUDBoYkxDT1dZU25ubjIxaEpIZ3Jjc2h1WXIwSGdVc3JiSTJoQ1NFQ1pUM3ZjM2hnZ1pDWnpqZEsydWE0Z19NdXM3VnBHM0RheWh2OEZETktNNlNteWkyaHVR0gHPAUFVX3lxTE5zOHZ2bjJsSHhyanl5QVdjN3hKbHVLWDRLeW1FT2NnVFo3TVhPTW1SY2x4Wkx1WV91Tmt0S0hWLTh6eTY0OW1MUlZJaXBadmlMbXlKQ3JSdnd2eDBzVXo5T2hCUV9haFNVaFJBSnBEeHVYb3J4MWc1aFI0QnBiVnMwUGtxVU5aLW9SNnJxc0tCWFVCWmN0a0kzSHhab00wMHRUdk1WV0p5RmJCSjhfT2toTi1LMXhCVnlUTEsyYUxGYzJHc3AycktsOVk2ay1YNA?oc=5",
+            "published": "2026-06-22T16:31:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "News Update! (22-06-2026) | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBMnpXYTNhUExXaEZWZmVWSnVsejlLZmtBTGpaTzctaXBvaUVpV2xlV2NmQV9YYmlzY1ZzejZoa2VMbWdpTFMzXzN5SU85N0otZVFLLUNiaEJtTEFtY0JDQTlsdmt4dzdhdjR2Q255NnhYWTlCcExjYVVn0gF_QVVfeXFMTWt2Z1NlNzBQVkxCb0NiMm5wcmd1R25hTlUxMmxkVTZROUdVTEoxanA4RmVoc2s3ZDJMZWRGcDU4Y1lZNXFRbkc0eTJWOHQ3TjBYa2Vha3hBc3I0Qno4T1RFckhOd0FBMUxETkQyMi1FRWkxSkJDQWFseTFnQmxVaw?oc=5",
+            "published": "2026-06-22T15:48:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "13 killed, 66 injured in Ras Laffan explosion, says al-Kaabi | Gulf Times - Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHZtTWxZVXZjV3RuWnRqZFRCdGh3VUpNNlRoM2FjVW9sTUpzQ0MybGl1S1BFQ3RuWFB5ZS0yaXpGeXZaQ2M5UmFEVm13Tkx1cW85OVJWajY0eFpLWmhxaUlldjR4YklYN1BnTkFBQjlJTjhMNHdxc01rVV94aFJndmxESEhteGNpRTc5X0xwMWlSYmRpZ1FxMG4zVzVHRnRzUzlneXJqVjFFanNvdTFn0gGvAUFVX3lxTE5Mdm1NbFlVdmNXdG5adGpkVEJ0aHdVSk02VGgzYWNVb2xNSnNDQzJsaXVLUEVDdG5YUHllLTJpekZ5dlpDYzlSYURWbXdOTHVxbzk5UlZqNjR4WktaaHFpSWV2NHhiSVg3UGdOQUFCOUlOOEw0d3FzTWtVX3hoUmd2bERISG14Y2lFNzlfTHAxaVJiZGlnUXEwbjNXNUdGdHNTOWd5cmpWMUVqc291MWc?oc=5",
+            "published": "2026-06-22T15:07:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Minister of State for Foreign Affairs meets Somali counterpart | Gulf Times - Gulf Times",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVZHOU1tVERVcUZKZ2tpSXRPOHMwYmxlSW5iQm0zeFVkZG1TM21kNmwwRzdrZWlKMWROTmxFeG4wcl9nb2ltUjY5c253dW43RkJuUUlZa2xhMXk5S1FkX2tVOTRRNWxWMzdQT2M0eVl4ZjRDdjdJRmtxeDYyZ1BVWnV4X1lvN0VRTUNoT2prQ0pIcnZ2MHBEOGJUVnN5aG9mN3JUTzBVU2twM0lZeWY00gG0AUFVX3lxTE1waXJ5QTBtcjBaeTdBdldXYUlKSE5BTXBRZjQxZEwtdXRSclZtb3RzOTJWaGR6X2VFUkZqZDNVWV80c2dlOVFGV0pydlQwTlk0NEVuTzVieURsaVhaaW5yRFJWSkZWRHk3NEFaa05aejZpV3lEcGN1Y0FnM3U5QkdDd19IOGxlUWRyYmZxWWEzai01aHl6UGlBQWkzUHhRa1lTaEVaZVBTQkV5emx1QVYyMkJhNA?oc=5",
             "published": "2026-06-22T13:35:00+00:00",
             "snippet": "The Minister of State for Foreign Affairs met with his Somali counterpart."
-          },
-          {
-            "title": "Qatar and Libya discuss strengthening bilateral ties | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWxIdENpYzY1RzRLTUdKQkxNX2Nfb1hWdWR3S3VmSWhDeFlybmx3MkgwcmRFUENrMlpzRDB6cWVMN0Q2N2RvLThFcUdBcHlNZDNKel81bGFySndLVlVVTElqR3NEUkZGNWQxRm5pNml2OHdtbFc5S3lGOFBpV2VXdmQ0UjZxaGRBamQtdGF1ejhRQlJSUFBQX3YzUDBaWmw5TkHSAacBQVVfeXFMTkQyVkdKTE5kbDk4YnhnNVdNYXlmb1NGRFhJQzl0dnFlSG9IOVppdVhYVE9KYkpxTVhtREJqS2U5UXlJWUNVZi1Ybi1oWHlTS2REcGNUM0N4MVdzS2x6Sm9WdE1GbGFGOHhSeFdBNkpfZXluVFNnSndUcWJNSU9talVxSzNOT3FucEVsdlk0UWMzXzJnZHVsRzNkRkI2NUVaVmZpZFFEejg?oc=5",
-            "published": "2026-06-22T13:28:00+00:00",
-            "snippet": "Qatar and Libya discussed strengthening bilateral relations."
-          },
-          {
-            "title": "Prime Minister and Minister of Foreign Affairs meets France's Minister for Europe and Foreign Affairs | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSWdIS3Z2SC13OHBKc0gxLS1vVjBtSTFQcDl5U3Nrb1F3RUZveWlUWTdKRzBwd3lnVmFtei1DQm9BTkFTdXNmR1BIVjc5c19nRzdBb2NqWGtuSFpJMVFmUFZZLV95bGxuMkpmMFJWM0lCc0N4cDhVa1czUXVTNEhkUU9ib2lwWnlVc1dJaEFNdVNfamxwZ0tLTGpZRmxyUjJkX2hPNEhhTWh3TlBONXBFU0dET3k2VC1kVS1acWhZaGlRT2FkZjJEc3ZRUkJwRHRGYTFwcTNpNFMxX1E4dURadmR30gHnAUFVX3lxTFAzYUFXZXVOd2RpVnJsbmJ0SkhsaW1XeVgtckVrcGJWZk11Q2pZOXlnUnZHS05qd3NZdU5VS2ItSnBKak5HRVBIdk9zd3pLcG5jMjNyaG1pZHg5cEZIQ2JFNHVDc3F0YjJTR3BwcVRCZjh6azVmejJWMlFOLV9JVnd5NmZJUHlFTVNoQ25TU0tZVWJVMmJXSHMxVmpqOThIYVN1YkhfVTl1VDNlY0xhOEk3MHB6UWJDcWN4a01jSFRma2J6QklCN0E4VlZxQ3FvTC02N1dJbTZaaGFZUW5NWVMzMlBYOG1VMA?oc=5",
-            "published": "2026-06-22T11:38:00+00:00",
-            "snippet": "The Prime Minister and Minister of Foreign Affairs met with France's Minister for Europe and Foreign Affairs."
-          },
-          {
-            "title": "Tag Results for \"tailors\" (1 articles) - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85V3hsaHZuM2RCdWdOVkIxMk5YMlhnWGtVMWc2c3FzYmFtMVJDQldmS1RZbTFSbEE3S2FmMTNmZjliRC1uWmdReUhpMklRSjY1aXlaS3NNQQ?oc=5",
-            "published": "2026-06-22T10:30:58+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Qatar startup exits now faster than global average amid jump in venture funding | Gulf Times - Gulf Times",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjNIUlgxNTNmWXlhTENJNmdheElEZU1Md3BtMVc2VkR5RlpEaDZWTXhtd1hFZVhUYVhaSjFaZE02TjAtVWMzQmdleFJBU0NYVWNheG83blZxYUIxZUNuaU5GNzdDLUxpM25rVDQ1eEN0N3pXejFRbEVJbzhzWW54SE5ib3NzdmhPeWxwQkF2bXg5UmNDVHVKNTJUczl5bHJqUFRrUjRBLVBQNklfdDR6dWpnTjQwTkZNNXZlMHMxSDhuODdEbXfSAcsBQVVfeXFMTUpoVVdROVVHOTJkWGZxRUtJNVJfdmExZFo3U2hkbExUSHZWQUlJRVR1Rm55RlBSNU1jc0VlT1VILVlObWF6Qm1oTkZuNGRjb084cFNqNEJ2ZHR3dmRBZjZ1RUJHMnZzVUl1TmxFTEdXanJmZ2NJZGNrdUpzTUZDZ1IycFBDdmFmME1tZE9TLUVubHdQakw5NVQ3YTBGZUF1aXFQN2ktSjFxY1hrSkZJblhOa3NGak1kbGtBRWtIRHl1cmV3a3JyaF9JS3c?oc=5",
-            "published": "2026-06-22T10:01:00+00:00",
-            "snippet": "Qatar's startup exits are now faster than the global average, with a significant increase in venture funding."
           }
         ],
         "error": null
@@ -678,34 +678,34 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
+            "title": "Is the next round of musical chairs within senior IDF posts on the way? - analysis",
+            "url": "https://www.jpost.com/israel-news/defense-news/article-900179",
+            "published": "2026-06-22T19:52:24+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Qatar, Pakistan unveil new Lebanon peacekeeping mechanism, does not include Israel, France, UNIFIL",
+            "url": "https://www.jpost.com/middle-east/article-900175",
+            "published": "2026-06-22T19:46:46+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Gofman takes Mossad by storm, as spy org. ramps up plans to topple Islamic regime",
+            "url": "https://www.jpost.com/israel-news/defense-news/article-900176",
+            "published": "2026-06-22T19:24:19+00:00",
+            "snippet": ""
+          },
+          {
             "title": "WIZO Rishon Lezion youth village teens create fact-checking bot",
             "url": "https://www.jpost.com/israel-news/article-900173",
             "published": "2026-06-22T18:35:49+00:00",
             "snippet": ""
           },
           {
-            "title": "Jury quickly acquits London protesters filmed chanting reference to killing Jews",
-            "url": "https://www.jpost.com/diaspora/antisemitism/article-900167",
-            "published": "2026-06-22T18:25:17+00:00",
-            "snippet": "Fatiah and Hadjer Boumazouna were acquitted after being filmed chanting a reference to killing Jews during a protest on October 28."
-          },
-          {
             "title": "IRGC missile, drone attacks should be persecuted at ICC as war crimes, Israeli NGO says",
             "url": "https://www.jpost.com/international/article-900169",
             "published": "2026-06-22T18:19:42+00:00",
             "snippet": "An Israeli NGO asserts that IRGC missile and drone attacks should be prosecuted as war crimes at the ICC, citing significant casualties and disruption in Israel."
-          },
-          {
-            "title": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
-            "url": "https://www.jpost.com/international/article-900168",
-            "published": "2026-06-22T18:19:21+00:00",
-            "snippet": "US Secretary of State Marco Rubio will visit the UAE, Kuwait, and Bahrain to gain support from Gulf allies for a preliminary Iran accord, amidst concerns over a proposed $300 billion reconstruction fund for Tehran."
-          },
-          {
-            "title": "Majority of Israelis see MoU as win for Iran, loss for Israel's security, Hebrew University finds",
-            "url": "https://www.jpost.com/israel-news/article-900161",
-            "published": "2026-06-22T18:17:37+00:00",
-            "snippet": "A Hebrew University poll found that the majority of Israelis perceive the MoU as a win for Iran and a security loss for Israel, with over 90% viewing the agreement negatively."
           }
         ],
         "error": null
@@ -716,6 +716,12 @@
         "lang": "en",
         "url": "https://www.timesofisrael.com",
         "headlines": [
+          {
+            "title": "US-Iran Lebanon mechanism to include Iran, Qatar, Pakistan, excluding Israel – report",
+            "url": "https://www.timesofisrael.com/us-iran-lebanon-mechanism-to-include-iran-qatar-pakistan-excluding-israel-report/",
+            "published": "2026-06-22T16:39:39+00:00",
+            "snippet": ""
+          },
           {
             "title": "13 dead, dozens injured in blast during restart at giant Qatar fuel terminal",
             "url": "https://www.timesofisrael.com/13-dead-dozens-injured-in-blast-during-restart-at-giant-qatar-fuel-terminal/",
@@ -739,12 +745,6 @@
             "url": "https://www.timesofisrael.com/shin-bet-chief-said-to-fear-oct-7-style-attack-on-eilat-despite-no-intel-on-threat/",
             "published": "2026-06-22T14:52:19+00:00",
             "snippet": "Shin Bet chief Zini reportedly fears an attack on Eilat similar to October 7, despite a lack of specific intelligence, and is displeased with the idea of Arab Israelis moving to Eilat, framing it as a potential 'takeover'."
-          },
-          {
-            "title": "Netanyahu is using a desperate Benny Gantz to do his political dirty work",
-            "url": "https://www.timesofisrael.com/netanyahu-is-using-a-desperate-benny-gantz-to-do-his-political-dirty-work/",
-            "published": "2026-06-22T14:20:49+00:00",
-            "snippet": "Prime Minister Netanyahu is perceived to be using Benny Gantz's campaigning and attacks on allies to advance his own political agenda, regardless of Gantz crossing the election threshold."
           }
         ],
         "error": null
@@ -755,6 +755,12 @@
         "lang": "en",
         "url": "https://www.haaretz.com",
         "headlines": [
+          {
+            "title": "Police to compensate 13 anti-Netanyahu protesters over unlawful strip searches - Haaretz",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQa0JHaTg3X2RlY3lvUzgzSXkzMmhqSHBfNU1DSC04SURTWUhZUmxLRDZyNnlIT2JFMXBKZU42VldUazNFd3NwLUFaYjFxWHZDN1BHZk1wMWdLSkwwc1RyRXJxRnBJNDVQdW41Y1lFbFJ0eG1sOWQ2UVdISmxYMVA5cndMUmROQVlndThTd1ZScU5fcFpnY2o2N0ZtN3dzQldkU2MtVXJjRmtpTmxaYUdaN0p3SWowZ2tPeFpFVllRLVZ2VDdMSXhEQ1dYNldpSllhcDBFVDkyVXpxczJPdmJIaWdHaExlWHUtOFowVG55Uk5hVnRMdHVPTzk3STdOVEw2WHdTVzdTZlZEeGdhcEVIb01MTzZDclZJWWswRDFOa00?oc=5",
+            "published": "2026-06-22T16:25:00+00:00",
+            "snippet": ""
+          },
           {
             "title": "U.S.-Iran Talks? Israelis Just Want to Know When They're Getting Bombed Again - Haaretz",
             "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQb0d2TC15dWZVdE9xRWZ1WDAxM0cyYk1KUDloSFkxTGMtUnRPSnB2YTVYNW8wLVlDcG01RTV4dUtYd0ZPUV9TZmMwRi03Z2pGdGNQdWRMR1JjbVppNk1xY2VqWVpNT29mT1d4UWJRMzJzUVJwN1BxU3lYUVk2SWxTVm10SzZ2dWllbmVrRVR1QV9uem1uSlNIdGFGQWRxUUdaUTFDNDV3eVJvU2JxbHY5d2RTLVZpeTJyTkVEWXpTbFlURmFnNi13VjBVbURvc29RdlVvWElGS2I2azE0d2JrRmY4MndoRTAwWGZhRzV4TDNwS01CRXloZUJFb0pzNEhGcXFGcHpEY3dyOVduRmpFeFN1WFlxNHZSZUh2dUZZQQ?oc=5",
@@ -778,12 +784,6 @@
             "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOTlLSVFGQVMxTkVNRUhVS01nOUZMQlM5bEIzV3VzWEJycnEwZ2pYS2ZyVzA5aXFzYWlGUHRRUi1KcTJ6T2JWRDNNalB4bHZHZ05lZnNGM1pyME1VNnZkQ1FnTVZJd1VnUHpiMUhwYXZ1T2NRMkdNSmEtd01pT0xiTE1XeDluWC0xb0FDOGJvc29FQklmc1hGZEZ0by1TWUl1aTFfT2hjcE1EX1FsWC1uQkdhdGRiMk41XzU2U0Y0LXJlRzFsUWlZTk1WalQ5M3JvOVpLUUtSLWNyVFdiX0dWNlF4TVZMcS1Z?oc=5",
             "published": "2026-06-22T13:58:00+00:00",
             "snippet": "The opinion piece reflects on Israel as both a beloved country and one that evokes shame."
-          },
-          {
-            "title": "An hour after our victory tour in Lebanon, IDF soldiers lost their lives - Haaretz",
-            "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMEFkdlFDeTlxMWlPS1Z1VjhRbE9nQ0VuOEl3SVM0U0Q3aTYzTG95MFFJbTBuaFNUNXhSU040QnFhZm5DSDB4V3FZTXhKV084M0plLU9KczREck81VmdSWFItdHVqSXZDZXNRZ254bWhILU9qNVFTN3VNWEUtTTJYQTlGT0JIbWs3NWpsN0ZEOFQwQ3JsX2d1UXZueWI4V1o4dWRuZ0FIcDFhdDFpZUFCNzlZWVRkczhiYmZOVEdPRk1xNk4wa1lDTDByeVViaXRFVEdpUW5leUh5Ulg0VjN3M1phSTl3MVphRE1GaWpBcVk0SUg1aThHdnJHdzR5dXppaUhVMGhRS3V6d0E0TlZKQnJXcnA5RHJubjBabFlhVzlNWHVrWXhN?oc=5",
-            "published": "2026-06-22T13:29:00+00:00",
-            "snippet": "IDF soldiers lost their lives one hour after a victory tour in Lebanon."
           }
         ],
         "error": null
@@ -836,33 +836,33 @@
         "url": "https://en.mehrnews.com",
         "headlines": [
           {
-            "title": "US authorizes Iranian oil and echemical products sales - Mehr News Agency",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREd3RGtfRUxSbVRnSG1fRV9WVkN5QjJNdkZiaUJOc0pHdjk1bWFYUzlrVXpNTjdyd01wZjBkTllqQndIQ3RldHdGODNiZEtwU2kxcGJhd3BUUWFZYnNkZkJuSGlWamlEYXJndC1KTW93ZFNiSldDM0lFbDVscG9wRG5PODBuc2ZScGh1ZFFnWXdaZDE4?oc=5",
-            "published": "2026-06-22T15:54:00+00:00",
+            "title": "US authorizes Iranian oil and echemical products sales",
+            "url": "https://en.mehrnews.com/news/245538/US-authorizes-Iranian-oil-and-echemical-products-sales",
+            "published": "2026-06-22T15:54:41+00:00",
             "snippet": ""
           },
           {
-            "title": "Iran ready to respond to any potential threats: official - Mehr News Agency",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnNLck9lQW9hOGsyVmhKMVdmZmNoR2hMc0Z2N3lLM3VXdzltZnQ4dG5SejVxVWFqa1UxV2lnLTg4M1RZdFhWbGQybXRuM3NEUk1VbkY3Q0I1NHNJeWpLUTFQdGlhdG9ELXVzWDJOTTZsYU1sNzhnN3FCTnNyYVhONHZ4aUhkTW5UUnAxV0tCUnRJZkxqNFE?oc=5",
-            "published": "2026-06-22T15:34:00+00:00",
+            "title": "Iran ready to respond to any potential threats: official",
+            "url": "https://en.mehrnews.com/news/245537/Iran-ready-to-respond-to-any-potential-threats-official",
+            "published": "2026-06-22T15:34:09+00:00",
             "snippet": ""
           },
           {
-            "title": "Spirit of resistance Iran most important strengths during war - Mehr News Agency",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUzduMXJPTVZZMkIyanFfRVBOS1R4ejNRem9LSDRZMWYtZ0Jjcm8tME01NnU1QS1tNURXbFZYbHdYX3kxa0VwQjVNQV9oQXl4Q3U0LUNrUk1NNUxVampYUXZESDBTM3JEelQwQmhBNUlYeEV5QjdXU0I4QXF3MEhiNWFNdGJpd3hRTWo0WkNkeXlpblE3MFJsZHNXNFNUQQ?oc=5",
-            "published": "2026-06-22T14:26:00+00:00",
+            "title": "Spirit of resistance Iran most important strengths during war",
+            "url": "https://en.mehrnews.com/news/245535/Spirit-of-resistance-Iran-most-important-strengths-during-war",
+            "published": "2026-06-22T14:26:36+00:00",
             "snippet": ""
           },
           {
-            "title": "Starmer resigns as UK prime minister - Mehr News Agency",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KNEtRSm12Sm84SXhFaG9XN2wtSk1MMGUxYXlmbUQzWDFwdEhINml6aGJvZ3JaQWRWWVd3ZzNfdjh4TEJlTmRFRnhXVUJmYnA3U0hyY3hRdHhTaWE2MU1CQ0VwemlSaU5wdlpnZjdXNmVWYXFjSzZuY1hLSTE?oc=5",
-            "published": "2026-06-22T13:44:00+00:00",
+            "title": "Starmer resigns as UK prime minister",
+            "url": "https://en.mehrnews.com/news/245536/Starmer-resigns-as-UK-prime-minister",
+            "published": "2026-06-22T13:44:04+00:00",
             "snippet": ""
           },
           {
-            "title": "China welcomes progress in Iran-US talks - Mehr News Agency",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1JiYnNyWWZfTXRBcVJuWllhNFlucUVpRlNldDVFWWNYU1J5X09WVW5BTzdMTmRWZEp2NmxmUGJtS05IbElEN0JEdEdpSG90U3lzUlJaWVFHZnZvdktrTzlnNHE4Ulc0UlVWWGdvMXVyQU5qV252eFZHWEU1YUNUbzJR?oc=5",
-            "published": "2026-06-22T13:20:00+00:00",
+            "title": "China welcomes progress in Iran-US talks",
+            "url": "https://en.mehrnews.com/news/245534/China-welcomes-progress-in-Iran-US-talks",
+            "published": "2026-06-22T13:20:50+00:00",
             "snippet": ""
           }
         ],
@@ -879,34 +879,34 @@
         "url": "https://www.aljazeera.com",
         "headlines": [
           {
-            "title": "ארגנטינה נגד אוסטריה לייב: מונדיאל 2026",
-            "url": "https://www.aljazeera.com/sports/liveblog/2026/6/22/argentina-vs-austria-live-world-cup-2026?traffic_source=rss",
-            "published": "2026-06-22T13:30:00+00:00",
+            "title": "אינפלציית קנדה מגיעה לשיא של 29 חודשים על רקע מחירי הנפט המאמירים",
+            "url": "https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices?traffic_source=rss",
+            "published": "2026-06-22T16:24:55+00:00",
             "snippet": ""
           },
           {
-            "title": "סין מוסיפה 10 חברות אמריקאיות, כולל כורה מתכות נדירות, לרשימת בקרת הייצוא",
-            "url": "https://www.aljazeera.com/news/2026/6/22/china-adds-10-us-firms-including-rare-earth-miner-to-export-control-list?traffic_source=rss",
-            "published": "2026-06-22T12:55:59+00:00",
-            "snippet": "סין הוסיפה 10 חברות אמריקאיות, כולל כורה מתכות נדירות, לרשימת בקרת הייצוא שלה. מהלך זה בא בעקבות פעולה דומה של הפנטגון להכללת חברות סיניות גדולות כמו עליבאבא ובאידו ברשימה השחורה."
-          },
-          {
-            "title": "פקיסטן מפרסמת כוננות ארצית מחשש לגשמים עזים ושיטפונות",
-            "url": "https://www.aljazeera.com/news/2026/6/22/pakistan-issues-nationwide-alert-over-fears-of-heavy-rains-floods?traffic_source=rss",
-            "published": "2026-06-22T12:54:59+00:00",
-            "snippet": "פקיסטן פרסמה כוננות ארצית מחשש לגשמים עזים ושיטפונות פוטנציאליים. האזהרה מגיעה בזמן שהמדינה נערכת לשנה הרביעית ברציפות של עונת מונסון קשה, הצפויה להתחיל החודש."
-          },
-          {
-            "title": "הימין הקיצוני דה לה אספריה נבחר לנשיא קולומביה: מה הלאה?",
-            "url": "https://www.aljazeera.com/news/2026/6/22/far-right-de-la-espriella-elected-colombia-president-whats-next?traffic_source=rss",
-            "published": "2026-06-22T12:54:42+00:00",
-            "snippet": "תוצאות הבחירות מראות כי המועמד הימני הקיצוני אבלרדו דה לה אספריה, בתמיכת טראמפ, זכה בנשיאות קולומביה ברוב דחוק. ניצחון זה מסמן שינוי משמעותי בפוליטיקה הקולומביאנית."
-          },
-          {
-            "title": "ג'יי די ואנס מקדם התקדמות בנושאים מרכזיים בשיחות ארה\"ב-איראן",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/jd-vance-touts-progress-on-key-issues-in-us-iran-negotiations?traffic_source=rss",
-            "published": "2026-06-22T12:33:01+00:00",
+            "title": "לבנון האחרונה: מתקפות ישראליות גוברות למרות מאמצי הפסקת אש",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/aje-onl-aje_onl_lebanon_wrap-220626?traffic_source=rss",
+            "published": "2026-06-22T16:19:27+00:00",
             "snippet": ""
+          },
+          {
+            "title": "ארה\"ב מבטלת חלקית סנקציות על נפט איראני על רקע שיחות \"מעודדות\"",
+            "url": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks?traffic_source=rss",
+            "published": "2026-06-22T15:38:23+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "מדוע בריכת השיקוף בוושינגטון הפכה מ\"כחול אמריקאי\" לירוק-אצות",
+            "url": "https://www.aljazeera.com/news/2026/6/22/why-washingtons-reflecting-pool-has-gone-from-us-blue-to-algae-green?traffic_source=rss",
+            "published": "2026-06-22T15:35:16+00:00",
+            "snippet": "בריכת השיקוף, שעליה השקיע דונלד טראמפ 14 מיליון דולר לציפוי מחדש, שינתה את צבעה מ\"כחול אמריקאי\" לירוק-אצות. טראמפ מאשים את השינוי ב\"לוזרים רדיקליים משמאל\" שהואשמים בוונדליזם."
+          },
+          {
+            "title": "כדורגל, מלחמה וסולידריות: מדוע אוהדי עזה פנו לספרד במונדיאל הזה",
+            "url": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
+            "published": "2026-06-22T15:26:36+00:00",
+            "snippet": "אוהדי כדורגל בעזה הביעו תמיכה חזקה בספרד במהלך משחקה במונדיאל נגד ערב הסעודית, תוך הדגשת נושאים של כדורגל, מלחמה וסולידריות."
           }
         ],
         "error": null
@@ -918,34 +918,34 @@
         "url": "https://www.middleeasteye.net",
         "headlines": [
           {
-            "title": "ארה\"ב משעה סנקציות על נפט איראני עד 21 באוגוסט",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-suspending-sanctions-iranian-oil-until-21-august",
-            "published": "2026-06-22T14:02:25+00:00",
+            "title": "סוף סוף, סטארמר יצא. האם ברנהאם יכול להביא תקווה חדשה לבריטניה?",
+            "url": "https://www.middleeasteye.net/opinion/long-last-starmer-out-can-burnham-bring-new-hope-britain",
+            "published": "2026-06-22T16:51:36+00:00",
             "snippet": ""
           },
           {
-            "title": "ישראל מחזיקה גופות של בני נוער שנורו למוות בגדה המערבית: וואפא",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-holding-teens-shot-dead-west-bank-wafa",
-            "published": "2026-06-22T13:40:17+00:00",
+            "title": "ואנס: המזרח התיכון קרא ל\"פיתה\" לארה\"ב לתווך בעסקה",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-middle-east-was-desperately-calling-us-broker-deal",
+            "published": "2026-06-22T16:39:13+00:00",
             "snippet": ""
           },
           {
-            "title": "כל הקפאת כספים איראניים לא תממן \"טרור\": ואנס",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/any-unfreezing-iranian-funds-will-not-finance-terrorism-vance",
-            "published": "2026-06-22T12:36:57+00:00",
-            "snippet": "סגן נשיא ארה\"ב ג'יי די ואנס הצהיר כי כל הקפאת כספים איראניים, אם יושג הסכם לסיום המלחמה במזרח התיכון, ניתנת לניהול למניעת מימון \"טרור\". הוא הבטיח שהכסף יועיל לעם האיראני ואף ייתכן שיעשיר את החקלאים האמריקאים."
+            "title": " נתניהו: כוחות ישראליים יישארו בדרום לבנון",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israeli-troops-will-remain-southern-lebanon",
+            "published": "2026-06-22T16:10:51+00:00",
+            "snippet": ""
           },
           {
-            "title": "פשיטה ישראלית בחברון הורגת שני פלסטינים, כולל ילד",
-            "url": "https://www.middleeasteye.net/news/israeli-raid-hebron-kills-two-palestinians-killed-including-child",
-            "published": "2026-06-22T11:56:06+00:00",
-            "snippet": "פשיטה ישראלית בחברון גבתה את חייהם של שני פלסטינים, כולל ילד. גופות הקורבנות מוחזקות על ידי ישראל לאחר המתקפה בעיירה בית אומר, שכללה כניסת כוחות ישראליים לאזור הסמוך להתנחלות בלתי חוקית."
+            "title": "כיצד קיר סטארמר תמך בישראל לאורך כל רצח העם שלה בעזה",
+            "url": "https://www.middleeasteye.net/news/how-keir-starmer-supported-israel-throughout-its-genocide-gaza",
+            "published": "2026-06-22T15:51:26+00:00",
+            "snippet": "התיאור שסופק ב-JSON אינו מציע סיכום תמציתי של הכותרת. לכן, מוחזרת מחרוזת ריקה."
           },
           {
-            "title": "ואנס משבח \"התקדמות טובה\" בשיחות עם איראן, מציע שחרור נכסים איראניים",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-hails-good-progress-iran-talks-suggests-unfreezing-iranian-assets",
-            "published": "2026-06-22T11:44:03+00:00",
-            "snippet": "סגן נשיא ארה\"ב ג'יי די ואנס דיווח על \"התקדמות טובה\" בשיחות השלום עם איראן, והציע בסיס איתן להסכם סופי. למרות איומי המשלחת האיראנית לעזוב, המשא ומתן נמשך, כאשר ואנס גם הזכיר את האפשרות לשחרור נכסים איראניים."
+            "title": "רוביו יבקר במדינות המפרץ לשיחות על הסכם ארה\"ב-איראן",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-visit-gulf-states-talks-us-iran-agreement",
+            "published": "2026-06-22T15:37:43+00:00",
+            "snippet": "מזכיר המדינה האמריקאי מרקו רוביו מבקר בבחריין, כווית ואיחוד האמירויות כדי לגייס תמיכה אזורית להסכם ארה\"ב-איראן. הוא ישתתף בפגישת GCC בבחריין כדי לדון במזכר ההבנות ובביטחון האזורי."
           }
         ],
         "error": null
@@ -957,34 +957,34 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
-            "title": "ההסכם השברירי בן 60 הימים בצומת דרכים ביחסי ארה\"ב-איראן - אלערביה אנגלית",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzRZZHdtdU0wVTlCdVkyanpXUTdXV2ZqQVN3Y2ZXb2lRYVNwdzBFWU0zMGdoS1VpUHlXSVBzYXo5NDRWUDRRbl9CSm5zWlhmOHdQQXM1aWJrSHhudmtQQTZSNExIMHNGR3pzN1lKSnlIaXo5c1VrNVgxRlZBNk01bVdRbFk2M0p6ZWl0WDZ4SjE3ZGE3ZTB4NU1rbjJJNHZkY1FlSlN5dlA0Z2VZd0oyctIBtgFBVV95cUxPdW5tVjF0MmthZVhjMTlvVDllcW9PY0dnOUlpNF8wSXBmbGItbnc5bXJZeV9QT1FRanVLeGJXVTZWTEk5aEFnY0dtS0QzcHppZ0xBVEs1OUJaOVNnZTFySkJBd1g5WG5VV1dIMWdhY2VWSmx4cm5HV3BfZ3ZRaFpVb3RsOWpRcUoxWVVESlVRQUxucE5QeXh0eEh6VzI4MHJ2R2xrQUFhT2xVNTFCdm1kSjdSVFcxdw?oc=5",
-            "published": "2026-06-22T13:34:00+00:00",
+            "title": "רוביו יטוס למפרץ על רקע שיחות איראן - אלערבייה אנגלית",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0hiUlZKYV9QRmlDaExTR3R0WUdoUFZGUVNEeWkxUlhTdE45cFJqM0hNcXFiZDV2YlYtZFZMcDVUS183dzhVZGFsQzQ5RS1ZNVg4UU9VMkw4NnVoaVFrVTMtdGJwT04xOFRjdGhJdDU4YU1Pci05clp0Ym5aODR3ZkZVbklhNzlOWDNkM1YxS193eHVZZVdtSENBNmVxUdIBowFBVV95cUxQMzZ3N0NkaDMzb0dQQ2NzbElfdzk2Ukp0dUNFOUtqU3QzVHVKd2ZKRTJtT2ptbzlIbFBtWV9mYTdpZlcwTXZNOE9ZZXZLampwSGRwcEx0REhQVEUzaWcwRVF0TjUyaXk0VDVyQkk2MGQxSGtMWUJCXzJ1WFdqN2tVT3Q5SVVXblZmTjBYc0h1VG1hcmN0aGZsSl9PLWZKekdYdUhV?oc=5",
+            "published": "2026-06-22T16:23:00+00:00",
             "snippet": ""
           },
           {
-            "title": "ואנס וגאליבף חולקים נקודת עיוורון לגבי לבנון - אלערביה אנגלית",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPanEwWUlDN2xlNVhkQkUzZlFSNUZTZkhtMW9MRkgwdTFFUXRBdW5lUE5VQ1BqbkhTZXhtVmJ1a09ORUVqUmRLVzNnRWZtcl9feEpPZGhpQnVKR0VBMlRJNjhkTnU2aTFsV3NrdU0xRTRtR0twN0hEZHRMOEUyeC1OS1VkYlhlbDl0bUFPODVOOXU3RXhiZml6WXFaZWHSAaIBQVVfeXFMTlRmY1NwWWE1Y0xJVUlEaWlDOEYzM29jd3AzODVPYndMQzRpeHBaMGpTWDY0cXRKMGkzMXQza3pNQUlrZWNNZGtWY3VaMW9XY0kyN3NNU0JLQ2dLWDBXZENHOURMYVNyN3FUYktUV1doTk1kdjBvcGNhSUEzV1JzYUkxU0ZTd2o1WVhqc2Z2aUtER18zeEk5dEFTNzUtUnhOV2VB?oc=5",
-            "published": "2026-06-22T12:59:00+00:00",
+            "title": "איראן לא ניהלה משא ומתן בנושאים גרעיניים ולא הוסיפה התחייבויות בשיחות שוויץ, משרד החוץ אומר - אלערבייה אנגלית",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmRhS0VNanlHSGIyck1EMks0Z0JvR3J0Xzlpd0hKR3FOZTgwR1dfOW9CUzdNSVAxWXR1cjlZalhOUlhYTW1YRFh1TDhoZU9lRWJ1YldxSnRUWGt5YmVLU0pQaFpEdGJ0YnF6cFdqYTZFY2ZmeEtfVnhnZDA4SkppeFYzWEZZZGc2bk90blhnYlVZbDdkNE5KcEthTF9NbXZrMVdBU3lKX2twNFJNLXFCZHZBOGdYVUhMTmZYUDhQZzEwRjhvOVBwQmh4czFsSVBqZHYzbGxiMmt1SXNmTENyNNIB5gFBVV95cUxPbFFlSDV3Uk83Nmhtc2tMdnNQZjhyTDRfMVRtdnM2cnpka3p6NVVzTHdVaXZjZXE4NXVXN3lZR2xmeEljd1lyYnpFTWRTTU5rckk3SENhQkpWdF8yUEkyVnRPblhCYjRvY0d2azFpekhRd3EwRkFlT28wMnE1TVVwdVFiaVE4Y0h6RXFmRGxUZnNzTlc5dlRxd25yN0tUdVB0MzZMTXNCTzRoNzhPM2JDZENhLTktbngtd2UzTWs4Q0E5dGVUSHFEY3Y5ZndZZGk0cWFKOVZvZUlCdF9XWEVzelJEdlY2Zw?oc=5",
+            "published": "2026-06-22T16:07:00+00:00",
             "snippet": ""
           },
           {
-            "title": "תנועת מכליות נפט מתגברת דרך הורמוז - אלערביה אנגלית",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEFUQzl6aDZQSGdsOUl1MHZBU19mSUVwOThTY25BUC15QkVhSjl0SXRfeVFOWHNjclAzclNpZTN3dUt0VXRKNWZuVVJKeDhyYWtfMXlncjN1S0tFVWZJYUdQd3dTQ2dDT0wxMllQblJSeGhFSS1HdWVQZlZmLXZHbzlBM0ZFLUtyLXlXMXBWRk4zeExNejJsT1RBX05RZF9EaGE00gGoAUFVX3lxTE9mNXgtbjg5YWVkMVdtYUtscDJBOVJuTzVNMktIR2tNVkRzRUxlM3lYamM5cTRtWXFhd3c0WWRjb3pIM2lPVUt2TXdqNUNzVzQ0eHJIRnh1OVZoVC00V3JJR3FnZWpHMVh1VERCSkQ4clpxT0ViUGN2c2lILWVVTDBrWktCcFRWQm5hVEtibzNxM2tyUVRWTG9XU0R6YUFhRzJPRmRkZ3BTag?oc=5",
-            "published": "2026-06-22T12:49:00+00:00",
-            "snippet": ""
+            "title": "חדשות מדע וטכנולוגיה אחרונות - אלערבייה אנגלית",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xS013T2FPWTVFN1p1RDdTVUwyOGNSMjl2UVVMVUhlUExzZzV2WVFHU2hzRnRieVBFLWg3Ql9BTXVjSnJiaUNKTHNsRDBpWVgyS0l5dVNScmZINjluVFE?oc=5",
+            "published": "2026-06-22T15:56:31+00:00",
+            "snippet": "חדשות מדע וטכנולוגיה אחרונות מאלערבייה אנגלית."
           },
           {
-            "title": "שלושה לקחים מסעודיה שהובסה על ידי ספרד במונדיאל - אלערביה אנגלית",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXktclBGc0FETWFQZGx1ak83VHRTT0lqai03MUFBako3SndNV01fTVNZVGl1alhVU3RidGMyQVJSSnNtQjk5cmNVVl9ONnlQN1A4T0FjVzU3OEtuN1JkRXZVMXZ0NlpUUnU3dG14ZTRZZTY2YklHRHRXa3FKeDRBOFJGOVNhNlFoc21RcEloRFJwWFdZT3M4TWtWNWh0bEtTYllQcE1ENUxmMUhsSTRrcElhaEpNY1MwYUQ3d3RwOW5fUdIBxwFBVV95cUxPdFVwcnBWNVVMdHB0eW81Q2VQZjI3VjVSQVNKUzE2Wl9lODJVTV9aWEExczM5YUZPS2NFMmNEUlpRNGFWRWtNU0hHRnk2M1QyTUNtRmN2N1k0dkxJRjh2X241OENRa1pra2ZwNTRnS2NBcGMwRW5aYl9fRnMzekYwaFFjYVdyTENhbkE1MFBiUGR1NEQ0NEo0eF9aVGQxMDl6c2ZmS1NsRlhBY00xckRVaFM1UnA1enlGTFVKS3VwLUVQQ1A1LXFZ?oc=5",
-            "published": "2026-06-22T12:18:00+00:00",
-            "snippet": "ספרד הביסה את ערב הסעודית במונדיאל, תוצאה משמעותית לטורניר. המשחק ראה את ספרד גוברת על יריבתה, עם לקחים מרכזיים הצפויים לנבוע מהביצועים."
+            "title": "חדשות תחבורה ותעופה - אלערבייה אנגלית",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03dS1MZldyZGV2ZkZ2cWRqOWJ0Y0Y1RFQ2cVdybUxOeHZRTzU0cy1zNWpOR3FubUtKbzZDbHJfZGVIX2w2MDZ4aTAtYjZodVgtMlMxX3UzM0Z1Y1FWSUc2ZW5DUG0xZW9ZT0REQUdn?oc=5",
+            "published": "2026-06-22T15:56:01+00:00",
+            "snippet": "חדשות תחבורה ותעופה מאלערבייה אנגלית."
           },
           {
-            "title": "נשיא איראן יבקר בפקיסטן ביום שלישי: כלי תקשורת ממלכתיים - אלערביה אנגלית",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ0htdmtOOUoxNHQwQnNZOWV3MncxUzQyaGFYSUxKU3dqZlV3eXR4V2dlNUZ6XzRXMHkxWlFRTVFXMHJMWVEySnJ1MGFZVWN6azF6d0wxenY0NDNCMlU1cEtscG5EcmlMRjZkYXQ3ZS1BMHI2aWQ5cTlvQ2dmNUJLV1RTTmJuMHYwU0JucHVhTE51OWhnVGp0MEx3dWlpNU9STlBUSnM0VWtUQXd4ZDNiOG1RWURjTUFK0gG4AUFVX3lxTE5nSG12a045SjE0dDBCc1k5ZXcydzFTNDJoYVhJTEpTd2pmVXd5dHhXZ2U1RnpfNFcweTFaUVFNUVcwckxZUTJKcnUwYVlVY3prMXp3TDF6djQ0M0IyVTVwS2xwbkRyaUxGNmRhdDdlLUEwcjZpZDlxOW9DZ2Y1QktXVFNOYm4wdjBTQm5wdWFMTnU5aGdUanQwTHd1aWk1T1JOUFRKczRVa1RBd3hkM2I4bVFZRGNNQUo?oc=5",
-            "published": "2026-06-22T12:11:00+00:00",
-            "snippet": "נשיא איראן צפוי לבקר בפקיסטן ביום שלישי, על פי כלי תקשורת ממלכתיים. ביקור זה צפוי להתמקד ביחסים דו-צדדיים ונושאים אזוריים בין שתי מדינות שכנות."
+            "title": "ארה\"ב אומרת שתשהה סנקציות על נפט איראני עד 21 באוגוסט - אלערבייה אנגלית",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWjNhb3YyZXFhRENpbXFiOF9kd0lJR19rcVZlZVFyZkRtZ215S3hINGhnU2c4aEpHckZRS296U21vdkVXSm1LYjVhZEs2dU9rS3lySmM3YTJ3UnNwNDBjb2V4VHBxTWM3bkVCNUFJa0MxbnVaMDFQd3VNbjQ4cWhwZkJYaHFtLWdjSW5aMV83dHBObGFuV3k0Y0ZXQnczRXpGc2tFSXNmNVBCMWsxaElqMFhEa2ltRHEx0gG-AUFVX3lxTE5KRmY2d3piYURjdWdlUGZJSFpidmdLcXEycG5DOXVtdUpzeTc2R21CdDdTWVQ3Sl9qVlNzdno0RGdPY2JYSHFPU2V2VG1nRjJMM2txb3VwdG04c0xpUWNmSDFaaHRoaUZZdHJyYlFEM0NVazlVMjJ5czZYMTlpV1B5Y3NPWnBYU0hzTlpRZWRGUERiRUYyLWN1SXdoN2Z1cHIzWVlPbnpZckY2Y3M4Wl9uVk9hbDczVjB1QzFneFE?oc=5",
+            "published": "2026-06-22T15:38:00+00:00",
+            "snippet": "ארה\"ב הודיעה שתשהה סנקציות על נפט איראני עד 21 באוגוסט."
           }
         ],
         "error": null
@@ -996,34 +996,34 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
-            "title": "מפלגת השחרור הפלסטינית בניו זילנד מבקשת לשים את עזה במרכז",
-            "url": "https://www.newarab.com/news/new-zealands-free-palestine-party-seeks-put-gaza-centre",
-            "published": "2026-06-22T13:40:56+00:00",
+            "title": "מורשת סטארמר עוצבה על ידי רצח העם בעזה, רדיפת זכויות בבריטניה",
+            "url": "https://www.newarab.com/news/starmers-legacy-shaped-gaza-genocide-uk-rights-crackdown",
+            "published": "2026-06-22T16:19:41+00:00",
             "snippet": ""
           },
           {
-            "title": "לבנון מברכת על דחיית ההתערבות הצבאית על ידי שערה",
-            "url": "https://www.newarab.com/news/lebanon-welcomes-sharaas-rejection-military-intervention",
-            "published": "2026-06-22T13:04:38+00:00",
-            "snippet": ""
+            "title": "גיבורי המונדיאל של איראן בקושי שיחקו לפני התיקו מול בלגיה",
+            "url": "https://www.newarab.com/news/irans-world-cup-heroes-had-barely-played-belgium-draw",
+            "published": "2026-06-22T15:48:52+00:00",
+            "snippet": "למרות זמן משחק מוגבל מראש, נבחרת איראן במונדיאל צברה שתי נקודות ויכולה להתקדם לשמינית הגמר."
           },
           {
-            "title": "נוצרים עיראקים מבקשים הבטחות אמיתיות לזכויותיהם ולשותפות",
-            "url": "https://www.newarab.com/news/iraqi-christians-seek-genuine-guarantees-rights-partnership",
-            "published": "2026-06-22T12:32:31+00:00",
-            "snippet": "נוצרים עיראקים מבקשים הבטחות קונקרטיות לזכויותיהם ולשותפות אמיתית במדינה. הם שואפים לחיות בביטחון ויציבות, ללא התנאים שהובילו להגירה משמעותית."
+            "title": "רוביו נוסע לאיחוד האמירויות, כווית, בחריין לדיון בעסקת איראן",
+            "url": "https://www.newarab.com/news/rubio-heads-uae-kuwait-bahrain-discuss-iran-deal",
+            "published": "2026-06-22T15:23:35+00:00",
+            "snippet": "מזכיר המדינה האמריקאי מרקו רוביו נוסע לאיחוד האמירויות, כווית ובחריין כדי לדון בהסכם המוקדם של ממשל טראמפ עם איראן."
           },
           {
-            "title": "ואנס ואעון דנים בהפסקת אש בלבנון על רקע רגיעה שברירית",
-            "url": "https://www.newarab.com/news/vance-aoun-discuss-lebanon-ceasefire-amid-fragile-calm",
-            "published": "2026-06-22T12:23:24+00:00",
-            "snippet": "סגן נשיא ארה\"ב ואנס וגורמים לבנוניים דנו בהפסקת אש על רקע רגיעה שברירית בלבנון. ארה\"ב מגבירה את מאמציה לתווך בשלום, בעוד ישראל שומרת על עמדתה בנוגע לנוכחות כוחות באזורים דרומיים כבושים."
+            "title": "ארה\"ב פוטרת סנקציות על נפט איראני, אומרת שפוקחי גרעין יחזרו",
+            "url": "https://www.newarab.com/news/us-waives-iran-oil-sanctions-says-nuclear-inspectors-return",
+            "published": "2026-06-22T15:23:32+00:00",
+            "snippet": "ארה\"ב השעתה זמנית סנקציות על נפט איראני לאחר שסגן הנשיא ג'יי די ואנס אישר שאיראן תאפשר לפוקחי גרעין של האו\"ם לחזור."
           },
           {
-            "title": "במהלך פשיטות, ישראל הורגת נערים פלסטינים בגדה המערבית הכבושה",
-            "url": "https://www.newarab.com/news/amid-raids-israel-kills-palestinian-teens-occupied-west-bank",
-            "published": "2026-06-22T12:18:23+00:00",
-            "snippet": "כוחות ישראליים ומתנחלים ביצעו 1,659 התקפות בגדה המערבית הכבושה במהלך מאי. פעולות אלו, כולל פשיטות, הובילו למותם של נערים פלסטינים."
+            "title": "ארה\"ב, איראן משיגות \"התקדמות מעודדת\" בשיחות השלום הראשונות",
+            "url": "https://www.newarab.com/news/us-iran-make-encouraging-progress-first-peace-talks",
+            "published": "2026-06-22T14:28:35+00:00",
+            "snippet": "ארה\"ב ואיראן השיגו \"התקדמות מעודדת\" בשיחות השלום הראשוניות שלהן, והסכימו על מפת דרכים של 60 יום להמשך המשא ומתן."
           }
         ],
         "error": null
@@ -1035,33 +1035,33 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
-            "title": "קטאר: ראש הממשלה: יהיו נקודות מחלוקת רבות במשא ומתן בין וושינגטון לטהרן וישנם גורמים שרוצים לחבל במשא ומתן - אלמייאדין.נט",
-            "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxOZUNkYjctRXZFRjhjclM0dmNYYnNmNVFDZU95ckl6blhHNHowTTJKbGh5LS1lbVc4YV9qc2gwZjQ5MnhVbV80Tlcwc3hhc2FTZlVLS25HcEROc0pXdmd2WVRpYVo5QXFScTQ5MDNKRmYtUVd4NklRN19MR1JjRzlNeUJXVnZuc0x6bDVVSk5rQkpVSDBMamVzTEpUMlIwQXk2MEpLQ2I5cUd5b0JrS1VDLXJLNE04UllQblhoTWdzZ25pV0N3OGo3cUViZHIxXzRLdHk1Tm9BMWFtSTdZT2ZSV1dLTEEwVXV3VXhfRUJldEoxWkx2WFpacm1TLXltU0ktbk1Henc4ZkJ5MExHbl9mMlR4bkFpdGpvV3ByMnNvQnBrc2wwZVl0TGEwTGpHVFZzc25iUmlzUXBtTG41TDBxNFdpQ3VlaXRObGJRTkZXMk1GaThaZmFFY0p3QVZZbmJRN0VmT3BVNGdZWU1ZalBZNTJQM083dTFGbnhIYTNVWk1KVk1VN3k0RkJnazJkWHh3Y2JvMmhNTVB2M2NlWG9nNV9NcXVZX1hXSjhnUWZRT0ZnUGY4eGluNERfM25KaDVZenpKV1FMMzdzMW5MRzZVeFI2WFBZMFp0dTdWaGItY0pFYU5MMm9IVGMtZ0prNm01TDhZ?oc=5",
-            "published": "2026-06-22T11:46:55+00:00",
+            "title": "ברצלונה עדה ל\"הפצצת שירה\" המעוררת את הזיכרון התרבותי - אלמיידין.נט",
+            "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPQzNqQ0xNb184ZGxfNDg1THEtWUdyRmQ0bVFTVGNTNGtzOVpCSmF3ME90Z2laWm5sRkZkaWRyRk9XZmtydVI3cThQRjlPMjg3eS1JczVsUnA1RE1ZV2NIZnBkamxKMWt2WTBXMXIwcktMbDBrcHBwTnJlUEMyLXA4MFhPdXpCOTNpellld0tqWGVJUVE3Z0lIMnZIZzB1UDk2Q1RscXI4TWxvb3NkTGZGTmpqNmxNamJidlJCQW9hb09DcWV2a2dHbXRkRi16ZjdHS3pFem9ybDJ4alBiN29lZS1xRDdRSk4wa1paci1yQy0zV0NiaUk5NFphUUdfbEdBQ1UtZVFWcHF4aHZ2ZExRdExncUx3bDJLT015b0tXVDlGaFRsNGZqQUt1d3ZaMW9sbmFKTGhHY0UydG9MSXZ3V3ZNQVBxcktrMHdrdXdobFE5NEF6U284VzJMRzc4QUFUTGxnZHZXVDVvejFmWllJaHU4ZHBXZ2tzYjB5akw5UWdOSHNUYUtQNEpuek43MmRjNXpJSA?oc=5",
+            "published": "2026-06-22T15:05:58+00:00",
             "snippet": ""
           },
           {
-            "title": "איראן: פזשקיאן: אנו רואים את עצמנו מחויבים לתמוך בכוחות המזוינים שסיפקו כבוד למדינה - אלמייאדין.נט",
-            "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNMU5oOEljODI3elFtRjlWYjBXSFBWR0V5akZGWUJEMVljVGtwcVZ4OGFROGhuREg1ZFB0R19DMG1kNEdDLVBhX2V1b1lRUVp4MzhvcUEwQ1p4Zlo4Yk9yZjU5cmlNdjNfbWtFNG1wTVRxTVBabXpkdU9uTVJzeGN6RWFqQUFrZUdQcTJQcXBEWnBabUttckVJQk9PRDRpSHEwdFRuMGVnYVNWZVQxZURfbDM2ZUJBV2Iwa1dWMDdzNmZ4SU12UDVKNXpGM0xLUmVHeUhnM19nZ1hYRUd2UFo2WkUzbFU1Q0dBRWozS3p4R1hWMTBXWTlXN1NmRjlOS3lZb2RUVVlrZ042dzl4bV9rZndNRU00M0k2eGFQQnZXMkhINEhBaVV3dkRYVE1NRjdMVWIwcU05LUkxN1E4dlJsUUlraEtlb2U1RVFaUHJtQnpULTIwam1Lemw5RkF5VG80cVlnTTRMSDU4aUFiWjlDSkZLLTk1THV4bkRTa0dldzZNM0dzcW5tbDZGYWdWaGd1bkhqR09vMUM4ejB5NFRCZDdfZ1V6RWEyZkNUMEU4YUQ4QjFZY1QxYnUwMEE5R3VJaGJzekJqNmZhY3JQMnRKZUFTVl9vblhSTEFKZ1NSN01KbGlvbllzVFlUWDRydHpiQU5F?oc=5",
-            "published": "2026-06-22T11:44:40+00:00",
-            "snippet": "איראן: פזשקיאן: אנו רואים את עצמנו מחויבים לתמוך בכוחות המזוינים שסיפקו כבוד למדינה."
-          },
-          {
-            "title": "קטאר: ראש הממשלה מוחמד בן עבד א-רחמן: מטרת מוסכם ההבנות בין וושינגטון לטהרן היא הפסקת המלחמה ויצירת מסגרת מוסדית לתהליך המשא ומתן - אלמייאדין.נט",
-            "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPZW9YY1lrbGMxYUR0Y2syLXYwbmhxV0dmT0Q4eUZWSG10WTZXRC16Qml0ejJYeGx3TWRWd1ZCNUN0THNQWmtFbTdZU0hJeXBRekR4RDh2S3JyVHM3Z2lpdXdDMU1lZEJmUmlZVFhlRVZ6MVBPRmRsTzRhV3ZfWTNmZVBISl9ZNmtfVUpCMmIyZVpnRG9KN1FDTElqZXlHS1pnZWJWQ2xMd09YRHZZaWtZQmVaLU9xcDZPZ3psbUkyMjh3TE9FNWgyNXdPS183d0Vta1p0YzZuSjVqQW5HWUNxckdiLWlxWldTX3JkLXpwYlpmbWVnYUtmaEQ0TGhiOUhrM3QyaXpYR3FydkZvYk5zdk55NXNCR2RHcUoyMFRyX1dCWTdtQld1Q0VHZHFEcWJBTmtxeDZ1dFB5VnJQQlMzbkNwQ2NUcXpXY2dqNmFSOHk1SC1TUmlDYzhrT3JDTDVqcFk1eGRGUFM1eGo4TUNlN1N0bXNFVFhMOEdmYzFreXRIZmtfbnA4dW1xMFZXSzlxSkVqa2lGVkFaSXdqS2pENk5BOU56eUJENDF0N0RBdWlpVmptZUYySXlfaDFjTjlUdUYwaVZ4Zl9tTUpfcHR2dVZHVllrZnJfcjZGTVQ4VE5GakRr?oc=5",
-            "published": "2026-06-22T11:44:40+00:00",
+            "title": "אמן מחזיר חיים לכלים מוזיקליים בתוך הריסות עזה - אלמיידין.נט",
+            "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOd0VVWVFZbE9MX1N0S3otSWpNbVZWcWFMR3lSc0dKa3o2OThCNE9zWkowLUFrZmJ0eUdkS3NMTUY4SHluNDA5Z1NUY2E0M2pZQ1hpeDVRRjh2XzlpQlkwYTJPZFBDcG9RNkZQcVRpblN1eGFwM0duWXNsZHdqRjQtWXRCOEdOb1hYeUx1c0ZWTDhkcVdUTTI0WkZHaFBxRkt3WU9WaV9XWHZPUGd6VGtlcmFwWWtTTkhKZDVwM0V2eko5MDhHb0EtdXJhTnJ0LS1JMTREa2t2SURRcTFpdmxGcHlFWjJTOGNSeGRfM0tfSmVKbFpCcDZYdjZXZHpFRVlGWUEyb1dMRFZNSEJHM0VtbnlON0FUWDRidWQteU9xLXdjYjYtd3dtNTdyQVVpOWdVNnNfMHZYaUlVbjVieFNsZFNGSkR4VW44MlVNZ0NjeklpdFJHS2V6QS1WX0VNM2o4LVVzczBSS2xDMV92M2x5ZWowTmJVeFplRjhMQldFSWhXZWxwazhVcURnRUpISmp1WE4w?oc=5",
+            "published": "2026-06-22T15:05:58+00:00",
             "snippet": ""
           },
           {
-            "title": "איראן: פזשקיאן: מדינות שהגיעו לאזור זה ביקשו ליצור מחלוקות בין מדינות האזור ועלינו להיזהר שלא יוגשמו מטרותיהן - אלמייאדין.נט",
-            "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQanJjcmJPYnFMaVBKOS1zQ2NTT0JfdGV3aXFHRkdkX3VsTnNXMk1uZ1hySlIyOVA1UjVtdGw1TmtLQVk3aVZ0NThkQ1FrdWw1UTk4RFNzV1Fybm5acUJzU0JYcGRtZ2FTelI5N0lKT1BGTDJpZm54di1wVTJJVkxpVERONlFnUW1EWTBmTi1ydGRwTnEyWDh3Yl9HeW1UVFJyMFU1bzBPRTB3M19xZXk5ZUhJTzcxbTRYRlJoN3ppUkdCQ2J2bmtyb0dPNllTekVjVjJzbXEtTEN1SlA0SDNaamlmS2dVVW9Qbm5adFFqMUQ3Ti02Y2FFTGNQVHhETGk1QUVSczg2TEhiVzVJdGFOSDRacjdMUWROM1pPdjFEZjJ2c0l6elY0b1lIT2xjTjZ5a0NfYkFjSVFiVnotM21Ra25qcS1uRXk3aGQ2dnE1MEUyWi1QOFpCR05NZlB6VnhCN3ZrSG5mVTJ2ZGVpNUpCbFQ0ekVvRHI5TElDS3NWd0VNbkl4M2ZDVXhnMWMta1l2bFlMWW9BbG04ZFBHbUZBdzItRm1TaWl5QmF1RWx3TGpUVVphOTRXazRTdV9HRVNXYTA2TDhwZFVtREp2ZFVRMkU5TmE3eGZTcV91eWFxemd5ZTE1N2wzNmtJaEY?oc=5",
-            "published": "2026-06-22T11:40:33+00:00",
+            "title": "משרד האוצר האמריקאי משעה סנקציות על נפט איראני למשך 60 יום - אלמיידין.נט",
+            "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNTDUyTDVTWjNlTk5KSHJxWUZVT3Y2bzRSaDRVZzdza2FSc0R4YzExV3VyX0hrM2RabmlFT3NDUlpCd0xtQVNxbk9FcXFqVGRpS3g2TUN3Wkc2TEF5cl9uRGdyeGN2MnNLQTRLTmhWM2ZNVW1FUTFtdTlGNmVOM1cwZVdHZGVYQVI4MzR5Q01KYmpYLWludEplekFCaFIwWU9aWEVkMGpEOXZaNVItSlhKOERXRHRCSVl6THZSMDRJbVJQZTNlaGdlM3JFbHpTdUNjU3ZvZlp4U19kamt0bWk0TTgxOVVNQ3QtcG5qbzNNR3UwcVdGRmlia0t5Z0t1ZmVvSXQ4SE1BV00wVDlldERlaG5zaWdERjhtdXV4S0hvbHFWWU9WTl9PVGpVVVB5M2hjQWV2Z2pWR1g5SWRrcG5RNzJRSXNXVnFoNjd6RVdUaXpQLXVPMzE0NnpHdVMxbUI4NVlVUDVjUUVMcWxvTmpRUUlIYl95ZS1hU0tIWm9ubFdyUXFoSmNPYUw2QThac0tZZlBHT2R2ZnFWZW5FWkhqcWhfMmcyVGtocnFEbGlwOVJpeGtEb1ZMdlowVnl4RUNtMzBPYnRTaklFWnpKanBlc2Z6QWpKbEE3c3V1OHVWQnFRYi02VW51em930gHuA0FVX3lxTE5iLTNXdzVPY1pKYWJ5WjhxUVJneVF3LWw5VWFLRFUxajY0YmpiYUFPWE03TXlVQ19ad1U4YU41SWplQkNreXpmYWJfcXhzX2J6R1pZcm1oRGFGYmtmVWpSNGI3a0FaZExXWU8ycHZuRmZlYmdKR2FjVkN1Vzd1cS01d0xGYVhIdVItMnoyamJwWERlazJSZG8tY1g3b2plX0F2VkZkbnhMYWh0Mk9MU2h5eUV4UmR1VkFlclhWQmRwVEtDTkRtLXliTFBHb1N5d0thV09UWUtHUFJnQ21IdkltdTF5cmhSdVhpOVZlT0c5Ymo1TDA0alpocmd4OHZWRFVLeTAxcUhCMnBqRWVWSGQ4TGc5MTItc0VVV1VzcDludGNFajhvdXZ1b25VVThESFFINjVWa08yd0dlUWx0Q0FrUXB2OXA0aHhmUzBGXzBkV25pMjJjNjBQcjJ2eGpYSHg4bXRMR1FVM21xbldyVVRmckRzd0tmZkRLVm1qb3ZZd3NXbjk4S3JCMW1hdVgwNGtRaFZtdWl4Q21RTGhrMzdwSHdMVnFXVjN2ZzBCTkszYzB0dGNsaXhmY3hEaTFqbUxWUThpRExFbjhtOEtfNWdvRm93RFl2M2xhaktJbUE2eEhsZkpQM0NXNC1HRVRn?oc=5",
+            "published": "2026-06-22T14:40:52+00:00",
             "snippet": ""
           },
           {
-            "title": "איראן: הנשיא מסעוד פזשקיאן: האויב דמיין שהוא מסוגל להפיל את המשטר האיסלאמי תוך 3 ימים - אלמייאדין.נט",
-            "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOY0lROG5GcEF6Tk9uUEV2TThSczI4MWg3ZHRpMHpMd2VqYTJVdGRBUWNDWXRKSjVoZUU4ZjJDYWdyelJkSWdBU1J0TjlPaklSckRaTHBsTUlvQ19ZMEU4ZkllUENXaHdTRkpwcjV3UkIxUmo2M2hCand6RHhJaE1ORXFUVUU2N2laVXVvMVJGeVlDa0lQWDRRX29fWHI4ZjdmSXpBWDY5TjFMT1k2QWgyQVF1M0FpWDNLREJwMmE2bG1EZFZobXVWMEM1ZEo0QURCREZ0a2kxTkt5MjRubkp0NDhDSVpNUTNVeXZDZ3ZOU0RKbkxtcTN1Qm9US01SSUpfNjVBQWV6R3A2ZWdXRkQwMjcxcEN4NFNMaE9QNW8xT3pjWHlpYzZDLVZtY0sydG9Nem5VcWxyYnc0Zm5EdjAzWWtlemhpcXFDV18wakUyWFNwV3hlN2tmUWdDYi1iTlRRNFd0bEdOSzdCWEtXUGRsMmtUVzhNU0k1b3NFSWZmbTlrMThVbHpoTmM2NjVBNllTREp2SW5KQVVSOXRJSlpQU1RFaHNHMl9aZlVjbVktejRyRlpHT2VnbEQ5cjlZVDBBV2lNZEJSb1ppTFRQR1BjSVBiRGh5YXRzZGNlZGIyMEpOMlRBTGJLaTJmbjU?oc=5",
-            "published": "2026-06-22T11:36:27+00:00",
+            "title": "מנגנוני פיקוח חדשים לייצוב הפסקת אש על רקע משברי האזור - אלמיידין.נט",
+            "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxQa2RQZkFhNHJnVS1ydFlKTS1Qb3lrdTV2X2p4RnFfNHJVaDhBM0NIYkZrU0JGNkcxd09YdmVDTmpfM0QyM1owOWg0eGlobXRTak5DVnZPZlplSjlyMzFQeHBwQXEwcG1QRDRtSUx6cE9ONUxxVHRLTFdKZ19mS1FBSFJDdUVsQXlQNkdrTWk5S0p5Umd3LVBKYk1EUTlwZzhvR0JneWVaUmtoMlN6OVRER2taXzhDcFJPajJYeEpRZXFJQ0dfXy05aHhiWTJiTHNSb0VXTUJKRFJUWXZqLURhMV8xaU5hSjJ5Q0RkNTZsWGJUekh6Mmt4SlVGekJMSmxoREtCUVRCRUo1TkhKVzBIcXdmNWN0WkRLVHFVdnJvNjNVOTlHdDdpNDZGa09BT0RZT1MxenhyOWZUbHlEYUdBdEYweWxXdW0wa0pOUmc1RURJOFZKVWdFWDk1eVpCU21jOWRRWnFJQ0VYNmZtZm5scTVPYUtEU2g4dnhMbnVlbzRNWUFMQXBFa3BBTmcxakUtdE9sellseGlWZFNOU1VHWGhNVFRGWGU4c2YyekpXWGxkWWhCdkdkQ3p4LVMtVElYclhDYUVlbjczZWdnUE5qcDRDZVRQMWJhWWsxRmhJY0J1UjZGVGg2dWxSbVpIYW1KaFQ2cVk1aU50NFdNbjI5VlZrcm1EVlVSTHlTR200c3QzblAtcF94c21mNA?oc=5",
+            "published": "2026-06-22T13:57:18+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "דיונים מתמשכים על סוגיות אזוריות במסגרת משא ומתן מורחבת - אלמיידין.נט",
+            "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxQbVhpcVhReGZqUWZJcE8zMmsxX19lTzVSampYeGRQLU1ZVXo5eUQ4NExzX1lRQTc1UzFmR2ZsYjJMUGxPSlRJN1JhcjVSenBobWt3d2dCbjRaajFaMmxrRUd4NnBJMmdlbFh6QTdYVDB5REEydWpnUy1LYWxsVF9qQ3ZseU8yTk9SWkNBQ05md1duVXBOeDhGcUg3N2NKRXpxb0w2WHVRdmFsZmJUcG52NVNoNjgyMVk3M2JDdkV6enBseG1XUUg3eXFYUDhFUVZoVmRWek9UQnE3b24wbndCeEh3R1BHYWVBdEs5UGNmT3RBcmlRNndSVEF6aDVLdGJRZG5ITVB3RkNqTXVleEFDZDduUHBWR09uQ1lFeDNKU1Rsdjc1YlRUbDZfdWRBYXRfczBGWVNQWE00bWtFZWhEZVNfSWJ0WERTZ0I1aEtySktBZEwxeGo1cDh2TjFUUWNHRE9FSFNRb1ZHaEc5bFVFeFlsbmNYbk9YNEF1OW9kaVlpb3AycTJCYVhLcFNEV0ZETTZxcEczbm5Uamp1ZVVvYk1sdGtQSTc4RlhrcXhaZ3Z2OFpWUmxXUXJhRHJqTmdQNE9rN3NSQUJJVWZydGlMVTFRSFhiZ0ZIVWZRTFdiWjJTakdMbjdmWlZMcFhVcGY5SndFNmNQQTF6M2tmSnA1bFR5VzlpUVp5enR0eXF4RlJ5Nm9rTXZYQlVhaW45azc5SmpDdXA2eVJQMTA?oc=5",
+            "published": "2026-06-22T13:57:18+00:00",
             "snippet": ""
           }
         ],
@@ -1076,34 +1076,34 @@
         "url": "https://www.jordantimes.com",
         "headlines": [
           {
-            "title": "התקשורת הפלסטינית אומרת שישראל מחזיקה בגופותיהם של שני בני נוער שנהרגו בגדה המערבית - ג'ורדן טיימס",
+            "title": "לייבור ברנהאם מאשר שיבקש להחליף את סטארמר - ג'ורדן טיימס",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGV0NUFXUkYxakx1ZmkzY0JXZ2RhaXpacXVBVG1YcElWRGZaTWx2NWsxMXpjYURKdkVNN3FmMzhTcFNMRFBmdi1Rak5KcGNxZjUwWWVZQlVCYTBHRmVMNkVhVzNWTU9jengzNnRvajIzQWxJMF80VjhIR2FqaUVyZ0RVRzE5U2ZoamQwQ19XLXByckJzMUE?oc=5",
+            "published": "2026-06-22T13:58:36+00:00",
+            "snippet": "אנדי ברנהאם אישר את כוונתו להתמודד על תפקיד המנהיג שמילא קיר סטארמר."
+          },
+          {
+            "title": "לאחר שיחות איראן-ארה\"ב, שוויץ שוקלת \"חידוש מיידי\" של דיונים טכניים - ג'ורדן טיימס",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHp0RW9EMkxLeGhBcmJqamtIS2lNMlh1VlBacWVUemNtcWhkSFczNVoyRTBTMFhvX1AxalBQUWZsRHBBd1ExMGdweExESWVfQWY2MmNHa0tRYllzX1paVVgwMndxTS1aUXFScWZCS29wYjBlYW9WMWtIRWZXWmlKWTd4MkdhRXozR2ppaUFGTkpCSWoyZl9NenlmaG1OWnR5M3RPQ3ZDVzZUeGxDbHE4?oc=5",
+            "published": "2026-06-22T12:23:11+00:00",
+            "snippet": "בעקבות שיחות איראן-ארה\"ב, שוויץ מצפה ל\"חידוש מיידי\" של דיונים טכניים."
+          },
+          {
+            "title": "מדיה פלסטינית: ישראל מחזיקה בגופותיהם של שני בני נוער שנהרגו בגדה המערבית - ג'ורדן טיימס",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOanEtU3F6YnZTblZmR0x0TVpxZmp2TUFGNVFKajVfNmlMWTY3YjJZV1JhWWdqMWRBWDdmTzNjZERMWklyR29QNXpCWWpCa05nS1NhejExc0RiVkpoajhHc3NRakF4MV8xNlhmUTJ1X0cyU1hyM0Y3WWpLVDVFRFRMTGpKbFczNklRQWRNZXFibE9HOUtVbmotQl81WXo1akQwVEF5bUxqOEN2ckxFdG5FUmN5aw?oc=5",
             "published": "2026-06-22T10:19:27+00:00",
-            "snippet": "התקשורת הפלסטינית דיווחה שישראל מחזיקה בגופותיהם של שני בני נוער שנהרגו בגדה המערבית. מצב זה מוסיף למתיחות ולסכסוך המתמשכים באזור."
+            "snippet": "כלי תקשורת פלסטיניים מדווחים כי ישראל מעכבת את מסירת גופותיהם של שני בני נוער שנהרגו בגדה המערבית."
           },
           {
-            "title": "ארה\"ב ואיראן מתכוננות לשיחות בעוד סכסוך בלבנון מאיים על עסקה - ג'ורדן טיימס",
+            "title": "ירדן מבקשת תפעול גשר המלך חוסיין מסביב לשעון - שר הפנים - ג'ורדן טיימס",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFpXYWFZQmxQd3NnZHFFbjdmUG1oTkhjWVRYSVNrVm90OVd4ZDZjTmxmTnpQM1hybHN3a3JXc3JaOG5kR251Sm9IRzA1aXFUeTFaSm9HZTNmV0dyZm1uTWJlamo2UlMtZS04WUJvQ0huS0ZNV0VIbU1VbDlJR1dEWnFyVWdlRjF6eUd5d2hBbjJJakdSX2cxUG16M3MybzJXQkNaamt2ZDE5OENMeklNdWQzTVQ?oc=5",
+            "published": "2026-06-22T06:23:03+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "שיחות ארה\"ב-איראן קרובות, סכסוך לבנון מאיים על העסקה - ג'ורדן טיימס",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczRWaVF4cjVJemxjVl9mNS1mbWZKQmpDWW9Ka2FtZzZiVlJQWWdZMlMwMUhXVVNST2tidjFmWklPTXBCajZ5bGlNVUhkTm9FYjhab3ZVT0hxMUlXVW5oQU8zcTdURFdJVjBIS3VCd25MU3FxM2NlZzhZSmlKeFVqb1lOS0NndUtvZUFwNEU2R1BrcVNRVmc?oc=5",
             "published": "2026-06-21T19:47:56+00:00",
-            "snippet": "שיחות ארה\"ב-איראן מתוכננות על רקע חששות שסכסוך בלבנון עלול לסכן עסקה פוטנציאלית. משא ומתן זה חיוני ליציבות אזורית."
-          },
-          {
-            "title": "הבנק המרכזי האירופי מעדיף בנקאות חוצת גבולות באירופה - ג'ורדן טיימס",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmNnTlRFZ1JlbXkwaXNZYzZyUC1ibEs5SGY4dWN5ZnNHZ1ExN2RZcU9GYVRybzZGaHBYTlVJZ3lYQnZEdllXVzV2TFdTTlBDa0ZFN2FMQ09wNUs4RENlMXZrZU5VSjZESHk0LS1LWGtDWmFzMDJOM0N5SU1PSDZiNTFqRQ?oc=5",
-            "published": "2026-06-21T18:56:56+00:00",
-            "snippet": "הבנק המרכזי האירופי (ECB) מקדם בנקאות חוצת גבולות באירופה. מהלך זה נועד לחזק את המערכת הפיננסית והאינטגרציה האירופית."
-          },
-          {
-            "title": "הנסיך ע'אזי הושבע כמושל - ג'ורדן טיימס",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yNUZWV2dMSV9oQzlHNTl6V2hwTFBVdFIwUkdCU2VNVEZ4Rm5PRXBLWG5nMkdVTy1fVkRrSjZUMHlEOWhPcW5GYV9QUXRGX245UHFrMG5iZHlJOHZEejB0VHA0a3hJSEdVLXhtTjlKaUJGMjF2?oc=5",
-            "published": "2026-06-21T18:54:47+00:00",
-            "snippet": "הנסיך ע'אזי הושבע כמושל, מה שמסמן שלב חדש של מנהיגות. מינוי זה הוא התפתחות משמעותית בתוך בית המלוכה הירדני."
-          },
-          {
-            "title": "תוכנית פיתוח ב-800 מיליון דינר ירדני לזרקה לשיפור שירותי מים, בריאות ותחבורה – מומאני - ג'ורדן טיימס",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTm0yRXB6cEg5RmZ6YlI2b2lnZkYwUGRpZERXQ2lVU01LV2t3X1A4azJwb0puS1MtMEowZDZuMElKQmRObWRDZUZ4dU9MMkU4QjFrMnZYWDlSVEg4TmdNR0tfN3VNNU5qRmpOc0lHNU9pVzI3bzVhZVVuakVsU2w4N09Ocko2MmhGSVRUc2QwQUlzSWszMGUzLUkwVGswSlFOVGxJUGd4b0FWQ2Q5emFDWC16TVJfNm1MckVv?oc=5",
-            "published": "2026-06-21T18:54:46+00:00",
-            "snippet": ""
+            "snippet": "שיחות ארה\"ב-איראן מתוכננות להתקיים, אם כי הסכסוך בלבנון מהווה איום על ההסכם."
           }
         ],
         "error": null
@@ -1115,34 +1115,34 @@
         "url": "https://today.lorientlejour.com",
         "headlines": [
           {
-            "title": "איראן אומרת כי ניהלה \"דיון קצר\" בנושאים גרעיניים עם ארה\"ב במהלך שיחות ג'נבה; ישראל הפילה רימון ליד עיתונאים בנבטיה - ל'אוריינט דה טודיי",
-            "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
-            "published": "2026-06-22T11:26:15+00:00",
-            "snippet": "איראן דיווחה על דיון קצר בנושאים גרעיניים עם ארה\"ב במהלך שיחות ג'נבה. בנוסף, תקרית ישראלית כללה הפלת רימון ליד עיתונאים בנבטיה."
+            "title": "עם פהד אל-דוסרי, ערב הסעודית שואפת להשיב את היוזמה בלבנון - ל'אוריינט טודיי",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGZXOGI0MGJUZlBMakI2Vmh6QXhteW9XQ25XbVBFQ2xrMEpxREZPUFRUUGJqbUg5MWdkdzBuV2tIWnNDVUxuNFNJSVp0QzFvaVdpdDdkY3R6V3ZkYTh6eXRkSFdGYnVPNzJyVWVlT0JMQVlrS1BrNkNsUXdMNlE5d19OQ0J0djkwMVlBUmZ6TTNiZk03MEVGdmJwTFN5WU5HQ3BQcVpWOExFZ2dLRDJIck5zb0dQbDBNZk52aVFwcTh0MkdST3lOOA?oc=5",
+            "published": "2026-06-22T14:01:49+00:00",
+            "snippet": "ערב הסעודית, יחד עם פהד אל-דוסרי, שואפת להחזיר את השפעתה והיוזמה שלה בלבנון."
           },
           {
-            "title": "ציר אסטרטגי אנקרה-דמשק-ביירות נגד תל אביב? - ל'אוריינט דה טודיי",
+            "title": "ואנס: \"יסודות איתנים מאוד\" הונחו להסכם סופי עם איראן; יריות וירי זיקוקים דווחו בנבטייה - ל'אוריינט טודיי",
+            "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
+            "published": "2026-06-22T13:32:15+00:00",
+            "snippet": "סגן נשיא ארה\"ב ואנס הצהיר כי \"יסודות איתנים מאוד\" הונחו להסכם איראני סופי, בעוד תקריות ירי וירי זיקוקים דווחו בנבטייה."
+          },
+          {
+            "title": "ציר אסטרטגי אנטליה-דמשק-ביירות נגד תל אביב? - ל'אוריינט טודיי",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0I2YmNUMjY3eTBYUVNReVBCU25rZzJQd2FjYUdVU0E3cjZkQ3pxMGFKc3N0RUJiY1FRcm8xYVNwS3U4dGFySVlMOXh5ZTJnR3R1dHpSVS1CQml3VnN4RE5GWkFFRTVYdVJHcUZkMFVNUVZLc3RXUDB1NnV4cU1PbVZtS2ZiX3RFdlM5VjlXQjBjYndxQXJvYnRfNFBmVzE0SlZjRy1YRGpybDk0M1E?oc=5",
             "published": "2026-06-22T10:37:16+00:00",
-            "snippet": "נשקל ציר אסטרטגי הכולל את אנקרה, דמשק וביירות נגד תל אביב. ברית פוטנציאלית זו עשויה לעצב מחדש את הדינמיקה והבריתות האזוריות."
+            "snippet": "המאמר בוחן את הפוטנציאל לציר אסטרטגי בין אנטליה, דמשק וביירות כדי להתמודד עם תל אביב."
           },
           {
-            "title": "כבוד למגע המוזיקלי המתמשך של המלחין הלבנוני גולמיה - ל'אוריינט דה טודיי",
+            "title": "הוקרת הנגיעה המוזיקלית המתמשכת של המלחין הלבנוני גולמיה - ל'אוריינט טודיי",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGt2VFpaNkhVb3VreExvUDdBa191TDdWdXllNHlVbjV4Q1hDamM0dFk1QkhUa0xjQlF1ZUt4SkpXY3c1b1Bhb2hkV21xMktnVTBmb2J3eXR2TWNvcGJIREJENElhT1J5QU1iRVZzb1RuVHlmUjFXTngzakhHTjZRTUt5MTJjc1ZoUjQ4VXNEbGo5ZWI1bWRncDRmWkpCWXhrZDlhTlJ6dHZ1N2RWRXBBNQ?oc=5",
             "published": "2026-06-22T08:56:14+00:00",
-            "snippet": "כשרונו המוזיקלי המתמשך של המלחין הלבנוני גולמיה זוכה לכבוד. תרומותיו למוזיקה מוכרות בהשפעתן המתמשכת ובערכן האמנותי."
+            "snippet": "המאמר מכבד את הכישרון המוזיקלי המתמשך של המלחין הלבנוני גולמיה."
           },
           {
-            "title": "מחירי הנפט הגולמי יורדים בעקבות שיחות \"חיוביות\" בין ארה\"ב לאיראן - ל'אוריינט דה טודיי",
+            "title": "מחירי הנפט הגולמי יורדים לאחר שיחות \"חיוביות\" בין ארה\"ב לאיראן - ל'אוריינט טודיי",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQTVLQWlqOUl4ZjRIcWZjRGVaT09LRGkyVERzWE1zY3FwaFpsakhCa3UyT0FudzJmMmFVblZxT3R1cHRKMThvLWFucTFqa09nVG5ycmxwc1VWMFU2dGw2d0hoQy1idkFwazF5YW9mMDI3eTgyNkhsV1Z2S2oydkxUTnJhYWNkVVFoNW1FanRycmM3ZVpUQkhZd1Q0VVFiOGlD?oc=5",
             "published": "2026-06-22T08:41:50+00:00",
-            "snippet": "מחירי הנפט הגולמי ירדו בעקבות התפתחויות חיוביות בשיחות בין ארה\"ב לאיראן. השפעה כלכלית זו משקפת את תגובת השוק להתקדמות דיפלומטית."
-          },
-          {
-            "title": "ראש ממשלת ישראל אומר שכוחות ישהו בדרום לבנון \"כל עוד נדרש\" - ל'אוריינט דה טודיי",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGxBbnhWNEVxUTVHaFRSSGZUOGNfV25uZDZtODlTQzhaY0hzNFhwd3NTaHJJSGVwUzBUd3AyQmZXU2hRNFVMYzMyN0YwbVd0NkhpQW9aOHVKZWNNMGJkYWNmZ0YzUkpFcklEYUdlVTdaWHhwZkVSOFlxMzV3UlNUR3k1blVUczF0bS1lTExGSDBsQW0zT3lGc09FWHRIaVhxdTFvLW1ESTlxUDNTRXFaLTV4ZEhtOWR5VGlhcg?oc=5",
-            "published": "2026-06-21T15:48:11+00:00",
-            "snippet": "ראש ממשלת ישראל הצהיר שכוחות ישהו בדרום לבנון \"כל עוד נדרש\". החלטה זו מדגישה את חששות הביטחון של ישראל באזור."
+            "snippet": "מחירי הנפט הגולמי ירדו בעקבות דיונים \"חיוביים\" בין ארה\"ב לאיראן."
           }
         ],
         "error": null
@@ -1154,34 +1154,34 @@
         "url": "https://egyptindependent.com",
         "headlines": [
           {
-            "title": "זלנסקי מחזיר את הכבוד הגבוה ביותר של פולין על רקע מתיחות גוברת בנוגע ליחידה צבאית לאומנית",
+            "title": "זלנסקי מחזיר את הכבוד הגבוה ביותר של פולין על רקע הסלמת המחלוקת סביב יחידה לאומנית מתקופת המלחמה",
             "url": "https://www.egyptindependent.com/zelensky-returns-polands-highest-honor-amid-escalating-row-over-nationalist-wartime-unit/",
             "published": "2026-06-22T12:56:13+00:00",
-            "snippet": "מנהיג אוקראינה וולודימיר זלנסקי החזיר את הכבוד המדיני הגבוה ביותר של פולין על רקע מחלוקת בנוגע ליחידה צבאית לאומנית. זלנסקי הסביר שהמחווה נועדה עבור העם והצבא האוקראיני."
+            "snippet": "מנהיג אוקראינה וולודימיר זלנסקי החזיר את הכבוד המדיני הגבוה ביותר של פולין בשל מחלוקת סביב יחידה לאומנית מתקופת המלחמה, וציין שהפרס נועד לעם ולצבא האוקראיני."
           },
           {
-            "title": "רגולציית AI היא בלגן, ואנתרופיק לכודה בצלב",
+            "title": "רגולציה של AI היא בלגן, ואנתרופיק לכודה בצומת דרכים",
             "url": "https://www.egyptindependent.com/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
             "published": "2026-06-22T12:53:52+00:00",
-            "snippet": "מודל ה-AI של אנתרופיק הוסר מהגישה הציבורית זמן קצר לאחר שחרורו עקב פריצת אבטחה, שסיכנה את הביטחון הלאומי. ממשל טראמפ הטיל איסור ייצוא, שהשפיע על פעילותה של אנתרופיק."
+            "snippet": "מודל ה-AI המתקדם של אנתרופיק הוסר במהירות מהגישה הציבורית לאחר שנחשפה \"פריצת דרך\", מה שהוביל את ממשל טראמפ להטיל איסור יצוא מטעמי ביטחון לאומי."
           },
           {
-            "title": "ישראל שוקלת להכריז על נסיגות \"סמליות\" כחלק משיחות עם לבנון, מקור אומר",
+            "title": "ישראל שוקלת להכריז על נסיגות \"סמליות\" כחלק משיחות עם לבנון, כך אומר מקור",
             "url": "https://www.egyptindependent.com/israel-considering-announcing-symbolic-withdrawals-as-part-of-talks-with-lebanon-source-says/",
             "published": "2026-06-22T12:48:57+00:00",
-            "snippet": "ישראל שוקלת להכריז על נסיגות \"סמליות\" מדרום לבנון כחלק משיחות קרובות. מהלך פוטנציאלי זה נדון לקראת משא ומתן בחסות ממשל טראמפ."
+            "snippet": "מקור ישראלי מציין כי ישראל שוקלת להכריז על נסיגות \"סמליות\" מדרום לבנון כחלק משיחות קרובות עם לבנון, שייערכו בוושינגטון תחת ממשל טראמפ."
           },
           {
-            "title": "איראן מראה לטראמפ כמה קשה יהיה להשיג שלום",
+            "title": "איראן מראה לטראמפ כמה קשה יהיה לעשות שלום",
             "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
             "published": "2026-06-22T12:46:51+00:00",
-            "snippet": "השגת שלום עם איראן מתבררת כתהליך קשה, שכן השיחות הראשוניות של סגן הנשיא ג'יי די ואנס בשוויץ נתקלו באתגרים. הצועהזכרון ההבנות הקיים שנחתם על ידי טראמפ נועד לעצור את הלחימה."
+            "snippet": "שיחות השלום הראשוניות של סגן הנשיא ג'יי די ואנס בשוויץ לגיבוש מזכר הבנות בין ארה\"ב לאיראן נתקלות בקשיים, מה שמדגיש את הפוטנציאל של פתרון קונפליקטים להיות מאתגר כמו מלחמה."
           },
           {
-            "title": "למה אנחנו מתביישים בדיאלקט המצרי?",
+            "title": "למה אנחנו מתביישים מהדיאלקט המצרי?",
             "url": "https://www.egyptindependent.com/why-are-we-ashamed-of-the-egyptian-dialect/",
             "published": "2026-06-22T10:58:13+00:00",
-            "snippet": "הערבית זכתה במקום החמישי בעולם עם 335 מיליון דוברים, אך מדד אחרון התמקד באופן מפתיע בדיאלקט המצרי. המאמר שואל מדוע אנשים עשויים להרגיש בושה בדיאלקט זה."
+            "snippet": "מדד השפות המדוברות רבות מדרג את הערבית במקום החמישי עם 335 מיליון דוברים, בעוד שהמאמר מעלה שאלות לגבי היחס החברתי לדיאלקט המצרי."
           }
         ],
         "error": null
@@ -1193,34 +1193,34 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
-            "title": "10 מזונות מרעננים... מה אפשר לאכול כדי לשמור על נוזלי הגוף? - אל-אח'בר",
+            "title": "10 מזונות מרעננים... מה לאכול כדי לשמור על נוזלי הגוף? - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPUGdSdWZfZ3RMME5MM0dTZHpVQ2lBWjVacEZVaXpZVGhYdjBKd2xUbXM0TDlTQTczblF5dzdycW80b050d0hWRWhpUXluU1BtYXZLQUNlOF96eFlTaUF3YkhkMXBZUHF0QjVYOXpsdmtOQU1pamRWcmJaVWlrWWptTEQ0QnhoWFNCYmd1NVFBNTVUcVI1SzlHSDA5MjJCVnBZUXVTTmtSeE5jeHE5MXc2SzlWU004UGRjSUlDS28wc1FadF9UeTlLbEJ6WFpiam5ySjFSa1k0UllHUTVMQUE1ZGpnRXNKQlhfLVZXV2lBbWNqbWtqaG5sNmwzRU9NLUhOSmlMd1RFYVRsVzdIUDVSbDNLVm8wRmFpTnBOMUZPeXJSelg4azFicjBNR21pNmprdUZYWXhJZFJUYXFicE05Q19Mdm1tbThIRjFLLXp1YjNDdkJFYW9kUmtYNDFlVXI1clBBYVFSVHhGQ0RjaU04SDFMLUlQTVZJNlBISEQycVFiVDE3MWdOMGhvYnoxRllBWXZ3cE5ueGs2UjI0V3RNUHJWLW1JOWFjRC1XVGJva085SENmeGFyM2JyVnhTLVZEeUFIWQ?oc=5",
-            "published": "2026-06-22T13:00:48+00:00",
-            "snippet": "10 מזונות מרעננים... מה אפשר לאכול כדי לשמור על נוזלי הגוף?"
+            "published": "2026-06-22T16:00:48+00:00",
+            "snippet": "10 מזונות מרווים: מה לאכול כדי לשמור על נוזלי הגוף."
           },
           {
-            "title": "קטאר קוראת לנקוט משנה זהירות: ישנם גורמים שרוצים לחבל במשא ומתן - אל-אח'בר",
+            "title": "10 טעויות נפוצות בהליכה שעלולות למנוע את יתרונותיה - אל-אח'באר",
+            "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOdDFUSkVvVTNzNFNTNmJndDZfZ0NCY2dzZEpvYUtGcVB5OC1HMi13ZkVSMWNrQkk1Sm1RWXlHemlHVC04SjBQRU5jSDJUdG9RVHkwd0tVaTZtSl9hZzdORU9Ha3Btbnd2VzhkQjZIMmZ1TkZjdTBJTE1VMUl1NTFZMlA5ZWpJNTRTZExFaTUtcF95cnBFRXk0WkJZY200MUR4V3RwVGZfR1Jzdjl0SHdiaW40dVI3T0tseU02M1Q3VVJpWnBfajFaQlIwb0NBakFfcWNkeFAzZU9icV9ZN3Z3eUh3MmtYQ01QMVhzdm15WVJ1dl9pam9kWHdEc2YxWDVOTjhjSTVRRVU1Yk1GakN1aTFZaTlQTURobXlDdGwtendfcVRJdmlVMk9JQWZfeHJNSzFfV2g0WklaR20wbGJzNjg2cHRrQjAwQ1lSa2hKSTkyTUlEN3RpSVFKZXhxWDA4UFh1V1pmTm5QWm1nUjBvbUNZNXA5OWU4OXpr?oc=5",
+            "published": "2026-06-22T14:47:52+00:00",
+            "snippet": "10 טעויות הליכה נפוצות שעלולות למנוע את יתרונותיה."
+          },
+          {
+            "title": "קטאר קוראת לנקוט זהירות: ישנם גורמים שרוצים לחבל במשא ומתן - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQZlVYb24wTU02VDBRbmY2Yks2bUJwSmJoUzMzbW5qdFNzc2JCNnJlampGLXlHbUhuZTZPT3Z6cE9mdmFLLXMzQWREMm1uWTdEWEEwYjRyNDVCZ1JnTEFseGxHd2I3N1UweG8yX2J1SjVHN3hHTlF5Q2g0U0lNMnJHRUpNNHI2Q0lJU0kxdXRQN3B4cEp6R2lEMlNQa1d6TTVhTnhvSGxFdkM5SWctbmVLRlFxd2N5YUlXbmlDSWxKUFFlZjdYOHRxNE5ka1NmbGZLeUVCUTVJRTRKYjNscGxxN25ZelNMU0hESVlOSHZkbF9xUVVLX2dzbkZjMV9IWFVsVHloZktic3phWFZRcFYzTV8tT2VIZEtCMHNTWFVJTzhUVE5hUEhBdmlYRVZxX0xOT1NlOWowTFJPbmpTeWd3Smd0RHgxbUoxamszSzI4cUlDUExqd1p6X2lMOFlad2xvZWx4c0VaY1ZaUVIwdzItdGpPeC1YaVZvQkRxSFI2VllXZ001RTJFdWMyYWdMd0xObDJMOXNBa1RPTzg5ZkNLTGUwYmhURHN1aUdyaE9xRTlDZnpTdG8tVW5pcUQ3R1NHS1pvbA?oc=5",
             "published": "2026-06-22T12:16:09+00:00",
-            "snippet": "קטאר קוראת לנקוט משנה זהירות: ישנם גורמים שרוצים לחבל במשא ומתן."
+            "snippet": "קטאר קוראת לנקוט זהירות, וקובעת כי גורמים מסוימים שואפים לשבש את המשא ומתן."
           },
           {
-            "title": "מצרים עוקפת את ניו זילנד ומשיגה ניצחון ראשון בתולדותיה במונדיאל - אל-אח'בר",
+            "title": "מצרים עוקפת את ניו זילנד ומשיגה ניצחון ראשון בהיסטוריה המונדיאלית שלה - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOLWE2T2tYdS0xMDJzQ0pKRS0xOERCVXh0RWFXSS1Wby1rX3lUUWZaYmFyenBoMG9pdm8tRlRoS21IQnUzbkZNWmt6cjJSWnNQTXhrSnVCZ29Ea3BuQUV2SmlrVHdSM3NPcElsOHF1bm41bkFrc001S1JyVG9YTkp1NGhCRFN1NFlUaFhvakw5QUdZX283NXdSU1p2aFIzT3Fmc244c1lBWC1KMmxnSnMyUFFCZjNCYXJqQVNSRjVkVEZnM0E2aTdvWEt6dTExWGE3VDUxdmlsVUthWHlGRW1MTUNTSGhsZU1WdG9vd21sRWR0c1J6cEllc0hzaHhlWlkzLUdsZkd0ME11M1RXYzRmM1lFemNMc0liMEtWZEJfbXlRT3NEOHpxSmVzRGltUVRzZkdPcmZIbkR4UVNqUHVxcVB3Yy1VSVVTeDd4MC1ZcngzRkppcjhSUUtjTU5XWjJJUmwtbE5ubnNISmt5eDlhb0k1cnFaNlZFSXNYQU1PY0VDYmV5QV9LZHVLR29pTWotbmZiLUljdWRqdWtTWV81ZVp3WDlKUlZUX2FQV1U2MlhtQUx1MWdMVmtVcndlRHlsSkV6VVppeTlHUjBCNHV2bDYtR1pGSnhJaDRKbF9tTHFySEU?oc=5",
             "published": "2026-06-22T12:06:00+00:00",
-            "snippet": "מצרים עוקפת את ניו זילנד ומשיגה ניצחון ראשון בתולדותיה במונדיאל."
+            "snippet": "מצרים השיגה את ניצחון המונדיאל הראשון שלה אי פעם על ידי הבסת ניו זילנד."
           },
           {
-            "title": "סין מטילה הגבלות על חברות ביטחוניות אמריקאיות בתגובה לסנקציות וושינגטון - אל-אח'בר",
+            "title": "סין מטילה הגבלות על חברות הגנה אמריקאיות בתגובה לסנקציות של וושינגטון - אל-אח'באר",
             "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNZmRpRXVOcWRmSGQzUTFxeG5LUi1fY3JrZXB5d0dLMG5NOFdyZ01UNXJMWHRpVlZ3SjM3cDJFcVV2MjcwYU9id1R0YkJLUC0xRVJlV3VFZ1Y0TV9KVk1ud2oyYjRMQ3FQdVpIdVh6WE5FT2E2RWNwTUpXVE5pY1dKaUFYeEFXRlVCUWpQQnplQ0xjaG5mTnFCTmZ2NlE2UVlTME5udlRsRjQwNmNELTBOQm4wby1LM1ljRnlfcE1FbmVPd281NE1lb0F0ajV2bDFNQXdJemlSV3N5aWZoYlRQYzZXcmwwRFJoRWQ5QU15NF9HekNCZ0RJTng3SFl4RGdsUFBoWnRId3dsQ3dzWGJ0Q1ZhSW1lM3BVUUZGT1JFcUpNZGtQQi1mNHNqUjk0QWpBZUlUa2J4MkNyX21vVXhjNmZYcVpqZVBPOVZISGVHejkzdVpSTlhRSEhyTWxzWFJwSzF4LXMwRUluX3pKS0ZzUk9RRjdfR3BIRmwzbVRyTVliRkdwU0RTSHNNdzZHRUtlU2FCbG1aZ2JxLVQyR1QtMEV1Mm9iZ3VpUWFYUExRNnFLX0FYeF9za19YRkJOS3RRLTAya25Sc1RVMVRuWG5wSzlTUjV5SVlEeURpODJ4SUJGU19LNVNnQVhyc0JQY05Rd3V6ZQ?oc=5",
             "published": "2026-06-22T09:41:14+00:00",
-            "snippet": "סין מטילה הגבלות על חברות ביטחוניות אמריקאיות בתגובה לסנקציות וושינגטון."
-          },
-          {
-            "title": "איראן מתמודדת עם תמרון אמריקאי: ההסכם מחייב אתכם להבטיח נסיגה ישראלית - אל-אח'בר",
-            "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOUDRlb2NDamt0RlZDSXFfQTFndEoyLVkyY1Z3YnJvSlRlMHZYNmF4cHBLSFNXSmxoSEdOOUxuVF9aTlRaYXlNMUZWdGNoRzZ2VS1QeTFmd0ozX04zcjRQbXBuS2dfRUdtQ3FvT2VIUXRHV19SbmlOaG90SjFrUXgtQXdKUlI0bmRsQ1RXWTc2Qzl2NXRvaUpqdzdYa3FKQVVGbTQ2UUY0T21RVWNEaWNwMDBBbE85V0JhUUs4blNMZHVidG9JQUt0VUtFRDlLSlRRNlV0TVp2Ny15YUtPa3JodVprSUxsX1czY1dWVjFfTUZfT244d3dPQ3JIMTYtSmtfMHI0bG5BZ0ZjRXlLaTV6Tkd4bk9NWThXSS1WazI0ajF4Sl9pV1ZSdjhxeHlNVEdZUk56ckdWQUhXa2RacXhMUDJMV1JPRGlSeFpCdUEwZVZpck0tVHZsTThscjNRYUpsSVlUbTdNbGo3NlFyTS1TSU1TWTNwaXFEbDVTcUh1MUNXVVlhblQwWmNGRlpIQW4zX0lIaWlRclVFNm9FcEhnblotdXcxVmJjX2hMUmtKamtYbXdjNHgxdWptSWZWNWR0d0xjc3ROMURfSEpVR0NrVXZRX2hneGJJR1pnWWxCaFRQQ2JvemRicTFvbjdUYXBQTFB2d0lmUnFXTEZmOWpEQmRVcWNBY2M5dEJ1QXg5dw?oc=5",
-            "published": "2026-06-21T22:09:00+00:00",
-            "snippet": "איראן מתמודדת עם תמרון אמריקאי: ההסכם מחייב אתכם להבטיח נסיגה ישראלית."
+            "snippet": "סין מיישמת הגבלות על חברות הגנה אמריקאיות כמחאה על סנקציות אמריקאיות."
           }
         ],
         "error": null
@@ -1232,33 +1232,33 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "דו\"ח מצולם | אבו מוסטפא עלוויה ממשיך ממרש אל-ראס לכורה בשירות מועצות חוסייני",
-            "url": "https://www.almanar.com.lb/article/969762/",
-            "published": "2026-06-22T14:00:09+00:00",
+            "title": "משרד הבריאות הלבנוני: הספירה המצטברת הכוללת של התוקפנות מ-2 במרץ עד 22 ביוני עמדה על 4175 הרוגים ו-12164 פצועים",
+            "url": "https://www.almanar.com.lb/article/969982/",
+            "published": "2026-06-22T16:57:02+00:00",
             "snippet": ""
           },
           {
-            "title": "כינוס העולמאא קיבל משלחת אלג'יראית שסיירה במספר מרכזי עקורים וסיפקה סיוע",
-            "url": "https://www.almanar.com.lb/article/969732/",
-            "published": "2026-06-22T13:56:49+00:00",
+            "title": "רויטרס: מלאי הנפט הגולמי ברזרבת הנפט האסטרטגית האמריקאית ירד לשפל של 1983",
+            "url": "https://www.almanar.com.lb/article/970012/",
+            "published": "2026-06-22T16:40:53+00:00",
             "snippet": ""
           },
           {
-            "title": "דו\"ח מצולם | ציד'א וסביבתה מלווים מספר שהידים למנוחתם האחרונה",
-            "url": "https://www.almanar.com.lb/article/969742/",
-            "published": "2026-06-22T13:56:12+00:00",
+            "title": "הנשיא ברי נפרד בניחום מאמיר קטאר השייח' תמים בן חמד בן ח'ליפה אאל ת'אני על קורבנות תאונת \"ראס לעפאן\"",
+            "url": "https://www.almanar.com.lb/article/969997/",
+            "published": "2026-06-22T16:18:41+00:00",
             "snippet": ""
           },
           {
-            "title": "דו\"ח מצולם | תושבי קוות'ריית אל-סיאד מאשרים את התעקשותם לחזור לאדמתם",
-            "url": "https://www.almanar.com.lb/article/969717/",
-            "published": "2026-06-22T13:53:45+00:00",
+            "title": "האם נפלתם קורבן ל\"אשליה שיטתית\"?",
+            "url": "https://www.almanar.com.lb/article/969897/",
+            "published": "2026-06-22T16:14:55+00:00",
             "snippet": ""
           },
           {
-            "title": "הנשיא הכבוד של עיריית כפרא פיקח על פתיחת הכבישים בעיירה והעריך את מאמצי משרד העבודות: לשיתוף פעולה וסולידריות להחזרת העיירה לקדמותה",
-            "url": "https://www.almanar.com.lb/article/969632/",
-            "published": "2026-06-22T13:51:34+00:00",
+            "title": "ראש המשלחת האיראנית למשא ומתן מוחמד באקר גליבאף עוזב לסולטנות עומאן",
+            "url": "https://www.almanar.com.lb/article/969922/",
+            "published": "2026-06-22T16:07:47+00:00",
             "snippet": ""
           }
         ],
@@ -1271,34 +1271,34 @@
         "url": "https://english.wafa.ps",
         "headlines": [
           {
-            "title": "הרשויות הישראליות מוציאות צווי הפסקת עבודה לשישה בתים בעיירה באזור ג'נין - סוכנות ואפא",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQS05Y1dncDBYLW1lMGlHeFJFcklPNGhnS3ZHYkxEcWtCaThrS1RwLXJPRDM2MEJxRHNUY1RfZTJTYTFlS3RGY29rZmJaRlRIRGo4M09MRQ?oc=5",
-            "published": "2026-06-22T13:28:44+00:00",
+            "title": "הנשיא עבאס מביע תנחומים לאמיר קטאר על קורבנות פיצוץ מפעל ראס לעפאן - סוכנות WAFA",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VQXdvbDFuaGhFTjV5UFRHaVlBb1RQX3M0X2FNUTBRNkFPVktzRFhtQVprcHVDdWdmVXpmXzY3Q2FveWJoaUNsaHBtdVJrNUdxbGtaSmpLaw?oc=5",
+            "published": "2026-06-22T16:47:13+00:00",
             "snippet": ""
           },
           {
-            "title": "האגודה למען האסירים קוראת להתערבות דחופה להבטחת שחרור שלוש נשים פלסטיניות בהריון עצורות - סוכנות ואפא",
+            "title": "פגישה בטובאס מזהירה מפני עיצוב גיאוגרפי מחדש של בקעת הירדן על ידי פעילות קולוניאלית, חומת ההפרדה וכבישים צבאיים - סוכנות WAFA",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWb09kLXhZQWpZeGxYeGplZk5ocUtZeXBEN3EzQUZ2MWgtalI1cTNZQmpFeHJyMVhzT2hXTFhuSElPZzRvZUphWVVQR3NST19uVWFqMFFJNA?oc=5",
+            "published": "2026-06-22T16:26:55+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "כוחות ישראליים עוצרים ילד בעיירה סילואן שבמזרח ירושלים - סוכנות WAFA",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxSnhwZFBwQ3kxdmt1R2M2MTFFTEVxeDR4QTZMTktaVGpzVm9tdVVodFEtTDRJaE5LaUE1SVh0UGxVLXNYckdNdDRleC1FN3VhRndVeXd2VQ?oc=5",
+            "published": "2026-06-22T14:48:16+00:00",
+            "snippet": "כוחות ישראליים עצרו ילד בעיירה סילואן שבמזרח ירושלים."
+          },
+          {
+            "title": "הרשויות הישראליות מוציאות צווי הפסקת עבודה לשישה בתים בעיירה באזור ג'נין - סוכנות WAFA",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQS05Y1dncDBYLW1lMGlHeFJFcklPNGhnS3ZHYkxEcWtCaThrS1RwLXJPRDM2MEJxRHNUY1RfZTJTYTFlS3RGY29rZmJaRlRIRGo4M09MRQ?oc=5",
+            "published": "2026-06-22T13:28:44+00:00",
+            "snippet": "הרשויות הישראליות הוציאו צווי הפסקת עבודה לשישה בתים בעיירה ליד ג'נין."
+          },
+          {
+            "title": "החברה למען האסירים קוראת להתערבות דחופה להבטחת שחרורן של שלוש אסירות פלסטיניות בהריון - סוכנות WAFA",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fRVRSNnRGWDBMdlFRS2ZDQTVjcGgxZ29Kcmo0aGRCV0ROM0Q1Z1FGWkU0bFR2cVYwT05FaXBBbDE5OHF4Mks2RURxYVJ3dnlFN0V3azUwVQ?oc=5",
             "published": "2026-06-22T12:58:20+00:00",
-            "snippet": "האגודה למען האסירים קוראת להתערבות דחופה להבטחת שחרור שלוש נשים פלסטיניות בהריון עצורות."
-          },
-          {
-            "title": "מתנחלים ישראלים תוקפים, עוצרים לזמן קצר פלסטינים ליד רמאללה - סוכנות ואפא",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfXzBZUnp0ZzR0enBFeWt5Rk0wRlBnWHVkVXJSNjdlZmgyMVd6Vm92Qk1SbGEtenlaZ2NVWno3elJrd0FjOUw1bWlNanRnbGFyU0g1S3JGYw?oc=5",
-            "published": "2026-06-22T12:53:49+00:00",
-            "snippet": "מתנחלים ישראלים דיווחו שתקפו ועצרו לזמן קצר פלסטינים ליד רמאללה. תקרית זו מוסיפה לדאגות המתמשכות בנוגע לאלימות מתנחלים בגדה המערבית."
-          },
-          {
-            "title": "כוחות ישראליים מונעים מחקלאים פלסטינים לקצור אדמה ממזרח לשכם - סוכנות ואפא",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tNkMtS21xdGlRc3hSSEgtY0U5U1VMYWU3Mkk1X2dLWkdkZWN0YzhBTUdpUTJhZG1xdUpsVkZyQ3N4TTFjdzFINFFSUUVzUDdNZl9ZdE1XYw?oc=5",
-            "published": "2026-06-22T12:18:26+00:00",
-            "snippet": "כוחות ישראליים מנעו מחקלאים פלסטינים לקצור את אדמתם ממזרח לשכם. פעולה זו מגבילה פעילויות חקלאיות בגדה המערבית הכבושה."
-          },
-          {
-            "title": "מחלקה לענייני ירושלים: הריסות ישראליות נועדו להנדס מחדש את דמוגרפיית ירושלים - סוכנות ואפא",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzbHhYZUVwOVZabGQ5MzVsamlwYVlxd1lPN210bXByZy11MmlYMlBvY0xWLTdHS1NNck42NXpaQjVMMGF5ZS1nNEhrZ0xiOGF1a2FaZ0UwRQ?oc=5",
-            "published": "2026-06-22T11:48:25+00:00",
-            "snippet": "המחלקה לענייני ירושלים הצהירה כי הריסות ישראליות בירושלים נועדו להנדס מחדש את דמוגרפיית העיר. מדיניות זו נועדה לשנות את הרכב האוכלוסייה בירושלים."
+            "snippet": "החברה למען האסירים קוראת להתערבות דחופה להבטחת שחרורן של שלוש אסירות פלסטיניות בהריון."
           }
         ],
         "error": null
@@ -1310,34 +1310,34 @@
         "url": "https://paltoday.ps",
         "headlines": [
           {
-            "title": "רופא מזהיר: הישארות מים באוזן מהווה סביבה פורייה לחיידקים ופטריות - פלטודיי.פס",
+            "title": "רופא מזהיר: מים שנשארים באוזן הם כר פורה לחיידקים ופטריות - paltoday.ps",
             "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYkZlUUN4REdZUzZ4RlMtUm5GNUc3ODZaRnVQanliOTU4WkVSbHZIOXRJd2IyaWFRdTdzVTFJUGZBOFN4TzVVOEpPdnVCZTdMVDNXVnZrYUpQVzkyTDg0TVpBTWdRdEx2bEROVE9DVWhnMmRwOUJSa2FqdGhmN2NrQW91dlZXS1UxSmVlQjRfSl90WjZKNkhBUkNGWTFlNlZhMFhsYjdxZGtSTUdnTTFBQ0ZKdEpGVl9kTk8tSDBwNWlMZXBqWl9aOU1LY3EyTG5jT19ESGFYc3FLLU9CUzVyVm9jV1VRQTNUa1VBa3VxN3ZzSDd3SkZKU2NLSXM5Rlh0c045cnJ5QlFPNjZQbDBoRGdR?oc=5",
             "published": "2026-06-22T12:49:00+00:00",
-            "snippet": "רופא מזהיר: הישארות מים באוזן מהווה סביבה פורייה לחיידקים ופטריות."
+            "snippet": "רופא מזהיר כי מים שנשארים באוזן יוצרים סביבה פורייה לחיידקים ופטריות."
           },
           {
-            "title": "מומחית תזונה חושפת את סוגי האגוזים הטובים ביותר לבריאות בלוטת התריס - פלטודיי.פס",
+            "title": "אירועי השעה - paltoday.ps",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVpiZk9pVU1BZk9GQVJ5V1g3YTRhMkoyelRsc1ZfU0V4UWs5dFZqRzlEMHBtcUdoQkxZajRJRlZnT09kMDVaZVdPX3lrYXFNUjZlOGFfWUU0eEpLTmpwR0xROU5CVF80dG4zNHVXWkpIaHUzQ3lPbHNiUFZKVGpVZVlCeE5FWVpLMzVZb2JBSDFFbHMwT3ppc0tVc2JuQXA5dzFDTVZNLXlIa2JuNHdtU2dMUHVIMlhk?oc=5",
+            "published": "2026-06-22T12:47:25+00:00",
+            "snippet": "אירועים עכשוויים."
+          },
+          {
+            "title": "מומחית תזונה חושפת את סוגי האגוזים הטובים ביותר לבריאות בלוטת התריס - paltoday.ps",
             "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZ2VUMERJX1lZWVVnZXdRaGJTOVJoOVg2eENuZ0t6Q1pjU1ZRbDZTSXBkczVSWnhvUmc1d0NqUWZmWHViRTVVRjNPZ0FBWE9xYkVtNXFYWngtTHVuVHRldnRVREFreGhYb2haYzd2cy12UXc1WmtqSjdqdFRNV3JjQ0dtNVhiVl9ENEFNRjhKSWZFY3RiQUpGdHRqUXlDTjVOZEhLN1FuR3RiTE1UalNEQkZYUXZQWS1mMTdUanFXRlhwQnVUcmZQU213UFkxbjBpcFc1dUFfcWJySzIzVVlfZXRiN01vQjIyNHBIVV9BNFp3bGdRS3g5NkxuVlhkU1hHZTJGX25xU2U5UGpmY2kzUUw2UGZjQTlRdFE?oc=5",
             "published": "2026-06-22T12:43:00+00:00",
             "snippet": "מומחית תזונה חושפת את סוגי האגוזים הטובים ביותר לבריאות בלוטת התריס."
           },
           {
-            "title": "מתנחלים תוקפים אזרחים ברמאללה - פלטודיי.פס",
+            "title": "מתנחלים תוקפים אזרחים ברמאללה - paltoday.ps",
             "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxObldPVUJKS2FvbVlJSHBUTnM1MC1BSkU5R3BMdTNjZFlycW04bWFIUHE1Z3BQV1piaHBQbENud2NWZlhQSWN4eWtIT2JGb0JzclA3RUVfR09ickFVSW9WNGpTZ3A5elVyX0tuWmdFSWZpQkhDNHpSeWdEYXNyNEtvdVpDTlE4S2hGNmtOUTBjalFHaTZvQUhQRURLUEVWWFNfWXNMa2JLM2tQRFZMS1JMSUlHTFJmT0FoOXRwbkNqYy1lZ3UxRWREekg2c2VOSTNaQXhIYm5KajZ3MlF6X0ZnaE9pTVlDblZOM3BKVnVYSWpXQWlvOUNHSFRPcjJnN1RVUUhXakFraXh3eTlfM1B1U1ozTG5ZRXJ0U2pDbDhwUno?oc=5",
             "published": "2026-06-22T12:40:00+00:00",
-            "snippet": ""
+            "snippet": "מתנחלים תקפו אזרחים ברמאללה."
           },
           {
-            "title": "קטאר: באמצעות מוסכם ההבנות בין איראן לארצות הברית הגענו לסוף המלחמה - פלטודיי.פס",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTFk0RzZFdFYxVExIV2loQml6amdlcGZPVVNpeTZxT1ZkSE9GUHAtNUxHaWVRRjVaSVhsaDUyb3AyNnVLNzlVRkZoRlowdElrbGFfWEV0RWExMWJ0eVlteTlWZWhjOXIxci1NcFBfV3k3OEhFWkFUOWVQWTZiMHQwRElQY0VTZm1lQVJmenhuMi1kRTB1anNnaWQxX0pHbjlScml6ZTFQNmVCX2NsdTJLRjJiSktOY1ZfWVVfSTFxT3RRcXNzOEJYZGgxdmJvSVRseFR5X2d3N3BEbWtJbGNzMUZuYTZmaVFYS3pEN3R2eFQzTjhrZ3pvck84UzJGNmdGR3NTVjRHa0c1MkplRkRrb0JXZ2t1V184Umc?oc=5",
-            "published": "2026-06-22T11:59:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "סראיא אל-קודס מנחמת על קבוצת לוחמים שנפלו בקרב מבול אל-אקצא - פלטודיי.פס",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcjc1SnVQbWNMSTBodjFDTmpXRU9wWkl1cnZsSWZ5T0ZtckpfSWxUVVI5c1AzODFxRkxhOXFjUE5XLTd1NjBONGI0Zm5zclpwdTdWVEVfSjByODhsRHdhcTlhUklUSV9KcVg5T2JGcV9OcXd0NVBubFlVMi1Ta2FLLWpVYmJZTWxneDc0akc4dEcxOHlnTE9pdVA0SnhtR0lkMjd6eUlvQXBGREtaM0NXdzNkaXNlTWxNNGJrZU9KT0F4bk1aUkNqajktY1VBeGdYOHFYYXNILTJvX2lzUU1GOG5OTWZEelJ1UUF1YnpUdnhDSDl3MExXZU1BN2FoZU5iUHcwbjZMNkZPbzNOaC0tQjJtdjI2a2k2R1E?oc=5",
-            "published": "2026-06-22T10:03:00+00:00",
-            "snippet": ""
+            "title": "החזית הדמוקרטית: הסלמת הכיבוש נועדה לחתור למאמצי הפסקת אש - paltoday.ps",
+            "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPdE1GNkFvb3p6UGd4aFp6Z19ZYkNnLTItVmRPUjVsWWVqX0l3V3dwY1F5NTdDSDRwNEc2RmotRzlZYTIzcnlMWTFHMUR4NERVWlpzWUt1ZDFxMHJQTzRBR1NKQXB1V1l6TFdGaFBDSlgyZVFoTjJnSzJGdlJCeFlYRTRkZXJEMW1vZlF5b2g5N1FHOW5vZWlxdHVnRXpsVTdvMUhvQWR1SjJQcWpNanc2WVZhcVYybkx2MFJ4SlRCZzRXWXdScV9pTGZpdU1lcEJTZU5GVGVoR2daNDJVdndETFJHaUJDVTlLZlN2cW9SZlRrRWRzQkhIZ0RwTFFSWExFMXp1VXd1X3ZwaFR6bGstMHZ1eTBSakhhNGpWa0pXME9RLWgteUlZ?oc=5",
+            "published": "2026-06-22T12:13:00+00:00",
+            "snippet": "החזית הדמוקרטית הצהירה כי הסלמת הכיבוש נועדה לחתור למאמצי הפסקת אש."
           }
         ],
         "error": null
@@ -1351,34 +1351,34 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "דרום סודאן מכריזה על תאריך לבחירות לאומיות שנדחו מזמן - ערב ניוז",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LODhhMTNic2l5cmFpTXhEbmtWV2c2R2VsYzBDSTRnTV8zaWR1UVZIMFJzdWJHcUtMM1ExTkRuNHZUVHZyeW5tSDdQWmRaemVHTWtR?oc=5",
-            "published": "2026-06-22T12:28:34+00:00",
+            "title": "נזקי מבנים בדרום לבנון מוערכים ב-1.38 מיליארד דולר: סקר - ערב ניוז",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtaEhkOHRVQ2VxV2hjMVk1VHlvWWZKTy10NWg0ZlctcVZKNUdMaGhSc3dnRnFOZ0dJSWlNVThnYmloYm9mdC04dDdpUGZ5ODNLQjhV?oc=5",
+            "published": "2026-06-22T14:57:41+00:00",
             "snippet": ""
           },
           {
-            "title": "מעל 1,020 אנשי ביטחון נהרגו כאשר הטרור הגיע לשיא בשנת 2025 — שר - ערב ניוז",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52QjlQOWVxSFctRGJEY1VEN0R6ZHozSEhib2JlZ3NEUktpUFdWVmFXcDlrc0xlemdua3hpMkQ3ZmdjZjc0YjlYRnp1WmJ5NlpyU2RB?oc=5",
-            "published": "2026-06-22T12:09:03+00:00",
+            "title": "פיצוץ במפעל גז בקטאר גובה 13 הרוגים ופצועים רבים, כך אמר שר האנרגיה - ערב ניוז",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wLS1Za1FaZnFVdXR5OW1xWWstYTFHbmlLSW9BSVdnMGJtQjBObTRmRnMyNFlqZDRKUnpmRXFUWkw2SlZKdF9BRGhNNmFoNFFtWEJR?oc=5",
+            "published": "2026-06-22T14:35:33+00:00",
             "snippet": ""
           },
           {
-            "title": "קהילת ג'דה מברכת על יוזמה חדשה של מעגל תופים חודשי ב-Hayy Jameel - ערב ניוז",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nc3RGdUQyUFBDSVBWOG9vd3FtbGNyc3VEd2pfc2NFd1hSTUZCRHFoQUFreUVCVlZieGxQdnBTMV9BMkpiVDRjaHJYdG5fTGZ3QXg0?oc=5",
-            "published": "2026-06-22T12:09:01+00:00",
-            "snippet": "קהילת ג'דה בירכה על יוזמה חדשה של מעגל תופים חודשי ב-Hayy Jameel. אירוע תרבותי זה נועד לטפח מעורבות קהילתית והבעה אמנותית."
-          },
-          {
-            "title": "נשיא איראן יבקר בפקיסטן ביום שלישי: כלי תקשורת ממלכתיים - ערב ניוז",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvNTItR2ZzZHhTc3h6MlJFSEpad1pjZmItaG1SNFdwcG5HS2VKT056b094Vjh2c3ZicVFvOENfeHQxQTJDWWRJRzJGaTNvU1FZR2xR?oc=5",
-            "published": "2026-06-22T12:00:58+00:00",
+            "title": "פיצוץ במפעל גז בקטאר גובה 13 הרוגים ופצועים רבים, כך אמר שר האנרגיה - ערב ניוז",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZDBib00zTHk3QkFwR1BmbUZWdkJZT0ctTHdwdDAtOE9rNnlPWWtOUmlrQU1ONmlGaWFFVjI0Wk5hSHhJZUJRbm1ZMUtTbVJFaE9OMU95NFEtVTNKZEE?oc=5",
+            "published": "2026-06-22T14:30:49+00:00",
             "snippet": ""
           },
           {
-            "title": "הממלכה מחזקת קשרים תרבותיים ביריד הספרים בבייג'ינג - ערב ניוז",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvQl9UaGFaS2VWTFJmUVAxVTdfTGg5cllFM1JkZ09kQzVyQWpuOEJ6YWRPdWc2Y0FKNnNtbXVBMTFLNFJQQzgwcklzV3d6UmVhc0JJ?oc=5",
-            "published": "2026-06-22T11:26:21+00:00",
-            "snippet": "הממלכה מחזקת את קשריה התרבותיים ביריד הספרים בבייג'ינג. יוזמה זו משקפת את מאמצי ערב הסעודית לקדם את מורשתה התרבותית בינלאומית."
+            "title": "ואנס: שיחות ארה\"ב-איראן הניחו \"בסיס טוב\" לעסקת שלום סופית - ערב ניוז",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfVXl5aUxTTWhvNW9RaFhkSi1pTUc5bEpIc3lpZVBlZ0FRUl84WjJWZEM5RHlnX2RzWXUxT0hyV01Wb25ieWxhNUtLMUVibEtwUkpV?oc=5",
+            "published": "2026-06-22T14:23:42+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "\"נרטיב רעיל\" סביב מוסלמים בבריטניה מעודד התקפות ימין קיצוני, קבוצות אומרות - ערב ניוז",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JQzY2V0thdGlhS01DcjE5b1ZydVNucXo2MEZZYlpGOVNIRmNIdk15QjZ0N041a1AycWloY1pBdmc4VkRyU01LTXYyNlNHM2tCbmFZ?oc=5",
+            "published": "2026-06-22T14:06:29+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -1390,34 +1390,34 @@
         "url": "https://www.thenationalnews.com",
         "headlines": [
           {
-            "title": "עאון מתעקש שלבנון תנהל את דרכה בעצמה לאחר הכללת איראן במנגנון הפסקת אש חדש - אל-נשיונל",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3ZZQWk5R3dNc1FCNDl3UVc2TF9BWEFTRl8wZ2tYbThHQnVpMzI4NEU2YlpXdkJWWWFjc2hIXzg1VW9ZT1Z4ZXk2Y3VuVW11TlFuWDljVV8tQlpkN181MFJoZzg4dVpKWnlTWmVDMWE5Yld3czhhY2xmbkM0YUF3VW9hVzVySkloT1RQVjRyZjFCbVZVMWotaEtkcW1MWkRxUE9XUmxyRWFReE1hcW9Sd1dCejRxVzRadEpDOGJiaXptVXZuUjZmdHp2OHU2RVViVFItNDBZWXhySkFyWkNJ?oc=5",
-            "published": "2026-06-22T13:30:00+00:00",
+            "title": "ישראל היא המכשול העיקרי ליציבות בסוריה, אומר שגריר דמשק באו\"ם - דה נשיונל",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRF9uRWJ5d0ozMmJHMHJQYklQYnhMbC1aTWFmekNMLWQ4ZzZGaDhBam51cTVWc0FyeFJzOHU1NVZtczRWUlJGc1JQcERMbC1sVXphc2dxdjZsQjQyX18weTNXZk8yUjF5SzN1MEJhbXlkcHRVQmw1cnJCMzRJbHhBYm14SEFOSkNRNElJbmxxd0dxd01KUURJNDFVamtnd0Q1dkRwdkJZOS1YamZXbFNOLWZwVF9hUXViOHlsN3dPcFQ?oc=5",
+            "published": "2026-06-22T16:53:17+00:00",
             "snippet": ""
           },
           {
-            "title": "עיראק ממנה מושל חדש לבנק המרכזי על רקע לחץ פיננסי ודחיפה לרפורמה - אל-נשיונל",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmVrSlcwV255eWZuTG5VUXB1MnpqLTVwU054aW5HaVhBNzNLWXFEQ0lvMDNIeEk3cGRCaTk3anhBcnRIUlg1cW8zbzZteEJBZm52N1dfSlJWOWwtZmRyYXN3Z1FEaVFNcmNnRk1sTllTUG81U3k1Xzc1V2FIbHNNSVdzVVlVLW02MXJkS3R2QmR5bFZVY1o4X1I1RHpiTTZORXRjaGQyMkF6SGVUeU1aS2hpaU1pZDhXTG56Q2VoSXl1b2otaVJqaktZeFlqVjBk?oc=5",
-            "published": "2026-06-22T13:30:00+00:00",
+            "title": "מרקו רוביו ייקיים שיחות באיחוד האמירויות במהלך ביקור במפרץ - דה נשיונל",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHRVTEY5SU9WQXBsMW1DSFVhNHJzemJ2MmM5M05sUGx3akpfSnNzTWlXQzdPZU9WXzg5RV9SZWFyUGZGZkpKLXNlZ2JSTmNRSWdaNUE4WWxiZVhFeTVnbjRvX3hXWi0wYzFzQmJoaEVKQy13eG91TEcwczlHdWEyZThwYVlwN2txWC1CSE9JVnA3ZzZFSW9qUGpRc3NQejhySm05eHphTV9ZQQ?oc=5",
+            "published": "2026-06-22T16:19:42+00:00",
             "snippet": ""
           },
           {
-            "title": "יו\"ר הפדרל ריזרב לשעבר אלן גרינספן נפטר בגיל 100 - אל-נשיונל",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVVqTGtIQ0NQV3FQMWdGSXIzRzFPa0lHODZNSWtxSmo3S3BaTXNmLVdqbDBZZjFzRi1tSlgxN1RnUTNlOEs2Nk03dFdQS3ZMVDVPcHg2Q0U0ZDRZUG5XaEhySU0wVTZyUVJBMmszdWMwSjlDLXIyRWt5STUwZTFqcTdmYUozY3J0bUJGYTY3czlBSkZFTkVVeEJISHFIb0Zv?oc=5",
-            "published": "2026-06-22T13:30:00+00:00",
+            "title": "השבתה נרחבת פגעה ב-X, רדיט, טים, קלאודפלייר ושירותים אחרים - דה נשיונל",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajlxd0U0SGNldkh4ZHoySEV5bURlVHJjQmRuOTJmSHVtR1NUcndNWjEwV3ExWWVkMFZ3a2hNNm83RE9kZTZBRk9ndkJqQTRhaEY4NlptQWlpTWRzQ0RlUFZDcHVMcFk0cFBCaUY4LXhleGJVQkNUb0F3TW5lLVFfaGFOZTZSSjFGWEtJU1U5MnZ6NkZabUdMaldodEdFdw?oc=5",
+            "published": "2026-06-22T15:56:15+00:00",
             "snippet": ""
           },
           {
-            "title": "כהונתו של קיר סטארמר - בתמונות - אל-נשיונל",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmJuclZqR25oZjJKSmJlU0NubFRLYURMS3cwZFNibUdLajcwelc0QUFyeXllbWh1V2hRTzZNaUQ0SG0wcVAtWnN4LXVOaGFxT2hMSUtLMWJQZFBkRjM5NVJRWFJRcWtCTUQwRkdweUUxNzktT1JSa3RGRFZfOW80U1YzZ2g5M1R5cVpnRExWWmk0bEU?oc=5",
-            "published": "2026-06-22T12:07:45+00:00",
-            "snippet": ""
+            "title": "ארה\"ב מנפיקה רישיון כללי הקשור לאיראן למכירת נפט - דה נשיונל",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGstcFJ2bXVVUm5DMFpTQ2NGemlsSFNWQ0IzVHplRnJFdFlEaDZod01QU1ZPVXpGa0U3YzFqT3R2ZVE4U3l1WmllM09BZVZVY2lDR2kzNTNRTklaQzhjMUNnbkpfLWoxTkY5MFp1OEdYRUg5c2kxakR5TDlTeEVReTE3U3lGS29rY2xrMlJuWDJpS1VPVXRheHhMLW1xRTNfWDFCZ3NIcw?oc=5",
+            "published": "2026-06-22T15:45:00+00:00",
+            "snippet": "ארה\"ב הוציאה רישיון כללי הקשור לאיראן, המאפשר מכירת נפט."
           },
           {
-            "title": "מוחמד סלאח חוגג ניצחון מונדיאל היסטורי: \"מצרים יודעים כמה קשה אני עובד\" - אל-נשיונל",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdEtVZllxTXFBWVRhNVpSMkI1QzlEVXVvMHNxdmZSSmFUbklZTG5pQ1Fvb21tYWs2SUR5bWVlSUgxMzhWWGFKX3dhWTFfWnRmODZYR1JwUzk3cVRjVUw1MmViZVltOXhTTnMwXy1WNFA3OFJKbDNwNDNJbmpseVVoVFlNeUo0ZE9ZQklYQzZLaFRHbUtXZFBEMFY1eVJjMFUyNll1WGlwUFJqTkFyX19NM3pCUHpQQ210eWExZGV2MWlMYkF4S0dWRFBZUTVaN2lKeTR1X2pYRWVjZw?oc=5",
-            "published": "2026-06-22T11:38:45+00:00",
-            "snippet": "מוחמד סלאח הביע את שמחתו לאחר ניצחון מונדיאל היסטורי של מצרים, באומרו \"מצרים יודעים כמה קשה אני עובד\". הופעתו הייתה קריטית להצלחת הקבוצה."
+            "title": "מונדיאל 2026 נעל זהב: סופר-סאב אונדב מוביל, מסי ודויד במרדף - דה נשיונל",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlBlbm9Oa3JJWlE2ekMwb19QWDZMSnFUaXNiUDlaekxwWEZGdjZGMURCYVpSZW9RdHFuaTB2RlFTalZtekY3aVMzRGkxZUdPYzI3d05ZTHRjR0dQUHV0Y2xDTXVadURNLTNNbHFEQzhzSFEtcUxyUXpBZHU0U2p5d29LRzBZbDJpY25XLVNDTQ?oc=5",
+            "published": "2026-06-22T15:37:16+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -1429,33 +1429,33 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "מלחמה ארה\"ב-ישראל-איראן - גאלף ניוז",
+            "title": "מ-CRED ועד מנכ\"ל וואטסאפ: הצצה לעלייתו של קונאל שאה בעולם הסטארט-אפים בהודו - גאלף ניוז",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlBsVnh5d09WSEV1MmtXWDZPVzN2OXU0Ukw0M1FlY0ViUE9NWlRKbDdQeVpEY1c2X0VjRkV1T2pCNjM1RnFYUkk4LWhuV3ROc1NDVVNfV19ELXZjOVRuWnEycGQ1WXVJeHVHRzNWTFQxalJDZk5WTXZSWlMwY2VRbTZlWnVJQWFZOEhzTjJoelRNekluR2lrUUxJbTA4azZreG1ZUmtKQjlXS1lEbWdlY2dGM3pzaWhBRlpVMmhzOXNBTDdkRU1QedIByAFBVV95cUxNNlBsVnh5d09WSEV1MmtXWDZPVzN2OXU0Ukw0M1FlY0ViUE9NWlRKbDdQeVpEY1c2X0VjRkV1T2pCNjM1RnFYUkk4LWhuV3ROc1NDVVNfV19ELXZjOVRuWnEycGQ1WXVJeHVHRzNWTFQxalJDZk5WTXZSWlMwY2VRbTZlWnVJQWFZOEhzTjJoelRNekluR2lrUUxJbTA4azZreG1ZUmtKQjlXS1lEbWdlY2dGM3pzaWhBRlpVMmhzOXNBTDdkRU1QeQ?oc=5",
+            "published": "2026-06-22T15:43:50+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "מלחמת ארה\"ב-ישראל-איראן - גאלף ניוז",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MakRIM2tfbVRMV2V4SG5qdkJLTFY3V18xYmRoLURNWG1PakxyWW5QajlfWlJ2V1Q3NXZNTWdHUnhocFV5UGw5RFBpbXRFS2JQX0p3UFhoWlc?oc=5",
-            "published": "2026-06-22T13:01:52+00:00",
+            "published": "2026-06-22T15:17:41+00:00",
+            "snippet": "מלחמת ארה\"ב-ישראל-איראן."
+          },
+          {
+            "title": "SABIS מרחיבה רשת בתי ספר בינלאומית מאושרת ברחבי איחוד האמירויות והמפרץ - גאלף ניוז",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV0swSDQxY2tZUVh6VnFPQTZPdDZlaDJIQXJ4Y3Z3QVNQWU9JNUw2SnVmNEhrVm1ENVQ2ZWZvOS05bmRITndBdmpmWWFsVUM4NUxOTHNhLUhKR3VFV2dmTlIzcjJhQ0NPUGlrVndFLVloaHZNVXNTQ0JwTkdWZEJ0VGMwMkVHeFM4SDBqV0VTY0JvYnZPS29MeHBFWnhjQWozcFlfS0FhWlRZSGtSUjA2T0xSQ3Rkc3Z5cnRibnV2UUxieEdmMEVfcDczU0pRZnpwcGpZOVROSU9vUdIB2gFBVV95cUxPV0swSDQxY2tZUVh6VnFPQTZPdDZlaDJIQXJ4Y3Z3QVNQWU9JNUw2SnVmNEhrVm1ENVQ2ZWZvOS05bmRITndBdmpmWWFsVUM4NUxOTHNhLUhKR3VFV2dmTlIzcjJhQ0NPUGlrVndFLVloaHZNVXNTQ0JwTkdWZEJ0VGMwMkVHeFM4SDBqV0VTY0JvYnZPS29MeHBFWnhjQWozcFlfS0FhWlRZSGtSUjA2T0xSQ3Rkc3Z5cnRibnV2UUxieEdmMEVfcDczU0pRZnpwcGpZOVROSU9vUQ?oc=5",
+            "published": "2026-06-22T15:00:00+00:00",
             "snippet": ""
           },
           {
-            "title": "\"אנחנו לא מרגישים צורך למסור לו את הכדור\" - שחקן הכנף הפורטוגלי על רונאלדו - גאלף ניוז",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMEhVM1pxQ19Xalc3NEZnUEhYTGx2aXBUcklDeE1pdEsxMWFNVzQybF8yZmlZVUozZE9DS3BRZkhST0hjdDBTMXNtbExvYVRmNERHUDN2blJQSUJjcHNYX1praVJnMHkyMzBOUU1NdkFDN3Z1ZTJ5RTJQTFNxT2NreS1BbGFpM3YwbmE0ZHBZdDNzQ19LYmtpTEZkbHlfN00tOWg2b0huaHpvS2lmMnVpVmpDQXFjTzRLU0kxeWtLTVptQ3JWbUVDZ2JyT2FhbHVFMVJYbjFTeHF6dGvSAdsBQVVfeXFMUDBIVTNacUNfV2pXNzRGZ1BIWExsdmlwVHJJQ3hNaXRLMTFhTVc0MmxfMmZpWVVKM2RPQ0twUWZIUk9IY3QwUzFzbWxMb2FUZjRER1Azdm5SUElCY3BzWF9aa2lSZzB5MjMwTlFNTXZBQzd2dWUyeUUyUExTcU9ja3ktQWxhaTN2MG5hNGRwWXQzc0NfS2JraUxGZGx5XzdNLTloNm9Ibmh6b0tpZjJ1aVZqQ0FxY080S1NJMXlrS01abUNyVm1FQ2dick9hYWx1RTFSWG4xU3hxenRr?oc=5",
-            "published": "2026-06-22T12:40:43+00:00",
+            "title": "איחוד האמירויות מפרסם אזהרה דחופה מפני אצווה מזויפת של בוטוקס - גאלף ניוז",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVktVlhUOG0ydU0tc1lKQXBHWEFTaXZ2RFQ3R1UxZTUyakJEay1qbUFqaFJaaUpYeVRzcy1sdlFwd1l0MTZhSDZuZkRjQ1JzVW5WMFFmRnpaZEpiS1k1SU5HTXE1LUsyaEtaTnJ3WG91LXptZlZRc1dRdHYzby00TDA2QzdkNG9OVFhxNWJLdEV5QUpiM2NzakUtcWN5ODV2VTFjSU5IN1Zkbm5EQ2FhR05B0gGyAUFVX3lxTE5NWS1WWFQ4bTJ1TS1zWUpBcEdYQVNpdnZEVDdHVTFlNTJqQkRrLWptQWpoUlppSlh5VHNzLWx2UXB3WXQxNmFINm5mRGNDUnNVblYwUWZGelpkSmJLWTVJTkdNcTUtSzJoS1pOcndYb3Utem1mVlFzV1F0djNvLTRMMDZDN2Q0b05UWHE1Ykt0RXlBSmIzY3NqRS1xY3k4NXZVMWNJTkg3VmRubkRDYWFHTkE?oc=5",
+            "published": "2026-06-22T14:35:22+00:00",
             "snippet": ""
           },
           {
-            "title": "בית הספר 21K פותח הרשמה לקבוצת צפון גלובלית, מתמודד על פער בחינוך ב-GCC - גאלף ניוז",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb284UGhJNTlyZ20xTEk2ejVWb19WY0Fkelo1OFNIeXJXTm04S2ZkS2wyYTRPSmxOSUdCN2p2SFFNUFVpQnMtQ19Mb0ZTbERyd1VWZ0xlelo4eE12QjVXX2U2SGhzbzJJOE9NNEFzdXhFQjBSZDZ3MUlfUkdTbjhvNG1tMG5LRWdldXd6eXV3N191U3RWWFUxREJwQk9jbzNKRnEybVFuaW96UEFpRVZkZTljcVJfWW03NnREc1dFdmFQdjNCemFLVFVwaFZ3d1XSAc8BQVVfeXFMT29vOFBoSTU5cmdtMUxJNno1Vm9fVmNBZHpaNThTSHlyV05tOEtmZEtsMmE0T0psTklHQjdqdkhRTVBVaUJzLUNfTG9GU2xEcndVVmdMZXpaOHhNdkI1V19lNkhoc28ySThPTTRBc3V4RUIwUmQ2dzFJX1JHU244bzRtbTBuS0VnZXV3enl1dzdfdVN0VlhVMURCcEJPY28zSkZxMm1RbmlvelBBaUVWZGU5Y3FSX1ltNzZ0RHNXRXZhUHYzQnphS1RVcGhWd3dV?oc=5",
-            "published": "2026-06-22T12:37:11+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "קניונים ב-GCC זקוקים למודלים חדשים להכנסות כאשר AI משנה הרגלי קונים - גאלף ניוז",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzdwUDBPQWJkcXctOUNMdnI4UmZ5UGJwS3FNcEJ1WjlsZEpSeDFEb1BlX19YNXk4bFhHTmxyMUJRV1EwdER6ZUQ4VjdsenUyM3hHeVJPb1BQZWFmQXJ6T1diLThURk5sUXNPaFRPUUJCdnBLU0V4VlQ1X25iX050UnNheGhhWTBxMlByV25qYlhocWRfeThuUUhkVUxwUzlRQXBPSjFnOEtXVXJQOTlDOFgyaDNrT3AzeHlWLU1ZbkJ3d3JDelVr0gHHAUFVX3lxTE1XN3BQME9BYmRxdy05Q0x2cjhSZnlQYnBLcU1wQnVaOWxkSlJ4MURvUGVfX1g1eThsWEdObHIxQlFXUTB0RHplRDhWN2x6dTIzeEd5Uk9vUFBlYWZBcnpPV2ItOFRGTmxRc09oVE9RQkJ2cEtTRXhWVDVfbmJfTnRSc2F4aGFZMHEyUHJXbmpiWGhxZF95OG5RSGRVTHBTOVFBcE9KMWc4S1dVclA5OUM4WDJoM2tPcDN4eVYtTVluQnd3ckN6VWs?oc=5",
-            "published": "2026-06-22T11:57:50+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "טכני טוניק: הסכנות הנסתרות האורבות בדפדפן האינטרנט שלך - גאלף ניוז",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1VBZkt1cnZxMXNEQ3RNbDBqRFdBeFlPbmdIMnRXbU9KVzRpemN1WUcybi04T3BQUG9TVUw4RExESkhpdlRjZ2xnUWhGWlVNUzRjdWVINHJaaXhsazEyZ3pIQWVlRXFRSEsydTZ0TXB1Vm50QjQ5eXlud19VNnVKLUFEdGdDekY1dnNFV0Y1WlpzcVhEZExpSUdoR1FXc0hHVTItNmdqemRiaWxJTzhQWjk2bGhuUdIBtgFBVV95cUxQa1VBZkt1cnZxMXNEQ3RNbDBqRFdBeFlPbmdIMnRXbU9KVzRpemN1WUcybi04T3BQUG9TVUw4RExESkhpdlRjZ2xnUWhGWlVNUzRjdWVINHJaaXhsazEyZ3pIQWVlRXFRSEsydTZ0TXB1Vm50QjQ5eXlud19VNnVKLUFEdGdDekY1dnNFV0Y1WlpzcVhEZExpSUdoR1FXc0hHVTItNmdqemRiaWxJTzhQWjk2bGhuUQ?oc=5",
-            "published": "2026-06-22T11:55:23+00:00",
+            "title": "עומאן מקלה על כללי התושבות, מעניקה אשרות ללא נותן חסות לבעלי נכסים זרים - גאלף ניוז",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWUtYZG5UaDBGWWVQWE5zdkNESGdvWnc5V2pUVDU3aUF3eHVsdWlvOUNndkZGbm1rUU8tRUIyZWF5TUQ0cFg3WkphN0VvLUdrLVRmYl9GXzJPZHdfSTNRU2dQZGt1dWFSeXZHZWpHckZoV0dVVFM0Vm1xNktpVXpJMl9fbFdVWDVXTHlhOW5QaXhHRm9oay1sVDVkRmhTeFpGUlRIVkZwV2ZkTTZiZ21wMXg3Z3FFZlFGUk8ydHc3cW9ZMGZYdEt6a1VXM25idUVpRFhYTTRXTkRSaTA2LTZrUtIB4AFBVV95cUxOWUtYZG5UaDBGWWVQWE5zdkNESGdvWnc5V2pUVDU3aUF3eHVsdWlvOUNndkZGbm1rUU8tRUIyZWF5TUQ0cFg3WkphN0VvLUdrLVRmYl9GXzJPZHdfSTNRU2dQZGt1dWFSeXZHZWpHckZoV0dVVFM0Vm1xNktpVXpJMl9fbFdVWDVXTHlhOW5QaXhHRm9oay1sVDVkRmhTeFpGUlRIVkZwV2ZkTTZiZ21wMXg3Z3FFZlFGUk8ydHc3cW9ZMGZYdEt6a1VXM25idUVpRFhYTTRXTkRSaTA2LTZrUg?oc=5",
+            "published": "2026-06-22T14:20:04+00:00",
             "snippet": ""
           }
         ],
@@ -1468,34 +1468,34 @@
         "url": "https://www.gulf-times.com",
         "headlines": [
           {
+            "title": "השייח' ח'ליפה דן בשיתוף פעולה מסחרי עם משלחת פינית | גאלף טיימס - גאלף טיימס",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQanBMMVk5OGQ5OUZnTFoyU1kyVGNjN0xmakc5elVzYTFxUXo0cFl0UDR0aUdXXzVXR3R2c2lvMXJseGFFU1ZBT2RGVDdoN1lvbmFXU3pyaTl0eDBEa2drZkVCUTBmVEItNUkxYXh1Z3J1bGxwaXBUemg3aHJvOXh5ZTBDT0Y4TjNVaTZ1bkZzc2ZVTTlLXzJJbVJvN19GakMzaERjaXN2YVMzamJlMzJ3V1c4cFBkUDhCMEHSAb8BQVVfeXFMT1NtSWhJNXBucFp0TWRfRk13VjZwVjNyOTRXOE1NSVNRUTRFSDlnWWRZZF9KRVJjYkxQOS1haUdsQWRlODRFZlhlUFhia1NRX1p4Ny1BQzhqS2tRRFp5dXZVZXhPZ01QTUY0VDM1Ui0zS3J6RGtXeWs5dXZDTXJQTmJ3cE1aRU5kb1NMdlJrUVhuekpqUUZ3dS1yRUI5MzlfSDdLUzd2Vy1NVWlTTFVXLWtBdWMwcDhBdExNdTd4d00?oc=5",
+            "published": "2026-06-22T16:39:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "אלופת ווימבלדון לשעבר וונדרוסובה מושעית לארבע שנים בגין סירוב לבדיקת סמים | גאלף טיימס - גאלף טיימס",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM250WFNFQ2F5T01MNFQ0dDBFMjA0WUFsWTdOZlEyb1YzNkZ0Z3ZRYW5VQW13Qjh1UUJpUzdJSW9fd2MydXpHcEhIQ2xmVXJVdDNLNWFFZ0Y0UWtpY1ItenVodEtlLU96aVJGVnd5QmhBUDBoYkxDT1dZU25ubjIxaEpIZ3Jjc2h1WXIwSGdVc3JiSTJoQ1NFQ1pUM3ZjM2hnZ1pDWnpqZEsydWE0Z19NdXM3VnBHM0RheWh2OEZETktNNlNteWkyaHVR0gHPAUFVX3lxTE5zOHZ2bjJsSHhyanl5QVdjN3hKbHVLWDRLeW1FT2NnVFo3TVhPTW1SY2x4Wkx1WV91Tmt0S0hWLTh6eTY0OW1MUlZJaXBadmlMbXlKQ3JSdnd2eDBzVXo5T2hCUV9haFNVaFJBSnBEeHVYb3J4MWc1aFI0QnBiVnMwUGtxVU5aLW9SNnJxc0tCWFVCWmN0a0kzSHhab00wMHRUdk1WV0p5RmJCSjhfT2toTi1LMXhCVnlUTEsyYUxGYzJHc3AycktsOVk2ay1YNA?oc=5",
+            "published": "2026-06-22T16:31:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "עדכון חדשות! (22-06-2026) | גאלף טיימס - גאלף טיימס",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBMnpXYTNhUExXaEZWZmVWSnVsejlLZmtBTGpaTzctaXBvaUVpV2xlV2NmQV9YYmlzY1ZzejZoa2VMbWdpTFMzXzN5SU85N0otZVFLLUNiaEJtTEFtY0JDQTlsdmt4dzdhdjR2Q255NnhYWTlCcExjYVVn0gF_QVVfeXFMTWt2Z1NlNzBQVkxCb0NiMm5wcmd1R25hTlUxMmxkVTZROUdVTEoxanA4RmVoc2s3ZDJMZWRGcDU4Y1lZNXFRbkc0eTJWOHQ3TjBYa2Vha3hBc3I0Qno4T1RFckhOd0FBMUxETkQyMi1FRWkxSkJDQWFseTFnQmxVaw?oc=5",
+            "published": "2026-06-22T15:48:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "13 נהרגו, 66 נפצעו בפיצוץ בראס לעפאן, אמר אל-כעבי | גאלף טיימס - גאלף טיימס",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHZtTWxZVXZjV3RuWnRqZFRCdGh3VUpNNlRoM2FjVW9sTUpzQ0MybGl1S1BFQ3RuWFB5ZS0yaXpGeXZaQ2M5UmFEVm13Tkx1cW85OVJWajY0eFpLWmhxaUlldjR4YklYN1BnTkFBQjlJTjhMNHdxc01rVV94aFJndmxESEhteGNpRTc5X0xwMWlSYmRpZ1FxMG4zVzVHRnRzUzlneXJqVjFFanNvdTFn0gGvAUFVX3lxTE5Mdm1NbFlVdmNXdG5adGpkVEJ0aHdVSk02VGgzYWNVb2xNSnNDQzJsaXVLUEVDdG5YUHllLTJpekZ5dlpDYzlSYURWbXdOTHVxbzk5UlZqNjR4WktaaHFpSWV2NHhiSVg3UGdOQUFCOUlOOEw0d3FzTWtVX3hoUmd2bERISG14Y2lFNzlfTHAxaVJiZGlnUXEwbjNXNUdGdHNTOWd5cmpWMUVqc291MWc?oc=5",
+            "published": "2026-06-22T15:07:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "שר המדינה ליחסים בינלאומיים נפגש עם מקבילו הסומלי | גאלף טיימס - גאלף טיימס",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVZHOU1tVERVcUZKZ2tpSXRPOHMwYmxlSW5iQm0zeFVkZG1TM21kNmwwRzdrZWlKMWROTmxFeG4wcl9nb2ltUjY5c253dW43RkJuUUlZa2xhMXk5S1FkX2tVOTRRNWxWMzdQT2M0eVl4ZjRDdjdJRmtxeDYyZ1BVWnV4X1lvN0VRTUNoT2prQ0pIcnZ2MHBEOGJUVnN5aG9mN3JUTzBVU2twM0lZeWY00gG0AUFVX3lxTE1waXJ5QTBtcjBaeTdBdldXYUlKSE5BTXBRZjQxZEwtdXRSclZtb3RzOTJWaGR6X2VFUkZqZDNVWV80c2dlOVFGV0pydlQwTlk0NEVuTzVieURsaVhaaW5yRFJWSkZWRHk3NEFaa05aejZpV3lEcGN1Y0FnM3U5QkdDd19IOGxlUWRyYmZxWWEzai01aHl6UGlBQWkzUHhRa1lTaEVaZVBTQkV5emx1QVYyMkJhNA?oc=5",
             "published": "2026-06-22T13:35:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "קטאר ולוב דנות בחיזוק קשרים דו-צדדיים | גאלף טיימס - גאלף טיימס",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWxIdENpYzY1RzRLTUdKQkxNX2Nfb1hWdWR3S3VmSWhDeFlybmx3MkgwcmRFUENrMlpzRDB6cWVMN0Q2N2RvLThFcUdBcHlNZDNKel81bGFySndLVlVVTElqR3NEUkZGNWQxRm5pNml2OHdtbFc5S3lGOFBpV2VXdmQ0UjZxaGRBamQtdGF1ejhRQlJSUFBQX3YzUDBaWmw5TkHSAacBQVVfeXFMTkQyVkdKTE5kbDk4YnhnNVdNYXlmb1NGRFhJQzl0dnFlSG9IOVppdVhYVE9KYkpxTVhtREJqS2U5UXlJWUNVZi1Ybi1oWHlTS2REcGNUM0N4MVdzS2x6Sm9WdE1GbGFGOHhSeFdBNkpfZXluVFNnSndUcWJNSU9talVxSzNOT3FucEVsdlk0UWMzXzJnZHVsRzNkRkI2NUVaVmZpZFFEejg?oc=5",
-            "published": "2026-06-22T13:28:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "ראש הממשלה ושר החוץ נפגש עם שרת אירופה ויחסי חוץ של צרפת | גאלף טיימס - גאלף טיימס",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSWdIS3Z2SC13OHBKc0gxLS1vVjBtSTFQcDl5U3Nrb1F3RUZveWlUWTdKRzBwd3lnVmFtei1DQm9BTkFTdXNmR1BIVjc5c19nRzdBb2NqWGtuSFpJMVFmUFZZLV95bGxuMkpmMFJWM0lCc0N4cDhVa1czUXVTNEhkUU9ib2lwWnlVc1dJaEFNdVNfamxwZ0tLTGpZRmxyUjJkX2hPNEhhTWh3TlBONXBFU0dET3k2VC1kVS1acWhZaGlRT2FkZjJEc3ZRUkJwRHRGYTFwcTNpNFMxX1E4dURadmR30gHnAUFVX3lxTFAzYUFXZXVOd2RpVnJsbmJ0SkhsaW1XeVgtckVrcGJWZk11Q2pZOXlnUnZHS05qd3NZdU5VS2ItSnBKak5HRVBIdk9zd3pLcG5jMjNyaG1pZHg5cEZIQ2JFNHVDc3F0YjJTR3BwcVRCZjh6azVmejJWMlFOLV9JVnd5NmZJUHlFTVNoQ25TU0tZVWJVMmJXSHMxVmpqOThIYVN1YkhfVTl1VDNlY0xhOEk3MHB6UWJDcWN4a01jSFRma2J6QklCN0E4VlZxQ3FvTC02N1dJbTZaaGFZUW5NWVMzMlBYOG1VMA?oc=5",
-            "published": "2026-06-22T11:38:00+00:00",
-            "snippet": "ראש הממשלה ושר החוץ נפגש עם שרת אירופה ויחסי חוץ של צרפת. הדיונים התמקדו ככל הנראה ביחסים דו-צדדיים ושיתוף פעולה בינלאומי."
-          },
-          {
-            "title": "יציאות סטארט-אפ בקטאר מהירות כעת מהממוצע הגלובלי על רקע קפיצה במימון הון סיכון | גאלף טיימס - גאלף טיימס",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjNIUlgxNTNmWXlhTENJNmdheElEZU1Md3BtMVc2VkR5RlpEaDZWTXhtd1hFZVhUYVhaSjFaZE02TjAtVWMzQmdleFJBU0NYVWNheG83blZxYUIxZUNuaU5GNzdDLUxpM25rVDQ1eEN0N3pXejFRbEVJbzhzWW54SE5ib3NzdmhPeWxwQkF2bXg5UmNDVHVKNTJUczl5bHJqUFRrUjRBLVBQNklfdDR6dWpnTjQwTkZNNXZlMHMxSDhuODdEbXfSAcsBQVVfeXFMTUpoVVdROVVHOTJkWGZxRUtJNVJfdmExZFo3U2hkbExUSHZWQUlJRVR1Rm55RlBSNU1jc0VlT1VILVlObWF6Qm1oTkZuNGRjb084cFNqNEJ2ZHR3dmRBZjZ1RUJHMnZzVUl1TmxFTEdXanJmZ2NJZGNrdUpzTUZDZ1IycFBDdmFmME1tZE9TLUVubHdQakw5NVQ3YTBGZUF1aXFQN2ktSjFxY1hrSkZJblhOa3NGak1kbGtBRWtIRHl1cmV3a3JyaF9JS3c?oc=5",
-            "published": "2026-06-22T10:01:00+00:00",
-            "snippet": "יציאות סטארט-אפ בקטאר מהירות כעת מהממוצע הגלובלי, הודות לקפיצה משמעותית במימון הון סיכון. הדבר מעיד על מערכת אקולוגית של סטארט-אפים משגשגת בקטאר."
-          },
-          {
-            "title": "QF, QNB Group חותמות על הסכם למתן שם מחדש לאצטדיון 'חינוך סיטי' - גאלף טיימס",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXlPS3hwcFlRTDEycnpFNjBZWng4QXVodW8zdjFRZ3B5QVVYejhrbG5JOTRoNy02QldOU3hvUm5TV0ZLZUdXSnBENks5ZS1VLS10Q0FfZW5YanBGQWxScDR2cWtTNVRzRnVaWjBJa3laeDlSU0RSdUpaYWcxWjZUZDR3WXlhSGhjdXFkNEZ2U1lFZEIzdk53XzVTdkhUYTNOU1QwdW9ZMHdpaWJLeXA1d2ZR?oc=5",
-            "published": "2026-06-22T08:56:00+00:00",
-            "snippet": "QF ו-QNB Group חתמו על הסכם למתן שם מחדש לאצטדיון 'חינוך סיטי'. שותפות זו מסמלת שיתוף פעולה בתשתיות ספורט וחינוך."
+            "snippet": "שר המדינה ליחסים בינלאומיים נפגש עם מקבילו הסומלי."
           }
         ],
         "error": null
@@ -1507,34 +1507,34 @@
         "url": "https://timesofoman.com",
         "headlines": [
           {
-            "title": "סניף OCCI באל-דהירה דן באתגרי מגזר הלוגיסטיקה - טיימס אוף עומאן",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYlJZcmNlSmE0Q04xZVdZeURvSUMzNDloZUE0eVhTd2V5QTZoN2hsUkt6SlNMWk1DS1pzUGlkODNvQTEtT3ljNW9FWjJjemplYTNXWmhyTW1zNXV6eHRRcmxJdjN1N2lETFdMTXJxZHNaQVF6Zk5rMEVkaFg2d0c1Unh2a3NWNUhhbDRqRGlRY2c0ZzE0YlBTOUFmanBqQXZaa1JrT2NB?oc=5",
-            "published": "2026-06-22T13:04:00+00:00",
+            "title": "נציג הביטחון האיראני נזאמי מגיע לדלהי לפגישת ראשי הביטחון של BRICS - טיימס אוף עומאן",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFU4YjN5TkdUNXhhQWFGZjBSUmcyVzdORVZsQ3lpZTdTREVvMS01UE10cEdEaWp0ZmpWVGFQMTkxN252T0pPLWxaWXRoTkQyZnp5Q0VUZFNtejgwYmY3aUpieWZhRGVsUDduM25qM0h6REo4bVpmbFFYMXAwdW0tU2lkakdPMlR4aEdXMjJpLVZ6UnExd0JxMEhuLWVEVFRrT3BrWGlpSHdjUVpJVkxiWmhaSWp5NTV2?oc=5",
+            "published": "2026-06-22T16:22:00+00:00",
             "snippet": ""
           },
           {
-            "title": "תשעה עשר צעירים הודים חלמו להיות רופאים. - טיימס אוף עומאן",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGxIY3VEM2s4R3p1blNlMGpYZE5Hb0RzS21sQ1Z5QllXeHp1TzZ5cjdRd0RpOTd6VjFwX3dFTmRIY19hbFItS2pKVGhyVnl2cmFqMUZrTl8wXzNnV01wR2F6OFd2QmVPYVktZ1daUU1wZGM5XzlsdWJDc2d6ZV9fc19tU1VDQ3ctWW9vZTYyOWZpUQ?oc=5",
-            "published": "2026-06-22T13:03:00+00:00",
+            "title": "הבנק המרכזי של עומאן מגייס 43 מיליון עומאני באמצעות שטרות אוצר - טיימס אוף עומאן",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnJ4TnV0Q2VVcFhRUEFMVnkzdHQwNGYzU3FVczZRU1BuNW9xcDZkZjdFZkpvamRoaE9BT3N5Wmxyd0FuLXhDMjVhcFFfeG5oeDlCX1d5LWZlQTl6YTlxcmFEWlpaZU4wakhyOG5lUUp3UjJ0M2VBRGs1Rm5GU3VDVk1NX2pHV3BZN0pqZkZQMUpVcEthSGhFYQ?oc=5",
+            "published": "2026-06-22T16:14:00+00:00",
             "snippet": ""
           },
           {
-            "title": "עומאן תשתתף בתערוכת סבה סבה 2026 בטנזניה - טיימס אוף עומאן",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPck9zSTQtdkI3aVdfejhHc0RzX3ZPaWpCRnZGWEl1RHZzMG9jTzlSZV9DX3l2bjVvajNOWXpyVENwMGxZM0NFWlhhOXlpSUUxUFROTHIxT0NjUjFNX3FjZkR3bmZ5dE5aV1Bab0FST1pLRy05Z0NNYzd6X3RleTBfQkdLYUNIb1I0ZlBfZzJUTGxNSkItYVdpcWwyM190LVNz?oc=5",
-            "published": "2026-06-22T12:58:00+00:00",
-            "snippet": "עומאן אמורה להשתתף בתערוכת סבה סבה 2026 בטנזניה. השתתפות זו נועדה לחזק את היחסים הכלכליים והמסחריים בין שתי המדינות."
+            "title": "פיצוץ במפעל גז בקטאר גובה 13 הרוגים ו-66 פצועים נוספים - טיימס אוף עומאן",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
+            "published": "2026-06-22T15:29:00+00:00",
+            "snippet": "פיצוץ במפעל גז בקטאר גרם ל-13 הרוגים ול-66 פצועים."
           },
           {
-            "title": "עומאן מביעה סולידריות עם קטאר לאחר פיצוץ בעיר התעשייתית ראס לפאן - טיימס אוף עומאן",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3pZSXk1YUFoeUVCYVpMYWVLdFZoYnBEUml5S2lqTWk0X0ZpaEtMTUQ0NXg0ZElDYzU2VWRnMnZIRGQ0U3VVYVFQMGpIMk5EaEoyV3BnZWVIcmVlenhJdGx0bGVZRXdpOTctNl85YWFDZ1FfSE1jRU9EcG1GMldnVlJGcDFxUm9SN05qcTh2QkZyWnRCY0RSUWdTQ2xKWmhoRm93andGUVk3aUZDY2RjOXBWSlhOS0dOaTJlZGxn?oc=5",
-            "published": "2026-06-22T12:51:00+00:00",
-            "snippet": "עומאן הביעה סולידריות עם קטאר בעקבות פיצוץ בעיר התעשייתית ראס לפאן. התקרית גרמה לפצועים ונפקדים."
+            "title": "משרד האוצר האמריקאי מקל בסנקציות, מנפיק רישיון של 60 יום לנפט איראני על רקע התקדמות בשיחות שלום - טיימס אוף עומאן",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlWNzFUTFVKb2NmNzhMa3lSeU11WktlZXZvQVI3VEJ0Ql9GaC1fQkwzSE9EMHdWQjBxYTAxOTNsd2FlSGNSWjM0Q3BzQVlxTzJjZmlVZGNwdzZMN0UySGcxalNNX3FpNjZkcGlpUE9uWEdIczQzVU9ZUFotWGVlcHVRM2d5VGE0V2Qzci1NSThSR1A5RDlOWXhTQXFUTnNkUWFQQ3lnQmFRNVJuMmRuMUQ0ZTJybV9PWkd2d0JWRnd2dEp0cVNRVkRucXR2Zw?oc=5",
+            "published": "2026-06-22T15:22:00+00:00",
+            "snippet": "משרד האוצר האמריקאי הקל בסנקציות, והנפיק רישיון של 60 יום לנפט איראני על רקע התקדמות בשיחות שלום."
           },
           {
-            "title": "התפרצות האבולה ב-DR קונגו טרם הגיעה לשיאה, כאשר המקרים עולים על 1,000 - טיימס אוף עומאן",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHN2enpkUXB2bnhRdmNCRE1NOWU1M0FHVllhZG1La1QtS0NHYkY3dmVMTFlaTmxiM3NqRFlSM2ZvNTlUT0ZMRHNiSF9sSEUtR1gwdU9rOXFibFpLZU1YTFV5ZG83SDJLbUk4MGRyczlSYnpmSGJySWlSZVEyV1A1R1NKeEttMHFRNUZEVWJHaFhzNlBQZFVyNnVyV3pxUQ?oc=5",
-            "published": "2026-06-22T12:46:00+00:00",
-            "snippet": "התפרצות האבולה ברפובליקה הדמוקרטית של קונגו חצתה את רף 1,000 המקרים וטרם הגיעה לשיאה. משבר בריאותי זה ממשיך להוות דאגה מרכזית."
+            "title": "מרכז אל-ופא מציג כישורי מלאכה של משתתפים - טיימס אוף עומאן",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORzYzZW5IelhiZV92Zzl5UnpUVmpwOHktS19GN3dKTVVRaXI3VkhubXp2bzVuVmk0UG1aR09PNVY2eWI2U0trVDR6RWFMT1NIenc4QTdwSE9wM0dpVkprb3JIM1FleGtWSXdhbkJya3FyRXFUTWtrVV9pUEU0eTRfdDVDOWJNc0gxb0FsYjdnMjFVNFVvRmNv?oc=5",
+            "published": "2026-06-22T15:14:00+00:00",
+            "snippet": "מרכז אל-ופא הציג את כישורי המלאכה של משתתפיו."
           }
         ],
         "error": null
@@ -1548,34 +1548,34 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
-            "title": "ארה\"ב מאשרת מכירת נפט איראני על רקע שיחות על הסכם שלום סופי",
-            "url": "https://www.jpost.com/middle-east/iran-news/article-900158",
-            "published": "2026-06-22T16:46:52+00:00",
+            "title": "האם הסיבוב הבא של כיסאות מוזיקליים בתפקידי צה\"ל בכירים בדרך? - ניתוח",
+            "url": "https://www.jpost.com/israel-news/defense-news/article-900179",
+            "published": "2026-06-22T19:52:24+00:00",
             "snippet": ""
           },
           {
-            "title": "סקר תמותה פופולרי בעזה שפורסם ב-Lancet, תוקף על ידי פרופסור לשעבר מהאוניברסיטה העברית",
-            "url": "https://www.jpost.com/middle-east/article-900156",
-            "published": "2026-06-22T16:35:32+00:00",
+            "title": "קטאר ופקיסטן חושפות מנגנון חדש לשמירת שלום בלבנון, אינו כולל את ישראל, צרפת, יוניפי",
+            "url": "https://www.jpost.com/middle-east/article-900175",
+            "published": "2026-06-22T19:46:46+00:00",
             "snippet": ""
           },
           {
-            "title": "הנשיא טראמפ, אנחנו מנסים להבין מה אתה רוצה מאיתנו - תגובה",
-            "url": "https://www.jpost.com/opinion/article-900155",
-            "published": "2026-06-22T16:22:50+00:00",
+            "title": "גופמן סוער את המוסד, כשהארגון מרחיב תוכניות להפלת המשטר האיסלאמי",
+            "url": "https://www.jpost.com/israel-news/defense-news/article-900176",
+            "published": "2026-06-22T19:24:19+00:00",
             "snippet": ""
           },
           {
-            "title": "ברנהאם הבריטי, המועמד המוביל להחליף את סטארמר, אומר שמוקדם מדי לדבר על בחירות",
-            "url": "https://www.jpost.com/international/article-900154",
-            "published": "2026-06-22T16:02:40+00:00",
+            "title": "נערות בכפר הנוער של ויצו ראשון לציון יוצרות בוט לבדיקת עובדות",
+            "url": "https://www.jpost.com/israel-news/article-900173",
+            "published": "2026-06-22T18:35:49+00:00",
             "snippet": ""
           },
           {
-            "title": "אוניברסיטת תל אביב עולה בדירוג העולמי האחרון של QS למרות חרם גובר על האקדמיה הישראלית",
-            "url": "https://www.jpost.com/israel-news/article-900153",
-            "published": "2026-06-22T15:47:28+00:00",
-            "snippet": ""
+            "title": "תקיפות טילים וכטב\"מים של משמרות המהפכה צריכות להיות מועמדות לדין ב-ICC כפשעי מלחמה, כך אומר ארגון לא ממשלתי ישראלי",
+            "url": "https://www.jpost.com/international/article-900169",
+            "published": "2026-06-22T18:19:42+00:00",
+            "snippet": "ארגון לא ממשלתי ישראלי טוען כי תקיפות הטילים והכטב\"מים של משמרות המהפכה צריכות להיות מועמדות לדין כפשעי מלחמה ב-ICC, תוך ציון נפגעים משמעותיים ושיבושים בישראל."
           }
         ],
         "error": null
@@ -1587,34 +1587,34 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
-            "title": "המדינה ניצלה את ה-7 באוקטובר כדי להשתיק אזרחים ערבים באופן שיטתי, כך עולה מדוח",
-            "url": "https://www.timesofisrael.com/state-exploited-october-7-to-silence-arab-citizens-systematically-report-says/",
-            "published": "2026-06-22T13:54:42+00:00",
+            "title": "מנגנון ארה\"ב-איראן בלבנון יכלול את איראן, קטאר, פקיסטן, לא כולל את ישראל – דיווח",
+            "url": "https://www.timesofisrael.com/us-iran-lebanon-mechanism-to-include-iran-qatar-pakistan-excluding-israel-report/",
+            "published": "2026-06-22T16:39:39+00:00",
             "snippet": ""
           },
           {
-            "title": "ואנס: איראן הזמינה מפקחי גרעין של האו\"ם חזרה למדינה, ב\"אבן דרך משמעותית\"",
-            "url": "https://www.timesofisrael.com/vance-iran-invited-un-nuclear-inspectors-back-into-country-in-major-milestone/",
-            "published": "2026-06-22T13:41:45+00:00",
-            "snippet": ""
+            "title": "13 הרוגים, עשרות פצועים בפיצוץ במהלך הפעלה מחדש במסוף דלק ענק בקטאר",
+            "url": "https://www.timesofisrael.com/13-dead-dozens-injured-in-blast-during-restart-at-giant-qatar-fuel-terminal/",
+            "published": "2026-06-22T15:28:46+00:00",
+            "snippet": "פיצוץ במפעל הגז הטבעי הנוזלי של קטאר בראס לעפאן, שנפגע מטיליר איראני במרץ, הרג 13 ופצע עשרות במהלך הפעלה מחדש. גורמים אמרו שאין סיכון סביבתי."
           },
           {
-            "title": "רון דרמר, ושבעה ישראלים דוברי אנגלית נוספים זכו על תרומתם למדינה",
-            "url": "https://www.timesofisrael.com/ron-dermer-seven-more-english-speaking-israelis-honored-for-contributions-to-state/",
-            "published": "2026-06-22T13:13:57+00:00",
-            "snippet": ""
+            "title": "בית משפט דוחה עתירה לסגירת קניון בשבת",
+            "url": "https://www.timesofisrael.com/court-rejects-petition-calling-for-closure-of-shopping-mall-on-shabbat/",
+            "published": "2026-06-22T15:09:26+00:00",
+            "snippet": "בית משפט דחה עתירה לסגירת קניון בשבת, וקבע כי המחויבות המקומית לאכיפת חוקי יום המנוחה מספקת, אם כי הוא הכיר באי-ודאות לגבי פעולות אכיפה."
           },
           {
-            "title": "אלן גרינספן, שהנהיג את הפדרל ריזרב האמריקאי חמש קדנציות, נפטר בגיל 100",
-            "url": "https://www.timesofisrael.com/alan-greenspan-who-led-us-federal-reserve-for-five-terms-dies-at-100/",
-            "published": "2026-06-22T13:10:45+00:00",
-            "snippet": ""
+            "title": "כמעט כל החוקים הוסרו מסדר היום של הכנסת עם כניסת החרם החרדי לשבוע השני",
+            "url": "https://www.timesofisrael.com/almost-all-bills-removed-from-knesset-agenda-as-haredi-boycott-enters-second-week/",
+            "published": "2026-06-22T15:06:02+00:00",
+            "snippet": "כמעט כל הצעות החוק הוסרו מסדר היום של הכנסת עם כניסת החרם החרדי לשבוע השני, כאשר יו\"ר ש\"ס אריה דרעי מזהיר מפני חקיקת קואליציה אלא אם כן יועברו חוקים המועילים לישיבות ומסרבי גיוס."
           },
           {
-            "title": "הפטריארכים הלטיניים והיווניים בירושלים מבקרים בעזה, מבטיחים לא לנטוש את נוצריה",
-            "url": "https://www.timesofisrael.com/jerusalems-latin-and-greek-patriarchs-visit-gaza-vow-to-not-abandon-its-christians/",
-            "published": "2026-06-22T13:01:00+00:00",
-            "snippet": ""
+            "title": "ראש השב\"כ חושש מהתקפה בסגנון 7 באוקטובר על אילת, למרות שאין מודיעין על איום",
+            "url": "https://www.timesofisrael.com/shin-bet-chief-said-to-fear-oct-7-style-attack-on-eilat-despite-no-intel-on-threat/",
+            "published": "2026-06-22T14:52:19+00:00",
+            "snippet": "ראש השב\"כ זיני חושש לכאורה מהתקפה על אילת בדומה ל-7 באוקטובר, למרות היעדר מודיעין ספציפי, והוא אינו מרוצה מהרעיון של מעבר ערבים ישראלים לאילת, ומסביר זאת כ\"השתלטות\" אפשרית."
           }
         ],
         "error": null
@@ -1626,34 +1626,34 @@
         "url": "https://www.haaretz.com",
         "headlines": [
           {
-            "title": "דעות | דעות • ישראל, המדינה שאנו אוהבים, המדינה שאנו מתביישים בה - הארץ",
+            "title": "המשטרה תפצה 13 מפגינים נגד נתניהו על חיפושי גוף בלתי חוקיים - הארץ",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQa0JHaTg3X2RlY3lvUzgzSXkzMmhqSHBfNU1DSC04SURTWUhZUmxLRDZyNnlIT2JFMXBKZU42VldUazNFd3NwLUFaYjFxWHZDN1BHZk1wMWdLSkwwc1RyRXJxRnBJNDVQdW41Y1lFbFJ0eG1sOWQ2UVdISmxYMVA5cndMUmROQVlndThTd1ZScU5fcFpnY2o2N0ZtN3dzQldkU2MtVXJjRmtpTmxaYUdaN0p3SWowZ2tPeFpFVllRLVZ2VDdMSXhEQ1dYNldpSllhcDBFVDkyVXpxczJPdmJIaWdHaExlWHUtOFowVG55Uk5hVnRMdHVPTzk3STdOVEw2WHdTVzdTZlZEeGdhcEVIb01MTzZDclZJWWswRDFOa00?oc=5",
+            "published": "2026-06-22T16:25:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "שיחות ארה\"ב-איראן? הישראלים רק רוצים לדעת מתי יופצצו שוב - הארץ",
+            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQb0d2TC15dWZVdE9xRWZ1WDAxM0cyYk1KUDloSFkxTGMtUnRPSnB2YTVYNW8wLVlDcG01RTV4dUtYd0ZPUV9TZmMwRi03Z2pGdGNQdWRMR1JjbVppNk1xY2VqWVpNT29mT1d4UWJRMzJzUVJwN1BxU3lYUVk2SWxTVm10SzZ2dWllbmVrRVR1QV9uem1uSlNIdGFGQWRxUUdaUTFDNDV3eVJvU2JxbHY5d2RTLVZpeTJyTkVEWXpTbFlURmFnNi13VjBVbURvc29RdlVvWElGS2I2azE0d2JrRmY4MndoRTAwWGZhRzV4TDNwS01CRXloZUJFb0pzNEhGcXFGcHpEY3dyOVduRmpFeFN1WFlxNHZSZUh2dUZZQQ?oc=5",
+            "published": "2026-06-22T16:00:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "ניתוח • מהאלפים ועד הליטאני: איראן מבססת דריסת רגל בגבול הצפוני של ישראל - הארץ",
+            "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPeHpzdnEtcEpwWWdYY0JkMkp3RW5ERlBxZjVwX2ZEQ3hvRk5lN21tLUgyZDYzMjZ0TlFnZGczVGd5QkVNa0FNQTBtem1uNnZtWlo3dVhEel9TZ09QV3J5TmJ2THRZUWZTRUZnbEdsd3lVanBHTGRaemZ3aVNXWERVejYyR2RqYnRtdlN0V0VPYmlKMnRnMWo1MHR0cFU4NTNwanZoT3JmTmZFd1h6UXhHY3FYYUVacTZjTkhrQlNWMUNpUGxyNzZ4d20wRFdGTnV3MGtnc2I3UEtrckhhNl8yUGdsWEx2NHd3b1NjTFlfc2RXUDlMYW1BeHF0Y2hLQUVidFVWS3RnZFVSRTdKZ0FmTnd0SUpPWlNsZXlWWEE3cGxkT25E?oc=5",
+            "published": "2026-06-22T15:41:00+00:00",
+            "snippet": "ניתוח מציע שאיראן ביססה דריסת רגל בגבול הצפוני של ישראל, המשתרע מהאלפים ועד נהר הליטאני."
+          },
+          {
+            "title": "'אני חושב שהקרב כבר הוכרע': ניו-יורקים שוקלים את מקומה של ישראל בפוליטיקה שלהם לקראת הפריימריז - הארץ",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeHZCWE1xWTZfYnVWeDdyU1JIQlZQRDEzeURUNUpMMVF4XzNXdGJuVDF3dDFBUlNGclYyR1h4Z3lLcEdFQ2laWjgxbk5GclE4dGVzZjlzWVpMRlM1LW5Yd3gyeldlYW02ZldZWmdZX2VjV09jY1VyS3d2NHE1aFdJUmR6VnZqV2lKcDJYNTlaNWl1aWw1ZTMwLVNPMm02V01OSkNqV1BlWFpSbG1JVzZ0TVVoUEZaUUd1dVc4V3V1V2liSnR0SGVQcHhLNzRNS2gtR3FqTGpBcFN2THBWdjlUZWJJQmVfWXpTNEpSSVdXS2VhbXBTRHpDSzRIU2tETVFRUkFiQkJuemc?oc=5",
+            "published": "2026-06-22T15:36:00+00:00",
+            "snippet": "ניו-יורקים מתווכחים על תפקידה הפוליטי של ישראל לקראת הפריימריז, כאשר חלקם חשים שהדיון כבר הוכרע."
+          },
+          {
+            "title": "דעת קהל | דעת קהל • ישראל, המדינה שאנו אוהבים, המדינה שאנו מתביישים בה - הארץ",
             "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOTlLSVFGQVMxTkVNRUhVS01nOUZMQlM5bEIzV3VzWEJycnEwZ2pYS2ZyVzA5aXFzYWlGUHRRUi1KcTJ6T2JWRDNNalB4bHZHZ05lZnNGM1pyME1VNnZkQ1FnTVZJd1VnUHpiMUhwYXZ1T2NRMkdNSmEtd01pT0xiTE1XeDluWC0xb0FDOGJvc29FQklmc1hGZEZ0by1TWUl1aTFfT2hjcE1EX1FsWC1uQkdhdGRiMk41XzU2U0Y0LXJlRzFsUWlZTk1WalQ5M3JvOVpLUUtSLWNyVFdiX0dWNlF4TVZMcS1Z?oc=5",
             "published": "2026-06-22T13:58:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "שעה לאחר סיור הניצחון שלנו בלבנון, חיילי צה\"ל איבדו את חייהם - הארץ",
-            "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMEFkdlFDeTlxMWlPS1Z1VjhRbE9nQ0VuOEl3SVM0U0Q3aTYzTG95MFFJbTBuaFNUNXhSU040QnFhZm5DSDB4V3FZTXhKV084M0plLU9KczREck81VmdSWFItdHVqSXZDZXNRZ254bWhILU9qNVFTN3VNWEUtTTJYQTlGT0JIbWs3NWpsN0ZEOFQwQ3JsX2d1UXZueWI4V1o4dWRuZ0FIcDFhdDFpZUFCNzlZWVRkczhiYmZOVEdPRk1xNk4wa1lDTDByeVViaXRFVEdpUW5leUh5Ulg0VjN3M1phSTl3MVphRE1GaWpBcVk0SUg1aThHdnJHdzR5dXppaUhVMGhRS3V6d0E0TlZKQnJXcnA5RHJubjBabFlhVzlNWHVrWXhN?oc=5",
-            "published": "2026-06-22T13:29:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "ג'יי די ואנס: טהראן הסכימה לאפשר למפקחי גרעין של האו\"ם לחזור לאיראן - הארץ",
-            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdzFZelhHYktSYnJqZmtIeW5xS0pBVWdsZDhzYW1DNHRGT0hnc1AyeEpwX1Y4WXpQY0pkaGZIMzZfbDVzWFJXYmp2cTlVeGVuTmwxdlUzdFZsSFFGMXIwVk1NNmdqOXN4OUIxNy1oTGYxSElrNmFZYUpQT2ZCZzlGVnFzcjRPWTFMZ0Jsd3IzaE52cmdHRkYtdGYzbEREYmtpSGVrRGdZdHNBY2VMcWo5UmlQak1SQjBkVDRBMFdyN1ktckNkUkhtT0FVSFFGM2xFbi1hbl9KcDJnUmtvc0pFNjVqMTZZbTZHak5JckZiYWxqQmxUcFR1dm1hSjBLV2doSWdva0ZETmM?oc=5",
-            "published": "2026-06-22T13:04:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "אלן גרינספן, יו\"ר הפדרל ריזרב האמריקאי לשעבר, נפטר בגיל 100 - הארץ",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSTdZQkQtVW9IWDcwdGVuZFdMa1J6bXBXWUxQSFQ3ZWVHVEY0NFZvbG1fc0RQTnVKQUpaWDNfVmdhaGE0MFpSSEFscWtSaVFXUmExOXA4RWl0UkVMNzg2Zmt5ZjhpaGNPeEtrZW0zWnEyWmJFR093alNJZ1NCSGd1Q290M0hNNzRoNFplTzZZZ01PQ1YwdXZXOUk1TGdZbjBncHliMk1ZazMxcUh5RC14YWNLWkpSRGduTXVqOVRibVVqZEdfQ1VMbGZBV0h0WDdxdTM4RnpSOUpsV2QzYWROdVZBUzVYSFhOX2VJZ1FLWjZWZw?oc=5",
-            "published": "2026-06-22T12:40:00+00:00",
-            "snippet": "אלן גרינספן, יו\"ר הפדרל ריזרב האמריקאי לשעבר, נפטר בגיל 100. זה מסמן את סופה של תקופה משמעותית במדיניות הכלכלית האמריקאית."
-          },
-          {
-            "title": "הנשיא הקולומביאני היוצא טוען שישראל התערבה בבחירות לנשיאות - הארץ",
-            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaW9LcEJxUTk5cFA1eDhpWW5UdGpabldBTlZqbnQxeW9wenk3UmpIOGdTRl9falVDMmhNTkRkaVozMjhzTmRmdlF1Umw3bS1MXzV3TE9kLUVMeDFOd0xRUVN4VWVVNmlyeFdmYzNFVVFaYVVSRjVlTzNzWWxZMlozaG05d1pfemhRWkt2WnZ1a3pJbzB1bkwtR0t0S0dXdUthenYtdDUzQ0l6cm5oU0NoODVodnpVY2t3ZUs5UERab2ZhVnhCUlB0YzFGd3VaRW9LdmFOSVlvbUM0SkhsdTR3aFdDS2YxY0VBTlVUR0p3RVRaM2FkemhVc2kxemlFUTFEc3RCS1lRR3R5S28?oc=5",
-            "published": "2026-06-22T11:43:00+00:00",
-            "snippet": "הנשיא הקולומביאני היוצא טען שישראל התערבה בבחירות לנשיאות. טענה זו מרמזת על השפעה זרה אפשרית בעניינים פוליטיים קולומביאנים."
+            "snippet": "מאמר הדעה משקף את ישראל כמדינה אהובה וכזו המעוררת בושה."
           }
         ],
         "error": null
@@ -1667,34 +1667,34 @@
         "url": "https://www.farsnews.ir",
         "headlines": [
           {
-            "title": "פארסניוז | דוח: טראמפ \"מתוסכל מכולם\" מהבית הלבן שלו ועד הקונגרס בזמן שאג'נדתו נתקעת - خبرگزاری فارس",
+            "title": "פארסניוז | דיווח: טראמפ \"מתוסכל מכולם\" מהבית הלבן ועד הקונגרס כשהאג'נדה שלו נתקעת - خبرگزاری فارس",
             "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR0dOZ196LVkzLVpZWUlWUENRZ05EYXNUbmh1dlZtQVJPODNJUUxnaVhsdnpRbGdmdHJ1WVhrMkYxV041SGpZdFJBMnZYdWlJLU1nbVpqWTNuc2V4RXRTM0ludzdpNk1WQ185dWZ0cDRFZVl3YlJFRVF0Y3UzNnlUTWl3cFRKNlEyMmtJWlByN1E0eFdIeUdocDV0a0VoSGw4cFMzU2hFdWlFQkY4QXdrNDdiQ2lyU0stbnFfZ1FMbjVsOUJSc3lkcTRTMjloNnJ3cU9Obk40OVJRUQ?oc=5",
             "published": "2026-06-22T11:25:09+00:00",
-            "snippet": "דוח: טראמפ מדווח כ\"מתוסכל מכולם\", מהבית הלבן שלו ועד הקונגרס, בזמן שאג'נדתו נתקעת. הדבר מצביע על קיפאון פוליטי משמעותי."
+            "snippet": "דיווח מצביע על כך שטראמפ מתוסכל מכולם, מאנשי הבית הלבן ועד הקונגרס, כאשר האג'נדה שלו נתקלת בעיכובים."
           },
           {
             "title": "פארס - خبرگزاری فارس",
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdm9KLTRCdDc4UkkwZ2hBRUtPNUFCNTZtUGQ1UV8td1hqM3pLUzFwQWhsXzR1ZWJYLTZqa3VFXzlZRmpGeXlVZ1JKenZfVXZLdEF2SlB6RXVEWnNTVERsbnhGeUd2UTY3MFlVcE96X3psWExiX3lVOThfU2JxX242c1BRYVNfLXpEWS13UmJ4TXh0YmFxcndJeUQ1Vkctd3gxOG9Xa0s2cDdlaU1DR3lNZGU0M0kyXzlxRWJlMHlJRk9mUEozd2MzYmIyM1FGcDRGdE4xck8zZFI3R1hvU3VFZkEwWDhTVVBSNmZ3WkYwNlI0NFZadHdoSmdB?oc=5",
             "published": "2026-06-22T10:51:38+00:00",
-            "snippet": ""
+            "snippet": "Farsnews."
           },
           {
             "title": "פארס | סקר: רוב הבריטים מאוכזבים מברקזיט - خبرگزاری فارس",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OUHR6VGlFcnB0QjJxZ1JQeGxnLXZaQVloQ1JLVTdhNThHczBCcjFjNHAxc1p3NXh0UzFuUER5M19VUkdueGp4XzNzckg4Z1NKQ24xTTZpNDR2TlZvczJF?oc=5",
             "published": "2026-06-22T10:27:50+00:00",
-            "snippet": "סקר מראה שרוב הבריטים מאוכזבים מברקזיט. הדבר מרמז על חוסר שביעות רצון מתמשך מהיציאה של בריטניה מהאיחוד האירופי."
+            "snippet": "סקר מציע שרוב הבריטים מאוכזבים מברקזיט."
           },
           {
-            "title": "פארס | לפחות שבעה הרוגים בירי בשיקגו, בזמן שטראמפ חידש את קריאתו לצבא - خبرگزاری فارس",
+            "title": "פארסניוז | לפחות שבעה נהרגו ביריות בשיקגו כשטרמפ חידש את קריאתו הצבאית - خبرگزاری فارس",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
             "published": "2026-06-22T09:06:03+00:00",
-            "snippet": "לפחות שבעה בני אדם נהרגו בירי בשיקגו, בזמן שטראמפ חידש את קריאתו להתערבות צבאית. הדבר מדגיש עלייה באלימות נשק ותגובה פוליטית חזקה."
+            "snippet": ""
           },
           {
-            "title": "פארס | צבא ארה\"ב אומר כי תקף כלי שיט בים הקריבי, והרג שניים - خبرگزاری فارس",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnBOVWFkU3RhSmQyVTVVSEFlY1N5VkY4S2ZrWmp4dkJtRks1YmxROUZIQ3pZZFQ0S2VuUHV0T0hXbWFJX1dGVzJEYUh5MWhENEJxTWVpUXNmeGcxNVNhRHNTaVU4cTBhVzVFVkRiVW4tbUxTSTNDd0ZKMjZCQXdJSTk3RjZickg2M1MtOWtIUVNuTnRRUXVPNDVUTWRjRHVTNXJmRENJNGtZc3ZNMUE?oc=5",
-            "published": "2026-06-22T07:10:02+00:00",
-            "snippet": "צבא ארה\"ב דיווח כי תקף כלי שיט בים הקריבי, דבר שהוביל למותם של שני אנשים. התקיפה כוונה לפעילות בלתי חוקית לכאורה."
+            "title": "פארס | חיזבאללה: שיחות לבנון-ישראל מערערות את הריבונות, שוות לכניעה לדרישות האויב - خبرگزاری فارس",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWNkRmNDOVVDN2Jrc1ZmNXhCdF9aS2dBT1JpNzhqTW9iYWVqQk1kS0l0UWFjc3JwOHhvWTZYTkJyZ05vakZFRFlxWHNUMlQyTlZPMHRRWWFEWVlsOUFQRjdaajdGa3VSYzJ1dVJBUFJJMVF3OWRWdWQybXNEOXh3VDYxX3dKWFR6WTJzMUVVTXFmTjItVGdiY0tQMld0MGZRR0VJRmtiVUpJLVl2NXNuRDZZOS1iVG9VeXpOQjBQdTZubDVhQmJ6Z0xYODBaRnNZdUNDbERR?oc=5",
+            "published": "2026-06-22T05:40:35+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -1706,34 +1706,34 @@
         "url": "https://en.mehrnews.com",
         "headlines": [
           {
-            "title": "סטארמר מתפטר כראש ממשלת בריטניה",
+            "title": "ארה\"ב מאשרת מכירת נפט ומוצרי אלקטרוכימיה איראניים",
+            "url": "https://en.mehrnews.com/news/245538/US-authorizes-Iranian-oil-and-echemical-products-sales",
+            "published": "2026-06-22T15:54:41+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "איראן מוכנה להגיב לכל איום פוטנציאלי: גורם רשמי",
+            "url": "https://en.mehrnews.com/news/245537/Iran-ready-to-respond-to-any-potential-threats-official",
+            "published": "2026-06-22T15:34:09+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "רוח ההתנגדות של איראן היא החוזקות החשובות ביותר בזמן מלחמה",
+            "url": "https://en.mehrnews.com/news/245535/Spirit-of-resistance-Iran-most-important-strengths-during-war",
+            "published": "2026-06-22T14:26:36+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "סטארמר מתפטר מראשות ממשלת בריטניה",
             "url": "https://en.mehrnews.com/news/245536/Starmer-resigns-as-UK-prime-minister",
             "published": "2026-06-22T13:44:04+00:00",
             "snippet": ""
           },
           {
-            "title": "סין מברכת על התקדמות בשיחות איראן-ארה\"ב",
+            "title": "סין מברכת על התקדמות בשיחות ארה\"ב-איראן",
             "url": "https://en.mehrnews.com/news/245534/China-welcomes-progress-in-Iran-US-talks",
             "published": "2026-06-22T13:20:50+00:00",
             "snippet": ""
-          },
-          {
-            "title": "פזשקיאן יסע לפקיסטן לביקור בן יום מחר",
-            "url": "https://en.mehrnews.com/news/245533/Pezeshkian-to-go-to-Pakistan-on-one-day-visit-tomorrow",
-            "published": "2026-06-22T12:48:20+00:00",
-            "snippet": "הנשיא מסעוד פזשקיאן צפוי לנסוע לפקיסטן ביום שלישי להתייעצויות ודיונים עם פקיסטנים רשמיים. ביקור זה נועד לחזק את היחסים הדו-צדדיים."
-          },
-          {
-            "title": "איראן מדגישה מחויבות לעקרון ההדדיות במשא ומתן",
-            "url": "https://en.mehrnews.com/news/245532/Iran-emphasizes-commitment-for-commitment-principle-in-talks",
-            "published": "2026-06-22T12:37:44+00:00",
-            "snippet": "דובר משרד החוץ האיראני הצהיר כי יישום המחויבויות במסגרת מזכר ההבנות של איסלמבאד יתבסס על \"הדדיות\". עיקרון זה מנחה את גישתה של איראן למשא ומתן."
-          },
-          {
-            "title": "שר החוץ הפקיסטני חושף פרטים על שיחות איראן-ארה\"ב",
-            "url": "https://en.mehrnews.com/news/245531/Pakistan-FM-reveals-details-of-Iran-US-deal",
-            "published": "2026-06-22T10:28:00+00:00",
-            "snippet": "שר החוץ הפקיסטני חשף שאיראן תוריד את רמת ההעשרה שלה במקום לשלוח אורניום לחו\"ל. שלוש קבוצות עבודה טכניות יטפלו בסוגיות גרעיניות, נכסים קפואים ולבנון."
           }
         ],
         "error": null
