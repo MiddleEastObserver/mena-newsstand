@@ -1,29 +1,113 @@
 {
-  "updated": "2026-06-22T00:31:35.925611+00:00",
-  "total_headlines": 106,
+  "updated": "2026-06-22T01:02:35.499548+00:00",
+  "total_headlines": 110,
   "terms": [
     {
-      "term": "israeli",
-      "count": 15,
+      "term": "iran",
+      "count": 16,
       "headlines": [
         {
-          "title": "Israeli army says killed two Palestinians near Hebron",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-two-palestinians-near-hebron",
+          "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
+          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump questions Nato allies' support during Iran conflict",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-questions-nato-allies-support-during-iran-conflict",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli attacks kill nine people in Gaza in past 24 hours",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-gaza-past-24-hours",
+          "title": "Iran says messages continue through mediators after refusing to rejoin talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Turkish minister warns of Israeli sabotage risk to US-Iran deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-minister-warns-israeli-sabotage-risk-us-iran-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "US, Iran set for talks as Lebanon conflict threatens deal - Jordan Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczRWaVF4cjVJemxjVl9mNS1mbWZKQmpDWW9Ka2FtZzZiVlJQWWdZMlMwMUhXVVNST2tidjFmWklPTXBCajZ5bGlNVUhkTm9FYjhab3ZVT0hxMUlXVW5oQU8zcTdURFdJVjBIS3VCd25MU3FxM2NlZzhZSmlKeFVqb1lOS0NndUtvZUFwNEU2R1BrcVNRVmc?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         },
+        {
+          "title": "“أكسيوس”: الولايات المتحدة ترى أنه تم إحراز تقدم في المحادثات مع إيران بشأن مضيق هرمز",
+          "url": "https://www.almanar.com.lb/article/968022/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "نتنياهو: لن أسمح لإيران بالتسلح النووي ما دمت رئيسا للوزراء - paltoday.ps",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORGJ4ZFdROEFVWWMycWJqSFMwUk91dm51V0dybTg3czE3blRnMnVXYTVsVENYekZGVnhBSVN3eFFaX1JLbGQ0LWlQbjhOcFE3TTZzRW1lbWFKY3JZZkN6MlBwUk1rOHl0M3pFNnh2ZGJwb1hvUUxkTXMtdFJ2SlJjc3JXY05OQUdKcnFNb25XbHRxbGNUelQyWGRoMlI1RERFWTdIS3o4WkFtOXQzb2NuWmlFU3VFekwwSEZDTEhKUnhWRlpIak5ZSklCOGw4S1hBVEpBeF9KSGtKRkdkMGlZZEdyY29FSE40bTNYTmFsMHozVkxTdHpxYlZuWTdweWdMa1ZnV0l6Q3pFRnpocm52ekZKTGRuamdUVnpPb3pZRnM?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran plays 10-man Belgium to 0-0 draw at World Cup - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RMnMyRFNyaWduVm41VFlUVi10TEJ1S191OFJ2SjFSQkpBSEplWTJfLVRWeWZIRDZSazRCT0JzLWxkeW9aTFdteklVNUxIVGVnb1d3?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "US senator says Saudi Arabia could join Abraham Accords this year as long as Iran is 'in a box' - The National",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnE0RlRCR2l0ZzZ5eU1haThrMG03dU9OQ28xVkVpaDhOLXZJNG9GckxlS1ZSbnM2ZTFRNWJBc2NTNTVYeDJjbndGRWw1Um9vTHdGS1RKWUEtN0ZST0dFNDRya1RVVEo4WXhxa2lSbDhNYWp4enVmd2hkNWVVdXlzMjBfbEZSdHRkV1NSVA?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Belgium held 0-0 by Iran as Ngoy sent off - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kWGR0NnJrMzk0N0MzTDRMXzRUemluWmVJMHpnU3R2aUNfU1Z0QkRRM3VZdklqVVlCSk45T3gxUnN2NGJ6MW1yN3lzNzk4T200dWgzWjRuVTVrdnBSTnRDS0RxWHVtaG9YNW5sOV9ZajlWdV9mMlBCWlJNNTM?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Farsnews | Lead Negotiator: Iran to Pursue War, Diplomacy - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDRLenB1Qi1DS1lLZjFPYXA5RWRobVBfaTJoZnpPNE42dWpHY0NmNDFTX1F5LVU0TmV6anVjWEVFbWFGMHp4cndJQm1kX3B3VEVkSlV5VW9MbkZTbGplR0MxWUN6ZFNKNVlqNUVOdHAzUGx1NDZ2aHdNTVVnSFl4N0FmRW1lSjVMZndiTm5rWS0tY3ZvcUE?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        },
+        {
+          "title": "Farsnews | Mount Sheyvar Showcases Untouched Landscapes in Northwestern Iran - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVpOUE1tSlZFUlJvV29ubHhWeHduYmRtWjliR00wd3JrMDhoNVY0dFZtVG9YRmVMcFF1a1laOC1ZbkNuZ2dMX0h6cU5POEhVUUZ0aUNhS3pLMDNPS2tHUG5ERnNZNkt1UEp0V1Z1eU41NEZRNzhFYkRueVVKQnBhOWdYRjUzMW9ESjJxUi16bjFvTkNjLWFjZUJpcDF0MTUxY05DMGpxV3MzNFI1b0FtU0M0YlJQY3Q3eTc0?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran sets 2 conditions for returning to talks: report",
+          "url": "https://en.mehrnews.com/news/245512/Iran-sets-2-conditions-for-returning-to-talks-report",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran, Belgium match in 2026 World Cup ends goalless",
+          "url": "https://en.mehrnews.com/news/245511/Iran-Belgium-match-in-Los-Angelese-stadium-kicks-off",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran protests Trump's language of military threats",
+          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "israeli",
+      "count": 12,
+      "headlines": [
         {
           "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
           "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
@@ -33,12 +117,6 @@
         {
           "title": "\"الصحة\" الإسرائيلية: 9272 إصابة منذ بدء عملية \"زئير الأسد\" - almayadeen.net",
           "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPWHJHNzNEMWdLMGFCYjlPRWI4b2FzRWFyZUVOZ3lJZ1I0MWdpOHJXUUs1LXRLSDlhNGFPeEdvTm5aTlM2NUd4ZW5YV1dyandId0R6S1pFTFAtOWd1Q0s0M2JCNndaNk1jeEZveHZFc3kxLXFUVjl3Z1lGU3gyOFlRTEFORVZKNm5yeGdRbDA3MnRUYjcwUmVBWkp2VTVGc1lRVDJ4cVNWWkhGZjZwZC1ocmpqSmRTZEsxamlvZmJUSk9TTjV0dUMzWXNmZlBnVjd0dEw3RWZQMlJnTFVZQXM5RW1INFBzRTE2eEk3OVdlRFNYYUE1Tk1yVk9HMTJaWUt0MkpweTBHNWlwN0g3WWk5MW4tRGxBdk1EQ0dLNnhlYlNnbkZxY3p0d1BLNmRNblJQU2dXXzdYWlNiNnBIbE5XRWR2QkkwZHYyVEUtWGY2S0ZQNk5tbk1uMElMRmh2ZW5PMmZTWHNBOExjT0RSOTRuMGl5WExUVmptczRfQ2REQ1BwN2g3cG5mcW5YT1NnS21JWFdtNDdfZXdqbEY4S09wY1NrN3pwTHp3OEM5eW5DRkJjMVdw0gG0A0FVX3lxTE9Yckc3M0QxZ0swYUJiOU9FYjhvYXNFYXJlRU5neUlnUjQxZ2k4cldRSzUtdEtIOWE0YU94R29OblpOUzY1R3hlblhXV3Jqd0h3RHpLWkVMUC05Z3VDSzQzYkI2d1o2TWN4Rm94dkVzeTEtcVRWOXdnWUZTeDI4WVFMQU5FVko2bnJ4Z1FsMDcydFRiNzBSZUFaSnZVNUZzWVFUMnhxU1ZaSEZmNnBkLWhyampKZFNkSzFqaW9mYlRKT1NONXR1QzNZc2ZmUGdWN3R0TDdFZlAyUmdMVVlBczlFbUg0UHNFMTZ4STc5V2VEU1hhQTVOTXJWT0cxMlpZS3QySnB5MEc1aXA3SDdZaTkxbi1EbEF2TURDR0s2eGViU2duRnFjenR3UEs2ZE1uUlBTZ1dfN1haU2I2cEhsTldFZHZCSTBkdjJURS1YZjZLRlA2Tm1uTW4wSUxGaHZlbk8yZlNYc0E4TGNPRFI5NG4waXlYTFRWam1zNF9DZERDUHA3aDdwbmZxblhPU2dLbUlYV200N19ld2psRjhLT3BjU2s3enBMenc4Qzl5bkNGQmMxV3A?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "استطلاع إسرائيلي: 92% من الإسرائيليين يعتقدون أن إيران انتصرت في الحرب - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQSzA3ZUdoTTlETkw1X1psdGxyTExFdS1lQWJKaG9oMlpSNEJ4bktMc2g0OGd4aDJ0dlRwaVpLcjVzRkJVTzNHaE9JQnU1UzhJNDk2WnlnUUIxMWVVa0h2WHhwZ3BYaXFON0EyYVgzSkVMZUE5TlEzaHhFOUlRdGpGZDhGOWRVamdZbWJjNlZaMTIzbXNSVllPS0s4SWctN3R1clhmZVltSm5kb2djNEh5Ti1zdVdpbjU2c0lkNzdTSVBmUG1ic3Q1NE8wQUpXeDJuUzdkMG42cHg1NjJCNzJ2Vmg3amFfLV9lSmNTcnFPbmRFZmFsZDh6eW5BM1BMWUg1cEsyYXAzMS10aExZbjQtYkhQV01SS2ZoN3I3c29HWDZMMGVFVzBBVThSVkstUk1YRGdWdy13Z3A1V0x1aVp0TUk4N1M1b1I1MG5FMXg2MUVWWDVHWEZXRW9XZ3RGRnRIN2MzaHN5Ynp2NG1pRWVoYVNiVVQ4b2d3R0VyRWRRM2dha2RsR0RyN2NuQVl5RkVsMzZ5NEhfalYtZnJxMlptRFctVmN0ZlNPNW9XVDg5ZUs2ODI1SlhFakMtYm03V3A1RlZWNEtybmFxUFlLaC00ejFDc3g4b3hBVlB1THVKSUl2MXc5a2930gHnA0FVX3lxTFBLMDdlR2hNOUROTDVfWmx0bHJMTEV1LWVBYkpob2gyWlI0QnhuS0xzaDQ4Z3hoMnR2VHBpWktyNXNGQlVPM0doT0lCdTVTOEk0OTZaeWdRQjExZVVrSHZYeHBncFhpcU43QTJhWDNKRUxlQTlOUTNoeEU5SVF0akZkOEY5ZFVqZ1ltYmM2VloxMjNtc1JWWU9LSzhJZy03dHVyWGZlWW1KbmRvZ2M0SHlOLXN1V2luNTZzSWQ3N1NJUGZQbWJzdDU0TzBBSld4Mm5TN2QwbjZweDU2MkI3MnZWaDdqYV8tX2VKY1NycU9uZEVmYWxkOHp5bkEzUExZSDVwSzJhcDMxLXRoTFluNC1iSFBXTVJLZmg3cjdzb0dYNkwwZUVXMEFVOFJWSy1STVhEZ1Z3LXdncDVXTHVpWnRNSTg3UzVvUjUwbkUxeDYxRVZYNUdYRldFb1dndEZGdEg3YzNoc3lienY0bWlFZWhhU2JVVDhvZ3dHRXJFZFEzZ2FrZGxHRHI3Y25BWXlGRWwzNnk0SF9qVi1mcnEyWm1EVy1WY3RmU081b1dUODllSzY4MjVKWEVqQy1ibTdXcDVGVlY0S3JuYXFQWUtoLTR6MUNzeDhveEFWUHVMdUpJSXYxdzlrb3c?oc=5",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
@@ -91,6 +169,12 @@
           "region": "Levant"
         },
         {
+          "title": "Israeli military says killed two near West Bank settlement - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHdQU3N3QjYwc2Z5cGlfdFNYLVVfT3ZuWWpMRHBSRXJjNXZDcXVyeFdHbExhbG1oYWV2WkNfV3hlQzdISXVyaXk0Q2kxTlpfTHBaY3lsY21fWUd0SUhBeG1QTWRKUjRsQ3dmZGhwcmNOYlJJY3RBS3JnNVRmNFNvd25DeXZ6bG5VdmFQOHM2eGsyb1o0blNPSGlSOWdjYzRBNDdzeNIBtwFBVV95cUxNVnN5amR6WmFNRF82c1Fpa29BaVpsX19TVFFhcGI0ZVpkMHIzYkNsSVlrd0VNcHhwckV1RXpYTXJ0cHBsMXpFbUFqbXFfcU1XYzJDNVRsMXBBSXBPTUZwZ0ZvNXVHTHZDMkxSaUs1ZjY2SWtPVi1HaWdzVVVEQ1NjNnh1Zmw2SWNZQTZVQUpkSnozUklxNlRWY1JLSnNyNTJ4OWhQRkkzOHpzRzdUYVFXVEVNaEdTXzA?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
           "title": "Israel National Basketball Team begins prep for pair of qualifiers vs Germany, Croatia",
           "url": "https://www.jpost.com/israel-news/sports/article-900085",
           "source": "Jerusalem Post",
@@ -99,115 +183,13 @@
       ]
     },
     {
-      "term": "iran",
-      "count": 14,
-      "headlines": [
-        {
-          "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
-          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran says messages continue through mediators after refusing to rejoin talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "استطلاع إسرائيلي: 92% من الإسرائيليين يعتقدون أن إيران انتصرت في الحرب - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQSzA3ZUdoTTlETkw1X1psdGxyTExFdS1lQWJKaG9oMlpSNEJ4bktMc2g0OGd4aDJ0dlRwaVpLcjVzRkJVTzNHaE9JQnU1UzhJNDk2WnlnUUIxMWVVa0h2WHhwZ3BYaXFON0EyYVgzSkVMZUE5TlEzaHhFOUlRdGpGZDhGOWRVamdZbWJjNlZaMTIzbXNSVllPS0s4SWctN3R1clhmZVltSm5kb2djNEh5Ti1zdVdpbjU2c0lkNzdTSVBmUG1ic3Q1NE8wQUpXeDJuUzdkMG42cHg1NjJCNzJ2Vmg3amFfLV9lSmNTcnFPbmRFZmFsZDh6eW5BM1BMWUg1cEsyYXAzMS10aExZbjQtYkhQV01SS2ZoN3I3c29HWDZMMGVFVzBBVThSVkstUk1YRGdWdy13Z3A1V0x1aVp0TUk4N1M1b1I1MG5FMXg2MUVWWDVHWEZXRW9XZ3RGRnRIN2MzaHN5Ynp2NG1pRWVoYVNiVVQ4b2d3R0VyRWRRM2dha2RsR0RyN2NuQVl5RkVsMzZ5NEhfalYtZnJxMlptRFctVmN0ZlNPNW9XVDg5ZUs2ODI1SlhFakMtYm03V3A1RlZWNEtybmFxUFlLaC00ejFDc3g4b3hBVlB1THVKSUl2MXc5a2930gHnA0FVX3lxTFBLMDdlR2hNOUROTDVfWmx0bHJMTEV1LWVBYkpob2gyWlI0QnhuS0xzaDQ4Z3hoMnR2VHBpWktyNXNGQlVPM0doT0lCdTVTOEk0OTZaeWdRQjExZVVrSHZYeHBncFhpcU43QTJhWDNKRUxlQTlOUTNoeEU5SVF0akZkOEY5ZFVqZ1ltYmM2VloxMjNtc1JWWU9LSzhJZy03dHVyWGZlWW1KbmRvZ2M0SHlOLXN1V2luNTZzSWQ3N1NJUGZQbWJzdDU0TzBBSld4Mm5TN2QwbjZweDU2MkI3MnZWaDdqYV8tX2VKY1NycU9uZEVmYWxkOHp5bkEzUExZSDVwSzJhcDMxLXRoTFluNC1iSFBXTVJLZmg3cjdzb0dYNkwwZUVXMEFVOFJWSy1STVhEZ1Z3LXdncDVXTHVpWnRNSTg3UzVvUjUwbkUxeDYxRVZYNUdYRldFb1dndEZGdEg3YzNoc3lienY0bWlFZWhhU2JVVDhvZ3dHRXJFZFEzZ2FrZGxHRHI3Y25BWXlGRWwzNnk0SF9qVi1mcnEyWm1EVy1WY3RmU081b1dUODllSzY4MjVKWEVqQy1ibTdXcDVGVlY0S3JuYXFQWUtoLTR6MUNzeDhveEFWUHVMdUpJSXYxdzlrb3c?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US, Iran set for talks as Lebanon conflict threatens deal - Jordan Times",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczRWaVF4cjVJemxjVl9mNS1mbWZKQmpDWW9Ka2FtZzZiVlJQWWdZMlMwMUhXVVNST2tidjFmWklPTXBCajZ5bGlNVUhkTm9FYjhab3ZVT0hxMUlXVW5oQU8zcTdURFdJVjBIS3VCd25MU3FxM2NlZzhZSmlKeFVqb1lOS0NndUtvZUFwNEU2R1BrcVNRVmc?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "“أكسيوس”: الولايات المتحدة ترى أنه تم إحراز تقدم في المحادثات مع إيران بشأن مضيق هرمز",
-          "url": "https://www.almanar.com.lb/article/968022/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "نتنياهو: لن أسمح لإيران بالتسلح النووي ما دمت رئيسا للوزراء - paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORGJ4ZFdROEFVWWMycWJqSFMwUk91dm51V0dybTg3czE3blRnMnVXYTVsVENYekZGVnhBSVN3eFFaX1JLbGQ0LWlQbjhOcFE3TTZzRW1lbWFKY3JZZkN6MlBwUk1rOHl0M3pFNnh2ZGJwb1hvUUxkTXMtdFJ2SlJjc3JXY05OQUdKcnFNb25XbHRxbGNUelQyWGRoMlI1RERFWTdIS3o4WkFtOXQzb2NuWmlFU3VFekwwSEZDTEhKUnhWRlpIak5ZSklCOGw4S1hBVEpBeF9KSGtKRkdkMGlZZEdyY29FSE40bTNYTmFsMHozVkxTdHpxYlZuWTdweWdMa1ZnV0l6Q3pFRnpocm52ekZKTGRuamdUVnpPb3pZRnM?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "US senator says Saudi Arabia could join Abraham Accords this year as long as Iran is 'in a box' - The National",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnE0RlRCR2l0ZzZ5eU1haThrMG03dU9OQ28xVkVpaDhOLXZJNG9GckxlS1ZSbnM2ZTFRNWJBc2NTNTVYeDJjbndGRWw1Um9vTHdGS1RKWUEtN0ZST0dFNDRya1RVVEo4WXhxa2lSbDhNYWp4enVmd2hkNWVVdXlzMjBfbEZSdHRkV1NSVA?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "'Kill them first' • 'Kill them first': Netanyahu says Iran war 'changed Israel's security doctrine' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdHotR1FFXzhkZzZ6ZDd3bm5xaVBBYjRwZFFxWlJnTHpQTEFoREdqOVlJM0QxcERkbGVSWUJDVngyTk5xbUpjbU4tbnl2QzJJTUJnLW9IN1YyUEVqT3p3alRmOUFZS0NEdkQ4ajNONWN1bWo4cGRJT1pyUUppRHJQN25ncHBYTkFTZkF6eDhLdFpaSEJUNTFxd213c2hfNEp3Z1lpaHN6eExpTkYzSW9FcGxlVmFDVEFPcENlWjhzQkI4YXBucnRiVGluWWdrR2JMZndXR1BGN3lKWVVNMDAtRUhOZEJxWF8xTHZ5ZXIyRFVNcThlaHp5T3NNenFmUmpYZTRDc0tkMl9yckZJb0hDTlVGeVZ3TXhFLXBVcFJB?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Farsnews | Iran Approves First Domestic Umbilical Cord Stem Cell Therapy for Osteoarthritis - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOW5BUHV2aW9KQ21lRGVGUVQ2UVlOZGlVdGVBWFV3R001WFp1Rjk3R1dSUHZXTnByZHc5ejA3MDNIVVN4ZVRyTGJDLTI3NXdRNmROSW9Lc0pRbzAwRHQ4Z0VTNE1IMGZSNjZpTXczMTVFQ0YyM1lDMjhOUkc4SkE2cHc1Z3BXUG1qWVd5X3lqa3hoTXVhNC0wZFRYVUI3eFA5UDJYVFczX0I4SVlMVkx0SVliTXlRR05TQUlhczEydHRyNEhr?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran sets 2 conditions for returning to talks: report",
-          "url": "https://en.mehrnews.com/news/245512/Iran-sets-2-conditions-for-returning-to-talks-report",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran, Belgium match in 2026 World Cup ends goalless",
-          "url": "https://en.mehrnews.com/news/245511/Iran-Belgium-match-in-Los-Angelese-stadium-kicks-off",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran protests Trump's language of military threats",
-          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "lebanon",
-      "count": 11,
+      "count": 8,
       "headlines": [
         {
           "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
           "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "قاآني للاحتلال: إذا لم تغادروا جنوب لبنان بأرجلكم ستتكرر ملحمة الـ 2000 مجدداً - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OdIB9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OQ?oc=5",
-          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
@@ -227,12 +209,6 @@
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0VmcDBsZmp4UFVwN0wwVlNaekltR0lRQm5mb2JyNlRCdHozSnBNTWdPME9ITGNXVEM3N05TeFBacy1KRTBpdjRWRlFySjJpckRWV0FkOXZieUNvMzZwNm4tSFRXd1V1V2MzNm5lQzMyZWpwYlRZbWFoNVhTOUxTZmowSlZzZmpnTmNheHNQV3JwTWxmMGxVZXZ1R2tMTFQ3dWlONDFzWUpzNHF3VGVrN0RIUGZBaFZZeFZxWHNNYUcwYVdVUnRTcWFFVlNDYzljckd3d1c1UnNqUGxrVVprREl1LXVQTEs5Q0E?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
-        },
-        {
-          "title": "Some southern Lebanon residents trickle back as fighting pauses - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Yy1KZ0c5OHFvRF9lUGdZdXlnSVdRTVFNd2xrUFdydU1zdWpUWC1SOGctMXNUUHNlQWJSc1pEVzUzck13ak1BZGQ5YmYwNUwyT0Nr?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
         },
         {
           "title": "US-Iran talks focused on elements of nuclear deal, enforcement of Lebanon ceasefire - report",
@@ -261,8 +237,56 @@
       ]
     },
     {
+      "term": "us-iran",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "What are the end goals of Iran-US negotiations?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Oil prices rise amid uncertainty over US-Iran talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-amid-uncertainty-over-us-iran-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US-Iran talks begin at Burgenstock, Switzerland - in pictures - The National",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWgzYVJKQnlHV0s1eDlNa29wQ0lNRWN3c0w4YkFNcE94NVQ0bkhLbGtwR1k4WkNTLUloSUlKRWhTUUt1MjJYdUJXVWRTTk04LXlqZi1OUlltMzZxejB1OFVicG1wLW80akUtdDYwWE1HaFYyVm9lWnZnMnh4cWRMbjZXUGxwcHpHeVptQXRVQkJwV21OcGJ0UHp1dEl5LVdsUnNRV0dOY0ZVRHc?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "US-Iran talks focused on elements of nuclear deal, enforcement of Lebanon ceasefire - report",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900087",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Netanyahu vows to maintain IDF presence in Lebanon even as issue rocks US-Iran talks",
+          "url": "https://www.timesofisrael.com/netanyahu-vows-to-maintain-idf-presence-in-lebanon-even-as-issue-rocks-us-iran-talks/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "From Chaplin to Ben-Gurion, Swiss venue of US-Iran talks has a star-studded history",
+          "url": "https://www.timesofisrael.com/from-chaplin-to-ben-gurion-swiss-venue-of-us-iran-talks-has-a-star-studded-history/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "stated",
-      "count": 9,
+      "count": 7,
       "headlines": [
         {
           "title": "Iran says messages continue through mediators after refusing to rejoin talks",
@@ -274,12 +298,6 @@
           "title": "Israel PM says troops to stay in south Lebanon 'as long as necessary' - L'Orient Today",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGxBbnhWNEVxUTVHaFRSSGZUOGNfV25uZDZtODlTQzhaY0hzNFhwd3NTaHJJSGVwUzBUd3AyQmZXU2hRNFVMYzMyN0YwbVd0NkhpQW9aOHVKZWNNMGJkYWNmZ0YzUkpFcklEYUdlVTdaWHhwZkVSOFlxMzV3UlNUR3k1blVUczF0bS1lTExGSDBsQW0zT3lGc09FWHRIaVhxdTFvLW1ESTlxUDNTRXFaLTV4ZEhtOWR5VGlhcg?oc=5",
           "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "غروشكو: دول الناتو تستعد فعليا لمواجهة عسكرية مع روسيا بحلول عام 2030",
-          "url": "https://www.almanar.com.lb/article/967997/",
-          "source": "Al Manar",
           "region": "Levant"
         },
         {
@@ -307,12 +325,6 @@
           "region": "Israel"
         },
         {
-          "title": "'Kill them first' • 'Kill them first': Netanyahu says Iran war 'changed Israel's security doctrine' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdHotR1FFXzhkZzZ6ZDd3bm5xaVBBYjRwZFFxWlJnTHpQTEFoREdqOVlJM0QxcERkbGVSWUJDVngyTk5xbUpjbU4tbnl2QzJJTUJnLW9IN1YyUEVqT3p3alRmOUFZS0NEdkQ4ajNONWN1bWo4cGRJT1pyUUppRHJQN25ncHBYTkFTZkF6eDhLdFpaSEJUNTFxd213c2hfNEp3Z1lpaHN6eExpTkYzSW9FcGxlVmFDVEFPcENlWjhzQkI4YXBucnRiVGluWWdrR2JMZndXR1BGN3lKWVVNMDAtRUhOZEJxWF8xTHZ5ZXIyRFVNcThlaHp5T3NNenFmUmpYZTRDc0tkMl9yckZJb0hDTlVGeVZ3TXhFLXBVcFJB?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
           "title": "We are at stage of defeating Israel project: Hezbollah leader",
           "url": "https://en.mehrnews.com/news/245509/We-are-a-stage-of-defating-Israeli-project-Hezbollah-leader",
           "source": "Mehr News",
@@ -321,8 +333,8 @@
       ]
     },
     {
-      "term": "us-iran",
-      "count": 8,
+      "term": "trump",
+      "count": 6,
       "headlines": [
         {
           "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
@@ -331,63 +343,117 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "What are the end goals of Iran-US negotiations?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Turkish minister warns of Israeli sabotage risk to US-Iran deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-minister-warns-israeli-sabotage-risk-us-iran-deal",
+          "title": "Trump questions Nato allies' support during Iran conflict",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-questions-nato-allies-support-during-iran-conflict",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "US-Iran talks begin at Burgenstock, Switzerland - in pictures - The National",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWgzYVJKQnlHV0s1eDlNa29wQ0lNRWN3c0w4YkFNcE94NVQ0bkhLbGtwR1k4WkNTLUloSUlKRWhTUUt1MjJYdUJXVWRTTk04LXlqZi1OUlltMzZxejB1OFVicG1wLW80akUtdDYwWE1HaFYyVm9lWnZnMnh4cWRMbjZXUGxwcHpHeVptQXRVQkJwV21OcGJ0UHp1dEl5LVdsUnNRV0dOY0ZVRHc?oc=5",
+          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
           "source": "The National",
           "region": "Gulf"
         },
         {
-          "title": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region - Gulf News",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQV2JIMlYyaENwTEQtYUpBVVE5Sm9yUWhtdk5ybzZpWXltS3VYLVBzVnQyUldJZ2ZZVl9xZG5lNmlHNF9YTU9JVDV6cC1pUGpVTTFWWjFlUVd4N2FWbnMyX3RHUlJlQWZNSG05RWFXM1NFc3dNcE1oWDQ2SVlHRXVpQlJVS09nUmZPQjNGQ2M4X1pPdHB4d0dtQVk2QkppYUZHYUZCTG92TlVXSzQteXFNUmEtc0NZa1Zkd296bkx1V3hKQ25UdXEwNndrTXk3aDAyTkc0ZFhwT2cwUkRORnBEazk5aTVfZG1qQWxHSzZ6bmZiUDYzQnRSMlhnTUxBY01VOWYxMUV30gGGAkFVX3lxTFBXYkgyVjJoQ3BMRC1hSkFVUTlKb3JRaG12TnJvNmlZeW1LdVgtUHNWdDJSV0lnZllWX3FkbmU2aUc0X1hNT0lUNXpwLWlQalVNMVZaMWVRV3g3YVZuczJfdEdSUmVBZk1IbTlFYVczU0Vzd01wTWhYNDZJWUdFdWlCUlVLT2dSZk9CM0ZDYzhfWk90cHh3R21BWTZCSmlhRkdhRkJMb3ZOVVdLNC15cU1SYS1zQ1lrVmR3b3puTHVXeEpDblR1cTA2d2tNeTdoMDJORzRkWHBPZzBSRE5GcERrOTlpNV9kbWpBbEdLNnpuZmJQNjNCdFIyWGdNTEFjTVU5ZjExRXc?oc=5",
-          "source": "Gulf News",
+          "title": "Wide gulf after Swiss talks begin in the shadow of Trump threats PM hopes Lucerne Summit will be a turning point - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TeHZxYzRBdDRKUzFLQ2FmZG96Mk1KTjZabFZ3NmdldXZiWmc1TVRsR1NOcnVtMVQzeldJTmt6dDRkSDV1ZHJzNE9KR0FNQUxpdGdUaDRreDRsMDVHcVVmYzFlMEY3UXNoVml1aFZJQWZSU2VHdFFZaVBsdw?oc=5",
+          "source": "Gulf Times",
           "region": "Gulf"
         },
         {
-          "title": "US-Iran talks focused on elements of nuclear deal, enforcement of Lebanon ceasefire - report",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900087",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Netanyahu vows to maintain IDF presence in Lebanon even as issue rocks US-Iran talks",
-          "url": "https://www.timesofisrael.com/netanyahu-vows-to-maintain-idf-presence-in-lebanon-even-as-issue-rocks-us-iran-talks/",
+          "title": "Sharaa rules out Syria intervening in Lebanon after Trump again suggests it fight Hezbollah",
+          "url": "https://www.timesofisrael.com/sharaa-rules-out-syria-intervening-in-lebanon-after-trump-again-suggests-it-fight-hezbollah/",
           "source": "Times of Israel",
           "region": "Israel"
         },
         {
-          "title": "From Chaplin to Ben-Gurion, Swiss venue of US-Iran talks has a star-studded history",
-          "url": "https://www.timesofisrael.com/from-chaplin-to-ben-gurion-swiss-venue-of-us-iran-talks-has-a-star-studded-history/",
-          "source": "Times of Israel",
-          "region": "Israel"
+          "title": "Iran protests Trump's language of military threats",
+          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "belgium",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
+          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran plays 10-man Belgium to 0-0 draw at World Cup - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RMnMyRFNyaWduVm41VFlUVi10TEJ1S191OFJ2SjFSQkpBSEplWTJfLVRWeWZIRDZSazRCT0JzLWxkeW9aTFdteklVNUxIVGVnb1d3?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Belgium held 0-0 by Iran as Ngoy sent off - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kWGR0NnJrMzk0N0MzTDRMXzRUemluWmVJMHpnU3R2aUNfU1Z0QkRRM3VZdklqVVlCSk45T3gxUnN2NGJ6MW1yN3lzNzk4T200dWgzWjRuVTVrdnBSTnRDS0RxWHVtaG9YNW5sOV9ZajlWdV9mMlBCWlJNNTM?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iran, Belgium match in 2026 World Cup ends goalless",
+          "url": "https://en.mehrnews.com/news/245511/Iran-Belgium-match-in-Los-Angelese-stadium-kicks-off",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "iranian",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iranian defence official calls for regional Islamic security alliance",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-defence-official-calls-regional-islamic-security-alliance",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOXzdXVVVFWlpuaFprNWRoZHlKLUJERlJKQUFOaVlENnZ1NEFIQUpadUhTbTdhSmZxdEptdk01R0NRNkRZZ2VoU09pTms4X1hjM0wtWVh2eUt1S2hqUkl3Ukt1dEhVbWQ3dkpuQW9YWXBINGhKZnNzWmRIX002UkNVdGVzOU11Rldxdy10dlFqLXBWdkxRZktSYzlka25VRnNaNXNjcGt3NG9wNWdMR25SaVVQTWMyMmJoTDZUc0l2LXBZSFRfYXRmN0t4T2oybXBkMlR5OUcwZ05rR1YtNEt1NFZRclJkTnlsUnZReTlLa3RleUo2Z1BnWENtTi1aUkxnTVYyN2JzNjVXaXMxQkhpd2Q0T0hVT2hkYXFjRnFGRTc3NGF1azFiUXpqVWxwdWJOWkVCSHpGZlVHamFsamJZLS1POTdiNUtPQ0M0QTkwQ1ZNMDF2aXVWQ3NnMjhsWDF6QXphZnV5OVd3RUo2amhQbmlXMkpLcFVlYjNUSmVTaGJFVWl5WlZIeUlGaWNRSmtNdGhjcEVJVXA0dVNOUHFPbkNNZXRCbUN4NUM5YmM1OWUwLTNRMEJhU1YtQ0NSNUNQMXRxbFFoTGVKbUZreWJHcl9rdXVHTEJTQXh3ZU1abWFVd1A2MmFPeExfdUpwTjM2OWgyZ1NrWWpjRGxoc3A1Y3p1OFI3d2dLMm9YeTJtTWpJT3JoekhyWmpRRUJISE1JQWdtaWRJZElVWm1wdEh0VHZ0SFlQRVI5?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Four-way talks in Swtizerland still suspended: report",
+          "url": "https://en.mehrnews.com/news/245513/Four-way-talks-in-Swtizerland-still-suspended-report",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran protests Trump's language of military threats",
+          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
     {
       "term": "gaza",
-      "count": 6,
+      "count": 5,
       "headlines": [
         {
           "title": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss",
           "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli attacks kill nine people in Gaza in past 24 hours",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-gaza-past-24-hours",
-          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -418,7 +484,7 @@
     },
     {
       "term": "arabia",
-      "count": 6,
+      "count": 5,
       "headlines": [
         {
           "title": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
@@ -448,19 +514,13 @@
           "title": "World Cup 2026: Saudi Arabia get harsh reality check from Lamine Yamal and Spain - The National",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN0VEdVdtWmdjVVQ3NE91YjBtY0l1aWRhejRaakVtbnEtNFN4OUEzUzRkWDIwaUpPckR5VlZkOW9nWEo2SEhqSkUwcEpGRkZZUUFZUUdWLXk1anNVQ0I2N2tPTXVmQkdqVXo3WVk0azJuRGlQWG1KRGFEYXJ0dlFiczg1TEtLZmtwNmR5LVNaV29MUVRsSFA4T3RfYlQ1dWZYbkZvNHZQWXZpc0g1LUdMTHZSOUJKSjZ0S2xiS3A2T2tTelU3V2VhOHpFNFlwQkM3WTU5R0N6dDE4SmR3?oc=5",
           "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region - Gulf News",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQV2JIMlYyaENwTEQtYUpBVVE5Sm9yUWhtdk5ybzZpWXltS3VYLVBzVnQyUldJZ2ZZVl9xZG5lNmlHNF9YTU9JVDV6cC1pUGpVTTFWWjFlUVd4N2FWbnMyX3RHUlJlQWZNSG05RWFXM1NFc3dNcE1oWDQ2SVlHRXVpQlJVS09nUmZPQjNGQ2M4X1pPdHB4d0dtQVk2QkppYUZHYUZCTG92TlVXSzQteXFNUmEtc0NZa1Zkd296bkx1V3hKQ25UdXEwNndrTXk3aDAyTkc0ZFhwT2cwUkRORnBEazk5aTVfZG1qQWxHSzZ6bmZiUDYzQnRSMlhnTUxBY01VOWYxMUV30gGGAkFVX3lxTFBXYkgyVjJoQ3BMRC1hSkFVUTlKb3JRaG12TnJvNmlZeW1LdVgtUHNWdDJSV0lnZllWX3FkbmU2aUc0X1hNT0lUNXpwLWlQalVNMVZaMWVRV3g3YVZuczJfdEdSUmVBZk1IbTlFYVczU0Vzd01wTWhYNDZJWUdFdWlCUlVLT2dSZk9CM0ZDYzhfWk90cHh3R21BWTZCSmlhRkdhRkJMb3ZOVVdLNC15cU1SYS1zQ1lrVmR3b3puTHVXeEpDblR1cTA2d2tNeTdoMDJORzRkWHBPZzBSRE5GcERrOTlpNV9kbWpBbEdLNnpuZmJQNjNCdFIyWGdNTEFjTVU5ZjExRXc?oc=5",
-          "source": "Gulf News",
           "region": "Gulf"
         }
       ]
     },
     {
       "term": "saudi",
-      "count": 6,
+      "count": 5,
       "headlines": [
         {
           "title": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
@@ -491,18 +551,12 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN0VEdVdtWmdjVVQ3NE91YjBtY0l1aWRhejRaakVtbnEtNFN4OUEzUzRkWDIwaUpPckR5VlZkOW9nWEo2SEhqSkUwcEpGRkZZUUFZUUdWLXk1anNVQ0I2N2tPTXVmQkdqVXo3WVk0azJuRGlQWG1KRGFEYXJ0dlFiczg1TEtLZmtwNmR5LVNaV29MUVRsSFA4T3RfYlQ1dWZYbkZvNHZQWXZpc0g1LUdMTHZSOUJKSjZ0S2xiS3A2T2tTelU3V2VhOHpFNFlwQkM3WTU5R0N6dDE4SmR3?oc=5",
           "source": "The National",
           "region": "Gulf"
-        },
-        {
-          "title": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region - Gulf News",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQV2JIMlYyaENwTEQtYUpBVVE5Sm9yUWhtdk5ybzZpWXltS3VYLVBzVnQyUldJZ2ZZVl9xZG5lNmlHNF9YTU9JVDV6cC1pUGpVTTFWWjFlUVd4N2FWbnMyX3RHUlJlQWZNSG05RWFXM1NFc3dNcE1oWDQ2SVlHRXVpQlJVS09nUmZPQjNGQ2M4X1pPdHB4d0dtQVk2QkppYUZHYUZCTG92TlVXSzQteXFNUmEtc0NZa1Zkd296bkx1V3hKQ25UdXEwNndrTXk3aDAyTkc0ZFhwT2cwUkRORnBEazk5aTVfZG1qQWxHSzZ6bmZiUDYzQnRSMlhnTUxBY01VOWYxMUV30gGGAkFVX3lxTFBXYkgyVjJoQ3BMRC1hSkFVUTlKb3JRaG12TnJvNmlZeW1LdVgtUHNWdDJSV0lnZllWX3FkbmU2aUc0X1hNT0lUNXpwLWlQalVNMVZaMWVRV3g3YVZuczJfdEdSUmVBZk1IbTlFYVczU0Vzd01wTWhYNDZJWUdFdWlCUlVLT2dSZk9CM0ZDYzhfWk90cHh3R21BWTZCSmlhRkdhRkJMb3ZOVVdLNC15cU1SYS1zQ1lrVmR3b3puTHVXeEpDblR1cTA2d2tNeTdoMDJORzRkWHBPZzBSRE5GcERrOTlpNV9kbWpBbEdLNnpuZmJQNjNCdFIyWGdNTEFjTVU5ZjExRXc?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
         }
       ]
     },
     {
-      "term": "trump's",
-      "count": 6,
+      "term": "threats",
+      "count": 5,
       "headlines": [
         {
           "title": "Iran says messages continue through mediators after refusing to rejoin talks",
@@ -511,20 +565,8 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
           "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPeGhjR1Q5YWxhSFlkWGROV2l4amNRLUs2akhaNzJxbzNxaEtVTkFPajkyYlBfNFV1ZDQ2TjJ4VkhrZkZ4Z01QOXZUUVVfZ2J2bnJQVkE0ay1mMkdCbHJMWl8wZUt6eDJjWFZ6cV81YUplM09hZzVDeGtWZHZobHBlMVFROWJBVTdBSnZlby1kbkZfYlljLWFKUkxUYlpHdWlvMDQzcnhUNzlleHlaZkVpSk5hV01URzZnV0Y3bmNjNVZfWkZkNkxldWcxNXJvWEw4d3V3TlpCMHM4S3V0QWlBaHBnOUNRbDlTaVpwZndfZndseGxiMDdXQ0p6Ung3U3BzazA3VFg3NnFBX1FFNDQ1dWQzNVYtUmxva0w2dHA1OXFnS0VJUG9XVUNPVGlwZU92Z21ZZl8yOXdsSXhYLW1STl8tcnpRVGw5WVRIUVNMd3Vhdm1TSHdEZEdrNmxWQWNFZ0tOYXJTTm9PenhnMEE4QkdDZFBxaExOdkZzQ2dRRGRsTk1URmRSdkZBMUpQSjNUZ280UTF6ZGd2NU1semlnWXFRa3ZmUUZYaXJLUzVLMDhBRHl3cjRDODM5cTVDT1otcHU3Mm1mTFNrbnJsSWVZMXRVSGRPandVQUdycThBUkhRVVFwMUdV0gHnA0FVX3lxTE94aGNHVDlhbGFIWWRYZE5XaXhqY1EtSzZqSFo3MnFvM3FoS1VOQU9qOTJiUF80VXVkNDZOMnhWSGtmRnhnTVA5dlRRVV9nYnZuclBWQTRrLWYyR0JsckxaXzBlS3p4MmNYVnpxXzVhSmUzT2FnNUN4a1ZkdmhscGUxUVE5YkFVN0FKdmVvLWRuRl9iWWMtYUpSTFRiWkd1aW8wNDNyeFQ3OWV4eVpmRWlKTmFXTVRHNmdXRjduY2M1Vl9aRmQ2TGV1ZzE1cm9YTDh3dXdOWkIwczhLdXRBaUFocGc5Q1FsOVNpWnBmd19md2x4bGIwN1dDSnpSeDdTcHNrMDdUWDc2cUFfUUU0NDV1ZDM1Vi1SbG9rTDZ0cDU5cWdLRUlQb1dVQ09UaXBlT3ZnbVlmXzI5d2xJeFgtbVJOXy1yelFUbDlZVEhRU0x3dWF2bVNId0RkR2s2bFZBY0VnS05hclNOb096eGcwQThCR0NkUHFoTE52RnNDZ1FEZGxOTVRGZFJ2RkExSlBKM1RnbzRRMXpkZ3Y1TWx6aWdZcVFrdmZRRlhpcktTNUswOEFEeXdyNEM4MzlxNUNPWi1wdTcybWZMU2tucmxJZVkxdFVIZE9qd1VBR3JxOEFSSFFVUXAxR1U?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "احتجاجاً على تهديدات ترامب.. الوفد الإيراني يغادر مقر المفاوضات في سويسرا - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdm5wUldiWHB5MmV3ZWh4cGM1N3BNaXR3QTdRNmQyRkhqTExqbWpmcHZ1amd2MlFPa011NmppTVJKSUk5aTJSaVNUbWJCU0JGZGRUSGVWbFpNbGxiM29tQnlkZmNpZUxUMXdRUFZwQk1wWDk3Z19PbHhrTENZZ1FSWWFrSjd3VUlJRHVJczNlTGtqY0lGTjVTTF9RTGxqREtPT3YxaVRVY0xIZ05ndHVOdXowaGtGYXBJczFDclp1RVBtNkFxcEJnbWswXzlsSFNwcWlBYWhwTVlnMnY5MW5NWEViOUhxcW42VGwxQVF5VW14dXQyM3lERHRxR1IzbHN5VVJfYzFiTURhZGZvaGUzck9pc3FkVXBNNnVlRTZ3YTJKQkJhc21YNnBEajNMOXFtbWdUelBTQVl6WDVibkp3LTRUSy0tZHpiMGV0U193bkxrU2J5dE85R3ZhamlDZ1lYcVEwNTBfTndMRDR2VG9EX1dSUFNYZEx2Q0JOcjBvcS15YmVEUzVtdmU3WWNiQTF4YWpMeHl1SzNGWTVQY2ZTSDNkNnBuYjJ2RTlHR1c5S2Zqb21GY3JaVHk4N3RFUXBJZEItX2RWUzdNNEFialZ4ajlXekJGRUJYOHlVRGlHLWpXS01vZlNZcmpIaVF0bmNZ0gH0A0FVX3lxTFBlQkoyaG9WQWVxdG05SE9aNS1QMFI4amtmbVFXUW90amxpeXN2TzJjbTlsWWlJak1GUDRoaURGdzVMSUJuZ0RCZGd5MGdjYjRIei03cHpJVFlCUUd5OE43am1hRGhZVDEwTzhHZHR0SkVydzJBZzVTQ2o2U2d1NU9YUnFJcWVuUDlQSVJ3RllfWTNDRURKM195RjRXSVU4X2JGLXMxTVFfVVpvV0Q4NlVvQU5Kb2VWWGRLUFhMaER3eFZ6Z0VqdGs5U19jUy03M01QX2NOWEVhV3NvcjZZcnNfN3lJZ3BoNmNqaWIxanhkNS1Lbm1QQ1NzUGFfWEllRzVxVnNSWUo5LUw5N3pWdFhRTnhjRUlwcU9FSUxQMUZiTVdzejN3VlNhQzlKR1laaWJjSFlmNjhxa1V1eWlPdUJpdVZoU2VKMmItSXNCNmdOdWI5Q2w5MDFaSnNPQllmRlNqVUlhV290ZFRkZGEyblJwUGIxX3A4bXBHR3dMRVZmZ29CbnBrbzJNNm1ma05qYWZXUzhVcVlIS3dhejVpeExDa2M3QVpBVDFPMkhJb29DYTVqcEVqSGRIeXIwMlBMQzVvOE9JTk1GVGQ2RnVjX3N1VlRxdWFfaEhEVjFCb3FfMGZub3dQVG9xQVZIVVNBYXplVU9x?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOXzdXVVVFWlpuaFprNWRoZHlKLUJERlJKQUFOaVlENnZ1NEFIQUpadUhTbTdhSmZxdEptdk01R0NRNkRZZ2VoU09pTms4X1hjM0wtWVh2eUt1S2hqUkl3Ukt1dEhVbWQ3dkpuQW9YWXBINGhKZnNzWmRIX002UkNVdGVzOU11Rldxdy10dlFqLXBWdkxRZktSYzlka25VRnNaNXNjcGt3NG9wNWdMR25SaVVQTWMyMmJoTDZUc0l2LXBZSFRfYXRmN0t4T2oybXBkMlR5OUcwZ05rR1YtNEt1NFZRclJkTnlsUnZReTlLa3RleUo2Z1BnWENtTi1aUkxnTVYyN2JzNjVXaXMxQkhpd2Q0T0hVT2hkYXFjRnFGRTc3NGF1azFiUXpqVWxwdWJOWkVCSHpGZlVHamFsamJZLS1POTdiNUtPQ0M0QTkwQ1ZNMDF2aXVWQ3NnMjhsWDF6QXphZnV5OVd3RUo2amhQbmlXMkpLcFVlYjNUSmVTaGJFVWl5WlZIeUlGaWNRSmtNdGhjcEVJVXA0dVNOUHFPbkNNZXRCbUN4NUM5YmM1OWUwLTNRMEJhU1YtQ0NSNUNQMXRxbFFoTGVKbUZreWJHcl9rdXVHTEJTQXh3ZU1abWFVd1A2MmFPeExfdUpwTjM2OWgyZ1NrWWpjRGxoc3A1Y3p1OFI3d2dLMm9YeTJtTWpJT3JoekhyWmpRRUJISE1JQWdtaWRJZElVWm1wdEh0VHZ0SFlQRVI5?oc=5",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
@@ -532,6 +574,12 @@
           "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
           "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Wide gulf after Swiss talks begin in the shadow of Trump threats PM hopes Lucerne Summit will be a turning point - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TeHZxYzRBdDRKUzFLQ2FmZG96Mk1KTjZabFZ3NmdldXZiWmc1TVRsR1NOcnVtMVQzeldJTmt6dDRkSDV1ZHJzNE9KR0FNQUxpdGdUaDRreDRsMDVHcVVmYzFlMEY3UXNoVml1aFZJQWZSU2VHdFFZaVBsdw?oc=5",
+          "source": "Gulf Times",
           "region": "Gulf"
         },
         {
@@ -544,14 +592,8 @@
     },
     {
       "term": "syria",
-      "count": 6,
+      "count": 5,
       "headlines": [
-        {
-          "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
         {
           "title": "Coalition strike revives debate over Syria's foreign fighters",
           "url": "https://www.newarab.com/news/coalition-strike-revives-debate-over-syrias-foreign-fighters",
@@ -585,189 +627,27 @@
       ]
     },
     {
-      "term": "iranian",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPeGhjR1Q5YWxhSFlkWGROV2l4amNRLUs2akhaNzJxbzNxaEtVTkFPajkyYlBfNFV1ZDQ2TjJ4VkhrZkZ4Z01QOXZUUVVfZ2J2bnJQVkE0ay1mMkdCbHJMWl8wZUt6eDJjWFZ6cV81YUplM09hZzVDeGtWZHZobHBlMVFROWJBVTdBSnZlby1kbkZfYlljLWFKUkxUYlpHdWlvMDQzcnhUNzlleHlaZkVpSk5hV01URzZnV0Y3bmNjNVZfWkZkNkxldWcxNXJvWEw4d3V3TlpCMHM4S3V0QWlBaHBnOUNRbDlTaVpwZndfZndseGxiMDdXQ0p6Ung3U3BzazA3VFg3NnFBX1FFNDQ1dWQzNVYtUmxva0w2dHA1OXFnS0VJUG9XVUNPVGlwZU92Z21ZZl8yOXdsSXhYLW1STl8tcnpRVGw5WVRIUVNMd3Vhdm1TSHdEZEdrNmxWQWNFZ0tOYXJTTm9PenhnMEE4QkdDZFBxaExOdkZzQ2dRRGRsTk1URmRSdkZBMUpQSjNUZ280UTF6ZGd2NU1semlnWXFRa3ZmUUZYaXJLUzVLMDhBRHl3cjRDODM5cTVDT1otcHU3Mm1mTFNrbnJsSWVZMXRVSGRPandVQUdycThBUkhRVVFwMUdV0gHnA0FVX3lxTE94aGNHVDlhbGFIWWRYZE5XaXhqY1EtSzZqSFo3MnFvM3FoS1VOQU9qOTJiUF80VXVkNDZOMnhWSGtmRnhnTVA5dlRRVV9nYnZuclBWQTRrLWYyR0JsckxaXzBlS3p4MmNYVnpxXzVhSmUzT2FnNUN4a1ZkdmhscGUxUVE5YkFVN0FKdmVvLWRuRl9iWWMtYUpSTFRiWkd1aW8wNDNyeFQ3OWV4eVpmRWlKTmFXTVRHNmdXRjduY2M1Vl9aRmQ2TGV1ZzE1cm9YTDh3dXdOWkIwczhLdXRBaUFocGc5Q1FsOVNpWnBmd19md2x4bGIwN1dDSnpSeDdTcHNrMDdUWDc2cUFfUUU0NDV1ZDM1Vi1SbG9rTDZ0cDU5cWdLRUlQb1dVQ09UaXBlT3ZnbVlmXzI5d2xJeFgtbVJOXy1yelFUbDlZVEhRU0x3dWF2bVNId0RkR2s2bFZBY0VnS05hclNOb096eGcwQThCR0NkUHFoTE52RnNDZ1FEZGxOTVRGZFJ2RkExSlBKM1RnbzRRMXpkZ3Y1TWx6aWdZcVFrdmZRRlhpcktTNUswOEFEeXdyNEM4MzlxNUNPWi1wdTcybWZMU2tucmxJZVkxdFVIZE9qd1VBR3JxOEFSSFFVUXAxR1U?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "احتجاجاً على تهديدات ترامب.. الوفد الإيراني يغادر مقر المفاوضات في سويسرا - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdm5wUldiWHB5MmV3ZWh4cGM1N3BNaXR3QTdRNmQyRkhqTExqbWpmcHZ1amd2MlFPa011NmppTVJKSUk5aTJSaVNUbWJCU0JGZGRUSGVWbFpNbGxiM29tQnlkZmNpZUxUMXdRUFZwQk1wWDk3Z19PbHhrTENZZ1FSWWFrSjd3VUlJRHVJczNlTGtqY0lGTjVTTF9RTGxqREtPT3YxaVRVY0xIZ05ndHVOdXowaGtGYXBJczFDclp1RVBtNkFxcEJnbWswXzlsSFNwcWlBYWhwTVlnMnY5MW5NWEViOUhxcW42VGwxQVF5VW14dXQyM3lERHRxR1IzbHN5VVJfYzFiTURhZGZvaGUzck9pc3FkVXBNNnVlRTZ3YTJKQkJhc21YNnBEajNMOXFtbWdUelBTQVl6WDVibkp3LTRUSy0tZHpiMGV0U193bkxrU2J5dE85R3ZhamlDZ1lYcVEwNTBfTndMRDR2VG9EX1dSUFNYZEx2Q0JOcjBvcS15YmVEUzVtdmU3WWNiQTF4YWpMeHl1SzNGWTVQY2ZTSDNkNnBuYjJ2RTlHR1c5S2Zqb21GY3JaVHk4N3RFUXBJZEItX2RWUzdNNEFialZ4ajlXekJGRUJYOHlVRGlHLWpXS01vZlNZcmpIaVF0bmNZ0gH0A0FVX3lxTFBlQkoyaG9WQWVxdG05SE9aNS1QMFI4amtmbVFXUW90amxpeXN2TzJjbTlsWWlJak1GUDRoaURGdzVMSUJuZ0RCZGd5MGdjYjRIei03cHpJVFlCUUd5OE43am1hRGhZVDEwTzhHZHR0SkVydzJBZzVTQ2o2U2d1NU9YUnFJcWVuUDlQSVJ3RllfWTNDRURKM195RjRXSVU4X2JGLXMxTVFfVVpvV0Q4NlVvQU5Kb2VWWGRLUFhMaER3eFZ6Z0VqdGs5U19jUy03M01QX2NOWEVhV3NvcjZZcnNfN3lJZ3BoNmNqaWIxanhkNS1Lbm1QQ1NzUGFfWEllRzVxVnNSWUo5LUw5N3pWdFhRTnhjRUlwcU9FSUxQMUZiTVdzejN3VlNhQzlKR1laaWJjSFlmNjhxa1V1eWlPdUJpdVZoU2VKMmItSXNCNmdOdWI5Q2w5MDFaSnNPQllmRlNqVUlhV290ZFRkZGEyblJwUGIxX3A4bXBHR3dMRVZmZ29CbnBrbzJNNm1ma05qYWZXUzhVcVlIS3dhejVpeExDa2M3QVpBVDFPMkhJb29DYTVqcEVqSGRIeXIwMlBMQzVvOE9JTk1GVGQ2RnVjX3N1VlRxdWFfaEhEVjFCb3FfMGZub3dQVG9xQVZIVVNBYXplVU9x?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Four-way talks in Swtizerland still suspended: report",
-          "url": "https://en.mehrnews.com/news/245513/Four-way-talks-in-Swtizerland-still-suspended-report",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran protests Trump's language of military threats",
-          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "trump",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Sharaa rules out Syria intervening in Lebanon after Trump again suggests it fight Hezbollah",
-          "url": "https://www.timesofisrael.com/sharaa-rules-out-syria-intervening-in-lebanon-after-trump-again-suggests-it-fight-hezbollah/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Iran protests Trump's language of military threats",
-          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "threats",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Iran says messages continue through mediators after refusing to rejoin talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPeGhjR1Q5YWxhSFlkWGROV2l4amNRLUs2akhaNzJxbzNxaEtVTkFPajkyYlBfNFV1ZDQ2TjJ4VkhrZkZ4Z01QOXZUUVVfZ2J2bnJQVkE0ay1mMkdCbHJMWl8wZUt6eDJjWFZ6cV81YUplM09hZzVDeGtWZHZobHBlMVFROWJBVTdBSnZlby1kbkZfYlljLWFKUkxUYlpHdWlvMDQzcnhUNzlleHlaZkVpSk5hV01URzZnV0Y3bmNjNVZfWkZkNkxldWcxNXJvWEw4d3V3TlpCMHM4S3V0QWlBaHBnOUNRbDlTaVpwZndfZndseGxiMDdXQ0p6Ung3U3BzazA3VFg3NnFBX1FFNDQ1dWQzNVYtUmxva0w2dHA1OXFnS0VJUG9XVUNPVGlwZU92Z21ZZl8yOXdsSXhYLW1STl8tcnpRVGw5WVRIUVNMd3Vhdm1TSHdEZEdrNmxWQWNFZ0tOYXJTTm9PenhnMEE4QkdDZFBxaExOdkZzQ2dRRGRsTk1URmRSdkZBMUpQSjNUZ280UTF6ZGd2NU1semlnWXFRa3ZmUUZYaXJLUzVLMDhBRHl3cjRDODM5cTVDT1otcHU3Mm1mTFNrbnJsSWVZMXRVSGRPandVQUdycThBUkhRVVFwMUdV0gHnA0FVX3lxTE94aGNHVDlhbGFIWWRYZE5XaXhqY1EtSzZqSFo3MnFvM3FoS1VOQU9qOTJiUF80VXVkNDZOMnhWSGtmRnhnTVA5dlRRVV9nYnZuclBWQTRrLWYyR0JsckxaXzBlS3p4MmNYVnpxXzVhSmUzT2FnNUN4a1ZkdmhscGUxUVE5YkFVN0FKdmVvLWRuRl9iWWMtYUpSTFRiWkd1aW8wNDNyeFQ3OWV4eVpmRWlKTmFXTVRHNmdXRjduY2M1Vl9aRmQ2TGV1ZzE1cm9YTDh3dXdOWkIwczhLdXRBaUFocGc5Q1FsOVNpWnBmd19md2x4bGIwN1dDSnpSeDdTcHNrMDdUWDc2cUFfUUU0NDV1ZDM1Vi1SbG9rTDZ0cDU5cWdLRUlQb1dVQ09UaXBlT3ZnbVlmXzI5d2xJeFgtbVJOXy1yelFUbDlZVEhRU0x3dWF2bVNId0RkR2s2bFZBY0VnS05hclNOb096eGcwQThCR0NkUHFoTE52RnNDZ1FEZGxOTVRGZFJ2RkExSlBKM1RnbzRRMXpkZ3Y1TWx6aWdZcVFrdmZRRlhpcktTNUswOEFEeXdyNEM4MzlxNUNPWi1wdTcybWZMU2tucmxJZVkxdFVIZE9qd1VBR3JxOEFSSFFVUXAxR1U?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "احتجاجاً على تهديدات ترامب.. الوفد الإيراني يغادر مقر المفاوضات في سويسرا - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdm5wUldiWHB5MmV3ZWh4cGM1N3BNaXR3QTdRNmQyRkhqTExqbWpmcHZ1amd2MlFPa011NmppTVJKSUk5aTJSaVNUbWJCU0JGZGRUSGVWbFpNbGxiM29tQnlkZmNpZUxUMXdRUFZwQk1wWDk3Z19PbHhrTENZZ1FSWWFrSjd3VUlJRHVJczNlTGtqY0lGTjVTTF9RTGxqREtPT3YxaVRVY0xIZ05ndHVOdXowaGtGYXBJczFDclp1RVBtNkFxcEJnbWswXzlsSFNwcWlBYWhwTVlnMnY5MW5NWEViOUhxcW42VGwxQVF5VW14dXQyM3lERHRxR1IzbHN5VVJfYzFiTURhZGZvaGUzck9pc3FkVXBNNnVlRTZ3YTJKQkJhc21YNnBEajNMOXFtbWdUelBTQVl6WDVibkp3LTRUSy0tZHpiMGV0U193bkxrU2J5dE85R3ZhamlDZ1lYcVEwNTBfTndMRDR2VG9EX1dSUFNYZEx2Q0JOcjBvcS15YmVEUzVtdmU3WWNiQTF4YWpMeHl1SzNGWTVQY2ZTSDNkNnBuYjJ2RTlHR1c5S2Zqb21GY3JaVHk4N3RFUXBJZEItX2RWUzdNNEFialZ4ajlXekJGRUJYOHlVRGlHLWpXS01vZlNZcmpIaVF0bmNZ0gH0A0FVX3lxTFBlQkoyaG9WQWVxdG05SE9aNS1QMFI4amtmbVFXUW90amxpeXN2TzJjbTlsWWlJak1GUDRoaURGdzVMSUJuZ0RCZGd5MGdjYjRIei03cHpJVFlCUUd5OE43am1hRGhZVDEwTzhHZHR0SkVydzJBZzVTQ2o2U2d1NU9YUnFJcWVuUDlQSVJ3RllfWTNDRURKM195RjRXSVU4X2JGLXMxTVFfVVpvV0Q4NlVvQU5Kb2VWWGRLUFhMaER3eFZ6Z0VqdGs5U19jUy03M01QX2NOWEVhV3NvcjZZcnNfN3lJZ3BoNmNqaWIxanhkNS1Lbm1QQ1NzUGFfWEllRzVxVnNSWUo5LUw5N3pWdFhRTnhjRUlwcU9FSUxQMUZiTVdzejN3VlNhQzlKR1laaWJjSFlmNjhxa1V1eWlPdUJpdVZoU2VKMmItSXNCNmdOdWI5Q2w5MDFaSnNPQllmRlNqVUlhV290ZFRkZGEyblJwUGIxX3A4bXBHR3dMRVZmZ29CbnBrbzJNNm1ma05qYWZXUzhVcVlIS3dhejVpeExDa2M3QVpBVDFPMkhJb29DYTVqcEVqSGRIeXIwMlBMQzVvOE9JTk1GVGQ2RnVjX3N1VlRxdWFfaEhEVjFCb3FfMGZub3dQVG9xQVZIVVNBYXplVU9x?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Iran protests Trump's language of military threats",
-          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "killed",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Israeli army says killed two Palestinians near Hebron",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-two-palestinians-near-hebron",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli attacks kill nine people in Gaza in past 24 hours",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-gaza-past-24-hours",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
-          "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza - L'Orient Today",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhLYno0elF5WG41STlnanN0ZGpzSEJ3R3lDUUpRSzhoN250ZkVocmx2Zk44VmY3N2xUNjVfVml3WlNTWWc0enlvNlFxXzAyaXZKTzZNbXM5RlB3MzRzVFNreWlYeTBEdnk2aUtRUE5CdnhoelplUm90YVNwb185RjB3ZVpjRFFMTGpwUXJLTjFJaUl2SXU5ZHh5MjAwRkpwd3JkZkNveEk2YU5FVGJ3bmxCRDZzNXhWNEJyX3hwVkZGaGM?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Gazan man, girl reportedly killed by IDF, which says it eliminated Oct 7 terrorist",
-          "url": "https://www.timesofisrael.com/gazan-man-girl-reportedly-killed-by-idf-which-says-it-eliminated-oct-7-terrorist/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "including",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Israeli army says killed two Palestinians near Hebron",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-two-palestinians-near-hebron",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
-          "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Karnak Temples to witness rare solar alignments for summer solstice",
-          "url": "https://www.egyptindependent.com/karnak-temples-to-witness-rare-solar-alignments-for-summer-solstice/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "سورية: 8 انتهاكات للعدو الإسرائيلي على الأقل في الجنوب السوري خلال الـ24 ساعة الماضية منها 3 عمليات توغل",
-          "url": "https://www.almanar.com.lb/article/968037/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "World Cup what to know: Messi, Mbappe and Haaland back in action - Gulf News",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmxsZzlDZFBOeUltTUh2WjNBTjk4RmtlclFrcTlPQ2RfdGpBUkR1S0V3ai1lZHNXbFpKUUZzNnpxbDBGV0pjZzVZamFXMjVkVXZZVDZkU1ZiOGEwNzVKeGZoUkVVUmJXX2F4S09nRXVsNzV1UWV4VlFEVFRVS1ZidTg1bVkzdDZhNG56QkhKck81M1NHQnZvcmVSRnJaMWFEYzNkNzVOMGFMcjd4TnVoQzNVZXlpcFVRcHpsYg?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "almayadeen",
       "count": 5,
       "headlines": [
+        {
+          "title": "خطاب سياسي من طهران يربط مسار التفاوض في سويسرا بتوازنات الميدان الإقليمي - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxOb3NXbFRtRHp1RTdqLWFzQk84UjJBSDEydE1XR0RVMElwRWRVSnB5WEZITzdrSzh0U0pIeTVDLXdXUVpCLWl0Y3R0ZjF4dmxSbDVnakZBenFrRGZNUGJpZjZhWkd4QTRsZ09BYnVQZnMyZGVCSWMxZ2NKa3NpMW9JdnhQR2pSX1lja0NyNTRhY1NUX3VkcWF6MkFwMnVPNUJLOUJrWGg3MHlGRHRxM2E1X1VvT25NN3RQdUVMR2wwckZ3eFVub1RtQWpkY3FGZWhoTVVsYnFsd0tNLWpsaXRhUXNUVC1DWUxRSXp1SE1JNUMyZlE4MWhzS3hLcEdleHdFRWtvaWRkUGhoVllDdi1MTmVFQ2pLS3NvSHR5MWN6QUJvZGxzQ2JGclJJbnh6RThFWjlEUGZXS2FoN1E4UE16ZURVa09rSHQ4cHB0UXBURnd3VWJNNFpwOVk3dEYtWndrY1dSbjdwVGdhcEZBYmlVS3hEc3VBNFpMdzBUZjlpczA4ZnVsYkd1YVdPX3lXTEl3MkxhS2dDbV9vdV9xLVlKdTZmdHNrZE5IZWF0SW95ekVFRnNQY3ZBYi1JOURkQmpNY2pXamcxZEV6dzNHOExGeEZ6YjlQTF9EaW50OVN5RjVwUmh6V1RYYnNHdFhadVhEU3BXaEFuMEhDczFNMlJ2YnZZdHJ2QXZfTnFSbVE4UUxvTUM4NGRZaFByV3BhZkVLNHlWNkJIRV9STTZVX0pfTHlnb1M?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "بين اختبار الميدان وحسابات السياسة.. هل تصمد المفاوضات أمام أزمات المنطقة؟ - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNcC1OMXJ2U1pnYko3d3hhQTFnSVBWUTRjNVB5T0ozNHI3ZndJeGN3bEw4Q3ZuYmlBZUlZY0VNN2lNSDNrQjZsOFJjMzVmRWl6VHI4NmJqdUY4TTl2QWw5LXRFUFplTlNhQUFlSHUzTU13OHV2MUtyTl80Wkswbzl6YlIydE13OUZNNUJlbE5SZkZMUzgya3QyQ0gwZExjWkJXaTVVYktRakdPYTZhOFFIbTJsMkhFUVEwY08wTDdYb1lnaDBYMkxtZERCYWJ1NE01M2l6YUp0TGVpTnNLSlM4VUVmdGxiMlhkTGJWd3FXTGZzLTRUY0pYOXdRLUw3NnpZRUtseWpfaHluUTFBeG1mbzBObk5KVWxjRm1Xc3M4V05SWXpNSlN6YlJVLVpUa2lNRm02dGtQZEN3bHdzY2pXZjF4ZjItdi1CTzhBN1R0NXpkQmU4VWJEcG9JVjdFdk9KUjVndTFGRVpKRkxVSURNLTYzSVZhaVNLYUJyLURiQW5lanlrWWVoOHlCeW0zZmw0eHZVTi1EcHkxZ2tjcnlSbWprQ3FxdmdzMl9hZ2ZUMW9OcjR1TV9KLUZMb1NTNHFVSzZjNC1lVXVKWl9QemMyajR0S2xJRzN0eXdGZjlfSlZmRWU5a2E4ekRERzU0V3JrLTkyaGpZbVY4M0kySTVLMHhIYUhxRktrRHB6YmxyNFVjWVEzVWdkdkQ2WjhVRndDcU1zRk1tQlp4QUZsbnFnVTRyclhXY0p0SzZScG5R?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "إيران تفاوض من موقع القوة... هل فشلت تهديدات ترامب في كسر معادلة الردع؟ - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxOQVJueFZJelRsY2dmSnBfdTlBaFlaUU5DVFBGVURZU2gxTTZtRDBtNkhLd0RzWEVpb0dYQTZnekt4RFlha0p4dnJ5VC13Z3RvWkdETHVHM2UweDBlZTZMZXJJaW90bThZWDFFcXY1YzFyQ0lxQjhqUHNqcTlZUHQ3YkozNmd1Wk1rcDdpRzc2dnllbEZkMkl0akh5dGNtZVlIc3RiM0hxNVFYSUdqYXotWU8tMmJuOEt3aW1RdFBsYW9sSV9hNHFhTVJmN3NQMElVV0VDRTVqSk50a3poNllnX1F6N3JaXzF3UmN5MjdfbDcwX09IV0pJZlVCMHNYVHNIMmpiSEtoTG5DNk1vd2RSNHpSNy1OTDlLdDhJc29pSkQzS1hSLXVydjZNREdUcmVqaUJmNWRMd0gtN2FWcHJwREZSeVZFZEdRMXRIWVNzWEFlWnpzU0lzX2FlR3J2b1VaU0Z1bHRBT3dsOFFST1psOE95eG1PcDVsR2M1ZGVkYmh2eWoyOTdlV0xyOXhHRWVra0dGNXpEbjBZSHMtcGRlNlFkV1oyOGFtRE9ZMkJkSFBrZzNqLVFPWENOU0JWcTdmODFGOHB3TFNkeVBmTnZSZ05LWXVaTnlScDB6OU84OFpVQUIxeFFvYkg3cGJHUzNpbHRweTFCTk5VNml1c0N5YTF2czdKdWh2UGJDbV9iQUdrZXpWVEFFVEZDWkp3d1F6dFFfd1J2Nnl4c0U?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
         {
           "title": "\"الصحة\" الإسرائيلية: 9272 إصابة منذ بدء عملية \"زئير الأسد\" - almayadeen.net",
           "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPWHJHNzNEMWdLMGFCYjlPRWI4b2FzRWFyZUVOZ3lJZ1I0MWdpOHJXUUs1LXRLSDlhNGFPeEdvTm5aTlM2NUd4ZW5YV1dyandId0R6S1pFTFAtOWd1Q0s0M2JCNndaNk1jeEZveHZFc3kxLXFUVjl3Z1lGU3gyOFlRTEFORVZKNm5yeGdRbDA3MnRUYjcwUmVBWkp2VTVGc1lRVDJ4cVNWWkhGZjZwZC1ocmpqSmRTZEsxamlvZmJUSk9TTjV0dUMzWXNmZlBnVjd0dEw3RWZQMlJnTFVZQXM5RW1INFBzRTE2eEk3OVdlRFNYYUE1Tk1yVk9HMTJaWUt0MkpweTBHNWlwN0g3WWk5MW4tRGxBdk1EQ0dLNnhlYlNnbkZxY3p0d1BLNmRNblJQU2dXXzdYWlNiNnBIbE5XRWR2QkkwZHYyVEUtWGY2S0ZQNk5tbk1uMElMRmh2ZW5PMmZTWHNBOExjT0RSOTRuMGl5WExUVmptczRfQ2REQ1BwN2g3cG5mcW5YT1NnS21JWFdtNDdfZXdqbEY4S09wY1NrN3pwTHp3OEM5eW5DRkJjMVdw0gG0A0FVX3lxTE9Yckc3M0QxZ0swYUJiOU9FYjhvYXNFYXJlRU5neUlnUjQxZ2k4cldRSzUtdEtIOWE0YU94R29OblpOUzY1R3hlblhXV3Jqd0h3RHpLWkVMUC05Z3VDSzQzYkI2d1o2TWN4Rm94dkVzeTEtcVRWOXdnWUZTeDI4WVFMQU5FVko2bnJ4Z1FsMDcydFRiNzBSZUFaSnZVNUZzWVFUMnhxU1ZaSEZmNnBkLWhyampKZFNkSzFqaW9mYlRKT1NONXR1QzNZc2ZmUGdWN3R0TDdFZlAyUmdMVVlBczlFbUg0UHNFMTZ4STc5V2VEU1hhQTVOTXJWT0cxMlpZS3QySnB5MEc1aXA3SDdZaTkxbi1EbEF2TURDR0s2eGViU2duRnFjenR3UEs2ZE1uUlBTZ1dfN1haU2I2cEhsTldFZHZCSTBkdjJURS1YZjZLRlA2Tm1uTW4wSUxGaHZlbk8yZlNYc0E4TGNPRFI5NG4waXlYTFRWam1zNF9DZERDUHA3aDdwbmZxblhPU2dLbUlYV200N19ld2psRjhLT3BjU2s3enBMenc4Qzl5bkNGQmMxV3A?oc=5",
@@ -775,136 +655,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "استطلاع إسرائيلي: 92% من الإسرائيليين يعتقدون أن إيران انتصرت في الحرب - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQSzA3ZUdoTTlETkw1X1psdGxyTExFdS1lQWJKaG9oMlpSNEJ4bktMc2g0OGd4aDJ0dlRwaVpLcjVzRkJVTzNHaE9JQnU1UzhJNDk2WnlnUUIxMWVVa0h2WHhwZ3BYaXFON0EyYVgzSkVMZUE5TlEzaHhFOUlRdGpGZDhGOWRVamdZbWJjNlZaMTIzbXNSVllPS0s4SWctN3R1clhmZVltSm5kb2djNEh5Ti1zdVdpbjU2c0lkNzdTSVBmUG1ic3Q1NE8wQUpXeDJuUzdkMG42cHg1NjJCNzJ2Vmg3amFfLV9lSmNTcnFPbmRFZmFsZDh6eW5BM1BMWUg1cEsyYXAzMS10aExZbjQtYkhQV01SS2ZoN3I3c29HWDZMMGVFVzBBVThSVkstUk1YRGdWdy13Z3A1V0x1aVp0TUk4N1M1b1I1MG5FMXg2MUVWWDVHWEZXRW9XZ3RGRnRIN2MzaHN5Ynp2NG1pRWVoYVNiVVQ4b2d3R0VyRWRRM2dha2RsR0RyN2NuQVl5RkVsMzZ5NEhfalYtZnJxMlptRFctVmN0ZlNPNW9XVDg5ZUs2ODI1SlhFakMtYm03V3A1RlZWNEtybmFxUFlLaC00ejFDc3g4b3hBVlB1THVKSUl2MXc5a2930gHnA0FVX3lxTFBLMDdlR2hNOUROTDVfWmx0bHJMTEV1LWVBYkpob2gyWlI0QnhuS0xzaDQ4Z3hoMnR2VHBpWktyNXNGQlVPM0doT0lCdTVTOEk0OTZaeWdRQjExZVVrSHZYeHBncFhpcU43QTJhWDNKRUxlQTlOUTNoeEU5SVF0akZkOEY5ZFVqZ1ltYmM2VloxMjNtc1JWWU9LSzhJZy03dHVyWGZlWW1KbmRvZ2M0SHlOLXN1V2luNTZzSWQ3N1NJUGZQbWJzdDU0TzBBSld4Mm5TN2QwbjZweDU2MkI3MnZWaDdqYV8tX2VKY1NycU9uZEVmYWxkOHp5bkEzUExZSDVwSzJhcDMxLXRoTFluNC1iSFBXTVJLZmg3cjdzb0dYNkwwZUVXMEFVOFJWSy1STVhEZ1Z3LXdncDVXTHVpWnRNSTg3UzVvUjUwbkUxeDYxRVZYNUdYRldFb1dndEZGdEg3YzNoc3lienY0bWlFZWhhU2JVVDhvZ3dHRXJFZFEzZ2FrZGxHRHI3Y25BWXlGRWwzNnk0SF9qVi1mcnEyWm1EVy1WY3RmU081b1dUODllSzY4MjVKWEVqQy1ibTdXcDVGVlY0S3JuYXFQWUtoLTR6MUNzeDhveEFWUHVMdUpJSXYxdzlrb3c?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "قاآني للاحتلال: إذا لم تغادروا جنوب لبنان بأرجلكم ستتكرر ملحمة الـ 2000 مجدداً - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OdIB9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OQ?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
           "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPeGhjR1Q5YWxhSFlkWGROV2l4amNRLUs2akhaNzJxbzNxaEtVTkFPajkyYlBfNFV1ZDQ2TjJ4VkhrZkZ4Z01QOXZUUVVfZ2J2bnJQVkE0ay1mMkdCbHJMWl8wZUt6eDJjWFZ6cV81YUplM09hZzVDeGtWZHZobHBlMVFROWJBVTdBSnZlby1kbkZfYlljLWFKUkxUYlpHdWlvMDQzcnhUNzlleHlaZkVpSk5hV01URzZnV0Y3bmNjNVZfWkZkNkxldWcxNXJvWEw4d3V3TlpCMHM4S3V0QWlBaHBnOUNRbDlTaVpwZndfZndseGxiMDdXQ0p6Ung3U3BzazA3VFg3NnFBX1FFNDQ1dWQzNVYtUmxva0w2dHA1OXFnS0VJUG9XVUNPVGlwZU92Z21ZZl8yOXdsSXhYLW1STl8tcnpRVGw5WVRIUVNMd3Vhdm1TSHdEZEdrNmxWQWNFZ0tOYXJTTm9PenhnMEE4QkdDZFBxaExOdkZzQ2dRRGRsTk1URmRSdkZBMUpQSjNUZ280UTF6ZGd2NU1semlnWXFRa3ZmUUZYaXJLUzVLMDhBRHl3cjRDODM5cTVDT1otcHU3Mm1mTFNrbnJsSWVZMXRVSGRPandVQUdycThBUkhRVVFwMUdV0gHnA0FVX3lxTE94aGNHVDlhbGFIWWRYZE5XaXhqY1EtSzZqSFo3MnFvM3FoS1VOQU9qOTJiUF80VXVkNDZOMnhWSGtmRnhnTVA5dlRRVV9nYnZuclBWQTRrLWYyR0JsckxaXzBlS3p4MmNYVnpxXzVhSmUzT2FnNUN4a1ZkdmhscGUxUVE5YkFVN0FKdmVvLWRuRl9iWWMtYUpSTFRiWkd1aW8wNDNyeFQ3OWV4eVpmRWlKTmFXTVRHNmdXRjduY2M1Vl9aRmQ2TGV1ZzE1cm9YTDh3dXdOWkIwczhLdXRBaUFocGc5Q1FsOVNpWnBmd19md2x4bGIwN1dDSnpSeDdTcHNrMDdUWDc2cUFfUUU0NDV1ZDM1Vi1SbG9rTDZ0cDU5cWdLRUlQb1dVQ09UaXBlT3ZnbVlmXzI5d2xJeFgtbVJOXy1yelFUbDlZVEhRU0x3dWF2bVNId0RkR2s2bFZBY0VnS05hclNOb096eGcwQThCR0NkUHFoTE52RnNDZ1FEZGxOTVRGZFJ2RkExSlBKM1RnbzRRMXpkZ3Y1TWx6aWdZcVFrdmZRRlhpcktTNUswOEFEeXdyNEM4MzlxNUNPWi1wdTcybWZMU2tucmxJZVkxdFVIZE9qd1VBR3JxOEFSSFFVUXAxR1U?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOXzdXVVVFWlpuaFprNWRoZHlKLUJERlJKQUFOaVlENnZ1NEFIQUpadUhTbTdhSmZxdEptdk01R0NRNkRZZ2VoU09pTms4X1hjM0wtWVh2eUt1S2hqUkl3Ukt1dEhVbWQ3dkpuQW9YWXBINGhKZnNzWmRIX002UkNVdGVzOU11Rldxdy10dlFqLXBWdkxRZktSYzlka25VRnNaNXNjcGt3NG9wNWdMR25SaVVQTWMyMmJoTDZUc0l2LXBZSFRfYXRmN0t4T2oybXBkMlR5OUcwZ05rR1YtNEt1NFZRclJkTnlsUnZReTlLa3RleUo2Z1BnWENtTi1aUkxnTVYyN2JzNjVXaXMxQkhpd2Q0T0hVT2hkYXFjRnFGRTc3NGF1azFiUXpqVWxwdWJOWkVCSHpGZlVHamFsamJZLS1POTdiNUtPQ0M0QTkwQ1ZNMDF2aXVWQ3NnMjhsWDF6QXphZnV5OVd3RUo2amhQbmlXMkpLcFVlYjNUSmVTaGJFVWl5WlZIeUlGaWNRSmtNdGhjcEVJVXA0dVNOUHFPbkNNZXRCbUN4NUM5YmM1OWUwLTNRMEJhU1YtQ0NSNUNQMXRxbFFoTGVKbUZreWJHcl9rdXVHTEJTQXh3ZU1abWFVd1A2MmFPeExfdUpwTjM2OWgyZ1NrWWpjRGxoc3A1Y3p1OFI3d2dLMm9YeTJtTWpJT3JoekhyWmpRRUJISE1JQWdtaWRJZElVWm1wdEh0VHZ0SFlQRVI5?oc=5",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
-        },
-        {
-          "title": "احتجاجاً على تهديدات ترامب.. الوفد الإيراني يغادر مقر المفاوضات في سويسرا - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdm5wUldiWHB5MmV3ZWh4cGM1N3BNaXR3QTdRNmQyRkhqTExqbWpmcHZ1amd2MlFPa011NmppTVJKSUk5aTJSaVNUbWJCU0JGZGRUSGVWbFpNbGxiM29tQnlkZmNpZUxUMXdRUFZwQk1wWDk3Z19PbHhrTENZZ1FSWWFrSjd3VUlJRHVJczNlTGtqY0lGTjVTTF9RTGxqREtPT3YxaVRVY0xIZ05ndHVOdXowaGtGYXBJczFDclp1RVBtNkFxcEJnbWswXzlsSFNwcWlBYWhwTVlnMnY5MW5NWEViOUhxcW42VGwxQVF5VW14dXQyM3lERHRxR1IzbHN5VVJfYzFiTURhZGZvaGUzck9pc3FkVXBNNnVlRTZ3YTJKQkJhc21YNnBEajNMOXFtbWdUelBTQVl6WDVibkp3LTRUSy0tZHpiMGV0U193bkxrU2J5dE85R3ZhamlDZ1lYcVEwNTBfTndMRDR2VG9EX1dSUFNYZEx2Q0JOcjBvcS15YmVEUzVtdmU3WWNiQTF4YWpMeHl1SzNGWTVQY2ZTSDNkNnBuYjJ2RTlHR1c5S2Zqb21GY3JaVHk4N3RFUXBJZEItX2RWUzdNNEFialZ4ajlXekJGRUJYOHlVRGlHLWpXS01vZlNZcmpIaVF0bmNZ0gH0A0FVX3lxTFBlQkoyaG9WQWVxdG05SE9aNS1QMFI4amtmbVFXUW90amxpeXN2TzJjbTlsWWlJak1GUDRoaURGdzVMSUJuZ0RCZGd5MGdjYjRIei03cHpJVFlCUUd5OE43am1hRGhZVDEwTzhHZHR0SkVydzJBZzVTQ2o2U2d1NU9YUnFJcWVuUDlQSVJ3RllfWTNDRURKM195RjRXSVU4X2JGLXMxTVFfVVpvV0Q4NlVvQU5Kb2VWWGRLUFhMaER3eFZ6Z0VqdGs5U19jUy03M01QX2NOWEVhV3NvcjZZcnNfN3lJZ3BoNmNqaWIxanhkNS1Lbm1QQ1NzUGFfWEllRzVxVnNSWUo5LUw5N3pWdFhRTnhjRUlwcU9FSUxQMUZiTVdzejN3VlNhQzlKR1laaWJjSFlmNjhxa1V1eWlPdUJpdVZoU2VKMmItSXNCNmdOdWI5Q2w5MDFaSnNPQllmRlNqVUlhV290ZFRkZGEyblJwUGIxX3A4bXBHR3dMRVZmZ29CbnBrbzJNNm1ma05qYWZXUzhVcVlIS3dhejVpeExDa2M3QVpBVDFPMkhJb29DYTVqcEVqSGRIeXIwMlBMQzVvOE9JTk1GVGQ2RnVjX3N1VlRxdWFfaEhEVjFCb3FfMGZub3dQVG9xQVZIVVNBYXplVU9x?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "forces",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "قاآني للاحتلال: إذا لم تغادروا جنوب لبنان بأرجلكم ستتكرر ملحمة الـ 2000 مجدداً - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OdIB9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OQ?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPeGhjR1Q5YWxhSFlkWGROV2l4amNRLUs2akhaNzJxbzNxaEtVTkFPajkyYlBfNFV1ZDQ2TjJ4VkhrZkZ4Z01QOXZUUVVfZ2J2bnJQVkE0ay1mMkdCbHJMWl8wZUt6eDJjWFZ6cV81YUplM09hZzVDeGtWZHZobHBlMVFROWJBVTdBSnZlby1kbkZfYlljLWFKUkxUYlpHdWlvMDQzcnhUNzlleHlaZkVpSk5hV01URzZnV0Y3bmNjNVZfWkZkNkxldWcxNXJvWEw4d3V3TlpCMHM4S3V0QWlBaHBnOUNRbDlTaVpwZndfZndseGxiMDdXQ0p6Ung3U3BzazA3VFg3NnFBX1FFNDQ1dWQzNVYtUmxva0w2dHA1OXFnS0VJUG9XVUNPVGlwZU92Z21ZZl8yOXdsSXhYLW1STl8tcnpRVGw5WVRIUVNMd3Vhdm1TSHdEZEdrNmxWQWNFZ0tOYXJTTm9PenhnMEE4QkdDZFBxaExOdkZzQ2dRRGRsTk1URmRSdkZBMUpQSjNUZ280UTF6ZGd2NU1semlnWXFRa3ZmUUZYaXJLUzVLMDhBRHl3cjRDODM5cTVDT1otcHU3Mm1mTFNrbnJsSWVZMXRVSGRPandVQUdycThBUkhRVVFwMUdV0gHnA0FVX3lxTE94aGNHVDlhbGFIWWRYZE5XaXhqY1EtSzZqSFo3MnFvM3FoS1VOQU9qOTJiUF80VXVkNDZOMnhWSGtmRnhnTVA5dlRRVV9nYnZuclBWQTRrLWYyR0JsckxaXzBlS3p4MmNYVnpxXzVhSmUzT2FnNUN4a1ZkdmhscGUxUVE5YkFVN0FKdmVvLWRuRl9iWWMtYUpSTFRiWkd1aW8wNDNyeFQ3OWV4eVpmRWlKTmFXTVRHNmdXRjduY2M1Vl9aRmQ2TGV1ZzE1cm9YTDh3dXdOWkIwczhLdXRBaUFocGc5Q1FsOVNpWnBmd19md2x4bGIwN1dDSnpSeDdTcHNrMDdUWDc2cUFfUUU0NDV1ZDM1Vi1SbG9rTDZ0cDU5cWdLRUlQb1dVQ09UaXBlT3ZnbVlmXzI5d2xJeFgtbVJOXy1yelFUbDlZVEhRU0x3dWF2bVNId0RkR2s2bFZBY0VnS05hclNOb096eGcwQThCR0NkUHFoTE52RnNDZ1FEZGxOTVRGZFJ2RkExSlBKM1RnbzRRMXpkZ3Y1TWx6aWdZcVFrdmZRRlhpcktTNUswOEFEeXdyNEM4MzlxNUNPWi1wdTcybWZMU2tucmxJZVkxdFVIZE9qd1VBR3JxOEFSSFFVUXAxR1U?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "قوات الاحتلال تداهم منزلين خلال اقتحام بلدة صيدا شمال طولكرم",
-          "url": "https://www.almanar.com.lb/article/967987/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces raid Umm Safa village northwest of Ramallah - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAySF90UUlOckV4NWRWbmJfc1N0bF9PZ1lEUHBTbFphXzJJOGVuTkFWTVcwRXRFTHJDSHZ1azhWWTdYM0lGU25VdVgxd2hjSFVBZFRsNmpzcw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces issue stop-work orders for homes and agricultural structures in village south of Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OODMxdHU0LUlnLUpoR0pubUpVemlqbjVMMW5SLUFWOWcycGRqeno3RmtvejdSRE5WZ0xsQmNGUk1Wcmd4UGFqeTVIcXJsT2pxbkJiSzYtYw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "southern",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "قاآني للاحتلال: إذا لم تغادروا جنوب لبنان بأرجلكم ستتكرر ملحمة الـ 2000 مجدداً - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OdIB9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OQ?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel PM says troops to stay in south Lebanon 'as long as necessary' - L'Orient Today",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGxBbnhWNEVxUTVHaFRSSGZUOGNfV25uZDZtODlTQzhaY0hzNFhwd3NTaHJJSGVwUzBUd3AyQmZXU2hRNFVMYzMyN0YwbVd0NkhpQW9aOHVKZWNNMGJkYWNmZ0YzUkpFcklEYUdlVTdaWHhwZkVSOFlxMzV3UlNUR3k1blVUczF0bS1lTExGSDBsQW0zT3lGc09FWHRIaVhxdTFvLW1ESTlxUDNTRXFaLTV4ZEhtOWR5VGlhcg?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "سورية: 8 انتهاكات للعدو الإسرائيلي على الأقل في الجنوب السوري خلال الـ24 ساعة الماضية منها 3 عمليات توغل",
-          "url": "https://www.almanar.com.lb/article/968037/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Some southern Lebanon residents trickle back as fighting pauses - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Yy1KZ0c5OHFvRF9lUGdZdXlnSVdRTVFNd2xrUFdydU1zdWpUWC1SOGctMXNUUHNlQWJSc1pEVzUzck13ak1BZGQ5YmYwNUwyT0Nr?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Israel will not withdraw troops from southern Lebanon ahead of negotiations, official tells 'Post'",
-          "url": "https://www.jpost.com/middle-east/article-900086",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "switzerland",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "احتجاجاً على تهديدات ترامب.. الوفد الإيراني يغادر مقر المفاوضات في سويسرا - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdm5wUldiWHB5MmV3ZWh4cGM1N3BNaXR3QTdRNmQyRkhqTExqbWpmcHZ1amd2MlFPa011NmppTVJKSUk5aTJSaVNUbWJCU0JGZGRUSGVWbFpNbGxiM29tQnlkZmNpZUxUMXdRUFZwQk1wWDk3Z19PbHhrTENZZ1FSWWFrSjd3VUlJRHVJczNlTGtqY0lGTjVTTF9RTGxqREtPT3YxaVRVY0xIZ05ndHVOdXowaGtGYXBJczFDclp1RVBtNkFxcEJnbWswXzlsSFNwcWlBYWhwTVlnMnY5MW5NWEViOUhxcW42VGwxQVF5VW14dXQyM3lERHRxR1IzbHN5VVJfYzFiTURhZGZvaGUzck9pc3FkVXBNNnVlRTZ3YTJKQkJhc21YNnBEajNMOXFtbWdUelBTQVl6WDVibkp3LTRUSy0tZHpiMGV0U193bkxrU2J5dE85R3ZhamlDZ1lYcVEwNTBfTndMRDR2VG9EX1dSUFNYZEx2Q0JOcjBvcS15YmVEUzVtdmU3WWNiQTF4YWpMeHl1SzNGWTVQY2ZTSDNkNnBuYjJ2RTlHR1c5S2Zqb21GY3JaVHk4N3RFUXBJZEItX2RWUzdNNEFialZ4ajlXekJGRUJYOHlVRGlHLWpXS01vZlNZcmpIaVF0bmNZ0gH0A0FVX3lxTFBlQkoyaG9WQWVxdG05SE9aNS1QMFI4amtmbVFXUW90amxpeXN2TzJjbTlsWWlJak1GUDRoaURGdzVMSUJuZ0RCZGd5MGdjYjRIei03cHpJVFlCUUd5OE43am1hRGhZVDEwTzhHZHR0SkVydzJBZzVTQ2o2U2d1NU9YUnFJcWVuUDlQSVJ3RllfWTNDRURKM195RjRXSVU4X2JGLXMxTVFfVVpvV0Q4NlVvQU5Kb2VWWGRLUFhMaER3eFZ6Z0VqdGs5U19jUy03M01QX2NOWEVhV3NvcjZZcnNfN3lJZ3BoNmNqaWIxanhkNS1Lbm1QQ1NzUGFfWEllRzVxVnNSWUo5LUw5N3pWdFhRTnhjRUlwcU9FSUxQMUZiTVdzejN3VlNhQzlKR1laaWJjSFlmNjhxa1V1eWlPdUJpdVZoU2VKMmItSXNCNmdOdWI5Q2w5MDFaSnNPQllmRlNqVUlhV290ZFRkZGEyblJwUGIxX3A4bXBHR3dMRVZmZ29CbnBrbzJNNm1ma05qYWZXUzhVcVlIS3dhejVpeExDa2M3QVpBVDFPMkhJb29DYTVqcEVqSGRIeXIwMlBMQzVvOE9JTk1GVGQ2RnVjX3N1VlRxdWFfaEhEVjFCb3FfMGZub3dQVG9xQVZIVVNBYXplVU9x?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US-Iran talks begin at Burgenstock, Switzerland - in pictures - The National",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWgzYVJKQnlHV0s1eDlNa29wQ0lNRWN3c0w4YkFNcE94NVQ0bkhLbGtwR1k4WkNTLUloSUlKRWhTUUt1MjJYdUJXVWRTTk04LXlqZi1OUlltMzZxejB1OFVicG1wLW80akUtdDYwWE1HaFYyVm9lWnZnMnh4cWRMbjZXUGxwcHpHeVptQXRVQkJwV21OcGJ0UHp1dEl5LVdsUnNRV0dOY0ZVRHc?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "From Chaplin to Ben-Gurion, Swiss venue of US-Iran talks has a star-studded history",
-          "url": "https://www.timesofisrael.com/from-chaplin-to-ben-gurion-swiss-venue-of-us-iran-talks-has-a-star-studded-history/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Four-way talks in Swtizerland still suspended: report",
-          "url": "https://en.mehrnews.com/news/245513/Four-way-talks-in-Swtizerland-still-suspended-report",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran protests Trump's language of military threats",
-          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
@@ -1011,218 +765,8 @@
       ]
     },
     {
-      "term": "west",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Israeli army says killed two Palestinians near Hebron",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-two-palestinians-near-hebron",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Colonists set fire to vehicle scrapyard in Shuqba west of Ramallah - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaZ0VIVW9vaVR2eUV0RGtFRW1ObFNXUkgzXzJ2UHRIUmNTdERJUVVtSFVfVmtwWnduNXlyWGswYUdyVzdidzhLd1c0RDNScGNtanViUHRraw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Colonists bock road and attack Palestinian vehicles west of Jericho - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rWmZpRmloMVhzWF9CUmtFdm8xZDBrUV8wVEhiV19LQ24zR3cxRTNTTHBNZ2RqN2pyTFZFWEg2Sk5GNjVHbkpZWWY1M3czdjQtQkx4WThMRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "مستوطنون يعتدون على المواطنين وممتلكاتهم في عدة مدن بالضفة الغربية - paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNVNMdk9UVDFkRGZvOGJ0M2xPb2RsVTFlZXd2eWZwM0tNenc1OUlqMzZPLS1WOEdsOGJkRDlqV0JKTEFZZXg3X2JVTEp6S3l5cTRpMkp2QjBsUGlRODZ5bzZsZnhOeDR6T0l2akY4TVlqSVhmcWVlTzBJMHpiYWs4a1JoR0xoZDMtN0ZJbWl1UUV1ZUcxVEt0N245bURVTTFBYkI0R0xjRjNIVVFjbUg4T1hVdFQ4Snp1eFN6bGNuQ1JEbDFsTmZKUXdZbk1sTThXemtuNXQtRl9xcDFQYjI4T0dCQjBIUkJqSUZtWWRPT3l1djQtbHZCaUdUM2l5em0tUGFuc1JuTmpETlpCQklDUzMyMkZjNllHQUdibFVXOA?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "military",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "روبيو يعرض مناورة إسرائيلية: اطردوا حزب الله من علي الطاهر | لماذا يحاول عون ضم الوفد العسكري إلى الوفد السـياسي؟ - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPZy0tRGRSUmZ6eGZ4ZmEwdy02MlJiVkp4M3pRRl9KOXZhM1k0NlRJSEdUMGVEQ2RPbXhtaDd4LVhxd3ltLXlNcmwwSWt0dzJtNmxtQVBlVG83N1FNT0g1WWNoUExpUEtSQUZMMkdwbUJ5bTJOWEZkWmlFUHFSZzBGdVJtNnZfeFU2dFJpYW9Lb1BlSi15cGNDMHE5M2FZVHFLVFg5VVBwMnNrLTNMdDFlOVlTTzkxZWxDQTNhZDFXc2ZyeW1vWVQ1bjN4d2hMNmVFSzkyR2paU3dfeHA5VjRLcE1uNGFxRFNtYVMzRUFPNEdBUzNLLWpFMXVUTGRhY1pLSWRRUC1rTDhrbE51S1JxZWdVQkFJRjRyRXVKTEtQOW1Zdi1IRnRLZ1VQMlhrQTZZZXV5RVRzajV0MENQUmZJSGlwV1I5ZXR5Z2xielY0T05pTUVNck5DZThTeWdHb2RuMXlCeDFlMnM1aGFJUzFYSnVDY0JTYnhRSTFHTDhhc2N4ZTVXRHJQelZEdjl5Rk1WTC1HWXIwWWlMbFRFaWxQZFhaaGM4TFNReDE5WWtqZ2dWZWhSTmNDOGdvWG5ySWx1VXFwb3RtWGY5a0NIa2J0MlR1elRJTzNCM2tZVEI3TUF0cGlBY2d5T1BjWmo0ZGp4dnpOWEdReU8?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "غروشكو: دول الناتو تستعد فعليا لمواجهة عسكرية مع روسيا بحلول عام 2030",
-          "url": "https://www.almanar.com.lb/article/967997/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran protests Trump's language of military threats",
-          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "following",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Muslims alarmed by Edinburgh attack as far-right rhetoric blamed",
-          "url": "https://www.newarab.com/news/muslims-alarmed-edinburgh-attack-far-right-rhetoric-blamed",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Egypt warns against posting social media complaints following viral hospital claims",
-          "url": "https://www.egyptindependent.com/egypt-warns-against-posting-social-media-complaints-following-viral-hospital-claims/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "foreign",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Turkish minister warns of Israeli sabotage risk to US-Iran deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-minister-warns-israeli-sabotage-risk-us-iran-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Coalition strike revives debate over Syria's foreign fighters",
-          "url": "https://www.newarab.com/news/coalition-strike-revives-debate-over-syrias-foreign-fighters",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Jordan to host Arab foreign ministers, Arab League meetings Monday - Jordan Times",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdi1XUmxIQ2hvS2NaUTdITUwxSkVNWjBwQzJSX1JmOXJBeDdMaHhHZDJQNEduWnFsTkViV0lBdUZCczBULVUyNmF6QVM4R29YNjBSQW8tcEpKSmlrNjhJRXh6MkY4M0hzNDUyVDZVUzRzWENrNEFiY0V1Z0hwVWFSWTVKdzFvVGRNUkM2Y0NSbDNPTXdON0RCWG1IampGRVlXR3c?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "غروشكو: دول الناتو تستعد فعليا لمواجهة عسكرية مع روسيا بحلول عام 2030",
-          "url": "https://www.almanar.com.lb/article/967997/",
-          "source": "Al Manar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "occupation",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "قاآني للاحتلال: إذا لم تغادروا جنوب لبنان بأرجلكم ستتكرر ملحمة الـ 2000 مجدداً - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OdIB9ANBVV95cUxNeF9RYmhKRWdEcXFuTVY3d3NrMkJsY1RPRWM5TkZ4aWpya2o4d1Bkbk9Zem5XQU1KTEpsLXBLNXA2WmRwb3IxSGZLWFN5ZzlsUXVRZDFKQmlFd2NHYTlhR2F3VW9wbjlCOGpVU1RpSUI5ZjdKaFRPYmxXMnNobWRYN0hseG1oRFpBM3hXMkFfLWZkTGpud1ZPcG9ieHFORzF1Ym0yS2VsMmN2bFpsZTNBWlM0VVB3N3JNSVdGdVc4dlZIdFM5dzNGWFFzRFlXMHRJT3UyMjlTZXJPRHp0U0VnaDRZcldDZExlOE9sOVdLMVpvYS0zZVhHUXRIRlozTVVqdmplOWdCZXNZbjJIYUg1SlhrLVdGTTBaUW91QXZjV2ZaLU1WSEtDaTZHMVpheU1UamRIbzRWSldjdnNkbDk2eHhnekxBbHJoTjJUczRrdDFoeW5TQ3VSODlpTkNsQU9jLXc3TmJDRWU1TEtBS2QxS0JNbjliRGpaY0F4b2lyaEduOXV0VnYzOVRraXV1NmRaMTRXaU9lWjZoVnA5NV83ZktZMkx4dFdJSUlWYXFoQlBVdE1CR2dVZDd3UnEyTXhrMmxLZGFydUdMMzVlNFhvdmdWWHlEVm91RmdrUXhxVV9KaDlidmVQMG43M0Nsc3kyMmd2OQ?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "قوات الاحتلال تداهم منزلين خلال اقتحام بلدة صيدا شمال طولكرم",
-          "url": "https://www.almanar.com.lb/article/967987/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "محكمة الاحتلال تجدد وتؤجل محاكمات عدد من الأسرى - paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQWEMyYmZKMmQ3THhFb0lKdGVkWUVfa09sUGxyY0ppOHRmSzlOdXI5YkpQOHcwWEtEZE5xZkg4UGdvaXdNMlkyNGdnLXg5UVlEODNMbzZPYmVQWkFBR05JRDFVd1FUSUg5TFl6LXFTMWlSelQzcS1JcGVwTWJVbElGUG55d1ltd2huRjNCcTNJZlA3Y0FVTUpGWjE1U1dZWmQtaWFJMjE4LXBaTFI0dmdXdjZyNkFLQzZIdG0wN2lMOWVFbFZvWE5BNElia3ltejdaR3kyNmVhMDlBWWRiMUdhNU1WeDNxbURueU5wYkF2RHdxZnVqLXlNMWF5eGZVYnd2WWI5ZDhVRUZpV19Qd0M5MEZLOXVhYmloUFUyTFRYUGs?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Opinion | Opinion • Your occupation is nothing special - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFo4NlMybVIyRlVndkV5bUZ2QW5OeUNhd3VBblk1QlMtTDYzLU9veVp3LUZibU5mVnpLWWtsSW1pUUgxUXdZZWpibWhJT2R0elBFc0x3U2VTbGpKcjduaGJzdEV2aUlpaVo3YnF6R2VCNFBCbl9aajVBVGF4VFhhTHdrUjBWMDRHc1ZKVkxkWXdjZGN5Q0R6UTZobGt5WV9yLWRndi15Zk56SXkzY0d0bFNBS3ZHeDgxYlhuaHk1eFpwQTlyOElUYmVIRjRkVDdWWGNLdVFnM0htUQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "netanyahu",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "نتنياهو: لن أسمح لإيران بالتسلح النووي ما دمت رئيسا للوزراء - paltoday.ps",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORGJ4ZFdROEFVWWMycWJqSFMwUk91dm51V0dybTg3czE3blRnMnVXYTVsVENYekZGVnhBSVN3eFFaX1JLbGQ0LWlQbjhOcFE3TTZzRW1lbWFKY3JZZkN6MlBwUk1rOHl0M3pFNnh2ZGJwb1hvUUxkTXMtdFJ2SlJjc3JXY05OQUdKcnFNb25XbHRxbGNUelQyWGRoMlI1RERFWTdIS3o4WkFtOXQzb2NuWmlFU3VFekwwSEZDTEhKUnhWRlpIak5ZSklCOGw4S1hBVEpBeF9KSGtKRkdkMGlZZEdyY29FSE40bTNYTmFsMHozVkxTdHpxYlZuWTdweWdMa1ZnV0l6Q3pFRnpocm52ekZKTGRuamdUVnpPb3pZRnM?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Sharaa rules out Syria intervening in Lebanon after Trump again suggests it fight Hezbollah",
-          "url": "https://www.timesofisrael.com/sharaa-rules-out-syria-intervening-in-lebanon-after-trump-again-suggests-it-fight-hezbollah/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Netanyahu vows to maintain IDF presence in Lebanon even as issue rocks US-Iran talks",
-          "url": "https://www.timesofisrael.com/netanyahu-vows-to-maintain-idf-presence-in-lebanon-even-as-issue-rocks-us-iran-talks/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "'Kill them first' • 'Kill them first': Netanyahu says Iran war 'changed Israel's security doctrine' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdHotR1FFXzhkZzZ6ZDd3bm5xaVBBYjRwZFFxWlJnTHpQTEFoREdqOVlJM0QxcERkbGVSWUJDVngyTk5xbUpjbU4tbnl2QzJJTUJnLW9IN1YyUEVqT3p3alRmOUFZS0NEdkQ4ajNONWN1bWo4cGRJT1pyUUppRHJQN25ncHBYTkFTZkF6eDhLdFpaSEJUNTFxd213c2hfNEp3Z1lpaHN6eExpTkYzSW9FcGxlVmFDVEFPcENlWjhzQkI4YXBucnRiVGluWWdrR2JMZndXR1BGN3lKWVVNMDAtRUhOZEJxWF8xTHZ5ZXIyRFVNcThlaHp5T3NNenFmUmpYZTRDc0tkMl9yckZJb0hDTlVGeVZ3TXhFLXBVcFJB?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "farsnews",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Farsnews | Beyond The screen, unbreakable spirit, untouchable mind - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVdJZVZKMnNZQVkyanBSbkZyTE54SjBHX2FLZWUtaDVWajdWeDRMVnJrNDctb3pKaW9QYUo3YlVKcFVDUVJESVhBd1lva2xfMU4tTzRFMjJ0LThZdUs2bTdaQ0ktX0ZTUGVoeFZWSlYxTGNDa1p5NFN0dHZVM1lqN2E3VkNFdTZfdVV3MlFHemdfS0MxNGx1ZEtodHljRW9heUpLN2NnRzk4R2xPSWNqNGhR?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Farsnews | Senior UK Cabinet Minister Confirms PM Considering Resigning - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1lvTUpwcVZiakFOTVFERTdiSmYwR0M2ci1ncG5NZGIzRmJHRXE1Qm5ueUZFM3U2X1ZDWlpTZWY3am9xN0UyUnp4ZFpjNXJoZk5rMmtnbjh1Y1JOREhMNEVjNm1Yb290X0VzVUdGWTBUc2RNbDNzWFY3Wnh4Ni16Q1ZTNkczVjRkckhKUWwyNGVxRHFwc1NvbHZObjdiVVlVUy1kQXRIUlRnNmZINk12VA?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Farsnews | Iran Approves First Domestic Umbilical Cord Stem Cell Therapy for Osteoarthritis - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOW5BUHV2aW9KQ21lRGVGUVQ2UVlOZGlVdGVBWFV3R001WFp1Rjk3R1dSUHZXTnByZHc5ejA3MDNIVVN4ZVRyTGJDLTI3NXdRNmROSW9Lc0pRbzAwRHQ4Z0VTNE1IMGZSNjZpTXczMTVFQ0YyM1lDMjhOUkc4SkE2cHc1Z3BXUG1qWVd5X3lqa3hoTXVhNC0wZFRYVUI3eFA5UDJYVFczX0I4SVlMVkx0SVliTXlRR05TQUlhczEydHRyNEhr?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Farsnews | Public Backing for UK Royal Family Plunges to Lowest Level in Decades - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcG1URlZKQ29pM0pzemJJRGtPVWtXenliZm5jX05oUEl3NjBRdEJBZ1ZjU05kTkprS1BLZnBIRFhNdG5GUUFYRE04NjdzeVc1T0VrTVpUTG9VWGZrSUpKT0NKX1Y1MnF4RHYzQ1loSTNwMk5sMEtaamVieE9lZHY2MnZzOVQ5VHBxWnhiNDZlYmE3M2QxTGxENDV6MVZJSHBkVWV5N3FiRElvMlVTNWJQUU1LQ0ZKa2J4WXVkQg?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "draw",
-      "count": 3,
+      "count": 4,
       "headlines": [
         {
           "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
@@ -1241,29 +785,251 @@
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0VmcDBsZmp4UFVwN0wwVlNaekltR0lRQm5mb2JyNlRCdHozSnBNTWdPME9ITGNXVEM3N05TeFBacy1KRTBpdjRWRlFySjJpckRWV0FkOXZieUNvMzZwNm4tSFRXd1V1V2MzNm5lQzMyZWpwYlRZbWFoNVhTOUxTZmowSlZzZmpnTmNheHNQV3JwTWxmMGxVZXZ1R2tMTFQ3dWlONDFzWUpzNHF3VGVrN0RIUGZBaFZZeFZxWHNNYUcwYVdVUnRTcWFFVlNDYzljckd3d1c1UnNqUGxrVVprREl1LXVQTEs5Q0E?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
+        },
+        {
+          "title": "Iran plays 10-man Belgium to 0-0 draw at World Cup - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RMnMyRFNyaWduVm41VFlUVi10TEJ1S191OFJ2SjFSQkpBSEplWTJfLVRWeWZIRDZSazRCT0JzLWxkeW9aTFdteklVNUxIVGVnb1d3?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
     {
-      "term": "belgium",
-      "count": 3,
+      "term": "trump's",
+      "count": 4,
       "headlines": [
         {
-          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Iran says messages continue through mediators after refusing to rejoin talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
-          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOXzdXVVVFWlpuaFprNWRoZHlKLUJERlJKQUFOaVlENnZ1NEFIQUpadUhTbTdhSmZxdEptdk01R0NRNkRZZ2VoU09pTms4X1hjM0wtWVh2eUt1S2hqUkl3Ukt1dEhVbWQ3dkpuQW9YWXBINGhKZnNzWmRIX002UkNVdGVzOU11Rldxdy10dlFqLXBWdkxRZktSYzlka25VRnNaNXNjcGt3NG9wNWdMR25SaVVQTWMyMmJoTDZUc0l2LXBZSFRfYXRmN0t4T2oybXBkMlR5OUcwZ05rR1YtNEt1NFZRclJkTnlsUnZReTlLa3RleUo2Z1BnWENtTi1aUkxnTVYyN2JzNjVXaXMxQkhpd2Q0T0hVT2hkYXFjRnFGRTc3NGF1azFiUXpqVWxwdWJOWkVCSHpGZlVHamFsamJZLS1POTdiNUtPQ0M0QTkwQ1ZNMDF2aXVWQ3NnMjhsWDF6QXphZnV5OVd3RUo2amhQbmlXMkpLcFVlYjNUSmVTaGJFVWl5WlZIeUlGaWNRSmtNdGhjcEVJVXA0dVNOUHFPbkNNZXRCbUN4NUM5YmM1OWUwLTNRMEJhU1YtQ0NSNUNQMXRxbFFoTGVKbUZreWJHcl9rdXVHTEJTQXh3ZU1abWFVd1A2MmFPeExfdUpwTjM2OWgyZ1NrWWpjRGxoc3A1Y3p1OFI3d2dLMm9YeTJtTWpJT3JoekhyWmpRRUJISE1JQWdtaWRJZElVWm1wdEh0VHZ0SFlQRVI5?oc=5",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran, Belgium match in 2026 World Cup ends goalless",
-          "url": "https://en.mehrnews.com/news/245511/Iran-Belgium-match-in-Los-Angelese-stadium-kicks-off",
+          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iran protests Trump's language of military threats",
+          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
           "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "spain",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Yamal scores as Spain beats Saudi Arabia 4-0 at World Cup - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmo0XzNGNDZtejFMZXZnRHlfcE51WWtmTXhRd21JOGk4amdIVmFwdzRvWXZYZHRreUtfWGNaLUVJejZRZmtZc0dHZUNSOEtDVWt3UGRvMDdkRXdReEdmT2p1WVVCM1dtWHZxY0E0N0l2bHFybGFDOW5aYmc1RGp2UHBLSmVBcWtDWE5wajYzbUNZcXNlV1ZibG1MQ004cVhGMVFWY1pjbkNoZTFy0gGsAUFVX3lxTE9yajRfM0Y0Nm16MUxldmdEeV9wTnVZa2ZNeFF3bUk4aThqZ0hWYXB3NG9ZdlhkdGt5S19YY1otRUl6NlFma1lzR0dlQ1I4S0NVa3dQZG8wN2RFd1F4R2ZPanVZVUIzV21YdnFjQTQ3SXZscXJsYUM5blpiZzVEanZQcEtKZUFxa0NYTnBqNjNtQ1lxc2VXVmJsbUxDTThxWEYxUVZjWmNuQ2hlMXI?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Spain must pay €2.5m to man who spent 15 years in jail for rapes he did not commit - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DTWZhdmowclBKTUhheEhHdVp6cl84XzlsWTZLS1lZREd6dW5WU2RqUGFlNFNwenJlbmpQY2xYR0N2RWxjQTN5cXN3VjdhU1BsSTRj?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "World Cup 2026: Saudi Arabia get harsh reality check from Lamine Yamal and Spain - The National",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN0VEdVdtWmdjVVQ3NE91YjBtY0l1aWRhejRaakVtbnEtNFN4OUEzUzRkWDIwaUpPckR5VlZkOW9nWEo2SEhqSkUwcEpGRkZZUUFZUUdWLXk1anNVQ0I2N2tPTXVmQkdqVXo3WVk0azJuRGlQWG1KRGFEYXJ0dlFiczg1TEtLZmtwNmR5LVNaV29MUVRsSFA4T3RfYlQ1dWZYbkZvNHZQWXZpc0g1LUdMTHZSOUJKSjZ0S2xiS3A2T2tTelU3V2VhOHpFNFlwQkM3WTU5R0N6dDE4SmR3?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Cape Verde stun Uruguay, Yamal kickstarts Spain World Cup bid - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDhFWlJhbnBzdDhkb21WaWd1OS1XMmFfdjA1UHNRT2lDclB4akxwS3FxdDFWUEdLUFpWVWZkMUxma1BRSC13SkFzRVpSTXJ3TUxiczVPVndWZFNGWXlGT3FPT3hqUXBoMlpCbFNRNW5GbU5ORzJuTTNBTzFMR2Z6VXd4ZzcyWHZ2Vmx1eXB0b1lKd0N0SUZ3dm1HQ0RQa0dNSDk2WGN4WlBreDFvZlp0YWxzaUNXX3hoTVRtZFNn0gHTAUFVX3lxTE1Sc3BCRUFlWGVZbkIxT29QRjdjZ3c4QjczVzY1bmRpLTdCZVphSHNpWVpNS2NTMmIyVmhmVXB4S1BBMG91Wmdabkpibm5EbDhCbkYtZHA0QWhtSmo1UmV3UHRVcnNFdWZBWURuOGVkUHI4NUg2WUt1emZseTVBa2lLelY5VVM1aUdWSzQ2Zm1kVERGalFVY1JRRF9FXzB6ZXJtMHBSNkZkTVRBR2pmVjRTZW9KWlJVT2ViaFM0OWVNR3RaRXJELU52MmNhazNHT0RkNjA?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "including",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
+          "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Karnak Temples to witness rare solar alignments for summer solstice",
+          "url": "https://www.egyptindependent.com/karnak-temples-to-witness-rare-solar-alignments-for-summer-solstice/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "سورية: 8 انتهاكات للعدو الإسرائيلي على الأقل في الجنوب السوري خلال الـ24 ساعة الماضية منها 3 عمليات توغل",
+          "url": "https://www.almanar.com.lb/article/968037/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "World Cup what to know: Messi, Mbappe and Haaland back in action - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmxsZzlDZFBOeUltTUh2WjNBTjk4RmtlclFrcTlPQ2RfdGpBUkR1S0V3ai1lZHNXbFpKUUZzNnpxbDBGV0pjZzVZamFXMjVkVXZZVDZkU1ZiOGEwNzVKeGZoUkVVUmJXX2F4S09nRXVsNzV1UWV4VlFEVFRVS1ZidTg1bVkzdDZhNG56QkhKck81M1NHQnZvcmVSRnJaMWFEYzNkNzVOMGFMcjd4TnVoQzNVZXlpcFVRcHpsYg?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "killed",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
+          "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Al Jazeera rejects Israeli accusations against journalist killed in Gaza - L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGhLYno0elF5WG41STlnanN0ZGpzSEJ3R3lDUUpRSzhoN250ZkVocmx2Zk44VmY3N2xUNjVfVml3WlNTWWc0enlvNlFxXzAyaXZKTzZNbXM5RlB3MzRzVFNreWlYeTBEdnk2aUtRUE5CdnhoelplUm90YVNwb185RjB3ZVpjRFFMTGpwUXJLTjFJaUl2SXU5ZHh5MjAwRkpwd3JkZkNveEk2YU5FVGJ3bmxCRDZzNXhWNEJyX3hwVkZGaGM?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli military says killed two near West Bank settlement - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHdQU3N3QjYwc2Z5cGlfdFNYLVVfT3ZuWWpMRHBSRXJjNXZDcXVyeFdHbExhbG1oYWV2WkNfV3hlQzdISXVyaXk0Q2kxTlpfTHBaY3lsY21fWUd0SUhBeG1QTWRKUjRsQ3dmZGhwcmNOYlJJY3RBS3JnNVRmNFNvd25DeXZ6bG5VdmFQOHM2eGsyb1o0blNPSGlSOWdjYzRBNDdzeNIBtwFBVV95cUxNVnN5amR6WmFNRF82c1Fpa29BaVpsX19TVFFhcGI0ZVpkMHIzYkNsSVlrd0VNcHhwckV1RXpYTXJ0cHBsMXpFbUFqbXFfcU1XYzJDNVRsMXBBSXBPTUZwZ0ZvNXVHTHZDMkxSaUs1ZjY2SWtPVi1HaWdzVVVEQ1NjNnh1Zmw2SWNZQTZVQUpkSnozUklxNlRWY1JLSnNyNTJ4OWhQRkkzOHpzRzdUYVFXVEVNaEdTXzA?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Gazan man, girl reportedly killed by IDF, which says it eliminated Oct 7 terrorist",
+          "url": "https://www.timesofisrael.com/gazan-man-girl-reportedly-killed-by-idf-which-says-it-eliminated-oct-7-terrorist/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "forces",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOXzdXVVVFWlpuaFprNWRoZHlKLUJERlJKQUFOaVlENnZ1NEFIQUpadUhTbTdhSmZxdEptdk01R0NRNkRZZ2VoU09pTms4X1hjM0wtWVh2eUt1S2hqUkl3Ukt1dEhVbWQ3dkpuQW9YWXBINGhKZnNzWmRIX002UkNVdGVzOU11Rldxdy10dlFqLXBWdkxRZktSYzlka25VRnNaNXNjcGt3NG9wNWdMR25SaVVQTWMyMmJoTDZUc0l2LXBZSFRfYXRmN0t4T2oybXBkMlR5OUcwZ05rR1YtNEt1NFZRclJkTnlsUnZReTlLa3RleUo2Z1BnWENtTi1aUkxnTVYyN2JzNjVXaXMxQkhpd2Q0T0hVT2hkYXFjRnFGRTc3NGF1azFiUXpqVWxwdWJOWkVCSHpGZlVHamFsamJZLS1POTdiNUtPQ0M0QTkwQ1ZNMDF2aXVWQ3NnMjhsWDF6QXphZnV5OVd3RUo2amhQbmlXMkpLcFVlYjNUSmVTaGJFVWl5WlZIeUlGaWNRSmtNdGhjcEVJVXA0dVNOUHFPbkNNZXRCbUN4NUM5YmM1OWUwLTNRMEJhU1YtQ0NSNUNQMXRxbFFoTGVKbUZreWJHcl9rdXVHTEJTQXh3ZU1abWFVd1A2MmFPeExfdUpwTjM2OWgyZ1NrWWpjRGxoc3A1Y3p1OFI3d2dLMm9YeTJtTWpJT3JoekhyWmpRRUJISE1JQWdtaWRJZElVWm1wdEh0VHZ0SFlQRVI5?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli forces raid Umm Safa village northwest of Ramallah - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAySF90UUlOckV4NWRWbmJfc1N0bF9PZ1lEUHBTbFphXzJJOGVuTkFWTVcwRXRFTHJDSHZ1azhWWTdYM0lGU25VdVgxd2hjSFVBZFRsNmpzcw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces issue stop-work orders for homes and agricultural structures in village south of Bethlehem - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OODMxdHU0LUlnLUpoR0pubUpVemlqbjVMMW5SLUFWOWcycGRqeno3RmtvejdSRE5WZ0xsQmNGUk1Wcmd4UGFqeTVIcXJsT2pxbkJiSzYtYw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Syrian security forces capture alleged Daesh bomb-maker linked to Al-Bukamal attacks - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yZ0tOUWx0VnQwMU9aOW9idktGZC02ZFhoQkFWajY4QjlkSE9mUlplSDBjZ1Nld2x1UTd0dTF3MDZVdG94RHJtXzhBQ2N1ZTRaeV9v?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "west",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Colonists set fire to vehicle scrapyard in Shuqba west of Ramallah - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaZ0VIVW9vaVR2eUV0RGtFRW1ObFNXUkgzXzJ2UHRIUmNTdERJUVVtSFVfVmtwWnduNXlyWGswYUdyVzdidzhLd1c0RDNScGNtanViUHRraw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Colonists bock road and attack Palestinian vehicles west of Jericho - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rWmZpRmloMVhzWF9CUmtFdm8xZDBrUV8wVEhiV19LQ24zR3cxRTNTTHBNZ2RqN2pyTFZFWEg2Sk5GNjVHbkpZWWY1M3czdjQtQkx4WThMRQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "مستوطنون يعتدون على المواطنين وممتلكاتهم في عدة مدن بالضفة الغربية - paltoday.ps",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNVNMdk9UVDFkRGZvOGJ0M2xPb2RsVTFlZXd2eWZwM0tNenc1OUlqMzZPLS1WOEdsOGJkRDlqV0JKTEFZZXg3X2JVTEp6S3l5cTRpMkp2QjBsUGlRODZ5bzZsZnhOeDR6T0l2akY4TVlqSVhmcWVlTzBJMHpiYWs4a1JoR0xoZDMtN0ZJbWl1UUV1ZUcxVEt0N245bURVTTFBYkI0R0xjRjNIVVFjbUg4T1hVdFQ4Snp1eFN6bGNuQ1JEbDFsTmZKUXdZbk1sTThXemtuNXQtRl9xcDFQYjI4T0dCQjBIUkJqSUZtWWRPT3l1djQtbHZCaUdUM2l5em0tUGFuc1JuTmpETlpCQklDUzMyMkZjNllHQUdibFVXOA?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli military says killed two near West Bank settlement - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHdQU3N3QjYwc2Z5cGlfdFNYLVVfT3ZuWWpMRHBSRXJjNXZDcXVyeFdHbExhbG1oYWV2WkNfV3hlQzdISXVyaXk0Q2kxTlpfTHBaY3lsY21fWUd0SUhBeG1QTWRKUjRsQ3dmZGhwcmNOYlJJY3RBS3JnNVRmNFNvd25DeXZ6bG5VdmFQOHM2eGsyb1o0blNPSGlSOWdjYzRBNDdzeNIBtwFBVV95cUxNVnN5amR6WmFNRF82c1Fpa29BaVpsX19TVFFhcGI0ZVpkMHIzYkNsSVlrd0VNcHhwckV1RXpYTXJ0cHBsMXpFbUFqbXFfcU1XYzJDNVRsMXBBSXBPTUZwZ0ZvNXVHTHZDMkxSaUs1ZjY2SWtPVi1HaWdzVVVEQ1NjNnh1Zmw2SWNZQTZVQUpkSnozUklxNlRWY1JLSnNyNTJ4OWhQRkkzOHpzRzdUYVFXVEVNaEdTXzA?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "switzerland",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "US-Iran talks begin at Burgenstock, Switzerland - in pictures - The National",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWgzYVJKQnlHV0s1eDlNa29wQ0lNRWN3c0w4YkFNcE94NVQ0bkhLbGtwR1k4WkNTLUloSUlKRWhTUUt1MjJYdUJXVWRTTk04LXlqZi1OUlltMzZxejB1OFVicG1wLW80akUtdDYwWE1HaFYyVm9lWnZnMnh4cWRMbjZXUGxwcHpHeVptQXRVQkJwV21OcGJ0UHp1dEl5LVdsUnNRV0dOY0ZVRHc?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "From Chaplin to Ben-Gurion, Swiss venue of US-Iran talks has a star-studded history",
+          "url": "https://www.timesofisrael.com/from-chaplin-to-ben-gurion-swiss-venue-of-us-iran-talks-has-a-star-studded-history/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Four-way talks in Swtizerland still suspended: report",
+          "url": "https://en.mehrnews.com/news/245513/Four-way-talks-in-Swtizerland-still-suspended-report",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran protests Trump's language of military threats",
+          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "farsnews",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Farsnews | Senior UK Cabinet Minister Confirms PM Considering Resigning - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1lvTUpwcVZiakFOTVFERTdiSmYwR0M2ci1ncG5NZGIzRmJHRXE1Qm5ueUZFM3U2X1ZDWlpTZWY3am9xN0UyUnp4ZFpjNXJoZk5rMmtnbjh1Y1JOREhMNEVjNm1Yb290X0VzVUdGWTBUc2RNbDNzWFY3Wnh4Ni16Q1ZTNkczVjRkckhKUWwyNGVxRHFwc1NvbHZObjdiVVlVUy1kQXRIUlRnNmZINk12VA?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        },
+        {
+          "title": "Farsnews | Lead Negotiator: Iran to Pursue War, Diplomacy - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDRLenB1Qi1DS1lLZjFPYXA5RWRobVBfaTJoZnpPNE42dWpHY0NmNDFTX1F5LVU0TmV6anVjWEVFbWFGMHp4cndJQm1kX3B3VEVkSlV5VW9MbkZTbGplR0MxWUN6ZFNKNVlqNUVOdHAzUGx1NDZ2aHdNTVVnSFl4N0FmRW1lSjVMZndiTm5rWS0tY3ZvcUE?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        },
+        {
+          "title": "Farsnews | IRGC Navy: 15 Vessels Permitted to Cross Strait of Hormuz in Past 24 Hours - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGR4c0VDaVlQZXF2Z01Wb09tSV9GbG9lWG9lSHl1SXBXcS01dU5aM2NRa2o2UTBWWmZBT0dBUVBUSG96QXZ0WmhxYU1zQmliUnNpcGJhal9rVGxvR2RHZ3FEVHh3bFR6SGxoaFI4ZGhKZWtxM1UzWmVUb3dIc0pfV3hyR2puTjFZdGtwcXJyU1VSd1hkd3Y3VXVlYkNzLVpyT0pOUnFJM2xLZGxWcmRJQzNtLUZ6SUI5OE5rMDZabDg1QjR2VzlB?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        },
+        {
+          "title": "Farsnews | Mount Sheyvar Showcases Untouched Landscapes in Northwestern Iran - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVpOUE1tSlZFUlJvV29ubHhWeHduYmRtWjliR00wd3JrMDhoNVY0dFZtVG9YRmVMcFF1a1laOC1ZbkNuZ2dMX0h6cU5POEhVUUZ0aUNhS3pLMDNPS2tHUG5ERnNZNkt1UEp0V1Z1eU41NEZRNzhFYkRueVVKQnBhOWdYRjUzMW9ESjJxUi16bjFvTkNjLWFjZUJpcDF0MTUxY05DMGpxV3MzNFI1b0FtU0M0YlJQY3Q3eTc0?oc=5",
+          "source": "Fars News",
           "region": "Iran"
         }
       ]
@@ -1293,6 +1059,30 @@
       ]
     },
     {
+      "term": "hormuz",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "“أكسيوس”: الولايات المتحدة ترى أنه تم إحراز تقدم في المحادثات مع إيران بشأن مضيق هرمز",
+          "url": "https://www.almanar.com.lb/article/968022/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Farsnews | IRGC Navy: 15 Vessels Permitted to Cross Strait of Hormuz in Past 24 Hours - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGR4c0VDaVlQZXF2Z01Wb09tSV9GbG9lWG9lSHl1SXBXcS01dU5aM2NRa2o2UTBWWmZBT0dBUVBUSG96QXZ0WmhxYU1zQmliUnNpcGJhal9rVGxvR2RHZ3FEVHh3bFR6SGxoaFI4ZGhKZWtxM1UzWmVUb3dIc0pfV3hyR2puTjFZdGtwcXJyU1VSd1hkd3Y3VXVlYkNzLVpyT0pOUnFJM2xLZGxWcmRJQzNtLUZ6SUI5OE5rMDZabDg1QjR2VzlB?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "ghalibaf",
       "count": 3,
       "headlines": [
@@ -1304,7 +1094,7 @@
         },
         {
           "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPeGhjR1Q5YWxhSFlkWGROV2l4amNRLUs2akhaNzJxbzNxaEtVTkFPajkyYlBfNFV1ZDQ2TjJ4VkhrZkZ4Z01QOXZUUVVfZ2J2bnJQVkE0ay1mMkdCbHJMWl8wZUt6eDJjWFZ6cV81YUplM09hZzVDeGtWZHZobHBlMVFROWJBVTdBSnZlby1kbkZfYlljLWFKUkxUYlpHdWlvMDQzcnhUNzlleHlaZkVpSk5hV01URzZnV0Y3bmNjNVZfWkZkNkxldWcxNXJvWEw4d3V3TlpCMHM4S3V0QWlBaHBnOUNRbDlTaVpwZndfZndseGxiMDdXQ0p6Ung3U3BzazA3VFg3NnFBX1FFNDQ1dWQzNVYtUmxva0w2dHA1OXFnS0VJUG9XVUNPVGlwZU92Z21ZZl8yOXdsSXhYLW1STl8tcnpRVGw5WVRIUVNMd3Vhdm1TSHdEZEdrNmxWQWNFZ0tOYXJTTm9PenhnMEE4QkdDZFBxaExOdkZzQ2dRRGRsTk1URmRSdkZBMUpQSjNUZ280UTF6ZGd2NU1semlnWXFRa3ZmUUZYaXJLUzVLMDhBRHl3cjRDODM5cTVDT1otcHU3Mm1mTFNrbnJsSWVZMXRVSGRPandVQUdycThBUkhRVVFwMUdV0gHnA0FVX3lxTE94aGNHVDlhbGFIWWRYZE5XaXhqY1EtSzZqSFo3MnFvM3FoS1VOQU9qOTJiUF80VXVkNDZOMnhWSGtmRnhnTVA5dlRRVV9nYnZuclBWQTRrLWYyR0JsckxaXzBlS3p4MmNYVnpxXzVhSmUzT2FnNUN4a1ZkdmhscGUxUVE5YkFVN0FKdmVvLWRuRl9iWWMtYUpSTFRiWkd1aW8wNDNyeFQ3OWV4eVpmRWlKTmFXTVRHNmdXRjduY2M1Vl9aRmQ2TGV1ZzE1cm9YTDh3dXdOWkIwczhLdXRBaUFocGc5Q1FsOVNpWnBmd19md2x4bGIwN1dDSnpSeDdTcHNrMDdUWDc2cUFfUUU0NDV1ZDM1Vi1SbG9rTDZ0cDU5cWdLRUlQb1dVQ09UaXBlT3ZnbVlmXzI5d2xJeFgtbVJOXy1yelFUbDlZVEhRU0x3dWF2bVNId0RkR2s2bFZBY0VnS05hclNOb096eGcwQThCR0NkUHFoTE52RnNDZ1FEZGxOTVRGZFJ2RkExSlBKM1RnbzRRMXpkZ3Y1TWx6aWdZcVFrdmZRRlhpcktTNUswOEFEeXdyNEM4MzlxNUNPWi1wdTcybWZMU2tucmxJZVkxdFVIZE9qd1VBR3JxOEFSSFFVUXAxR1U?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOXzdXVVVFWlpuaFprNWRoZHlKLUJERlJKQUFOaVlENnZ1NEFIQUpadUhTbTdhSmZxdEptdk01R0NRNkRZZ2VoU09pTms4X1hjM0wtWVh2eUt1S2hqUkl3Ukt1dEhVbWQ3dkpuQW9YWXBINGhKZnNzWmRIX002UkNVdGVzOU11Rldxdy10dlFqLXBWdkxRZktSYzlka25VRnNaNXNjcGt3NG9wNWdMR25SaVVQTWMyMmJoTDZUc0l2LXBZSFRfYXRmN0t4T2oybXBkMlR5OUcwZ05rR1YtNEt1NFZRclJkTnlsUnZReTlLa3RleUo2Z1BnWENtTi1aUkxnTVYyN2JzNjVXaXMxQkhpd2Q0T0hVT2hkYXFjRnFGRTc3NGF1azFiUXpqVWxwdWJOWkVCSHpGZlVHamFsamJZLS1POTdiNUtPQ0M0QTkwQ1ZNMDF2aXVWQ3NnMjhsWDF6QXphZnV5OVd3RUo2amhQbmlXMkpLcFVlYjNUSmVTaGJFVWl5WlZIeUlGaWNRSmtNdGhjcEVJVXA0dVNOUHFPbkNNZXRCbUN4NUM5YmM1OWUwLTNRMEJhU1YtQ0NSNUNQMXRxbFFoTGVKbUZreWJHcl9rdXVHTEJTQXh3ZU1abWFVd1A2MmFPeExfdUpwTjM2OWgyZ1NrWWpjRGxoc3A1Y3p1OFI3d2dLMm9YeTJtTWpJT3JoekhyWmpRRUJISE1JQWdtaWRJZElVWm1wdEh0VHZ0SFlQRVI5?oc=5",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
@@ -1313,6 +1103,30 @@
           "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "sent",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
+          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Brexit sent UK firms looking beyond Europe, and Dubai became the winner - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHVnQ3ROZFY5Q0VzRzlCdDFlWEFzdHdncDNTdEVsRTl3dk5mNzRYZW1UaHZOei1JUzhveXFZS1h3ZHpnTFdNU2J2aUlCN1FEcjlnOUlVOUJicElIal9ZR0taamtzV21OV3pETklieUFVRm1TRVBuWDNGUEJ4ME96NWJIMUdNWW94RXJJOXN1NV81TzU4WHdaSkNwM0cyTzVlOEMwcnlQWGh3SENxZTd1NWNjZVpLa21HUkNRWktEUzdid1Z5UmN0aklRTW1xT0nSAc8BQVVfeXFMUGR1Z0N0TmRWOUNFc0c5QnQxZVhBc3R3Z3AzU3RFbEU5d3ZOZjc0WGVtVGh2TnotSVM4b3lxWUtYd2R6Z0xXTVNidmlJQjdRRHI5ZzlJVTlCYnBJSGpfWUdLWmprc1dtTld6RE5JYnlBVUZtU0VQblgzRlBCeDBPejViSDFHTVlveEVySTlzdTVfNU81OFh3WkpDcDNHMk81ZThDMHJ5UFhod0hDcWU3dTVjY2VaS2ttR1JDUVpLRFM3YndWeVJjdGpJUU1tcU9J?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Belgium held 0-0 by Iran as Ngoy sent off - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kWGR0NnJrMzk0N0MzTDRMXzRUemluWmVJMHpnU3R2aUNfU1Z0QkRRM3VZdklqVVlCSk45T3gxUnN2NGJ6MW1yN3lzNzk4T200dWgzWjRuVTVrdnBSTnRDS0RxWHVtaG9YNW5sOV9ZajlWdV9mMlBCWlJNNTM?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
@@ -1389,199 +1203,103 @@
       ]
     },
     {
-      "term": "pakistan",
+      "term": "conflict",
       "count": 3,
       "headlines": [
         {
-          "title": "Iran says messages continue through mediators after refusing to rejoin talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
+          "title": "Trump questions Nato allies' support during Iran conflict",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-questions-nato-allies-support-during-iran-conflict",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region - Gulf News",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQV2JIMlYyaENwTEQtYUpBVVE5Sm9yUWhtdk5ybzZpWXltS3VYLVBzVnQyUldJZ2ZZVl9xZG5lNmlHNF9YTU9JVDV6cC1pUGpVTTFWWjFlUVd4N2FWbnMyX3RHUlJlQWZNSG05RWFXM1NFc3dNcE1oWDQ2SVlHRXVpQlJVS09nUmZPQjNGQ2M4X1pPdHB4d0dtQVk2QkppYUZHYUZCTG92TlVXSzQteXFNUmEtc0NZa1Zkd296bkx1V3hKQ25UdXEwNndrTXk3aDAyTkc0ZFhwT2cwUkRORnBEazk5aTVfZG1qQWxHSzZ6bmZiUDYzQnRSMlhnTUxBY01VOWYxMUV30gGGAkFVX3lxTFBXYkgyVjJoQ3BMRC1hSkFVUTlKb3JRaG12TnJvNmlZeW1LdVgtUHNWdDJSV0lnZllWX3FkbmU2aUc0X1hNT0lUNXpwLWlQalVNMVZaMWVRV3g3YVZuczJfdEdSUmVBZk1IbTlFYVczU0Vzd01wTWhYNDZJWUdFdWlCUlVLT2dSZk9CM0ZDYzhfWk90cHh3R21BWTZCSmlhRkdhRkJMb3ZOVVdLNC15cU1SYS1zQ1lrVmR3b3puTHVXeEpDblR1cTA2d2tNeTdoMDJORzRkWHBPZzBSRE5GcERrOTlpNV9kbWpBbEdLNnpuZmJQNjNCdFIyWGdNTEFjTVU5ZjExRXc?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "US-Iran talks focused on elements of nuclear deal, enforcement of Lebanon ceasefire - report",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900087",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "donald",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iran says messages continue through mediators after refusing to rejoin talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran protests Trump's language of military threats",
-          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "final",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iran says messages continue through mediators after refusing to rejoin talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-messages-continue-through-mediators-after-refusing-rejoin",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "المرشح الرئاسي اليساري في كولومبيا سيبيدا: سنطعن في نتائج 33,000 صندوق اقتراع وننتظر العد النهائي للأصوات للاعتراف بالنتيجة",
-          "url": "https://www.almanar.com.lb/article/968012/",
-          "source": "Al Manar",
+          "title": "US, Iran set for talks as Lebanon conflict threatens deal - Jordan Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczRWaVF4cjVJemxjVl9mNS1mbWZKQmpDWW9Ka2FtZzZiVlJQWWdZMlMwMUhXVVNST2tidjFmWklPTXBCajZ5bGlNVUhkTm9FYjhab3ZVT0hxMUlXVW5oQU8zcTdURFdJVjBIS3VCd25MU3FxM2NlZzhZSmlKeFVqb1lOS0NndUtvZUFwNEU2R1BrcVNRVmc?oc=5",
+          "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "Tadej Pogacar wins the Tour de Suisse in style by taking the final stage - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14ZG1RZEQxcXlBNEtCS3VMQ0V1YkVtQmxWNFVMR29RWDJTdldnYjZJUWdQTDVVdXpCb1pTYmZGWm9iYnZBSnFtdWxMRkVHdzFLbHFN?oc=5",
+          "title": "Mufti Deriane warns against 'those who want to draw Syria into a conflict against Hezbollah' in Lebanon - L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0VmcDBsZmp4UFVwN0wwVlNaekltR0lRQm5mb2JyNlRCdHozSnBNTWdPME9ITGNXVEM3N05TeFBacy1KRTBpdjRWRlFySjJpckRWV0FkOXZieUNvMzZwNm4tSFRXd1V1V2MzNm5lQzMyZWpwYlRZbWFoNVhTOUxTZmowSlZzZmpnTmNheHNQV3JwTWxmMGxVZXZ1R2tMTFQ3dWlONDFzWUpzNHF3VGVrN0RIUGZBaFZZeFZxWHNNYUcwYVdVUnRTcWFFVlNDYzljckd3d1c1UnNqUGxrVVprREl1LXVQTEs5Q0E?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "security",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iranian defence official calls for regional Islamic security alliance",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-defence-official-calls-regional-islamic-security-alliance",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Syrian security forces capture alleged Daesh bomb-maker linked to Al-Bukamal attacks - Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yZ0tOUWx0VnQwMU9aOW9idktGZC02ZFhoQkFWajY4QjlkSE9mUlplSDBjZ1Nld2x1UTd0dTF3MDZVdG94RHJtXzhBQ2N1ZTRaeV9v?oc=5",
           "source": "Arab News",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "child",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israeli army says killed two Palestinians near Hebron",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-two-palestinians-near-hebron",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
         },
         {
-          "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
-          "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gazan man, girl reportedly killed by IDF, which says it eliminated Oct 7 terrorist",
-          "url": "https://www.timesofisrael.com/gazan-man-girl-reportedly-killed-by-idf-which-says-it-eliminated-oct-7-terrorist/",
+          "title": "Netanyahu vows to maintain IDF presence in Lebanon even as issue rocks US-Iran talks",
+          "url": "https://www.timesofisrael.com/netanyahu-vows-to-maintain-idf-presence-in-lebanon-even-as-issue-rocks-us-iran-talks/",
           "source": "Times of Israel",
           "region": "Israel"
         }
       ]
     },
     {
-      "term": "kill",
+      "term": "debate",
       "count": 3,
       "headlines": [
         {
-          "title": "Israeli attacks kill nine people in Gaza in past 24 hours",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-gaza-past-24-hours",
+          "title": "UK lawmakers to debate influence of pro-Israel lobbying groups",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-lawmakers-debate-influence-pro-israel-lobbying-groups",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli drones kill 3 Palestinians, including child, in Gaza",
-          "url": "https://www.newarab.com/news/israeli-drones-kill-3-palestinians-including-child-gaza",
+          "title": "Coalition strike revives debate over Syria's foreign fighters",
+          "url": "https://www.newarab.com/news/coalition-strike-revives-debate-over-syrias-foreign-fighters",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "'Kill them first' • 'Kill them first': Netanyahu says Iran war 'changed Israel's security doctrine' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdHotR1FFXzhkZzZ6ZDd3bm5xaVBBYjRwZFFxWlJnTHpQTEFoREdqOVlJM0QxcERkbGVSWUJDVngyTk5xbUpjbU4tbnl2QzJJTUJnLW9IN1YyUEVqT3p3alRmOUFZS0NEdkQ4ajNONWN1bWo4cGRJT1pyUUppRHJQN25ncHBYTkFTZkF6eDhLdFpaSEJUNTFxd213c2hfNEp3Z1lpaHN6eExpTkYzSW9FcGxlVmFDVEFPcENlWjhzQkI4YXBucnRiVGluWWdrR2JMZndXR1BGN3lKWVVNMDAtRUhOZEJxWF8xTHZ5ZXIyRFVNcThlaHp5T3NNenFmUmpYZTRDc0tkMl9yckZJb0hDTlVGeVZ3TXhFLXBVcFJB?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "palestinian",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israeli attacks kill nine people in Gaza in past 24 hours",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-gaza-past-24-hours",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli colonists set up settlement tent on Palestinian land east of Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WRUJFc2paeHY2enpQVHc4MUVmQXc0Mzl2N29ZTGhGdm1EQlg1d1V3LTVGSVRFUWhPWU9ibXNubHUxd29teGtSMjVTNFgyUXJtazZVaEhCTQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Colonists bock road and attack Palestinian vehicles west of Jericho - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rWmZpRmloMVhzWF9CUmtFdm8xZDBrUV8wVEhiV19LQ24zR3cxRTNTTHBNZ2RqN2pyTFZFWEg2Sk5GNjVHbkpZWWY1M3czdjQtQkx4WThMRQ?oc=5",
-          "source": "WAFA News",
+          "title": "In Beirut, a Night of Ideas makes the case for poetry over debate - L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWlOOEJmZ3Jrc0lvdkhZR3R2TG04SjcwSU9BLUtwbEk4bGhXUWt5b25CVENXcFM5U2ppQkhrWncyUEQzQ2lxcmVaU3JmUWNKbGlWcHE5RWhWaURHYmhLdVFTTEFXTllrbHBoYzZlaG9zTllkMUluSXFvZXQtdm5hUnpmQVdyaTBjSnZham9kNlRkN2ROYmxGcGhyQlpSVUM4ZldzV3AzektpeTh3cUlyd3lXRC1iUW5t?oc=5",
+          "source": "L'Orient Today",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "stating",
+      "term": "hopes",
       "count": 3,
       "headlines": [
         {
-          "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-          "source": "Middle East Eye",
+          "title": "Pakistani PM Hopes for Progress in Deal - Al Arabiya English",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVldHTEtVZlNYSjNWNzBibExGZnFxaU1kSnAxWGlVUGFPRTFJdGlQM0hpRy1NVXBrbWdLTGJHSFdvRlVRN2czbHJfUHYyR1FlQjZmLXl0VVdYTUM5d1FjR3l3V3g1bzFXbUJKbEt0amxlZUk3a1J6VG9qX0ZQM00tbVNKSURMVk85Z25pTlRxdjhLNDhTZkRPcWg1clrSAZwBQVVfeXFMTVZXR0xLVWZTWEozVjcwYmxMRmZxcWlNZEpwMVhpVVBhT0UxSXRpUDNIaUctTVVwa21nS0xiR0hXb0ZVUTdnM2xyX1B2MkdRZUI2Zi15dFVXWE1DOXdRY0d5d1d4NW8xV21CSmxLdGpsZWVJN2tSelRval9GUDNNLW1TSklETFZPOWduaU5UcXY4SzQ4U2ZET3FoNXJa?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "قاليباف تعليقاً على تهديدات ترامب: لا نُقيم وزناً لها.. وقواتنا مستعدة للرد - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPeGhjR1Q5YWxhSFlkWGROV2l4amNRLUs2akhaNzJxbzNxaEtVTkFPajkyYlBfNFV1ZDQ2TjJ4VkhrZkZ4Z01QOXZUUVVfZ2J2bnJQVkE0ay1mMkdCbHJMWl8wZUt6eDJjWFZ6cV81YUplM09hZzVDeGtWZHZobHBlMVFROWJBVTdBSnZlby1kbkZfYlljLWFKUkxUYlpHdWlvMDQzcnhUNzlleHlaZkVpSk5hV01URzZnV0Y3bmNjNVZfWkZkNkxldWcxNXJvWEw4d3V3TlpCMHM4S3V0QWlBaHBnOUNRbDlTaVpwZndfZndseGxiMDdXQ0p6Ung3U3BzazA3VFg3NnFBX1FFNDQ1dWQzNVYtUmxva0w2dHA1OXFnS0VJUG9XVUNPVGlwZU92Z21ZZl8yOXdsSXhYLW1STl8tcnpRVGw5WVRIUVNMd3Vhdm1TSHdEZEdrNmxWQWNFZ0tOYXJTTm9PenhnMEE4QkdDZFBxaExOdkZzQ2dRRGRsTk1URmRSdkZBMUpQSjNUZ280UTF6ZGd2NU1semlnWXFRa3ZmUUZYaXJLUzVLMDhBRHl3cjRDODM5cTVDT1otcHU3Mm1mTFNrbnJsSWVZMXRVSGRPandVQUdycThBUkhRVVFwMUdV0gHnA0FVX3lxTE94aGNHVDlhbGFIWWRYZE5XaXhqY1EtSzZqSFo3MnFvM3FoS1VOQU9qOTJiUF80VXVkNDZOMnhWSGtmRnhnTVA5dlRRVV9nYnZuclBWQTRrLWYyR0JsckxaXzBlS3p4MmNYVnpxXzVhSmUzT2FnNUN4a1ZkdmhscGUxUVE5YkFVN0FKdmVvLWRuRl9iWWMtYUpSTFRiWkd1aW8wNDNyeFQ3OWV4eVpmRWlKTmFXTVRHNmdXRjduY2M1Vl9aRmQ2TGV1ZzE1cm9YTDh3dXdOWkIwczhLdXRBaUFocGc5Q1FsOVNpWnBmd19md2x4bGIwN1dDSnpSeDdTcHNrMDdUWDc2cUFfUUU0NDV1ZDM1Vi1SbG9rTDZ0cDU5cWdLRUlQb1dVQ09UaXBlT3ZnbVlmXzI5d2xJeFgtbVJOXy1yelFUbDlZVEhRU0x3dWF2bVNId0RkR2s2bFZBY0VnS05hclNOb096eGcwQThCR0NkUHFoTE52RnNDZ1FEZGxOTVRGZFJ2RkExSlBKM1RnbzRRMXpkZ3Y1TWx6aWdZcVFrdmZRRlhpcktTNUswOEFEeXdyNEM4MzlxNUNPWi1wdTcybWZMU2tucmxJZVkxdFVIZE9qd1VBR3JxOEFSSFFVUXAxR1U?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
+          "title": "Wide gulf after Swiss talks begin in the shadow of Trump threats PM hopes Lucerne Summit will be a turning point - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TeHZxYzRBdDRKUzFLQ2FmZG96Mk1KTjZabFZ3NmdldXZiWmc1TVRsR1NOcnVtMVQzeldJTmt6dDRkSDV1ZHJzNE9KR0FNQUxpdGdUaDRreDRsMDVHcVVmYzFlMEY3UXNoVml1aFZJQWZSU2VHdFFZaVBsdw?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         },
         {
-          "title": "Four-way talks in Swtizerland still suspended: report",
-          "url": "https://en.mehrnews.com/news/245513/Four-way-talks-in-Swtizerland-still-suspended-report",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "PM hopes Lucerne Summit will be a turning point | Gulf Times - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZng3czRLS25lUWUzdktJdEh3bXo2V01YNmdjajFkNFVZSkY1RWRXbWdYS3EzVDRPODhPZ3FZaDdUNUxIOUdRcXdLSG8wUjFZVmRWZ0EyeG5vRENzSXFoazl1MHprcTlvMmpGQ096bTYtblRTX0wyUVkxUzcwNWRNUHdhSWVncnFRV2FGcE1uc004bFRINmUzRHJnRdIBoAFBVV95cUxNWGxlekFfaVp5X214QTRSbWFrVEZMZUdzUDBwaFhJMTRTVW14OElqYUJ6VlktSHRxRlRvSmh5SWhsQWRsM21xTWxwZmN2TWdYb1dLWG5FcjJMcWwza3lqb084dXRwUUpNOTlTYmEyb0M1OUU5NXlvTzVvY01fTG5zSWg0VE5QU3ZGekpZRXJYNTJQWlR4d25Gd0xlMGxKQ1pE?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
     {
-      "term": "israel's",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Turkish minister warns of Israeli sabotage risk to US-Iran deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-minister-warns-israeli-sabotage-risk-us-iran-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "The sum-of-all-fears election - Sponsored Content",
-          "url": "https://www.timesofisrael.com/spotlight/the-sum-of-all-fears-election/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "'Kill them first' • 'Kill them first': Netanyahu says Iran war 'changed Israel's security doctrine' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdHotR1FFXzhkZzZ6ZDd3bm5xaVBBYjRwZFFxWlJnTHpQTEFoREdqOVlJM0QxcERkbGVSWUJDVngyTk5xbUpjbU4tbnl2QzJJTUJnLW9IN1YyUEVqT3p3alRmOUFZS0NEdkQ4ajNONWN1bWo4cGRJT1pyUUppRHJQN25ncHBYTkFTZkF6eDhLdFpaSEJUNTFxd213c2hfNEp3Z1lpaHN6eExpTkYzSW9FcGxlVmFDVEFPcENlWjhzQkI4YXBucnRiVGluWWdrR2JMZndXR1BGN3lKWVVNMDAtRUhOZEJxWF8xTHZ5ZXIyRFVNcThlaHp5T3NNenFmUmpYZTRDc0tkMl9yckZJb0hDTlVGeVZ3TXhFLXBVcFJB?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "spain",
+      "term": "yamal",
       "count": 3,
       "headlines": [
         {
@@ -1591,15 +1309,15 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Spain must pay €2.5m to man who spent 15 years in jail for rapes he did not commit - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DTWZhdmowclBKTUhheEhHdVp6cl84XzlsWTZLS1lZREd6dW5WU2RqUGFlNFNwenJlbmpQY2xYR0N2RWxjQTN5cXN3VjdhU1BsSTRj?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
           "title": "World Cup 2026: Saudi Arabia get harsh reality check from Lamine Yamal and Spain - The National",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN0VEdVdtWmdjVVQ3NE91YjBtY0l1aWRhejRaakVtbnEtNFN4OUEzUzRkWDIwaUpPckR5VlZkOW9nWEo2SEhqSkUwcEpGRkZZUUFZUUdWLXk1anNVQ0I2N2tPTXVmQkdqVXo3WVk0azJuRGlQWG1KRGFEYXJ0dlFiczg1TEtLZmtwNmR5LVNaV29MUVRsSFA4T3RfYlQ1dWZYbkZvNHZQWXZpc0g1LUdMTHZSOUJKSjZ0S2xiS3A2T2tTelU3V2VhOHpFNFlwQkM3WTU5R0N6dDE4SmR3?oc=5",
           "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Cape Verde stun Uruguay, Yamal kickstarts Spain World Cup bid - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDhFWlJhbnBzdDhkb21WaWd1OS1XMmFfdjA1UHNRT2lDclB4akxwS3FxdDFWUEdLUFpWVWZkMUxma1BRSC13SkFzRVpSTXJ3TUxiczVPVndWZFNGWXlGT3FPT3hqUXBoMlpCbFNRNW5GbU5ORzJuTTNBTzFMR2Z6VXd4ZzcyWHZ2Vmx1eXB0b1lKd0N0SUZ3dm1HQ0RQa0dNSDk2WGN4WlBreDFvZlp0YWxzaUNXX3hoTVRtZFNn0gHTAUFVX3lxTE1Sc3BCRUFlWGVZbkIxT29QRjdjZ3c4QjczVzY1bmRpLTdCZVphSHNpWVpNS2NTMmIyVmhmVXB4S1BBMG91Wmdabkpibm5EbDhCbkYtZHA0QWhtSmo1UmV3UHRVcnNFdWZBWURuOGVkUHI4NUg2WUt1emZseTVBa2lLelY5VVM1aUdWSzQ2Zm1kVERGalFVY1JRRF9FXzB6ZXJtMHBSNkZkTVRBR2pmVjRTZW9KWlJVT2ViaFM0OWVNR3RaRXJELU52MmNhazNHT0RkNjA?oc=5",
+          "source": "Gulf News",
           "region": "Gulf"
         }
       ]
@@ -1629,6 +1347,30 @@
       ]
     },
     {
+      "term": "following",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Muslims alarmed by Edinburgh attack as far-right rhetoric blamed",
+          "url": "https://www.newarab.com/news/muslims-alarmed-edinburgh-attack-far-right-rhetoric-blamed",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Egypt warns against posting social media complaints following viral hospital claims",
+          "url": "https://www.egyptindependent.com/egypt-warns-against-posting-social-media-complaints-following-viral-hospital-claims/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
       "term": "suspected",
       "count": 3,
       "headlines": [
@@ -1649,54 +1391,6 @@
           "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPbV9hMTVzQUtHRkFIQWxaWjJSOHVhRjZ1N0pqTXJIMko0c1RINFNZTEsybWNmVFdGYS1uNkVLOXVxVGJBem5BUGlrRG14N3V1RFcyejkweU52Vk44M0dOS003a0pudzEtMUZfRUs4NjZ3aE44Zm4tZ3N5VGZ2bnFBVzBYOW4yV1FhY3FiejVyNE1pWnlMSnJPa2R1dTlZM3lhOTNpUmRaUVdKQVhYLVJsenFpY1hRcFNETkJjQks5OXhtaFo0Q2xSaXpXR3hhVVdNRVFNUEl2MWdfS2ZNcGRITlB2dkNVZFFDUFM5YUJMRjlwdmRydi1JQUtyc3R2MExuYlVUaVBDRGwwZ2pJVENReG9qS004dVhXV2o3OURvNGg0S0pXeW1RSUFVaGRHeVdiN2RrWURfTGdaMk5uUzNRQnFQOXREZjNhN2tRdkZfbnUxSnJ4M1hmSFd0SmpOTlNILVktQ1J3ZHhTaGRoYWpNQnExUjlZVkM4aXNCZnJYS01nWlJNWjFacnpnUE11VWNqcHoycV9uRmRJTERZVkp5bzFhQzN0NHh4akZFdDBBdTVaa21fdlNGUFkzOWtwNXVaVnZuSUZGbUFGaWYySWFMTElDd2NMMkQ4cW11Zkc1TzdzaTJMTW02TTlR?oc=5",
           "source": "Al-Akhbar",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "venue",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "احتجاجاً على تهديدات ترامب.. الوفد الإيراني يغادر مقر المفاوضات في سويسرا - almayadeen.net",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdm5wUldiWHB5MmV3ZWh4cGM1N3BNaXR3QTdRNmQyRkhqTExqbWpmcHZ1amd2MlFPa011NmppTVJKSUk5aTJSaVNUbWJCU0JGZGRUSGVWbFpNbGxiM29tQnlkZmNpZUxUMXdRUFZwQk1wWDk3Z19PbHhrTENZZ1FSWWFrSjd3VUlJRHVJczNlTGtqY0lGTjVTTF9RTGxqREtPT3YxaVRVY0xIZ05ndHVOdXowaGtGYXBJczFDclp1RVBtNkFxcEJnbWswXzlsSFNwcWlBYWhwTVlnMnY5MW5NWEViOUhxcW42VGwxQVF5VW14dXQyM3lERHRxR1IzbHN5VVJfYzFiTURhZGZvaGUzck9pc3FkVXBNNnVlRTZ3YTJKQkJhc21YNnBEajNMOXFtbWdUelBTQVl6WDVibkp3LTRUSy0tZHpiMGV0U193bkxrU2J5dE85R3ZhamlDZ1lYcVEwNTBfTndMRDR2VG9EX1dSUFNYZEx2Q0JOcjBvcS15YmVEUzVtdmU3WWNiQTF4YWpMeHl1SzNGWTVQY2ZTSDNkNnBuYjJ2RTlHR1c5S2Zqb21GY3JaVHk4N3RFUXBJZEItX2RWUzdNNEFialZ4ajlXekJGRUJYOHlVRGlHLWpXS01vZlNZcmpIaVF0bmNZ0gH0A0FVX3lxTFBlQkoyaG9WQWVxdG05SE9aNS1QMFI4amtmbVFXUW90amxpeXN2TzJjbTlsWWlJak1GUDRoaURGdzVMSUJuZ0RCZGd5MGdjYjRIei03cHpJVFlCUUd5OE43am1hRGhZVDEwTzhHZHR0SkVydzJBZzVTQ2o2U2d1NU9YUnFJcWVuUDlQSVJ3RllfWTNDRURKM195RjRXSVU4X2JGLXMxTVFfVVpvV0Q4NlVvQU5Kb2VWWGRLUFhMaER3eFZ6Z0VqdGs5U19jUy03M01QX2NOWEVhV3NvcjZZcnNfN3lJZ3BoNmNqaWIxanhkNS1Lbm1QQ1NzUGFfWEllRzVxVnNSWUo5LUw5N3pWdFhRTnhjRUlwcU9FSUxQMUZiTVdzejN3VlNhQzlKR1laaWJjSFlmNjhxa1V1eWlPdUJpdVZoU2VKMmItSXNCNmdOdWI5Q2w5MDFaSnNPQllmRlNqVUlhV290ZFRkZGEyblJwUGIxX3A4bXBHR3dMRVZmZ29CbnBrbzJNNm1ma05qYWZXUzhVcVlIS3dhejVpeExDa2M3QVpBVDFPMkhJb29DYTVqcEVqSGRIeXIwMlBMQzVvOE9JTk1GVGQ2RnVjX3N1VlRxdWFfaEhEVjFCb3FfMGZub3dQVG9xQVZIVVNBYXplVU9x?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "From Chaplin to Ben-Gurion, Swiss venue of US-Iran talks has a star-studded history",
-          "url": "https://www.timesofisrael.com/from-chaplin-to-ben-gurion-swiss-venue-of-us-iran-talks-has-a-star-studded-history/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Iran sets 2 conditions for returning to talks: report",
-          "url": "https://en.mehrnews.com/news/245512/Iran-sets-2-conditions-for-returning-to-talks-report",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "conflict",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "US, Iran set for talks as Lebanon conflict threatens deal - Jordan Times",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczRWaVF4cjVJemxjVl9mNS1mbWZKQmpDWW9Ka2FtZzZiVlJQWWdZMlMwMUhXVVNST2tidjFmWklPTXBCajZ5bGlNVUhkTm9FYjhab3ZVT0hxMUlXVW5oQU8zcTdURFdJVjBIS3VCd25MU3FxM2NlZzhZSmlKeFVqb1lOS0NndUtvZUFwNEU2R1BrcVNRVmc?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Mufti Deriane warns against 'those who want to draw Syria into a conflict against Hezbollah' in Lebanon - L'Orient Today",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0VmcDBsZmp4UFVwN0wwVlNaekltR0lRQm5mb2JyNlRCdHozSnBNTWdPME9ITGNXVEM3N05TeFBacy1KRTBpdjRWRlFySjJpckRWV0FkOXZieUNvMzZwNm4tSFRXd1V1V2MzNm5lQzMyZWpwYlRZbWFoNVhTOUxTZmowSlZzZmpnTmNheHNQV3JwTWxmMGxVZXZ1R2tMTFQ3dWlONDFzWUpzNHF3VGVrN0RIUGZBaFZZeFZxWHNNYUcwYVdVUnRTcWFFVlNDYzljckd3d1c1UnNqUGxrVVprREl1LXVQTEs5Q0E?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Tag Results for \"Gulf conflict\" (2 articles) - Gulf Times",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EdFN5LTBaeEx6UWJ6QmV3a1YzdzdaRVl2clRYYm5OaUV0aVg2NEU5dlpTcjJLUkVjVEpySUp1WEl2SDNRODRyT2otUnY5V191bm0tcWE1OU8wbXd0Q3BF?oc=5",
-          "source": "Gulf Times",
-          "region": "Gulf"
         }
       ]
     },
@@ -1725,30 +1419,6 @@
       ]
     },
     {
-      "term": "south",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israel PM says troops to stay in south Lebanon 'as long as necessary' - L'Orient Today",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGxBbnhWNEVxUTVHaFRSSGZUOGNfV25uZDZtODlTQzhaY0hzNFhwd3NTaHJJSGVwUzBUd3AyQmZXU2hRNFVMYzMyN0YwbVd0NkhpQW9aOHVKZWNNMGJkYWNmZ0YzUkpFcklEYUdlVTdaWHhwZkVSOFlxMzV3UlNUR3k1blVUczF0bS1lTExGSDBsQW0zT3lGc09FWHRIaVhxdTFvLW1ESTlxUDNTRXFaLTV4ZEhtOWR5VGlhcg?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces issue stop-work orders for homes and agricultural structures in village south of Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OODMxdHU0LUlnLUpoR0pubUpVemlqbjVMMW5SLUFWOWcycGRqeno3RmtvejdSRE5WZ0xsQmNGUk1Wcmd4UGFqeTVIcXJsT2pxbkJiSzYtYw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "South Al Batinah Summer 2026 forum activities kck off - Times of Oman",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORm96dEJRbXF4VnpZMXkzZzBtS0hLcjZnTkk5NEx3VDBOc2J3cjVLZkFIVG5ZS2R5b3ViTjlsQlRtNi1mYXdjeUtfWWQ3NC1wd1RHTjVYR2tpUnNsdFZPYmxOZ2lnb1kzVnpSalhQOFVzYUxsZHNrUVlsRWFDS09hLVd4c2I1Q2xDYmcycVg1U0poLUVyZkg0?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "prime",
       "count": 3,
       "headlines": [
@@ -1773,26 +1443,26 @@
       ]
     },
     {
-      "term": "summer",
+      "term": "southern",
       "count": 3,
       "headlines": [
         {
-          "title": "Summer 2026 officially starts this Sunday",
-          "url": "https://www.egyptindependent.com/summer-2026-officially-starts-this-sunday/",
-          "source": "Egypt Independent",
+          "title": "Israel PM says troops to stay in south Lebanon 'as long as necessary' - L'Orient Today",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGxBbnhWNEVxUTVHaFRSSGZUOGNfV25uZDZtODlTQzhaY0hzNFhwd3NTaHJJSGVwUzBUd3AyQmZXU2hRNFVMYzMyN0YwbVd0NkhpQW9aOHVKZWNNMGJkYWNmZ0YzUkpFcklEYUdlVTdaWHhwZkVSOFlxMzV3UlNUR3k1blVUczF0bS1lTExGSDBsQW0zT3lGc09FWHRIaVhxdTFvLW1ESTlxUDNTRXFaLTV4ZEhtOWR5VGlhcg?oc=5",
+          "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "Karnak Temples to witness rare solar alignments for summer solstice",
-          "url": "https://www.egyptindependent.com/karnak-temples-to-witness-rare-solar-alignments-for-summer-solstice/",
-          "source": "Egypt Independent",
+          "title": "سورية: 8 انتهاكات للعدو الإسرائيلي على الأقل في الجنوب السوري خلال الـ24 ساعة الماضية منها 3 عمليات توغل",
+          "url": "https://www.almanar.com.lb/article/968037/",
+          "source": "Al Manar",
           "region": "Levant"
         },
         {
-          "title": "South Al Batinah Summer 2026 forum activities kck off - Times of Oman",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORm96dEJRbXF4VnpZMXkzZzBtS0hLcjZnTkk5NEx3VDBOc2J3cjVLZkFIVG5ZS2R5b3ViTjlsQlRtNi1mYXdjeUtfWWQ3NC1wd1RHTjVYR2tpUnNsdFZPYmxOZ2lnb1kzVnpSalhQOFVzYUxsZHNrUVlsRWFDS09hLVd4c2I1Q2xDYmcycVg1U0poLUVyZkg0?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
+          "title": "Israel will not withdraw troops from southern Lebanon ahead of negotiations, official tells 'Post'",
+          "url": "https://www.jpost.com/middle-east/article-900086",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     },
@@ -1821,6 +1491,30 @@
       ]
     },
     {
+      "term": "military",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "روبيو يعرض مناورة إسرائيلية: اطردوا حزب الله من علي الطاهر | لماذا يحاول عون ضم الوفد العسكري إلى الوفد السـياسي؟ - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPZy0tRGRSUmZ6eGZ4ZmEwdy02MlJiVkp4M3pRRl9KOXZhM1k0NlRJSEdUMGVEQ2RPbXhtaDd4LVhxd3ltLXlNcmwwSWt0dzJtNmxtQVBlVG83N1FNT0g1WWNoUExpUEtSQUZMMkdwbUJ5bTJOWEZkWmlFUHFSZzBGdVJtNnZfeFU2dFJpYW9Lb1BlSi15cGNDMHE5M2FZVHFLVFg5VVBwMnNrLTNMdDFlOVlTTzkxZWxDQTNhZDFXc2ZyeW1vWVQ1bjN4d2hMNmVFSzkyR2paU3dfeHA5VjRLcE1uNGFxRFNtYVMzRUFPNEdBUzNLLWpFMXVUTGRhY1pLSWRRUC1rTDhrbE51S1JxZWdVQkFJRjRyRXVKTEtQOW1Zdi1IRnRLZ1VQMlhrQTZZZXV5RVRzajV0MENQUmZJSGlwV1I5ZXR5Z2xielY0T05pTUVNck5DZThTeWdHb2RuMXlCeDFlMnM1aGFJUzFYSnVDY0JTYnhRSTFHTDhhc2N4ZTVXRHJQelZEdjl5Rk1WTC1HWXIwWWlMbFRFaWxQZFhaaGM4TFNReDE5WWtqZ2dWZWhSTmNDOGdvWG5ySWx1VXFwb3RtWGY5a0NIa2J0MlR1elRJTzNCM2tZVEI3TUF0cGlBY2d5T1BjWmo0ZGp4dnpOWEdReU8?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli military says killed two near West Bank settlement - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHdQU3N3QjYwc2Z5cGlfdFNYLVVfT3ZuWWpMRHBSRXJjNXZDcXVyeFdHbExhbG1oYWV2WkNfV3hlQzdISXVyaXk0Q2kxTlpfTHBaY3lsY21fWUd0SUhBeG1QTWRKUjRsQ3dmZGhwcmNOYlJJY3RBS3JnNVRmNFNvd25DeXZ6bG5VdmFQOHM2eGsyb1o0blNPSGlSOWdjYzRBNDdzeNIBtwFBVV95cUxNVnN5amR6WmFNRF82c1Fpa29BaVpsX19TVFFhcGI0ZVpkMHIzYkNsSVlrd0VNcHhwckV1RXpYTXJ0cHBsMXpFbUFqbXFfcU1XYzJDNVRsMXBBSXBPTUZwZ0ZvNXVHTHZDMkxSaUs1ZjY2SWtPVi1HaWdzVVVEQ1NjNnh1Zmw2SWNZQTZVQUpkSnozUklxNlRWY1JLSnNyNTJ4OWhQRkkzOHpzRzdUYVFXVEVNaEdTXzA?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iran protests Trump's language of military threats",
+          "url": "https://en.mehrnews.com/news/245510/Iran-protests-Trump-s-language-of-intimidation",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "colonists",
       "count": 3,
       "headlines": [
@@ -1845,74 +1539,50 @@
       ]
     },
     {
-      "term": "stage",
+      "term": "netanyahu",
       "count": 3,
       "headlines": [
         {
-          "title": "Tadej Pogacar wins the Tour de Suisse in style by taking the final stage - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14ZG1RZEQxcXlBNEtCS3VMQ0V1YkVtQmxWNFVMR29RWDJTdldnYjZJUWdQTDVVdXpCb1pTYmZGWm9iYnZBSnFtdWxMRkVHdzFLbHFN?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "نتنياهو: لن أسمح لإيران بالتسلح النووي ما دمت رئيسا للوزراء - paltoday.ps",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORGJ4ZFdROEFVWWMycWJqSFMwUk91dm51V0dybTg3czE3blRnMnVXYTVsVENYekZGVnhBSVN3eFFaX1JLbGQ0LWlQbjhOcFE3TTZzRW1lbWFKY3JZZkN6MlBwUk1rOHl0M3pFNnh2ZGJwb1hvUUxkTXMtdFJ2SlJjc3JXY05OQUdKcnFNb25XbHRxbGNUelQyWGRoMlI1RERFWTdIS3o4WkFtOXQzb2NuWmlFU3VFekwwSEZDTEhKUnhWRlpIak5ZSklCOGw4S1hBVEpBeF9KSGtKRkdkMGlZZEdyY29FSE40bTNYTmFsMHozVkxTdHpxYlZuWTdweWdMa1ZnV0l6Q3pFRnpocm52ekZKTGRuamdUVnpPb3pZRnM?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         },
         {
-          "title": "Iran, Belgium match in 2026 World Cup ends goalless",
-          "url": "https://en.mehrnews.com/news/245511/Iran-Belgium-match-in-Los-Angelese-stadium-kicks-off",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "We are at stage of defeating Israel project: Hezbollah leader",
-          "url": "https://en.mehrnews.com/news/245509/We-are-a-stage-of-defating-Israeli-project-Hezbollah-leader",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "iran's",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iran war latest: Iran's top negotiator says US should be 'careful' after Trump threats - The National",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUDBMTGVBSl9TNVFPTkFhV0pIUDloLTZScTQxTTZrdG5ndkhmaFkwbjM2Z0VrUnhBaTdUNEhuRFYwWFktSWRtNVc2ekVZWEJsOEM5dlI4Vjd3cGZvY2E5UzlhNm84dl9JTkVGMVpGMFp4akZ5Y1VLaHVpMHBHZVdWRjFCRk00bGVzdUtEeEk0SkpxYnZqVUU1T0J2TGE4cnZpNWxTRWt5bmF4SEhXMkJXMm0xaTZGendLcnVjQzFFeEJsNXZrdnRRamFxZUtUdzQ3QU5CSkFrVEhSbjEtWGtNR25DU2lIYXVOQUlxSW5RNVdVWmhmNlNZ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "fars | Inside Iran's Modern Yarn Manufacturing Industry - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZEx1enN2dTU1UWViY3NheHFDLWh2aFFrOGNIZVNEeHVnT0ZkVnpySHVBLUlyUkU1VnE3dl9TWlJiR3RnQ3pzQjVoU1F6LVBDTjJ6SzJvWFdLd3BqM0hyV0ZxRnJCVVhBVXhfWlpoTmo2aGRselowYmJ1QVU3SktYSUh3ekVPZUtvazFwekxkOXBLNHJNMDBBRA?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran, Belgium match in 2026 World Cup ends goalless",
-          "url": "https://en.mehrnews.com/news/245511/Iran-Belgium-match-in-Los-Angelese-stadium-kicks-off",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "security",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region - Gulf News",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQV2JIMlYyaENwTEQtYUpBVVE5Sm9yUWhtdk5ybzZpWXltS3VYLVBzVnQyUldJZ2ZZVl9xZG5lNmlHNF9YTU9JVDV6cC1pUGpVTTFWWjFlUVd4N2FWbnMyX3RHUlJlQWZNSG05RWFXM1NFc3dNcE1oWDQ2SVlHRXVpQlJVS09nUmZPQjNGQ2M4X1pPdHB4d0dtQVk2QkppYUZHYUZCTG92TlVXSzQteXFNUmEtc0NZa1Zkd296bkx1V3hKQ25UdXEwNndrTXk3aDAyTkc0ZFhwT2cwUkRORnBEazk5aTVfZG1qQWxHSzZ6bmZiUDYzQnRSMlhnTUxBY01VOWYxMUV30gGGAkFVX3lxTFBXYkgyVjJoQ3BMRC1hSkFVUTlKb3JRaG12TnJvNmlZeW1LdVgtUHNWdDJSV0lnZllWX3FkbmU2aUc0X1hNT0lUNXpwLWlQalVNMVZaMWVRV3g3YVZuczJfdEdSUmVBZk1IbTlFYVczU0Vzd01wTWhYNDZJWUdFdWlCUlVLT2dSZk9CM0ZDYzhfWk90cHh3R21BWTZCSmlhRkdhRkJMb3ZOVVdLNC15cU1SYS1zQ1lrVmR3b3puTHVXeEpDblR1cTA2d2tNeTdoMDJORzRkWHBPZzBSRE5GcERrOTlpNV9kbWpBbEdLNnpuZmJQNjNCdFIyWGdNTEFjTVU5ZjExRXc?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "Sharaa rules out Syria intervening in Lebanon after Trump again suggests it fight Hezbollah",
+          "url": "https://www.timesofisrael.com/sharaa-rules-out-syria-intervening-in-lebanon-after-trump-again-suggests-it-fight-hezbollah/",
+          "source": "Times of Israel",
+          "region": "Israel"
         },
         {
           "title": "Netanyahu vows to maintain IDF presence in Lebanon even as issue rocks US-Iran talks",
           "url": "https://www.timesofisrael.com/netanyahu-vows-to-maintain-idf-presence-in-lebanon-even-as-issue-rocks-us-iran-talks/",
           "source": "Times of Israel",
           "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "summit",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Abu Dhabi to host the Forbes Middle East Building the Future Summit 2026 - Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHMxVjVpN01rVldfZXNobGRNVlZIWFN6MjJYWFdVTFJrYjVLLUFsN0RZZHc4MVdWUHhlaHZib3IwcGhRbWM2eW9MTHcwdjlZZ2U4SzRLLU02YUxhakk5amNDUU12bXFyZHg2NnlrdV9yZTlrbzBfSjdUSTNwZW1JTk5NSTFNNGlSc195NXBGLVZFMnFxdEJ2bDBqR3VvRTV1czJDQnF2aTNndENCSlFISHVRa3NqNTVrMUcwWVdYOXbSAdMBQVVfeXFMTjBMMm5wWWt3QnhJdm1XOF9wbFVjSExHNUxBWngydkJ2dGlGMW5SR1RvZFN4RHNTSExIYThwYWcyM25ZalZtT2tWRTBETkJNMmhXbVFsdE04aEpISktVNnRTSkthYkx1NllsVFRpTVJ4a3ptYS01ZzBBSGdZa1BCaUgwcUF3RmYzRjBPd0JOZzFBU0FVVHczOW5QOXZlOS1sWEEyeVR6dU14VS1nZllUOGtMa25JS0lqM0E0WlNQTzNUTkJnUXZaTU1DQncxQ3dza2JPVQ?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
         },
         {
-          "title": "'Kill them first' • 'Kill them first': Netanyahu says Iran war 'changed Israel's security doctrine' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdHotR1FFXzhkZzZ6ZDd3bm5xaVBBYjRwZFFxWlJnTHpQTEFoREdqOVlJM0QxcERkbGVSWUJDVngyTk5xbUpjbU4tbnl2QzJJTUJnLW9IN1YyUEVqT3p3alRmOUFZS0NEdkQ4ajNONWN1bWo4cGRJT1pyUUppRHJQN25ncHBYTkFTZkF6eDhLdFpaSEJUNTFxd213c2hfNEp3Z1lpaHN6eExpTkYzSW9FcGxlVmFDVEFPcENlWjhzQkI4YXBucnRiVGluWWdrR2JMZndXR1BGN3lKWVVNMDAtRUhOZEJxWF8xTHZ5ZXIyRFVNcThlaHp5T3NNenFmUmpYZTRDc0tkMl9yckZJb0hDTlVGeVZ3TXhFLXBVcFJB?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
+          "title": "Wide gulf after Swiss talks begin in the shadow of Trump threats PM hopes Lucerne Summit will be a turning point - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TeHZxYzRBdDRKUzFLQ2FmZG96Mk1KTjZabFZ3NmdldXZiWmc1TVRsR1NOcnVtMVQzeldJTmt6dDRkSDV1ZHJzNE9KR0FNQUxpdGdUaDRreDRsMDVHcVVmYzFlMEY3UXNoVml1aFZJQWZSU2VHdFFZaVBsdw?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "PM hopes Lucerne Summit will be a turning point | Gulf Times - Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZng3czRLS25lUWUzdktJdEh3bXo2V01YNmdjajFkNFVZSkY1RWRXbWdYS3EzVDRPODhPZ3FZaDdUNUxIOUdRcXdLSG8wUjFZVmRWZ0EyeG5vRENzSXFoazl1MHprcTlvMmpGQ096bTYtblRTX0wyUVkxUzcwNWRNUHdhSWVncnFRV2FGcE1uc004bFRINmUzRHJnRdIBoAFBVV95cUxNWGxlekFfaVp5X214QTRSbWFrVEZMZUdzUDBwaFhJMTRTVW14OElqYUJ6VlktSHRxRlRvSmh5SWhsQWRsM21xTWxwZmN2TWdYb1dLWG5FcjJMcWwza3lqb084dXRwUUpNOTlTYmEyb0M1OUU5NXlvTzVvY01fTG5zSWg0VE5QU3ZGekpZRXJYNTJQWlR4d25Gd0xlMGxKQ1pE?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
@@ -1961,6 +1631,168 @@
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFo4NlMybVIyRlVndkV5bUZ2QW5OeUNhd3VBblk1QlMtTDYzLU9veVp3LUZibU5mVnpLWWtsSW1pUUgxUXdZZWpibWhJT2R0elBFc0x3U2VTbGpKcjduaGJzdEV2aUlpaVo3YnF6R2VCNFBCbl9aajVBVGF4VFhhTHdrUjBWMDRHc1ZKVkxkWXdjZGN5Q0R6UTZobGt5WV9yLWRndi15Zk56SXkzY0d0bFNBS3ZHeDgxYlhuaHk1eFpwQTlyOElUYmVIRjRkVDdWWGNLdVFnM0htUQ?oc=5",
           "source": "Haaretz",
           "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "gather",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "tehran",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran sets 2 conditions for returning to talks: report",
+          "url": "https://en.mehrnews.com/news/245512/Iran-sets-2-conditions-for-returning-to-talks-report",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "support",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump questions Nato allies' support during Iran conflict",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-questions-nato-allies-support-during-iran-conflict",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "fans",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "angeles",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
+          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "threatened",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US, Iran set for talks as Lebanon conflict threatens deal - Jordan Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczRWaVF4cjVJemxjVl9mNS1mbWZKQmpDWW9Ka2FtZzZiVlJQWWdZMlMwMUhXVVNST2tidjFmWklPTXBCajZ5bGlNVUhkTm9FYjhab3ZVT0hxMUlXVW5oQU8zcTdURFdJVjBIS3VCd25MU3FxM2NlZzhZSmlKeFVqb1lOS0NndUtvZUFwNEU2R1BrcVNRVmc?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "rhetoric",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Muslims alarmed by Edinburgh attack as far-right rhetoric blamed",
+          "url": "https://www.newarab.com/news/muslims-alarmed-edinburgh-attack-far-right-rhetoric-blamed",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "discussions",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "From Chaplin to Ben-Gurion, Swiss venue of US-Iran talks has a star-studded history",
+          "url": "https://www.timesofisrael.com/from-chaplin-to-ben-gurion-swiss-venue-of-us-iran-talks-has-a-star-studded-history/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "football",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran, Belgium match in 2026 World Cup ends goalless",
+          "url": "https://en.mehrnews.com/news/245511/Iran-Belgium-match-in-Los-Angelese-stadium-kicks-off",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     }
