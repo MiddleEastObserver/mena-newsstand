@@ -1,11 +1,17 @@
 {
-  "updated": "2026-06-22T22:25:43.844256+00:00",
+  "updated": "2026-06-22T22:55:00.766173+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "iran",
-      "count": 10,
+      "count": 14,
       "headlines": [
+        {
+          "title": "IMF warns Middle East instability could have lasting impact on Africa",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-warns-middle-east-instability-could-have-lasting-impact-africa",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Vance says Iran must back commitments with actions, not words",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
@@ -49,6 +55,24 @@
           "region": "Israel"
         },
         {
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Opinion | Opinion • As a Palestinian living in Israel, I'm afraid of the price of a deal with Iran",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYWJKckU2TDZXdkVmVTNWcFdaTFlKRmNEWjVLR21JMlZZZHp1dWRkWmxRNllLUW9ZOUhNaFkyZ2Y5NjhCbTByT0RVRzdCdWVqOE5id0ZDcmdJLWltZHdQMlNmamJ3bFl6VF82c3JmajFVWlU5aUxzYmdfYXlma1Q4Sm82SjhWMUFCZEFYdXN0bmZXQWMzMWZaSUIzMVQxaXA5Rmx5bHdtcGhqSmZhcDU3Zkpfd2RvemlTZkpyRVN1Z2tpTUJuSkZRU3E2QThnLU5CNWp4emNYS09vcnNmWldLWENlSXRsQ2NVczJ5Y0p0bEE2RV9sYmY2dzBKb1gyTm5uWmxpdHZwaG96cmx4ZG9FbS1B?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Iran-US agreement marks political demise of Netanyahu",
+          "url": "https://en.mehrnews.com/news/245544/Iran-US-agreement-marks-political-demise-of-Netanyahu",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
           "title": "Iran to continue diplomatic efforts to boost ties",
           "url": "https://en.mehrnews.com/news/245543/Iran-committed-to-diplomacy-under-international-law",
           "source": "Mehr News",
@@ -69,63 +93,15 @@
       ]
     },
     {
-      "term": "trump",
-      "count": 8,
+      "term": "israeli",
+      "count": 9,
       "headlines": [
         {
-          "title": "US judge blocks Trump administration subpoena against Minnesota officials",
-          "url": "https://www.aljazeera.com/news/2026/6/22/us-judge-blocks-trump-administration-subpoena-against-minnesota-officials?traffic_source=rss",
+          "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
-        {
-          "title": "Trump Says Strait of Hormuz Is Open",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "‘I Will Do What I Have to Do’ if Iran Violates Deal: Trump",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbjhDNGxyMHpHWG5YQl9OeTg5SjBhUkticmpScU1jLWdUVUQ3MDlWUl9LSnNOejViSnNHeG9LYjRTZTRvT08xb0dnQTg5dWgwb3ZqUE1PMjhFWmxpZ1NxS1ZWYndSN1JReVdKaVlBTHhSS0ZPYkp0aDJ1Ql9FUW50a3hCaDhicUpMM0VZMVYzSU9WaG9RTU92UDFWNDlIempSU2dsS3h5V0JFUE04emZv0gG0AUFVX3lxTFBVTlFVZnNtczFKbzU4V0Y4elZhelZWNng2aGVGNkczS2RMa2tUc096X2ctYlh2aFh1M1lEVnlXTU5jSVV0NERUUVYxNU4xakFhcGYwbjd3ZlBHaUk4b2VydC1rWVFkYXNXLTVNd0ROa1Q4QUxSR0NzQVBsb1dVMklSRXZELWJLVU9RVm54ZUhmX3ROaTdld3hoY0YtSEZoT096MXRQX1VJUXR5NDNLWlVFU2dBeA?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs",
-          "url": "https://www.egyptindependent.com/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran shows Trump just how hard making peace will be",
-          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Syrian president says he won't deploy military in Lebanon, in Trump rebuke",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPel9oQWtfRTFMN0piNnNNd2kycDdTVGZVTnFlOTg3NFRjMVVtOE5qTWhGa0h0VlpUS3hERnZlLVhIYl9vamFIQkctOXBVZmRwQ1ZhWFJadUxjT0ptS0g2Q3Z6VWFITHhZb2JtZTlXbGs0MjZiY2tURG5vZ1ktRmMxa0lCYWZGdm5PbFZaZEFVbEt5Y2FPd2t4ejhCYlN3Z0JTWjFGZU1GeWJlVDBwV0dXYlBBR0hMOXUtSXdUN3BIZHdLSlhUMHhaTHhKZkJ4WUxhOEJiV2pzc2N4aVN0Rm1xZUVpX1BXUzVpNEl3SkZVcDQtckM4WW94Y3NEVmM2RktlRW1fQ003bEJmUjJNZVJlZHhR?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Farsnews | Report: Trump ‘Frustrated with Everyone’ from His White House to Congress as His Agenda Stalls - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR0dOZ196LVkzLVpZWUlWUENRZ05EYXNUbmh1dlZtQVJPODNJUUxnaVhsdnpRbGdmdHJ1WVhrMkYxV041SGpZdFJBMnZYdWlJLU1nbVpqWTNuc2V4RXRTM0ludzdpNk1WQ185dWZ0cDRFZVl3YlJFRVF0Y3UzNnlUTWl3cFRKNlEyMmtJWlByN1E0eFdIeUdocDV0a0VoSGw4cFMzU2hFdWlFQkY4QXdrNDdiQ2lyU0stbnFfZ1FMbjVsOUJSc3lkcTRTMjloNnJ3cU9Obk40OVJRUQ?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "israeli",
-      "count": 7,
-      "headlines": [
         {
           "title": "Gaza death toll rises to 73,035 as Israeli attacks continue",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-73035-israeli-attacks-continue",
@@ -133,10 +109,16 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Israel considering announcing “symbolic” withdrawals as part of talks with Lebanon, source says",
-          "url": "https://www.egyptindependent.com/israel-considering-announcing-symbolic-withdrawals-as-part-of-talks-with-lebanon-source-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "فلسطين المحتلة: مراسل الميادين: قصف من مسيرة إسرائيلية على مدينة خان يونس جنوبي قطاع غزة",
+          "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxOSEMzNzBhbTgwVHg2UXpwSGZmNERYTUdJMzRnWmxxSXVMbGhxODMyY19PYjlieGZrVDNzTVRqRDJ2TXVyanRaUDR0b0lBR0tYZzVLNDZEREdTdG03ZlJRblV0Vm9XU1hQUkJrVjhTTWd0NGctZUZ2eEdHemNIYTA1eXdjcVp6WWZmNl8tWExmZldLZ1JqWUpJTHdxMzRUU1RZS1lZcXM0UUpSdkhXUVB1M2YwRkRDcDdTUlYtYnJIOVdTRkhpUXhZc3BoZ2k5UjZzc3RVTmtoWUlnek11YTh2SW5oYUMxa3liNWNPaW5MdTZwbnoxWjNKU0lEWk92TkpPU1VaOUdRUGw3ZDlVQnI5QkJSZmpPTDhyOVBJUmlPaXdGNzZCQWZTUWhkZms1SDBFWkc1OUR1T0FwQlp4dlkzQXZXSHd0b1NGc0lWdnRkdVFxWkxfbzZ2T0w5ZnNrenlacks1NDhrODdYeTFHNzlxRFpSaDg2NlhaZjZYc2Z0Y2o2WGVUOFFTcTBfdWFGamdHMGlxc3QxS1VFZGk0SHhIeHFOSjgzZ0ZPZi1lWnZ4aGxCQTUwSDdZT1JtS2RzMVFsdFIzdFpyUHNoRXd4LUZMdjNqeVJRMm0yNmhrTllINnp6M0lZbEpwNG5xR08xN2N2bDFJ?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "وسائل إعلام إسرائيلية: \"إسرائيل هيوم\": أعمال شغب في \"بيت شيمش\" ومتظاهرون من \"الحريديم\" أشعلوا حاويات نفايات وأغلقوا الطرقات",
+          "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPekxZbVJoSUtCMTczMENnLWxhSDdIZ1JjTTA1ODdUeWQ5Wi1SRmdfempwV2plOEpzUUpEZExuZ3lSU1Z0aTJYTlE5RXV3eVhFN0gwQVdCTEpLVmU2Wm5hSVgzSENsZEI0M1dxNjJLbnFIcl9kTllQcnh4S1RsX3IxWjVfOEw2a2NJRUUzQms1UklhX2hDTGlGNXE3eEdld29nOENsTXVDMUFGR3A3dlJxOHAwcUlHZjZQY3ZCUnYtRjZmY1NSaDRWc2U4QjE1RGtFczF4TnhHSGpIZUQtZDBlRUhyZUtvMTB4OVZNYkowTjVnYmdIZDgwQ2NFUHdNNDl2bU1YdS1ORXRMdjdTRnQ0NXBHd1UwRHM4NEhVM1cydjVsU25ZWlRlTjV2YThPdFpJNlREX0p5czVnVTZBZVRrZ3BBc3JMaXBXbXBvR2sxVURENFpTQmVVMUhzVURCU3MtODE0U25UZ1JDQzNQS09od1k1bWNjXzhsYUpnM1lqX2gwOXVNbGlxN2wxbmExbG9XdzJXMlNaQXpSeGJlZEhOaVVGX3pSbTdaUUZvOHN4OE51czF2b3NUMWluaHN3eHlteWpxUjZIVG00eC1leGRwcTNOZ0d1NExDMTFNNkczUQ?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
         },
         {
           "title": "Colonists damage property in Masafer Yatta, Israeli forces detain two brothers - WAFA Agency",
@@ -172,7 +154,7 @@
     },
     {
       "term": "iranian",
-      "count": 6,
+      "count": 8,
       "headlines": [
         {
           "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
@@ -205,21 +187,45 @@
           "region": "Iran"
         },
         {
+          "title": "Iran to continue diplomatic efforts to boost ties",
+          "url": "https://en.mehrnews.com/news/245543/Iran-committed-to-diplomacy-under-international-law",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
           "title": "Hormuz to be administred by Iran with Iranian arrangements",
           "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Source rejects Vance's claim on IAEA inspectors return",
+          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
           "source": "Mehr News",
           "region": "Iran"
         }
       ]
     },
     {
-      "term": "lebanon",
-      "count": 5,
+      "term": "trump",
+      "count": 8,
       "headlines": [
         {
-          "title": "With Fahd al-Doussari, Saudi Arabia seeks to regain the initiative in Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGZXOGI0MGJUZlBMakI2Vmh6QXhteW9XQ25XbVBFQ2xrMEpxREZPUFRUUGJqbUg5MWdkdzBuV2tIWnNDVUxuNFNJSVp0QzFvaVdpdDdkY3R6V3ZkYTh6eXRkSFdGYnVPNzJyVWVlT0JMQVlrS1BrNkNsUXdMNlE5d19OQ0J0djkwMVlBUmZ6TTNiZk03MEVGdmJwTFN5WU5HQ3BQcVpWOExFZ2dLRDJIck5zb0dQbDBNZk52aVFwcTh0MkdST3lOOA?oc=5",
-          "source": "L'Orient Today",
+          "title": "Trump Says Strait of Hormuz Is Open",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "‘I Will Do What I Have to Do’ if Iran Violates Deal: Trump",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbjhDNGxyMHpHWG5YQl9OeTg5SjBhUkticmpScU1jLWdUVUQ3MDlWUl9LSnNOejViSnNHeG9LYjRTZTRvT08xb0dnQTg5dWgwb3ZqUE1PMjhFWmxpZ1NxS1ZWYndSN1JReVdKaVlBTHhSS0ZPYkp0aDJ1Ql9FUW50a3hCaDhicUpMM0VZMVYzSU9WaG9RTU92UDFWNDlIempSU2dsS3h5V0JFUE04emZv0gG0AUFVX3lxTFBVTlFVZnNtczFKbzU4V0Y4elZhelZWNng2aGVGNkczS2RMa2tUc096X2ctYlh2aFh1M1lEVnlXTU5jSVV0NERUUVYxNU4xakFhcGYwbjd3ZlBHaUk4b2VydC1rWVFkYXNXLTVNd0ROa1Q4QUxSR0NzQVBsb1dVMklSRXZELWJLVU9RVm54ZUhmX3ROaTdld3hoY0YtSEZoT096MXRQX1VJUXR5NDNLWlVFU2dBeA?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs",
+          "url": "https://www.egyptindependent.com/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
@@ -229,8 +235,56 @@
           "region": "Levant"
         },
         {
-          "title": "Israel, Lebanon to meet in Washington to discuss normalization, Hezbollah disarmament",
-          "url": "https://www.jpost.com/israel-news/article-900186",
+          "title": "Iran shows Trump just how hard making peace will be",
+          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Farsnews | Report: Trump ‘Frustrated with Everyone’ from His White House to Congress as His Agenda Stalls - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR0dOZ196LVkzLVpZWUlWUENRZ05EYXNUbmh1dlZtQVJPODNJUUxnaVhsdnpRbGdmdHJ1WVhrMkYxV041SGpZdFJBMnZYdWlJLU1nbVpqWTNuc2V4RXRTM0ludzdpNk1WQ185dWZ0cDRFZVl3YlJFRVF0Y3UzNnlUTWl3cFRKNlEyMmtJWlByN1E0eFdIeUdocDV0a0VoSGw4cFMzU2hFdWlFQkY4QXdrNDdiQ2lyU0stbnFfZ1FMbjVsOUJSc3lkcTRTMjloNnJ3cU9Obk40OVJRUQ?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        },
+        {
+          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "stated",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "US House committee reaches bipartisan deal on social media rules for kids",
+          "url": "https://www.aljazeera.com/economy/2026/6/22/us-house-committee-reaches-bipartisan-deal-on-social-media-rules-for-kids?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance says Iran must back commitments with actions, not words",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump Says Strait of Hormuz Is Open",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran agreed to nuclear material inspection during Switzerland talks, Vance says",
+          "url": "https://www.jpost.com/international/article-900187",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
@@ -241,52 +295,70 @@
           "region": "Israel"
         },
         {
-          "title": "Syrian president says he won't deploy military in Lebanon, in Trump rebuke",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPel9oQWtfRTFMN0piNnNNd2kycDdTVGZVTnFlOTg3NFRjMVVtOE5qTWhGa0h0VlpUS3hERnZlLVhIYl9vamFIQkctOXBVZmRwQ1ZhWFJadUxjT0ptS0g2Q3Z6VWFITHhZb2JtZTlXbGs0MjZiY2tURG5vZ1ktRmMxa0lCYWZGdm5PbFZaZEFVbEt5Y2FPd2t4ejhCYlN3Z0JTWjFGZU1GeWJlVDBwV0dXYlBBR0hMOXUtSXdUN3BIZHdLSlhUMHhaTHhKZkJ4WUxhOEJiV2pzc2N4aVN0Rm1xZUVpX1BXUzVpNEl3SkZVcDQtckM4WW94Y3NEVmM2RktlRW1fQ003bEJmUjJNZVJlZHhR?oc=5",
+          "title": "Iran-US agreement marks political demise of Netanyahu",
+          "url": "https://en.mehrnews.com/news/245544/Iran-US-agreement-marks-political-demise-of-Netanyahu",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Hormuz to be administred by Iran with Iranian arrangements",
+          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "article",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
+          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "A strategic Ankara-Damascus-Beirut axis against Tel Aviv?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0I2YmNUMjY3eTBYUVNReVBCU25rZzJQd2FjYUdVU0E3cjZkQ3pxMGFKc3N0RUJiY1FRcm8xYVNwS3U4dGFySVlMOXh5ZTJnR3R1dHpSVS1CQml3VnN4RE5GWkFFRTVYdVJHcUZkMFVNUVZLc3RXUDB1NnV4cU1PbVZtS2ZiX3RFdlM5VjlXQjBjYndxQXJvYnRfNFBmVzE0SlZjRy1YRGpybDk0M1E?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Why are we ashamed of the Egyptian dialect?",
+          "url": "https://www.egyptindependent.com/why-are-we-ashamed-of-the-egyptian-dialect/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "How long is a weather delay at the World Cup?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM2hBNlZYV2hQQmtxSUdTblhQS01QZlpLM3pGaHptRFFDbkJwNG9OWVVxUm5GTmptMlU5MXBINmRkZjdPLTRQbVVsWmJKNFlEeHczVTEteFNtS29xWEJURG1FNDdtN3RzRlNrWWh2a3cxVGROOG5ocjhWZ0ctR1VlT2cyX0RDMzVwellsN3hCQzdCZw?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Tata Electronics breach: How serious is the alleged Apple, Tesla data leak?",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmotSE1fc2FSUUxGSi1hTzJ4VWVrTlRhQ2o0Q1dYQ0dybjV6ZUJncng1RW9QaFRUOHU4Z3BCdXZXTXFoeDV2ZUlHUV84aGUxTFlkeUU3WHhMcmwzX2tpLWk0ajA4eFdRS1djd1lUU3hSay1IUmNubHRPeEN3ZG9kTTRBV0t6RWE2U0VfZkh3NlJhZXBZSzZWMlJ4NjRGWWIzSjdJaGxjRDlwSVgwOUhDOWFPZW56SXg1RVNYTDhKSU44eTVPQmRR0gHHAUFVX3lxTFBaai1ITV9zYVJRTEZKLWFPMnhVZWtOVGFDajRDV1hDR3JuNXplQmdyeDVFb1BoVFQ4dThncEJ1dldNcWh4NXZlSUdRXzhoZTFMWWR5RTdYeExybDNfa2ktaTRqMDh4V1FLV2N3WVRTeFJrLUhSY25sdE94Q3dkb2RNNEFXS3pFYTZTRV9mSHc2UmFlcFlLNlYyUng2NEZZYjNKN0lobGNEOXBJWDA5SEM5YU9lbnpJeDVFU1hMOEpJTjh5NU9CZFE?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "The men who refused to be beaten",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tcGFHeXZua0pnOEgtY0JmWU1PZGlvRi04bjdCbmFLcER1VUdBMGhyLWxOVHpIM0Nsa1ZuUEpmOGdlYzUyVnowQ1hibVBIOHZQZ1VEVWRaVHZJQjZIZklrVS01U1p3SWVETmduNkVsR1U2dEwtQWpINm0zdw?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "Forget About Doomscrolling. It's Daydreaming That Will Ruin Your Life",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUXp0cWRQYjFhYVdjbmR0MDlXT2JHY1lGOVBxX2FDOXZaWkNOQld6NHNTSzJrZEFFcU5zOFRhdHVheTh5dUJhVnQ4dDZVcDVldWpWYlVpd0dGUUZHTHlvbVVKQW1tNlNVWC1nZG5ySzJXd25fUkFzcl9NMTVYTDNjNXcwcWgxQWFUUlpsNG92SlRlNmxOYS01VER5SVVMU3FRc3BFam9hcWtScjFISTJFWVZsWXdTZmxLRU5UNDNSRmV1SW5NcEs3YnhxamNVVGZNU0JIQjhBeHFiU0hWSWJTQ3FiVHhDUUl1R1ppQ3pmeUs2cnpmd1RfMXpVcWNkako1UW1z?oc=5",
           "source": "Haaretz",
           "region": "Israel"
         }
       ]
     },
     {
-      "term": "leading",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs",
-          "url": "https://www.egyptindependent.com/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "ميسي يقود الأرجنتين لتجاوز النمسا ويصبح الهداف التاريخي لكأس العالم - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQU2IwcWdGQVBSUEwyUlBPdktIdnltdVFTRTRmUEJTQjdfU1NGNVM0NHZTZDhrT085dnVBUnZWVkF0WGI2NGduaWY3SXZoOVdxeHJHNnVlSnc4TmlGcTdtNW4wOF9hUkp2SjdMWnJmODRPQk1XRkJNWnFpQ19WWW0yNlQyX3Q3bU00eThfdlFlaWhSVDM2Nnp6T2hCejlQTDMxVzQzZHhWbFBsR3IzaUZJb2ppV1Blbm04TTE2N240YlpCTjdaYkQybnFFOFNTNkxLUmNkOFRoQnZKVkVPMWc5WGxMZ2RLWlFwNFpTelh3UC1SZ29ibkpFU1JXLV90U0p0V2FTa1pSWWNMeTVSRXNCbjU0NVp4d2xoVkxmWEVoOWZNcmQtcmp4c3ZsMjlfRnd5eVpRMGRtQUVWREUtY3RTVURrOTBrWWxPNVVfbGJQWWlyS2FENkFjZ1drMHNvcTlIeHZwdUtjTDdYOFpwWW5XQjNsckhndmdkdHRhYlVweE9hSkVKcEhxQ2NzMXdYNC1ER2lOdlhnYk9nNVl3dzd0RGpsRXJOeTZXQkc5Q3RkWmpkZDVpUUY4bTg2dHNMSVRRMnZiWllBNk1kUDd1Q0NBVG41THRGWGlveXctY3Fmem1MNUprcUU5VDJoXy1oa2xPVFh3V3dGV2x5aGRoWUNUMlE2QQ?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Beit Shemesh protesters block roads, damage property, as police seek to reestablish order",
-          "url": "https://www.jpost.com/israel-news/article-900188",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Israel, Lebanon to meet in Washington to discuss normalization, Hezbollah disarmament",
-          "url": "https://www.jpost.com/israel-news/article-900186",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "US feds open probe into alleged antisemitism at leading teacher union",
-          "url": "https://www.timesofisrael.com/us-feds-open-probe-into-alleged-antisemitism-at-leading-teacher-union/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "gaza",
-      "count": 4,
+      "count": 6,
       "headlines": [
         {
           "title": "Gaza death toll rises to 73,035 as Israeli attacks continue",
@@ -307,6 +379,18 @@
           "region": "Pan-Arab"
         },
         {
+          "title": "فلسطين المحتلة: مراسل الميادين: قصف من مسيرة إسرائيلية على مدينة خان يونس جنوبي قطاع غزة",
+          "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxOSEMzNzBhbTgwVHg2UXpwSGZmNERYTUdJMzRnWmxxSXVMbGhxODMyY19PYjlieGZrVDNzTVRqRDJ2TXVyanRaUDR0b0lBR0tYZzVLNDZEREdTdG03ZlJRblV0Vm9XU1hQUkJrVjhTTWd0NGctZUZ2eEdHemNIYTA1eXdjcVp6WWZmNl8tWExmZldLZ1JqWUpJTHdxMzRUU1RZS1lZcXM0UUpSdkhXUVB1M2YwRkRDcDdTUlYtYnJIOVdTRkhpUXhZc3BoZ2k5UjZzc3RVTmtoWUlnek11YTh2SW5oYUMxa3liNWNPaW5MdTZwbnoxWjNKU0lEWk92TkpPU1VaOUdRUGw3ZDlVQnI5QkJSZmpPTDhyOVBJUmlPaXdGNzZCQWZTUWhkZms1SDBFWkc1OUR1T0FwQlp4dlkzQXZXSHd0b1NGc0lWdnRkdVFxWkxfbzZ2T0w5ZnNrenlacks1NDhrODdYeTFHNzlxRFpSaDg2NlhaZjZYc2Z0Y2o2WGVUOFFTcTBfdWFGamdHMGlxc3QxS1VFZGk0SHhIeHFOSjgzZ0ZPZi1lWnZ4aGxCQTUwSDdZT1JtS2RzMVFsdFIzdFpyUHNoRXd4LUZMdjNqeVJRMm0yNmhrTllINnp6M0lZbEpwNG5xR08xN2N2bDFJ?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "الاحتلال يفرج عن 7 معتقلين من قطاع غزة عبر الصليب الأحمر",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNemNuemZHd3oxOFJJb0tTcUxDQjNOQWlQazlzSGZRRG1hVVdMTGlfNUdRQ0xqYUFwWmZJVXhueVRvYlJFZHRONlpBYlViUU4yaGEtLXpIUzczTm9zaTNob3Q3aWJvOWxOWHRYZDJGVFo2WjBlXzR5RnlhSkt6a0Zxc25SZ2dSU1cxSGo3Z21nTC15b3htWllFVjB1WnRCRFd1NFFwMGRPOFVqNExzZTdDZUQ5ckpreFBKbXVheUtOTGVZc19KY1hGXzdZZU9UYmJQakJiWWlncWw2bEtaT1YydHp0N0x4ODJzdmc2WXQ3YXVtUlZPeUx2WDNFa0txVDEtODB0NG9oeWVnbTQ?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
           "title": "Teenage girl on the way to a high school in Gaza killed in Israeli strike, relatives say",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rb21wZ1diNEQ3MTU5SEJLRzEyQVUxN19EWm11VGl4R1ZBTktmQmxpSFM3eW8tazlaWk9ITktobDhHWXBVNVQ3VVBvOG1nMU02ZUo0?oc=5",
           "source": "Arab News",
@@ -315,13 +399,151 @@
       ]
     },
     {
-      "term": "attacks",
+      "term": "police",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "كندا | إطلاق نار في مونتريال يسفر عن ثلاثة قتلى بينهم المشتبه به",
+          "url": "https://www.almanar.com.lb/article/970672/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Beit Shemesh protesters block roads, damage property, as police seek to reestablish order",
+          "url": "https://www.jpost.com/israel-news/article-900188",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Haredi parties continue to boycott coalition voting over Torah Study bill",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900189",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
+          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "switzerland",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "US suspends Iran sanctions after 'good progress' in talks",
+          "url": "https://www.middleeasteye.net/news/us-suspends-iran-sanctions-after-talks-make-good-progress",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iranian-negotiators-remain-switzerland-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran shows Trump just how hard making peace will be",
+          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran agreed to nuclear material inspection during Switzerland talks, Vance says",
+          "url": "https://www.jpost.com/international/article-900187",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Source rejects Vance's claim on IAEA inspectors return",
+          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "hormuz",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Trump Says Strait of Hormuz Is Open",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Open or closed? What the Hormuz shipping data actually shows",
+          "url": "https://www.newarab.com/news/open-or-closed-what-hormuz-shipping-data-actually-shows",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Hormuz to be administred by Iran with Iranian arrangements",
+          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Rubio heads to region to address Iran MoU, Hormuz",
+          "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "agreement",
       "count": 4,
       "headlines": [
         {
-          "title": "Gaza death toll rises to 73,035 as Israeli attacks continue",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-73035-israeli-attacks-continue",
+          "title": "US House committee reaches bipartisan deal on social media rules for kids",
+          "url": "https://www.aljazeera.com/economy/2026/6/22/us-house-committee-reaches-bipartisan-deal-on-social-media-rules-for-kids?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iranian-negotiators-remain-switzerland-talks",
           "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Iran-US agreement marks political demise of Netanyahu",
+          "url": "https://en.mehrnews.com/news/245544/Iran-US-agreement-marks-political-demise-of-Netanyahu",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "genocide",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
@@ -331,16 +553,76 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Man charged with terrorism-related 'anti-Muslim attacks' in Edinburgh",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYm9ZX1NoYTZDSWpWQnU4ZzF2bUtMb1k2ME5aYnBmQVBwalRxeEVmalNndUpwZXdlTDlrVmZmdHpFbTlUYTVTX0JxWExwV3Q0bFdsaXlyd1d2MExuMWJabE1WdmR1WXV5cVR3TzlSWjUzZGRvMDVhZXZyU2FfWkRPemJ0N3hnVTNOd25ybEp3Ym85eFhGb2ljYjZSMjVudF9MTEE0THp6VVhQM2tBVndYdjhHYUtTMS1ncXFR?oc=5",
-          "source": "The National",
-          "region": "Gulf"
+          "title": "NYC coffee shop bars Jewish congressman: ‘We don’t serve genocide enablers’",
+          "url": "https://www.timesofisrael.com/nyc-coffee-shop-bars-jewish-congressman-we-dont-serve-genocide-enablers/",
+          "source": "Times of Israel",
+          "region": "Israel"
         },
         {
-          "title": "AI increasingly deployed to mount cyber attacks - and defences",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2U0TTM2X0FkY2xSYWNqSzU4TkRuY2ppYWdZbHYwVFZPd05GdmVzN0dBTXRQWWU5WmV2M0NURmQzS2Z0UmQ3X0JJbkdhMFVrSHBDSEYyVU92eHEzQm5CUjNoalgwQU9mRHVkaFhXLWhqdmFvZEwwT3VHcGk3dS11N2hHUk42c2VPTElVVHRWSkM3c041QlQxeVUtODVaM2hB?oc=5",
-          "source": "The National",
-          "region": "Gulf"
+          "title": "'To Me, Israeli Artists Who Don't Speak About the Genocide Are Collaborating With It'",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcktPN0hsaEhCYTg4VkJIRjB3UDROcWRMNE9GT01VcG84Y3FCMERnT1hIYmxyQWVyLTQyM05FX3A3STlyczk2eGFZbTBWUURxeTZuaUFWd2VJZFFmVWRJZWxUbVdaODlfYVVhMTBGUjEyVlRSaVdhT2dCa2lBNWI0ZWRyN1hYNEk0WEFwVlFveEFsbU9uaWluRzctMnZqQVlCT3VLd1dMcURCXzNjV1c0YVhYYXVTSDJHNWxTaWcxdWpIQlN1OWhfWkhjNFFsbnQ1TnBmSlBMOGt2MjlZNnh3SnFaY2hwOXBCSnkxRW1ZcWhQWFFnbi1kVUtWUGlEM3BUQzExWEFQVmQ2bGVLVEE?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "vance",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Vance says Iran must back commitments with actions, not words",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iranian-negotiators-remain-switzerland-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran agreed to nuclear material inspection during Switzerland talks, Vance says",
+          "url": "https://www.jpost.com/international/article-900187",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Source rejects Vance's claim on IAEA inspectors return",
+          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "significant",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Vance says Iran must back commitments with actions, not words",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "How Assad-era trials will test Syria's transition",
+          "url": "https://www.newarab.com/news/how-assad-era-trials-will-test-syrias-transition",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran shows Trump just how hard making peace will be",
+          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran-US agreement marks political demise of Netanyahu",
+          "url": "https://en.mehrnews.com/news/245544/Iran-US-agreement-marks-political-demise-of-Netanyahu",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -375,7 +657,37 @@
       ]
     },
     {
-      "term": "hormuz",
+      "term": "following",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "US suspends Iran sanctions after 'good progress' in talks",
+          "url": "https://www.middleeasteye.net/news/us-suspends-iran-sanctions-after-talks-make-good-progress",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Jordan voices solidarity with Qatar following gas blast",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnBwRl9jcFNwWU9wYzhHUEdsc0NyVTYwcjMtbE5GV3QxcU40Q2JSTkhoc0JtbTR5NTNSUlZydWVnOFNmUWpBd3RKZzlSZzF6ZGdUUDZKcmNfOF9jNzJxZ05TT1BOdmI5b0tudVFtTXRiNEZIS2lOUGlLeVhYRk1zR2xrb2E2aDJMM1ZSYnBjRFh2ZGhw?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "National project launched to memorialize slain Palestinian children, following \"Their Names Are Not Numbers\" campaign - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yY0VpcGxUUGdkZVNVQW5zeFZIZHBOUzBHOEhwUVhjd0VrNVhReF9sWGFlN2lLSTJ0UVdMRHF5WlFHMUZWVERqeTd6a0Y4cGRRSzNzcE9QTQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "US feds open probe into alleged antisemitism at leading teacher union",
+          "url": "https://www.timesofisrael.com/us-feds-open-probe-into-alleged-antisemitism-at-leading-teacher-union/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "strait",
       "count": 4,
       "headlines": [
         {
@@ -391,21 +703,21 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Hormuz to be administred by Iran with Iranian arrangements",
-          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
         },
         {
-          "title": "Rubio heads to region to address Iran MoU, Hormuz",
-          "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
+          "title": "Hormuz to be administred by Iran with Iranian arrangements",
+          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
           "source": "Mehr News",
           "region": "Iran"
         }
       ]
     },
     {
-      "term": "article",
+      "term": "support",
       "count": 4,
       "headlines": [
         {
@@ -415,22 +727,82 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran shows Trump just how hard making peace will be",
-          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
+          "title": "رويترز: انشقاقات \"الدعم السريع\" تثير جدلاً في السودان بعد استيعاب قادة بارزين بالجيش",
+          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOUnNvanNnV0ZkNnBxUWRCdmx0Y01kUWlhUTBPc1FNY0xxR0VYdFlydE45cm53bUdpb0xIYlk0amt0NU52NGJTV28zX3VZVVZCdVlLTUFVSnczd2NVNjk5amU3QjZDU1BZRG1CRGtHQ21pdTRQeTAzTm5YMzZiOG1EOHpCZUhIUjlDTW9PLVlPNzQ1X2sxOVNCTXc5LVRfZHJQeC03ZE5OZFBPcGlrOHhrM0ZIdnY3UXpYREp6dXhwNko0Z25OV0JZTmtIZ19GTWwteXFVbTlLeDFRM3BXbk1jRWdsWGFJSEY4YWllSnczcm5FWjJhWkxNMlZ3MzI1a29fSjlXX05YTHUwUWRvQjFGMFhmN1Y5WTdFZTJhazJydHJ1Q2swWllnSXpZbnJPOE9RUkNwbmR6OUZBMXBkMTFpNlJabmNSUTFubnl6bE4zcEVLakc2cnNnaTRldm1fM0szamR5M2loWUs3TjZnS2pLb2ZfVEV1SXZfa1ZMQW9MUGZES3BCMjRIUTBUNkZfNUlVNE5OWnRKX0xPNV93LUROSTNvNTVLUHd3dk1PZUhfakNuVXYteVB0YWZWWU1xMUZRbEdORGxOWE9sbWRyYWstZGlzR0VnRUdGNlZJZFVhOV9oRlXSAecDQVVfeXFMUHV4ZmxZMFFycDItd2VyRTBKRzVPa2dtZ0VUYXN2Y0ZTZWJ3QWMtaVlNZlZpUnNEZmRHSUZqQlpESUhsdXhoR3ljOTF6SGVuM2VtMkxVLWI3Qzg2X0ZLVmdpWmlvMjBRMWlmMXpkdzE0TU5PenozeXlxQTJiMzBfckJONFhBUHhNMmdfTThOWTFxakZDdXBIUEVTUnVMc0ZCa1h3ZE5OOVJmSFRGZkxtdlhsUHFNQzJsaEFwN0w3QVZCSFRtX0htcFdSd1o4bWNyOE5UT3JlWWFqTGJvSzY4cXcyNEM0el91aS1lbldRekFJOGFjQVVwTFZwYVlhTEVEZG9NSXp0akdIbENraVNubDRGblJ4MTNtcnRuOU1FYjRMWkx4V3phMUFsWmtGeUhudGtXa2tnaWRXbWFnbHhVVUtCal9sQmtwaWF3M1U4N1BvcWlVM1d0dEdpeGxvVFdPOW1MSjMtUXRicnJRMlgwa1N1S0hFclBUa25Zd0prZ29SbjFwMW1fNlFkZmFnUXJ2OW80NGwtUFNzWUtRbktpLTZwWW41QW42VnNhSGpaeHZTb0pubHNHWVBpd0dEZldGV19lTEdqbnREcHQ4NjhwNDFJZWpTY1RJS0phWUMxdTgwOW1EMTBPbw?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Crown Prince reaffirms support for national team ahead of Algeria match",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjc1TEJPc1dJcHJNcHd0dHU1UXNjS2lmVGxkd0JBak1Cd3ZtQ0F0Nk1lc0t2eEEtTnBHRjRDMEE5d2xjSXdGSW93aUJhSzlnT3hscGtDTUp3X2xpRnFydG5scHRuckRkelU1NVhPN0dEX3lJTjRIOHRXYm1kTVlKamVpWUMzemVYbjZJV0J3TVB6YmF6RjVXSXdrUjNpaVFhVTgwaEtpTTZ4QQ?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Abu Dhabi healthcare group Burjeel launches $1.5b funding plan as it targets expansion",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb3pMaGVoQ0VFS05SMVlJOWowWE82bHg1WXZNVkN2aEpaS25DMzBtVVpOYk9FWFZJaVdnQi1TQXFRWlEzR3VaOTRzTW9JRVM0ekd3Z21nMmNHOFJhVjhseHJabUJDaXN4aGZWRFF0dzEydXktTE05TEpicEh0YUw4b3hZMXNCdGFFWllRbllMTnVkYmJmb210NU5UdkNwNGtBR2NkOUszbGlQSjRfQkxTTkhLblplb2gtWE40amZ6Q3pPaWNJNW5Gb0ZLeHdUZ2pfNkVsWdIB1AFBVV95cUxPb3pMaGVoQ0VFS05SMVlJOWowWE82bHg1WXZNVkN2aEpaS25DMzBtVVpOYk9FWFZJaVdnQi1TQXFRWlEzR3VaOTRzTW9JRVM0ekd3Z21nMmNHOFJhVjhseHJabUJDaXN4aGZWRFF0dzEydXktTE05TEpicEh0YUw4b3hZMXNCdGFFWllRbllMTnVkYmJmb210NU5UdkNwNGtBR2NkOUszbGlQSjRfQkxTTkhLblplb2gtWE40amZ6Q3pPaWNJNW5Gb0ZLeHdUZ2pfNkVsWQ?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "qatar",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Jordan voices solidarity with Qatar following gas blast",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnBwRl9jcFNwWU9wYzhHUEdsc0NyVTYwcjMtbE5GV3QxcU40Q2JSTkhoc0JtbTR5NTNSUlZydWVnOFNmUWpBd3RKZzlSZzF6ZGdUUDZKcmNfOF9jNzJxZ05TT1BOdmI5b0tudVFtTXRiNEZIS2lOUGlLeVhYRk1zR2xrb2E2aDJMM1ZSYnBjRFh2ZGhw?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Qatar mourns 13 lives lost in Ras Laffan explosion",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aX1JYWDZaR3BoZzlza0RIcjJrbWVwVUQxR2dCbVVJT0F0TmNTTTU1UTZDelBEbG5aRGhBQ2s4TWlyaGJHMzF2QWRSUFloLXJ6VGVmVVQ4NUJocGZ2TDNYbW13S1VzMTF6dzE5VlVndTZ3QVFsRlNUWk4tSQ?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Qatar attends GCC FMs’ meeting in Amman",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSS1BUjF5OUIxQlFnN3FyQXRLZ2ptYkFkV2xsN3FuM3Rvb1h0M3Q0QTRwU3JONXhsdXlWOE1vb1FzaHVSemM4RUdBQkJMaHU3SlNNY3RDZ2xaMkZQa0hyZVVkV0NHd0xYYWtYRERIcU9qS1lLczAzUHJqanlWcTRCZF9mNTROeDN1cEplVUdFONIBlAFBVV95cUxNZGVJaThRbFVzM2tlSDNjY29qc0J6S055LW53bHk3V05LVkxtTUEyMGp3dmNCUDhjOGI4S1hrZzVBTzVFbnRIOFVabTUzWFNMbzc2eVBfQjl1N3pOM3Zkd0UzLUhJaXdoYm9rRXRVMjJ2aG44LUxJWWNtV3pvaEt0ckxUNEhOSm9fWDlXTHhRSF8zdjUw?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "part",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Forced displacement: Beirut Municipality removes uninhabited tents near Summerland and in Biel",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOazB1bDJ0TlVkM0V0MmhpdFZiVGc0YnUtdE11SnhEa2E5Q1VENEloZkJPemNPVWxKS2hsWHkwRE5QV3prYVFZdWE1SVN6M1lxMDdsbV9EajlzemlhMHNFU2dJZTdZWlhxWExkcVQ4d1ZCcjhLYXZOMkR1OGxMX0E5eDhZT3FiU1FLTVFpeDJOZWtleXFPejhsVkZnWVZBM3hXVG8yVmpiaHUzaEl2X3kxZFh4TTl0RW1uNGRaUDJTZkNzMF9WOGhSRHZFeTdlQW1nTkdnamlfS3FHajF2REFz?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel considering announcing “symbolic” withdrawals as part of talks with Lebanon, source says",
+          "url": "https://www.egyptindependent.com/israel-considering-announcing-symbolic-withdrawals-as-part-of-talks-with-lebanon-source-says/",
           "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Why are we ashamed of the Egyptian dialect?",
-          "url": "https://www.egyptindependent.com/why-are-we-ashamed-of-the-egyptian-dialect/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Egypt detains hundreds near the Sudan border in a crackdown on illegal gold mining",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JUzFwU0YtRFFUeVJPbTBCa3ppSVpfMjYwX0UzTnFUS1ZjQXI1VEttTW94N1BoMFVwX0VMX25uTHBrRF9hZVFfN2R2NTNmU3lGMFBF?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         },
         {
-          "title": "10 أطعمة مرطبة... ماذا يمكنك أن تأكل للحفاظ على سوائل جسمك؟ - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPUGdSdWZfZ3RMME5MM0dTZHpVQ2lBWjVacEZVaXpZVGhYdjBKd2xUbXM0TDlTQTczblF5dzdycW80b050d0hWRWhpUXluU1BtYXZLQUNlOF96eFlTaUF3YkhkMXBZUHF0QjVYOXpsdmtOQU1pamRWcmJaVWlrWWptTEQ0QnhoWFNCYmd1NVFBNTVUcVI1SzlHSDA5MjJCVnBZUXVTTmtSeE5jeHE5MXc2SzlWU004UGRjSUlDS28wc1FadF9UeTlLbEJ6WFpiam5ySjFSa1k0UllHUTVMQUE1ZGpnRXNKQlhfLVZXV2lBbWNqbWtqaG5sNmwzRU9NLUhOSmlMd1RFYVRsVzdIUDVSbDNLVm8wRmFpTnBOMUZPeXJSelg4azFicjBNR21pNmprdUZYWXhJZFJUYXFicE05Q19Mdm1tbThIRjFLLXp1YjNDdkJFYW9kUmtYNDFlVXI1clBBYVFSVHhGQ0RjaU04SDFMLUlQTVZJNlBISEQycVFiVDE3MWdOMGhvYnoxRllBWXZ3cE5ueGs2UjI0V3RNUHJWLW1JOWFjRC1XVGJva085SENmeGFyM2JyVnhTLVZEeUFIWQ?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
+          "title": "Source rejects Vance's claim on IAEA inspectors return",
+          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -465,13 +837,19 @@
       ]
     },
     {
-      "term": "military",
+      "term": "lebanon",
       "count": 4,
       "headlines": [
         {
-          "title": "Meeting in Tubas warns of geographic reshaping of Jordan Valley by colonial activity, separation wall, and military roads - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWb09kLXhZQWpZeGxYeGplZk5ocUtZeXBEN3EzQUZ2MWgtalI1cTNZQmpFeHJyMVhzT2hXTFhuSElPZzRvZUphWVVQR3NST19uVWFqMFFJNA?oc=5",
-          "source": "WAFA News",
+          "title": "With Fahd al-Doussari, Saudi Arabia seeks to regain the initiative in Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGZXOGI0MGJUZlBMakI2Vmh6QXhteW9XQ25XbVBFQ2xrMEpxREZPUFRUUGJqbUg5MWdkdzBuV2tIWnNDVUxuNFNJSVp0QzFvaVdpdDdkY3R6V3ZkYTh6eXRkSFdGYnVPNzJyVWVlT0JMQVlrS1BrNkNsUXdMNlE5d19OQ0J0djkwMVlBUmZ6TTNiZk03MEVGdmJwTFN5WU5HQ3BQcVpWOExFZ2dLRDJIck5zb0dQbDBNZk52aVFwcTh0MkdST3lOOA?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel considering announcing “symbolic” withdrawals as part of talks with Lebanon, source says",
+          "url": "https://www.egyptindependent.com/israel-considering-announcing-symbolic-withdrawals-as-part-of-talks-with-lebanon-source-says/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
@@ -481,21 +859,189 @@
           "region": "Israel"
         },
         {
-          "title": "Syrian president says he won't deploy military in Lebanon, in Trump rebuke",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPel9oQWtfRTFMN0piNnNNd2kycDdTVGZVTnFlOTg3NFRjMVVtOE5qTWhGa0h0VlpUS3hERnZlLVhIYl9vamFIQkctOXBVZmRwQ1ZhWFJadUxjT0ptS0g2Q3Z6VWFITHhZb2JtZTlXbGs0MjZiY2tURG5vZ1ktRmMxa0lCYWZGdm5PbFZaZEFVbEt5Y2FPd2t4ejhCYlN3Z0JTWjFGZU1GeWJlVDBwV0dXYlBBR0hMOXUtSXdUN3BIZHdLSlhUMHhaTHhKZkJ4WUxhOEJiV2pzc2N4aVN0Rm1xZUVpX1BXUzVpNEl3SkZVcDQtckM4WW94Y3NEVmM2RktlRW1fQ003bEJmUjJNZVJlZHhR?oc=5",
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "netanyahu",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Opinion | Opinion • It may take another former IDF chief to defeat the political genius of Netanyahu",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWFlrSFdZOVY0MTUwYVdiSjZMSTExelREQWtNdkRkYjdZZXNxTTFlR1RfYTd3eHB1dmIySGJtSlFkbUg4M1NDbU1MaDNQOGxuNG9zUFhFUFVxZnlfbmpDZThVaHpNTlFMc3dnNlpEUFJKbkhHRTZRcmFmUFhrWldNVVlmZWllOFNiNVlFSkp4bFlNNEhtZENRYjBTdVZFNmc5ZUxkZ3JwLTVTeTY4elNSWk5KS0V6c2ljdFlIZjFCckJjNkhqUkFheE50RzI1eEc3UFVGTFhpVGtSUG5ZczBCV1k3ZVVRdDJDd194OVJ3aGo3Sm5yWk9SbE81Q2hpS0Q1enhuMHZRVktCV1otN3ExcDZRbi1YNjQ?oc=5",
           "source": "Haaretz",
           "region": "Israel"
         },
         {
-          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
-          "source": "Fars News",
+          "title": "Editorial | Editorial • Netanyahu has once again bolstered the extremists. This time: Hezbollah",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZkFiVGswTVBJeGhFX2pVdzV5TkVUZHRzWE5rUEFEbW9SbGwwVUs1Yy1qR0x5SVNabWtNR0VaQlBTbkxYVnhFZl9FNFdSZ19IdFAwcDlRT1gtTjFmdGNWUElmM2tub3NiNms3MmIwR3NvdjdWaVRsWng3LXV3cWZpSXd4UV9YRUVmdS03bXJmY1YtVVRiV2M4OU41WmlhaWJla29JUWFfWURHM0JmTlRSTWo0WXY5VzZhM3kzMDFKNGN1M0lTVGRwS01PQVhlcG4wTDNkSmZzOXMzX09NMnpqV3lkRWR4M2hLY3JHdnFFbk5oNXZCNThtZExYemFVUWRuNGs1S3RHVTVzdw?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Iran-US agreement marks political demise of Netanyahu",
+          "url": "https://en.mehrnews.com/news/245544/Iran-US-agreement-marks-political-demise-of-Netanyahu",
+          "source": "Mehr News",
           "region": "Iran"
         }
       ]
     },
     {
-      "term": "vance",
+      "term": "ahead",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Egypt denied flight to Seattle ahead of final World Cup group match",
+          "url": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iranian-negotiators-remain-switzerland-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Crown Prince reaffirms support for national team ahead of Algeria match",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjc1TEJPc1dJcHJNcHd0dHU1UXNjS2lmVGxkd0JBak1Cd3ZtQ0F0Nk1lc0t2eEEtTnBHRjRDMEE5d2xjSXdGSW93aUJhSzlnT3hscGtDTUp3X2xpRnFydG5scHRuckRkelU1NVhPN0dEX3lJTjRIOHRXYm1kTVlKamVpWUMzemVYbjZJV0J3TVB6YmF6RjVXSXdrUjNpaVFhVTgwaEtpTTZ4QQ?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "group",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Egypt denied flight to Seattle ahead of final World Cup group match",
+          "url": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Abu Dhabi healthcare group Burjeel launches $1.5b funding plan as it targets expansion",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb3pMaGVoQ0VFS05SMVlJOWowWE82bHg1WXZNVkN2aEpaS25DMzBtVVpOYk9FWFZJaVdnQi1TQXFRWlEzR3VaOTRzTW9JRVM0ekd3Z21nMmNHOFJhVjhseHJabUJDaXN4aGZWRFF0dzEydXktTE05TEpicEh0YUw4b3hZMXNCdGFFWllRbllMTnVkYmJmb210NU5UdkNwNGtBR2NkOUszbGlQSjRfQkxTTkhLblplb2gtWE40amZ6Q3pPaWNJNW5Gb0ZLeHdUZ2pfNkVsWdIB1AFBVV95cUxPb3pMaGVoQ0VFS05SMVlJOWowWE82bHg1WXZNVkN2aEpaS25DMzBtVVpOYk9FWFZJaVdnQi1TQXFRWlEzR3VaOTRzTW9JRVM0ekd3Z21nMmNHOFJhVjhseHJabUJDaXN4aGZWRFF0dzEydXktTE05TEpicEh0YUw4b3hZMXNCdGFFWllRbllMTnVkYmJmb210NU5UdkNwNGtBR2NkOUszbGlQSjRfQkxTTkhLblplb2gtWE40amZ6Q3pPaWNJNW5Gb0ZLeHdUZ2pfNkVsWQ?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "NYC coffee shop bars Jewish congressman: ‘We don’t serve genocide enablers’",
+          "url": "https://www.timesofisrael.com/nyc-coffee-shop-bars-jewish-congressman-we-dont-serve-genocide-enablers/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "match",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Egypt denied flight to Seattle ahead of final World Cup group match",
+          "url": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Crown Prince reaffirms support for national team ahead of Algeria match",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjc1TEJPc1dJcHJNcHd0dHU1UXNjS2lmVGxkd0JBak1Cd3ZtQ0F0Nk1lc0t2eEEtTnBHRjRDMEE5d2xjSXdGSW93aUJhSzlnT3hscGtDTUp3X2xpRnFydG5scHRuckRkelU1NVhPN0dEX3lJTjRIOHRXYm1kTVlKamVpWUMzemVYbjZJV0J3TVB6YmF6RjVXSXdrUjNpaVFhVTgwaEtpTTZ4QQ?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "مونديال 2026: مباراة واعدة بين النرويج والسنغال - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQNFdiSHY1dXBMblJSR25MNmVpdmt4eG1YMXR2NmR4em82NFIzV05Oc1VQcnZ6QW5iOEZWcDRmSWJYTzVMdnVlTGFndHFxM1BaTDRtbHJuSXZWdnM2aWpPSEhraHpWQ0xnRVRQc0dqQ0xIMEY1RXZHdEZRejh3a3JqVzVPNXQxOUZndkRCeTVma01rUUhQZG5mVkN5Sk1fM3U4MFA2eXBjWEVCaGgySTJtd24tU3VVSzdpZnppQWo4NmJQTFBlNExyOVVMbzVHMUpSVHhaNTVuMHNZaldMdlEydkl0Qm9nVXQ1MnA2Y0wwRjEwVThXaU5VcFJqbThKNElDWjRGcXZRRUl3TnoxWmtmUjlrUGdNcjRRXzlpQVpxdzdVcTE3TERQazV4STBybFZtaEhveXJ1TnUxWVhvbUlmR1hZVGRQZU5FUFRIU01sdmEwN0lzc3hrUHphTGR3SEdQMk5XRTZzYXE4dl9NVmNlRHE4dTRHUXhyMjBYWThSa1F2YnBBZXNV?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "team",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Egypt denied flight to Seattle ahead of final World Cup group match",
+          "url": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iranian-negotiators-remain-switzerland-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Crown Prince reaffirms support for national team ahead of Algeria match",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjc1TEJPc1dJcHJNcHd0dHU1UXNjS2lmVGxkd0JBak1Cd3ZtQ0F0Nk1lc0t2eEEtTnBHRjRDMEE5d2xjSXdGSW93aUJhSzlnT3hscGtDTUp3X2xpRnFydG5scHRuckRkelU1NVhPN0dEX3lJTjRIOHRXYm1kTVlKamVpWUMzemVYbjZJV0J3TVB6YmF6RjVXSXdrUjNpaVFhVTgwaEtpTTZ4QQ?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "details",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "US House committee reaches bipartisan deal on social media rules for kids",
+          "url": "https://www.aljazeera.com/economy/2026/6/22/us-house-committee-reaches-bipartisan-deal-on-social-media-rules-for-kids?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iranian-negotiators-remain-switzerland-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "As Iran, US conclude first round of talks, ‘difficult details’ could still threaten negotiations - analysts",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXBjMzhVS3Jsa09Yb2V1VFdBa2w1VmVwMEtNWWtnZzF4NUpOVjZEM0N4a3FJNHhMRk1VOGI4WkJaZ1R3UmpLeUo4eVVvbkMzaGlpVGpxRUlETUhWYllBb0h5QmNCbkxDNWJOem9WUlRnOTgydUNpRjNyRmNrSzFNOXMtTDJEd204LThwWkM5MjdhUURyeTlFZTJwNmNDUjJmaHp0Umpma0VjX1ZuV1QyczFEQ2h5SERUVXpwdDR6Rlo4R3IxY05RdGZzQmRfNjZGVlE?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "security",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "IMF warns Middle East instability could have lasting impact on Africa",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-warns-middle-east-instability-could-have-lasting-impact-africa",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs",
+          "url": "https://www.egyptindependent.com/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Iranian security representative Nezami arrives in Delhi for BRICS NSAs meeting",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFU4YjN5TkdUNXhhQWFGZjBSUmcyVzdORVZsQ3lpZTdTREVvMS01UE10cEdEaWp0ZmpWVGFQMTkxN252T0pPLWxaWXRoTkQyZnp5Q0VUZFNtejgwYmY3aUpieWZhRGVsUDduM25qM0h6REo4bVpmbFFYMXAwdW0tU2lkakdPMlR4aEdXMjJpLVZ6UnExd0JxMEhuLWVEVFRrT3BrWGlpSHdjUVpJVkxiWmhaSWp5NTV2?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "vice",
       "count": 3,
       "headlines": [
         {
@@ -511,15 +1057,15 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran agreed to nuclear material inspection during Switzerland talks, Vance says",
-          "url": "https://www.jpost.com/international/article-900187",
-          "source": "Jerusalem Post",
-          "region": "Israel"
+          "title": "Iran shows Trump just how hard making peace will be",
+          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         }
       ]
     },
     {
-      "term": "actions",
+      "term": "progress",
       "count": 3,
       "headlines": [
         {
@@ -529,16 +1075,136 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
-          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
-          "source": "The New Arab",
+          "title": "US suspends Iran sanctions after 'good progress' in talks",
+          "url": "https://www.middleeasteye.net/news/us-suspends-iran-sanctions-after-talks-make-good-progress",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "How Assad-era trials will test Syria's transition",
-          "url": "https://www.newarab.com/news/how-assad-era-trials-will-test-syrias-transition",
-          "source": "The New Arab",
+          "title": "US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlWNzFUTFVKb2NmNzhMa3lSeU11WktlZXZvQVI3VEJ0Ql9GaC1fQkwzSE9EMHdWQjBxYTAxOTNsd2FlSGNSWjM0Q3BzQVlxTzJjZmlVZGNwdzZMN0UySGcxalNNX3FpNjZkcGlpUE9uWEdIczQzVU9ZUFotWGVlcHVRM2d5VGE0V2Qzci1NSThSR1A5RDlOWXhTQXFUTnNkUWFQQ3lnQmFRNVJuMmRuMUQ0ZTJybV9PWkd2d0JWRnd2dEp0cVNRVkRucXR2Zw?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "despite",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Vance says Iran must back commitments with actions, not words",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "As Iran, US conclude first round of talks, ‘difficult details’ could still threaten negotiations - analysts",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXBjMzhVS3Jsa09Yb2V1VFdBa2w1VmVwMEtNWWtnZzF4NUpOVjZEM0N4a3FJNHhMRk1VOGI4WkJaZ1R3UmpLeUo4eVVvbkMzaGlpVGpxRUlETUhWYllBb0h5QmNCbkxDNWJOem9WUlRnOTgydUNpRjNyRmNrSzFNOXMtTDJEd204LThwWkM5MjdhUURyeTlFZTJwNmNDUjJmaHp0Umpma0VjX1ZuV1QyczFEQ2h5SERUVXpwdDR6Rlo4R3IxY05RdGZzQmRfNjZGVlE?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Cape Verde coach Bubista dreams big after stunning start after devastating defeat",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52c3FDWFFHdjF0UmdIeWI0WERDVGlrdUJxUDR2WU5nUVRnangzNk1kSVFyNnJjTVdraHRxYjV2dS1IQnViOE1XMW43cy13NnU4MEM4?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "calling",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Vance says Iran must back commitments with actions, not words",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "نادي الأسير يطالب بتدخل عاجل للإفراج عن ثلاث أسيرات حوامل",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQcDRIUk92ZEN1TlRncFQxanZTa0FiOHJDRFI2TjYwSjliZmRyR2RCUF9ILUswZENyMWpkeWFuajFTRmJDTmJJTkNsc3NQYmRyb2UtMXFEcjkxVnZqVDcwTjlKOVhXNFMxYklUbjk5SHZ2enNOZkVKZ25FR2hOc3pSWFRGaHJtNHhqbk9NRTZSQW1aWXlvMmFKZG9oVGdCUDVBZTlqNHh2QmM2a1doekdYZHIxLWxKZVJ0MXhXUkJHY0k5aVR2R0ZlblRUV3ZmeGRDU3U1YW1tYllPdGtoUVFHRDJyX2VKdWVZblVfRjNBSDB6cnhyUGJKT1BhcFNPTVRqV0pCUEhBc3M2Tzl0X1o0NEEzWXVOS0pVUmc?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "NYC coffee shop bars Jewish congressman: ‘We don’t serve genocide enablers’",
+          "url": "https://www.timesofisrael.com/nyc-coffee-shop-bars-jewish-congressman-we-dont-serve-genocide-enablers/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "negotiations",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Vance says Iran must back commitments with actions, not words",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US suspends Iran sanctions after 'good progress' in talks",
+          "url": "https://www.middleeasteye.net/news/us-suspends-iran-sanctions-after-talks-make-good-progress",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "As Iran, US conclude first round of talks, ‘difficult details’ could still threaten negotiations - analysts",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXBjMzhVS3Jsa09Yb2V1VFdBa2w1VmVwMEtNWWtnZzF4NUpOVjZEM0N4a3FJNHhMRk1VOGI4WkJaZ1R3UmpLeUo4eVVvbkMzaGlpVGpxRUlETUhWYllBb0h5QmNCbkxDNWJOem9WUlRnOTgydUNpRjNyRmNrSzFNOXMtTDJEd204LThwWkM5MjdhUURyeTlFZTJwNmNDUjJmaHp0Umpma0VjX1ZuV1QyczFEQ2h5SERUVXpwdDR6Rlo4R3IxY05RdGZzQmRfNjZGVlE?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "nuclear",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Vance says Iran must back commitments with actions, not words",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US suspends Iran sanctions after 'good progress' in talks",
+          "url": "https://www.middleeasteye.net/news/us-suspends-iran-sanctions-after-talks-make-good-progress",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran agreed to nuclear material inspection during Switzerland talks, Vance says",
+          "url": "https://www.jpost.com/international/article-900187",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "killed",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Gaza death toll rises to 73,035 as Israeli attacks continue",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-73035-israeli-attacks-continue",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Teenage girl on the way to a high school in Gaza killed in Israeli strike, relatives say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rb21wZ1diNEQ3MTU5SEJLRzEyQVUxN19EWm11VGl4R1ZBTktmQmxpSFM3eW8tazlaWk9ITktobDhHWXBVNVQ3VVBvOG1nMU02ZUo0?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
         }
       ]
     },
@@ -567,6 +1233,30 @@
       ]
     },
     {
+      "term": "discussions",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iranian-negotiators-remain-switzerland-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel considering announcing “symbolic” withdrawals as part of talks with Lebanon, source says",
+          "url": "https://www.egyptindependent.com/israel-considering-announcing-symbolic-withdrawals-as-part-of-talks-with-lebanon-source-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel, Lebanon to meet in Washington to discuss normalization, Hezbollah disarmament",
+          "url": "https://www.jpost.com/israel-news/article-900186",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "open",
       "count": 3,
       "headlines": [
@@ -591,50 +1281,74 @@
       ]
     },
     {
-      "term": "meeting",
+      "term": "visit",
       "count": 3,
       "headlines": [
         {
-          "title": "GCC Ministerial Meeting Held in Jordan",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaktYdzU4Tkk5a09zRWVMaG5idWE1eWdfeGJOX1p5eVY3UE5aV3I4Yms2c1dLUndBUW5ObUhiWHNhTEZ3Si1tT0NtWDNZMjhYS0FKaWFRcVZmdmt2ekFIWDY2QlZXZTkyaHFHTF9kYjR1UWpJd25vWHJ2SHRIYzROaVV4Mjd5SUtqeXRwdmZyN043WHVudGfSAZsBQVVfeXFMUF9fTFM5U2pQYTlQUU9ONnJXc09mdE5sdjBoZEFrcnIzc0xCOVJXRVZGWTRCdmVMdkJMX3lKcGthVGxjbWIxc1Y5WHhwWllpYUNrM2liRDZwSVZjMFNOczh5T0ZKb2xUdWs4dnllcmxlYzlCaWJEMkdodEJZTE5MMERwaDdNUjJKLXVXRmZZWTcxYnFySmFZXzhWeDg?oc=5",
+          "title": "Patriarchs of Jerusalem Visit Gaza",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZERFXzdLUVF3U3JJWlkxckFTQ0NDM0xLdGtYczc5TEY2U282dkdVcWExS0tCMHBydGh3M0VabFg0NjRON0FFdFlxS2FKM0ZoT25Xa2djT05EU0xjZEFFR1BRODEzNFJsSmc1OEo5bWdOOXhsNlZuc3JMTm95dEVBZE1qQzJjUkNnek5RNzVnS1DSAZYBQVVfeXFMT25zXzRZbHE2SHc2WXpTZldrZ1dqV0FtQXdKSjNYcks0WkFFTXR6VkYzajNsZ0pBRmdWRVpPZWN0ZENXNEZFQ3NfT3l6OFRhWU5fLWFkYjVyTTRCaFVDNGg5R1l6dkJnVm5XOE5fY2N3dFlnc0E2Y1BvQURuZFFKNHpxeGR3dWpEcEprMDJyQk56RUZrWVVB?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Meeting in Tubas warns of geographic reshaping of Jordan Valley by colonial activity, separation wall, and military roads - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWb09kLXhZQWpZeGxYeGplZk5ocUtZeXBEN3EzQUZ2MWgtalI1cTNZQmpFeHJyMVhzT2hXTFhuSElPZzRvZUphWVVQR3NST19uVWFqMFFJNA?oc=5",
-          "source": "WAFA News",
+          "title": "Marco Rubio to hold talks in the UAE during Gulf visit",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHRVTEY5SU9WQXBsMW1DSFVhNHJzemJ2MmM5M05sUGx3akpfSnNzTWlXQzdPZU9WXzg5RV9SZWFyUGZGZkpKLXNlZ2JSTmNRSWdaNUE4WWxiZVhFeTVnbjRvX3hXWi0wYzFzQmJoaEVKQy13eG91TEcwczlHdWEyZThwYVlwN2txWC1CSE9JVnA3ZzZFSW9qUGpRc3NQejhySm05eHphTV9ZQQ?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Rubio heads to region to address Iran MoU, Hormuz",
+          "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "messi",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Magic Messi makes World Cup history to send Argentina into last 32",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0Zibm5FYktOOEhWcDVtV05pX0hQOVVDQ0QwdVhsYlN5X19rTGhlSlNvQkZtQlpGMVF1c2FfMzBRbF9OU1p3TVVLbldZWTk4NnZHSHpxbXZjSVVzdzdIMENvSXZscVp2TlQ4WVhQYl9fM1JTaEY0VTZIZXlCeF9KeUtEMV9LNEpGaEQ0T1RiYmoxdDBxN2kzZVU2aHVxSFNhcWpRSVR6dlJTZUt5SXVzZjU2c1dyWUJtaXfSAboBQVVfeXFMTlNGYm5uRWJLTjhIVnA1bVdOaV9IUDlVQ0NEMHVYbGJTeV9fa0xoZUpTb0JGbUJaRjFRdXNhXzMwUWxfTlNad01VS25XWVk5ODZ2R0h6cW12Y0lVc3c3SDBDb0l2bHFadk5UOFlYUGJfXzNSU2hGNFU2SGV5QnhfSnlLRDFfSzRKRmhENE9UYmJqMXQwcTdpM2VVNmh1cUhTYXFqUUlUenZSU2VLeUl1c2Y1NnNXcllCbWl3?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "ميسي يقود الأرجنتين لتجاوز النمسا ويصبح الهداف التاريخي لكأس العالم - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQU2IwcWdGQVBSUEwyUlBPdktIdnltdVFTRTRmUEJTQjdfU1NGNVM0NHZTZDhrT085dnVBUnZWVkF0WGI2NGduaWY3SXZoOVdxeHJHNnVlSnc4TmlGcTdtNW4wOF9hUkp2SjdMWnJmODRPQk1XRkJNWnFpQ19WWW0yNlQyX3Q3bU00eThfdlFlaWhSVDM2Nnp6T2hCejlQTDMxVzQzZHhWbFBsR3IzaUZJb2ppV1Blbm04TTE2N240YlpCTjdaYkQybnFFOFNTNkxLUmNkOFRoQnZKVkVPMWc5WGxMZ2RLWlFwNFpTelh3UC1SZ29ibkpFU1JXLV90U0p0V2FTa1pSWWNMeTVSRXNCbjU0NVp4d2xoVkxmWEVoOWZNcmQtcmp4c3ZsMjlfRnd5eVpRMGRtQUVWREUtY3RTVURrOTBrWWxPNVVfbGJQWWlyS2FENkFjZ1drMHNvcTlIeHZwdUtjTDdYOFpwWW5XQjNsckhndmdkdHRhYlVweE9hSkVKcEhxQ2NzMXdYNC1ER2lOdlhnYk9nNVl3dzd0RGpsRXJOeTZXQkc5Q3RkWmpkZDVpUUY4bTg2dHNMSVRRMnZiWllBNk1kUDd1Q0NBVG41THRGWGlveXctY3Fmem1MNUprcUU5VDJoXy1oa2xPVFh3V3dGV2x5aGRoWUNUMlE2QQ?oc=5",
+          "source": "Al-Akhbar",
           "region": "Levant"
         },
         {
-          "title": "Iranian security representative Nezami arrives in Delhi for BRICS NSAs meeting",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFU4YjN5TkdUNXhhQWFGZjBSUmcyVzdORVZsQ3lpZTdTREVvMS01UE10cEdEaWp0ZmpWVGFQMTkxN252T0pPLWxaWXRoTkQyZnp5Q0VUZFNtejgwYmY3aUpieWZhRGVsUDduM25qM0h6REo4bVpmbFFYMXAwdW0tU2lkakdPMlR4aEdXMjJpLVZ6UnExd0JxMEhuLWVEVFRrT3BrWGlpSHdjUVpJVkxiWmhaSWp5NTV2?oc=5",
-          "source": "Times of Oman",
+          "title": "Messi makes history to send Argentina into last 32",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rdWhnblZxWXhiX0N4SEk2X1Bhbmk4b2xSQTFwcHNlaWd1RlQ0WmFvS04zaG5qaE9TVVhVcW9fSHRwQWFSR1Q3bWptSjdIY0djTDUtUkpQUzZoWEVkekhlU0otZ3ZjcURXSmVvektqOFU1UEVFM1Vaa1JJdmw?oc=5",
+          "source": "Gulf Times",
           "region": "Gulf"
         }
       ]
     },
     {
-      "term": "genocide",
+      "term": "argentina",
       "count": 3,
       "headlines": [
         {
-          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
-          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
-          "source": "The New Arab",
+          "title": "Magic Messi makes World Cup history to send Argentina into last 32",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0Zibm5FYktOOEhWcDVtV05pX0hQOVVDQ0QwdVhsYlN5X19rTGhlSlNvQkZtQlpGMVF1c2FfMzBRbF9OU1p3TVVLbldZWTk4NnZHSHpxbXZjSVVzdzdIMENvSXZscVp2TlQ4WVhQYl9fM1JTaEY0VTZIZXlCeF9KeUtEMV9LNEpGaEQ0T1RiYmoxdDBxN2kzZVU2aHVxSFNhcWpRSVR6dlJTZUt5SXVzZjU2c1dyWUJtaXfSAboBQVVfeXFMTlNGYm5uRWJLTjhIVnA1bVdOaV9IUDlVQ0NEMHVYbGJTeV9fa0xoZUpTb0JGbUJaRjFRdXNhXzMwUWxfTlNad01VS25XWVk5ODZ2R0h6cW12Y0lVc3c3SDBDb0l2bHFadk5UOFlYUGJfXzNSU2hGNFU2SGV5QnhfSnlLRDFfSzRKRmhENE9UYmJqMXQwcTdpM2VVNmh1cUhTYXFqUUlUenZSU2VLeUl1c2Y1NnNXcllCbWl3?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "NYC coffee shop bars Jewish congressman: ‘We don’t serve genocide enablers’",
-          "url": "https://www.timesofisrael.com/nyc-coffee-shop-bars-jewish-congressman-we-dont-serve-genocide-enablers/",
-          "source": "Times of Israel",
-          "region": "Israel"
+          "title": "ميسي يقود الأرجنتين لتجاوز النمسا ويصبح الهداف التاريخي لكأس العالم - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQU2IwcWdGQVBSUEwyUlBPdktIdnltdVFTRTRmUEJTQjdfU1NGNVM0NHZTZDhrT085dnVBUnZWVkF0WGI2NGduaWY3SXZoOVdxeHJHNnVlSnc4TmlGcTdtNW4wOF9hUkp2SjdMWnJmODRPQk1XRkJNWnFpQ19WWW0yNlQyX3Q3bU00eThfdlFlaWhSVDM2Nnp6T2hCejlQTDMxVzQzZHhWbFBsR3IzaUZJb2ppV1Blbm04TTE2N240YlpCTjdaYkQybnFFOFNTNkxLUmNkOFRoQnZKVkVPMWc5WGxMZ2RLWlFwNFpTelh3UC1SZ29ibkpFU1JXLV90U0p0V2FTa1pSWWNMeTVSRXNCbjU0NVp4d2xoVkxmWEVoOWZNcmQtcmp4c3ZsMjlfRnd5eVpRMGRtQUVWREUtY3RTVURrOTBrWWxPNVVfbGJQWWlyS2FENkFjZ1drMHNvcTlIeHZwdUtjTDdYOFpwWW5XQjNsckhndmdkdHRhYlVweE9hSkVKcEhxQ2NzMXdYNC1ER2lOdlhnYk9nNVl3dzd0RGpsRXJOeTZXQkc5Q3RkWmpkZDVpUUY4bTg2dHNMSVRRMnZiWllBNk1kUDd1Q0NBVG41THRGWGlveXctY3Fmem1MNUprcUU5VDJoXy1oa2xPVFh3V3dGV2x5aGRoWUNUMlE2QQ?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
         },
         {
-          "title": "'To Me, Israeli Artists Who Don't Speak About the Genocide Are Collaborating With It'",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcktPN0hsaEhCYTg4VkJIRjB3UDROcWRMNE9GT01VcG84Y3FCMERnT1hIYmxyQWVyLTQyM05FX3A3STlyczk2eGFZbTBWUURxeTZuaUFWd2VJZFFmVWRJZWxUbVdaODlfYVVhMTBGUjEyVlRSaVdhT2dCa2lBNWI0ZWRyN1hYNEk0WEFwVlFveEFsbU9uaWluRzctMnZqQVlCT3VLd1dMcURCXzNjV1c0YVhYYXVTSDJHNWxTaWcxdWpIQlN1OWhfWkhjNFFsbnQ1TnBmSlBMOGt2MjlZNnh3SnFaY2hwOXBCSnkxRW1ZcWhQWFFnbi1kVUtWUGlEM3BUQzExWEFQVmQ2bGVLVEE?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
+          "title": "Messi makes history to send Argentina into last 32",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rdWhnblZxWXhiX0N4SEk2X1Bhbmk4b2xSQTFwcHNlaWd1RlQ0WmFvS04zaG5qaE9TVVhVcW9fSHRwQWFSR1Q3bWptSjdIY0djTDUtUkpQUzZoWEVkekhlU0otZ3ZjcURXSmVvektqOFU1UEVFM1Vaa1JJdmw?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
@@ -663,7 +1377,79 @@
       ]
     },
     {
-      "term": "following",
+      "term": "discusses",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
+          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "How long is a weather delay at the World Cup?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM2hBNlZYV2hQQmtxSUdTblhQS01QZlpLM3pGaHptRFFDbkJwNG9OWVVxUm5GTmptMlU5MXBINmRkZjdPLTRQbVVsWmJKNFlEeHczVTEteFNtS29xWEJURG1FNDdtN3RzRlNrWWh2a3cxVGROOG5ocjhWZ0ctR1VlT2cyX0RDMzVwellsN3hCQzdCZw?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "The men who refused to be beaten",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tcGFHeXZua0pnOEgtY0JmWU1PZGlvRi04bjdCbmFLcER1VUdBMGhyLWxOVHpIM0Nsa1ZuUEpmOGdlYzUyVnowQ1hibVBIOHZQZ1VEVWRaVHZJQjZIZklrVS01U1p3SWVETmduNkVsR1U2dEwtQWpINm0zdw?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "suggesting",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
+          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Montreal-born MK Illouz: The Montreal I knew is gone, the warning signs are everywhere - opinion",
+          "url": "https://www.jpost.com/opinion/article-900192",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Source rejects Vance's claim on IAEA inspectors return",
+          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "roads",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "وسائل إعلام إسرائيلية: \"إسرائيل هيوم\": أعمال شغب في \"بيت شيمش\" ومتظاهرون من \"الحريديم\" أشعلوا حاويات نفايات وأغلقوا الطرقات",
+          "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPekxZbVJoSUtCMTczMENnLWxhSDdIZ1JjTTA1ODdUeWQ5Wi1SRmdfempwV2plOEpzUUpEZExuZ3lSU1Z0aTJYTlE5RXV3eVhFN0gwQVdCTEpLVmU2Wm5hSVgzSENsZEI0M1dxNjJLbnFIcl9kTllQcnh4S1RsX3IxWjVfOEw2a2NJRUUzQms1UklhX2hDTGlGNXE3eEdld29nOENsTXVDMUFGR3A3dlJxOHAwcUlHZjZQY3ZCUnYtRjZmY1NSaDRWc2U4QjE1RGtFczF4TnhHSGpIZUQtZDBlRUhyZUtvMTB4OVZNYkowTjVnYmdIZDgwQ2NFUHdNNDl2bU1YdS1ORXRMdjdTRnQ0NXBHd1UwRHM4NEhVM1cydjVsU25ZWlRlTjV2YThPdFpJNlREX0p5czVnVTZBZVRrZ3BBc3JMaXBXbXBvR2sxVURENFpTQmVVMUhzVURCU3MtODE0U25UZ1JDQzNQS09od1k1bWNjXzhsYUpnM1lqX2gwOXVNbGlxN2wxbmExbG9XdzJXMlNaQXpSeGJlZEhOaVVGX3pSbTdaUUZvOHN4OE51czF2b3NUMWluaHN3eHlteWpxUjZIVG00eC1leGRwcTNOZ0d1NExDMTFNNkczUQ?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Meeting in Tubas warns of geographic reshaping of Jordan Valley by colonial activity, separation wall, and military roads - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWb09kLXhZQWpZeGxYeGplZk5ocUtZeXBEN3EzQUZ2MWgtalI1cTNZQmpFeHJyMVhzT2hXTFhuSElPZzRvZUphWVVQR3NST19uVWFqMFFJNA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Beit Shemesh protesters block roads, damage property, as police seek to reestablish order",
+          "url": "https://www.jpost.com/israel-news/article-900188",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "explosion",
       "count": 3,
       "headlines": [
         {
@@ -673,16 +1459,88 @@
           "region": "Levant"
         },
         {
-          "title": "Zelensky returns Poland’s highest honor amid escalating row over nationalist wartime unit",
-          "url": "https://www.egyptindependent.com/zelensky-returns-polands-highest-honor-amid-escalating-row-over-nationalist-wartime-unit/",
-          "source": "Egypt Independent",
+          "title": "Qatar mourns 13 lives lost in Ras Laffan explosion",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aX1JYWDZaR3BoZzlza0RIcjJrbWVwVUQxR2dCbVVJT0F0TmNTTTU1UTZDelBEbG5aRGhBQ2s4TWlyaGJHMzF2QWRSUFloLXJ6VGVmVVQ4NUJocGZ2TDNYbW13S1VzMTF6dzE5VlVndTZ3QVFsRlNUWk4tSQ?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "jewish",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "كندا | إطلاق نار في مونتريال يسفر عن ثلاثة قتلى بينهم المشتبه به",
+          "url": "https://www.almanar.com.lb/article/970672/",
+          "source": "Al Manar",
           "region": "Levant"
         },
         {
-          "title": "National project launched to memorialize slain Palestinian children, following \"Their Names Are Not Numbers\" campaign - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yY0VpcGxUUGdkZVNVQW5zeFZIZHBOUzBHOEhwUVhjd0VrNVhReF9sWGFlN2lLSTJ0UVdMRHF5WlFHMUZWVERqeTd6a0Y4cGRRSzNzcE9QTQ?oc=5",
-          "source": "WAFA News",
+          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
+          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "NYC coffee shop bars Jewish congressman: ‘We don’t serve genocide enablers’",
+          "url": "https://www.timesofisrael.com/nyc-coffee-shop-bars-jewish-congressman-we-dont-serve-genocide-enablers/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "montreal",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "كندا | إطلاق نار في مونتريال يسفر عن ثلاثة قتلى بينهم المشتبه به",
+          "url": "https://www.almanar.com.lb/article/970672/",
+          "source": "Al Manar",
           "region": "Levant"
+        },
+        {
+          "title": "Montreal-born MK Illouz: The Montreal I knew is gone, the warning signs are everywhere - opinion",
+          "url": "https://www.jpost.com/opinion/article-900192",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
+          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "resulted",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "كندا | إطلاق نار في مونتريال يسفر عن ثلاثة قتلى بينهم المشتبه به",
+          "url": "https://www.almanar.com.lb/article/970672/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
+          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -703,17 +1561,95 @@
           "region": "Levant"
         },
         {
-          "title": "Taliban authorities detained Afghan aid workers over beards, sources say",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KWEl5dElWeUJOaldhOVZxSllCM1loZzQ2dll6LUgyRm1Udl9DME1vWFhuWUtJWlhYTmd1RHM2TGhXS3J2bE9mNEt1X29oa2J4ZmZr?oc=5",
+          "title": "Egypt detains hundreds near the Sudan border in a crackdown on illegal gold mining",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JUzFwU0YtRFFUeVJPbTBCa3ppSVpfMjYwX0UzTnFUS1ZjQXI1VEttTW94N1BoMFVwX0VMX25uTHBrRF9hZVFfN2R2NTNmU3lGMFBF?oc=5",
           "source": "Arab News",
           "region": "Gulf"
         }
       ]
     },
     {
-      "term": "police",
+      "term": "meeting",
       "count": 3,
       "headlines": [
+        {
+          "title": "Meeting in Tubas warns of geographic reshaping of Jordan Valley by colonial activity, separation wall, and military roads - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWb09kLXhZQWpZeGxYeGplZk5ocUtZeXBEN3EzQUZ2MWgtalI1cTNZQmpFeHJyMVhzT2hXTFhuSElPZzRvZUphWVVQR3NST19uVWFqMFFJNA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Qatar attends GCC FMs’ meeting in Amman",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSS1BUjF5OUIxQlFnN3FyQXRLZ2ptYkFkV2xsN3FuM3Rvb1h0M3Q0QTRwU3JONXhsdXlWOE1vb1FzaHVSemM4RUdBQkJMaHU3SlNNY3RDZ2xaMkZQa0hyZVVkV0NHd0xYYWtYRERIcU9qS1lLczAzUHJqanlWcTRCZF9mNTROeDN1cEplVUdFONIBlAFBVV95cUxNZGVJaThRbFVzM2tlSDNjY29qc0J6S055LW53bHk3V05LVkxtTUEyMGp3dmNCUDhjOGI4S1hrZzVBTzVFbnRIOFVabTUzWFNMbzc2eVBfQjl1N3pOM3Zkd0UzLUhJaXdoYm9rRXRVMjJ2aG44LUxJWWNtV3pvaEt0ckxUNEhOSm9fWDlXTHhRSF8zdjUw?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iranian security representative Nezami arrives in Delhi for BRICS NSAs meeting",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFU4YjN5TkdUNXhhQWFGZjBSUmcyVzdORVZsQ3lpZTdTREVvMS01UE10cEdEaWp0ZmpWVGFQMTkxN252T0pPLWxaWXRoTkQyZnp5Q0VUZFNtejgwYmY3aUpieWZhRGVsUDduM25qM0h6REo4bVpmbFFYMXAwdW0tU2lkakdPMlR4aEdXMjJpLVZ6UnExd0JxMEhuLWVEVFRrT3BrWGlpSHdjUVpJVkxiWmhaSWp5NTV2?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "military",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Meeting in Tubas warns of geographic reshaping of Jordan Valley by colonial activity, separation wall, and military roads - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWb09kLXhZQWpZeGxYeGplZk5ocUtZeXBEN3EzQUZ2MWgtalI1cTNZQmpFeHJyMVhzT2hXTFhuSElPZzRvZUphWVVQR3NST19uVWFqMFFJNA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel, Lebanon to meet in Washington to discuss normalization, Hezbollah disarmament",
+          "url": "https://www.jpost.com/israel-news/article-900186",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "scheduled",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Marco Rubio to hold talks in the UAE during Gulf visit",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHRVTEY5SU9WQXBsMW1DSFVhNHJzemJ2MmM5M05sUGx3akpfSnNzTWlXQzdPZU9WXzg5RV9SZWFyUGZGZkpKLXNlZ2JSTmNRSWdaNUE4WWxiZVhFeTVnbjRvX3hXWi0wYzFzQmJoaEVKQy13eG91TEcwczlHdWEyZThwYVlwN2txWC1CSE9JVnA3ZzZFSW9qUGpRc3NQejhySm05eHphTV9ZQQ?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Israel, Lebanon to meet in Washington to discuss normalization, Hezbollah disarmament",
+          "url": "https://www.jpost.com/israel-news/article-900186",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Rubio heads to region to address Iran MoU, Hormuz",
+          "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "leading",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Messi makes history to send Argentina into last 32",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rdWhnblZxWXhiX0N4SEk2X1Bhbmk4b2xSQTFwcHNlaWd1RlQ0WmFvS04zaG5qaE9TVVhVcW9fSHRwQWFSR1Q3bWptSjdIY0djTDUtUkpQUzZoWEVkekhlU0otZ3ZjcURXSmVvektqOFU1UEVFM1Vaa1JJdmw?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
         {
           "title": "Beit Shemesh protesters block roads, damage property, as police seek to reestablish order",
           "url": "https://www.jpost.com/israel-news/article-900188",
@@ -721,32 +1657,50 @@
           "region": "Israel"
         },
         {
-          "title": "Haredi parties continue to boycott coalition voting over Torah Study bill",
-          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900189",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
-          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
+          "title": "US feds open probe into alleged antisemitism at leading teacher union",
+          "url": "https://www.timesofisrael.com/us-feds-open-probe-into-alleged-antisemitism-at-leading-teacher-union/",
           "source": "Times of Israel",
           "region": "Israel"
         }
       ]
     },
     {
-      "term": "netanyahu",
+      "term": "opinion",
       "count": 3,
       "headlines": [
         {
-          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
-          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
-          "source": "Times of Israel",
+          "title": "Montreal-born MK Illouz: The Montreal I knew is gone, the warning signs are everywhere - opinion",
+          "url": "https://www.jpost.com/opinion/article-900192",
+          "source": "Jerusalem Post",
           "region": "Israel"
         },
         {
-          "title": "Editorial | Editorial • Netanyahu has once again bolstered the extremists. This time: Hezbollah",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZkFiVGswTVBJeGhFX2pVdzV5TkVUZHRzWE5rUEFEbW9SbGwwVUs1Yy1qR0x5SVNabWtNR0VaQlBTbkxYVnhFZl9FNFdSZ19IdFAwcDlRT1gtTjFmdGNWUElmM2tub3NiNms3MmIwR3NvdjdWaVRsWng3LXV3cWZpSXd4UV9YRUVmdS03bXJmY1YtVVRiV2M4OU41WmlhaWJla29JUWFfWURHM0JmTlRSTWo0WXY5VzZhM3kzMDFKNGN1M0lTVGRwS01PQVhlcG4wTDNkSmZzOXMzX09NMnpqV3lkRWR4M2hLY3JHdnFFbk5oNXZCNThtZExYemFVUWRuNGs1S3RHVTVzdw?oc=5",
+          "title": "Opinion | Opinion • It may take another former IDF chief to defeat the political genius of Netanyahu",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWFlrSFdZOVY0MTUwYVdiSjZMSTExelREQWtNdkRkYjdZZXNxTTFlR1RfYTd3eHB1dmIySGJtSlFkbUg4M1NDbU1MaDNQOGxuNG9zUFhFUFVxZnlfbmpDZThVaHpNTlFMc3dnNlpEUFJKbkhHRTZRcmFmUFhrWldNVVlmZWllOFNiNVlFSkp4bFlNNEhtZENRYjBTdVZFNmc5ZUxkZ3JwLTVTeTY4elNSWk5KS0V6c2ljdFlIZjFCckJjNkhqUkFheE50RzI1eEc3UFVGTFhpVGtSUG5ZczBCV1k3ZVVRdDJDd194OVJ3aGo3Sm5yWk9SbE81Q2hpS0Q1enhuMHZRVktCV1otN3ExcDZRbi1YNjQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Opinion | Opinion • As a Palestinian living in Israel, I'm afraid of the price of a deal with Iran",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYWJKckU2TDZXdkVmVTNWcFdaTFlKRmNEWjVLR21JMlZZZHp1dWRkWmxRNllLUW9ZOUhNaFkyZ2Y5NjhCbTByT0RVRzdCdWVqOE5id0ZDcmdJLWltZHdQMlNmamJ3bFl6VF82c3JmajFVWlU5aUxzYmdfYXlma1Q4Sm82SjhWMUFCZEFYdXN0bmZXQWMzMWZaSUIzMVQxaXA5Rmx5bHdtcGhqSmZhcDU3Zkpfd2RvemlTZkpyRVN1Z2tpTUJuSkZRU3E2QThnLU5CNWp4emNYS09vcnNmWldLWENlSXRsQ2NVczJ5Y0p0bEE2RV9sYmY2dzBKb1gyTm5uWmxpdHZwaG96cmx4ZG9FbS1B?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "political",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Israel, Lebanon to meet in Washington to discuss normalization, Hezbollah disarmament",
+          "url": "https://www.jpost.com/israel-news/article-900186",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Opinion | Opinion • It may take another former IDF chief to defeat the political genius of Netanyahu",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWFlrSFdZOVY0MTUwYVdiSjZMSTExelREQWtNdkRkYjdZZXNxTTFlR1RfYTd3eHB1dmIySGJtSlFkbUg4M1NDbU1MaDNQOGxuNG9zUFhFUFVxZnlfbmpDZThVaHpNTlFMc3dnNlpEUFJKbkhHRTZRcmFmUFhrWldNVVlmZWllOFNiNVlFSkp4bFlNNEhtZENRYjBTdVZFNmc5ZUxkZ3JwLTVTeTY4elNSWk5KS0V6c2ljdFlIZjFCckJjNkhqUkFheE50RzI1eEc3UFVGTFhpVGtSUG5ZczBCV1k3ZVVRdDJDd194OVJ3aGo3Sm5yWk9SbE81Q2hpS0Q1enhuMHZRVktCV1otN3ExcDZRbi1YNjQ?oc=5",
           "source": "Haaretz",
           "region": "Israel"
         },
@@ -759,319 +1713,49 @@
       ]
     },
     {
-      "term": "launches",
+      "term": "welcomes",
       "count": 2,
       "headlines": [
         {
-          "title": "Hungary’s PM launches drive to free country from Orban’s ‘mafia’",
-          "url": "https://www.aljazeera.com/news/2026/6/22/hungarys-pm-launches-drive-to-free-country-from-orbans-mafia?traffic_source=rss",
+          "title": "Belgium’s Doku welcomes son during World Cup amid commentator controversy",
+          "url": "https://www.aljazeera.com/sports/2026/6/22/belgiums-doku-welcomes-son-during-world-cup-amid-commentator-controversy?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Abu Dhabi healthcare group Burjeel launches $1.5b funding plan as it targets expansion",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb3pMaGVoQ0VFS05SMVlJOWowWE82bHg1WXZNVkN2aEpaS25DMzBtVVpOYk9FWFZJaVdnQi1TQXFRWlEzR3VaOTRzTW9JRVM0ekd3Z21nMmNHOFJhVjhseHJabUJDaXN4aGZWRFF0dzEydXktTE05TEpicEh0YUw4b3hZMXNCdGFFWllRbllMTnVkYmJmb210NU5UdkNwNGtBR2NkOUszbGlQSjRfQkxTTkhLblplb2gtWE40amZ6Q3pPaWNJNW5Gb0ZLeHdUZ2pfNkVsWdIB1AFBVV95cUxPb3pMaGVoQ0VFS05SMVlJOWowWE82bHg1WXZNVkN2aEpaS25DMzBtVVpOYk9FWFZJaVdnQi1TQXFRWlEzR3VaOTRzTW9JRVM0ekd3Z21nMmNHOFJhVjhseHJabUJDaXN4aGZWRFF0dzEydXktTE05TEpicEh0YUw4b3hZMXNCdGFFWllRbllMTnVkYmJmb210NU5UdkNwNGtBR2NkOUszbGlQSjRfQkxTTkhLblplb2gtWE40amZ6Q3pPaWNJNW5Gb0ZLeHdUZ2pfNkVsWQ?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "public",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Czech public media staff strike, citing government threat to independence",
-          "url": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Saudi Arabia to allow 12 commercial and leisure activities in public parks",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3JyT3YtY1IzYURGZ29BN1gtYkxxRVVzQjRWQzR1R01QaHRCZnVHSG5YRTZYUjlMUHQ2SExsSUZhRmJtQ2ZRUzNmaGpycEZWLW1fQzJfUUxfQ1FxQ29WMmZ3WVpmU05ZX3lzYkhTRmlORjlYM0NKMkxielZreTZnSVAxRVhNemNNNnpMNno4RzI0QnB4a3J3bVN2SnM1aUt4QkJndzBJVnZfZGV2QlBTOVFOTjRtZHVMMTFmazBPdE5wWjYyb1lwT3FVTm9iVzBoWG1TcWRQWdIB1wFBVV95cUxNM3JyT3YtY1IzYURGZ29BN1gtYkxxRVVzQjRWQzR1R01QaHRCZnVHSG5YRTZYUjlMUHQ2SExsSUZhRmJtQ2ZRUzNmaGpycEZWLW1fQzJfUUxfQ1FxQ29WMmZ3WVpmU05ZX3lzYkhTRmlORjlYM0NKMkxielZreTZnSVAxRVhNemNNNnpMNno4RzI0QnB4a3J3bVN2SnM1aUt4QkJndzBJVnZfZGV2QlBTOVFOTjRtZHVMMTFmazBPdE5wWjYyb1lwT3FVTm9iVzBoWG1TcWRQWQ?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "strike",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Czech public media staff strike, citing government threat to independence",
-          "url": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Teenage girl on the way to a high school in Gaza killed in Israeli strike, relatives say",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rb21wZ1diNEQ3MTU5SEJLRzEyQVUxN19EWm11VGl4R1ZBTktmQmxpSFM3eW8tazlaWk9ITktobDhHWXBVNVQ3VVBvOG1nMU02ZUo0?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "citing",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Czech public media staff strike, citing government threat to independence",
-          "url": "https://www.aljazeera.com/news/2026/6/22/czech-public-media-staff-strike-citing-government-threat-to-independence?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Haredi parties continue to boycott coalition voting over Torah Study bill",
-          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900189",
+          "title": "Montreal-born MK Illouz: The Montreal I knew is gone, the warning signs are everywhere - opinion",
+          "url": "https://www.jpost.com/opinion/article-900192",
           "source": "Jerusalem Post",
           "region": "Israel"
         }
       ]
     },
     {
-      "term": "administration",
+      "term": "controversy",
       "count": 2,
       "headlines": [
         {
-          "title": "US judge blocks Trump administration subpoena against Minnesota officials",
-          "url": "https://www.aljazeera.com/news/2026/6/22/us-judge-blocks-trump-administration-subpoena-against-minnesota-officials?traffic_source=rss",
+          "title": "Belgium’s Doku welcomes son during World Cup amid commentator controversy",
+          "url": "https://www.aljazeera.com/sports/2026/6/22/belgiums-doku-welcomes-son-during-world-cup-amid-commentator-controversy?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs",
-          "url": "https://www.egyptindependent.com/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "رويترز: انشقاقات \"الدعم السريع\" تثير جدلاً في السودان بعد استيعاب قادة بارزين بالجيش",
+          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOUnNvanNnV0ZkNnBxUWRCdmx0Y01kUWlhUTBPc1FNY0xxR0VYdFlydE45cm53bUdpb0xIYlk0amt0NU52NGJTV28zX3VZVVZCdVlLTUFVSnczd2NVNjk5amU3QjZDU1BZRG1CRGtHQ21pdTRQeTAzTm5YMzZiOG1EOHpCZUhIUjlDTW9PLVlPNzQ1X2sxOVNCTXc5LVRfZHJQeC03ZE5OZFBPcGlrOHhrM0ZIdnY3UXpYREp6dXhwNko0Z25OV0JZTmtIZ19GTWwteXFVbTlLeDFRM3BXbk1jRWdsWGFJSEY4YWllSnczcm5FWjJhWkxNMlZ3MzI1a29fSjlXX05YTHUwUWRvQjFGMFhmN1Y5WTdFZTJhazJydHJ1Q2swWllnSXpZbnJPOE9RUkNwbmR6OUZBMXBkMTFpNlJabmNSUTFubnl6bE4zcEVLakc2cnNnaTRldm1fM0szamR5M2loWUs3TjZnS2pLb2ZfVEV1SXZfa1ZMQW9MUGZES3BCMjRIUTBUNkZfNUlVNE5OWnRKX0xPNV93LUROSTNvNTVLUHd3dk1PZUhfakNuVXYteVB0YWZWWU1xMUZRbEdORGxOWE9sbWRyYWstZGlzR0VnRUdGNlZJZFVhOV9oRlXSAecDQVVfeXFMUHV4ZmxZMFFycDItd2VyRTBKRzVPa2dtZ0VUYXN2Y0ZTZWJ3QWMtaVlNZlZpUnNEZmRHSUZqQlpESUhsdXhoR3ljOTF6SGVuM2VtMkxVLWI3Qzg2X0ZLVmdpWmlvMjBRMWlmMXpkdzE0TU5PenozeXlxQTJiMzBfckJONFhBUHhNMmdfTThOWTFxakZDdXBIUEVTUnVMc0ZCa1h3ZE5OOVJmSFRGZkxtdlhsUHFNQzJsaEFwN0w3QVZCSFRtX0htcFdSd1o4bWNyOE5UT3JlWWFqTGJvSzY4cXcyNEM0el91aS1lbldRekFJOGFjQVVwTFZwYVlhTEVEZG9NSXp0akdIbENraVNubDRGblJ4MTNtcnRuOU1FYjRMWkx4V3phMUFsWmtGeUhudGtXa2tnaWRXbWFnbHhVVUtCal9sQmtwaWF3M1U4N1BvcWlVM1d0dEdpeGxvVFdPOW1MSjMtUXRicnJRMlgwa1N1S0hFclBUa25Zd0prZ29SbjFwMW1fNlFkZmFnUXJ2OW80NGwtUFNzWUtRbktpLTZwWW41QW42VnNhSGpaeHZTb0pubHNHWVBpd0dEZldGV19lTEdqbnREcHQ4NjhwNDFJZWpTY1RJS0phWUMxdTgwOW1EMTBPbw?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
         }
       ]
     },
     {
-      "term": "britons",
+      "term": "stating",
       "count": 2,
       "headlines": [
         {
-          "title": "‘Another day, another leader’: Britons react to Keir Starmer’s exit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/another-day-another-leader-britons-react-to-keir-starmers-exit?traffic_source=rss",
+          "title": "Belgium’s Doku welcomes son during World Cup amid commentator controversy",
+          "url": "https://www.aljazeera.com/sports/2026/6/22/belgiums-doku-welcomes-son-during-world-cup-amid-commentator-controversy?traffic_source=rss",
           "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "fars | Poll: Majority of Britons Disappointed by Brexit - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OUHR6VGlFcnB0QjJxZ1JQeGxnLXZaQVloQ1JLVTdhNThHczBCcjFjNHAxc1p3NXh0UzFuUER5M19VUkdueGp4XzNzckg4Z1NKQ24xTTZpNDR2TlZvczJF?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "keir",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "‘Another day, another leader’: Britons react to Keir Starmer’s exit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/another-day-another-leader-britons-react-to-keir-starmers-exit?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
-          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "least",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Fire at animation studio in India’s Lucknow kills at least 14",
-          "url": "https://www.aljazeera.com/news/2026/6/22/fire-at-animation-studio-in-indias-lucknow-kills-at-least-14?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "must",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Vance says Iran must back commitments with actions, not words",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-iran-must-back-commitments-actions-not-words",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "How Assad-era trials will test Syria's transition",
-          "url": "https://www.newarab.com/news/how-assad-era-trials-will-test-syrias-transition",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "suspends",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US suspends Iran sanctions after 'good progress' in talks",
-          "url": "https://www.middleeasteye.net/news/us-suspends-iran-sanctions-after-talks-make-good-progress",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "progress",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US suspends Iran sanctions after 'good progress' in talks",
-          "url": "https://www.middleeasteye.net/news/us-suspends-iran-sanctions-after-talks-make-good-progress",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlWNzFUTFVKb2NmNzhMa3lSeU11WktlZXZvQVI3VEJ0Ql9GaC1fQkwzSE9EMHdWQjBxYTAxOTNsd2FlSGNSWjM0Q3BzQVlxTzJjZmlVZGNwdzZMN0UySGcxalNNX3FpNjZkcGlpUE9uWEdIczQzVU9ZUFotWGVlcHVRM2d5VGE0V2Qzci1NSThSR1A5RDlOWXhTQXFUTnNkUWFQQ3lnQmFRNVJuMmRuMUQ0ZTJybV9PWkd2d0JWRnd2dEp0cVNRVkRucXR2Zw?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "switzerland",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Vance says US and Iranian negotiators remain in Switzerland for talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iranian-negotiators-remain-switzerland-talks",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran agreed to nuclear material inspection during Switzerland talks, Vance says",
-          "url": "https://www.jpost.com/international/article-900187",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "town",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "How a New Jersey town has struggled to embrace Morocco’s World Cup team",
-          "url": "https://www.middleeasteye.net/news/how-small-town-missed-opportunity-fully-embrace-morocco-football-team",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli authorities issue stop-work orders for six homes in Jenin-area town - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQS05Y1dncDBYLW1lMGlHeFJFcklPNGhnS3ZHYkxEcWtCaThrS1RwLXJPRDM2MEJxRHNUY1RfZTJTYTFlS3RGY29rZmJaRlRIRGo4M09MRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "team",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "How a New Jersey town has struggled to embrace Morocco’s World Cup team",
-          "url": "https://www.middleeasteye.net/news/how-small-town-missed-opportunity-fully-embrace-morocco-football-team",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Crown Prince reaffirms support for national team ahead of Algeria match",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjc1TEJPc1dJcHJNcHd0dHU1UXNjS2lmVGxkd0JBak1Cd3ZtQ0F0Nk1lc0t2eEEtTnBHRjRDMEE5d2xjSXdGSW93aUJhSzlnT3hscGtDTUp3X2xpRnFydG5scHRuckRkelU1NVhPN0dEX3lJTjRIOHRXYm1kTVlKamVpWUMzemVYbjZJV0J3TVB6YmF6RjVXSXdrUjNpaVFhVTgwaEtpTTZ4QQ?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "strait",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Trump Says Strait of Hormuz Is Open",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Open or closed? What the Hormuz shipping data actually shows",
-          "url": "https://www.newarab.com/news/open-or-closed-what-hormuz-shipping-data-actually-shows",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "visit",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Patriarchs of Jerusalem Visit Gaza",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZERFXzdLUVF3U3JJWlkxckFTQ0NDM0xLdGtYczc5TEY2U282dkdVcWExS0tCMHBydGh3M0VabFg0NjRON0FFdFlxS2FKM0ZoT25Xa2djT05EU0xjZEFFR1BRODEzNFJsSmc1OEo5bWdOOXhsNlZuc3JMTm95dEVBZE1qQzJjUkNnek5RNzVnS1DSAZYBQVVfeXFMT25zXzRZbHE2SHc2WXpTZldrZ1dqV0FtQXdKSjNYcks0WkFFTXR6VkYzajNsZ0pBRmdWRVpPZWN0ZENXNEZFQ3NfT3l6OFRhWU5fLWFkYjVyTTRCaFVDNGg5R1l6dkJnVm5XOE5fY2N3dFlnc0E2Y1BvQURuZFFKNHpxeGR3dWpEcEprMDJyQk56RUZrWVVB?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Marco Rubio to hold talks in the UAE during Gulf visit",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHRVTEY5SU9WQXBsMW1DSFVhNHJzemJ2MmM5M05sUGx3akpfSnNzTWlXQzdPZU9WXzg5RV9SZWFyUGZGZkpKLXNlZ2JSTmNRSWdaNUE4WWxiZVhFeTVnbjRvX3hXWi0wYzFzQmJoaEVKQy13eG91TEcwczlHdWEyZThwYVlwN2txWC1CSE9JVnA3ZzZFSW9qUGpRc3NQejhySm05eHphTV9ZQQ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "messi",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Magic Messi makes World Cup history to send Argentina into last 32",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWc3T1J0aVUzNzBEOU1abm9OcTdpRm5sNXVSZGx6akhoVkdMS2xLT0VfY3EyRXR1aWFUWHFGREdGeEdOQUlOUWpOSzZ1b2xONk5EWTBwNk00RTN4bFlYTEdfLTNnRVdwcnZXS0Ixd01JTHZhTWRuRFo1RldsN21JbmtIeHZEUmViTnNGTUc5eVlsUEVUWmhJYUZsR0gtSmVUOHotYUM0RFp3VTFNb3RXNEJ2UW7SAboBQVVfeXFMTlNGYm5uRWJLTjhIVnA1bVdOaV9IUDlVQ0NEMHVYbGJTeV9fa0xoZUpTb0JGbUJaRjFRdXNhXzMwUWxfTlNad01VS25XWVk5ODZ2R0h6cW12Y0lVc3c3SDBDb0l2bHFadk5UOFlYUGJfXzNSU2hGNFU2SGV5QnhfSnlLRDFfSzRKRmhENE9UYmJqMXQwcTdpM2VVNmh1cUhTYXFqUUlUenZSU2VLeUl1c2Y1NnNXcllCbWl3?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "ميسي يقود الأرجنتين لتجاوز النمسا ويصبح الهداف التاريخي لكأس العالم - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQU2IwcWdGQVBSUEwyUlBPdktIdnltdVFTRTRmUEJTQjdfU1NGNVM0NHZTZDhrT085dnVBUnZWVkF0WGI2NGduaWY3SXZoOVdxeHJHNnVlSnc4TmlGcTdtNW4wOF9hUkp2SjdMWnJmODRPQk1XRkJNWnFpQ19WWW0yNlQyX3Q3bU00eThfdlFlaWhSVDM2Nnp6T2hCejlQTDMxVzQzZHhWbFBsR3IzaUZJb2ppV1Blbm04TTE2N240YlpCTjdaYkQybnFFOFNTNkxLUmNkOFRoQnZKVkVPMWc5WGxMZ2RLWlFwNFpTelh3UC1SZ29ibkpFU1JXLV90U0p0V2FTa1pSWWNMeTVSRXNCbjU0NVp4d2xoVkxmWEVoOWZNcmQtcmp4c3ZsMjlfRnd5eVpRMGRtQUVWREUtY3RTVURrOTBrWWxPNVVfbGJQWWlyS2FENkFjZ1drMHNvcTlIeHZwdUtjTDdYOFpwWW5XQjNsckhndmdkdHRhYlVweE9hSkVKcEhxQ2NzMXdYNC1ER2lOdlhnYk9nNVl3dzd0RGpsRXJOeTZXQkc5Q3RkWmpkZDVpUUY4bTg2dHNMSVRRMnZiWllBNk1kUDd1Q0NBVG41THRGWGlveXctY3Fmem1MNUprcUU5VDJoXy1oa2xPVFh3V3dGV2x5aGRoWUNUMlE2QQ?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "history",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Magic Messi makes World Cup history to send Argentina into last 32",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWc3T1J0aVUzNzBEOU1abm9OcTdpRm5sNXVSZGx6akhoVkdMS2xLT0VfY3EyRXR1aWFUWHFGREdGeEdOQUlOUWpOSzZ1b2xONk5EWTBwNk00RTN4bFlYTEdfLTNnRVdwcnZXS0Ixd01JTHZhTWRuRFo1RldsN21JbmtIeHZEUmViTnNGTUc5eVlsUEVUWmhJYUZsR0gtSmVUOHotYUM0RFp3VTFNb3RXNEJ2UW7SAboBQVVfeXFMTlNGYm5uRWJLTjhIVnA1bVdOaV9IUDlVQ0NEMHVYbGJTeV9fa0xoZUpTb0JGbUJaRjFRdXNhXzMwUWxfTlNad01VS25XWVk5ODZ2R0h6cW12Y0lVc3c3SDBDb0l2bHFadk5UOFlYUGJfXzNSU2hGNFU2SGV5QnhfSnlLRDFfSzRKRmhENE9UYmJqMXQwcTdpM2VVNmh1cUhTYXFqUUlUenZSU2VLeUl1c2Y1NnNXcllCbWl3?oc=5",
-          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -1079,330 +1763,6 @@
           "url": "https://www.egyptindependent.com/zelensky-returns-polands-highest-honor-amid-escalating-row-over-nationalist-wartime-unit/",
           "source": "Egypt Independent",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "argentina",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Magic Messi makes World Cup history to send Argentina into last 32",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWc3T1J0aVUzNzBEOU1abm9OcTdpRm5sNXVSZGx6akhoVkdMS2xLT0VfY3EyRXR1aWFUWHFGREdGeEdOQUlOUWpOSzZ1b2xONk5EWTBwNk00RTN4bFlYTEdfLTNnRVdwcnZXS0Ixd01JTHZhTWRuRFo1RldsN21JbmtIeHZEUmViTnNGTUc5eVlsUEVUWmhJYUZsR0gtSmVUOHotYUM0RFp3VTFNb3RXNEJ2UW7SAboBQVVfeXFMTlNGYm5uRWJLTjhIVnA1bVdOaV9IUDlVQ0NEMHVYbGJTeV9fa0xoZUpTb0JGbUJaRjFRdXNhXzMwUWxfTlNad01VS25XWVk5ODZ2R0h6cW12Y0lVc3c3SDBDb0l2bHFadk5UOFlYUGJfXzNSU2hGNFU2SGV5QnhfSnlLRDFfSzRKRmhENE9UYmJqMXQwcTdpM2VVNmh1cUhTYXFqUUlUenZSU2VLeUl1c2Y1NnNXcllCbWl3?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "ميسي يقود الأرجنتين لتجاوز النمسا ويصبح الهداف التاريخي لكأس العالم - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQU2IwcWdGQVBSUEwyUlBPdktIdnltdVFTRTRmUEJTQjdfU1NGNVM0NHZTZDhrT085dnVBUnZWVkF0WGI2NGduaWY3SXZoOVdxeHJHNnVlSnc4TmlGcTdtNW4wOF9hUkp2SjdMWnJmODRPQk1XRkJNWnFpQ19WWW0yNlQyX3Q3bU00eThfdlFlaWhSVDM2Nnp6T2hCejlQTDMxVzQzZHhWbFBsR3IzaUZJb2ppV1Blbm04TTE2N240YlpCTjdaYkQybnFFOFNTNkxLUmNkOFRoQnZKVkVPMWc5WGxMZ2RLWlFwNFpTelh3UC1SZ29ibkpFU1JXLV90U0p0V2FTa1pSWWNMeTVSRXNCbjU0NVp4d2xoVkxmWEVoOWZNcmQtcmp4c3ZsMjlfRnd5eVpRMGRtQUVWREUtY3RTVURrOTBrWWxPNVVfbGJQWWlyS2FENkFjZ1drMHNvcTlIeHZwdUtjTDdYOFpwWW5XQjNsckhndmdkdHRhYlVweE9hSkVKcEhxQ2NzMXdYNC1ER2lOdlhnYk9nNVl3dzd0RGpsRXJOeTZXQkc5Q3RkWmpkZDVpUUY4bTg2dHNMSVRRMnZiWllBNk1kUDd1Q0NBVG41THRGWGlveXctY3Fmem1MNUprcUU5VDJoXy1oa2xPVFh3V3dGV2x5aGRoWUNUMlE2QQ?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "starmer",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
-          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Starmer quits",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42d0tlRTlibHUzSzRZV2JuT3RsVm9uZUNkUVZrNF9tS2YzbHVucGhwNS13RVNPdWI1OUd6bUh0emRHWEQtQ1hqYjFVMC0zZzZ0a2cyX185X0RneThRcl9mUEQ4RmRFWUJTQ0JkYzJYMTk5aWwzZFdWMdIBfkFVX3lxTE5zbG9JT1lqNFV6WXg1d09hT0RmM1pIeFN4TVM4d1JKdWRXTk5tZlN3SHROc29YQ1g3blROTndGTDJyMFl4S2xJQzZObXZhdDQ5ZFRTQzliVHVJUW52bWNvUzZEeGxNZzhaNkVzdEdzQkVBWC1rcGZaUUVtZ1hxQQ?oc=5",
-          "source": "Gulf Times",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "support",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
-          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Crown Prince reaffirms support for national team ahead of Algeria match",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjc1TEJPc1dJcHJNcHd0dHU1UXNjS2lmVGxkd0JBak1Cd3ZtQ0F0Nk1lc0t2eEEtTnBHRjRDMEE5d2xjSXdGSW93aUJhSzlnT3hscGtDTUp3X2xpRnFydG5scHRuckRkelU1NVhPN0dEX3lJTjRIOHRXYm1kTVlKamVpWUMzemVYbjZJV0J3TVB6YmF6RjVXSXdrUjNpaVFhVTgwaEtpTTZ4QQ?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "data",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Open or closed? What the Hormuz shipping data actually shows",
-          "url": "https://www.newarab.com/news/open-or-closed-what-hormuz-shipping-data-actually-shows",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Tata Electronics breach: How serious is the alleged Apple, Tesla data leak?",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmotSE1fc2FSUUxGSi1hTzJ4VWVrTlRhQ2o0Q1dYQ0dybjV6ZUJncng1RW9QaFRUOHU4Z3BCdXZXTXFoeDV2ZUlHUV84aGUxTFlkeUU3WHhMcmwzX2tpLWk0ajA4eFdRS1djd1lUU3hSay1IUmNubHRPeEN3ZG9kTTRBV0t6RWE2U0VfZkh3NlJhZXBZSzZWMlJ4NjRGWWIzSjdJaGxjRDlwSVgwOUhDOWFPZW56SXg1RVNYTDhKSU44eTVPQmRR0gHHAUFVX3lxTFBaai1ITV9zYVJRTEZKLWFPMnhVZWtOVGFDajRDV1hDR3JuNXplQmdyeDVFb1BoVFQ4dThncEJ1dldNcWh4NXZlSUdRXzhoZTFMWWR5RTdYeExybDNfa2ktaTRqMDh4V1FLV2N3WVRTeFJrLUhSY25sdE94Q3dkb2RNNEFXS3pFYTZTRV9mSHc2UmFlcFlLNlYyUng2NEZZYjNKN0lobGNEOXBJWDA5SEM5YU9lbnpJeDVFU1hMOEpJTjh5NU9CZFE?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "shows",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Open or closed? What the Hormuz shipping data actually shows",
-          "url": "https://www.newarab.com/news/open-or-closed-what-hormuz-shipping-data-actually-shows",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran shows Trump just how hard making peace will be",
-          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "suggesting",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Open or closed? What the Hormuz shipping data actually shows",
-          "url": "https://www.newarab.com/news/open-or-closed-what-hormuz-shipping-data-actually-shows",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "NYC coffee shop bars Jewish congressman: ‘We don’t serve genocide enablers’",
-          "url": "https://www.timesofisrael.com/nyc-coffee-shop-bars-jewish-congressman-we-dont-serve-genocide-enablers/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "syria",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "How Assad-era trials will test Syria's transition",
-          "url": "https://www.newarab.com/news/how-assad-era-trials-will-test-syrias-transition",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Inauguration of Jordanian pavilion at 'Food Expo Syria'",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSUNhNlVEVzNqeHp1aEd2RlMzcVF3VzBJVW1XbHpuSVZRREFOdVk3UEdHczl1YjBQMzllaHFSLTk5SW44b2xoWS1oVzI5WkRmZ1Y1Q0VrX3VrZGRZWE5BOGpGNWVmV3hhTlBodVptMTl5dXpjel9tSVhHd1RjZl9sMjR5WElqVkJxYTVIVTNCYWJZM1ZIaVE?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "ties",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "ACI urges 'stronger' economic ties, direct air link with Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTBuU1lrS3FJSmpLcDlkQUxma25VaURPWjlta3MyeDUxLXltd254ODFMNHhVcnJuZGNzYU5IUHk4eUxrcDVBN1E1aGU1S0FTQkljS2VsdXMtSjJULWpPeUVXdUhMdUVRSTFVcTNEY3RRdDBhZEFiSWdDdW1PX09PQmxzZmVGX29hb2FpOHRrMkRWMlpZa0hTcnpDTlk0c1ZqX3c?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran to continue diplomatic efforts to boost ties",
-          "url": "https://en.mehrnews.com/news/245543/Iran-committed-to-diplomacy-under-international-law",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "pakistan",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "ACI urges 'stronger' economic ties, direct air link with Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTBuU1lrS3FJSmpLcDlkQUxma25VaURPWjlta3MyeDUxLXltd254ODFMNHhVcnJuZGNzYU5IUHk4eUxrcDVBN1E1aGU1S0FTQkljS2VsdXMtSjJULWpPeUVXdUhMdUVRSTFVcTNEY3RRdDBhZEFiSWdDdW1PX09PQmxzZmVGX29hb2FpOHRrMkRWMlpZa0hTcnpDTlk0c1ZqX3c?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Pakistan ends subsidies for motorcyclists, farmers and transporters as fuel prices retreat",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UVDhvY0s2dXdaSDRjUzBlTEVwVmhLRXVHa1NoaXEtczNvTDlRTEk5ZDRyWVI4Nll2TnBOMjgwbm5RMlNfRWN2OFBWWjI5NTNRZ0tz?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "qatar",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Jordan voices solidarity with Qatar following gas blast",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnBwRl9jcFNwWU9wYzhHUEdsc0NyVTYwcjMtbE5GV3QxcU40Q2JSTkhoc0JtbTR5NTNSUlZydWVnOFNmUWpBd3RKZzlSZzF6ZGdUUDZKcmNfOF9jNzJxZ05TT1BOdmI5b0tudVFtTXRiNEZIS2lOUGlLeVhYRk1zR2xrb2E2aDJMM1ZSYnBjRFh2ZGhw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "saudi",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "With Fahd al-Doussari, Saudi Arabia seeks to regain the initiative in Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGZXOGI0MGJUZlBMakI2Vmh6QXhteW9XQ25XbVBFQ2xrMEpxREZPUFRUUGJqbUg5MWdkdzBuV2tIWnNDVUxuNFNJSVp0QzFvaVdpdDdkY3R6V3ZkYTh6eXRkSFdGYnVPNzJyVWVlT0JMQVlrS1BrNkNsUXdMNlE5d19OQ0J0djkwMVlBUmZ6TTNiZk03MEVGdmJwTFN5WU5HQ3BQcVpWOExFZ2dLRDJIck5zb0dQbDBNZk52aVFwcTh0MkdST3lOOA?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Saudi Arabia to allow 12 commercial and leisure activities in public parks",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3JyT3YtY1IzYURGZ29BN1gtYkxxRVVzQjRWQzR1R01QaHRCZnVHSG5YRTZYUjlMUHQ2SExsSUZhRmJtQ2ZRUzNmaGpycEZWLW1fQzJfUUxfQ1FxQ29WMmZ3WVpmU05ZX3lzYkhTRmlORjlYM0NKMkxielZreTZnSVAxRVhNemNNNnpMNno4RzI0QnB4a3J3bVN2SnM1aUt4QkJndzBJVnZfZGV2QlBTOVFOTjRtZHVMMTFmazBPdE5wWjYyb1lwT3FVTm9iVzBoWG1TcWRQWdIB1wFBVV95cUxNM3JyT3YtY1IzYURGZ29BN1gtYkxxRVVzQjRWQzR1R01QaHRCZnVHSG5YRTZYUjlMUHQ2SExsSUZhRmJtQ2ZRUzNmaGpycEZWLW1fQzJfUUxfQ1FxQ29WMmZ3WVpmU05ZX3lzYkhTRmlORjlYM0NKMkxielZreTZnSVAxRVhNemNNNnpMNno4RzI0QnB4a3J3bVN2SnM1aUt4QkJndzBJVnZfZGV2QlBTOVFOTjRtZHVMMTFmazBPdE5wWjYyb1lwT3FVTm9iVzBoWG1TcWRQWQ?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "arabia",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "With Fahd al-Doussari, Saudi Arabia seeks to regain the initiative in Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGZXOGI0MGJUZlBMakI2Vmh6QXhteW9XQ25XbVBFQ2xrMEpxREZPUFRUUGJqbUg5MWdkdzBuV2tIWnNDVUxuNFNJSVp0QzFvaVdpdDdkY3R6V3ZkYTh6eXRkSFdGYnVPNzJyVWVlT0JMQVlrS1BrNkNsUXdMNlE5d19OQ0J0djkwMVlBUmZ6TTNiZk03MEVGdmJwTFN5WU5HQ3BQcVpWOExFZ2dLRDJIck5zb0dQbDBNZk52aVFwcTh0MkdST3lOOA?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Saudi Arabia to allow 12 commercial and leisure activities in public parks",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3JyT3YtY1IzYURGZ29BN1gtYkxxRVVzQjRWQzR1R01QaHRCZnVHSG5YRTZYUjlMUHQ2SExsSUZhRmJtQ2ZRUzNmaGpycEZWLW1fQzJfUUxfQ1FxQ29WMmZ3WVpmU05ZX3lzYkhTRmlORjlYM0NKMkxielZreTZnSVAxRVhNemNNNnpMNno4RzI0QnB4a3J3bVN2SnM1aUt4QkJndzBJVnZfZGV2QlBTOVFOTjRtZHVMMTFmazBPdE5wWjYyb1lwT3FVTm9iVzBoWG1TcWRQWdIB1wFBVV95cUxNM3JyT3YtY1IzYURGZ29BN1gtYkxxRVVzQjRWQzR1R01QaHRCZnVHSG5YRTZYUjlMUHQ2SExsSUZhRmJtQ2ZRUzNmaGpycEZWLW1fQzJfUUxfQ1FxQ29WMmZ3WVpmU05ZX3lzYkhTRmlORjlYM0NKMkxielZreTZnSVAxRVhNemNNNnpMNno4RzI0QnB4a3J3bVN2SnM1aUt4QkJndzBJVnZfZGV2QlBTOVFOTjRtZHVMMTFmazBPdE5wWjYyb1lwT3FVTm9iVzBoWG1TcWRQWQ?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "aviv",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "A strategic Ankara-Damascus-Beirut axis against Tel Aviv?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0I2YmNUMjY3eTBYUVNReVBCU25rZzJQd2FjYUdVU0E3cjZkQ3pxMGFKc3N0RUJiY1FRcm8xYVNwS3U4dGFySVlMOXh5ZTJnR3R1dHpSVS1CQml3VnN4RE5GWkFFRTVYdVJHcUZkMFVNUVZLc3RXUDB1NnV4cU1PbVZtS2ZiX3RFdlM5VjlXQjBjYndxQXJvYnRfNFBmVzE0SlZjRy1YRGpybDk0M1E?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Yoga enthusiasts salute the Tel Aviv sun",
-          "url": "https://www.timesofisrael.com/yoga-enthusiasts-salute-the-tel-aviv-sun/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "security",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs",
-          "url": "https://www.egyptindependent.com/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Iranian security representative Nezami arrives in Delhi for BRICS NSAs meeting",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFU4YjN5TkdUNXhhQWFGZjBSUmcyVzdORVZsQ3lpZTdTREVvMS01UE10cEdEaWp0ZmpWVGFQMTkxN252T0pPLWxaWXRoTkQyZnp5Q0VUZFNtejgwYmY3aUpieWZhRGVsUDduM25qM0h6REo4bVpmbFFYMXAwdW0tU2lkakdPMlR4aEdXMjJpLVZ6UnExd0JxMEhuLWVEVFRrT3BrWGlpSHdjUVpJVkxiWmhaSWp5NTV2?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "source",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israel considering announcing “symbolic” withdrawals as part of talks with Lebanon, source says",
-          "url": "https://www.egyptindependent.com/israel-considering-announcing-symbolic-withdrawals-as-part-of-talks-with-lebanon-source-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Source rejects Vance's claim on IAEA inspectors return",
-          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "peace",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Iran shows Trump just how hard making peace will be",
-          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlWNzFUTFVKb2NmNzhMa3lSeU11WktlZXZvQVI3VEJ0Ql9GaC1fQkwzSE9EMHdWQjBxYTAxOTNsd2FlSGNSWjM0Q3BzQVlxTzJjZmlVZGNwdzZMN0UySGcxalNNX3FpNjZkcGlpUE9uWEdIczQzVU9ZUFotWGVlcHVRM2d5VGE0V2Qzci1NSThSR1A5RDlOWXhTQXFUTnNkUWFQQ3lnQmFRNVJuMmRuMUQ0ZTJybV9PWkd2d0JWRnd2dEp0cVNRVkRucXR2Zw?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "vance's",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Iran shows Trump just how hard making peace will be",
-          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Source rejects Vance's claim on IAEA inspectors return",
-          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "egyptian",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Why are we ashamed of the Egyptian dialect?",
-          "url": "https://www.egyptindependent.com/why-are-we-ashamed-of-the-egyptian-dialect/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Arab League confirms Egyptian diplomat Nabil Fahmy as secretary general",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XdnZRZnNfak9MR1hUTm5QcTdGREhONzNlYWx4amxzYzVqLTJXNFRkUUFqTFlpSVpGVzVzSTFFOHJ5eWp4dEp6RmEwYmRieVhXdjY4?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
         }
       ]
     }
