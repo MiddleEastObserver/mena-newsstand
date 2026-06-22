@@ -21,7 +21,7 @@
 <meta name="twitter:description" content="Live newspaper front pages and top headlines across the Middle East, US and Europe — refreshed every 30 minutes.">
 <meta name="twitter:image" content="https://roiebe23.github.io/mena-newsstand/frontpages/nyt.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=Source+Sans+3:wght@300;400;500;600&family=Noto+Naskh+Arabic:wght@400;600;700&family=Noto+Sans+Hebrew:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
   --ink:#16213E;--ink2:#3A4458;--muted:#69707E;
@@ -34,7 +34,7 @@
   --r1:6px;--r2:10px;--r3:14px;
 }
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Source Sans 3','Noto Sans Hebrew','Noto Naskh Arabic',sans-serif;background:var(--bg);color:var(--ink)}
+body{font-family:'Source Sans 3',sans-serif;background:var(--bg);color:var(--ink)}
 a{text-decoration:none;color:inherit}
 button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .wrap{max-width:960px;margin:0 auto;padding:0 16px}
@@ -102,13 +102,6 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 /* Tip */
 .tip{background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 var(--r1) var(--r1) 0;padding:12px 15px;margin-bottom:20px;font-size:13px;line-height:1.6;color:var(--ink2)}
 .tip strong{color:var(--ink)}
-
-/* Language bar */
-.lang-bar{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:12px}
-.lang-chip{font-size:11px;font-weight:600;padding:4px 11px;border:1px solid var(--line);border-radius:var(--r1);background:#fff;color:var(--ink2);cursor:pointer;transition:.15s;white-space:nowrap;font-family:'Source Sans 3',sans-serif}
-.lang-chip:hover:not(:disabled):not(.active){border-color:var(--ink);color:var(--ink)}
-.lang-chip.active{background:var(--ink);color:#fff;border-color:var(--ink)}
-.lang-chip:disabled{opacity:.35;cursor:default}
 
 /* Headlines tab */
 .hl-updated{font-size:11px;color:var(--muted);font-style:italic;margin-bottom:16px}
@@ -209,18 +202,10 @@ footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-a
   <!-- WORLD BRIEFING TAB -->
   <div class="section active" id="sec-briefing">
     <div class="sec-head"><h2>World Briefing</h2></div>
-    <div class="lang-bar" id="briefing-lang-bar">
-      <button class="lang-chip active" data-lang="en" onclick="switchLang('en')">English</button>
-      <button class="lang-chip" data-lang="he" onclick="switchLang('he')" disabled>עברית</button>
-      <button class="lang-chip" data-lang="ar" onclick="switchLang('ar')" disabled>العربية</button>
-    </div>
     <div class="briefing-card" id="briefing-card" style="display:none">
       <div class="briefing-head">
-        <span class="briefing-title" id="briefing-title">World Briefing</span>
+        <span class="briefing-title">World Briefing</span>
         <span class="briefing-ts" id="briefing-ts"></span>
-      </div>
-      <div id="briefing-lang-note" class="sec-note" style="display:none;margin-bottom:10px">
-        Translation not yet available — showing English. Translations are added at each 6-hour briefing update.
       </div>
       <div id="briefing-body"></div>
     </div>
@@ -231,11 +216,6 @@ footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-a
   <div class="section" id="sec-headlines">
     <div class="sec-head">
       <h2>Live Headlines</h2>
-    </div>
-    <div class="lang-bar" id="lang-bar">
-      <button class="lang-chip active" data-lang="en" onclick="switchLang('en')">English</button>
-      <button class="lang-chip" data-lang="he" onclick="switchLang('he')" disabled>עברית</button>
-      <button class="lang-chip" data-lang="ar" onclick="switchLang('ar')" disabled>العربية</button>
     </div>
     <div class="sec-note">Top 5 headlines from 22 MENA and regional outlets, organized by region. Refreshed automatically every 30 minutes.</div>
     <div id="hl-container"><div class="hl-loading">Loading headlines…</div></div>
@@ -305,14 +285,14 @@ footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-a
 // by any reachable cover source or block datacenter IPs, so they're omitted
 // rather than shown as permanent "not available" placeholders.
 const FP_PAPERS = [
-  // ——— Middle East ———————————————————————————————————————
+  // ――― Middle East ――――――――――――――――――――――――――――――――――――
   { id:"haaretz",      name:"Haaretz",         loc:"Israel",           lang:"en", site:"https://www.haaretz.com" },
   { id:"the_national", name:"The National",    loc:"UAE",              lang:"en", site:"https://www.thenationalnews.com" },
-  // ——— United States ———————————————————————————————————
+  // ――― United States ―――――――――――――――――――――――――――――――
   { id:"nyt",             name:"New York Times",         loc:"USA", lang:"en", site:"https://www.nytimes.com" },
   { id:"wsj",             name:"Wall Street Journal",    loc:"USA", lang:"en", site:"https://www.wsj.com" },
   { id:"usa_today",       name:"USA Today",              loc:"USA", lang:"en", site:"https://www.usatoday.com" },
-  // ——— Europe —————————————————————————————————————————
+  // ――― Europe ―――――――――――――――――――――――――――――――――――――――
   { id:"the_independent", name:"The Independent",        loc:"UK",      lang:"en", site:"https://www.independent.co.uk" },
   { id:"daily_mail",      name:"Daily Mail",             loc:"UK",      lang:"en", site:"https://www.dailymail.co.uk" },
   { id:"die_welt",        name:"Die Welt",               loc:"Germany", lang:"de", site:"https://www.welt.de" },
@@ -322,35 +302,7 @@ const FP_PAPERS = [
 let FP_STATUS = {};   // id -> {ok, date}
 let FP_VER = "";      // cache-busting version (date) for the image URLs
 
-const LANG_KEYS = {
-  en:"regions", he:"regions_he", ar:"regions_ar"
-};
-
 let hlData = null;
-let currentLang = "en";
-
-function updateLangChips(){
-  if(!hlData) return;
-  document.querySelectorAll(".lang-chip").forEach(btn=>{
-    const lang = btn.dataset.lang;
-    const avail = lang === "en" || !!(hlData[LANG_KEYS[lang]]);
-    btn.disabled = !avail;
-    btn.title = avail ? "" : "Translation loading — check back after the next 30-min update";
-    btn.classList.toggle("active", lang === currentLang);
-  });
-}
-
-function switchLang(lang){
-  if(!hlData) return;
-  if(lang !== "en" && !hlData[LANG_KEYS[lang]]) return;
-  currentLang = lang;
-  updateLangChips();
-  const displayData = lang === "en"
-    ? hlData
-    : Object.assign({}, hlData, {regions: hlData[LANG_KEYS[lang]]});
-  renderHeadlines(displayData, document.getElementById("hl-container"));
-  renderBriefing(lang);
-}
 
 function fpImgURL(id){ return `frontpages/${id}.jpg?v=${encodeURIComponent(FP_VER || "0")}`; }
 
@@ -401,7 +353,7 @@ async function buildFPGrid(){
   if(note) note.textContent = FP_VER ? ("Front pages as of " + FP_VER) : "";
 }
 
-// ——— Archive: browse past front pages by date ———————————————————————
+// ――― Archive: browse past front pages by date ―――――――――――――――――――――――
 // Loads frontpages/archive/index.json: { papers:{id:{name,loc,lang,site}},
 // dates:{ "YYYY-MM-DD":[ids] } } produced by fetch_frontpages.py.
 let ARCHIVE_INDEX = null;
@@ -539,7 +491,7 @@ setInterval(loadHeadlines, 30 * 60 * 1000);
 setInterval(loadBriefing,   6 * 60 * 60 * 1000);
 setInterval(loadPulse,     30 * 60 * 1000);
 
-// ——— Media Pulse word cloud —————————————————————————————————————————
+// ――― Media Pulse word cloud ―――――――――――――――――――――――――――――――――――――――
 let pulseData = null;
 
 async function loadPulse(){
@@ -579,47 +531,25 @@ function showPulseTerm(i){
     `<div class="pulse-detail-head">"${esc(t.term)}" — ${t.count} headline${t.count===1?"":"s"}</div>${hls}`;
 }
 
-let briefingData = null;
-
-// Localized label for the card title, per supported language.
-const BRIEFING_LABELS = {
-  en:"World Briefing", he:"תדריך עולמי", ar:"موجز عالمي"
-};
-
 async function loadBriefing(){
   try{
     const r = await fetch("briefing.json?t=" + Date.now(), {cache:"no-store"});
     if(!r.ok) return;
-    briefingData = await r.json();
-    if(!(briefingData.html_by_lang || briefingData.html)) return;
-    const ts = document.getElementById("briefing-ts");
-    if(briefingData.updated){
-      const d = new Date(briefingData.updated);
-      ts.textContent = "Updated " + d.toLocaleString("en-US",{
+    const data = await r.json();
+    const html = ((data.html_by_lang && data.html_by_lang.en) || data.html || "").trim();
+    if(!html) return;
+    if(data.updated){
+      const d = new Date(data.updated);
+      document.getElementById("briefing-ts").textContent = "Updated " + d.toLocaleString("en-US",{
         weekday:"short", month:"short", day:"numeric",
         hour:"2-digit", minute:"2-digit", timeZone:"UTC", timeZoneName:"short"
       });
     }
-    renderBriefing(currentLang);
+    document.getElementById("briefing-body").innerHTML = html;
     document.getElementById("briefing-card").style.display = "";
     const ph = document.getElementById("briefing-placeholder");
     if(ph) ph.style.display = "none";
   }catch(e){ /* briefing.json not yet available */ }
-}
-
-function renderBriefing(lang){
-  if(!briefingData) return;
-  const byLang = briefingData.html_by_lang || {en: briefingData.html || ""};
-  const targetHtml = byLang[lang];
-  const html = (targetHtml || byLang.en || briefingData.html || "").trim();
-  if(!html) return;
-  const body = document.getElementById("briefing-body");
-  body.innerHTML = html;
-  body.dir = (lang === "he" || lang === "ar") ? "rtl" : "ltr";
-  document.getElementById("briefing-title").textContent =
-    BRIEFING_LABELS[lang] || BRIEFING_LABELS.en;
-  const note = document.getElementById("briefing-lang-note");
-  if(note) note.style.display = (lang !== "en" && !targetHtml) ? "" : "none";
 }
 
 function esc(s){
@@ -636,8 +566,6 @@ async function loadHeadlines(){
     if(!res.ok) throw new Error("HTTP "+res.status);
     const data = await res.json();
     hlData = data;
-    currentLang = "en";
-    updateLangChips();
     renderHeadlines(data, container);
   }catch(err){
     container.innerHTML=`<div class="hl-loading">Headlines not yet available — the fetcher refreshes every 30 minutes.<br><small style="color:var(--muted)">(${err.message})</small></div>`;
