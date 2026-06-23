@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:49:11.428076+00:00",
+  "updated": "2026-06-23T02:18:59.531728+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Israeli strike kills Palestinian girl on her way to sit exam",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
+            "published": "2026-06-23T01:23:08+00:00",
+            "snippet": ""
+          },
           {
             "title": "Mbappe leads France to win over Iraq in lightning-delayed World Cup game",
             "url": "https://www.aljazeera.com/sports/2026/6/23/mbappe-leads-france-to-win-over-iraq-in-lightening-delayed-world-cup-tie?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
             "published": "2026-06-23T00:00:00+00:00",
             "snippet": "The US has waived oil sanctions on Iran and will release $12 billion in frozen funds, contingent on Iran's commitment to allow international nuclear inspections."
-          },
-          {
-            "title": "Gaza surfers seek solace from war in the sea",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
-            "published": "2026-06-22T23:01:22+00:00",
-            "snippet": "Gaza's surf community, devastated by war, is finding solace in the sea amidst the ongoing conflict."
           }
         ],
         "error": null
@@ -47,6 +47,18 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Iran says technical talks with US have concluded, announces next phase",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-technical-talks-us-have-concluded-announces-next-phase",
+            "published": "2026-06-23T02:15:02+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Pezeshkian hails Lebanon deconfliction cell as major achievement",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-hails-lebanon-deconfliction-cell-major-achievement",
+            "published": "2026-06-23T02:14:13+00:00",
+            "snippet": ""
+          },
           {
             "title": "New York Mayor Mamdani condemns continued killings in Gaza and Aipac",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-york-mayor-mamdani-condemns-continued-killings-gaza-and-aipac",
@@ -64,18 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-released-iranian-assets-will-return-through-food-purchases",
             "published": "2026-06-23T00:10:05+00:00",
             "snippet": "US President Donald Trump stated that any released Iranian funds will be used for food purchases from the US, benefiting American farmers."
-          },
-          {
-            "title": "Oman reaffirms support for toll-free passage through Hormuz",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-reaffirms-support-toll-free-passage-through-hormuz",
-            "published": "2026-06-23T00:01:34+00:00",
-            "snippet": "Oman's foreign minister Badr Albusaidi reaffirmed Muscat's commitment to ensuring toll-free and safe passage through the Strait of Hormuz after discussions with Iranian officials."
-          },
-          {
-            "title": "Ghalibaf says Strait of Hormuz will not return to pre-war status",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-strait-hormuz-will-not-return-pre-war-status",
-            "published": "2026-06-22T23:51:52+00:00",
-            "snippet": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf declared that the Strait of Hormuz will \"never return to the pre-war situation,\" highlighting the outcome of negotiations as a diplomatic achievement."
           }
         ],
         "error": null
@@ -329,6 +329,12 @@
             "snippet": "10 أطعمة مرطبة للحفاظ على سوائل الجسم."
           },
           {
+            "title": "محمد الفرح: اليمن حاضر في الاتفاق الأميركي - الإيراني - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQOG5MMzBVMFlyRlg5QUlnXzlCd2VjSXcyN3c2MWtlX2tVT1VSWkt6aVlIdDNHdVdzVlRkNVh5UXhVbXpzenZTSHQ3TVlId2lySXUtdk15VHhXZW01WGRtdkpfQjZjYV9JWGhQWXZ2bzNjWXRwN2dZUXVOd2M2NHJHcTYxekRLdnV6Zi1tTjNqaUROUzcyaDBBUmJrejZtZHNyZFVUenJmOWJRYUFrZm4tZUNodmJoNzNwTkpqQzl6ejVqWWpJYklseHh1aG1sZ0NMM29BWWh2ekVuYllrRnhwNDRYdWVNZW5DNGRrWlVDRW9KZmw4WmlmeEpwZUJ4OXZCUnB0QVdNRWlSd1RHZHktSElqMkdhMERCYzFHdF95T0poOTNGWEZDaGZONW5zUGtHVHRRZXJZZkhSd0g1TF9UQkVXMmo2aENTbUF2U3FNY1p5alRtczdmNE1zLUJjRkF0cDAzRUpqRFpScnVPZ0NPcFJDck14U2RxTExCWlRXLXpvQWFmaFhvZHJtaHhsd21uaE5hQncxWjlJam9IZmZHVlA5ZURMVkZCaFZF?oc=5",
+            "published": "2026-06-22T21:30:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "صلاح هداف مصر في المونديال - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZWh4MHhDdTlMWFRndEMzTzVVeGJHMDJONWNHZkNoRnVPaEdSNzJXY1V3VTZFNlVXMmVlVFRhU2JNdTlrdUxCV2U3QkM4MUpfSlNybnZZN1NCTmZVUGVSWm5tVElwU0R6bHFVZ3BTcV9QLURrRmViNFFINUxzLUx6d0NzaldDT25YWFVmR0tTQk1QV01xQjN2ci1vNDBEUWt1Q3NtU3hwaHJUZjhMX2Z4VWd6SlJQZWpyUHJBaFpzOS1SNWtIS0djbkt2Rm1QODRRWG53OUU2RHlfLVRsdTQzdWM5dGYzRWZyakpiQzZQbFVTc1NaaUJCMXhMN3ZIaTNkS05KeGZXZUMyX3hDUlRKZTFQdndiV1dIeHlGdFdhMA?oc=5",
             "published": "2026-06-22T21:30:00+00:00",
@@ -345,12 +351,6 @@
             "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQNFdiSHY1dXBMblJSR25MNmVpdmt4eG1YMXR2NmR4em82NFIzV05Oc1VQcnZ6QW5iOEZWcDRmSWJYTzVMdnVlTGFndHFxM1BaTDRtbHJuSXZWdnM2aWpPSEhraHpWQ0xnRVRQc0dqQ0xIMEY1RXZHdEZRejh3a3JqVzVPNXQxOUZndkRCeTVma01rUUhQZG5mVkN5Sk1fM3U4MFA2eXBjWEVCaGgySTJtd24tU3VVSzdpZnppQWo4NmJQTFBlNExyOVVMbzVHMUpSVHhaNTVuMHNZaldMdlEydkl0Qm9nVXQ1MnA2Y0wwRjEwVThXaU5VcFJqbThKNElDWjRGcXZRRUl3TnoxWmtmUjlrUGdNcjRRXzlpQVpxdzdVcTE3TERQazV4STBybFZtaEhveXJ1TnUxWVhvbUlmR1hZVGRQZU5FUFRIU01sdmEwN0lzc3hrUHphTGR3SEdQMk5XRTZzYXE4dl9NVmNlRHE4dTRHUXhyMjBYWThSa1F2YnBBZXNV?oc=5",
             "published": "2026-06-22T19:36:00+00:00",
             "snippet": "مباراة واعدة في مونديال 2026 بين النرويج والسنغال."
-          },
-          {
-            "title": "ميسي يقود الأرجنتين لتجاوز النمسا ويصبح الهداف التاريخي لكأس العالم - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQU2IwcWdGQVBSUEwyUlBPdktIdnltdVFTRTRmUEJTQjdfU1NGNVM0NHZTZDhrT085dnVBUnZWVkF0WGI2NGduaWY3SXZoOVdxeHJHNnVlSnc4TmlGcTdtNW4wOF9hUkp2SjdMWnJmODRPQk1XRkJNWnFpQ19WWW0yNlQyX3Q3bU00eThfdlFlaWhSVDM2Nnp6T2hCejlQTDMxVzQzZHhWbFBsR3IzaUZJb2ppV1Blbm04TTE2N240YlpCTjdaYkQybnFFOFNTNkxLUmNkOFRoQnZKVkVPMWc5WGxMZ2RLWlFwNFpTelh3UC1SZ29ibkpFU1JXLV90U0p0V2FTa1pSWWNMeTVSRXNCbjU0NVp4d2xoVkxmWEVoOWZNcmQtcmp4c3ZsMjlfRnd5eVpRMGRtQUVWREUtY3RTVURrOTBrWWxPNVVfbGJQWWlyS2FENkFjZ1drMHNvcTlIeHZwdUtjTDdYOFpwWW5XQjNsckhndmdkdHRhYlVweE9hSkVKcEhxQ2NzMXdYNC1ER2lOdlhnYk9nNVl3dzd0RGpsRXJOeTZXQkc5Q3RkWmpkZDVpUUY4bTg2dHNMSVRRMnZiWllBNk1kUDd1Q0NBVG41THRGWGlveXctY3Fmem1MNUprcUU5VDJoXy1oa2xPVFh3V3dGV2x5aGRoWUNUMlE2QQ?oc=5",
-            "published": "2026-06-22T19:18:00+00:00",
-            "snippet": "يقود ميسي الأرجنتين للفوز على النمسا ويصبح الهداف التاريخي لكأس العالم."
           }
         ],
         "error": null
@@ -550,7 +550,9 @@
             "snippet": ""
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T01:49:11.428076+00:00"
       },
       {
         "source": "Gulf News",
@@ -559,34 +561,34 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "Kylian Mbappé of France scores his 15th World Cup goal, tying for 3rd most in history",
-            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGc2eWhPMlpDN0I5LVBEaW1taS1ZOUYzdlZiVDhfV0JCWE83bm5WcTRIaGpRVkFOeFc4MVJRNy1vX0FUSlZLcWJDWS1EdkN2QTFlT2x4N2UwSHQwZTFMQ0E2UEMwa2RBZXVkb3RWeWpQcU5GSnRWZkVNRGl0emZWOVgyaHE3N0NNZlhvY3pld3NUc05YVkNuQ3BwMGdwX1FJd0pnT1p6a2RoQVlCb3RuN1prMjJXV2haYmxCeTdlVWYtTmxNbWFabWx3U2xJaS13SFMyRkJNaXVlVnVIVHdFMC1USnBralNsVVBKLUQ4V0RwZElYVEHSAfYBQVVfeXFMTzBnNnloTzJaQzdCOS1QRGltbWktWTlGM3ZWYlQ4X1dCQlhPN25uVnE0SGhqUVZBTnhXODFSUTctb19BVEpWS3FiQ1ktRHZDdkExZU9seDdlMEh0MGUxTENBNlBDMGtkQWV1ZG90VnlqUHFORkp0VmZFTURpdHpmVjlYMmhxNzdDTWZYb2N6ZXdzVHNOWFZDbkNwcDBncF9RSXdKZ09aemtkaEFZQm90bjdaazIyV1doWmJsQnk3ZVVmLU5sTW1hWm1sd1NsSWktd0hTMkZCTWl1ZVZ1SFR3RTAtVEpwa2pTbFVQSi1EOFdEcGRJWFRB?oc=5",
-            "published": "2026-06-23T00:17:08+00:00",
-            "snippet": "Kylian Mbappé scored his 15th World Cup goal, tying for third most in history."
+            "title": "Americas News ‚ US & Latin America Reports",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lVFNuN1VPWXBJNEtsZWRsbjU5bm93WmluZnFzTF84d3hkVTJ1eWVsbEZabzFrek00STJJVDlHeW1jVjV3dWRYbnFsVQ?oc=5",
+            "published": "2026-06-23T01:19:30+00:00",
+            "snippet": ""
           },
           {
-            "title": "Petrofac’s fall: How a Dh27.5 billion giant ended with UAE staff taking 70% dues",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObzhnRzdfaENGR0l1LS03S1N2LUlPX0xfQzhlQTlTdkg3NUtNYWZNZmltSkVMQjlCNFBxUjBuZi1MZ09jWENUcnJxLXNTV09XQlRwbHNLS0JxMHRfQ1lrYUhIcHBDYks4amtoNXhqZHF3MW84SWprdjdOWGttajlCcWFTdm9yeVktZDlsU3ptSV9fLWFNSWs3dGdidmRvOFpUQmxsNmItQ2tuLXlSMWVyTVdBS1Q5U3JBbnEzTjVzckh3R2Y0NXJsLXNBZnpINmpKRkJZNDBR0gHWAUFVX3lxTE5vOGdHN19oQ0ZHSXUtLTdLU3YtSU9fTF9DOGVBOVN2SDc1S01hZk1maW1KRUxCOUI0UHFSMG5mLUxnT2NYQ1RycnEtc1NXT1dCVHBsc0tLQnEwdF9DWWthSEhwcENiSzhqa2g1eGpkcXcxbzhJamt2N05Ya21qOUJxYVN2b3J5WS1kOWxTem1JX18tYU1Jazd0Z2J2ZG84WlRCbGw2Yi1Da24teVIxZXJNV0FLVDlTckFucTNONXNySHdHZjQ1cmwtc0Fmekg2akpGQlk0MFE?oc=5",
-            "published": "2026-06-23T00:00:00+00:00",
-            "snippet": "Petrofac's financial difficulties resulted in UAE staff receiving only 70% of their dues."
+            "title": "Beyond points and discounts: How regional brands are building emotional loyalty",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1NrQThWWXNmaWhkSC0zRVRWZ05ZWFFnbTIxbE9VQ1J0d2N4NXNSVVktelVvdjJmSVNDRWE0N185WnpkZ1MwYU43TzYwdk05WHFhMnJMLXRHdWpqRlRqZDZubjZhUldURHAyanBkSDIzSlFMVnNIY3lEUHN2dlJnS25WYmpWS0haeHZZbjJ5b05LZmxuS2k2Y0NnWWlpNURBdHkybGZhU2NibVhqWU9COTBUUGk3b09SbXQya0Z5eWdIajExeXNneE5ERzAzZzBLWlVDbnAtMNIB1wFBVV95cUxNM1NrQThWWXNmaWhkSC0zRVRWZ05ZWFFnbTIxbE9VQ1J0d2N4NXNSVVktelVvdjJmSVNDRWE0N185WnpkZ1MwYU43TzYwdk05WHFhMnJMLXRHdWpqRlRqZDZubjZhUldURHAyanBkSDIzSlFMVnNIY3lEUHN2dlJnS25WYmpWS0haeHZZbjJ5b05LZmxuS2k2Y0NnWWlpNURBdHkybGZhU2NibVhqWU9COTBUUGk3b09SbXQya0Z5eWdIajExeXNneE5ERzAzZzBLWlVDbnAtMA?oc=5",
+            "published": "2026-06-23T01:03:00+00:00",
+            "snippet": ""
           },
           {
-            "title": "Brent crude slides to $77.90, Russian Urals down to $61.19",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSlRHZk1sR1p5Q0dPWUU0UThZWE1vMnJZUzVCT3FreV82NTA5b25fd0JRRzVSckh0a0duWnNzZGpJVEE2ZUJzRFdjLWwweEdlZkE0ZTBBTzJEc1RLX1RsN0N2a1hnZ3JyUWM4anpnVjdEZlZBOFFJZWtBOEJHeDFmWFpzLU9UNXNNT2ZzU05rOVJkbHJlRDloOHBaYWhCN1p1X1JvbE1kNU1yTTZ1OUVsZGdTd1BNR03SAbcBQVVfeXFMT0pUR2ZNbEdaeUNHT1lFNFE4WVhNbzJyWVM1Qk9xa3lfNjUwOW9uX3dCUUc1UnJIdGtHblpzc2RqSVRBNmVCc0RXYy1sMHhHZWZBNGUwQU8yRHNUS19UbDdDdmtYZ2dyclFjOGp6Z1Y3RGZWQThRSWVrQThCR3gxZlhacy1PVDVzTU9mc1NOazlSZGxyZUQ5aDhwWmFoQjdadV9Sb2xNZDVNck02dTlFbGRnU3dQTUdN?oc=5",
-            "published": "2026-06-22T23:50:28+00:00",
-            "snippet": "Brent crude fell to $77.90, while Russian Urals dropped to $61.19."
+            "title": "Latest MENA News & Top Stories",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UMTFNN3dMTmFaTFUxWlJuckVzYVRUalJ1bjlzV1doWEZtLVZxOXBWNUpSWUpzbWpXNHF4Rzg2OUdfY0FOSlE?oc=5",
+            "published": "2026-06-23T01:01:14+00:00",
+            "snippet": ""
           },
           {
-            "title": "Shooting in Montreal, Canada leaves three dead including suspect",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWi1ERlJIVm5QUEFvWjcxazFQMDI3Q2N4TkNrRGoxUFNYNlhXWGpqWEhEZm9jMXZnWWhHVXZXNG1SQWdNMnh6dldzRzdUMkJWYmpkeXR2Q01Jbmk2RVppMVYwdEl4RTJTVHNJRlpVSlk0VDhDOXdCUFdES2h4aHBNZW9zRjhtQkRtWnBsY3hFYlN3VGZ2N1FDVVZUdmFKZ2UwUERMeFpzakdSdFhkNjd0c0twZG04bG5KTlpWUUE5UnQ3ZTDSAcMBQVVfeXFMTlotREZSSFZuUFBBb1o3MWsxUDAyN0NjeE5Da0RqMVBTWDZYV1hqalhIRGZvYzF2Z1loR1V2VzRtUkFnTTJ4enZXc0c3VDJCVmJqZHl0dkNNSW5pNkVaaTFWMHRJeEUyU1RzSUZaVUpZNFQ4Qzl3QlBXREtoeGhwTWVvc0Y4bUJEbVpwbGN4RWJTd1RmdjdRQ1VWVHZhSmdlMFBETHhac2pHUnRYZDY3dHNLcGRtOGxuSk5aVlFBOVJ0N2Uw?oc=5",
-            "published": "2026-06-22T23:42:40+00:00",
-            "snippet": "A shooting in Montreal, Canada, resulted in three deaths, including the suspect."
+            "title": "Two children die in France as heatwave toasts Europe",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2NhQzRDeWhBc0hVWkdkOGo3Szk1UkpmQUNYbnFSeGZGYnZRenRRR0htZUxrdU5QLWtsY291YVNzMmRRaVBCV2lENnUxcjhhUWQyaTE3MkFxb0RKUDN3cTdQUl8wazh0RzdyeUpLX0FUSjkzOVBiUUxwQWVxeEdrbHpyREo1S2EzX3FrM3BiNkgxb2U2TTJFRTNCZnkyamxaSi1WSS1jazZaNlkzS2FxbFd30gGyAUFVX3lxTE9DY2FDNEN5aEFzSFVaR2Q4ajdLOTVSSmZBQ1hucVJ4ZkZidlF6dFFHSG1lTGt1TlAta2xjb3VhU3MyZFFpUEJXaUQ2dTFyOGFRZDJpMTcyQXFvREpQM3dxN1BSXzBrOHRHN3J5SktfQVRKOTM5UGJRTHBBZXF4R2tsenJESjVLYTNfcWszcGI2SDFvZTZNMkVFM0JmeTJqbFpKLVZJLWNrNlo2WTNLYXFsV3c?oc=5",
+            "published": "2026-06-23T00:51:53+00:00",
+            "snippet": ""
           },
           {
-            "title": "'Solar maximum': Why the Sun can disrupt satellites, GPS, power grids",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMy16aC1OcHU0X2IzNFdTMmJrUWJDX1lZaHpmSDhhSDlxR3BNU1VGU2FPaE5hTkhDR0szckxFZDR6OHdKTUtYQVhET2ZfSkxpS2xXRzJOUnpXejR1QUJGNUs2eTFFQXE1NC1zNDdtZmxWOXJQd2JSWWdrQjlJU3lrMkVxRU9wZG9EdkEzY0h2Y1paeER1VzlRc2NoVjUySmVWczFGQy1vWV9INHRCazdQLXVCTnhoOUNpSnpLWWxudFIwSzdpYlRxLXBGNHBvUy1QQk0xLXFlMV_SAdgBQVVfeXFMTzMtemgtTnB1NF9iMzRXUzJia1FiQ19ZWWh6Zkg4YUg5cUdwTVNVRlNhT2hOYU5IQ0dLM3JMRWQ0ejh3Sk1LWEFYRE9mX0pMaUtsV0cyTlJ6V3o0dUFCRjVLNnkxRUFxNTQtczQ3bWZsVjlyUHdiUllna0I5SVN5azJFcUVPcGRvRHZBM2NIdmNaWnhEdVc5UXNjaFY1MkplVnMxRkMtb1lfSDR0Qms3UC11Qk54aDlDaUp6S1lsbnRSMEs3aWJUcS1wRjRwb1MtUEJNMS1xZTFf?oc=5",
-            "published": "2026-06-22T23:22:00+00:00",
-            "snippet": "'Solar maximum' conditions can disrupt satellites, GPS, and power grids."
+            "title": "Trump threatens to not help NATO countries if asked",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakNXbENqcXVFWERwVm4tMm0xaGJ4N0c1NHVUd3JnZ29pbmtMV1c3UDFTWEs4bGp3MFFDeWpIeXR2ZG5kMnA4enJZSTFJSF9NdUgwTDFNcE8xY2tSZUl6YXYtaE5BYVEzU2NOVklzS01qM3QwNmpXR2puWDVmX3UxX3g3OUZXeTQxRXRsX3ZwRWZBV3R2ZGt6cFZmRTJRUkVEQUs4MnhPQmNzSWE2Q3ZObWVuSdIBswFBVV95cUxPakNXbENqcXVFWERwVm4tMm0xaGJ4N0c1NHVUd3JnZ29pbmtMV1c3UDFTWEs4bGp3MFFDeWpIeXR2ZG5kMnA4enJZSTFJSF9NdUgwTDFNcE8xY2tSZUl6YXYtaE5BYVEzU2NOVklzS01qM3QwNmpXR2puWDVmX3UxX3g3OUZXeTQxRXRsX3ZwRWZBV3R2ZGt6cFZmRTJRUkVEQUs4MnhPQmNzSWE2Q3ZObWVuSQ?oc=5",
+            "published": "2026-06-23T00:47:13+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -741,10 +743,10 @@
             "snippet": "Netanyahu, Katz, and Zamir reiterated their pledge to act decisively in Lebanon, while Trump stated he would act if Iran violates the agreement."
           },
           {
-            "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
+            "title": "Jewish man killed in Montreal shooting that also left a police officer dead",
             "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
             "published": "2026-06-22T22:07:24+00:00",
-            "snippet": "A shooting in a Jewish area of Montreal resulted in the deaths of a civilian and a police officer; the motive remains unclear."
+            "snippet": ""
           }
         ],
         "error": null
@@ -871,6 +873,5 @@
         "error": null
       }
     ]
-  },
-  "titles_hash": "c1a10a97010f26ab"
+  }
 }

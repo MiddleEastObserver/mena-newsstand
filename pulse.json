@@ -1,15 +1,21 @@
 {
-  "updated": "2026-06-23T01:50:30.405448+00:00",
+  "updated": "2026-06-23T02:19:36.202321+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "iran",
-      "count": 10,
+      "count": 11,
       "headlines": [
         {
           "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
           "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says technical talks with US have concluded, announces next phase",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-technical-talks-us-have-concluded-announces-next-phase",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -69,74 +75,8 @@
       ]
     },
     {
-      "term": "iranian",
-      "count": 10,
-      "headlines": [
-        {
-          "title": "Iranian vice president says Tehran still distrusts Washington",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-vice-president-says-tehran-still-distrusts-washington",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump says released Iranian assets will return through food purchases",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-released-iranian-assets-will-return-through-food-purchases",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Oman reaffirms support for toll-free passage through Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-reaffirms-support-toll-free-passage-through-hormuz",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Ghalibaf says Strait of Hormuz will not return to pre-war status",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-strait-hormuz-will-not-return-pre-war-status",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Iranian security representative Nezami arrives in Delhi for BRICS NSAs meeting",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFU4YjN5TkdUNXhhQWFGZjBSUmcyVzdORVZsQ3lpZTdTREVvMS01UE10cEdEaWp0ZmpWVGFQMTkxN252T0pPLWxaWXRoTkQyZnp5Q0VUZFNtejgwYmY3aUpieWZhRGVsUDduM25qM0h6REo4bVpmbFFYMXAwdW0tU2lkakdPMlR4aEdXMjJpLVZ6UnExd0JxMEhuLWVEVFRrT3BrWGlpSHdjUVpJVkxiWmhaSWp5NTV2?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlWNzFUTFVKb2NmNzhMa3lSeU11WktlZXZvQVI3VEJ0Ql9GaC1fQkwzSE9EMHdWQjBxYTAxOTNsd2FlSGNSWjM0Q3BzQVlxTzJjZmlVZGNwdzZMN0UySGcxalNNX3FpNjZkcGlpUE9uWEdIczQzVU9ZUFotWGVlcHVRM2d5VGE0V2Qzci1NSThSR1A5RDlOWXhTQXFUTnNkUWFQQ3lnQmFRNVJuMmRuMUQ0ZTJybV9PWkd2d0JWRnd2dEp0cVNRVkRucXR2Zw?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "Smart search for Iranian and world news | Fars News Agency - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FVGlzNFU0a3ZzcjJSekxpLTNUd0wtVExRTU5KMGh5NURBZ0tzeHF2UTdmRWVtMlZJaFYwazJvVTlBcW1hU3NKc1ZqZ29MSUZTNU5YYVVzSXpHZUQwTmdoMHMyZDVsTkF4d1FWN1JHUlMyZ3M?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Hormuz to be administred by Iran with Iranian arrangements",
-          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Source rejects Vance's claim on IAEA inspectors return",
-          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "trump",
-      "count": 10,
+      "count": 11,
       "headlines": [
         {
           "title": "Trump says released Iranian assets will return through food purchases",
@@ -181,6 +121,12 @@
           "region": "Levant"
         },
         {
+          "title": "Trump threatens to not help NATO countries if asked",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakNXbENqcXVFWERwVm4tMm0xaGJ4N0c1NHVUd3JnZ29pbmtMV1c3UDFTWEs4bGp3MFFDeWpIeXR2ZG5kMnA4enJZSTFJSF9NdUgwTDFNcE8xY2tSZUl6YXYtaE5BYVEzU2NOVklzS01qM3QwNmpXR2puWDVmX3UxX3g3OUZXeTQxRXRsX3ZwRWZBV3R2ZGt6cFZmRTJRUkVEQUs4MnhPQmNzSWE2Q3ZObWVuSdIBswFBVV95cUxPakNXbENqcXVFWERwVm4tMm0xaGJ4N0c1NHVUd3JnZ29pbmtMV1c3UDFTWEs4bGp3MFFDeWpIeXR2ZG5kMnA4enJZSTFJSF9NdUgwTDFNcE8xY2tSZUl6YXYtaE5BYVEzU2NOVklzS01qM3QwNmpXR2puWDVmX3UxX3g3OUZXeTQxRXRsX3ZwRWZBV3R2ZGt6cFZmRTJRUkVEQUs4MnhPQmNzSWE2Q3ZObWVuSQ?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
           "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
           "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
           "source": "Times of Israel",
@@ -201,15 +147,63 @@
       ]
     },
     {
-      "term": "gaza",
-      "count": 7,
+      "term": "iranian",
+      "count": 8,
       "headlines": [
         {
-          "title": "Gaza surfers seek solace from war in the sea",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Iranian vice president says Tehran still distrusts Washington",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-vice-president-says-tehran-still-distrusts-washington",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
+        {
+          "title": "Trump says released Iranian assets will return through food purchases",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-released-iranian-assets-will-return-through-food-purchases",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Iranian security representative Nezami arrives in Delhi for BRICS NSAs meeting",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFU4YjN5TkdUNXhhQWFGZjBSUmcyVzdORVZsQ3lpZTdTREVvMS01UE10cEdEaWp0ZmpWVGFQMTkxN252T0pPLWxaWXRoTkQyZnp5Q0VUZFNtejgwYmY3aUpieWZhRGVsUDduM25qM0h6REo4bVpmbFFYMXAwdW0tU2lkakdPMlR4aEdXMjJpLVZ6UnExd0JxMEhuLWVEVFRrT3BrWGlpSHdjUVpJVkxiWmhaSWp5NTV2?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlWNzFUTFVKb2NmNzhMa3lSeU11WktlZXZvQVI3VEJ0Ql9GaC1fQkwzSE9EMHdWQjBxYTAxOTNsd2FlSGNSWjM0Q3BzQVlxTzJjZmlVZGNwdzZMN0UySGcxalNNX3FpNjZkcGlpUE9uWEdIczQzVU9ZUFotWGVlcHVRM2d5VGE0V2Qzci1NSThSR1A5RDlOWXhTQXFUTnNkUWFQQ3lnQmFRNVJuMmRuMUQ0ZTJybV9PWkd2d0JWRnd2dEp0cVNRVkRucXR2Zw?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "Smart search for Iranian and world news | Fars News Agency - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FVGlzNFU0a3ZzcjJSekxpLTNUd0wtVExRTU5KMGh5NURBZ0tzeHF2UTdmRWVtMlZJaFYwazJvVTlBcW1hU3NKc1ZqZ29MSUZTNU5YYVVzSXpHZUQwTmdoMHMyZDVsTkF4d1FWN1JHUlMyZ3M?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
+        },
+        {
+          "title": "Hormuz to be administred by Iran with Iranian arrangements",
+          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Source rejects Vance's claim on IAEA inspectors return",
+          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "gaza",
+      "count": 6,
+      "headlines": [
         {
           "title": "New York Mayor Mamdani condemns continued killings in Gaza and Aipac",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-york-mayor-mamdani-condemns-continued-killings-gaza-and-aipac",
@@ -291,38 +285,38 @@
       ]
     },
     {
-      "term": "hormuz",
+      "term": "israeli",
       "count": 5,
       "headlines": [
         {
-          "title": "Oman reaffirms support for toll-free passage through Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-reaffirms-support-toll-free-passage-through-hormuz",
-          "source": "Middle East Eye",
+          "title": "Israeli strike kills Palestinian girl on her way to sit exam",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Ghalibaf says Strait of Hormuz will not return to pre-war status",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-strait-hormuz-will-not-return-pre-war-status",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Israeli authorities issue stop-work orders for six homes in Jenin-area town - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQS05Y1dncDBYLW1lMGlHeFJFcklPNGhnS3ZHYkxEcWtCaThrS1RwLXJPRDM2MEJxRHNUY1RfZTJTYTFlS3RGY29rZmJaRlRIRGo4M09MRQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         },
         {
-          "title": "Trump Says Strait of Hormuz Is Open",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
+          "title": "Colonists damage property in Masafer Yatta, Israeli forces detain two brothers - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OVEI0SmYySFpNQV8wb092cHppMDV0UWd6VU9xVC1qaDdTS2xwcF9JaS1sdjlxSVFPRmlzZmg0SUF1VW92TThJaUk3VVFUei1UUW5jcXd3cw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         },
         {
-          "title": "Hormuz to be administred by Iran with Iranian arrangements",
-          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Israeli colonists assault, briefly detain Palestinians near Ramallah - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfXzBZUnp0ZzR0enBFeWt5Rk0wRlBnWHVkVXJSNjdlZmgyMVd6Vm92Qk1SbGEtenlaZ2NVWno3elJrd0FjOUw1bWlNanRnbGFyU0g1S3JGYw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         },
         {
-          "title": "Rubio heads to region to address Iran MoU, Hormuz",
-          "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Teenage girl on the way to a high school in Gaza killed in Israeli strike, relatives say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rb21wZ1diNEQ3MTU5SEJLRzEyQVUxN19EWm11VGl4R1ZBTktmQmxpSFM3eW8tazlaWk9ITktobDhHWXBVNVQ3VVBvOG1nMU02ZUo0?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -363,6 +357,36 @@
       ]
     },
     {
+      "term": "palestinian",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Israeli strike kills Palestinian girl on her way to sit exam",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "New York Mayor Mamdani condemns continued killings in Gaza and Aipac",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-york-mayor-mamdani-condemns-continued-killings-gaza-and-aipac",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "National project launched to memorialize slain Palestinian children, following \"Their Names Are Not Numbers\" campaign - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yY0VpcGxUUGdkZVNVQW5zeFZIZHBOUzBHOEhwUVhjd0VrNVhReF9sWGFlN2lLSTJ0UVdMRHF5WlFHMUZWVERqeTd6a0Y4cGRRSzNzcE9QTQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Opinion | Opinion • As a Palestinian living in Israel, I'm afraid of the price of a deal with Iran",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYWJKckU2TDZXdkVmVTNWcFdaTFlKRmNEWjVLR21JMlZZZHp1dWRkWmxRNllLUW9ZOUhNaFkyZ2Y5NjhCbTByT0RVRzdCdWVqOE5id0ZDcmdJLWltZHdQMlNmamJ3bFl6VF82c3JmajFVWlU5aUxzYmdfYXlma1Q4Sm82SjhWMUFCZEFYdXN0bmZXQWMzMWZaSUIzMVQxaXA5Rmx5bHdtcGhqSmZhcDU3Zkpfd2RvemlTZkpyRVN1Z2tpTUJuSkZRU3E2QThnLU5CNWp4emNYS09vcnNmWldLWENlSXRsQ2NVczJ5Y0p0bEE2RV9sYmY2dzBKb1gyTm5uWmxpdHZwaG96cmx4ZG9FbS1B?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "iran's",
       "count": 4,
       "headlines": [
@@ -393,62 +417,32 @@
       ]
     },
     {
-      "term": "deaths",
+      "term": "lebanon",
       "count": 4,
       "headlines": [
         {
-          "title": "New York Mayor Mamdani condemns continued killings in Gaza and Aipac",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-york-mayor-mamdani-condemns-continued-killings-gaza-and-aipac",
+          "title": "Pezeshkian hails Lebanon deconfliction cell as major achievement",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-hails-lebanon-deconfliction-cell-major-achievement",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Shooting in Montreal, Canada leaves three dead including suspect",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWi1ERlJIVm5QUEFvWjcxazFQMDI3Q2N4TkNrRGoxUFNYNlhXWGpqWEhEZm9jMXZnWWhHVXZXNG1SQWdNMnh6dldzRzdUMkJWYmpkeXR2Q01Jbmk2RVppMVYwdEl4RTJTVHNJRlpVSlk0VDhDOXdCUFdES2h4aHBNZW9zRjhtQkRtWnBsY3hFYlN3VGZ2N1FDVVZUdmFKZ2UwUERMeFpzakdSdFhkNjd0c0twZG04bG5KTlpWUUE5UnQ3ZTDSAcMBQVVfeXFMTlotREZSSFZuUFBBb1o3MWsxUDAyN0NjeE5Da0RqMVBTWDZYV1hqalhIRGZvYzF2Z1loR1V2VzRtUkFnTTJ4enZXc0c3VDJCVmJqZHl0dkNNSW5pNkVaaTFWMHRJeEUyU1RzSUZaVUpZNFQ4Qzl3QlBXREtoeGhwTWVvc0Y4bUJEbVpwbGN4RWJTd1RmdjdRQ1VWVHZhSmdlMFBETHhac2pHUnRYZDY3dHNLcGRtOGxuSk5aVlFBOVJ0N2Uw?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "With Fahd al-Doussari, Saudi Arabia seeks to regain the initiative in Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGZXOGI0MGJUZlBMakI2Vmh6QXhteW9XQ25XbVBFQ2xrMEpxREZPUFRUUGJqbUg5MWdkdzBuV2tIWnNDVUxuNFNJSVp0QzFvaVdpdDdkY3R6V3ZkYTh6eXRkSFdGYnVPNzJyVWVlT0JMQVlrS1BrNkNsUXdMNlE5d19OQ0J0djkwMVlBUmZ6TTNiZk03MEVGdmJwTFN5WU5HQ3BQcVpWOExFZ2dLRDJIck5zb0dQbDBNZk52aVFwcTh0MkdST3lOOA?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
         },
         {
-          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
+          "title": "Israel considering announcing “symbolic” withdrawals as part of talks with Lebanon, source says",
+          "url": "https://www.egyptindependent.com/israel-considering-announcing-symbolic-withdrawals-as-part-of-talks-with-lebanon-source-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         },
         {
-          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
-          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
           "source": "Times of Israel",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "return",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Trump says released Iranian assets will return through food purchases",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-released-iranian-assets-will-return-through-food-purchases",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Ghalibaf says Strait of Hormuz will not return to pre-war status",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-strait-hormuz-will-not-return-pre-war-status",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Hamas held 'top secret' meeting with French officials, discussed return to'1967 borders' - report",
-          "url": "https://www.jpost.com/middle-east/article-900198",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Source rejects Vance's claim on IAEA inspectors return",
-          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
@@ -483,122 +477,32 @@
       ]
     },
     {
-      "term": "strait",
+      "term": "killed",
       "count": 4,
       "headlines": [
-        {
-          "title": "Oman reaffirms support for toll-free passage through Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-reaffirms-support-toll-free-passage-through-hormuz",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Ghalibaf says Strait of Hormuz will not return to pre-war status",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-strait-hormuz-will-not-return-pre-war-status",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump Says Strait of Hormuz Is Open",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Hormuz to be administred by Iran with Iranian arrangements",
-          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "israeli",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Israeli authorities issue stop-work orders for six homes in Jenin-area town - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQS05Y1dncDBYLW1lMGlHeFJFcklPNGhnS3ZHYkxEcWtCaThrS1RwLXJPRDM2MEJxRHNUY1RfZTJTYTFlS3RGY29rZmJaRlRIRGo4M09MRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Colonists damage property in Masafer Yatta, Israeli forces detain two brothers - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OVEI0SmYySFpNQV8wb092cHppMDV0UWd6VU9xVC1qaDdTS2xwcF9JaS1sdjlxSVFPRmlzZmg0SUF1VW92TThJaUk3VVFUei1UUW5jcXd3cw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli colonists assault, briefly detain Palestinians near Ramallah - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfXzBZUnp0ZzR0enBFeWt5Rk0wRlBnWHVkVXJSNjdlZmgyMVd6Vm92Qk1SbGEtenlaZ2NVWno3elJrd0FjOUw1bWlNanRnbGFyU0g1S3JGYw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
         {
           "title": "Teenage girl on the way to a high school in Gaza killed in Israeli strike, relatives say",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rb21wZ1diNEQ3MTU5SEJLRzEyQVUxN19EWm11VGl4R1ZBTktmQmxpSFM3eW8tazlaWk9ITktobDhHWXBVNVQ3VVBvOG1nMU02ZUo0?oc=5",
           "source": "Arab News",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "resulted",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Petrofac’s fall: How a Dh27.5 billion giant ended with UAE staff taking 70% dues",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObzhnRzdfaENGR0l1LS03S1N2LUlPX0xfQzhlQTlTdkg3NUtNYWZNZmltSkVMQjlCNFBxUjBuZi1MZ09jWENUcnJxLXNTV09XQlRwbHNLS0JxMHRfQ1lrYUhIcHBDYks4amtoNXhqZHF3MW84SWprdjdOWGttajlCcWFTdm9yeVktZDlsU3ptSV9fLWFNSWs3dGdidmRvOFpUQmxsNmItQ2tuLXlSMWVyTVdBS1Q5U3JBbnEzTjVzckh3R2Y0NXJsLXNBZnpINmpKRkJZNDBR0gHWAUFVX3lxTE5vOGdHN19oQ0ZHSXUtLTdLU3YtSU9fTF9DOGVBOVN2SDc1S01hZk1maW1KRUxCOUI0UHFSMG5mLUxnT2NYQ1RycnEtc1NXT1dCVHBsc0tLQnEwdF9DWWthSEhwcENiSzhqa2g1eGpkcXcxbzhJamt2N05Ya21qOUJxYVN2b3J5WS1kOWxTem1JX18tYU1Jazd0Z2J2ZG84WlRCbGw2Yi1Da24teVIxZXJNV0FLVDlTckFucTNONXNySHdHZjQ1cmwtc0Fmekg2akpGQlk0MFE?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
         },
         {
-          "title": "Shooting in Montreal, Canada leaves three dead including suspect",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWi1ERlJIVm5QUEFvWjcxazFQMDI3Q2N4TkNrRGoxUFNYNlhXWGpqWEhEZm9jMXZnWWhHVXZXNG1SQWdNMnh6dldzRzdUMkJWYmpkeXR2Q01Jbmk2RVppMVYwdEl4RTJTVHNJRlpVSlk0VDhDOXdCUFdES2h4aHBNZW9zRjhtQkRtWnBsY3hFYlN3VGZ2N1FDVVZUdmFKZ2UwUERMeFpzakdSdFhkNjd0c0twZG04bG5KTlpWUUE5UnQ3ZTDSAcMBQVVfeXFMTlotREZSSFZuUFBBb1o3MWsxUDAyN0NjeE5Da0RqMVBTWDZYV1hqalhIRGZvYzF2Z1loR1V2VzRtUkFnTTJ4enZXc0c3VDJCVmJqZHl0dkNNSW5pNkVaaTFWMHRJeEUyU1RzSUZaVUpZNFQ4Qzl3QlBXREtoeGhwTWVvc0Y4bUJEbVpwbGN4RWJTd1RmdjdRQ1VWVHZhSmdlMFBETHhac2pHUnRYZDY3dHNLcGRtOGxuSk5aVlFBOVJ0N2Uw?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "IDF: Oct. 7 terrorist who held Omer Shem Tov hostage killed in recent Gaza strike",
+          "url": "https://www.timesofisrael.com/idf-oct-7-terrorist-who-held-omer-shem-tov-hostage-killed-in-recent-gaza-strike/",
+          "source": "Times of Israel",
+          "region": "Israel"
         },
         {
-          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
+          "title": "Jewish man killed in Montreal shooting that also left a police officer dead",
           "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
           "source": "Times of Israel",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "montreal",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Shooting in Montreal, Canada leaves three dead including suspect",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWi1ERlJIVm5QUEFvWjcxazFQMDI3Q2N4TkNrRGoxUFNYNlhXWGpqWEhEZm9jMXZnWWhHVXZXNG1SQWdNMnh6dldzRzdUMkJWYmpkeXR2Q01Jbmk2RVppMVYwdEl4RTJTVHNJRlpVSlk0VDhDOXdCUFdES2h4aHBNZW9zRjhtQkRtWnBsY3hFYlN3VGZ2N1FDVVZUdmFKZ2UwUERMeFpzakdSdFhkNjd0c0twZG04bG5KTlpWUUE5UnQ3ZTDSAcMBQVVfeXFMTlotREZSSFZuUFBBb1o3MWsxUDAyN0NjeE5Da0RqMVBTWDZYV1hqalhIRGZvYzF2Z1loR1V2VzRtUkFnTTJ4enZXc0c3VDJCVmJqZHl0dkNNSW5pNkVaaTFWMHRJeEUyU1RzSUZaVUpZNFQ4Qzl3QlBXREtoeGhwTWVvc0Y4bUJEbVpwbGN4RWJTd1RmdjdRQ1VWVHZhSmdlMFBETHhac2pHUnRYZDY3dHNLcGRtOGxuSk5aVlFBOVJ0N2Uw?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
         },
         {
-          "title": "Canadian PM Carney ‘horrified’ by Montreal shooting near Jewish sites",
-          "url": "https://www.jpost.com/diaspora/antisemitism/article-900196",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Montreal-born MK Illouz: The Montreal I knew is gone, the warning signs are everywhere - opinion",
-          "url": "https://www.jpost.com/opinion/article-900192",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
-          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
-          "source": "Times of Israel",
-          "region": "Israel"
+          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
+          "source": "Fars News",
+          "region": "Iran"
         }
       ]
     },
@@ -625,7 +529,7 @@
           "region": "Israel"
         },
         {
-          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
+          "title": "Jewish man killed in Montreal shooting that also left a police officer dead",
           "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
           "source": "Times of Israel",
           "region": "Israel"
@@ -693,25 +597,25 @@
       ]
     },
     {
-      "term": "scored",
+      "term": "strike",
       "count": 3,
       "headlines": [
         {
-          "title": "Mbappe leads France to win over Iraq in lightning-delayed World Cup game",
-          "url": "https://www.aljazeera.com/sports/2026/6/23/mbappe-leads-france-to-win-over-iraq-in-lightening-delayed-world-cup-tie?traffic_source=rss",
+          "title": "Israeli strike kills Palestinian girl on her way to sit exam",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Kylian Mbappé of France scores his 15th World Cup goal, tying for 3rd most in history",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGc2eWhPMlpDN0I5LVBEaW1taS1ZOUYzdlZiVDhfV0JCWE83bm5WcTRIaGpRVkFOeFc4MVJRNy1vX0FUSlZLcWJDWS1EdkN2QTFlT2x4N2UwSHQwZTFMQ0E2UEMwa2RBZXVkb3RWeWpQcU5GSnRWZkVNRGl0emZWOVgyaHE3N0NNZlhvY3pld3NUc05YVkNuQ3BwMGdwX1FJd0pnT1p6a2RoQVlCb3RuN1prMjJXV2haYmxCeTdlVWYtTmxNbWFabWx3U2xJaS13SFMyRkJNaXVlVnVIVHdFMC1USnBralNsVVBKLUQ4V0RwZElYVEHSAfYBQVVfeXFMTzBnNnloTzJaQzdCOS1QRGltbWktWTlGM3ZWYlQ4X1dCQlhPN25uVnE0SGhqUVZBTnhXODFSUTctb19BVEpWS3FiQ1ktRHZDdkExZU9seDdlMEh0MGUxTENBNlBDMGtkQWV1ZG90VnlqUHFORkp0VmZFTURpdHpmVjlYMmhxNzdDTWZYb2N6ZXdzVHNOWFZDbkNwcDBncF9RSXdKZ09aemtkaEFZQm90bjdaazIyV1doWmJsQnk3ZVVmLU5sTW1hWm1sd1NsSWktd0hTMkZCTWl1ZVZ1SFR3RTAtVEpwa2pTbFVQSi1EOFdEcGRJWFRB?oc=5",
-          "source": "Gulf News",
+          "title": "Teenage girl on the way to a high school in Gaza killed in Israeli strike, relatives say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rb21wZ1diNEQ3MTU5SEJLRzEyQVUxN19EWm11VGl4R1ZBTktmQmxpSFM3eW8tazlaWk9ITktobDhHWXBVNVQ3VVBvOG1nMU02ZUo0?oc=5",
+          "source": "Arab News",
           "region": "Gulf"
         },
         {
-          "title": "Hapoel Tel Aviv stays alive with Game 3 win over Maccabi",
-          "url": "https://www.jpost.com/israel-news/sports/article-900194",
-          "source": "Jerusalem Post",
+          "title": "IDF: Oct. 7 terrorist who held Omer Shem Tov hostage killed in recent Gaza strike",
+          "url": "https://www.timesofisrael.com/idf-oct-7-terrorist-who-held-omer-shem-tov-hostage-killed-in-recent-gaza-strike/",
+          "source": "Times of Israel",
           "region": "Israel"
         }
       ]
@@ -789,54 +693,6 @@
       ]
     },
     {
-      "term": "palestinian",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "New York Mayor Mamdani condemns continued killings in Gaza and Aipac",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-york-mayor-mamdani-condemns-continued-killings-gaza-and-aipac",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "National project launched to memorialize slain Palestinian children, following \"Their Names Are Not Numbers\" campaign - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yY0VpcGxUUGdkZVNVQW5zeFZIZHBOUzBHOEhwUVhjd0VrNVhReF9sWGFlN2lLSTJ0UVdMRHF5WlFHMUZWVERqeTd6a0Y4cGRRSzNzcE9QTQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Opinion | Opinion • As a Palestinian living in Israel, I'm afraid of the price of a deal with Iran",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYWJKckU2TDZXdkVmVTNWcFdaTFlKRmNEWjVLR21JMlZZZHp1dWRkWmxRNllLUW9ZOUhNaFkyZ2Y5NjhCbTByT0RVRzdCdWVqOE5id0ZDcmdJLWltZHdQMlNmamJ3bFl6VF82c3JmajFVWlU5aUxzYmdfYXlma1Q4Sm82SjhWMUFCZEFYdXN0bmZXQWMzMWZaSUIzMVQxaXA5Rmx5bHdtcGhqSmZhcDU3Zkpfd2RvemlTZkpyRVN1Z2tpTUJuSkZRU3E2QThnLU5CNWp4emNYS09vcnNmWldLWENlSXRsQ2NVczJ5Y0p0bEE2RV9sYmY2dzBKb1gyTm5uWmxpdHZwaG96cmx4ZG9FbS1B?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "mohammad",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iranian vice president says Tehran still distrusts Washington",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-vice-president-says-tehran-still-distrusts-washington",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Ghalibaf says Strait of Hormuz will not return to pre-war status",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-strait-hormuz-will-not-return-pre-war-status",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Hormuz to be administred by Iran with Iranian arrangements",
-          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "warning",
       "count": 3,
       "headlines": [
@@ -885,7 +741,7 @@
       ]
     },
     {
-      "term": "through",
+      "term": "return",
       "count": 3,
       "headlines": [
         {
@@ -895,40 +751,40 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Oman reaffirms support for toll-free passage through Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-reaffirms-support-toll-free-passage-through-hormuz",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Hamas held 'top secret' meeting with French officials, discussed return to'1967 borders' - report",
+          "url": "https://www.jpost.com/middle-east/article-900198",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         },
         {
-          "title": "Oman’s central bank raises OMR43 through treasury bills",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnJ4TnV0Q2VVcFhRUEFMVnkzdHQwNGYzU3FVczZRU1BuNW9xcDZkZjdFZkpvamRoaE9BT3N5Wmxyd0FuLXhDMjVhcFFfeG5oeDlCX1d5LWZlQTl6YTlxcmFEWlpaZU4wakhyOG5lUUp3UjJ0M2VBRGs1Rm5GU3VDVk1NX2pHV3BZN0pqZkZQMUpVcEthSGhFYQ?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
+          "title": "Source rejects Vance's claim on IAEA inspectors return",
+          "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
     {
-      "term": "support",
+      "term": "hormuz",
       "count": 3,
       "headlines": [
         {
-          "title": "Oman reaffirms support for toll-free passage through Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-reaffirms-support-toll-free-passage-through-hormuz",
-          "source": "Middle East Eye",
+          "title": "Trump Says Strait of Hormuz Is Open",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Genocide Keir is out but can damage of Starmer legacy be undone?",
-          "url": "https://www.newarab.com/opinion/genocide-keir-out-can-damage-starmer-legacy-be-undone",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "Hormuz to be administred by Iran with Iranian arrangements",
+          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
+          "source": "Mehr News",
+          "region": "Iran"
         },
         {
-          "title": "Crown Prince reaffirms support for national team ahead of Algeria match",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjc1TEJPc1dJcHJNcHd0dHU1UXNjS2lmVGxkd0JBak1Cd3ZtQ0F0Nk1lc0t2eEEtTnBHRjRDMEE5d2xjSXdGSW93aUJhSzlnT3hscGtDTUp3X2xpRnFydG5scHRuckRkelU1NVhPN0dEX3lJTjRIOHRXYm1kTVlKamVpWUMzemVYbjZJV0J3TVB6YmF6RjVXSXdrUjNpaVFhVTgwaEtpTTZ4QQ?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
+          "title": "Rubio heads to region to address Iran MoU, Hormuz",
+          "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -1005,26 +861,26 @@
       ]
     },
     {
-      "term": "lebanon",
+      "term": "regional",
       "count": 3,
       "headlines": [
         {
-          "title": "With Fahd al-Doussari, Saudi Arabia seeks to regain the initiative in Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGZXOGI0MGJUZlBMakI2Vmh6QXhteW9XQ25XbVBFQ2xrMEpxREZPUFRUUGJqbUg5MWdkdzBuV2tIWnNDVUxuNFNJSVp0QzFvaVdpdDdkY3R6V3ZkYTh6eXRkSFdGYnVPNzJyVWVlT0JMQVlrS1BrNkNsUXdMNlE5d19OQ0J0djkwMVlBUmZ6TTNiZk03MEVGdmJwTFN5WU5HQ3BQcVpWOExFZ2dLRDJIck5zb0dQbDBNZk52aVFwcTh0MkdST3lOOA?oc=5",
-          "source": "L'Orient Today",
+          "title": "Arab consultative meeting enabled 'open, candid' talks on regional challenges — Safadi",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVU1d3k0bktwWXRaV1N1SDRMelEwdkhiZE40eDRhd0taRWlRXzVGeDRJWHd0Rjl0bkNRQV9sR0dsT0Nta2xUYmhBbXktZXE1elhaa2RxZjY5bHh2UldWYUVzMXEtdC0xMzFUMnBsR1Y2WS1ubGhnREd6R2JIa3pQN1hRWkdJMTFkckVmX0o2ellMdUVIZVhyMnhHNGNhRHNXbk12Tk51Z19VQ1ZMUTVfVjZEdUstLXc?oc=5",
+          "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "Israel considering announcing “symbolic” withdrawals as part of talks with Lebanon, source says",
-          "url": "https://www.egyptindependent.com/israel-considering-announcing-symbolic-withdrawals-as-part-of-talks-with-lebanon-source-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Beyond points and discounts: How regional brands are building emotional loyalty",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1NrQThWWXNmaWhkSC0zRVRWZ05ZWFFnbTIxbE9VQ1J0d2N4NXNSVVktelVvdjJmSVNDRWE0N185WnpkZ1MwYU43TzYwdk05WHFhMnJMLXRHdWpqRlRqZDZubjZhUldURHAyanBkSDIzSlFMVnNIY3lEUHN2dlJnS25WYmpWS0haeHZZbjJ5b05LZmxuS2k2Y0NnWWlpNURBdHkybGZhU2NibVhqWU9COTBUUGk3b09SbXQya0Z5eWdIajExeXNneE5ERzAzZzBLWlVDbnAtMNIB1wFBVV95cUxNM1NrQThWWXNmaWhkSC0zRVRWZ05ZWFFnbTIxbE9VQ1J0d2N4NXNSVVktelVvdjJmSVNDRWE0N185WnpkZ1MwYU43TzYwdk05WHFhMnJMLXRHdWpqRlRqZDZubjZhUldURHAyanBkSDIzSlFMVnNIY3lEUHN2dlJnS25WYmpWS0haeHZZbjJ5b05LZmxuS2k2Y0NnWWlpNURBdHkybGZhU2NibVhqWU9COTBUUGk3b09SbXQya0Z5eWdIajExeXNneE5ERzAzZzBLWlVDbnAtMA?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
         },
         {
-          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
-          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
-          "source": "Times of Israel",
-          "region": "Israel"
+          "title": "Iran to continue diplomatic efforts to boost ties",
+          "url": "https://en.mehrnews.com/news/245543/Iran-committed-to-diplomacy-under-international-law",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -1149,39 +1005,9 @@
       ]
     },
     {
-      "term": "killed",
+      "term": "montreal",
       "count": 3,
       "headlines": [
-        {
-          "title": "Teenage girl on the way to a high school in Gaza killed in Israeli strike, relatives say",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rb21wZ1diNEQ3MTU5SEJLRzEyQVUxN19EWm11VGl4R1ZBTktmQmxpSFM3eW8tazlaWk9ITktobDhHWXBVNVQ3VVBvOG1nMU02ZUo0?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "IDF: Oct. 7 terrorist who held Omer Shem Tov hostage killed in recent Gaza strike",
-          "url": "https://www.timesofisrael.com/idf-oct-7-terrorist-who-held-omer-shem-tov-hostage-killed-in-recent-gaza-strike/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "shooting",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Shooting in Montreal, Canada leaves three dead including suspect",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWi1ERlJIVm5QUEFvWjcxazFQMDI3Q2N4TkNrRGoxUFNYNlhXWGpqWEhEZm9jMXZnWWhHVXZXNG1SQWdNMnh6dldzRzdUMkJWYmpkeXR2Q01Jbmk2RVppMVYwdEl4RTJTVHNJRlpVSlk0VDhDOXdCUFdES2h4aHBNZW9zRjhtQkRtWnBsY3hFYlN3VGZ2N1FDVVZUdmFKZ2UwUERMeFpzakdSdFhkNjd0c0twZG04bG5KTlpWUUE5UnQ3ZTDSAcMBQVVfeXFMTlotREZSSFZuUFBBb1o3MWsxUDAyN0NjeE5Da0RqMVBTWDZYV1hqalhIRGZvYzF2Z1loR1V2VzRtUkFnTTJ4enZXc0c3VDJCVmJqZHl0dkNNSW5pNkVaaTFWMHRJeEUyU1RzSUZaVUpZNFQ4Qzl3QlBXREtoeGhwTWVvc0Y4bUJEbVpwbGN4RWJTd1RmdjdRQ1VWVHZhSmdlMFBETHhac2pHUnRYZDY3dHNLcGRtOGxuSk5aVlFBOVJ0N2Uw?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
         {
           "title": "Canadian PM Carney ‘horrified’ by Montreal shooting near Jewish sites",
           "url": "https://www.jpost.com/diaspora/antisemitism/article-900196",
@@ -1189,7 +1015,13 @@
           "region": "Israel"
         },
         {
-          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
+          "title": "Montreal-born MK Illouz: The Montreal I knew is gone, the warning signs are everywhere - opinion",
+          "url": "https://www.jpost.com/opinion/article-900192",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Jewish man killed in Montreal shooting that also left a police officer dead",
           "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
           "source": "Times of Israel",
           "region": "Israel"
@@ -1197,50 +1029,20 @@
       ]
     },
     {
-      "term": "leaves",
-      "count": 3,
+      "term": "girl",
+      "count": 2,
       "headlines": [
         {
-          "title": "Shooting in Montreal, Canada leaves three dead including suspect",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWi1ERlJIVm5QUEFvWjcxazFQMDI3Q2N4TkNrRGoxUFNYNlhXWGpqWEhEZm9jMXZnWWhHVXZXNG1SQWdNMnh6dldzRzdUMkJWYmpkeXR2Q01Jbmk2RVppMVYwdEl4RTJTVHNJRlpVSlk0VDhDOXdCUFdES2h4aHBNZW9zRjhtQkRtWnBsY3hFYlN3VGZ2N1FDVVZUdmFKZ2UwUERMeFpzakdSdFhkNjd0c0twZG04bG5KTlpWUUE5UnQ3ZTDSAcMBQVVfeXFMTlotREZSSFZuUFBBb1o3MWsxUDAyN0NjeE5Da0RqMVBTWDZYV1hqalhIRGZvYzF2Z1loR1V2VzRtUkFnTTJ4enZXc0c3VDJCVmJqZHl0dkNNSW5pNkVaaTFWMHRJeEUyU1RzSUZaVUpZNFQ4Qzl3QlBXREtoeGhwTWVvc0Y4bUJEbVpwbGN4RWJTd1RmdjdRQ1VWVHZhSmdlMFBETHhac2pHUnRYZDY3dHNLcGRtOGxuSk5aVlFBOVJ0N2Uw?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "Israeli strike kills Palestinian girl on her way to sit exam",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
-          "source": "Times of Oman",
+          "title": "Teenage girl on the way to a high school in Gaza killed in Israeli strike, relatives say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rb21wZ1diNEQ3MTU5SEJLRzEyQVUxN19EWm11VGl4R1ZBTktmQmxpSFM3eW8tazlaWk9ITktobDhHWXBVNVQ3VVBvOG1nMU02ZUo0?oc=5",
+          "source": "Arab News",
           "region": "Gulf"
-        },
-        {
-          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
-          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "dead",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Shooting in Montreal, Canada leaves three dead including suspect",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWi1ERlJIVm5QUEFvWjcxazFQMDI3Q2N4TkNrRGoxUFNYNlhXWGpqWEhEZm9jMXZnWWhHVXZXNG1SQWdNMnh6dldzRzdUMkJWYmpkeXR2Q01Jbmk2RVppMVYwdEl4RTJTVHNJRlpVSlk0VDhDOXdCUFdES2h4aHBNZW9zRjhtQkRtWnBsY3hFYlN3VGZ2N1FDVVZUdmFKZ2UwUERMeFpzakdSdFhkNjd0c0twZG04bG5KTlpWUUE5UnQ3ZTDSAcMBQVVfeXFMTlotREZSSFZuUFBBb1o3MWsxUDAyN0NjeE5Da0RqMVBTWDZYV1hqalhIRGZvYzF2Z1loR1V2VzRtUkFnTTJ4enZXc0c3VDJCVmJqZHl0dkNNSW5pNkVaaTFWMHRJeEUyU1RzSUZaVUpZNFQ4Qzl3QlBXREtoeGhwTWVvc0Y4bUJEbVpwbGN4RWJTd1RmdjdRQ1VWVHZhSmdlMFBETHhac2pHUnRYZDY3dHNLcGRtOGxuSk5aVlFBOVJ0N2Uw?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "Shooting in Jewish area of Montreal leaves civilian, police officer dead; motive unclear",
-          "url": "https://www.timesofisrael.com/shooting-in-jewish-area-of-montreal-leaves-civilian-police-officer-dead-motive-unclear/",
-          "source": "Times of Israel",
-          "region": "Israel"
         }
       ]
     },
@@ -1255,8 +1057,8 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Kylian Mbappé of France scores his 15th World Cup goal, tying for 3rd most in history",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGc2eWhPMlpDN0I5LVBEaW1taS1ZOUYzdlZiVDhfV0JCWE83bm5WcTRIaGpRVkFOeFc4MVJRNy1vX0FUSlZLcWJDWS1EdkN2QTFlT2x4N2UwSHQwZTFMQ0E2UEMwa2RBZXVkb3RWeWpQcU5GSnRWZkVNRGl0emZWOVgyaHE3N0NNZlhvY3pld3NUc05YVkNuQ3BwMGdwX1FJd0pnT1p6a2RoQVlCb3RuN1prMjJXV2haYmxCeTdlVWYtTmxNbWFabWx3U2xJaS13SFMyRkJNaXVlVnVIVHdFMC1USnBralNsVVBKLUQ4V0RwZElYVEHSAfYBQVVfeXFMTzBnNnloTzJaQzdCOS1QRGltbWktWTlGM3ZWYlQ4X1dCQlhPN25uVnE0SGhqUVZBTnhXODFSUTctb19BVEpWS3FiQ1ktRHZDdkExZU9seDdlMEh0MGUxTENBNlBDMGtkQWV1ZG90VnlqUHFORkp0VmZFTURpdHpmVjlYMmhxNzdDTWZYb2N6ZXdzVHNOWFZDbkNwcDBncF9RSXdKZ09aemtkaEFZQm90bjdaazIyV1doWmJsQnk3ZVVmLU5sTW1hWm1sd1NsSWktd0hTMkZCTWl1ZVZ1SFR3RTAtVEpwa2pTbFVQSi1EOFdEcGRJWFRB?oc=5",
+          "title": "Two children die in France as heatwave toasts Europe",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2NhQzRDeWhBc0hVWkdkOGo3Szk1UkpmQUNYbnFSeGZGYnZRenRRR0htZUxrdU5QLWtsY291YVNzMmRRaVBCV2lENnUxcjhhUWQyaTE3MkFxb0RKUDN3cTdQUl8wazh0RzdyeUpLX0FUSjkzOVBiUUxwQWVxeEdrbHpyREo1S2EzX3FrM3BiNkgxb2U2TTJFRTNCZnkyamxaSi1WSS1jazZaNlkzS2FxbFd30gGyAUFVX3lxTE9DY2FDNEN5aEFzSFVaR2Q4ajdLOTVSSmZBQ1hucVJ4ZkZidlF6dFFHSG1lTGt1TlAta2xjb3VhU3MyZFFpUEJXaUQ2dTFyOGFRZDJpMTcyQXFvREpQM3dxN1BSXzBrOHRHN3J5SktfQVRKOTM5UGJRTHBBZXF4R2tsenJESjVLYTNfcWszcGI2SDFvZTZNMkVFM0JmeTJqbFpKLVZJLWNrNlo2WTNLYXFsV3c?oc=5",
           "source": "Gulf News",
           "region": "Gulf"
         }
@@ -1281,7 +1083,7 @@
       ]
     },
     {
-      "term": "kylian",
+      "term": "scored",
       "count": 2,
       "headlines": [
         {
@@ -1291,10 +1093,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Kylian Mbappé of France scores his 15th World Cup goal, tying for 3rd most in history",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGc2eWhPMlpDN0I5LVBEaW1taS1ZOUYzdlZiVDhfV0JCWE83bm5WcTRIaGpRVkFOeFc4MVJRNy1vX0FUSlZLcWJDWS1EdkN2QTFlT2x4N2UwSHQwZTFMQ0E2UEMwa2RBZXVkb3RWeWpQcU5GSnRWZkVNRGl0emZWOVgyaHE3N0NNZlhvY3pld3NUc05YVkNuQ3BwMGdwX1FJd0pnT1p6a2RoQVlCb3RuN1prMjJXV2haYmxCeTdlVWYtTmxNbWFabWx3U2xJaS13SFMyRkJNaXVlVnVIVHdFMC1USnBralNsVVBKLUQ4V0RwZElYVEHSAfYBQVVfeXFMTzBnNnloTzJaQzdCOS1QRGltbWktWTlGM3ZWYlQ4X1dCQlhPN25uVnE0SGhqUVZBTnhXODFSUTctb19BVEpWS3FiQ1ktRHZDdkExZU9seDdlMEh0MGUxTENBNlBDMGtkQWV1ZG90VnlqUHFORkp0VmZFTURpdHpmVjlYMmhxNzdDTWZYb2N6ZXdzVHNOWFZDbkNwcDBncF9RSXdKZ09aemtkaEFZQm90bjdaazIyV1doWmJsQnk3ZVVmLU5sTW1hWm1sd1NsSWktd0hTMkZCTWl1ZVZ1SFR3RTAtVEpwa2pTbFVQSi1EOFdEcGRJWFRB?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "Hapoel Tel Aviv stays alive with Game 3 win over Maccabi",
+          "url": "https://www.jpost.com/israel-news/sports/article-900194",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     },
@@ -1313,24 +1115,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/messi-becomes-the-world-cups-all-time-top-goalscorer?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "third",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Mbappe leads France to win over Iraq in lightning-delayed World Cup game",
-          "url": "https://www.aljazeera.com/sports/2026/6/23/mbappe-leads-france-to-win-over-iraq-in-lightening-delayed-world-cup-tie?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Kylian Mbappé of France scores his 15th World Cup goal, tying for 3rd most in history",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGc2eWhPMlpDN0I5LVBEaW1taS1ZOUYzdlZiVDhfV0JCWE83bm5WcTRIaGpRVkFOeFc4MVJRNy1vX0FUSlZLcWJDWS1EdkN2QTFlT2x4N2UwSHQwZTFMQ0E2UEMwa2RBZXVkb3RWeWpQcU5GSnRWZkVNRGl0emZWOVgyaHE3N0NNZlhvY3pld3NUc05YVkNuQ3BwMGdwX1FJd0pnT1p6a2RoQVlCb3RuN1prMjJXV2haYmxCeTdlVWYtTmxNbWFabWx3U2xJaS13SFMyRkJNaXVlVnVIVHdFMC1USnBralNsVVBKLUQ4V0RwZElYVEHSAfYBQVVfeXFMTzBnNnloTzJaQzdCOS1QRGltbWktWTlGM3ZWYlQ4X1dCQlhPN25uVnE0SGhqUVZBTnhXODFSUTctb19BVEpWS3FiQ1ktRHZDdkExZU9seDdlMEh0MGUxTENBNlBDMGtkQWV1ZG90VnlqUHFORkp0VmZFTURpdHpmVjlYMmhxNzdDTWZYb2N6ZXdzVHNOWFZDbkNwcDBncF9RSXdKZ09aemtkaEFZQm90bjdaazIyV1doWmJsQnk3ZVVmLU5sTW1hWm1sd1NsSWktd0hTMkZCTWl1ZVZ1SFR3RTAtVEpwa2pTbFVQSi1EOFdEcGRJWFRB?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
         }
       ]
     },
@@ -1443,74 +1227,20 @@
       ]
     },
     {
-      "term": "billion",
+      "term": "pezeshkian",
       "count": 2,
       "headlines": [
         {
-          "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Petrofac’s fall: How a Dh27.5 billion giant ended with UAE staff taking 70% dues",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObzhnRzdfaENGR0l1LS03S1N2LUlPX0xfQzhlQTlTdkg3NUtNYWZNZmltSkVMQjlCNFBxUjBuZi1MZ09jWENUcnJxLXNTV09XQlRwbHNLS0JxMHRfQ1lrYUhIcHBDYks4amtoNXhqZHF3MW84SWprdjdOWGttajlCcWFTdm9yeVktZDlsU3ptSV9fLWFNSWs3dGdidmRvOFpUQmxsNmItQ2tuLXlSMWVyTVdBS1Q5U3JBbnEzTjVzckh3R2Y0NXJsLXNBZnpINmpKRkJZNDBR0gHWAUFVX3lxTE5vOGdHN19oQ0ZHSXUtLTdLU3YtSU9fTF9DOGVBOVN2SDc1S01hZk1maW1KRUxCOUI0UHFSMG5mLUxnT2NYQ1RycnEtc1NXT1dCVHBsc0tLQnEwdF9DWWthSEhwcENiSzhqa2g1eGpkcXcxbzhJamt2N05Ya21qOUJxYVN2b3J5WS1kOWxTem1JX18tYU1Jazd0Z2J2ZG84WlRCbGw2Yi1Da24teVIxZXJNV0FLVDlTckFucTNONXNySHdHZjQ1cmwtc0Fmekg2akpGQlk0MFE?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "commitment",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Oman reaffirms support for toll-free passage through Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-reaffirms-support-toll-free-passage-through-hormuz",
+          "title": "Pezeshkian hails Lebanon deconfliction cell as major achievement",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-hails-lebanon-deconfliction-cell-major-achievement",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "community",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Gaza surfers seek solace from war in the sea",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
         },
         {
-          "title": "Syria makes 'no progress' repairing Druze relations: UN",
-          "url": "https://www.newarab.com/news/syria-makes-no-progress-repairing-druze-relations-un",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "amidst",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Gaza surfers seek solace from war in the sea",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlWNzFUTFVKb2NmNzhMa3lSeU11WktlZXZvQVI3VEJ0Ql9GaC1fQkwzSE9EMHdWQjBxYTAxOTNsd2FlSGNSWjM0Q3BzQVlxTzJjZmlVZGNwdzZMN0UySGcxalNNX3FpNjZkcGlpUE9uWEdIczQzVU9ZUFotWGVlcHVRM2d5VGE0V2Qzci1NSThSR1A5RDlOWXhTQXFUTnNkUWFQQ3lnQmFRNVJuMmRuMUQ0ZTJybV9PWkd2d0JWRnd2dEp0cVNRVkRucXR2Zw?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
+          "title": "Iran to continue diplomatic efforts to boost ties",
+          "url": "https://en.mehrnews.com/news/245543/Iran-committed-to-diplomacy-under-international-law",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -1581,6 +1311,204 @@
         {
           "title": "Some Jewish allies of Mamdani denounce his use of ‘monsters’ to describe AIPAC",
           "url": "https://www.timesofisrael.com/some-jewish-allies-of-mamdani-denounce-his-use-of-monsters-to-describe-aipac/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "deaths",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "New York Mayor Mamdani condemns continued killings in Gaza and Aipac",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-york-mayor-mamdani-condemns-continued-killings-gaza-and-aipac",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Qatar gas plant explosion leaves 13 dead and 66 others injured",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnZkVWYyZUVIY3lwOW45UVdkWTc0UG1tM0dKVXFIY0ZGNktud1FkWF94TWMtRjlhNVF1M2RxZlRfSGRlbGhXSzR6RXhLb3lCY0c4eks4UFZwTGdPc3ZCQkt6YUZTLTE2WU9fcU1XWmVKS01pMjUyUlprcUd2cXdlT1F3Y1kzSDNRMlZlTDNTazVVRmRrcGRSWGpNZGpNaldSUnM4?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "vice",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranian vice president says Tehran still distrusts Washington",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-vice-president-says-tehran-still-distrusts-washington",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran shows Trump just how hard making peace will be",
+          "url": "https://www.egyptindependent.com/iran-shows-trump-just-how-hard-making-peace-will-be/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "washington",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranian vice president says Tehran still distrusts Washington",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-vice-president-says-tehran-still-distrusts-washington",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "mohammad",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranian vice president says Tehran still distrusts Washington",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-vice-president-says-tehran-still-distrusts-washington",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hormuz to be administred by Iran with Iranian arrangements",
+          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "released",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Trump says released Iranian assets will return through food purchases",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-released-iranian-assets-will-return-through-food-purchases",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "الاحتلال يفرج عن 7 معتقلين من قطاع غزة عبر الصليب الأحمر",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNemNuemZHd3oxOFJJb0tTcUxDQjNOQWlQazlzSGZRRG1hVVdMTGlfNUdRQ0xqYUFwWmZJVXhueVRvYlJFZHRONlpBYlViUU4yaGEtLXpIUzczTm9zaTNob3Q3aWJvOWxOWHRYZDJGVFo2WjBlXzR5RnlhSkt6a0Zxc25SZ2dSU1cxSGo3Z21nTC15b3htWllFVjB1WnRCRFd1NFFwMGRPOFVqNExzZTdDZUQ5ckpreFBKbXVheUtOTGVZc19KY1hGXzdZZU9UYmJQakJiWWlncWw2bEtaT1YydHp0N0x4ODJzdmc2WXQ3YXVtUlZPeUx2WDNFa0txVDEtODB0NG9oeWVnbTQ?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "through",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Trump says released Iranian assets will return through food purchases",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-released-iranian-assets-will-return-through-food-purchases",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Oman’s central bank raises OMR43 through treasury bills",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnJ4TnV0Q2VVcFhRUEFMVnkzdHQwNGYzU3FVczZRU1BuNW9xcDZkZjdFZkpvamRoaE9BT3N5Wmxyd0FuLXhDMjVhcFFfeG5oeDlCX1d5LWZlQTl6YTlxcmFEWlpaZU4wakhyOG5lUUp3UjJ0M2VBRGs1Rm5GU3VDVk1NX2pHV3BZN0pqZkZQMUpVcEthSGhFYQ?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "energy",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "‘Nobody Cares,’ Trump Jokes With Energy Secretary",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3JxODc5YWcyZmFuV253dGtpRS0wQWZodWRjTFMtclBoOXZBcWJTX0tQd2NXVmJaOWFKX3ZLU1VZMThicTN0OWhCWFdxWVBjb1hmbS1QeWR3SWhRX2szSmRJbXJOOGxlanU4eHVvZXFOU2RpalMxQ2c1VTRDZ25ZOFlQQmczNk5wZkwzejk1R1NDdlU4U000ZmhUQjJyU3FsQWfSAacBQVVfeXFMTmVPN2VlWWY4OHptLWhXM2RkaFg5clZ1OU0za0E5bGw3SDBkMTRFZ2ZVVjJZX0hRcXV0R05vUXBKTVJKTjBqZGNBZ3BBUVJJbEFPNTk5XzJnUUxoaXNJVi1DVWl5LUJsN1VIcVRVbjgwSV83WE1hWmJkeFpLZlprM2luSGNLSjlEemczRDdIdHlYMVRRQjZRU3ZKTGplTmNFV3NJS3lTS0k?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Al-Kaabi discusses energy co-operation with French economy minister",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXVpa0swSG5MeG0xRXZiRHVtN1dpeVhxYnJabDU2SXZtNFFTTnBmeE83T2tSd3RfUDJqeHpPbWp6a2g4WlZPZ0FCREdsUmplOEp0RGs2ZGVrQkctRC1Famw0T3l4dlZiZVNXek13R2RmR1JNR3poUGhmRXAzWjhhRnRLbVdYREE2WWhYa01WY1JCV243VTViNEllWjFpcVkxSDFWcjBMUi1XZ0p5Q2pzSFlwcW9VLXF2QUE?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "secretary",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "‘Nobody Cares,’ Trump Jokes With Energy Secretary",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3JxODc5YWcyZmFuV253dGtpRS0wQWZodWRjTFMtclBoOXZBcWJTX0tQd2NXVmJaOWFKX3ZLU1VZMThicTN0OWhCWFdxWVBjb1hmbS1QeWR3SWhRX2szSmRJbXJOOGxlanU4eHVvZXFOU2RpalMxQ2c1VTRDZ25ZOFlQQmczNk5wZkwzejk1R1NDdlU4U000ZmhUQjJyU3FsQWfSAacBQVVfeXFMTmVPN2VlWWY4OHptLWhXM2RkaFg5clZ1OU0za0E5bGw3SDBkMTRFZ2ZVVjJZX0hRcXV0R05vUXBKTVJKTjBqZGNBZ3BBUVJJbEFPNTk5XzJnUUxoaXNJVi1DVWl5LUJsN1VIcVRVbjgwSV83WE1hWmJkeFpLZlprM2luSGNLSjlEemczRDdIdHlYMVRRQjZRU3ZKTGplTmNFV3NJS3lTS0k?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Rubio heads to region to address Iran MoU, Hormuz",
+          "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "strait",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Trump Says Strait of Hormuz Is Open",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hormuz to be administred by Iran with Iranian arrangements",
+          "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "open",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Trump Says Strait of Hormuz Is Open",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp5WjhPbFRJbEhwblJ6NElkZVVtcGdQTnhyc3VrOUJMXzZjdVh4alROb1ZGczNDdE9hLWFOalZJR2ppQzE4bVoxdFRzMTJnTVVUTmhwMkhyUzlRMEltT3g5eW5mamNkM0ZxbFBtdVFrZGxkTVRscWRoSnBLdW1FNlRpbURLZHp2bnptVWg5WWdYd9IBlwFBVV95cUxNLTF1MzZXbXJfNFh0ZndMN21OcnRFUFVvMy1tRDNBZHdaa3VkVjdXeDNmMllkTElOUW5WQ1A1Y2dYU1l6b2VQWjdrbldLUlVaMXRQeFhrSU1mbzNBOVVubkpfLWhzMGU1OFc3V2ZCSTl3bDNpTlpOUGhqYkVxY0c2YXJIYVZUb0JnTGxqYVlSSElhVjdCN0t3?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Arab consultative meeting enabled 'open, candid' talks on regional challenges — Safadi",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVU1d3k0bktwWXRaV1N1SDRMelEwdkhiZE40eDRhd0taRWlRXzVGeDRJWHd0Rjl0bkNRQV9sR0dsT0Nta2xUYmhBbXktZXE1elhaa2RxZjY5bHh2UldWYUVzMXEtdC0xMzFUMnBsR1Y2WS1ubGhnREd6R2JIa3pQN1hRWkdJMTFkckVmX0o2ellMdUVIZVhyMnhHNGNhRHNXbk12Tk51Z19VQ1ZMUTVfVjZEdUstLXc?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "violates",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "‘I Will Do What I Have to Do’ if Iran Violates Deal: Trump",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbjhDNGxyMHpHWG5YQl9OeTg5SjBhUkticmpScU1jLWdUVUQ3MDlWUl9LSnNOejViSnNHeG9LYjRTZTRvT08xb0dnQTg5dWgwb3ZqUE1PMjhFWmxpZ1NxS1ZWYndSN1JReVdKaVlBTHhSS0ZPYkp0aDJ1Ql9FUW50a3hCaDhicUpMM0VZMVYzSU9WaG9RTU92UDFWNDlIempSU2dsS3h5V0JFUE04emZv0gG0AUFVX3lxTFBVTlFVZnNtczFKbzU4V0Y4elZhelZWNng2aGVGNkczS2RMa2tUc096X2ctYlh2aFh1M1lEVnlXTU5jSVV0NERUUVYxNU4xakFhcGYwbjd3ZlBHaUk4b2VydC1rWVFkYXNXLTVNd0ROa1Q4QUxSR0NzQVBsb1dVMklSRXZELWJLVU9RVm54ZUhmX3ROaTdld3hoY0YtSEZoT096MXRQX1VJUXR5NDNLWlVFU2dBeA?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+          "url": "https://www.timesofisrael.com/liveblog-june-23-2026/",
           "source": "Times of Israel",
           "region": "Israel"
         }
