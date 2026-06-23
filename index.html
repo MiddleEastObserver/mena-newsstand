@@ -218,6 +218,38 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .pulse-hl a{font-size:13px;font-weight:500;color:var(--ink);line-height:1.4;transition:.1s}
 .pulse-hl a:hover{color:var(--accent);text-decoration:underline}
 .pulse-hl .meta{font-size:11px;color:var(--muted);margin-top:3px}
+/* Outlet & Topic Trends */
+.tr-section{margin-bottom:34px}
+.tr-h{font-family:'Newsreader',Georgia,serif;font-size:20px;font-weight:700;color:var(--ink);margin-bottom:3px}
+.tr-sub{font-size:12.5px;color:var(--muted);line-height:1.5;margin-bottom:16px}
+.tr-row{display:grid;grid-template-columns:clamp(96px,26vw,170px) 1fr auto;align-items:center;gap:11px;margin-bottom:9px}
+.tr-label{font-size:13px;font-weight:600;color:var(--ink2);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tr-track{background:var(--bg);border-radius:5px;height:22px;overflow:hidden}
+.tr-fill{height:100%;border-radius:5px;min-width:3px;transition:width .5s ease}
+.tr-val{font-size:12.5px;color:var(--ink2);font-variant-numeric:tabular-nums;white-space:nowrap;min-width:74px}
+.tr-delta{font-weight:700;font-size:11px;margin-left:5px}
+.tr-up{color:#1F7A4A}.tr-down{color:#B0413E}.tr-flat{color:var(--muted)}
+.tr-note{font-size:11.5px;color:var(--muted);font-style:italic;margin:-4px 0 14px}
+.tr-legend{display:flex;flex-wrap:wrap;gap:8px 15px;margin:0 0 14px}
+.tr-leg{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;color:var(--ink2)}
+.tr-leg-dot{width:11px;height:11px;border-radius:3px;flex:0 0 auto}
+.tr-outlet{margin-bottom:13px}
+.tr-outlet-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:5px}
+.tr-outlet-name{font-size:13.5px;font-weight:700;color:var(--ink)}
+.tr-outlet-meta{font-size:11px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tr-stack{display:flex;height:24px;border-radius:5px;overflow:hidden;border:1px solid var(--line);background:var(--bg)}
+.tr-seg{height:100%;transition:filter .12s}
+.tr-seg:hover{filter:brightness(1.12)}
+.tr-div{background:#fff;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 var(--r1) var(--r1) 0;padding:13px 16px;margin-bottom:12px;box-shadow:var(--sh1)}
+.tr-div-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:9px}
+.tr-div-title{font-size:14px;font-weight:700;color:var(--ink)}
+.tr-div-spread{font-size:11px;color:var(--muted);white-space:nowrap}
+.tr-div-row{display:grid;grid-template-columns:clamp(86px,24vw,140px) 1fr 40px;align-items:center;gap:9px;margin-bottom:5px}
+.tr-div-src{font-size:12px;color:var(--ink2);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tr-div-track{background:var(--bg);height:13px;border-radius:4px;overflow:hidden}
+.tr-div-fill{height:100%;border-radius:4px;min-width:2px}
+.tr-div-pct{font-size:11.5px;color:var(--ink2);font-variant-numeric:tabular-nums}
+.tr-div-low{font-size:11.5px;color:var(--muted);margin-top:8px;line-height:1.5}
 
 footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-align:center;font-size:12px;color:var(--muted);max-width:960px;margin-left:auto;margin-right:auto}
 
@@ -267,6 +299,7 @@ footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-a
     <button class="navbtn" data-sec="headlines">Headlines</button>
     <button class="navbtn" data-sec="frontpages">Front Pages</button>
     <button class="navbtn" data-sec="pulse">Pulse</button>
+    <button class="navbtn" data-sec="trends">Trends</button>
     <button class="navbtn" data-sec="archive">Archive</button>
   </div>
 </div>
@@ -319,6 +352,13 @@ footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-a
     <div class="sec-note">The most-mentioned terms across every headline right now — bigger means more coverage. Click any word to see the headlines driving it. Updates every 30 minutes.</div>
     <div class="pulse-cloud" id="pulse-cloud"><div class="hl-loading">Loading pulse…</div></div>
     <div class="pulse-detail" id="pulse-detail"></div>
+  </div>
+
+  <!-- TRENDS TAB -->
+  <div class="section" id="sec-trends">
+    <div class="sec-head"><h2>Outlet &amp; Topic Trends</h2></div>
+    <div class="sec-note">How today's coverage breaks down by topic and by outlet across every tracked feed — and where outlets diverge most on the same stories. Updates every 30 minutes.</div>
+    <div id="trends-body"><div class="hl-loading">Loading trends…</div></div>
   </div>
 
   <!-- ARCHIVE TAB -->
@@ -562,9 +602,11 @@ buildArchive();
 loadHeadlines();
 loadBriefing();
 loadPulse();
+loadTrends();
 setInterval(loadHeadlines, 30 * 60 * 1000);
 setInterval(loadBriefing,   6 * 60 * 60 * 1000);
 setInterval(loadPulse,     30 * 60 * 1000);
+setInterval(loadTrends,    30 * 60 * 1000);
 
 let pulseData = null;
 
@@ -618,6 +660,92 @@ function showPulseTerm(i){
     </div>`).join("");
   document.getElementById("pulse-detail").innerHTML =
     `<div class="pulse-detail-head">"${esc(t.term)}" — ${t.count} headline${t.count===1?"":"s"}</div>${hls}`;
+}
+
+// ---- Outlet & Topic Trends ----
+async function loadTrends(){
+  const body = document.getElementById("trends-body");
+  let d;
+  try{
+    const r = await fetch("trends.json?t=" + Date.now(), {cache:"no-store"});
+    if(!r.ok) throw new Error("HTTP " + r.status);
+    d = await r.json();
+  }catch(e){
+    body.innerHTML = `<div class="hl-loading">Trends not yet available — they build on the next 30-min refresh.</div>`;
+    return;
+  }
+  const topics = d.topics || [], outlets = d.outlets || [], div = d.divergence || [];
+  if(!topics.length){ body.innerHTML = `<div class="hl-loading">No trend data yet.</div>`; return; }
+  const maxShare = Math.max(...topics.map(t=>t.share), 1);
+
+  // 1) Topic volume, with rising/falling vs ~24h ago
+  let html = `<div class="tr-section">
+    <div class="tr-h">Topic Volume — Today</div>
+    <div class="tr-sub">Share of all ${d.total_headlines} current headlines whose main subject is each topic${d.has_trend ? ", with the change in coverage vs ~24h ago" : ""}.</div>`;
+  if(!d.has_trend) html += `<div class="tr-note">Rising/falling figures appear once ~24h of history has accumulated.</div>`;
+  for(const t of topics){
+    const w = (t.share / maxShare * 100).toFixed(1);
+    let delta = "";
+    if(d.has_trend && t.delta !== null && t.delta !== undefined){
+      const cls = t.delta > 0.3 ? "tr-up" : (t.delta < -0.3 ? "tr-down" : "tr-flat");
+      const arrow = t.delta > 0.3 ? "▲" : (t.delta < -0.3 ? "▼" : "▬");
+      delta = `<span class="tr-delta ${cls}">${arrow} ${t.delta > 0 ? "+" : ""}${t.delta}pp</span>`;
+    }
+    html += `<div class="tr-row">
+      <div class="tr-label">${esc(t.label)}</div>
+      <div class="tr-track"><div class="tr-fill" style="width:${w}%;background:${esc(t.color)}"></div></div>
+      <div class="tr-val">${t.count} · ${t.share}%${delta}</div>
+    </div>`;
+  }
+  html += `</div>`;
+
+  // 2) What each outlet is covering — 100% stacked topic mix
+  html += `<div class="tr-section">
+    <div class="tr-h">What Each Outlet Is Covering</div>
+    <div class="tr-sub">Every outlet's headlines split by topic — its editorial mix at a glance. Hover a segment for the topic and share.</div>`;
+  const legend = topics.filter(t=>t.id !== "other");
+  html += `<div class="tr-legend">` +
+    legend.map(t=>`<span class="tr-leg"><span class="tr-leg-dot" style="background:${esc(t.color)}"></span>${esc(t.label)}</span>`).join("") +
+    `<span class="tr-leg"><span class="tr-leg-dot" style="background:#9AA3B2"></span>Other</span></div>`;
+  for(const o of outlets){
+    const segs = (o.mix || []).map(m=>
+      `<div class="tr-seg" style="width:${m.share}%;background:${esc(m.color)}" title="${esc(m.label)} — ${m.share}%"></div>`).join("");
+    const top = (o.mix && o.mix[0]) ? `${esc(o.mix[0].label)} ${o.mix[0].share}%` : "—";
+    html += `<div class="tr-outlet">
+      <div class="tr-outlet-head">
+        <span class="tr-outlet-name">${esc(o.source)}</span>
+        <span class="tr-outlet-meta">${esc(o.country)} · ${o.total} headlines · most: ${top}</span>
+      </div>
+      <div class="tr-stack">${segs}</div>
+    </div>`;
+  }
+  html += `</div>`;
+
+  // 3) Where outlets diverge
+  if(div.length){
+    html += `<div class="tr-section">
+      <div class="tr-h">Where Outlets Diverge</div>
+      <div class="tr-sub">On the day's biggest stories — who is leaning in hardest, and who is barely covering it.</div>`;
+    for(const dv of div){
+      const rows = (dv.top || []).map(s=>`<div class="tr-div-row">
+        <div class="tr-div-src">${esc(s.source)}</div>
+        <div class="tr-div-track"><div class="tr-div-fill" style="width:${s.share}%;background:${esc(dv.color)}"></div></div>
+        <div class="tr-div-pct">${s.share}%</div></div>`).join("");
+      const low = (dv.bottom && dv.bottom.length)
+        ? `<div class="tr-div-low">Barely covering it: ${dv.bottom.map(s=>esc(s.source)).join(", ")}</div>` : "";
+      html += `<div class="tr-div">
+        <div class="tr-div-head"><span class="tr-div-title">${esc(dv.label)}</span>
+          <span class="tr-div-spread">${dv.spread}pp spread</span></div>
+        ${rows}${low}</div>`;
+    }
+    html += `</div>`;
+  }
+
+  if(d.updated){
+    const dt = new Date(d.updated);
+    html += `<div class="hl-updated">Updated ${dt.toLocaleString("en-US",{weekday:"short",month:"short",day:"numeric",hour:"2-digit",minute:"2-digit",timeZoneName:"short"})} · based on ${d.history_points} snapshot${d.history_points===1?"":"s"} of history</div>`;
+  }
+  body.innerHTML = html;
 }
 
 function renderBriefCarousel(cards){

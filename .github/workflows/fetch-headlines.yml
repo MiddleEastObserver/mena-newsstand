@@ -106,6 +106,11 @@ jobs:
         continue-on-error: true
         run: python scripts/build_pulse.py
 
+      # Outlet & Topic Trends — cheap, no API, runs every refresh.
+      - name: Build topic trends
+        continue-on-error: true
+        run: python scripts/build_trends.py
+
       # Build the world briefing every 6 hours. continue-on-error so a Gemini
       # quota or network hiccup never blocks the headlines commit or email.
       - name: Build world briefing
@@ -127,6 +132,7 @@ jobs:
           git add headlines.json state/daily.json
           git add pulse.json 2>/dev/null || true
           git add briefing.json 2>/dev/null || true
+          git add trends.json state/trends_history.json 2>/dev/null || true
           git add frontpages 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nothing changed — skipping commit."

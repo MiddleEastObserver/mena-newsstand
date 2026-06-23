@@ -1,0 +1,239 @@
+#!/usr/bin/env python3
+"""Builds trends.json — the "Outlet & Topic Trends" intelligence view.
+
+Runs every refresh (cheap, no API). Classifies each current headline into ONE
+curated MENA topic bucket (by priority, so each outlet's mix is a clean 100%
+split), then computes:
+
+  • topic volume this period (+ rising/falling vs ~24h ago)
+  • what each outlet is covering most (its topic mix)
+  • where outlets diverge on the day's biggest topics (coverage share spread)
+
+A small rolling history (state/trends_history.json) is kept so the
+rising/falling deltas are real, not fabricated — they fill in once ~24h of
+snapshots exist.
+
+Output (trends.json):
+  { "updated", "total_headlines", "topics":[…], "outlets":[…],
+    "divergence":[…], "history_points":N }
+"""
+import json
+import re
+from datetime import datetime, timezone
+from pathlib import Path
+
+ROOT       = Path(__file__).parent.parent
+HL_PATH    = ROOT / "headlines.json"
+OUT_PATH   = ROOT / "trends.json"
+HIST_PATH  = ROOT / "state" / "trends_history.json"
+
+HIST_MAX        = 96          # ~48h of 30-min snapshots
+DELTA_MIN_AGE_H = 12          # need a snapshot at least this old to show a trend
+DELTA_TGT_AGE_H = 24         # compare against the snapshot nearest this age
+DIVERGENCE_TOPICS = 5         # how many top topics to break down by outlet
+MIN_OUTLET_HL   = 2           # ignore near-empty outlets in the mix view
+
+# Curated topic buckets, in PRIORITY order: a headline is assigned to the FIRST
+# bucket whose pattern it matches, so the more specific regional conflicts win
+# over the broad "Israel–Palestine", "US & West" and "Economy" catch-alls.
+# English keywords carry word boundaries; Arabic terms are matched as substrings
+# (Arabic prefixes ال/و/ب/ل attach to words, so substrings catch inflections).
+TOPICS = [
+    ("gaza",       "Gaza & Hamas",        "#B0413E",
+     r"gaza|hamas|rafah|khan younis|deir al-?balah|al-?shifa|nuseirat|jabalia"
+     r"|غزة|حماس|رفح|خان يونس|النصيرات|جباليا"),
+    ("lebanon",    "Lebanon & Hezbollah", "#9C6B2E",
+     r"lebanon|lebanese|hezbollah|hizbollah|beirut|nasrallah|naim qassem|"
+     r"nabatieh|litani|blue line"
+     r"|لبنان|حزب الله|بيروت|نصرالله|النبطية|الليطاني|الضاحية"),
+    ("yemen",      "Yemen & Red Sea",     "#C77D34",
+     r"yemen|yemeni|houthi|sana'?a|red sea|bab el-?mandeb|hodeida|aden"
+     r"|اليمن|الحوثي|صنعاء|البحر الأحمر|الحديدة"),
+    ("syria",      "Syria",               "#7D6BA6",
+     r"syria|syrian|damascus|assad|idlib|aleppo|hayat tahrir|\bhts\b|\bsdf\b|"
+     r"deir ez-?zor|سوريا|سورية|دمشق|الأسد|إدلب|حلب"),
+    ("iraq",       "Iraq",                "#5B6E8C",
+     r"iraq|iraqi|baghdad|islamic state|\bisis\b|daesh|kurdistan|erbil|"
+     r"popular mobiliz|العراق|بغداد|داعش|كردستان|أربيل"),
+    ("turkey",     "Turkey",              "#A4434B",
+     r"turkey|turkish|erdogan|ankara|istanbul|\bypg\b"
+     r"|تركيا|أردوغان|أنقرة|إسطنبول"),
+    ("egypt_naf",  "Egypt & N. Africa",   "#B08A3E",
+     r"egypt|egyptian|cairo|\bsisi\b|suez|sudan|sudanese|libya|libyan|tunisia|"
+     r"algeria|algerian|morocco|moroccan|rapid support"
+     r"|مصر|القاهرة|السيسي|السودان|ليبيا|تونس|الجزائر|المغرب"),
+    ("iran",       "Iran & Nuclear",      "#1F7A6E",
+     r"iran|iranian|tehran|\birgc\b|khamenei|pezeshkian|revolutionary guard|"
+     r"nuclear|enrich|uranium|centrifuge|natanz|fordow"
+     r"|إيران|طهران|نووي|الحرس الثوري|بزشكيان|خامنئي|اليورانيوم"),
+    ("gulf",       "Gulf & Normalization","#3E7C59",
+     r"saudi|riyadh|\buae\b|emirates|abu dhabi|dubai|qatar|doha|bahrain|kuwait|"
+     r"\boman\b|muscat|\bgcc\b|gulf cooperation|normaliz|abraham accords|"
+     r"bin salman|\bmbs\b|aramco"
+     r"|السعودية|الرياض|الإمارات|أبوظبي|دبي|قطر|الدوحة|البحرين|الكويت|"
+     r"التطبيع|بن سلمان|أرامكو|الخليج"),
+    ("israel_pal", "Israel–Palestine",    "#2F4B7C",
+     r"israel|israeli|palestin|west bank|jerusalem|settler|settlement|knesset|"
+     r"netanyahu|\bidf\b|jenin|ramallah|al-?aqsa|zionist|ben gvir|smotrich|"
+     r"tel aviv|hostage"
+     r"|إسرائيل|الاحتلال|فلسطين|الضفة|القدس|نتنياهو|الأقصى|صهيوني|الأسرى|"
+     r"المستوطن|جنين|رام الله|تل أبيب"),
+    ("us_west",    "US & the West",       "#4A6FA5",
+     r"united states|washington|white house|\bu\.?s\.?\b|biden|trump|american|"
+     r"pentagon|state department|europe|european union|britain|british|\buk\b|"
+     r"france|french|germany|german|\bnato\b|brussels"
+     r"|أمريكا|أميركا|واشنطن|ترامب|أوروبا|فرنسا|بريطانيا|الناتو|البيت الأبيض"),
+    ("econ",       "Economy & Energy",    "#6E7B3D",
+     r"\boil\b|crude|\bopec\b|natural gas|energy|economy|economic|inflation|"
+     r"interest rate|\btrade\b|tariff|investment|stock market|barrel|budget|"
+     r"\bimf\b|world bank|currency|\bgdp\b"
+     r"|النفط|الغاز|الاقتصاد|أوبك|التضخم|البورصة|صندوق النقد"),
+]
+TOPIC_RES = [(tid, label, color, re.compile(pat, re.I))
+             for tid, label, color, pat in TOPICS]
+TOPIC_META = {tid: {"label": label, "color": color}
+              for tid, label, color, _ in TOPICS}
+OTHER = {"id": "other", "label": "Other", "color": "#9AA3B2"}
+
+
+def classify(text: str) -> str:
+    """Return the single primary topic id for a headline (first match by
+    priority), or 'other' if nothing matches."""
+    for tid, _label, _color, rx in TOPIC_RES:
+        if rx.search(text):
+            return tid
+    return "other"
+
+
+def load_json(path):
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+
+
+def parse_ts(s):
+    try:
+        return datetime.fromisoformat(s)
+    except Exception:
+        return None
+
+
+def main():
+    data = load_json(HL_PATH) or {}
+    regions = data.get("regions", {})
+
+    now = datetime.now(timezone.utc)
+    total = 0
+    topic_counts = {}                      # tid -> headlines
+    outlet_rows = []                       # per-outlet mix
+
+    for region, outlets in regions.items():
+        for outlet in outlets:
+            source = outlet.get("source", "")
+            hls = outlet.get("headlines", [])
+            counts = {}
+            n = 0
+            for h in hls:
+                title = (h.get("title") or "").strip()
+                if not title:
+                    continue
+                blob = f"{title} {h.get('snippet', '')}"
+                tid = classify(blob)
+                counts[tid] = counts.get(tid, 0) + 1
+                topic_counts[tid] = topic_counts.get(tid, 0) + 1
+                n += 1
+            total += n
+            if n >= MIN_OUTLET_HL:
+                mix = sorted(
+                    ({"id": t, "label": TOPIC_META.get(t, OTHER)["label"],
+                      "color": TOPIC_META.get(t, OTHER)["color"],
+                      "count": c, "share": round(100 * c / n)}
+                     for t, c in counts.items()),
+                    key=lambda x: -x["count"])
+                outlet_rows.append({
+                    "source": source, "country": outlet.get("country", ""),
+                    "total": n, "mix": mix,
+                })
+
+    # ---- topic volume + rising/falling vs ~24h ago ----
+    hist = load_json(HIST_PATH) or {"snapshots": []}
+    snaps = hist.get("snapshots", [])
+
+    cur_share = {t: (100 * c / total if total else 0)
+                 for t, c in topic_counts.items()}
+
+    # pick the snapshot closest to DELTA_TGT_AGE_H old, within the valid window
+    ref = None
+    best_gap = None
+    for s in snaps:
+        ts = parse_ts(s.get("ts", ""))
+        if not ts:
+            continue
+        age_h = (now - ts).total_seconds() / 3600
+        if age_h < DELTA_MIN_AGE_H:
+            continue
+        gap = abs(age_h - DELTA_TGT_AGE_H)
+        if best_gap is None or gap < best_gap:
+            best_gap, ref = gap, s
+
+    topics_out = []
+    ordered = sorted(topic_counts.items(), key=lambda x: -x[1])
+    for tid, c in ordered:
+        meta = TOPIC_META.get(tid, OTHER)
+        row = {"id": tid, "label": meta["label"], "color": meta["color"],
+               "count": c, "share": round(cur_share.get(tid, 0), 1),
+               "delta": None}
+        if ref:
+            prev = ref.get("shares", {}).get(tid, 0)
+            row["delta"] = round(cur_share.get(tid, 0) - prev, 1)
+        topics_out.append(row)
+
+    # ---- divergence: for the biggest topics, each outlet's coverage share ----
+    divergence = []
+    top_ids = [t for t, _ in ordered if t != "other"][:DIVERGENCE_TOPICS]
+    for tid in top_ids:
+        meta = TOPIC_META.get(tid, OTHER)
+        shares = []
+        for o in outlet_rows:
+            sh = next((m["share"] for m in o["mix"] if m["id"] == tid), 0)
+            shares.append({"source": o["source"], "share": sh})
+        shares.sort(key=lambda x: -x["share"])
+        covering = [s for s in shares if s["share"] > 0]
+        if len(covering) < 2:
+            continue
+        spread = covering[0]["share"] - covering[-1]["share"]
+        divergence.append({
+            "id": tid, "label": meta["label"], "color": meta["color"],
+            "spread": spread,
+            "top": covering[:4],
+            "bottom": [s for s in shares if s["share"] == 0][:4],  # ignoring it
+        })
+    divergence.sort(key=lambda x: -x["spread"])
+
+    # ---- persist snapshot for future deltas ----
+    snaps.append({"ts": now.isoformat(),
+                  "shares": {t: round(v, 2) for t, v in cur_share.items()},
+                  "total": total})
+    snaps = snaps[-HIST_MAX:]
+    HIST_PATH.parent.mkdir(parents=True, exist_ok=True)
+    HIST_PATH.write_text(json.dumps({"snapshots": snaps}, ensure_ascii=False),
+                         encoding="utf-8")
+
+    out = {
+        "updated": now.isoformat(),
+        "total_headlines": total,
+        "has_trend": ref is not None,
+        "topics": topics_out,
+        "outlets": sorted(outlet_rows, key=lambda x: -x["total"]),
+        "divergence": divergence,
+        "history_points": len(snaps),
+    }
+    OUT_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=2),
+                        encoding="utf-8")
+    print(f"Wrote trends.json — {total} headlines, {len(topics_out)} topics, "
+          f"{len(outlet_rows)} outlets, trend={'yes' if ref else 'building'}")
+
+
+if __name__ == "__main__":
+    main()

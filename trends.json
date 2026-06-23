@@ -1,0 +1,918 @@
+{
+  "updated": "2026-06-23T16:28:20.278970+00:00",
+  "total_headlines": 110,
+  "has_trend": false,
+  "topics": [
+    {
+      "id": "iran",
+      "label": "Iran & Nuclear",
+      "color": "#1F7A6E",
+      "count": 26,
+      "share": 23.6,
+      "delta": null
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "color": "#9AA3B2",
+      "count": 23,
+      "share": 20.9,
+      "delta": null
+    },
+    {
+      "id": "israel_pal",
+      "label": "Israel–Palestine",
+      "color": "#2F4B7C",
+      "count": 14,
+      "share": 12.7,
+      "delta": null
+    },
+    {
+      "id": "lebanon",
+      "label": "Lebanon & Hezbollah",
+      "color": "#9C6B2E",
+      "count": 13,
+      "share": 11.8,
+      "delta": null
+    },
+    {
+      "id": "gulf",
+      "label": "Gulf & Normalization",
+      "color": "#3E7C59",
+      "count": 12,
+      "share": 10.9,
+      "delta": null
+    },
+    {
+      "id": "gaza",
+      "label": "Gaza & Hamas",
+      "color": "#B0413E",
+      "count": 11,
+      "share": 10.0,
+      "delta": null
+    },
+    {
+      "id": "us_west",
+      "label": "US & the West",
+      "color": "#4A6FA5",
+      "count": 7,
+      "share": 6.4,
+      "delta": null
+    },
+    {
+      "id": "econ",
+      "label": "Economy & Energy",
+      "color": "#6E7B3D",
+      "count": 2,
+      "share": 1.8,
+      "delta": null
+    },
+    {
+      "id": "egypt_naf",
+      "label": "Egypt & N. Africa",
+      "color": "#B08A3E",
+      "count": 1,
+      "share": 0.9,
+      "delta": null
+    },
+    {
+      "id": "turkey",
+      "label": "Turkey",
+      "color": "#A4434B",
+      "count": 1,
+      "share": 0.9,
+      "delta": null
+    }
+  ],
+  "outlets": [
+    {
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "total": 5,
+      "mix": [
+        {
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Middle East Eye",
+      "country": "UK",
+      "total": 5,
+      "mix": [
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Al Arabiya",
+      "country": "UAE",
+      "total": 5,
+      "mix": [
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 3,
+          "share": 60
+        },
+        {
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "The New Arab",
+      "country": "UK",
+      "total": 5,
+      "mix": [
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 3,
+          "share": 60
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Al Mayadeen",
+      "country": "Lebanon",
+      "total": 5,
+      "mix": [
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Jordan Times",
+      "country": "Jordan",
+      "total": 5,
+      "mix": [
+        {
+          "id": "econ",
+          "label": "Economy & Energy",
+          "color": "#6E7B3D",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "L'Orient Today",
+      "country": "Lebanon",
+      "total": 5,
+      "mix": [
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 4,
+          "share": 80
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Egypt Independent",
+      "country": "Egypt",
+      "total": 5,
+      "mix": [
+        {
+          "id": "egypt_naf",
+          "label": "Egypt & N. Africa",
+          "color": "#B08A3E",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Al-Akhbar",
+      "country": "Lebanon",
+      "total": 5,
+      "mix": [
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 3,
+          "share": 60
+        },
+        {
+          "id": "gulf",
+          "label": "Gulf & Normalization",
+          "color": "#3E7C59",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Al Manar",
+      "country": "Lebanon",
+      "total": 5,
+      "mix": [
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 5,
+          "share": 100
+        }
+      ]
+    },
+    {
+      "source": "WAFA News",
+      "country": "Palestine",
+      "total": 5,
+      "mix": [
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 5,
+          "share": 100
+        }
+      ]
+    },
+    {
+      "source": "Falastin al-Youm",
+      "country": "Palestine",
+      "total": 5,
+      "mix": [
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Arab News",
+      "country": "Saudi Arabia",
+      "total": 5,
+      "mix": [
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "gulf",
+          "label": "Gulf & Normalization",
+          "color": "#3E7C59",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "The National",
+      "country": "UAE",
+      "total": 5,
+      "mix": [
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "turkey",
+          "label": "Turkey",
+          "color": "#A4434B",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Gulf News",
+      "country": "UAE",
+      "total": 5,
+      "mix": [
+        {
+          "id": "gulf",
+          "label": "Gulf & Normalization",
+          "color": "#3E7C59",
+          "count": 4,
+          "share": 80
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Gulf Times",
+      "country": "Qatar",
+      "total": 5,
+      "mix": [
+        {
+          "id": "gulf",
+          "label": "Gulf & Normalization",
+          "color": "#3E7C59",
+          "count": 3,
+          "share": 60
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 2,
+          "share": 40
+        }
+      ]
+    },
+    {
+      "source": "Times of Oman",
+      "country": "Oman",
+      "total": 5,
+      "mix": [
+        {
+          "id": "gulf",
+          "label": "Gulf & Normalization",
+          "color": "#3E7C59",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "total": 5,
+      "mix": [
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Times of Israel",
+      "country": "Israel",
+      "total": 5,
+      "mix": [
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Haaretz",
+      "country": "Israel",
+      "total": 5,
+      "mix": [
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Tehran Times",
+      "country": "Iran",
+      "total": 5,
+      "mix": [
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 2,
+          "share": 40
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    },
+    {
+      "source": "Mehr News",
+      "country": "Iran",
+      "total": 5,
+      "mix": [
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 3,
+          "share": 60
+        },
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 1,
+          "share": 20
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 20
+        }
+      ]
+    }
+  ],
+  "divergence": [
+    {
+      "id": "israel_pal",
+      "label": "Israel–Palestine",
+      "color": "#2F4B7C",
+      "spread": 80,
+      "top": [
+        {
+          "source": "WAFA News",
+          "share": 100
+        },
+        {
+          "source": "Jerusalem Post",
+          "share": 40
+        },
+        {
+          "source": "Times of Israel",
+          "share": 40
+        },
+        {
+          "source": "Haaretz",
+          "share": 40
+        }
+      ],
+      "bottom": [
+        {
+          "source": "Al Jazeera",
+          "share": 0
+        },
+        {
+          "source": "Al Arabiya",
+          "share": 0
+        },
+        {
+          "source": "The New Arab",
+          "share": 0
+        },
+        {
+          "source": "Al Mayadeen",
+          "share": 0
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "Lebanon & Hezbollah",
+      "color": "#9C6B2E",
+      "spread": 80,
+      "top": [
+        {
+          "source": "Al Manar",
+          "share": 100
+        },
+        {
+          "source": "L'Orient Today",
+          "share": 80
+        },
+        {
+          "source": "Middle East Eye",
+          "share": 20
+        },
+        {
+          "source": "Egypt Independent",
+          "share": 20
+        }
+      ],
+      "bottom": [
+        {
+          "source": "Al Jazeera",
+          "share": 0
+        },
+        {
+          "source": "Al Arabiya",
+          "share": 0
+        },
+        {
+          "source": "The New Arab",
+          "share": 0
+        },
+        {
+          "source": "Al Mayadeen",
+          "share": 0
+        }
+      ]
+    },
+    {
+      "id": "gulf",
+      "label": "Gulf & Normalization",
+      "color": "#3E7C59",
+      "spread": 60,
+      "top": [
+        {
+          "source": "Gulf News",
+          "share": 80
+        },
+        {
+          "source": "Gulf Times",
+          "share": 60
+        },
+        {
+          "source": "Arab News",
+          "share": 40
+        },
+        {
+          "source": "Times of Oman",
+          "share": 40
+        }
+      ],
+      "bottom": [
+        {
+          "source": "Al Jazeera",
+          "share": 0
+        },
+        {
+          "source": "Middle East Eye",
+          "share": 0
+        },
+        {
+          "source": "Al Arabiya",
+          "share": 0
+        },
+        {
+          "source": "The New Arab",
+          "share": 0
+        }
+      ]
+    },
+    {
+      "id": "iran",
+      "label": "Iran & Nuclear",
+      "color": "#1F7A6E",
+      "spread": 40,
+      "top": [
+        {
+          "source": "The New Arab",
+          "share": 60
+        },
+        {
+          "source": "Mehr News",
+          "share": 60
+        },
+        {
+          "source": "Middle East Eye",
+          "share": 40
+        },
+        {
+          "source": "Jordan Times",
+          "share": 40
+        }
+      ],
+      "bottom": [
+        {
+          "source": "Al Jazeera",
+          "share": 0
+        },
+        {
+          "source": "Al-Akhbar",
+          "share": 0
+        },
+        {
+          "source": "Al Manar",
+          "share": 0
+        },
+        {
+          "source": "WAFA News",
+          "share": 0
+        }
+      ]
+    },
+    {
+      "id": "gaza",
+      "label": "Gaza & Hamas",
+      "color": "#B0413E",
+      "spread": 20,
+      "top": [
+        {
+          "source": "Falastin al-Youm",
+          "share": 40
+        },
+        {
+          "source": "Al Jazeera",
+          "share": 20
+        },
+        {
+          "source": "The New Arab",
+          "share": 20
+        },
+        {
+          "source": "Al Mayadeen",
+          "share": 20
+        }
+      ],
+      "bottom": [
+        {
+          "source": "Middle East Eye",
+          "share": 0
+        },
+        {
+          "source": "Al Arabiya",
+          "share": 0
+        },
+        {
+          "source": "Jordan Times",
+          "share": 0
+        },
+        {
+          "source": "L'Orient Today",
+          "share": 0
+        }
+      ]
+    }
+  ],
+  "history_points": 1
+}
