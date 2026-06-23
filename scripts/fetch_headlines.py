@@ -164,12 +164,14 @@ SOURCES = {
     ],
     "Iran": [
         {
-            # English edition: titles come back in English (so the snippet step
-            # and title-cleaner work), and the Google News fallback is scoped to
-            # en.farsnews.ir instead of returning Farsi homepage cards.
-            "source": "Fars News", "country": "Iran", "lang": "en",
-            "url": "https://en.farsnews.ir",
-            "rss": "https://en.farsnews.ir/rss",
+            # Replaced Fars News (en): its feed — and even the Google News
+            # fallback — only ever returned Fars's Farsi homepage cards from a
+            # datacenter IP, never article-level headlines. Tehran Times is an
+            # English daily that is reachable and well-indexed, so it yields real
+            # articles beside Mehr.
+            "source": "Tehran Times", "country": "Iran", "lang": "en",
+            "url": "https://www.tehrantimes.com",
+            "rss": "https://www.tehrantimes.com/rss",
         },
         {
             "source": "Mehr News", "country": "Iran", "lang": "en",
@@ -236,6 +238,10 @@ OFFTOPIC_TERMS = [
     "xbox", "nintendo", "smartwatch", "earbuds", "video game", "app store",
     "horoscope", "zodiac", "astrology", "skincare", "makeup", "weight loss",
     "fashion week", "gadget", "gadgets",
+    # — lifestyle / service / explainer leakage —
+    "air conditioning", "air conditioner", "air conditioners", "how to apply",
+    "step-by-step guide", "ultimate guide", "best places to", "things to do in",
+    "top 10", "top 5", "sudoku", "crossword", "word search",
 ]
 OFFTOPIC_RE = re.compile(
     r"\b(" + "|".join(re.escape(t) for t in OFFTOPIC_TERMS) + r")\b", re.I)
@@ -457,8 +463,12 @@ def is_offtopic(title: str, url: str = "") -> bool:
             head = re.split(r"[-_.]", seg, 1)[0]      # e.g. "sport-news" -> "sport"
             if head in OFFTOPIC_PATHS:
                 return True
-    if title and OFFTOPIC_RE.search(title):
-        return True
+    if title:
+        # Advice / service Q&A columns: "Ask Gulf News: …", "Ask Khaleej Times: …"
+        if re.match(r"(?i)^ask\s+[\w.'’ -]{2,24}:", title.strip()):
+            return True
+        if OFFTOPIC_RE.search(title):
+            return True
     return False
 
 
