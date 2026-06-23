@@ -711,18 +711,29 @@ function renderOutletCard(outlet){
     return Object.keys(found);
   }
   window.MEIH_syncFromHeadlines=function(data){
-    try{ const keys=extractCountries(data); if(keys.length) HEADLINE_NODES=buildNodes(keys); }
+    try{ const keys=extractCountries(data);
+      if(keys.length){ HEADLINE_NODES=buildNodes(keys);
+        if(reduced||!running) staticDraw(performance.now()/1000); } }
     catch(e){}
   };
 
-  let W=0,H=0,CX=0,CY=0,R=0,dpr=1;
+  let W=0,H=0,CX=0,CY=0,R=0,dpr=1,GLOW=null,SPHERE=null;
   function resize(){
     const r=canvas.getBoundingClientRect();
+    if(!r.width||!r.height) return;
     dpr=Math.min(window.devicePixelRatio||1,2);
     W=r.width;H=r.height;
-    canvas.width=Math.max(1,W*dpr);canvas.height=Math.max(1,H*dpr);
+    const bw=Math.max(1,Math.round(W*dpr)), bh=Math.max(1,Math.round(H*dpr));
+    if(canvas.width!==bw) canvas.width=bw;
+    if(canvas.height!==bh) canvas.height=bh;
     ctx.setTransform(dpr,0,0,dpr,0,0);
     CX=W/2;CY=H/2;R=Math.min(W,H)/2-Math.max(14,W*0.03);
+    // Gradients depend only on CX/CY/R — build once per resize, not per frame.
+    GLOW=ctx.createRadialGradient(CX,CY,R*0.6,CX,CY,R*1.45);
+    GLOW.addColorStop(0,'rgba(33,56,107,0.45)');GLOW.addColorStop(1,'rgba(33,56,107,0)');
+    SPHERE=ctx.createRadialGradient(CX-R*0.3,CY-R*0.35,R*0.1,CX,CY,R);
+    SPHERE.addColorStop(0,'rgba('+PAPER+',0.10)');SPHERE.addColorStop(0.55,'rgba('+PAPER+',0.02)');
+    SPHERE.addColorStop(1,'rgba(0,0,0,0.22)');
   }
   const TILT=20*Math.PI/180;
   function proj(latDeg,lonDeg,rot){
@@ -732,42 +743,45 @@ function renderOutletCard(outlet){
     const z=Math.sin(TILT)*Math.sin(lat)+Math.cos(TILT)*Math.cos(lat)*Math.cos(dl);
     return {x:CX+x*R,y:CY-y*R,z};
   }
-  function strokeRun(run,a,w){
-    if(run.length<2)return;
-    ctx.beginPath();ctx.moveTo(run[0].x,run[0].y);
-    for(let i=1;i<run.length;i++)ctx.lineTo(run[i].x,run[i].y);
-    ctx.strokeStyle=GOLD;ctx.globalAlpha=a;ctx.lineWidth=w;ctx.stroke();
-  }
-  function gratLine(samples){
-    let run=[],front=null;
-    for(const p of samples){
-      const f=p.z>0;if(front===null)front=f;
-      if(f!==front){strokeRun(run,front?0.07:0.03,1.0);front=f;run=[];}
-      run.push(p);
-    }
-    strokeRun(run,front?0.07:0.03,1.0);
-  }
-  function countryRing(flat,rot){
-    let run=[];
+  // Append one country outline to the CURRENT path (front-facing arcs only),
+  // breaking the pen at the horizon. All rings share one stroke() — far cheaper
+  // than a stroke per ring.
+  function appendRing(flat,rot){
+    let pen=false;
     for(let i=0;i<flat.length;i+=2){
       const p=proj(flat[i+1],flat[i],rot);
-      if(p.z>0){run.push(p);}
-      else{ if(run.length>1)strokeRun(run,0.55,1.0); run=[]; }
+      if(p.z>0){ if(!pen){ctx.moveTo(p.x,p.y);pen=true;} else ctx.lineTo(p.x,p.y); }
+      else pen=false;
     }
-    if(run.length>1)strokeRun(run,0.55,1.0);
+  }
+  // Whole graticule in two stroke() calls: one for back arcs, one for front.
+  function drawGrat(rot){
+    const lines=[];
+    for(let lon=0;lon<360;lon+=20){const s=[];for(let lat=-90;lat<=90;lat+=4)s.push(proj(lat,lon,rot));lines.push(s);}
+    const par=[-60,-30,0,30,60];
+    for(let k=0;k<par.length;k++){const s=[];for(let lon=0;lon<=360;lon+=4)s.push(proj(par[k],lon,rot));lines.push(s);}
+    for(let pass=0;pass<2;pass++){
+      const wantFront=pass===1;
+      ctx.beginPath();
+      for(let li=0;li<lines.length;li++){
+        const s=lines[li];let pen=false;
+        for(let j=0;j<s.length;j++){const p=s[j];
+          if((p.z>0)===wantFront){ if(!pen){ctx.moveTo(p.x,p.y);pen=true;} else ctx.lineTo(p.x,p.y); }
+          else pen=false;
+        }
+      }
+      ctx.strokeStyle=GOLD;ctx.globalAlpha=wantFront?0.07:0.03;ctx.lineWidth=1;ctx.stroke();
+    }
   }
   function drawGlobe(rot){
-    let og=ctx.createRadialGradient(CX,CY,R*0.6,CX,CY,R*1.45);
-    og.addColorStop(0,'rgba(33,56,107,0.45)');og.addColorStop(1,'rgba(33,56,107,0)');
-    ctx.fillStyle=og;ctx.beginPath();ctx.arc(CX,CY,R*1.45,0,7);ctx.fill();
-    let sg=ctx.createRadialGradient(CX-R*0.3,CY-R*0.35,R*0.1,CX,CY,R);
-    sg.addColorStop(0,'rgba('+PAPER+',0.10)');sg.addColorStop(0.55,'rgba('+PAPER+',0.02)');
-    sg.addColorStop(1,'rgba(0,0,0,0.22)');
-    ctx.fillStyle=sg;ctx.beginPath();ctx.arc(CX,CY,R,0,7);ctx.fill();
+    if(!GLOW) return;
+    ctx.fillStyle=GLOW;ctx.beginPath();ctx.arc(CX,CY,R*1.45,0,7);ctx.fill();
+    ctx.fillStyle=SPHERE;ctx.beginPath();ctx.arc(CX,CY,R,0,7);ctx.fill();
     ctx.globalAlpha=1;
-    for(let lon=0;lon<360;lon+=20){const s=[];for(let lat=-90;lat<=90;lat+=4)s.push(proj(lat,lon,rot));gratLine(s);}
-    for(const lat of[-60,-30,0,30,60]){const s=[];for(let lon=0;lon<=360;lon+=4)s.push(proj(lat,lon,rot));gratLine(s);}
-    for(let r=0;r<WORLD.length;r++)countryRing(WORLD[r],rot);
+    drawGrat(rot);
+    ctx.beginPath();
+    for(let r=0;r<WORLD.length;r++) appendRing(WORLD[r],rot);
+    ctx.strokeStyle=GOLD;ctx.globalAlpha=0.55;ctx.lineWidth=1;ctx.stroke();
     ctx.beginPath();ctx.arc(CX,CY,R,0,7);
     ctx.strokeStyle=GOLD;ctx.globalAlpha=0.8;ctx.lineWidth=1.6;ctx.stroke();
     ctx.globalAlpha=1;
@@ -793,18 +807,31 @@ function renderOutletCard(outlet){
     for(let i=0;i<HEADLINE_NODES.length;i++) drawOneNode(HEADLINE_NODES[i],t,rot);
     ctx.globalAlpha=1;
   }
-  let rot=0.7,last=performance.now();
-  const SPEED=0.11;
+  let rot=0.7,lastRender=performance.now(),running=false,visible=true;
+  const SPEED=0.11, FRAME_DT=1/32;   // cap ~30fps: smooth for a slow spin, half the work
+  function staticDraw(t){ if(!W||!H) return; ctx.clearRect(0,0,W,H); drawGlobe(rot); drawNodes(t,rot); }
   function frame(now){
-    const dt=Math.min(0.05,(now-last)/1000);last=now;const t=now/1000;
-    if(!reduced)rot+=SPEED*dt;
-    ctx.clearRect(0,0,W,H);
-    drawGlobe(rot);drawNodes(t,rot);
-    if(!reduced)requestAnimationFrame(frame);
+    if(reduced||!visible){ running=false; return; }   // stop the loop when paused
+    requestAnimationFrame(frame);
+    const elapsed=(now-lastRender)/1000;
+    if(elapsed<FRAME_DT) return;                       // throttle to the cap
+    lastRender=now;
+    rot+=SPEED*Math.min(0.05,elapsed);                 // time-based, fps-independent
+    staticDraw(now/1000);
   }
+  function kick(){ if(running||reduced||!visible) return; running=true; lastRender=performance.now(); requestAnimationFrame(frame); }
   let started=false;
-  function start(){ if(started) return; started=true; resize(); requestAnimationFrame(frame); }
-  window.addEventListener('resize',()=>{resize();if(reduced){ctx.clearRect(0,0,W,H);drawGlobe(rot);drawNodes(2,rot);}});
+  function start(){ if(started) return; started=true; resize(); if(reduced) staticDraw(2); else kick(); }
+  // Re-render whenever the canvas box actually changes size (webfont load, the
+  // responsive masthead rules, content reflow) — keeps the backing store matched
+  // to the display size so it never looks pixelated.
+  function onBoxChange(){ resize(); if(reduced||!running) staticDraw(performance.now()/1000); }
+  if(window.ResizeObserver){ new ResizeObserver(onBoxChange).observe(canvas); }
+  window.addEventListener('resize',onBoxChange);
+  // Pause entirely while the masthead is scrolled out of view; resume on return.
+  if(window.IntersectionObserver){
+    new IntersectionObserver(function(es){ visible=es[0].isIntersecting; if(visible) kick(); },{threshold:0}).observe(canvas);
+  }
   if(document.fonts&&document.fonts.ready){document.fonts.ready.then(start);}
   window.addEventListener('load',start);
   setTimeout(start,600);
