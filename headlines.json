@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:13:58.692015+00:00",
+  "updated": "2026-06-23T21:43:09.533529+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+            "url": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
+            "published": "2026-06-23T21:00:32+00:00",
+            "snippet": "Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway."
+          },
           {
             "title": "Alibaba sues US military over labelling it a ‘Chinese military company’",
             "url": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/rubio-begins-gulf-visit-in-the-uae-to-advance-us-iran-peace-deal?traffic_source=rss",
             "published": "2026-06-23T20:06:02+00:00",
             "snippet": "Arriving in the UAE at the start of a Gulf tour, Rubio is seeking to advance the US-Iran deal with regional partners."
-          },
-          {
-            "title": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
-            "url": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss",
-            "published": "2026-06-23T20:03:56+00:00",
-            "snippet": "The left-wing candidate has called for voting results from 119 consular offices to be nullified over a procedure change."
           }
         ],
         "error": null
@@ -88,7 +88,7 @@
         "headlines": [
           {
             "title": "Without its missiles, Iran would be ‘just like Gaza,’ president says",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd091Qm0wMDBhb2k1S2ZyU3ZCTEFZaVhJcFIzcTNlX3VzRzFtcE5FOWRMWktheGNkR0xmQWNyUW84bWY1QWpRNVd2X2FtX1R5cXdMSEo0Sy1hUWpyQXhOZHljUFQyVlA5dG1UTldsdkt5QnQyaDdkZndZUnNyTHZuRlRETDdfcE12LTNJWHBfdlFXOUl6dDVNMXlQRXVVTXhLQ21zYWNwMXRYQktKYk9rTGJzUjBaNVdJYlZqeTZLVdIBxAFBVV95cUxNd0JidW1xV2ExbFRRMWJzS1RNUHZmMnJMUkNON0xxMm94N08wS2xWcTh5WC1FWlpiNDFwRXk1d1ByYXI0ZEJfLTNtcERmNmhwZFlKdkE1OUY0ZTAyRmhuTHg5dERLRjg1bWlFZG5ZMjhuQWhSMzBkR1F5aF9QN1d5aldLb3ZFU3N0ZDIyYW5HYkpiaUhHdGF4YnE4eFhpaFcwdkF1MVZtNWg1ekJ4S25ER25KVG9qTzhfUlduYUNwbmVKSXlu?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0JidW1xV2ExbFRRMWJzS1RNUHZmMnJMUkNON0xxMm94N08wS2xWcTh5WC1FWlpiNDFwRXk1d1ByYXI0ZEJfLTNtcERmNmhwZFlKdkE1OUY0ZTAyRmhuTHg5dERLRjg1bWlFZG5ZMjhuQWhSMzBkR1F5aF9QN1d5aldLb3ZFU3N0ZDIyYW5HYkpiaUhHdGF4YnE4eFhpaFcwdkF1MVZtNWg1ekJ4S25ER25KVG9qTzhfUlduYUNwbmVKSXlu0gHEAUFVX3lxTE13QmJ1bXFXYTFsVFExYnNLVE1QdmYyckxSQ043THEyb3g3TzBLbFZxOHlYLUVaWmI0MXBFeTV3UHJhcjRkQl8tM21wRGY2aHBkWUp2QTU5RjRlMDJGaG5MeDl0REtGODVtaUVkblkyOG5BaFIzMGRHUXloX1A3V3lqV0tvdkVTc3RkMjJhbkdiSmJpSEd0YXhicTh4WGloVzB2QXUxVm01aDV6QnhLbkRHbkpUb2pPOF9SV25hQ3BuZUpJeW4?oc=5",
             "published": "2026-06-23T20:08:00+00:00",
             "snippet": "Without its missiles, Iran would be ‘just like Gaza,’ president says Al Arabiya English"
           },
@@ -100,7 +100,7 @@
           },
           {
             "title": "Rubio Says US Will Not Accept Iranian Tolls on Hormuz",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWtIVW1vTHd5VWZNeUUzMWV6QXdReFVSWVNqNFZzR1o2RS03bF9JTlphTWMwT2FacWljUkRSNFF6c0p4OEppaUNrdkN0YWRNS3NlbVRBVENsXzlYLUVFXzI5OXBob3RfY3VTSlRLeG1zMGJxYy1wMEtHay0zaWpCMW1xZ0dDemhLZTZoOXZCNWd6Ty1ucHg0ZFllVnRYWnB6TnR0TFc2NExhQdIBrwFBVV95cUxOeHBzRmdnTkhqa2d1cjNaQUFNX2dIRUVyN0kzRDkya3RmZTNNQk1IY3JjVnBJSmpWb3RCMWZiY2dzVzBQZzFxdUp6NTNsazVOVTRTV3lKdEZ6WnM4a0RUc3pDa0pVQ0V5TW5ZdV80NXRLc0tabmNCUHBna0ZhbnU5Q0hQRHpPOFJOWWc3WHMzaXdibWlOVnFfcVFjbndjZE5DS3pmWUpudlZLY1ppREk0?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHBzRmdnTkhqa2d1cjNaQUFNX2dIRUVyN0kzRDkya3RmZTNNQk1IY3JjVnBJSmpWb3RCMWZiY2dzVzBQZzFxdUp6NTNsazVOVTRTV3lKdEZ6WnM4a0RUc3pDa0pVQ0V5TW5ZdV80NXRLc0tabmNCUHBna0ZhbnU5Q0hQRHpPOFJOWWc3WHMzaXdibWlOVnFfcVFjbndjZE5DS3pmWUpudlZLY1ppREk00gGvAUFVX3lxTE54cHNGZ2dOSGprZ3VyM1pBQU1fZ0hFRXI3STNEOTJrdGZlM01CTUhjcmNWcElKalZvdEIxZmJjZ3NXMFBnMXF1Sno1M2xrNU5VNFNXeUp0RnpaczhrRFRzekNrSlVDRXlNbll1XzQ1dEtzS1puY0JQcGdrRmFudTlDSFBEek84Uk5ZZzdYczNpd2JtaU5WcV9xUWNud2NkTkNLemZZSm52VktjWmlESTQ?oc=5",
             "published": "2026-06-23T19:04:16+00:00",
             "snippet": "Rubio Says US Will Not Accept Iranian Tolls on Hormuz Al Arabiya English"
           },
@@ -171,28 +171,28 @@
             "snippet": "فلسطين المحتلة: مراسل الميادين: غارة إسرائيلية على جنوب مدينة غزة استهدفت مخيماً للنازحين بعد إخلائه ما أسفر عن عدد من الإصابات almayadeen.net"
           },
           {
+            "title": "سلطنة عمان: وكالة الأنباء العمانية: على السفن الراغبة بالعبور في مضيق هرمز التنسيق مع المنظمة البحرية الدولية",
+            "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPV0REYVN1R3lXN2pCalZYbVFoT3puSGo3bkpPNmFaX3ZQdXQtbWdQNWRMMkpWQUoyQ2NYdmlPN2FiM0ZpcWx5VVBnMHZaaGh4R3Zyd3FTQlZlRko5U25fQXU5VTVNeHNRUWlHSHpIcDA2TkJyR3FwdUl5Z21tQ01qYUJ6UDdNNHZ0Sk1uYnB0bS1fcE5zWml4clRJTEhZNlhaTHJMYWZQYm1SZ2djOHNoZUlVRkZNVHE1WlU1NlpMRlA2SFIwd0dEU1VtdzZQQXFOZEM1eV9JNkdMX1lackFacUNVcUMwRkEtNTQwY01Ya3QyMHVjdlZ0M2J6UElEMGEtUGhma2tXcXhMemUwT2NKOFpVaXp6RXRQbGwxRkR3Mk9qbTZXVVFLbDVFVEhyUDd2NzNwV2h5MVIwZEhPQnA5dW44SHZTNEt3VVB5eTBiVGtnVXRuY21zYVVGV3lFNUlkbnkxS2N4ZEhvSWFzZ3VMbzdTU3pmXzR4dWk3WkNtS2VqNmNZS3h6NW4wTnhGSGVzbEZfNTZJRXE5ZlliaEt0ckhkX1hxSVhZbHdJdkI3MlBvNVVtMHBlVjFudXNIejFCbnJUVmxQNzJMbmk0bmd3ZXVkbTROb3VHRVFfUl9wYjlvczRSWGVteU43WFJZNW05cGVnd2g2VDV2UQ?oc=5",
+            "published": "2026-06-23T20:01:00+00:00",
+            "snippet": "سلطنة عمان: وكالة الأنباء العمانية: على السفن الراغبة بالعبور في مضيق هرمز التنسيق مع المنظمة البحرية الدولية almayadeen.net"
+          },
+          {
+            "title": "سلطنة عمان: وكالة الأنباء العمانية: السلطنة نسقت مع المنظمة البحرية الدولية على إتاحة خيار استخدام ممر بحري مؤقت لجميع السفن في مضيق هرمز",
+            "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNUVJGSlBwVnE4QkNkSTZBbzBBV2MzeG5HQzI5blc2STd4Z0NKWVg2TkhCSmJ1VER3Mi1BSFEwZGVtZ2N2UGJEU2p4ZzNrNUV5ZUZBVWU5MzJzUWJuTTFqUmdzSUsxTE93aW1OUEM0ZTJ1YUhCcmFWMDh5N2Z4TDZNT2ZmMTlQYnl6RGVaRlNXQTlnNGo3UXpma3JfcVVZU1BkTXphSDZfOUI3WU9fR2xPNGlfWlRZS1JwZWFVR3FKVWl4U2pPVEUydVdrcFpJMFMxdFoxOFF0VS1LZ05ldFAyNnhKQ3RwMHM2cXdBQjVzeno1WGUtYjllZVJiVnpwOXZLREdDUXFNanRDWmxmUkdFOFlRNEd2LVZWUXFEdXdpVlFBcUZfdkcwazROSG5Rb2lhWXUxMnB3YXJ1cjFNcTh5M1didER3UzhDdlZyc2owVjB4ZmRTUG16LXEyNmlBa2pKOXRZOHJlZGNxVWRoT3d1ZVJxVFhENlNoYUttX0pCenBvbWYtZV8wdEN5M3lDOWpUb09KMnBNbzdoLVRJcWdxQzV5MnUtejVDblEzdDVhVVJPYkNMV1laM1B4b3ZncFhuRlNMLWYtNlhFdVhEN0xNUGpDQURyRGp6S3lvZWhtcm9rbDM4RVhiUTQwbGNEZm1kOWc?oc=5",
+            "published": "2026-06-23T20:01:00+00:00",
+            "snippet": "سلطنة عمان: وكالة الأنباء العمانية: السلطنة نسقت مع المنظمة البحرية الدولية على إتاحة خيار استخدام ممر بحري مؤقت لجميع السفن في مضيق هرمز almayadeen.net"
+          },
+          {
+            "title": "\"عندما ينام العالم\": فرانشيسكا ألبانيزي تستعيد جروح فلسطين المفتوحة",
+            "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQOFZmV3VSbnF5WjBkRG11RUxDOGF6S1U0Y1ZueC1Sc05GYVo1b0VuMnBMZlJUYU00VXRXT1VwQ011TFpJODlsRnNadzNhY2xxZFZUb3F1NWVnMjV3Q19wY20tdERCc191RU1NenZjclljSHdRamJMVnMyUWlETHBQN01GZnctdXJWaUlibHdQWGZ4MUdmYzdyMzYxRzBWRTd0SVgtczNHVVJYS2dQUHZkTDQ3VTVhS2U3OThYVFdxU1VRdlp5ODd3QnUyNXVPMXhSbUUxeHJFTGczeFZZV3VKX3hucHZiMDRnUFVwRWxpU2ktWFZWSUNBck1pRkNJeFNaQThwbHIzbV96bXh1M3lWTkxuVTlWTVlqanREazdmeXhqblVrZGViajNiMjNIWkpfOUxVdUJxMWQ5SjlBc1FucE5WdV9ZZmRmMlp4N05vbFlGTUZNcy1Ld3FDdHdtS0JrU2o0em5ZNDA2Z3QzZHdRbzNfUE14STZZZ1dNSkZ0UHpIY25fdV9BU3BUSC1EY0ZDZGhVbjMwWGRCRzR0RmlQbkR0eHRDaTZkamZXd0s3eDVGaFQ4NllDeGlQOUVxLWRmS0xiWVRvb2E2RzJWY3o3RWtNUkIxTVhWRFlhNlVLdDMzdzVMRVpCOQ?oc=5",
+            "published": "2026-06-23T19:36:18+00:00",
+            "snippet": "\"عندما ينام العالم\": فرانشيسكا ألبانيزي تستعيد جروح فلسطين المفتوحة almayadeen.net"
+          },
+          {
             "title": "الملف اللبناني بين واشنطن وبورغنستوك: أي أفق للحل؟",
             "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNZHBBYXRYRFZZQ3BoeUV0NndDSy1hOUFCdE9vektsdjM0VGxURnVrR0N1NHpXeUduLW9xRWhXdWFaV0I5YTBDME9xWlNJdGdmSm5WZzBhYW83Ynk3T21HeFZRUzBvemFQajFmRVFCdGpwN2hFaGdqSlJHMGh0eHJnb0tfb0xubmlzVDNyNFMyakJKdFNvajFxZkNGZmthU0pNVG01YjhwSGdsS1pocElrNGhkR0h2SkJZUkhfNzl0R0ladnFCRmdBd0thTjU5MVd1Q0w3ckRZc2FpS1JRNU95OHdZQ0ZlZ3B3MnlreWx4Qm1POWJXQXEza0dJeTBndGpxN09BWXVqS2I2VWhLMFFFd3BaRlJNM2QxQWYwcEw0TGtxTjhaeUEtWVQ5M3dRSVpJaDBwOUpSUEpoTnBuSDJ6c01Xck1pYVc4bm10THlTb2tEbHYxbU1Edm5xNWpCTnZLM05hMHVOOURwUElZSi1oUFlpMEZhYWM1S3lwdUctLXhPX3BLbmFWdXBoeHgwbkQxRjNIbElnRFJyYkpZTWd1dUNxcGM3V2owMGQyU2VsVDVrbVM2RE9ENGVQWmFXVDljdU55UjRJVUtzcjF1RFVxZTZzMjlVelFOUEFSVzZlblBYRWMyaFJLdE1UcUpQTnVWZ3NwT1dtUnBWOUk?oc=5",
             "published": "2026-06-23T19:25:06+00:00",
             "snippet": "الملف اللبناني بين واشنطن وبورغنستوك: أي أفق للحل؟ almayadeen.net"
-          },
-          {
-            "title": "فلسطين المحتلة: مراسل الميادين: طيران الاحتلال يعتدي بغارة على حي التفاح شمال شرق مدينة غزة",
-            "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPUDF0Qm1TSDlMTU5KYWs1V0xibG93QngzaEhHc09vM0Y5U2RtWUlwLVhrMmlwWVBDWFBDV1JsZnFWaW1odHNMQkdWM01aOGdlaERqS3k0Z1hPSkhwVGEtV003eUx6a0RLcm5POThrRHJUN1NrdlQ0Q2JGMTRyQUtkQmZVb1N4NHVBblB6YmZtN0VUVEtXNHdhcl9rTmRGendoWHZLV3E2NUFyQW1XQ2hnNzZ6eUp0azFpM09SMmFvNG1vT0g1enJxaU83bVBDbmhkWGNYRW1uS1FPX29qU1Atb2lDd3hSOGtLSnFabFdVcHBkQjJRWElkUnZMZ0wzNTQ2UGpiZ1pRdHNidkFndXIzaVpIVVF4TUFIM0lWaDNUcTdwSUt1V1gzWndaOVNwVXBETmtFellKeWREZDF0UnA0bzl0bFNSZDQ0cW11Z0J5djFadUpzZUNrcm5kYU04aDgwemFlSjFlTjZmdG5FMkhZQ1Nsblh5Zk5Xbml3UjlxeDBhZGd5eDNfaUFSckFCclhTQ05INjJpOEtvMXFZX0lsRGJOMDM2QlJ4YTc1ekR3LWc0RzRzeVhoZXdfLWR1X1NWV1IzX0JSei1IZXYtaVdheUNlMkhzUUJ6R1NJdnNsYlhwUXZpcU5VaHdzRnQ1eHZzOTlZYTlsLXE3UQ?oc=5",
-            "published": "2026-06-23T19:16:35+00:00",
-            "snippet": "فلسطين المحتلة: مراسل الميادين: طيران الاحتلال يعتدي بغارة على حي التفاح شمال شرق مدينة غزة almayadeen.net"
-          },
-          {
-            "title": "إصابة العضلة الضامة تهدد مشاركة أيمن حسين في مواجهة السنغال",
-            "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNUUhxMllRbndQbFpQZEt3eFBPVUtIWEhQWEZnUDloTWFkeUZ3ZFdJaHZMQUY0Tm0xUlVBTV9GeEhpdWFoUURtYk5ndTJSdE9QaUE2SlVtV3FBcnp5VEVHU05LblU1Mmw3Vkotc09EUkhXWHBKWkZlZWp5YnM0SW5ublZnLTNEOFB0RVkwN254WnlrenJJTmJqd1lpZkU3aWpISEZRaUJnWGZrelhWTHNRVURsby1aWTZRRUJNQUNWUWdkRURUQXdlRnhoM3FLX1QyZS1sTV93M3BvNFpLT0F1REtVMUpjOVVvaXQ2X2liZTJPR3h5UGJvc1dnZ0ZuX2dfZlF4MlBSTTlud0ZQbno1ckI3Q1AtMG5ycUVXUHh4NC15RVhPQkFpMjZ4cEpQMy1RVUpkZElBQXBON1ZCMTZ2Q2hEZG1iLUpQS2xmR003c0o1OGtLRGlYVGNwRGFNc2Q5SmVxTjRvZnMyRTZuSHdUWWduRTdKU2JRNi1UOGJFLVZhNjE5S2JmeU81ZFhjT1NPakxxSzZFNGNneTQ0TEZ2cFZCaVp6UmdwQUEtSXBvdU05Q2VJYi1sT3RJbjFaR3Z4RTNCUXZqV2N0LXpORTA0RnA4MVFVMzdpbTd3RUloSFdJSXk0Y1E?oc=5",
-            "published": "2026-06-23T18:48:44+00:00",
-            "snippet": "إصابة العضلة الضامة تهدد مشاركة أيمن حسين في مواجهة السنغال almayadeen.net"
-          },
-          {
-            "title": "فلسطين المحتلة: مراسل الميادين: غارة جوية إسرائيلية تستهدف المناطق الشمالية الغربية لقطاع غزة",
-            "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNR3ZwdHNxU1R0QVdXeW1PQkFDLVoyVnowRGNUbjBOQlZyOG9TY2lxZmRjV2plVUtDUGo0QzluZk4zY2ZUcUpBNk1kVUZNLW52SEpuVUJfclVfczhaZEVmbXBUMUtRaHp3Vkd1T0VBQ1lUbW1PQU9ySzBBSVlIeFpsS2ZZNEhFYnhpeEk3M2ludGw4cTk4eU9iQjdENC00VlJPTVhmNTcyUWZFUVE2Ql8ycjBQX2hpN19mZ3pvaGdjeGtPdTF6TWs0MVN5Uko0SWZpVi1JWlExb2wxZ2twbFBhWGp4ZW5wdm5lbnNOOVRVN3Mtc1Ftam5NMUt4cmpyWFl4ZDk5eXVqeXBHdDJoTEcwcmYtbDZ0M2QwZzctWVI4eWlsaEJCLTlITU9zcXZFYl9sek91aUo3b1lXcEtUSFNLVHJQX1ZzQko4dkZRekQwYnpZZEt0ZzhEMkFQeC03bnRlbS11VVpWN0kxdWg3U3A4MnV5OXltNlNXdTRYTWxUdEZOQTZlZEp6c3dTbk9GOFZCcVd1Q0tqTEstUUZKMmRMZTNkYWFDVkx2c3BURzR3M2RmMmRkMW5TR0FwQkY5dm8wZm5QWHVVWTFoSWZKeldvQTYzUkxFb0kzcW9laHhidWk1UGNzYk1kaDZaUEJJb3ZBR2ZRMmlfRU91dw?oc=5",
-            "published": "2026-06-23T18:37:14+00:00",
-            "snippet": "فلسطين المحتلة: مراسل الميادين: غارة جوية إسرائيلية تستهدف المناطق الشمالية الغربية لقطاع غزة almayadeen.net"
           }
         ],
         "error": null
@@ -269,10 +269,10 @@
             "snippet": "'American sponsorship is a guarantee,' says Lebanese-American coordination committee L'Orient Today"
           },
           {
-            "title": "400 public figures sign a call to save Lebanon",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPek5pWFV3ZEFxMFpxRk0wTXhWYTk2OWFaOHdiMjh0YmVPVVQxRllGaC1qdkY3UXNpbWJ5M2lndW1ScmVPYWFlbGtsUEoyb3FXX2g4Q0NOUGVWd0VvdEtFQnNMWnZZSVFaQmdyaG41QkljaWc4Tl9HazJXNnFUWGVQczA0TUxNR3BXdm8xc0J2RjdyNFE0bGtHRlNmc29ZR1hT?oc=5",
-            "published": "2026-06-23T07:04:21+00:00",
-            "snippet": "A call signed by 400 public figures urges action to save Lebanon."
+            "title": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUE5MNkpnUUpjM1pGdjZyWE1VS1FSTEMzdmJqMTRkdTdMVjFQLVFzX2dvM29FQkx3VzYtVEN6T3NDc1liRU9DSXZyWk1EYWpNd3ZHR3ZRTzYtWG5jekFsRklMaVMxODZ2TlF1WjEySGlpXzJvUFlvcFpUX3hFUkZkaXFFNi0xQi1aVnp3NS02RWhGaGp5cHF6YVdOYVVNOFhOWDNMSDZDWWoyR21DNXNwaHRhcXc2YmJpVDJVQXRiNA?oc=5",
+            "published": "2026-06-23T08:38:22+00:00",
+            "snippet": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show L'Orient Today"
           }
         ],
         "error": null
@@ -323,6 +323,18 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "أرباحٌ عربية من المونديال حتى من دون لمس الكأس - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMjVWY3lJT0ZfbUNSTzlXVWpuWXMwNklzZ1M4NGwwY1A0LW9udkh5NVBJMjc5cjdwV3JIWEhoWENVbXhSWXRpX3V2MXlHYTZUQ2tJYlpBSVgzVUZvNHlYdmtvNmFybENkczNtWUF0TmtYejVXbGZIeFZxbkphX05aa3Fna1Q0aGV4Mjg2SXBRSzkyUkhVUWNlTzMwNUl6bl96TGRGZUNyOUM3V0RSdjNtTW5kVlcwbVJ1QkVhRGxBaUU5WXdtS2EyQXZXQkk0WXNkVE5RRlhBdjR1V3FsOWtqWF9vNDNMb080aXNfRVdycjRjTHBJajRzMmVjMzY0bWhURVZTOVJPdjR0c1hiTml5LXZ1UVRtS08yY29ZM2FPdlZmMFpMSWV3SGtETm41ZzA4WnlacEM4dGpBa1k2RXpQRTQ2ZFBQWWVvaFBPRm9wQUhXQm0xdUZscmppa3VDLVg3cW1TRHNzdjQ4di1fMUZfQnE1dEJEejIySEJyU0RiMGpHWXl5UVBKTGlBX2Y2dUZ5ai1fZlhRcUN0RTcz?oc=5",
+            "published": "2026-06-23T21:30:00+00:00",
+            "snippet": "أرباحٌ عربية من المونديال حتى من دون لمس الكأس Al Akhbar"
+          },
+          {
+            "title": "العرب بعد الجولة الثانية: تألّق أفريقي وإخفاق آسيوي - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQcEhIaTF0R04zTFo4azZGSnJ1cHBNVkdKQXAtQm9GRTgxdmtjeW03Vkx4REU1Z0FLaFV4QlJ4SnFKSVU1QWJyeERaUjBJUFF2ZlFXQzBUSjF6QnNzYy1NSHMzU29NVGI5VW9UWU9HczFIQldxS3lyOWRVcU0zSjJQX0I1amQ5TG9rajBfT25kb3pNb1JaOXZQNVJ6MHVuY2xIUUdkb3NqYTN5azZLejVmYUFrc05zcmMybzY1d0gxdHdDa0Nwd054aEVsd3NXM3BtR0d1LS1CeEdra3NURmg2YU1zbXB3QnAxVDgzVFpiWl9LZ1hSM05YdGpkaXZpTUp5NjNGdVNYX3NXUVFnX2JGX1NhZFo4ZWVnYlRsUENSZWk5QjZTY284VVFlNTJXVFJIUmVpN3RnTm5kbGg5YWp6V1lfNkt3THdSOUt2UWxWSzhpZUtLa0E1XzM1SFVqaUw3WnZXM3VXQnVZQkp2RDJoV0tZTWt5aFJvODVaYmROdkNVV3ZuTXV1N0dOejVyanEzdkVja2ZNQXNmRXUwWjhvV202cnAtcnJUa3dYRExCN050MGt5blhQN0NDdGZvU3JPczI4Tw?oc=5",
+            "published": "2026-06-23T21:30:00+00:00",
+            "snippet": "العرب بعد الجولة الثانية: تألّق أفريقي وإخفاق آسيوي Al Akhbar"
+          },
+          {
             "title": "«الصحة العالمية»: الكونغو ​الديمقراطية شهدت التفشي الأعلى لـ«‌إيبولا» في الشهر الأول - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQMXBUSm1OZmhiNUJKT1NSMjZ0dTN6NTZXb2Z5bndCRkZFZHBMT18wTEZnYWRib0JxVEVhZGFQTjZZRThULXJYSkRaRnRrV09Uc1Y2Sk9LbVhlYW13cVpKRkVBLXJHVWdicGo2S2RGYlNBUC1GWnVTTUU2dVpsdnZTdG9yWlQzOW85eUE0R2NWVmZ2QVQ1R1EyV1BnbHlCYzZPTVZlNmFNRktWMXl6UU8tdFRHd1FzVjg5Y0lKUTZuQVRjWFhvYUpXRktmRkVwYTRSZ1Vya2p2RHc3VERaMWxxbm80cVhSSXhXeEV1OEE3eVpyblIzd0dMaS13eC1odF9sY2VXTkM5dmVxTWRWV3RaWU5MdFVzVUlDSjlIblhiOWpqMFhOY1ZjRWZPdmw4WVJuRS03VkQzWUdneDJSeFlyeXZEVGo5a1FuUUExN2duemNGVXBYa1diY0dkRUFBZVdrSE13MkhVVlAzQ3lwZ0tGVlBlOWZZcUk0ZXppbXZmYXpqcTdKSmUxc3FWODlTYnBxMTR1Q2pzOXBEd3M0aXVCMjJxNlIyS21lMVpfa1czMUJCaGI2UVdiakt3VHEwSVVCcjVHSV9FU2FQV0lWb09wRXlaZHJJN3lwT0tJd3o1UHl6ZU85WlFXeGhrTHpUdw?oc=5",
             "published": "2026-06-23T20:17:14+00:00",
@@ -331,26 +343,14 @@
           {
             "title": "«العفو الدولية» تتهم الاتحاد الأوروبي بالتواطؤ مع ليبيا في اضطهاد مهاجرين - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNb3lOZG9JWXpnamM2eGFmVV9ZN0dvUzZEeTd3M1JHRl9wVzdCLUtPMHVqWTNKZUdpX2MzbjFhNjk5LXRuMEVZTlNaNjJ1OERrbTl6djB1UkxybTlFUlZWZVpQNm51VjFGTFZzWkZTUC0tUDc2eTViTDY5Mkdmb3Brd0ZpdF9iUnl0bm9pM0NnNUVZbm5VWFpCYlgwSWRJWS1rSVBRVUtYbDNtTGVkbXB1SkRzNnAxTTBFX1JDNV9zMFpjc1NJRlpuOExhY0dnM0dtMC12U1BmSXdsbmtYVW9pV1ZRY2hJSFFlcE5IR0ZpNnV2Qy0tQkhBX2lYNkJtbXV0a0J4Wk1rNHhpb2dYWGJhdWFEbE5xRnRvbkFreEFPQmZSYklyRHRxNGVSeU01bkV6Uzc0OWJ0dDlXaU9zeTN5OUZXUWVTS0pEdFNsek9kdGYtQW8ydmZMN040b2NvOU93NUs4Skd3Q3ZjWEcxYjEzc2hmVE85THB2R1dOQXRmVjNtOG5RcHdna09aRG1NeFlYbTM0X2poSnR3d29OMkppa1lkcGZTdFJEbmVscjZ4dkVtMElYNnhRczY3OElQMmstUnBIN1RvNnl5UElVMFRpd1A5cXIzV0tOUXVvMnJneVh1SjN6RHlKQklfRUM?oc=5",
-            "published": "2026-06-23T19:55:05+00:00",
+            "published": "2026-06-23T19:55:00+00:00",
             "snippet": "«العفو الدولية» تتهم الاتحاد الأوروبي بالتواطؤ مع ليبيا في اضطهاد مهاجرين Al Akhbar"
           },
           {
-            "title": "كأس العالم 2026: صدامٌ بين إنكلترا وغانا لحسم التأهل - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPMVRMdzFhYVZtbjdWQzFrLXJCOGhwdURTcktSY251ZF9qTjdGTWw3aWMtYWRMWm1CN1RKenoxcUh0UzZBQS1vNGNodEo0dXJnT19iOE9mVF9BeVktWGlVczFFWGpIWWVUZzFjSVVtQXhtM2JQNUF1dTQ3UkY5QXVobDNTbFJRaVFaYU5UWmV6WWhTUVgxZXNpMlMxaE9XaVJDMTd1cWZ5RVNwRWlZYjNxcnRHWUIwaVVvZ2ZSTzcydS1fMHV0akxMamhRSkxWbmFxRFNHa3BqekE3YkI2bmZWYnA4RFNXMlhoYzV6bHlfOGw4WjE5bHhMeElURUZiTTJDZndoSEVsQjktOUo1MlZBSWNDRUhDVTNvT3ZxM2k0a1JDY1JKYkJTZ1M2SDQ0V3lidmVaOWNfOFdQTDh3SGVIYmI3cEpsa0UxTjgwYnlLSTNKWmtIVWhkT0V5eUNtbDlJLTBjYU5kRlM2bGZlNHpJRmZSV1owcXdfNlVjalVCMXZrbm9tTDFkNGlVUlhEYTJzdjlIeGRRaFVKUQ?oc=5",
-            "published": "2026-06-23T13:53:00+00:00",
-            "snippet": "كأس العالم 2026: صدامٌ بين إنكلترا وغانا لحسم التأهل Al Akhbar"
-          },
-          {
-            "title": "بوتين: الغرب يستعد للحرب مع روسيا - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xWERPVlE4Qi1seEZFLXJWSFNNSTE3cWhOUUoyS0hVaEJ3VFVfWkhiWmhaRV9TeFlTcl8yOWRZU2U2a25MeHE0MkhoMENQLXFHWGtETHdSSQ?oc=5",
-            "published": "2026-06-23T12:42:43+00:00",
-            "snippet": "Russian President Putin has stated that the West is preparing for war with Russia."
-          },
-          {
-            "title": "الاحتلال يخطط لتوسيع سيطرته على غزة وتهيئة الوضع لـ«المدينة الخضراء» في رفح - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPSEExQWNocU03MnZZZW9UcUlrR2ZEMDFrelFYRFZVaW1GdU0zVmh2NTE1dkdRUEQwZHFmTmswSlptYl9ab2owUFg4SmZwNVM5aUplaWhOVnVETkU5X05WaThFUHFFU3hKSUNDdkhLNWRWbERQLWdqaWRWNVNuazFLVnlnZ1VsTmpCdEFpNkNvdkRTX2FNakZGNEdlaEJkT05lUy1DR1lqcjVDWUh2elRYTE5rT01KVWFjdU5Ra0lUTVAtcHdEX1pLbHhzWDFrWVRZZEpGZ3pDazhvOGdxYjZxcFVhWGUyalNFOEJQcHdYRk9kM2k3alM3YjVnNFNtSmNWZzJGbDU1YzR5UGZNckYxalUyREFpR0hGZzZ6a3dURmJqeUZ6djM4QXBtaGhhMHIxam8tRmtIRHFjVkZ2a3dKTlA5b295UGY0OGR6SFI1MFUtc19rNmU1aU9mcXVoZy0wcHBDM0FhbzNiQVlyc2pKV0JPb2hBOXFFRmV5THlmWERjdnVJSS10RmdsQ1RjbHJWNHlBd055bm15eUpxUG9Bb25BSWV5dzBKTVNYOVdWVVlnUERzUTdZNWk5MWx3RmUyQVJVeU1mTDB5NURHSkVaZ3pSNTY4ZlZNaEk4WU5IZVNQSUJETXdTSmp5V1JhSXVXLXc?oc=5",
-            "published": "2026-06-23T10:46:57+00:00",
-            "snippet": "The occupation forces are reportedly planning to expand control over Gaza and prepare for a 'green city' in Rafah."
+            "title": "شهادة طيار تُربك الاستخبارات الأميركية: مسيّرات إيران أشبه بالكائنات الفضائية - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOZ3I0MVF1V0dXc05mUEZHVVBDN19UNUlTWHJkY3dHU20zZDhQVFdOdXVtWnhzcDNKak1fbk5fVVJkWFFHYTV1Q3lEZ3lPZ0tiUTBJS245UGE4OGRIZ0FpTFNUdzJ2dDY5LVRpZFlqMDRLWVdTaUxabWNKT3ZqRTZwVWhZY2JYRWFmVTJ4dF9WQnVTSk5Pb1VIbGJlVzFqcy1Ibl9COFAxZ2J0U2QwalZvcHE5c1B1TUxBMW01V0tZUGRDREt5dmdOdXJULWtXOGhpMjVXYzh1R2IzSE1aWHhIVDNVdnFYQUF3YTB0SHZ0Y2ZibEI2S0k4d3lWbkhTaVpJeW1aRm15WTVWR1plTXpRaThJRm14dHFqQ1VDSVBwcnBzSVJpUzRvQTQtTDN6MEktWDVMYXJMZlptQm1YTE03Z2dFQndWN2JINVpvY3Jtc29VTFcxd2RLZGJEdEpqdHlIQlJ5LXdscmh5cXI2bGdTVVNZakg1Nktpb3dZY0RqNVN6UllSNWtCUjM3Q256M3NCZ00xR3dUdGZPX3NlYWtBZ0RPTGlYaW5sV2hZaWNiX0c5NEpjR1ZPeHVsTEQ0UnVPd1pjcXEwRUg0MWU4c2hDMEF5c0E1RjFpRnFOWE01MDF2amx4anowYlplZ3puTHdpXzc1X1E0ZzNEek0?oc=5",
+            "published": "2026-06-23T18:16:43+00:00",
+            "snippet": "شهادة طيار تُربك الاستخبارات الأميركية: مسيّرات إيران أشبه بالكائنات الفضائية Al Akhbar"
           }
         ],
         "error": null
@@ -401,6 +401,12 @@
         "url": "https://english.wafa.ps",
         "headlines": [
           {
+            "title": "Foreign Ministry welcomes UN Commission of Inquiry report on Israeli occupation’s deliberate targeting of Palestinian children - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtbFA0cDY2NmlVakYxRWRKYkVPU3dtUGRCdkM3LXFBOHpYeWJsLU9nVkV2TUM5VjhuWTJhYlVhMTlpaUFTOGR4WmdGLUIxS2J1R2ZGM2I4aw?oc=5",
+            "published": "2026-06-23T21:33:45+00:00",
+            "snippet": "Foreign Ministry welcomes UN Commission of Inquiry report on Israeli occupation’s deliberate targeting of Palestinian children WAFA Agency"
+          },
+          {
             "title": "President of PNC: Preparations under way to complete election of Palestinian National Council members in diaspora countries - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NUkhXOHczV3o0cTlUcnVnaEh5dE5mSG1NNW5MOEZVSFFuQ19DV0NmeGdEcHFqY3FpSkpqYVVRUlJYaDFNOEJpc3ZMUHItZi1HRnVrZTkybw?oc=5",
             "published": "2026-06-23T20:15:14+00:00",
@@ -409,7 +415,7 @@
           {
             "title": "Israel continues to commit genocide and other atrocity crimes by deliberately targeting Palestinian children - UN International Commission of Inquiry - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wNUd5dlNPQUNuM2s5SENxTzRXZ1BTcGZDTHFZMjMzZ29nemR1cEE5bWpFOVZ5NDYtTHBlbF90NGxkY3VZVHNrcGZQNExPUWZPaGZ0NjhIOA?oc=5",
-            "published": "2026-06-23T18:56:21+00:00",
+            "published": "2026-06-23T19:41:15+00:00",
             "snippet": "Israel continues to commit genocide and other atrocity crimes by deliberately targeting Palestinian children - UN International Commission of Inquiry WAFA Agency"
           },
           {
@@ -423,12 +429,6 @@
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81bnM3WHhDLVNxQVgybGQybURNZ0JJRTFwZVR4bnBpNENsTnZlemtZOWdKMi1BUElyR1I0U2czeGRGNGlWMzdoQlY0LS1GM0VZMENHcGd1RQ?oc=5",
             "published": "2026-06-23T08:59:41+00:00",
             "snippet": "Israeli forces detained 25 Palestinians during a military raid on the Fawwar refugee camp."
-          },
-          {
-            "title": "Dozens of Israeli colonists storm Sebastia archaeological site under military protection - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DaTlrR25VWUE1WVAyU09rUGlBdmxrV3kwcWhkY19LcEozSTZWbWQzSktLbzk3UVhfRnRoZjBEN0VxUEJGTTktbDdDYzZrSVczbFR4eHpGZw?oc=5",
-            "published": "2026-06-23T07:34:05+00:00",
-            "snippet": "Dozens of Israeli colonists storm Sebastia archaeological site under military protection WAFA Agency"
           }
         ],
         "error": null
@@ -481,22 +481,16 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "Over 13 mn acutely food insecure in Syria: UN",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tVFQ2LW94dGcza2FkZzlkNTBLUTRCcFRsUFkzeFNNZnZPRkgtRkozUm0yVVlQLTBiUHpaQWVEWnlhVzVoamlJWW1Sc0NqejQ5MzVv?oc=5",
-            "published": "2026-06-23T20:33:05+00:00",
-            "snippet": "Over 13 mn acutely food insecure in Syria: UN Arab News"
-          },
-          {
-            "title": "Al-Sharaa meets Chevron delegation to discuss Syrian offshore gas project",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fTFEwQUdwLUpUT1ptdzVTdHZkNjZRNFE3bGoyVC12dXFrZExjcmZEMkxrYlFXd2duT3pFLTJiWXFRZmMyNnlnd2J1QUlNSGd4eFpZ?oc=5",
-            "published": "2026-06-23T20:13:00+00:00",
-            "snippet": "Al-Sharaa meets Chevron delegation to discuss Syrian offshore gas project Arab News"
-          },
-          {
             "title": "Jazan deputy governor receives Consul General of Oman in Jeddah",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSRTBzdnc5OENIa2gzX3plenlobWZtTFROdVlGYzhUdkNyM3VEcHgxRVZad1BQSEdKMXBpOTZmUW1qSmRIWTBjeTNIbVpUbkZrX0dJ?oc=5",
             "published": "2026-06-23T19:47:22+00:00",
             "snippet": "Jazan deputy governor receives Consul General of Oman in Jeddah Arab News"
+          },
+          {
+            "title": "Pakistan PM says Iran ballistic missile program not part of Islamabad Memorandum",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaT2VDYmFwVlZIeVhDZFJkNUtjRjJfSzVncU4yR1k3OURFa0NsUDJPZnhnUUFPaE12V09IMkgxZzFpVVUxTlR1ME5pVnp1MF95akRz?oc=5",
+            "published": "2026-06-23T19:16:27+00:00",
+            "snippet": "Pakistan PM says Iran ballistic missile program not part of Islamabad Memorandum Arab News"
           },
           {
             "title": "8 convicted of terrorism charges in Texas immigration center shooting sentenced to decades in prison",
@@ -509,6 +503,12 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DU3hVZllnUnE0a0lWcVJyZGxGRFE3SnNRWE1TVlZjeGpoX1BoVlhucmhiV2pYWG9NUHJCOEp4ZE8zelI3cXNhaGFRcUMxc1JmNi1Z?oc=5",
             "published": "2026-06-23T17:38:28+00:00",
             "snippet": "Rubio says US won’t accept tolls or fees in Strait of Hormuz Arab News"
+          },
+          {
+            "title": "Pakistani electronics maker Select Technologies says IPO oversubscribed 3.2 times",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBENldUZzZvS2RLOExYV3lsWjczVnZpQzRMcnhyZjRfLW54UmFCZGk5bGowdHdVOUJpOEVNazRoSTBKSV9NcmtJLUJVUlJjSTVERVJj?oc=5",
+            "published": "2026-06-23T17:21:45+00:00",
+            "snippet": "Pakistani electronics maker Select Technologies says IPO oversubscribed 3.2 times Arab News"
           }
         ],
         "error": null
@@ -519,6 +519,12 @@
         "lang": "en",
         "url": "https://www.thenationalnews.com",
         "headlines": [
+          {
+            "title": "US Senate votes to limit Trump’s war on Iran in rare rebuke",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUhvYXh1Q0JSOWQ1ZXN1VnJVMy1FWVcyMWFVMXNvTE9rX2Mtalc3UzM2N2NPQVNjWnJucVV3a1ZfQktYVWlieVFRSmY3ZEVidEtRRXQwSEozOE9NdldUR2xtMzNjQ29tWG5SN3owUDZpM292TkUwV0NMV1FCZlRQX1FjOXdacW5hUVRNRFotVQ?oc=5",
+            "published": "2026-06-23T21:24:16+00:00",
+            "snippet": "US Senate votes to limit Trump’s war on Iran in rare rebuke The National"
+          },
           {
             "title": "French MPs push draft law to ban trade with illegal Israeli settlements",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXBjNmxSeXRUVHU1YU9YV1BqNTlzM3NmSzVvdi1LaFFaek5RRFFKMUotUDd2ejJfc0RyeWF0Z1U0MnlMenFTelhFQXdlcGkyN3dmMjBHUjlDOWp4aHAxaFE3cl9yYUJGdWFqbVlaOUdWQXdBM01QMmFUWlNLRTg2VFp4X0hoelptdEh2VG5kVGZLQnFUZUpLTDYyVkNQMkI0dkdUemF1QnloWjNyZ2xFclZJLVdmbWlqMHhFZ19PeFpCaEdwRFE?oc=5",
@@ -538,16 +544,10 @@
             "snippet": "Lebanon-Syria passenger ferry service resumes after years of disruption The National"
           },
           {
-            "title": "Rubio arrives in UAE with firm warning to Iran over Strait of Hormuz",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQV9Ra2syNWdzQUlfUll6cEs0TV9CTEpSQTBhbU9XUS16NTJjc0lrdzQ4UmZZQkRXRHVIb3hzZ1RhM1U3S2E1UVZodnB4bWQyTGhmVjZPcTl0N2EwOG1EWC1vcE0wVGc4TWliLVBSbHlHZ3FQUk5jNXRmcG1NdThLcXVJQVFNSkh5ck5nTlJNbDBuUnZxakFNUWdNM3E0bTdyNElIVDhB?oc=5",
-            "published": "2026-06-23T18:23:54+00:00",
-            "snippet": "Rubio arrives in UAE with firm warning to Iran over Strait of Hormuz The National"
-          },
-          {
-            "title": "Oman and Iran pledge to work together on plan to manage Strait of Hormuz",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWGhwZThzUHNsamc2emRqSzBpSWlqVUdocW1UdDA1Vmk1aWoyRThsNURDNjhZeE10b1I5WFUtUVhDNm8tZzU5eDl2VlBnU2FXV0xDSV9oLTA3LUFBdWdjdGhSckRUWmxoR0tMb2tsYXpkaDlQZzZfcmRyR0ZPY1FOY2ZiODludTVhZk1USDkza05Ebjk1NkZ1MVNuZjlpdXZ4ckg3eGIzNWg5WHIxSG5mcGdtcnVla3l3cW9HYUdLZWNVaDhTTWVPUQ?oc=5",
-            "published": "2026-06-23T18:22:30+00:00",
-            "snippet": "Oman and Iran pledge to work together on plan to manage Strait of Hormuz The National"
+            "title": "Elon Musk's SpaceX erases gains since red-hot debut on US stock market",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFZLTWgwYS1nR3BYLWUxcGhfQjJUS3lkdnBEd0dfRmFScExlTmQ2UEZhQ2xHLTVTYWZZck5BVk9KWlpzU01vNFFHQzZwQjBiYkczOWpaenFYeWhNRHNSaVZwS1daWVpsX05GTXVjVnU5Vi1SV2RPcnRRelBxWDJCOQ?oc=5",
+            "published": "2026-06-23T18:35:54+00:00",
+            "snippet": "Elon Musk's SpaceX erases gains since red-hot debut on US stock market The National"
           }
         ],
         "error": null
@@ -559,10 +559,22 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
+            "title": "Rulers of Emirates condole Qatari Emir over victims of Ras Laffan industrial zone incident",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM041WDhhSXB0eWYydU5VRjdWNTY3NkxPZVlNVTg2d0dPYzF5SGRlekNBbF9RZXp4TFB1QkY0NzNjYlhuR2FkaGxXV2d4NHJZNHhfZkpDN0JrQnpueU1SVFo1MWVNX25lcmhBSGVIanBYY3NudVdTa1VzT2l1THFSd1MzM0xwZVF5SGlpNkJNRHdnTmRFaUdYY1hXSEE3MVVKV0NUMlhCNDd4ZldyX25Dd211a1dSc1czTDJZZkp3NkI5NDNVSlNCb20tempERnhhZHZKU2pSbDViamVnTEZUMDI2Wm5iQm_SAecBQVVfeXFMTjNONVg4YUlwdHlmMnVOVUY3VjU2NzZMT2VZTVU4NndHT2MxeUhkZXpDQWxfUWV6eExQdUJGNDczY2JYbkdhZGhsV1dneDRyWTR4X2ZKQzdCa0J6bnlNUlRaNTFlTV9uZXJoQUhlSGpwWGNzbnVXU2tVc09pdUxxUndTMzNMcGVReUhpaTZCTUR3Z05kRWlHWGNYV0hBNzFVSldDVDJYQjQ3eGZXcl9uQ3dtdWtXUnNXM0wyWWZKdzZCOTQzVUpTQm9tLXpqREZ4YWR2SlNqUmw1YmplZ0xGVDAyNlpuYkJv?oc=5",
+            "published": "2026-06-23T19:09:19+00:00",
+            "snippet": "Rulers of Emirates condole Qatari Emir over victims of Ras Laffan industrial zone incident Gulf News"
+          },
+          {
             "title": "Sharjah Ruler approves promotion of 1,519 military personnel",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY1Y2OUNVX0t2M2s0VjhLZF9yU1JraVEwV2VIaGRKaHFTa1RwUk5TbkxKdmM3bXZrdER1STYzRWFpaWlIQmtrTlJTcEdzWlQ1YXAzYjZGZnAzMjI1UFVhSnhHWHczTnplaC1xbWMwWllIb1I1VTY3cEFycEhad3VmYklQcVdFVEJ6U1RMUHMyenB2bXRCdjNXSGhBcHVtd2k3Mk92Rm1OcEtVcU1sdmVmT0UyOTR0WkVORUpwZDNn0gG-AUFVX3lxTE1jVjY5Q1VfS3YzazRWOEtkX3JTUmtpUTBXZUhoZEpocVNrVHBSTlNuTEp2Yzdtdmt0RHVJNjNFYWlpaUhCa2tOUlNwR3NaVDVhcDNiNkZmcDMyMjVQVWFKeEdYdzNOemVoLXFtYzBaWUhvUjVVNjdwQXJwSFp3dWZiSVBxV0VUQnpTVExQczJ6cHZtdEJ2M1dIaEFwdW13aTcyT3ZGbU5wS1VxTWx2ZWZPRTI5NHRaRU5FSnBkM2c?oc=5",
             "published": "2026-06-23T19:06:29+00:00",
             "snippet": "Sharjah Ruler approves promotion of 1,519 military personnel Gulf News"
+          },
+          {
+            "title": "UAE President receives ‘Make it in the Emirates’ delegation",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWdXeHpBcVNYMnZEbzl0ZmFrUTdmZ2o1NGgtQldvMGIwQmJRYUFqUklQNFR0QmtOYVZiVnUyM2R2VTV5bnVmR3dJalV4dnQ3RlY0akxQbEtfUVZ6TURyVHN1Q19FYWtSNHM5TEt3Wk95YWl0dmtmN0MyckRLTlBhRDRDenNlLTlqRkphbWxfSi1fWEgwaXdWaWY3UC1fc1E1eFJCZENoaDdPN3pVUU1NbjVvTzhBQXAxQU9v0gG7AUFVX3lxTE1tZ1d4ekFxU1gydkRvOXRmYWtRN2ZnajU0aC1CV28wYjBCYlFhQWpSSVA0VHRCa05hVmJWdTIzZHZVNXludWZHd0lqVXh2dDdGVjRqTFBsS19RVnpNRHJUc3VDX0Vha1I0czlMS3daT3lhaXR2a2Y3QzJyREtOUGFENEN6c2UtOWpGSmFtbF9KLV9YSDBpd1ZpZjdQLV9zUTV4UkJkQ2hoN083elVRTU1uNW9POEFBcDFBT28?oc=5",
+            "published": "2026-06-23T18:56:52+00:00",
+            "snippet": "UAE President receives ‘Make it in the Emirates’ delegation Gulf News"
           },
           {
             "title": "UAE’s success begins with service to people, says Al Marri",
@@ -575,18 +587,6 @@
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0ZERmV5N2RMaGdFcVFUVEVvdUpTT0ZlcHB5YjFfMGhXVTJmdnpYMm5HWmVuYTRJVG95djJnX0NXNFhhWjR0TEljMDE2eDB4NWNIN2ZqdFd6MFo4UmlBWWJFdnhFRHpDd2tGajgtOGllLUl0aGo5cWJMY0FCNlV3UnhnXzY1VXVkSG9WX3FmVkpEOTZmc0RyWXhvcXVBbk8zc3lUUEMwWnI5U2ZzeV9PdFNrZzlvVzlmLWVYcDk2LXfSAcABQVVfeXFMTk9GREZleTdkTGhnRXFRVFRFb3VKU09GZXBweWIxXzBoV1UyZnZ6WDJuR1plbmE0SVRveXYyZ19DVzRYYVo0dExJYzAxNngweDVjSDdmanRXejBaOFJpQVliRXZ4RUR6Q3drRmo4LThpZS1JdGhqOXFiTGNBQjZVd1J4Z182NVV1ZEhvVl9xZlZKRDk2ZnNEcll4b3F1QW5PM3N5VFBDMFpyOVNmc3lfT3RTa2c5b1c5Zi1lWHA5Ni13?oc=5",
             "published": "2026-06-23T18:43:59+00:00",
             "snippet": "GDRFA Dubai sets global benchmark in government communication Gulf News"
-          },
-          {
-            "title": "UAE President receives Chief of the General Staff of the Kuwaiti Armed Forces",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbU0yYXZRREdvNldTVTRxQWRSdS0tYWdzSFRrTjRLRUN2T0xiUGg4bDk3dG9QWkU2R3RBekczcjB1ZmljS1RKWjkxMHRXR0VWTEhHU2RDZEVWbzhSQm9ZYmJWTVdMSjRFVnYwa1dxcGhIMFNlakNBeHByVmdLR2xnYnBzaUVkSWVMcVc1a0RUekZGZldfQmpaR0NUc0gwQ1FNU3h3YVJlS3dPNHdBeUtSN2E4WmF5RDVXMHlwdXNtdGpaanUwVGUxNTVkMHRCRWJPZ3k0dFpn0gHWAUFVX3lxTE1tTTJhdlFER282V1NVNHFBZFJ1LS1hZ3NIVGtONEtFQ3ZPTGJQaDhsOTd0b1BaRTZHdEF6RzNyMHVmaWNLVEpaOTEwdFdHRVZMSEdTZENkRVZvOFJCb1liYlZNV0xKNEVWdjBrV3FwaEgwU2VqQ0F4cHJWZ0tHbGdicHNpRWRJZUxxVzVrRFR6RkZmV19CalpHQ1RzSDBDUU1TeHdhUmVLd080d0F5S1I3YThaYXlENVcweXB1c210alpqdTBUZTE1NWQwdEJFYk9neTR0Wmc?oc=5",
-            "published": "2026-06-23T18:35:11+00:00",
-            "snippet": "UAE President receives Chief of the General Staff of the Kuwaiti Armed Forces Gulf News"
-          },
-          {
-            "title": "Pregnant Deepika Padukone calls ICC maternity policy a 'landmark moment'",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcUVSeFBWeWpqc1BLVUhRQTA2QjNyWmVUT2d6QVc0QlFKZFV0ejVpQ0Q5ZE9fMC1kMUFSRXVKaFZ2WTBoMmRRMnEzdXVBMFNFVzRTTW9hOUJIQUNHQzhzMmFvbEUwaG0tN2JTd2Y4NEYwZDlmaTNZaFozcjNwR2U3NHJmN25ZOFpyYnRCOVBEcl9LaGJHaFB5LXlsb2wzOXo3MU1mZFdwemRiN2xGMmt5WWNRNjlxMzBDS1RXRTFDSmo1REgxNmNLRklDWDBXSEh5dVNYbVUyNE3SAdgBQVVfeXFMUHFFUnhQVnlqanNQS1VIUUEwNkIzclplVE9nekFXNEJRSmRVdHo1aUNEOWRPXzAtZDFBUkV1SmhWdlkwaDJkUTJxM3V1QTBTRVc0U01vYTlCSEFDR0M4czJhb2xFMGhtLTdiU3dmODRGMGQ5ZmkzWWhaM3IzcEdlNzRyZjduWThacmJ0QjlQRHJfS2hiR2hQeS15bG9sMzl6NzFNZmRXcHpkYjdsRjJreVljUTY5cTMwQ0tUV0UxQ0pqNURIMTZjS0ZJQ1gwV0hIeXVTWG1VMjRN?oc=5",
-            "published": "2026-06-23T18:07:28+00:00",
-            "snippet": "Pregnant Deepika Padukone calls ICC maternity policy a 'landmark moment' Gulf News"
           }
         ],
         "error": null
@@ -598,10 +598,22 @@
         "url": "https://www.gulf-times.com",
         "headlines": [
           {
+            "title": "Indian PM condoles with HH the Amir",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3JHN0RiUjdRM1VQV3EwblRONU1xUlpIbEZFYzVVdTRNek45Q3RDUThDYTU2M3NsblZHN2dmYVQ5THVEN2JWemNKcUMtMENIVzl4bTE2V0xYZmpta00wZ0tvdlZOaG1fQ1ZZbS1IdkVxRE5ER3FPUWtKc2dZUlNoQUZUOUJmT2RTemdzR3hJbkbSAZABQVVfeXFMTW9yRzdEYlI3UTNVUFdxMG5UTjVNcVJaSGxGRWM1VXU0TXpOOUN0Q1E4Q2E1NjNzbG5WRzdnZmFUOUx1RDdiVnpjSnFDLTBDSFc5eG0xNldMWGZqbWtNMGdLb3ZWTmhtX0NWWW0tSHZFcUROREdxT1FrSnNnWVJTaEFGVDlCZk9kU3pnc0d4SW5G?oc=5",
+            "published": "2026-06-23T20:21:00+00:00",
+            "snippet": "Indian PM condoles with HH the Amir | Gulf Times Gulf Times"
+          },
+          {
             "title": "PGA Tour announces radical overhaul with 'two-tier' system",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVYtb1FSUGN1bk9DOUJkT3UzRW05aXVkbER6N243cGU4S3NzTVBSQzR2UTExNEh2WU1zbFdaT0l0YnUxQ3F6Y0FhSDVCUm10R2FmZ3lSWFQzQTZtZlNqZU5HMS02azNsMktKSFFheHg5QXFBLU1UcjRfdXczMFpuZHpJQ2VNbFQtcTdsTFNnTUtvWDltZzZjbEY2SmhmWHo5OXlrLXVxMGRyektUMk0xMVgxa9IBswFBVV95cUxQQVYtb1FSUGN1bk9DOUJkT3UzRW05aXVkbER6N243cGU4S3NzTVBSQzR2UTExNEh2WU1zbFdaT0l0YnUxQ3F6Y0FhSDVCUm10R2FmZ3lSWFQzQTZtZlNqZU5HMS02azNsMktKSFFheHg5QXFBLU1UcjRfdXczMFpuZHpJQ2VNbFQtcTdsTFNnTUtvWDltZzZjbEY2SmhmWHo5OXlrLXVxMGRyektUMk0xMVgxaw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNESUhRcl9MZ092UGg3c2ZWY012VE1HczFfcm9RZnk5b1VwOVd0cFZBeExraTBYR2FOVm4xRFotWmtlajNoLWpXVVdYaHdsMjJSRWNXMmJxUllJaU9TeTZjdTl1Vi1kcHIzV0pDVUxVNGppWHpjcUcxVGNpYVNSbXBaTGNQTG1iUDR3Sm0wSnVZUlI5SWJ2N0VFUUpBa2d5LTNYeF9ic2JFN1Z1RVHSAbMBQVVfeXFMUEFWLW9RUlBjdW5PQzlCZE91M0VtOWl1ZGxEejduN3BlOEtzc01QUkM0dlExMTRIdllNc2xXWk9JdGJ1MUNxemNBYUg1QlJtdEdhZmd5UlhUM0E2bWZTamVORzEtNmszbDJLSkhRYXh4OUFxQS1NVHI0X3V3MzBabmR6SUNlTWxULXE3bExTZ01Lb1g5bWc2Y2xGNkpoZlh6OTl5ay11cTBkcnpLVDJNMTFYMWs?oc=5",
             "published": "2026-06-23T19:50:00+00:00",
             "snippet": "PGA Tour announces radical overhaul with 'two-tier' system | Gulf Times Gulf Times"
+          },
+          {
+            "title": "Batting star Sooryavanshi receives first India jersey",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1FQNGFBZ3VHU2pFNGpIcjhjUi0wTmF1ZlZwZmJVeFV4dmp1NjhxM0Y0c2ZtZmxlNDNJLUVVakxiZnpkN0lCVGtUY3VydHlYdDNSYm9yaVdoTmdUenpwdzBFcTNtNldHeWsxbXBQZTRQZHIzMUlWVHFITUJFUnNONXJtMXN2bkRFX1dycWdFeGZySlExVTFRRVNKdG5HTlZFbktmTV93STVTb05MMnfSAbMBQVVfeXFMUEM1bHF5QTBWSDBubUdvNEtKbzdRNHdnVWpydFVROXJ0SG5RQzcwajRuZ1g0MnVmSUE3Vk1KTjRVOWtCSUZ6Y3doVXVpemoxOTh1SDVYLWwzN29WTXFnSDJEZ2lPLTUtem9zVEVBVk1MSkZkN3FwMmZRTHdHUkpZb3dtRURjN1BkbkFoWFhIN1lPYmN3VWdHZVMwLUtQVk00Mm5VUmRZdjVxQnBTbnRjODJmckE?oc=5",
+            "published": "2026-06-23T19:29:00+00:00",
+            "snippet": "Batting star Sooryavanshi receives first India jersey | Gulf Times Gulf Times"
           },
           {
             "title": "Rubio says US will not accept Iranian tolls on Hormuz",
@@ -614,18 +626,6 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xMnVPbmo4RXRRY003QTJuQ2xKVGRXWE9aQWZGb294M05XOVQ0VXkxZU9VNUpJNnFjWU1uZ29rTEVIMzNYa2RlSE5FZWNwVmI4RlFKTFd6ajZjVXk2OTU0VjVGZDU3QzVkU3A3ellWdVRHdlhpa3dYNl9n0gF_QVVfeXFMTTI1Nk9iX1R5ckNHOFVUUi1Bb05QX3lBS21IczdZeTAtc1hESHVhazBLazlSSW14X2FiQ2ZVZGlNOHlKMk9zd1loQ0hKZnNyOFdsNGluUHhPOERvV1JYM1dENnRFRThtOU1FaTFVTTZuOGM3NzN1NzJXaEwwakdRTQ?oc=5",
             "published": "2026-06-23T15:01:00+00:00",
             "snippet": "This is a news update from Gulf Times dated 23-06-2026."
-          },
-          {
-            "title": "News Update! (23-06-2026)",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yNTZPYl9UeXJDRzhVVFItQW9OUF95QUttSHM3WXkwLXNYREh1YWswS2s5UklteF9hYkNmVWRpTTh5SjJPc3dZaENISmZzcjhXbDRpblB4TzhEb1dSWDNXRDZ0RUU4bTlNRWkxVU02bjhjNzczdTcyV2hMMGpHUU3SAX9BVV95cUxNMjU2T2JfVHlyQ0c4VVRSLUFvTlBfeUFLbUhzN1l5MC1zWERIdWFrMEtrOVJJbXhfYWJDZlVkaU04eUoyT3N3WWhDSEpmc3I4V2w0aW5QeE84RG9XUlgzV0Q2dEVFOG05TUVpMVVNNm44Yzc3M3U3MldoTDBqR1FN?oc=5",
-            "published": "2026-06-23T15:01:00+00:00",
-            "snippet": "This is a news update from Gulf Times dated 23-06-2026."
-          },
-          {
-            "title": "New Date for CNN's Global Perspectives: In Doha, Taking Place on 29 October 2026",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWxNRkh5WUxXY1J2N2hLaWs2Zkw3X29jUV9fMC02dUJfaEE1ZEVXRzVWSGVPb2dEZU1rNF91aHA0eUEzcldkdG9sMm1zTlBVXzY4WDJDR2FBb3BOWlJJUTFJMkpMTDEzR2FzRGl5VXRMbE0xeEN3RGRVWFVseTFfb2g0SU1TYkJLSThKWGdpdlBaOFl1bkRuUDlMVlF1LVNkazRUQk8wcmNPdHQ3TU1DWnkzQ1VqZUhyd2JRTGtra1FYeEhzaXBNONIByAFBVV95cUxNaWxNRkh5WUxXY1J2N2hLaWs2Zkw3X29jUV9fMC02dUJfaEE1ZEVXRzVWSGVPb2dEZU1rNF91aHA0eUEzcldkdG9sMm1zTlBVXzY4WDJDR2FBb3BOWlJJUTFJMkpMTDEzR2FzRGl5VXRMbE0xeEN3RGRVWFVseTFfb2g0SU1TYkJLSThKWGdpdlBaOFl1bkRuUDlMVlF1LVNkazRUQk8wcmNPdHQ3TU1DWnkzQ1VqZUhyd2JRTGtra1FYeEhzaXBNOA?oc=5",
-            "published": "2026-06-23T13:50:00+00:00",
-            "snippet": "New Date for CNN's Global Perspectives: In Doha, Taking Place on 29 October 2026 | Gulf Times Gulf Times"
           }
         ],
         "error": null
@@ -678,6 +678,18 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
+            "title": "Israel rules out Ebola cases after suspected patients test negative",
+            "url": "https://www.jpost.com/health-and-wellness/article-900315",
+            "published": "2026-06-24T00:23:56+00:00",
+            "snippet": "As the ministry emphasizes, a fever following travel from affected areas requires immediate assessment, but Ebola remains rare among returning travelers."
+          },
+          {
+            "title": "Republican-majority US Senate votes to curb Trump's powers in Iran war",
+            "url": "https://www.jpost.com/middle-east/iran-news/article-900316",
+            "published": "2026-06-23T23:41:31+00:00",
+            "snippet": "The Senate voted 50-48 in favor of the concurrent resolution, which passed the House of Representatives earlier this month, reflecting growing concern about the unpopular conflict."
+          },
+          {
             "title": "Miri Regev says Likud will go to primaries, but 'Netanyahu's voice will be heard in the process'",
             "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900313",
             "published": "2026-06-23T22:32:01+00:00",
@@ -690,22 +702,10 @@
             "snippet": "Each promised but failed breakthrough gave way to another promised breakthrough. And now comes the final indignity: the so-called memorandum of understanding."
           },
           {
-            "title": "Life finds a way: Ukrainian bird builds nest with cables from fiber-optic explosive drones",
-            "url": "https://www.jpost.com/omg/article-899730",
-            "published": "2026-06-23T21:56:22+00:00",
-            "snippet": "The nest appeared to combine grass with thin strands of optical fiber, a material increasingly scattered across areas where Russian and Ukrainian forces operate first-person-view drones."
-          },
-          {
-            "title": "Former MK, Hadash leader Mohammad Barakeh arrested, banned from WB, police say",
-            "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900311",
-            "published": "2026-06-23T21:49:28+00:00",
-            "snippet": "According to the police spokesperson, Barakeh gave a speech in 2022 where he said \"words of praise and identification with terrorists and terrorist organizations.\""
-          },
-          {
-            "title": "IDF kills Hezbollah operatives in two small incidents, but ceasefire holds",
-            "url": "https://www.jpost.com/israel-news/defense-news/article-900309",
-            "published": "2026-06-23T20:51:53+00:00",
-            "snippet": "All of this was taking place just as Jerusalem and Beirut kicked off another round of direct talks in Washington addressing a wide range of issues."
+            "title": "Trump, Rubio praise Iran deal progress, 'Iran cannot have a nuclear weapon'",
+            "url": "https://www.jpost.com/international/article-900310",
+            "published": "2026-06-23T21:57:08+00:00",
+            "snippet": "As US-Lebanon talks continue in Washington, Rubio noted that \"the future of Lebanon belongs to the Lebanese people through their sovereign, elected government.\""
           }
         ],
         "error": null
@@ -741,10 +741,10 @@
             "snippet": "New book says US president blew up at Netanyahu over efforts to reach a ceasefire in Gaza, while Jewish top White House aides Jared Kushner and Steve Witkoff were also on the line The post ‘All the Jews are sick of you,’ Trump said to have told Netanyahu in 2025 phone call appeared first on The Time"
           },
           {
-            "title": "Haredi parties deny report about deal with Netanyahu to pass array of pre-election bills",
+            "title": "Haredi parties deny report of deal with Netanyahu to pass array of pre-election laws",
             "url": "https://www.timesofisrael.com/haredi-parties-deny-report-about-deal-with-netanyahu-to-pass-array-of-pre-election-bills/",
             "published": "2026-06-23T18:50:39+00:00",
-            "snippet": "Report also said sides agreed on Oct."
+            "snippet": "Report claims sides agreed on Oct. 20 election date, and to pass laws to boost rights of Torah students, stop arrests of draft-evaders, constrict AG's role, hold PM's favored political probe of Oct."
           }
         ],
         "error": null
@@ -756,16 +756,16 @@
         "url": "https://www.haaretz.com",
         "headlines": [
           {
+            "title": "'The Jews Are Sick of You': Trump Berated Netanyahu During Gaza Deal Talks, New Book Says",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNXU3U183TlVQVk9qR1Q1TGlJVGhJWFlmd1FwdWlnU3RXQzFBX0RUeUYySG8xRHhHdGtld0JPdzRPNlVXTFRUNlRaOUREVUx6N25TeFViREpNSXRSWVVLalNBR1dGY1dUbkEtTVBraGZSdXE1eHlHQmRLZnRBbGhjOUVDVzNZWEcwcWxyaEpkUjJYZTFoZGlzcDNndTFFWjZFTUZaVUplNkVyUGZXTEVwMWpIcDZ5QnlueVdfNHg0Zi1faXpNcUNuUFhZZ2RXQXVyTHFfMERvQThodkNLVXYwalFHWlpoeVpiRXVVeTdXVkhab0lLRlJ0TlZKTWFFZG82?oc=5",
+            "published": "2026-06-23T21:08:00+00:00",
+            "snippet": "'The Jews Are Sick of You': Trump Berated Netanyahu During Gaza Deal Talks, New Book Says Haaretz"
+          },
+          {
             "title": "U.S. Senate Votes to Halt Iran War Unless Trump Gets Approval From Congress",
             "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcW5oWWdaWEF5Wk94Q2tXaHF4NHdac0c0T0xISUJqU1MwcDNJd0R3eDVrVVgtb1pfT0VQSXVmMm8ycWg1UkcxTWtGelFSX3YwTnJOLWx3R0FGMTJoaFlSbTBYS2Jselh1czY1Z2VDempScDUxV3c5aDNYU2ZCOHpvMUc2dE5vbGdJUjlYVjFoZ2FIdXk4MjlZZU92RE5PNjlFLVkzNlZNR0NTUWdEeHRlWEZQMXpod2tma2N2eXI1RG1jVUs1MF8tOVpGbG15U21OdnZDQ3F0b1RoakNTU0F6eWJPamg1YTBpeDFUTU5sVTNwSFNSdTlFaQ?oc=5",
             "published": "2026-06-23T20:33:00+00:00",
             "snippet": "U.S. Senate Votes to Halt Iran War Unless Trump Gets Approval From Congress Haaretz"
-          },
-          {
-            "title": "Live updates • Lebanese President says nothing but full Israeli withdrawal is acceptable",
-            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQ1NrOFpDUUVEUEZpNDFCZF9WWjhDWDhYRWV0V0tHZ2xWOU5IZzBLTVB6SmVna09rVkFGb1NPWElnNXZYbGZyVFJrRGsyWmN5T2FTWmp3cG1XNVdkdHA2NTJqMldUaTAwRnF2bjNOS2dJc3dwdHVpWnFTTHpVNkZjZkl3bjZucC1aOGdnaHdaU3BzMlljZmJJaUZuYURCVW1LT0k5OEtBWjRXLXcyM3ZDLXVjZGhsUm9zdGlaVkJrd2k1RnB6Q0tlY0Z0d0w5X01wYTc5SlRTMGROSUN2YjgwQzhHYmFsNkJHTTFsb0N4VWhEelkxZ19DMmdPcUp6QlZpMTFVdWRpMVFUcmVUZEhzYklaZVdQMnNkb01SN3hSYw?oc=5",
-            "published": "2026-06-23T19:44:00+00:00",
-            "snippet": "Live updates • Lebanese President says nothing but full Israeli withdrawal is acceptable Haaretz"
           },
           {
             "title": "Ben-Gvir Seeks to Axe Officers for Excessive Use of Force on Haredi Protesters",
