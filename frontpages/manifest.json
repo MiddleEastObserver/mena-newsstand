@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:17:37.498416+00:00",
+  "updated": "2026-06-23T10:19:21.038788+00:00",
   "papers": [
     {
       "id": "haaretz",
@@ -22,14 +22,74 @@
       "date": "2026-06-23"
     },
     {
+      "id": "gulf_news",
+      "name": "Gulf News",
+      "loc": "UAE",
+      "lang": "en",
+      "site": "https://gulfnews.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg23/lg/UAE_GN.jpg",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "gulf_times",
+      "name": "Gulf Times",
+      "loc": "Qatar",
+      "lang": "en",
+      "site": "https://www.gulf-times.com",
+      "ok": true,
+      "src": "https://www.gulf-times.com/pdf/2026/06/23/main-20260623-1.jpeg",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "saudi_gazette",
+      "name": "Saudi Gazette",
+      "loc": "Saudi Arabia",
+      "lang": "en",
+      "site": "https://saudigazette.com.sa",
+      "ok": true,
+      "src": "https://www.saudigazette.com.sa/uploads/pdf/2026/06/23/sg-20260623.pdf",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "kuwait_times",
+      "name": "Kuwait Times",
+      "loc": "Kuwait",
+      "lang": "en",
+      "site": "https://www.kuwaittimes.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg23/lg/KUW_KT.jpg",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "daily_sabah",
+      "name": "Daily Sabah",
+      "loc": "Turkey",
+      "lang": "en",
+      "site": "https://www.dailysabah.com",
+      "ok": true,
+      "src": "https://cdn.freedomforum.org/dfp/jpg23/lg/TUR_DS.jpg",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "hurriyet",
+      "name": "Hürriyet",
+      "loc": "Turkey",
+      "lang": "tr",
+      "site": "https://www.hurriyet.com.tr",
+      "ok": true,
+      "src": "https://img.kiosko.net/2026/06/23/tr/hurriyet.750.jpg",
+      "date": "2026-06-23"
+    },
+    {
       "id": "nyt",
       "name": "New York Times",
       "loc": "USA",
       "lang": "en",
       "site": "https://www.nytimes.com",
       "ok": true,
-      "src": "https://cdn.freedomforum.org/dfp/jpg22/lg/NY_NYT.jpg",
-      "date": "2026-06-22"
+      "src": "https://cdn.freedomforum.org/dfp/jpg23/lg/NY_NYT.jpg",
+      "date": "2026-06-23"
     },
     {
       "id": "wsj",
@@ -38,8 +98,8 @@
       "lang": "en",
       "site": "https://www.wsj.com",
       "ok": true,
-      "src": "https://cdn.freedomforum.org/dfp/jpg22/lg/WSJ.jpg",
-      "date": "2026-06-22"
+      "src": "https://cdn.freedomforum.org/dfp/jpg23/lg/WSJ.jpg",
+      "date": "2026-06-23"
     },
     {
       "id": "usa_today",
@@ -58,8 +118,8 @@
       "lang": "en",
       "site": "https://www.independent.co.uk",
       "ok": true,
-      "src": "https://img.kiosko.net/2026/06/22/uk/the_independent.750.jpg",
-      "date": "2026-06-22"
+      "src": "https://img.kiosko.net/2026/06/23/uk/the_independent.750.jpg",
+      "date": "2026-06-23"
     },
     {
       "id": "daily_mail",
@@ -68,8 +128,8 @@
       "lang": "en",
       "site": "https://www.dailymail.co.uk",
       "ok": true,
-      "src": "https://img.kiosko.net/2026/06/22/uk/daily_mail.750.jpg",
-      "date": "2026-06-22"
+      "src": "https://img.kiosko.net/2026/06/23/uk/daily_mail.750.jpg",
+      "date": "2026-06-23"
     },
     {
       "id": "die_welt",
@@ -78,8 +138,8 @@
       "lang": "de",
       "site": "https://www.welt.de",
       "ok": true,
-      "src": "https://img.kiosko.net/2026/06/22/de/die_welt.750.jpg",
-      "date": "2026-06-22"
+      "src": "https://img.kiosko.net/2026/06/23/de/die_welt.750.jpg",
+      "date": "2026-06-23"
     }
   ]
 }

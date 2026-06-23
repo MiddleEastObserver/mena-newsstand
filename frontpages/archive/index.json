@@ -47,6 +47,42 @@
       "loc": "Germany",
       "lang": "de",
       "site": "https://www.welt.de"
+    },
+    "gulf_news": {
+      "name": "Gulf News",
+      "loc": "UAE",
+      "lang": "en",
+      "site": "https://gulfnews.com"
+    },
+    "gulf_times": {
+      "name": "Gulf Times",
+      "loc": "Qatar",
+      "lang": "en",
+      "site": "https://www.gulf-times.com"
+    },
+    "saudi_gazette": {
+      "name": "Saudi Gazette",
+      "loc": "Saudi Arabia",
+      "lang": "en",
+      "site": "https://saudigazette.com.sa"
+    },
+    "kuwait_times": {
+      "name": "Kuwait Times",
+      "loc": "Kuwait",
+      "lang": "en",
+      "site": "https://www.kuwaittimes.com"
+    },
+    "daily_sabah": {
+      "name": "Daily Sabah",
+      "loc": "Turkey",
+      "lang": "en",
+      "site": "https://www.dailysabah.com"
+    },
+    "hurriyet": {
+      "name": "Hürriyet",
+      "loc": "Turkey",
+      "lang": "tr",
+      "site": "https://www.hurriyet.com.tr"
     }
   },
   "dates": {
@@ -73,6 +109,12 @@
     "2026-06-23": [
       "haaretz",
       "the_national",
+      "gulf_news",
+      "gulf_times",
+      "saudi_gazette",
+      "kuwait_times",
+      "daily_sabah",
+      "hurriyet",
       "nyt",
       "wsj",
       "usa_today",
@@ -81,5 +123,5 @@
       "die_welt"
     ]
   },
-  "updated": "2026-06-23T04:17:40.011929+00:00"
+  "updated": "2026-06-23T10:19:32.639377+00:00"
 }
