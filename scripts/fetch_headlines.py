@@ -196,6 +196,50 @@ JUNK_TITLES = {
     "breaking news", "podcasts", "podcast",
 }
 
+# ---------------------------------------------------------------------------
+# Relevance filter — this is a MENA geopolitics / security / economy / diplomacy
+# desk, NOT a general aggregator. Sports, entertainment, lifestyle and generic
+# consumer-tech leak in from outlets' broader feeds and must be dropped, even
+# from a MENA-based outlet. Two HIGH-PRECISION signals are used so real news is
+# never removed:
+#   1. the article URL's section path (e.g. /sport/, /entertainment/, /lifestyle/)
+#   2. a whole-word topic term in the headline
+# Deliberately avoids ambiguous words that ARE geopolitical: strike, launch,
+# race (arms race), league (Arab League), cup/world (alone), actor (state actor),
+# tour (diplomatic tour), film (filmed), drone, missile, etc.
+OFFTOPIC_PATHS = {
+    "sport", "sports", "football", "soccer", "tennis", "cricket", "golf",
+    "rugby", "basketball", "motorsport", "formula1", "entertainment", "showbiz",
+    "celebrity", "celebrities", "movies", "music", "lifestyle", "fashion",
+    "beauty", "recipes", "cooking", "travel", "gaming", "gadgets", "auto",
+    "autos", "cars", "horoscope", "horoscopes",
+}
+
+OFFTOPIC_TERMS = [
+    # — sports —
+    "football", "footballer", "soccer", "goalkeeper", "midfielder", "bundesliga",
+    "la liga", "laliga", "premier league", "champions league", "europa league",
+    "world cup", "asian cup", "gulf cup", "afcon", "uefa", "fifa", "olympics",
+    "olympic games", "wimbledon", "cricket", "formula one", "grand prix",
+    "motogp", "rugby", "nba", "nfl", "ballon d'or", "messi", "ronaldo", "mbappe",
+    "neymar", "benzema", "haaland", "transfer window", "penalty shootout",
+    "hat-trick", "hat trick", "top scorer", "clean sheet", "man of the match",
+    "quarter-final", "semi-final", "quarterfinal", "semifinal",
+    # — entertainment / celebrity —
+    "hollywood", "bollywood", "box office", "box-office", "oscars",
+    "academy award", "grammy", "golden globe", "film festival", "red carpet",
+    "celebrity", "celebrities", "actress", "movie", "movies", "music video",
+    "studio album", "rapper", "kardashian", "taylor swift", "beyonce", "netflix",
+    "met gala", "reality show", "reality tv",
+    # — lifestyle / consumer tech —
+    "robotaxi", "self-driving", "smartphone", "iphone", "ipad", "playstation",
+    "xbox", "nintendo", "smartwatch", "earbuds", "video game", "app store",
+    "horoscope", "zodiac", "astrology", "skincare", "makeup", "weight loss",
+    "fashion week", "gadget", "gadgets",
+]
+OFFTOPIC_RE = re.compile(
+    r"\b(" + "|".join(re.escape(t) for t in OFFTOPIC_TERMS) + r")\b", re.I)
+
 # Order regions appear in the Headlines tab (the site renders them in the order
 # they're written to headlines.json).
 REGION_ORDER = ["Pan-Arab", "Levant", "Gulf", "Israel", "Iran"]
@@ -398,6 +442,26 @@ def is_junk_title(title: str, source: str) -> bool:
     return False
 
 
+def is_offtopic(title: str, url: str = "") -> bool:
+    """True for sports / entertainment / lifestyle / consumer-tech items that
+    aren't MENA geopolitics, security, economics or diplomacy. High-precision:
+    a story is dropped only if its URL sits under an off-topic section or its
+    headline contains a whole-word off-topic term — so real news is never lost."""
+    if url:
+        path = urlparse(url).path.lower()
+        for seg in path.split("/"):
+            if not seg:
+                continue
+            if seg in OFFTOPIC_PATHS:
+                return True
+            head = re.split(r"[-_.]", seg, 1)[0]      # e.g. "sport-news" -> "sport"
+            if head in OFFTOPIC_PATHS:
+                return True
+    if title and OFFTOPIC_RE.search(title):
+        return True
+    return False
+
+
 def clean_description(raw: str, title: str) -> str:
     """Turn an RSS summary/description into clean plain text, or '' when it has
     no real content beyond the title.
@@ -526,7 +590,9 @@ def fresh_items(items, source: str):
     cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     return [
         it for it in items
-        if it["_dt"] and it["_dt"] >= cutoff and not is_junk_title(it["title"], source)
+        if it["_dt"] and it["_dt"] >= cutoff
+        and not is_junk_title(it["title"], source)
+        and not is_offtopic(it["title"], it.get("url", ""))
     ]
 
 
@@ -564,7 +630,9 @@ def fetch_outlet(session: requests.Session, meta: dict) -> dict:
     # 3) Last resort: if nothing is "fresh" anywhere, show the newest we have
     #    (still date-sorted, junk removed) rather than an empty card.
     if not items:
-        items = [it for it in (native or gn) if not is_junk_title(it["title"], source)]
+        items = [it for it in (native or gn)
+                 if not is_junk_title(it["title"], source)
+                 and not is_offtopic(it["title"], it.get("url", ""))]
         via += "/stale"
 
     if items:
