@@ -1,11 +1,17 @@
 {
-  "updated": "2026-06-23T11:47:57.624148+00:00",
+  "updated": "2026-06-23T11:51:35.127709+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Israeli",
-      "count": 13,
+      "count": 14,
       "headlines": [
+        {
+          "title": "What Israeli and Lebanese officials are saying before Washington talks",
+          "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Netanyahu says he wants to lessen Israeli dependence on US weapons",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-wants-lessen-israeli-dependence-us-weapons",
@@ -88,7 +94,7 @@
     },
     {
       "term": "Iran",
-      "count": 10,
+      "count": 11,
       "headlines": [
         {
           "title": "Iran’s President Pezeshkian lands in Pakistan after US deal",
@@ -121,15 +127,15 @@
           "region": "Levant"
         },
         {
-          "title": "The scale of Trump’s political blunder in Iran is coming into focus",
-          "url": "https://www.egyptindependent.com/the-scale-of-trumps-political-blunder-in-iran-is-coming-into-focus/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
           "title": "Israel smuggled Starlink systems into Iran, former PM Bennett says",
           "url": "https://www.jpost.com/middle-east/iran-news/article-900254",
           "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Contradicting Vance, Iran says no plans for IAEA inspections of damaged nuclear sites",
+          "url": "https://www.timesofisrael.com/contradicting-vance-iran-says-no-plans-for-iaea-inspections-of-damaged-nuclear-sites/",
+          "source": "Times of Israel",
           "region": "Israel"
         },
         {
@@ -145,6 +151,12 @@
           "region": "Israel"
         },
         {
+          "title": "Iran Show Resilience Against Belgium",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZUpnZFAyOXdpOW43eUxvUVJaeWNhelJpVW4xWEtUWmgzUXQwMDYzQlhsWDMzSDhOQ0tqajBVclg5TWNLSFNhMTEwd285QUdDckE2dkdDNFN4UQ?oc=5",
+          "source": "Tehran Times",
+          "region": "Iran"
+        },
+        {
           "title": "US is obliged to lift all illegal sanctions on Iran under MoU",
           "url": "https://en.mehrnews.com/news/245557/No-plans-for-IAEA-inspectors-to-visit-damaged-nuclear-sites",
           "source": "Mehr News",
@@ -154,8 +166,14 @@
     },
     {
       "term": "talks",
-      "count": 9,
+      "count": 10,
       "headlines": [
+        {
+          "title": "What Israeli and Lebanese officials are saying before Washington talks",
+          "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Israeli fire kills two in Lebanon before fifth round of US talks",
           "url": "https://www.newarab.com/news/israeli-fire-kills-two-lebanon-fifth-round-us-talks",
@@ -199,7 +217,7 @@
           "region": "Israel"
         },
         {
-          "title": "Pres. Pezeshkian arrives in Islamabad for talks",
+          "title": "Pres. Pezeshkian arrives in Islamabad for high-profile talks",
           "url": "https://en.mehrnews.com/news/245561/Pres-Pezeshkian-arrives-in-Islamabad-for-talks",
           "source": "Mehr News",
           "region": "Iran"
@@ -214,7 +232,7 @@
     },
     {
       "term": "Gaza",
-      "count": 7,
+      "count": 8,
       "headlines": [
         {
           "title": "Israel sentences two Palestinian citizens over Gaza solidarity",
@@ -257,6 +275,12 @@
           "url": "https://www.timesofisrael.com/daily-briefing-june-23-underground-hezbollah-base-put-all-of-israel-in-range/",
           "source": "Times of Israel",
           "region": "Israel"
+        },
+        {
+          "title": "Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzlZNDhuZmIwaHJSYk9Bc251QndFdk9iSXhJUUMwS3BfYkdXVnREa2NrWXdHR0t6dWJ5NTYxeG1oZ3VZbkRHSVJZb1AzSlFoQzBDNnB3NEhTdW9CN2RVeU1fLWx1R2V1YmI0RWZ2RFBuX0dDbmFNa29wcUpWR0VlRy0yVlpWbXRxTVk3MlNiOU90aXlMVWdNdkctUTFQdHYxOG9R?oc=5",
+          "source": "Tehran Times",
+          "region": "Iran"
         }
       ]
     },
@@ -303,8 +327,44 @@
       ]
     },
     {
-      "term": "Palestinian",
+      "term": "Netanyahu",
       "count": 5,
+      "headlines": [
+        {
+          "title": "Netanyahu meets with head of Bosnian Serb breakaway entity",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-meets-head-bosnian-serb-breakaway-entity",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Netanyahu says he wants to lessen Israeli dependence on US weapons",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-wants-lessen-israeli-dependence-us-weapons",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel must have “arms independence,” Netanyahu says, as US military aid expiring in 2028",
+          "url": "https://www.egyptindependent.com/israel-must-have-arms-independence-netanyahu-says-as-us-military-aid-expiring-in-2028/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Qatar doing 'everything possible' to extinguish Netanyahu's regional 'fires', says PM",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU0xRVU5DRGxNTnhtQ240ckgzbmdDWVhmSFhvenhEYU9GMkJUbGdwNDZONmFYMXdUVUszVHRyLVVGeERmTW9tYXplOC1KaVdyOHAzdTBaUnRHTlp5Yk01Tl9vZ3lieFdoSUlRc3ViV2Rmb2N3S21ydi1YVnFxSUZwdXFGS1VnNnVDd1hnZVhTQVFnSUlZRi1oaUFuQzkxaFZJSHlkSktIaVY3eVR3RzdJUEQ4Nm5JbThHQ3drOHhsRGlsbmtIRWl5YXU2NTVBUQ?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Netanyahu defends relationship with Milchan during final phase of testimony",
+          "url": "https://www.jpost.com/israel-news/article-900260",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Palestinian",
+      "count": 4,
       "headlines": [
         {
           "title": "Israel sentences two Palestinian citizens over Gaza solidarity",
@@ -329,108 +389,6 @@
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSVGdqeWhKVEZJVXc1b3RSSm1tbk9PT1VaRDBYd3F1MkFRNnZ1LUFZWHpXZlA4anNmcHFYV3NtX0hEcmRhYlNwem9GU2FmSzVKaExvRC1qNA?oc=5",
           "source": "WAFA News",
           "region": "Levant"
-        },
-        {
-          "title": "Bennett calls to dismantle illegal settlement outposts, draws right-wing leaders’ ire",
-          "url": "https://www.timesofisrael.com/bennett-calls-to-dismantle-illegal-settlement-outposts-draws-right-wing-leaders-ire/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Iranian",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "U.S.-Iran talks end with plans for high-level negotiations, Iranian source says",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOcmllM01vMmlYb2lPVnNhZklTTUJRTlIwS1lqTjh0NUJ5ZFI1cjZ1QVpCWXRRTTM0SVYtSGZYb18xT0QwRDZnWFpyMlowcGk2cjY1U1NvV3hJbWt6dnYtT2Q4NDMyS0xkcE5NczNxaFVWclJ4UU1mRW5LVGxKNmtnbHF2ZXNna21ya1hPWmp3UGdubm9QcXhMTVdrTUxvdU1sMVk0OFdxdnQ0Rmh0NnpwTF93QW1zcGRqTlZYUXp4RGZvbG9WenpjX21aSEpYX3FPc2ZvT0ZTdWh4MW9YS1UyTXdWNTJkZkJ0MW5LM1ZCODFMZVVjR0FHV2Q1LVpoNWJwOXZKYW93MA?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Smart search for Iranian and world news | Fars News Agency - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FVGlzNFU0a3ZzcjJSekxpLTNUd0wtVExRTU5KMGh5NURBZ0tzeHF2UTdmRWVtMlZJaFYwazJvVTlBcW1hU3NKc1ZqZ29MSUZTNU5YYVVzSXpHZUQwTmdoMHMyZDVsTkF4d1FWN1JHUlMyZ3M?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Pres. Pezeshkian arrives in Islamabad for talks",
-          "url": "https://en.mehrnews.com/news/245561/Pres-Pezeshkian-arrives-in-Islamabad-for-talks",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf meets Sultan of Oman in Muscat for talks (+VIDEO)",
-          "url": "https://en.mehrnews.com/news/245559/Ghalibaf-meets-with-Sultan-of-Oman-in-Muscat-for-talks",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Pakistan",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Iran’s President Pezeshkian lands in Pakistan after US deal",
-          "url": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran FM joins President Pezeshkian for Pakistan visit: State media",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkJDUENzQ2hZQTVIRDJYTUFmSUZqSjgwdGpKZEM4bWFYMm8zSVlXVnU2M1pVVXd3WXY1V000eUMwSV9wQ1VXZXBwa3A2cGVGM3N5SlFjX0k5czFvWDdLeUpQa1NkQ3VxRHA2eWt5MFJISV8xcTRMaUEzU3ZfanBHcmZyUDV2Z3pxc1ZFM0lSNG9tZTJOeERYZDhXYUxmbFJpOTlyRHl1RnJ1VGdQMk9FZWdoRW5UTU96Ty1OTjZFVXLSAcYBQVVfeXFMTVM0RUJIa3A1VkxBS0JJbVZBYkZfTlJYVGZqUnJkY0xLMmlpdTRJM0FJYUlTd21QYnhITHdySWliRFZtLTUtbW9OZzVYWUo3d09rdzFnUnNZUG1hRFJhQWpIdmdWcW0xcE4xNzZoaG8xdVNiUG1hc1BxeTFPMkF1cTRWZno1bTVoYkpIWlNQV2JVY2JHWGVSTXVsZE1STWRpV0pZYUtKbmdOYWpXTW9HOGpwNkE0ZFZxcWlLMGRuWmVvSDFBTWJ3?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "ACI urges 'stronger' economic ties, direct air link with Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTBuU1lrS3FJSmpLcDlkQUxma25VaURPWjlta3MyeDUxLXltd254ODFMNHhVcnJuZGNzYU5IUHk4eUxrcDVBN1E1aGU1S0FTQkljS2VsdXMtSjJULWpPeUVXdUhMdUVRSTFVcTNEY3RRdDBhZEFiSWdDdW1PX09PQmxzZmVGX29hb2FpOHRrMkRWMlpZa0hTcnpDTlk0c1ZqX3c?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Pres. Pezeshkian arrives in Islamabad for talks",
-          "url": "https://en.mehrnews.com/news/245561/Pres-Pezeshkian-arrives-in-Islamabad-for-talks",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Netanyahu",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Netanyahu meets with head of Bosnian Serb breakaway entity",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-meets-head-bosnian-serb-breakaway-entity",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Netanyahu says he wants to lessen Israeli dependence on US weapons",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-wants-lessen-israeli-dependence-us-weapons",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Qatar doing 'everything possible' to extinguish Netanyahu's regional 'fires', says PM",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU0xRVU5DRGxNTnhtQ240ckgzbmdDWVhmSFhvenhEYU9GMkJUbGdwNDZONmFYMXdUVUszVHRyLVVGeERmTW9tYXplOC1KaVdyOHAzdTBaUnRHTlp5Yk01Tl9vZ3lieFdoSUlRc3ViV2Rmb2N3S21ydi1YVnFxSUZwdXFGS1VnNnVDd1hnZVhTQVFnSUlZRi1oaUFuQzkxaFZJSHlkSktIaVY3eVR3RzdJUEQ4Nm5JbThHQ3drOHhsRGlsbmtIRWl5YXU2NTVBUQ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Netanyahu defends relationship with Milchan during final phase of testimony",
-          "url": "https://www.jpost.com/israel-news/article-900260",
-          "source": "Jerusalem Post",
-          "region": "Israel"
         }
       ]
     },
@@ -465,36 +423,6 @@
       ]
     },
     {
-      "term": "Trump",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "The scale of Trump’s political blunder in Iran is coming into focus",
-          "url": "https://www.egyptindependent.com/the-scale-of-trumps-political-blunder-in-iran-is-coming-into-focus/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "'Closest Ally' or Nazi Appeaser? Israel's Right Wrestles With Trump's Iran Deal",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWEhtVVhDZm9tbnUtcEhodVBfSFNKZ2sweGg1aDhFRDdaUzdiQU95MldXc2FaMlhqcTVaZ2ZHQ0h4VkZ5UThQN2IxTEMxYXBVQzJWS0NGS2dVTU1UOGxXb05PQ2F1TWNXR3BZaXY1eFhST0VZU1dDS3cyXzBicFc2TV9uTHFCVkFlRWs3Y3BuVERqOFFjbzk0WC1VaXUtT0FCdnlVRXFNLVBzSS1jYmxHeGVwNVFLWHYweUJwbk9TUkNCVGw4bVI0U19HVkw1eGp3dTQxMkhOV2VHR2sxWDdseE1iSUNwUUVXSGFlZjRadTlfblVEYVYyd1RlRVNha2FtTGwycXo1WlpBR0FjaF8tcFF6empvbGxqWWNidEQzTQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Farsnews | Report: Trump ‘Frustrated with Everyone’ from His White House to Congress as His Agenda Stalls - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR0dOZ196LVkzLVpZWUlWUENRZ05EYXNUbmh1dlZtQVJPODNJUUxnaVhsdnpRbGdmdHJ1WVhrMkYxV041SGpZdFJBMnZYdWlJLU1nbVpqWTNuc2V4RXRTM0ludzdpNk1WQ185dWZ0cDRFZVl3YlJFRVF0Y3UzNnlUTWl3cFRKNlEyMmtJWlByN1E0eFdIeUdocDV0a0VoSGw4cFMzU2hFdWlFQkY4QXdrNDdiQ2lyU0stbnFfZ1FMbjVsOUJSc3lkcTRTMjloNnJ3cU9Obk40OVJRUQ?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        },
-        {
-          "title": "Farsnews | At Least Seven People Killed in Chicago Shootings as Trump Renews Military Call - خبرگزاری فارس",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2tnem9IWTRhUkxpUGZRUGstYTVINWttYjk3cVZpcGo5ME5NQVRGejFZMXZmeDhCX014Tk9OaUZWbGpMR19hWGhmQ1B2RVFxWUV4R2RnYS11MzFwVllvakxPQTFIQm5nNURnbVlKQzJkd2NKNklKd0dia2wweGgzbXYxTHlVLW1PeVdwSXpCdjhHRnZjT1hGSlVpbU9qS2RnLTYyM0oyeXc4VW5BY21xTzdUNmd0RVlYTWhQZjlUNjRleHppXzJVTlln?oc=5",
-          "source": "Fars News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Pezeshkian",
       "count": 3,
       "headlines": [
@@ -511,8 +439,56 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Pres. Pezeshkian arrives in Islamabad for talks",
+          "title": "Pres. Pezeshkian arrives in Islamabad for high-profile talks",
           "url": "https://en.mehrnews.com/news/245561/Pres-Pezeshkian-arrives-in-Islamabad-for-talks",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Pakistan",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran’s President Pezeshkian lands in Pakistan after US deal",
+          "url": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran FM joins President Pezeshkian for Pakistan visit: State media",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkJDUENzQ2hZQTVIRDJYTUFmSUZqSjgwdGpKZEM4bWFYMm8zSVlXVnU2M1pVVXd3WXY1V000eUMwSV9wQ1VXZXBwa3A2cGVGM3N5SlFjX0k5czFvWDdLeUpQa1NkQ3VxRHA2eWt5MFJISV8xcTRMaUEzU3ZfanBHcmZyUDV2Z3pxc1ZFM0lSNG9tZTJOeERYZDhXYUxmbFJpOTlyRHl1RnJ1VGdQMk9FZWdoRW5UTU96Ty1OTjZFVXLSAcYBQVVfeXFMTVM0RUJIa3A1VkxBS0JJbVZBYkZfTlJYVGZqUnJkY0xLMmlpdTRJM0FJYUlTd21QYnhITHdySWliRFZtLTUtbW9OZzVYWUo3d09rdzFnUnNZUG1hRFJhQWpIdmdWcW0xcE4xNzZoaG8xdVNiUG1hc1BxeTFPMkF1cTRWZno1bTVoYkpIWlNQV2JVY2JHWGVSTXVsZE1STWRpV0pZYUtKbmdOYWpXTW9HOGpwNkE0ZFZxcWlLMGRuWmVvSDFBTWJ3?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "ACI urges 'stronger' economic ties, direct air link with Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTBuU1lrS3FJSmpLcDlkQUxma25VaURPWjlta3MyeDUxLXltd254ODFMNHhVcnJuZGNzYU5IUHk4eUxrcDVBN1E1aGU1S0FTQkljS2VsdXMtSjJULWpPeUVXdUhMdUVRSTFVcTNEY3RRdDBhZEFiSWdDdW1PX09PQmxzZmVGX29hb2FpOHRrMkRWMlpZa0hTcnpDTlk0c1ZqX3c?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Lebanese",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "What Israeli and Lebanese officials are saying before Washington talks",
+          "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "From pause to purpose: How this Lebanese mother found a new path in the UAE",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFBnc2FKd2RIUklEOVhRWnpISnRyeTlLZkFpdE1aLU94VXo0Rm4za1lPMjVFMmQ5Rmp3bWNvZXFTSzFEa2VlYjdiN1F1UzQ1MmZBMERxQm91TmJybk9qMjIwREFteTFkcHJ1NDdSM0pIeG1wRXNzV2tzNjJuc0Z3VUhoTFAxYkRGNFdOZWRIdEMxX1Rnd05KV1JsbmhjakxpRTBGZjREYnV1dlBxeEI3WWg5ZUlSYUVfWC1Qb3I0QmpOQmdORl8wSW1RZDfSAcwBQVVfeXFMTXBQZ3NhSndkSFJJRDlYUVp6SEp0cnk5S2ZBaXRNWi1PeFV6NEZuM2tZTzI1RTJkOUZqd21jb2VxU0sxRGtlZWI3YjdRdVM0NTJmQTBEcUJvdU5icm5PajIyMERBbXkxZHBydTQ3UjNKSHhtcEVzc1drczYybnNGd1VIaExQMWJERjRXTmVkSHRDMV9UZ3dOSldSbG5oY2pMaUUwRmY0RGJ1dXZQcXhCN1loOWVJUmFFX1gtUG9yNEJqTkJnTkZfMEltUWQ3?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Israel hits Lebanon again despite truce",
+          "url": "https://en.mehrnews.com/news/245560/Israel-hits-Lebanon-again-despite-truce",
           "source": "Mehr News",
           "region": "Iran"
         }
@@ -567,6 +543,54 @@
       ]
     },
     {
+      "term": "Britain",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "How Andy Burnham could set Britain on a new course on Israel and Palestine",
+          "url": "https://www.middleeasteye.net/news/how-andy-burnham-could-set-britain-new-course-israel-and-palestine",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Meet Andy Burnham, Britain's likely next prime minister",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHlSWWpWNGl1S1NnMW9TRFZDNE9BdWdjY2ZSWllvc0REanNPUF9WQUlIcmZjc3pjQ2REOVZyd0N1eFdlSks4QzVRS1Jpd2MwcmFxVXpLZWhSNlFmOGxtQW9BZzBESDJnWURVaU5CUmhBUVJrNkVtRTlJdF91MUZEVDA2MHZpRFJEVnFfOC1LcFpDSGNfODM0?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "London Bridge is finally falling down. No fresh sacrifices can save Britain.",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdFgwR3B5QzNQME1sNmg0M2wtamRVSko0REhCYkNRYWJhVmoydzBBY2FDQ1VpaExpMTgzRkJyMnAwYXV6OEtwME5jQ3dZWXRhLXRTQno3amRNTGNKektnZTB5cEVycl9mTWdCVDdvVWxLWWp0alhjTEM0MFhQaVI4QzFOUFl1XzkwejdYbWtqcVdvWVZGbzBWSTBnQnVtUEJ0TmNz?oc=5",
+          "source": "Tehran Times",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "nuclear",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran says won't allow UN inspectors at bombed nuclear sites",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-wont-allow-un-inspectors-bombed-nuclear-sites",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Contradicting Vance, Iran says no plans for IAEA inspections of damaged nuclear sites",
+          "url": "https://www.timesofisrael.com/contradicting-vance-iran-says-no-plans-for-iaea-inspections-of-damaged-nuclear-sites/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Ukraine intensifies drone strikes on Zaporozhye nuclear plant",
+          "url": "https://en.mehrnews.com/news/245558/Ukraine-intensifies-drone-strikes-on-Zaporozhye-nuclear-plant",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Industrial",
       "count": 3,
       "headlines": [
@@ -587,30 +611,6 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOUxoYnFoN2JvNFBNNUhUS0NLQlQzY2tOa3BJX3FTUkZZc0JLOXF0bkYxUnZQWHpDd2R0bzN2TUoxZFJZZ19Fd2ZmalpGWjdmckI5dFgzSVJiRXFpLW5Ja3dUX3dxR1c3X2hPdmNwbGJfalpSVm9wdEdpQ0JDUWtEak5OaFBncFg4TEdQd2F6XzkxQUhCTVNKNi1EbkpTSUtTTkhhcWQyTHBzM3k4LW9nTUJBYldnVmc?oc=5",
           "source": "Gulf Times",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "settlements",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israeli firms trading with EU are poisoning Palestinian farmland",
-          "url": "https://www.newarab.com/investigations/israeli-firms-trading-eu-are-poisoning-palestinian-farmland",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Europe condemns settlements, but ignores Zionism’s deeper roots - opinion",
-          "url": "https://www.jpost.com/opinion/article-900142",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Bennett calls to dismantle illegal settlement outposts, draws right-wing leaders’ ire",
-          "url": "https://www.timesofisrael.com/bennett-calls-to-dismantle-illegal-settlement-outposts-draws-right-wing-leaders-ire/",
-          "source": "Times of Israel",
-          "region": "Israel"
         }
       ]
     },
@@ -657,6 +657,30 @@
         {
           "title": "US is obliged to lift all illegal sanctions on Iran under MoU",
           "url": "https://en.mehrnews.com/news/245557/No-plans-for-IAEA-inspectors-to-visit-damaged-nuclear-sites",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Iranian",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "U.S.-Iran talks end with plans for high-level negotiations, Iranian source says",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOcmllM01vMmlYb2lPVnNhZklTTUJRTlIwS1lqTjh0NUJ5ZFI1cjZ1QVpCWXRRTTM0SVYtSGZYb18xT0QwRDZnWFpyMlowcGk2cjY1U1NvV3hJbWt6dnYtT2Q4NDMyS0xkcE5NczNxaFVWclJ4UU1mRW5LVGxKNmtnbHF2ZXNna21ya1hPWmp3UGdubm9QcXhMTVdrTUxvdU1sMVk0OFdxdnQ0Rmh0NnpwTF93QW1zcGRqTlZYUXp4RGZvbG9WenpjX21aSEpYX3FPc2ZvT0ZTdWh4MW9YS1UyTXdWNTJkZkJ0MW5LM1ZCODFMZVVjR0FHV2Q1LVpoNWJwOXZKYW93MA?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Ghalibaf meets Sultan of Oman in Muscat for talks (+VIDEO)",
+          "url": "https://en.mehrnews.com/news/245559/Ghalibaf-meets-with-Sultan-of-Oman-in-Muscat-for-talks",
           "source": "Mehr News",
           "region": "Iran"
         }
@@ -711,30 +735,6 @@
       ]
     },
     {
-      "term": "UAE",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Ask Gulf News: How to apply for the UAE Green Visa for skilled workers in Dubai",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0xPTjlOQ1RTQWxBRnlXSGRzcTFfLVNBdUZjcjRsaURtaXpkMVM4SXVQWlVjMVR3SnBGRGY0eFNjRDdxN2tBNTNuSDE2Mmp4aV85bzUxWXVsZ0hnWEIzSVpTSHVoLXNVOFdEb0wwSU93Wk1IZXFseVNRSDRERzk4LS04cm14cUZ1S1BOSzBrSThua252MTdtTzR1aG1SWERTNzhNR0ZSLWlQNGtLbGEtN211MlVpYi1fNWRmMzV0X2x1ZmRlQmd3dHpIVHlZVDFodi1F0gHTAUFVX3lxTE9PTE9OOU5DVFNBbEFGeVdIZHNxMV8tU0F1RmNyNGxpRG1pemQxUzhJdVBaVWMxVHdKcEZEZjR4U2NEN3E3a0E1M25IMTYyanhpXzlvNTFZdWxnSGdYQjNJWlNIdWgtc1U4V0RvTDBJT3daTUhlcWx5U1FINERHOTgtLThybXhxRnVLUE5LMGtJOG5rbnYxN21PNHVobVJYRFM3OE1HRlItaVA0a0tsYS03bXUyVWliLV81ZGYzNXRfbHVmZGVCZ3d0ekhUeVlUMWh2LUU?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "UAE e-invoicing countdown begins: New deadlines, rules and risks explained",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOWwzTG1tVzkyNWRFMWttSGxOT294QkRURlZPNWRRSHBpcUlmWmtBM09Eejg5bVFERmMxT1VMMmdRcFZtTDRsT0dWcUNHOVZqRXM2QXdpZnREUVo1RHpqaEVNZmVOQ3NOa1V2U3I3a25sMVdaZl85d1diLWlaQVNKa3BqUTAxV3NSZnNDN253VFBUNERlNnhmUVkzVVNpRm1aeU96UjM2WmVQS0ZScE0wNlR3R05wMEJDdmRvUXF2Q0YwRXJiTmQ2UUIzTy1KUmZLTk840gHTAUFVX3lxTE05bDNMbW1XOTI1ZEUxa21IbE5Pb3hCRFRGVk81ZFFIcGlxSWZaa0EzT0R6ODltUURGYzFPVUwyZ1FwVm1MNGxPR1ZxQ0c5VmpFczZBd2lmdERRWjVEempoRU1mZU5Dc05rVXZTcjdrbmwxV1pmXzl3V2ItaVpBU0prcGpRMDFXc1Jmc0M3bndUUFQ0RGU2eGZRWTNVU2lGbVp5T3pSMzZaZVBLRlJwTTA2VHdHTnAwQkN2ZG9RcXZDRjBFcmJOZDZRQjNPLUpSZktOTzg?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "From pause to purpose: How this Lebanese mother found a new path in the UAE",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFBnc2FKd2RIUklEOVhRWnpISnRyeTlLZkFpdE1aLU94VXo0Rm4za1lPMjVFMmQ5Rmp3bWNvZXFTSzFEa2VlYjdiN1F1UzQ1MmZBMERxQm91TmJybk9qMjIwREFteTFkcHJ1NDdSM0pIeG1wRXNzV2tzNjJuc0Z3VUhoTFAxYkRGNFdOZWRIdEMxX1Rnd05KV1JsbmhjakxpRTBGZjREYnV1dlBxeEI3WWg5ZUlSYUVfWC1Qb3I0QmpOQmdORl8wSW1RZDfSAcwBQVVfeXFMTXBQZ3NhSndkSFJJRDlYUVp6SEp0cnk5S2ZBaXRNWi1PeFV6NEZuM2tZTzI1RTJkOUZqd21jb2VxU0sxRGtlZWI3YjdRdVM0NTJmQTBEcUJvdU5icm5PajIyMERBbXkxZHBydTQ3UjNKSHhtcEVzc1drczYybnNGd1VIaExQMWJERjRXTmVkSHRDMV9UZ3dOSldSbG5oY2pMaUUwRmY0RGJ1dXZQcXhCN1loOWVJUmFFX1gtUG9yNEJqTkJnTkZfMEltUWQ3?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Mamdani",
       "count": 2,
       "headlines": [
@@ -771,20 +771,20 @@
       ]
     },
     {
-      "term": "Britain",
+      "term": "Washington",
       "count": 2,
       "headlines": [
         {
-          "title": "How Andy Burnham could set Britain on a new course on Israel and Palestine",
-          "url": "https://www.middleeasteye.net/news/how-andy-burnham-could-set-britain-new-course-israel-and-palestine",
-          "source": "Middle East Eye",
+          "title": "What Israeli and Lebanese officials are saying before Washington talks",
+          "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Meet Andy Burnham, Britain's likely next prime minister",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHlSWWpWNGl1S1NnMW9TRFZDNE9BdWdjY2ZSWllvc0REanNPUF9WQUlIcmZjc3pjQ2REOVZyd0N1eFdlSks4QzVRS1Jpd2MwcmFxVXpLZWhSNlFmOGxtQW9BZzBESDJnWURVaU5CUmhBUVJrNkVtRTlJdF91MUZEVDA2MHZpRFJEVnFfOC1LcFpDSGNfODM0?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
+          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
         }
       ]
     },
@@ -807,24 +807,6 @@
       ]
     },
     {
-      "term": "nuclear",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Iran says won't allow UN inspectors at bombed nuclear sites",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-wont-allow-un-inspectors-bombed-nuclear-sites",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Ukraine intensifies drone strikes on Zaporozhye nuclear plant",
-          "url": "https://en.mehrnews.com/news/245558/Ukraine-intensifies-drone-strikes-on-Zaporozhye-nuclear-plant",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Ukraine",
       "count": 2,
       "headlines": [
@@ -839,6 +821,24 @@
           "url": "https://en.mehrnews.com/news/245558/Ukraine-intensifies-drone-strikes-on-Zaporozhye-nuclear-plant",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "settlements",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli firms trading with EU are poisoning Palestinian farmland",
+          "url": "https://www.newarab.com/investigations/israeli-firms-trading-eu-are-poisoning-palestinian-farmland",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Europe condemns settlements, but ignores Zionism’s deeper roots - opinion",
+          "url": "https://www.jpost.com/opinion/article-900142",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     },
@@ -1005,20 +1005,20 @@
       ]
     },
     {
-      "term": "Green",
+      "term": "crisis",
       "count": 2,
       "headlines": [
         {
-          "title": "الاحتلال يخطط لتوسيع سيطرته على غزة وتهيئة الوضع لـ«المدينة الخضراء» في رفح - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPSEExQWNocU03MnZZZW9UcUlrR2ZEMDFrelFYRFZVaW1GdU0zVmh2NTE1dkdRUEQwZHFmTmswSlptYl9ab2owUFg4SmZwNVM5aUplaWhOVnVETkU5X05WaThFUHFFU3hKSUNDdkhLNWRWbERQLWdqaWRWNVNuazFLVnlnZ1VsTmpCdEFpNkNvdkRTX2FNakZGNEdlaEJkT05lUy1DR1lqcjVDWUh2elRYTE5rT01KVWFjdU5Ra0lUTVAtcHdEX1pLbHhzWDFrWVRZZEpGZ3pDazhvOGdxYjZxcFVhWGUyalNFOEJQcHdYRk9kM2k3alM3YjVnNFNtSmNWZzJGbDU1YzR5UGZNckYxalUyREFpR0hGZzZ6a3dURmJqeUZ6djM4QXBtaGhhMHIxam8tRmtIRHFjVkZ2a3dKTlA5b295UGY0OGR6SFI1MFUtc19rNmU1aU9mcXVoZy0wcHBDM0FhbzNiQVlyc2pKV0JPb2hBOXFFRmV5THlmWERjdnVJSS10RmdsQ1RjbHJWNHlBd055bm15eUpxUG9Bb25BSWV5dzBKTVNYOVdWVVlnUERzUTdZNWk5MWx3RmUyQVJVeU1mTDB5NURHSkVaZ3pSNTY4ZlZNaEk4WU5IZVNQSUJETXdTSmp5V1JhSXVXLXc?oc=5",
-          "source": "Al-Akhbar",
+          "title": "219th Egyptian humanitarian aid convoy enters Gaza Strip",
+          "url": "https://www.egyptindependent.com/219th-egyptian-humanitarian-aid-convoy-enters-gaza-strip/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Ask Gulf News: How to apply for the UAE Green Visa for skilled workers in Dubai",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0xPTjlOQ1RTQWxBRnlXSGRzcTFfLVNBdUZjcjRsaURtaXpkMVM4SXVQWlVjMVR3SnBGRGY0eFNjRDdxN2tBNTNuSDE2Mmp4aV85bzUxWXVsZ0hnWEIzSVpTSHVoLXNVOFdEb0wwSU93Wk1IZXFseVNRSDRERzk4LS04cm14cUZ1S1BOSzBrSThua252MTdtTzR1aG1SWERTNzhNR0ZSLWlQNGtLbGEtN211MlVpYi1fNWRmMzV0X2x1ZmRlQmd3dHpIVHlZVDFodi1F0gHTAUFVX3lxTE9PTE9OOU5DVFNBbEFGeVdIZHNxMV8tU0F1RmNyNGxpRG1pemQxUzhJdVBaVWMxVHdKcEZEZjR4U2NEN3E3a0E1M25IMTYyanhpXzlvNTFZdWxnSGdYQjNJWlNIdWgtc1U4V0RvTDBJT3daTUhlcWx5U1FINERHOTgtLThybXhxRnVLUE5LMGtJOG5rbnYxN21PNHVobVJYRFM3OE1HRlItaVA0a0tsYS03bXUyVWliLV81ZGYzNXRfbHVmZGVCZ3d0ekhUeVlUMWh2LUU?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "IOF manpower crisis: A battle over identity, not tanks",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaW5nc2ttNXE1WTBPUGJwX2hIZmpwSHYwOGhkSkMxODFYaV96bzVsVHE3UF9wMXBOcDctN25reVNUaGVDOGY0UTlDcGJLOTA4Ql85VklIYk0zTjRPMWJ6YnhxcTg1N1gwWnpCS09QdWl5YXM1bEtfR09ZcWxmdjdCal9YaFFKa2NfSFk3ZHkxUTFVN3d4d1dR?oc=5",
+          "source": "Tehran Times",
+          "region": "Iran"
         }
       ]
     },
@@ -1041,38 +1041,20 @@
       ]
     },
     {
-      "term": "Dubai",
+      "term": "UAE",
       "count": 2,
       "headlines": [
         {
-          "title": "Ask Gulf News: How to apply for the UAE Green Visa for skilled workers in Dubai",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0xPTjlOQ1RTQWxBRnlXSGRzcTFfLVNBdUZjcjRsaURtaXpkMVM4SXVQWlVjMVR3SnBGRGY0eFNjRDdxN2tBNTNuSDE2Mmp4aV85bzUxWXVsZ0hnWEIzSVpTSHVoLXNVOFdEb0wwSU93Wk1IZXFseVNRSDRERzk4LS04cm14cUZ1S1BOSzBrSThua252MTdtTzR1aG1SWERTNzhNR0ZSLWlQNGtLbGEtN211MlVpYi1fNWRmMzV0X2x1ZmRlQmd3dHpIVHlZVDFodi1F0gHTAUFVX3lxTE9PTE9OOU5DVFNBbEFGeVdIZHNxMV8tU0F1RmNyNGxpRG1pemQxUzhJdVBaVWMxVHdKcEZEZjR4U2NEN3E3a0E1M25IMTYyanhpXzlvNTFZdWxnSGdYQjNJWlNIdWgtc1U4V0RvTDBJT3daTUhlcWx5U1FINERHOTgtLThybXhxRnVLUE5LMGtJOG5rbnYxN21PNHVobVJYRFM3OE1HRlItaVA0a0tsYS03bXUyVWliLV81ZGYzNXRfbHVmZGVCZ3d0ekhUeVlUMWh2LUU?oc=5",
+          "title": "UAE e-invoicing countdown begins: New deadlines, rules and risks explained",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOWwzTG1tVzkyNWRFMWttSGxOT294QkRURlZPNWRRSHBpcUlmWmtBM09Eejg5bVFERmMxT1VMMmdRcFZtTDRsT0dWcUNHOVZqRXM2QXdpZnREUVo1RHpqaEVNZmVOQ3NOa1V2U3I3a25sMVdaZl85d1diLWlaQVNKa3BqUTAxV3NSZnNDN253VFBUNERlNnhmUVkzVVNpRm1aeU96UjM2WmVQS0ZScE0wNlR3R05wMEJDdmRvUXF2Q0YwRXJiTmQ2UUIzTy1KUmZLTk840gHTAUFVX3lxTE05bDNMbW1XOTI1ZEUxa21IbE5Pb3hCRFRGVk81ZFFIcGlxSWZaa0EzT0R6ODltUURGYzFPVUwyZ1FwVm1MNGxPR1ZxQ0c5VmpFczZBd2lmdERRWjVEempoRU1mZU5Dc05rVXZTcjdrbmwxV1pmXzl3V2ItaVpBU0prcGpRMDFXc1Jmc0M3bndUUFQ0RGU2eGZRWTNVU2lGbVp5T3pSMzZaZVBLRlJwTTA2VHdHTnAwQkN2ZG9RcXZDRjBFcmJOZDZRQjNPLUpSZktOTzg?oc=5",
           "source": "Gulf News",
           "region": "Gulf"
         },
-        {
-          "title": "Dubai graduate chosen as student voice of Stanford’s 2026 commencement",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUd4NV9UNzR3eW90SUgxaUh5U2FoX1dnZ2NMTEtjLVV0YU5MZTUtUkJzVmV4ZC1DLU1VV2RwVVMzYzJuZm9HRVdzTUlWRHlqQjNPR05wTGx3Q2VwVWU4ZmZZM1RsMHFoa1VWMmNrc2VucWNzSUw3OE1QbWZCSWdDN1JlUTk4a3JMTUppRFpPN3BoQTgzTUJIVXdCckhxeEhJZUw5RVJTdDRDNm5SYlMxLW4yWXlaOUZaeUlrQi1jZ3BTZ9IBwgFBVV95cUxQOUd4NV9UNzR3eW90SUgxaUh5U2FoX1dnZ2NMTEtjLVV0YU5MZTUtUkJzVmV4ZC1DLU1VV2RwVVMzYzJuZm9HRVdzTUlWRHlqQjNPR05wTGx3Q2VwVWU4ZmZZM1RsMHFoa1VWMmNrc2VucWNzSUw3OE1QbWZCSWdDN1JlUTk4a3JMTUppRFpPN3BoQTgzTUJIVXdCckhxeEhJZUw5RVJTdDRDNm5SYlMxLW4yWXlaOUZaeUlrQi1jZ3BTZw?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Lebanese",
-      "count": 2,
-      "headlines": [
         {
           "title": "From pause to purpose: How this Lebanese mother found a new path in the UAE",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFBnc2FKd2RIUklEOVhRWnpISnRyeTlLZkFpdE1aLU94VXo0Rm4za1lPMjVFMmQ5Rmp3bWNvZXFTSzFEa2VlYjdiN1F1UzQ1MmZBMERxQm91TmJybk9qMjIwREFteTFkcHJ1NDdSM0pIeG1wRXNzV2tzNjJuc0Z3VUhoTFAxYkRGNFdOZWRIdEMxX1Rnd05KV1JsbmhjakxpRTBGZjREYnV1dlBxeEI3WWg5ZUlSYUVfWC1Qb3I0QmpOQmdORl8wSW1RZDfSAcwBQVVfeXFMTXBQZ3NhSndkSFJJRDlYUVp6SEp0cnk5S2ZBaXRNWi1PeFV6NEZuM2tZTzI1RTJkOUZqd21jb2VxU0sxRGtlZWI3YjdRdVM0NTJmQTBEcUJvdU5icm5PajIyMERBbXkxZHBydTQ3UjNKSHhtcEVzc1drczYybnNGd1VIaExQMWJERjRXTmVkSHRDMV9UZ3dOSldSbG5oY2pMaUUwRmY0RGJ1dXZQcXhCN1loOWVJUmFFX1gtUG9yNEJqTkJnTkZfMEltUWQ3?oc=5",
           "source": "Gulf News",
           "region": "Gulf"
-        },
-        {
-          "title": "Israel hits Lebanon again despite truce",
-          "url": "https://en.mehrnews.com/news/245560/Israel-hits-Lebanon-again-despite-truce",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
@@ -1082,7 +1064,7 @@
       "headlines": [
         {
           "title": "Prime Minister and Minister of Foreign Affairs Receives Dutch FM",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVXNXay1UczFEbjl1SVhZMXhLcDBucnBRVGZtTW94S3ZmOENfYVFJME9EWGxKQTFkWGhVc2F5Uy1BZEV4UnNHRV9YUm44czl1UjRhT01HODVvWU5OYUUzVnFKWXUyek56SzdIanJqT3lUTy1HeGVsMWpNRVM1YUNtMzlCWk9nQ2JoOUZYMDJLdmJNemRnTFlwLWE2Y2c2cUxhWlV1MWl5UV9HVGlubzliVzN30gG3AUFVX3lxTE80dm1iT0FINXNjd1Y5LTRURUhnU0RQTno4cXZjeU9BNzk5ZzY3OC1tajhVUHNfaVRNekhaRFlxeV9sTjBCQmxmLUpEUXVXcnJtNWdfRXZQNnZWeFFhSnYtWDlyX0xUaWc0QlN0cThzdmhVVU9qV3ZyRW9abnJ0Mi01VmYyUnUzQUhRQmVmSDY2S1B6aU5ad3ktQnJCNFpON0lzVnpWUnhjbXI5MkMtSHdMNWRSV05fbw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHZtYk9BSDVzY3dWOS00VEVIZ1NEUE56OHF2Y3lPQTc5OWc2NzgtbWo4VVBzX2lUTXpIWkRZcXlfbE4wQkJsZi1KRFF1V3JybTVnX0V2UDZ2VnhRYUp2LVg5cl9MVGlnNEJTdHE4c3ZoVVVPald2ckVvWm5ydDItNVZmMlJ1M0FIUUJlZkg2NktQemlOWnd5LUJyQjRaTjdJc1Z6VlJ4Y21yOTJDLUh3TDVkUldOX2_SAbcBQVVfeXFMTzR2bWJPQUg1c2N3VjktNFRFSGdTRFBOejhxdmN5T0E3OTlnNjc4LW1qOFVQc19pVE16SFpEWXF5X2xOMEJCbGYtSkRRdVdycm01Z19FdlA2dlZ4UWFKdi1YOXJfTFRpZzRCU3RxOHN2aFVVT2pXdnJFb1pucnQyLTVWZjJSdTNBSFFCZWZINjZLUHppTlp3eS1CckI0Wk43SXNWelZSeGNtcjkyQy1Id0w1ZFJXTl9v?oc=5",
           "source": "Gulf Times",
           "region": "Gulf"
         },
@@ -1091,24 +1073,6 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX241R0FldUVBRUNnOVY3UEsyU0NWemdaRUJRcndSNFFQaXd3dXYwOXBrTk96UTFzazMyLUFrc3pzODFhN0RPcnFYbjJkRlNrREF6NVBYYTdaX0lxZzNVcnRQNWJPUmNtbUl5NjJaMUYwNzluUmdUZ3Z4Y3A5ZGJPTm5OSXpRZzlaWVo1Ml96LW9aTDRDNVdmVXVSZEx3NnlYcXk3RFFSTFZSQXZ6OWZNajhaOGFheGR2TmROY1hBS1RnT0JDY2hteEU1ZkIwODI2M3hN?oc=5",
           "source": "Times of Oman",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Bennett",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israel smuggled Starlink systems into Iran, former PM Bennett says",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900254",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Bennett calls to dismantle illegal settlement outposts, draws right-wing leaders’ ire",
-          "url": "https://www.timesofisrael.com/bennett-calls-to-dismantle-illegal-settlement-outposts-draws-right-wing-leaders-ire/",
-          "source": "Times of Israel",
-          "region": "Israel"
         }
       ]
     },
