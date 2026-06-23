@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:17:01.644354+00:00",
+  "updated": "2026-06-23T04:46:03.275473+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,18 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Iraq fans ‘proud’ and joyful despite World Cup loss to France",
+            "url": "https://www.aljazeera.com/sports/2026/6/23/iraq-fans-proud-and-joyful-despite-world-cup-loss-to-france?traffic_source=rss",
+            "published": "2026-06-23T04:13:40+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Bullying investigated after rare Philippines school shooting kills three",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/bullying-investigated-after-rare-philippines-school-shooting-kills-three?traffic_source=rss",
+            "published": "2026-06-23T04:12:56+00:00",
+            "snippet": ""
+          },
           {
             "title": "Five Eyes intelligence alliance warns of threats from new AI models",
             "url": "https://www.aljazeera.com/economy/2026/6/23/five-eyes-intelligence-alliance-warns-of-threats-from-new-ai-models?traffic_source=rss",
@@ -25,18 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/conservative-radio-host-defends-trump-says-hes-better-than-vance?traffic_source=rss",
             "published": "2026-06-23T03:42:16+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Alan Greenspan, former US Federal Reserve chairman, dies at 100",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/alan-greenspan-former-us-federal-reserve-chairman-dies-at-100?traffic_source=rss",
-            "published": "2026-06-23T02:58:53+00:00",
-            "snippet": "Alan Greenspan, a highly influential economic policymaker in modern US history, has died at the age of 100."
-          },
-          {
-            "title": "Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts",
-            "url": "https://www.aljazeera.com/sports/2026/6/23/haaland-scores-two-as-norway-beat-senegal-3-2-enter-world-cup-knockouts?traffic_source=rss",
-            "published": "2026-06-23T02:45:59+00:00",
-            "snippet": "Norway secured a 3-2 victory over Senegal, with Haaland scoring two goals, advancing them to the World Cup knockouts. Senegal must now beat Iraq for a chance to progress."
           }
         ],
         "error": null
@@ -48,6 +48,24 @@
         "url": "https://www.middleeasteye.net",
         "headlines": [
           {
+            "title": "Israeli newspaper says Turkey poses greater threat to Israel than Iran",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-newspaper-says-turkey-poses-greater-threat-israel-iran",
+            "published": "2026-06-23T04:41:25+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Video: Palestinians rush to collect cement after Israel uses it to seal off tunnel",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinians-rush-collect-cement-after-israel-uses-it-seal-tunnel",
+            "published": "2026-06-23T04:34:31+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Pakistan defence minister says Iran-US deal marks 'political demise of Netanyahu'",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-defence-minister-says-iran-us-deal-marks-political-demise",
+            "published": "2026-06-23T04:31:27+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Displaced families sheltering in Beirut express scepticism over truce",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/displaced-families-sheltering-beirut-express-scepticism-over-truce",
             "published": "2026-06-23T04:15:05+00:00",
@@ -58,24 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-continued-israeli-military-presence-lebanon",
             "published": "2026-06-23T04:01:42+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Iran negotiator says talks helped stop bloodshed in Lebanon",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-negotiator-says-talks-helped-stop-bloodshed-lebanon",
-            "published": "2026-06-23T02:37:06+00:00",
-            "snippet": "Iranian Parliament Speaker Mohammad Baqer Ghalibaf defended negotiations with the US in Switzerland, asserting they helped stop bloodshed in Lebanon. He argued that without these talks, more Muslim lives would have been lost."
-          },
-          {
-            "title": "Democrats criticise Trump over sanctions relief for Iran",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/democrats-criticise-trump-over-sanctions-relief-iran",
-            "published": "2026-06-23T02:36:15+00:00",
-            "snippet": "Democrats on the US House Foreign Affairs Committee criticized President Trump for granting Iran sanctions relief, stating Tehran received significant economic concessions without addressing core issues. They noted this contradicts previous US rhetoric linking relief to nuclear program progress."
-          },
-          {
-            "title": "Lawmaker calls for release of Palestinian-American held in Israeli prison",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lawmaker-calls-release-palestinian-american-held-israeli-prison",
-            "published": "2026-06-23T02:23:43+00:00",
-            "snippet": "US Congressman Derek Tran expressed alarm over the detention of 20-year-old Palestinian-American student Sama Safi in an Israeli prison. He highlighted her nighttime arrest without charges and called it a \"disturbing pattern\" by the Israeli government."
           }
         ],
         "error": null
@@ -362,6 +362,12 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "“رويترز”: احتياطي النفط الأميركي عند أدنى مستوى منذ 43 عاماً",
+            "url": "https://www.almanar.com.lb/article/970957/",
+            "published": "2026-06-23T04:32:27+00:00",
+            "snippet": ""
+          },
+          {
             "title": "افغانستان | كابول تواجه أزمة إنسانية متفاقمة وسط الجفاف وسوء التغذية ونقص التمويل الدولي",
             "url": "https://www.almanar.com.lb/article/970942/",
             "published": "2026-06-23T02:31:07+00:00",
@@ -384,12 +390,6 @@
             "url": "https://www.almanar.com.lb/article/970912/",
             "published": "2026-06-23T02:25:06+00:00",
             "snippet": ""
-          },
-          {
-            "title": "رومانيا | البرلمان الروماني يحجب الثقة عن حكومة أدريان فيستيا ويعمّق الأزمة السياسية",
-            "url": "https://www.almanar.com.lb/article/970897/",
-            "published": "2026-06-23T01:44:09+00:00",
-            "snippet": "The Romanian Parliament rejected a vote of confidence for Adrian Vestea's government, deepening the country's political crisis and causing concern among EU and NATO circles."
           }
         ],
         "error": null
@@ -559,6 +559,12 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
+            "title": "Beyond dispute: Why the UAE remains a global crypto stronghold",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXZHaTVad00zaXJUR09oRDJiRmI5STI2Um9pdFA0ZzRPR1ZPYURBVWVPenJzZHpNSWpya0VBWVpZUWNoTEhQUko5UjhwVDdSZ2ZjNkszaWFpQ2Z2cVNnaG5ZZ1BxOG9mRFdPc3BmZDB4UG4wNjZYZmZRT1pxdjhiVmJzUHNjRE9QUEpSWEhXa1plTzBaUnBoVXVnVEJWYTFsRkstaV9RamRNeUtGbllDY1RiQXJBd9IBtgFBVV95cUxPOXZHaTVad00zaXJUR09oRDJiRmI5STI2Um9pdFA0ZzRPR1ZPYURBVWVPenJzZHpNSWpya0VBWVpZUWNoTEhQUko5UjhwVDdSZ2ZjNkszaWFpQ2Z2cVNnaG5ZZ1BxOG9mRFdPc3BmZDB4UG4wNjZYZmZRT1pxdjhiVmJzUHNjRE9QUEpSWEhXa1plTzBaUnBoVXVnVEJWYTFsRkstaV9RamRNeUtGbllDY1RiQXJBdw?oc=5",
+            "published": "2026-06-23T03:00:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Ronaldo’s legacy at stake as Kane able to dream big",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVBUUE8yQ3JRS0EwSHh4Z25hcHlmbXNJZzhfYmhRbzRlbk4tTm50dmE3aVVUcVlMZEU4UUFVbUFPbGswYVhOcVhBSnVVY0w3Zkx0Wmh4S0dvVWxaenNpSVFJY3hJcFBKQ2xWTmY0WDllY3YxUVV3RHRXd2EyeW9ENVI4dW9mUlEydHdVdFQ4UlVqMy11MEhNRW40ZkxvZ1FObGpNTDl0ODZLazdMTGphcmItZGRjanFNX1RrRUZiTWRzUdIBwgFBVV95cUxONVBUUE8yQ3JRS0EwSHh4Z25hcHlmbXNJZzhfYmhRbzRlbk4tTm50dmE3aVVUcVlMZEU4UUFVbUFPbGswYVhOcVhBSnVVY0w3Zkx0Wmh4S0dvVWxaenNpSVFJY3hJcFBKQ2xWTmY0WDllY3YxUVV3RHRXd2EyeW9ENVI4dW9mUlEydHdVdFQ4UlVqMy11MEhNRW40ZkxvZ1FObGpNTDl0ODZLazdMTGphcmItZGRjanFNX1RrRUZiTWRzUQ?oc=5",
             "published": "2026-06-23T02:00:00+00:00",
@@ -577,15 +583,9 @@
             "snippet": ""
           },
           {
-            "title": "Trump criticises UK's Starmer after resignation announcement",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0VYRGhzUVd4NW5TS0JEX00xWVN6SVBCMEUyM1c0VWM4NFpVaU9YOS01Z3NpM0JHdEZMQnNLbkdPT0o0MWpxd09zYW9VWWxnSDNjUUJtTDNhTEpoRl8yQU1KUG9CSE82SXlsZm5RcnFMME5ISFJaYmdFSm0wWjhYNlRpbGs5Ym5ZdWZabXlEcmZ0NGVpbzBDYVZfZ0tpdjJfbDdIM3N2RS1nVTZnc2s1OFFkYzJyLWpCQXd4cEJn0gG-AUFVX3lxTE9XRVhEaHNRV3g1blNLQkRfTTFZU3pJUEIwRTIzVzRVYzg0WlVpT1g5LTVnc2kzQkd0RkxCc0tuR09PSjQxanF3T3Nhb1VZbGdIM2NRQm1MM2FMSmhGXzJBTUpQb0JITzZJeWxmblFycUwwTkhIUlpiZ0VKbTBaOFg2VGlsazlibll1ZlpteURyZnQ0ZWlvMENhVl9nS2l2Ml9sN0gzc3ZFLWdVNmdzazU4UWRjMnItakJBd3hwQmc?oc=5",
-            "published": "2026-06-23T01:18:43+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "'I'm out' — Tucker Carlson says he'll no longer support the Republican Party",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTRSZVNyQWlHX2lyUFBYZFQyU045UjFzdGZfV0EycldmV3lXV1YwYWtNSkQ1UkpWLVlFbkh3REhHVkRwbFc4enYyQ2dUSUtlZUpUWGhHdFUtZWNNODc4VkVFZy14YkNPZE9wZHVxdlVnZE1NOHMxaXRBNTcxSjdLZEFSZ0stT044aklqM0V3UC1WR0xSRFlLYUxBYXRDR2RaVGEzeEpqOW9VTXhxLWZ0ZmEwaTctMVZHR1dCdFVyb2lKT01lVWU2b2h5bm_SAcwBQVVfeXFMUEk0UmVTckFpR19pclBQWGRUMlNOOVIxc3RmX1dBMnJXZld5V1dWMGFrTUpENVJKVi1ZRW5Id0RIR1ZEcGxXOHp2MkNnVElLZWVKVFhoR3RVLWVjTTg3OFZFRWcteGJDT2RPcGR1cXZVZ2RNTThzMWl0QTU3MUo3S2RBUmdLLU9OOGpJajNFd1AtVkdMUkRZS2FMQWF0Q0dkWlRhM3hKajlvVU14cS1mdGZhMGk3LTFWR0dXQnRVcm9pSk9NZVVlNm9oeW5v?oc=5",
-            "published": "2026-06-23T01:12:46+00:00",
+            "title": "Americas News ‚ US & Latin America Reports",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lVFNuN1VPWXBJNEtsZWRsbjU5bm93WmluZnFzTF84d3hkVTJ1eWVsbEZabzFrek00STJJVDlHeW1jVjV3dWRYbnFsVQ?oc=5",
+            "published": "2026-06-23T01:19:30+00:00",
             "snippet": ""
           }
         ],
@@ -622,10 +622,10 @@
             "snippet": ""
           },
           {
-            "title": "Al-Kaabi discusses energy co-operation with French economy minister",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXVpa0swSG5MeG0xRXZiRHVtN1dpeVhxYnJabDU2SXZtNFFTTnBmeE83T2tSd3RfUDJqeHpPbWp6a2g4WlZPZ0FCREdsUmplOEp0RGs2ZGVrQkctRC1Famw0T3l4dlZiZVNXek13R2RmR1JNR3poUGhmRXAzWjhhRnRLbVdYREE2WWhYa01WY1JCV243VTViNEllWjFpcVkxSDFWcjBMUi1XZ0p5Q2pzSFlwcW9VLXF2QUE?oc=5",
+            "title": "Artists donate 11 paintings to Sudan’s embassy",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NQUkhwV1lwZXRiMHJRUkRzcTR3TVk3Zjd0SzhNMFZFX0hmX2FkY3lYN1ptUDg1NTVWN3p0c0xybHR2dUMzM2RDTWNGMnhWSURGSkxMOVpDRzlua2drUG1Fc2dtakNxdHVNc2phLTRKREo1N2k2NjQ1aGYyQnFvVG9LWm9oM0Q1dXBUOVJhWkFyZFhBa1B5cNIBngFBVV95cUxOTHcwSjNsVnA4eXdXNFFmZ1l4TXA1MGN2bDdSb0MxTTh3eXFnVk9UZHNySDN6Nnc5X2JoQUEzVVVJLXF1TXN4THZTR01MQ3h6Wmozd1FsRHBNc1pKTlFIZ1ZjZ3E5aXJRQ3Q1djQ3akF2WV9yejM0U1d2WjV6dFJiRi1iMGlSYWNfcEpYWWNWQ3R2cWV0WUZFakNVYml1QQ?oc=5",
             "published": "2026-06-22T21:00:00+00:00",
-            "snippet": "Al-Kaabi discussed energy cooperation with the French economy minister."
+            "snippet": ""
           }
         ],
         "error": null
