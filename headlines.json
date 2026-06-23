@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T12:33:56.167569+00:00",
+  "updated": "2026-06-23T13:02:57.593576+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Former PM says Israel smuggled Starlink internet systems into Iran",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/former-pm-says-israel-smuggled-starlink-internet-systems-into-iran?traffic_source=rss",
+            "published": "2026-06-23T12:37:46+00:00",
+            "snippet": ""
+          },
           {
             "title": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
             "url": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss",
             "published": "2026-06-23T11:16:27+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Mamdani defends AIPAC ‘monsters’ comment",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/mamdani-defends-aipac-monsters-comment?traffic_source=rss",
-            "published": "2026-06-23T11:02:48+00:00",
-            "snippet": ""
           }
         ],
         "error": null
@@ -47,6 +47,18 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "UK judge renews contempt proceedings against Palestine Action lawyer",
+            "url": "https://www.middleeasteye.net/news/judge-renews-contempt-proceedings-against-palestine-action-lawyer",
+            "published": "2026-06-23T13:01:13+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Two killed by Israeli fire in southern Lebanon",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-israeli-fire-southern-lebanon",
+            "published": "2026-06-23T13:00:01+00:00",
+            "snippet": ""
+          },
           {
             "title": "Trump claims 19 million barrels of oil passed through Strait of Hormuz",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-19m-barrels-oil-passed-through-strait-hormuz",
@@ -63,18 +75,6 @@
             "title": "How Andy Burnham could set Britain on a new course on Israel and Palestine",
             "url": "https://www.middleeasteye.net/news/how-andy-burnham-could-set-britain-new-course-israel-and-palestine",
             "published": "2026-06-23T11:35:38+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Netanyahu meets with head of Bosnian Serb breakaway entity",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-meets-head-bosnian-serb-breakaway-entity",
-            "published": "2026-06-23T11:35:34+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Iran says won't allow UN inspectors at bombed nuclear sites",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-wont-allow-un-inspectors-bombed-nuclear-sites",
-            "published": "2026-06-23T11:17:31+00:00",
             "snippet": ""
           }
         ],
@@ -117,7 +117,9 @@
             "snippet": "Civil defense sources stated that Israeli gunfire in southern Lebanon has resulted in the deaths of two people."
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "The New Arab",
@@ -195,7 +197,9 @@
             "snippet": ""
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       }
     ],
     "Levant": [
@@ -236,7 +240,9 @@
             "snippet": "Analysts suggest that difficult details could still jeopardize negotiations as Iran and the US conclude their first round of talks."
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "L'Orient Today",
@@ -275,7 +281,9 @@
             "snippet": "Washington has announced the suspension of sanctions on Iranian oil until August 21."
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "Egypt Independent",
@@ -353,7 +361,9 @@
             "snippet": "Criticism surrounds the 'American timing' as Al-Zaidi completes restructuring efforts."
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "Al Manar",
@@ -362,33 +372,33 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "فصائل غزة للعالم والوسطاء: ضماناتكم لم توقف القتل",
-            "url": "https://www.almanar.com.lb/article/971847/",
-            "published": "2026-06-23T12:32:34+00:00",
+            "title": "بين الاتهامات المرتبطة بالمقاومة ومعايير المحاسبة… قضية تعود إلى الواجهة",
+            "url": "https://www.almanar.com.lb/article/971937/",
+            "published": "2026-06-23T13:02:28+00:00",
             "snippet": ""
           },
           {
-            "title": "تشييع شهداء مجزرة قناريت في الغازية وقناريت وحارة صيدا وسط حشود شعبية",
-            "url": "https://www.almanar.com.lb/article/971842/",
-            "published": "2026-06-23T12:30:30+00:00",
+            "title": "الرئيس سلام تلقى اتصالا من ماكرون",
+            "url": "https://www.almanar.com.lb/article/971927/",
+            "published": "2026-06-23T12:45:41+00:00",
             "snippet": ""
           },
           {
-            "title": "الرئيس بري يستقبل عائلة الشهيد العميد وسام صبرا في عين التينة",
-            "url": "https://www.almanar.com.lb/article/971837/",
-            "published": "2026-06-23T12:27:41+00:00",
+            "title": "⭕️بالفيديو | مشاهد من عملية استهداف المقاومة بتاريخ 17-06-2026 تموضع قوة تابعة لجيش العدو في أطراف بلدة كفرتبنيت جنوبيّ لبنان بمحلّقة أبابيل الانقضاضيّة",
+            "url": "https://www.almanar.com.lb/article/971907/",
+            "published": "2026-06-23T12:44:11+00:00",
             "snippet": ""
           },
           {
-            "title": "عُمان وإيران تلتزمان ضمان العبور الآمن في مضيق هرمز",
-            "url": "https://www.almanar.com.lb/article/971832/",
-            "published": "2026-06-23T12:24:14+00:00",
+            "title": "جبل عامل الثانية يودّع شهداءه بمواكب حاشدة ورسائل وفاء",
+            "url": "https://www.almanar.com.lb/article/971867/",
+            "published": "2026-06-23T12:42:50+00:00",
             "snippet": ""
           },
           {
-            "title": "تحليق للطيران المسيّر الصهيوني فوق البقاع الغربي على علو منخفض",
-            "url": "https://www.almanar.com.lb/article/971822/",
-            "published": "2026-06-23T11:53:42+00:00",
+            "title": "ميسي يقود الأرجنتين إلى الدور المقبل ويعتلي عرش هدافي المونديال",
+            "url": "https://www.almanar.com.lb/article/971857/",
+            "published": "2026-06-23T12:36:05+00:00",
             "snippet": ""
           }
         ],
@@ -431,7 +441,9 @@
             "snippet": "Israeli forces detained 25 Palestinians during a military raid on the Fawwar refugee camp."
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "Falastin al-Youm",
@@ -470,7 +482,9 @@
             "snippet": ""
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       }
     ],
     "Gulf": [
@@ -511,7 +525,9 @@
             "snippet": ""
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "The National",
@@ -550,7 +566,9 @@
             "snippet": "The Gulf region is experiencing increased extreme weather risk, with temperatures feeling '4°C hotter'."
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "Gulf News",
@@ -589,7 +607,9 @@
             "snippet": ""
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "Gulf Times",
@@ -628,7 +648,9 @@
             "snippet": "The King of Thailand received the credentials of Qatar's Ambassador."
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "Times of Oman",
@@ -667,7 +689,9 @@
             "snippet": ""
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       }
     ],
     "Israel": [
@@ -678,33 +702,33 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
-            "title": "Netanyahu defends relationship with Milchan during final phase of testimony",
-            "url": "https://www.jpost.com/israel-news/article-900260",
-            "published": "2026-06-23T14:15:40+00:00",
+            "title": "Return of Ron Arad amid topics of current Israel-Lebanon negotiations - report",
+            "url": "https://www.jpost.com/middle-east/article-900274",
+            "published": "2026-06-23T15:53:55+00:00",
             "snippet": ""
           },
           {
-            "title": "Australian judge excludes video of nurses threatening Israeli patients from case",
-            "url": "https://www.jpost.com/diaspora/antisemitism/article-900258",
-            "published": "2026-06-23T14:02:13+00:00",
+            "title": "Trump says Iran agreed to nuclear inspections, Tehran denies deal",
+            "url": "https://www.jpost.com/middle-east/iran-news/article-900265",
+            "published": "2026-06-23T15:34:37+00:00",
             "snippet": ""
           },
           {
-            "title": "Europe condemns settlements, but ignores Zionism’s deeper roots - opinion",
-            "url": "https://www.jpost.com/opinion/article-900142",
-            "published": "2026-06-23T14:00:00+00:00",
+            "title": "Netanyahu warns he would leave Likud if 10-seat demand not accepted, party sources say",
+            "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900271",
+            "published": "2026-06-23T15:29:52+00:00",
             "snippet": ""
           },
           {
-            "title": "Fatal shooting near Acre follows reported threats around major crime case",
-            "url": "https://www.jpost.com/israel-news/crime-in-israel/article-900256",
-            "published": "2026-06-23T13:40:56+00:00",
+            "title": "Anduril eyes former air force chief to head Israel operations",
+            "url": "https://www.jpost.com/defense-and-tech/article-900270",
+            "published": "2026-06-23T15:14:46+00:00",
             "snippet": ""
           },
           {
-            "title": "Israel smuggled Starlink systems into Iran, former PM Bennett says",
-            "url": "https://www.jpost.com/middle-east/iran-news/article-900254",
-            "published": "2026-06-23T13:16:59+00:00",
+            "title": "Lebanon will offer 'golden visa' for six-figure investors, amid economic crisis",
+            "url": "https://www.jpost.com/international/article-900269",
+            "published": "2026-06-23T15:08:54+00:00",
             "snippet": ""
           }
         ],
@@ -786,7 +810,9 @@
             "snippet": "Dogs and cats are facing an increasing risk of blindness due to antibiotic-resistant bacteria."
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       }
     ],
     "Iran": [
@@ -827,7 +853,9 @@
             "snippet": ""
           }
         ],
-        "error": null
+        "error": null,
+        "stale": true,
+        "stale_since": "2026-06-23T12:33:56.167569+00:00"
       },
       {
         "source": "Mehr News",
@@ -836,34 +864,34 @@
         "url": "https://en.mehrnews.com",
         "headlines": [
           {
-            "title": "Pres. Pezeshkian arrives in Islamabad for talks",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc05KRXhoS09SYWtvUmV3bnNRZVBuUk1HdDNlVnZGSm1EWGJCUDRtY0p0eDd5YW95NVNSZjZjQkZxLXZtUzc0ZURoTk5CdjhKTEIyaHlNWktaamdRRDQ3S05RYjZXVlozZ04tYlNaZFZ0NmxLMTRZT1p2UjZ1TE1UNXJLMlM5WDAwM0E?oc=5",
-            "published": "2026-06-23T10:48:00+00:00",
+            "title": "Gaza death toll reaches 73,039 since Oct. 2023: health min.",
+            "url": "https://en.mehrnews.com/news/245563/Gaza-death-toll-reaches-73-039-since-Oct-2023-health-min",
+            "published": "2026-06-23T13:01:05+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Pres. Pezeshkian arrives in Islamabad for high-profile talks",
+            "url": "https://en.mehrnews.com/news/245561/Pres-Pezeshkian-arrives-in-Islamabad-for-talks",
+            "published": "2026-06-23T10:48:11+00:00",
             "snippet": ""
           },
           {
             "title": "Israel hits Lebanon again despite truce",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVEUtRXRWcUhQcmV1VGNrLThGM2E2NmxsX0V2bG0zdndYdVlMZ1Z5MjMyenJHaWw3QWQ0OEpveVdZc3Jzd21LaEg2N0p0UnctYl9qWjZYMHBZb1ZBVVpxSlltTEFEZHdremRCbVkwTW5BTjZ6MjhBUzlkU1hCT2R3Qg?oc=5",
-            "published": "2026-06-23T10:03:00+00:00",
+            "url": "https://en.mehrnews.com/news/245560/Israel-hits-Lebanon-again-despite-truce",
+            "published": "2026-06-23T10:03:42+00:00",
             "snippet": "Israeli troops fired on Lebanese civilians in Nabatieh al-Fawqa, killing one and wounding two, despite a truce."
           },
           {
+            "title": "Ghalibaf meets Sultan of Oman in Muscat for talks (+VIDEO)",
+            "url": "https://en.mehrnews.com/news/245559/Ghalibaf-meets-with-Sultan-of-Oman-in-Muscat-for-talks",
+            "published": "2026-06-23T08:56:59+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Ukraine intensifies drone strikes on Zaporozhye nuclear plant",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamNITkJmb2JGMDJOeWdYV3piSGxaeGZJOTNNWHJmZnV6QXlHaXBScnVUcnBIcXhVc0pDMm9vdzI2MjJTdDdMYUVrT085TmU3dWpVY3BReml3Tl9ZU29MQ1pQeDhyc2x3UWUyUW1RRl90WW9ROUdySTBQSXZzT3JlMm9HNEthb3lFc180WGFqQTMzTG0zM0VvM1JmSVI0QQ?oc=5",
-            "published": "2026-06-23T08:45:00+00:00",
+            "url": "https://en.mehrnews.com/news/245558/Ukraine-intensifies-drone-strikes-on-Zaporozhye-nuclear-plant",
+            "published": "2026-06-23T08:45:49+00:00",
             "snippet": "Ukrainian forces have increased drone strikes targeting facilities at the Zaporozhye Nuclear Power Plant (ZNPP) in the past week."
-          },
-          {
-            "title": "No plans for IAEA inspectors to visit damaged nuclear sites",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG9PalNJbzZnaFpMMzJvLVZVclVteDZtcExEaC1SSTJ1Ri1kTzNNU1ROaG1JYi0zYkxobGtVVDVyNGdfbGxBMTc1Mk8zUkVnQmhEUGZuQ21EY3pyUVppbjI4ek5Hcy1oWkR1QVlLOU0zUlZlVmRiOW14SnZsbm1uV3JMVldjVjBRaTBZdUk3V2MzbUtDRDZOVFY2VQ?oc=5",
-            "published": "2026-06-23T08:23:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Fire kills 14 people at Animation Studio in India’s Lucknow",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVlmTFlKNTFNbnRIVVFzZTNSeFNqbUhvQmpNMXpTMnJULTlvM3d0c2lTQjFqZjRpX2daSXNtN2VfcjdHTmZLUTlTSGtQcTNpeU1QRkJEWVFNaWpzeUY2SWJQUmlCYU9FenkzZGl2TDBsMDltc3EyNUxNTFBiM0Nsc3VGUEJXRThXZnZTUkdYSHFnOUpmNWlSUzBVOA?oc=5",
-            "published": "2026-06-23T08:10:00+00:00",
-            "snippet": ""
           }
         ],
         "error": null
