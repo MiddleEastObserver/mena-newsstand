@@ -133,6 +133,8 @@ STOPWORDS = {
     "council", "parliament", "speaker", "congress", "senate", "cabinet",
     "committee", "assembly", "sultan", "king", "queen", "prince", "princess",
     "crown", "royal", "sheikh", "emir", "ministry", "agency",
+    "prime", "deputy", "chief", "spokesman", "spokeswoman", "spokesperson",
+    "envoy", "ambassador", "adviser", "advisor", "premier", "lawmaker",
     # publisher artifacts that survive as single concatenated tokens
     "farsnews", "almayadeen", "aljazeera", "arabiya", "wam", "petra", "mena",
 }
