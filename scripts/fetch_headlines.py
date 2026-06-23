@@ -525,7 +525,28 @@ def scrub_stale_titles(text: str, source: str = "") -> str:
             return ""
         return m.group(0) if marker in src else ""
 
-    return re.sub(r"\s{2,}", " ", LEADER_TITLE_RE.sub(repl, text)).strip()
+    # Collapse only runs of spaces/tabs left by a removal — NEVER newlines, or
+    # the briefing's paragraph breaks would be lost (it splits on blank lines).
+    return re.sub(r"[^\S\n]{2,}", " ", LEADER_TITLE_RE.sub(repl, text)).strip()
+
+
+def fallback_snippet(description: str) -> str:
+    """A deterministic ~2-sentence snippet taken straight from the feed's own
+    description — no API. Used when the AI snippet is unavailable (e.g. the daily
+    Gemini quota is exhausted) so a headline that has real source text still
+    expands instead of going blank. Returns '' when there's nothing usable."""
+    d = re.sub(r"\s+", " ", (description or "")).strip()
+    if len(d) < 40:
+        return ""
+    out = ""
+    for s in re.split(r"(?<=[.!?])\s+", d):
+        if not out:
+            out = s
+        elif len(out) + len(s) + 1 <= 240:
+            out += " " + s
+        else:
+            break
+    return out[:300].strip()
 
 
 def clean_description(raw: str, title: str) -> str:
@@ -885,6 +906,10 @@ def generate_snippets(regions: dict, existing_output: dict = None) -> dict:
         # no snippet for a headline that already had one (e.g. a carried-over
         # stale headline, or a description that briefly vanished), keep the old one.
         snip = en_snippets[i] or hl.get("snippet", "")
+        if not snip:
+            # AI unavailable (e.g. quota) and no prior snippet — expand from the
+            # feed's own description so the headline still gets a summary.
+            snip = fallback_snippet(descriptions[i])
         # Deterministic backstop: strip any leader office title the model added
         # that the source never stated (e.g. the recurring "former president
         # Trump"). Applied to reused snippets too, so old bad text is corrected.

@@ -261,27 +261,11 @@ def main():
     except Exception as exc:
         print(f"  title scrub skipped ({exc})", file=sys.stderr)
 
-    # English first, then translate into each supported language. Retries above
-    # absorb transient 503/429 blips. If a translation still fails AND the new
-    # English text is unchanged from the previous run, reuse the prior
-    # translation so the language doesn't silently revert to English.
-    try:
-        prev = json.loads(OUT_PATH.read_text(encoding="utf-8"))
-    except Exception:
-        prev = {}
-    prev_by_lang = prev.get("html_by_lang") or {}
-    prev_en = (prev_by_lang.get("en") or prev.get("html") or "").strip()
-
-    new_en = _para_to_html(text)
-    html_by_lang = {"en": new_en}
-    for code, name in LANG_TARGETS.items():
-        translated = translate_text(client, text, name)
-        if translated:
-            html_by_lang[code] = _para_to_html(translated)
-            print(f"  [{code}] translated briefing")
-        elif new_en == prev_en and prev_by_lang.get(code):
-            html_by_lang[code] = prev_by_lang[code]
-            print(f"  [{code}] kept previous translation (refresh failed)")
+    # English only. The site shows English cards and the email uses the English
+    # 'html'; nothing consumes he/ar, so we don't spend Gemini quota translating
+    # the briefing — that keeps the scarce daily free-tier budget for the
+    # briefing itself and the headline snippets, which DO get used.
+    html_by_lang = {"en": _para_to_html(text)}
 
     updated = datetime.now(timezone.utc).isoformat()
     OUT_PATH.write_text(
