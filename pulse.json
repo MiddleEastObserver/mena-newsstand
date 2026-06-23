@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-23T16:59:26.507797+00:00",
+  "updated": "2026-06-23T17:22:29.548309+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 18,
+      "count": 21,
       "headlines": [
         {
           "title": "Sharif warns of ‘spoilers’ attempting to sabotage US-Iran deal",
@@ -21,12 +21,6 @@
         {
           "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "No double standards over Iran having ballistic missiles, says Pakistan's PM",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-says-there-should-not-be-double-standards-over-iran-having",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -55,6 +49,12 @@
           "region": "Levant"
         },
         {
+          "title": "As Iran, US conclude first round of talks, ‘difficult details’ could still threaten negotiations - analysts",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXBjMzhVS3Jsa09Yb2V1VFdBa2w1VmVwMEtNWWtnZzF4NUpOVjZEM0N4a3FJNHhMRk1VOGI4WkJaZ1R3UmpLeUo4eVVvbkMzaGlpVGpxRUlETUhWYllBb0h5QmNCbkxDNWJOem9WUlRnOTgydUNpRjNyRmNrSzFNOXMtTDJEd204LThwWkM5MjdhUURyeTlFZTJwNmNDUjJmaHp0Umpma0VjX1ZuV1QyczFEQ2h5SERUVXpwdDR6Rlo4R3IxY05RdGZzQmRfNjZGVlE?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
           "title": "Among the ruins of Nabatieh, people say 'thank you' to Iran",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTEFsTndhQmtnTDhoaU0xcjVhSFFfNFVIWWxnbnRXQXk5aWRsYXZCZ045LUZFS2kyZXp2QmFoelJESkxaV1g4dXRFMnpkSldEOEtXT09KNENYTlFVNnlMV29PMlcyN0Z3dk44ODFqSVBlVGZyb2ZzTWhqNmNJejVEWDBaTnNXNWhKV29Wd2ZEMnVZUkt4VlowOWtreVBpcHBneHFGclY3XzNJR3FBdWc?oc=5",
           "source": "L'Orient Today",
@@ -65,6 +65,18 @@
           "url": "https://www.egyptindependent.com/the-future-of-oil-prices-may-depend-on-china/",
           "source": "Egypt Independent",
           "region": "Levant"
+        },
+        {
+          "title": "Pakistan, Iran discuss next phase of US-Iran negotiations during Islamabad talks",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZnNWNnlvRmttNmNSQW9HVjhWelc1RGs3eTVtWm9uUTR6YXhXMDJSSENlTjJMbUVfeXVRR3RKMmhJVkFVNlFpenljWE1OMmg2TEhV?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Oman and Iran to pursue talks on managing Strait of Hormuz navigation",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nMTQwcUtuRFhhWFlNYV9BajBfNm5EOVBJSTlvbTZ0UUxVc0U3cVlXM29KUDI1S3RsbTlPYjJZOUJ4QWF6WVo3QmpMWlpPT2c4eWVz?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         },
         {
           "title": "US waiver throws Iran oil exports a lifeline after five-year low",
@@ -109,8 +121,8 @@
           "region": "Iran"
         },
         {
-          "title": "Oman, Iran form ‘joint working group’ to manage Hormuz",
-          "url": "https://en.mehrnews.com/news/245565/Oman-Iran-form-joint-working-group-to-manage-Hormuz",
+          "title": "Iranian source rejects claims of missile talks with US",
+          "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
           "source": "Mehr News",
           "region": "Iran"
         }
@@ -118,12 +130,18 @@
     },
     {
       "term": "Israeli",
-      "count": 11,
+      "count": 12,
       "headlines": [
         {
           "title": "Israeli police clash with anti-draft ultra-Orthodox protesters",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-police-clash-with-anti-draft-ultra-orthodox-protesters?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel-Lebanon ceasefire talks a ‘train wreck’, Israeli ambassador to US says",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -189,20 +207,86 @@
       ]
     },
     {
+      "term": "talks",
+      "count": 11,
+      "headlines": [
+        {
+          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel-Lebanon ceasefire talks a ‘train wreck’, Israeli ambassador to US says",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon-Israel talks resume, Hezbollah demands Israel withdraw",
+          "url": "https://www.newarab.com/news/lebanon-israel-talks-resume-hezbollah-demands-israel-withdraw",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says to oversee Hormuz as Swiss talks conclude",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkh4bnJJdzFleUI3WGJqNVp2d3RreGZGR2Rvc2VtWExDNTJMSF9jMXJtbzR6dURaYm9HWndBcG9aOERtSnFfejJqOTc3ZTR1WUIwQmRpQk9iS0lKdnlkR2dmR0NCRHN3NGQxdVRkTzVjczBGT0t6VzJXQXcwZF9jUXNLME5jazFmY3pLUEhyT28?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "As Iran, US conclude first round of talks, ‘difficult details’ could still threaten negotiations - analysts",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXBjMzhVS3Jsa09Yb2V1VFdBa2w1VmVwMEtNWWtnZzF4NUpOVjZEM0N4a3FJNHhMRk1VOGI4WkJaZ1R3UmpLeUo4eVVvbkMzaGlpVGpxRUlETUhWYllBb0h5QmNCbkxDNWJOem9WUlRnOTgydUNpRjNyRmNrSzFNOXMtTDJEd204LThwWkM5MjdhUURyeTlFZTJwNmNDUjJmaHp0Umpma0VjX1ZuV1QyczFEQ2h5SERUVXpwdDR6Rlo4R3IxY05RdGZzQmRfNjZGVlE?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Pakistan, Iran discuss next phase of US-Iran negotiations during Islamabad talks",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZnNWNnlvRmttNmNSQW9HVjhWelc1RGs3eTVtWm9uUTR6YXhXMDJSSENlTjJMbUVfeXVRR3RKMmhJVkFVNlFpenljWE1OMmg2TEhV?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Oman and Iran to pursue talks on managing Strait of Hormuz navigation",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nMTQwcUtuRFhhWFlNYV9BajBfNm5EOVBJSTlvbTZ0UUxVc0U3cVlXM29KUDI1S3RsbTlPYjJZOUJ4QWF6WVo3QmpMWlpPT2c4eWVz?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "IDF says it hit Hezbollah operatives in Lebanon, as new Jerusalem-Beirut talks begin in DC",
+          "url": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-operatives-in-lebanon-as-new-jerusalem-beirut-talks-begin-in-dc/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Iranian source rejects claims of missile talks with US",
+          "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
+          "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "5th round of Lebanon-Israel talks begins in Washington",
+          "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Gaza",
-      "count": 9,
+      "count": 7,
       "headlines": [
         {
           "title": "Exclusive: Jeremy Corbyn vows to expose UK's complicity in Gaza",
           "url": "https://www.newarab.com/news/exclusive-jeremy-corbyn-vows-expose-uks-complicity-gaza",
           "source": "The New Arab",
           "region": "Pan-Arab"
-        },
-        {
-          "title": "Patriarchs highlight Jordan’s support during Gaza visit",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRF9Db2N5MVhBdW5SY1I1OU1lZEFjRUp2UmtVSmF2SW5NRXNvTG1vMFNKaDBBQWZIZE1ZM0xnREJSTmFkNnR5eEthX3djSkkzUjNOTHRyWXFpVWFxQVdnNmJ5T0gwZmo3ZnZwQkw2ZGg5VXQxQzNLRGtacUJhaUJMVTcxT2FWeEZtQjVLMHd1WTlFeHM?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
         },
         {
           "title": "الاحتلال يخطط لتوسيع سيطرته على غزة وتهيئة الوضع لـ«المدينة الخضراء» في رفح - Al Akhbar",
@@ -235,12 +319,6 @@
           "region": "Israel"
         },
         {
-          "title": "UN Inquiry Says Israel 'Deliberately' Targeted Gaza Children in Acts of Genocide",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVVdrYnQ0YmsyTWdobHVoQjRsdVNDa0Z6N3JlRHFLSXBCVkZCdVgxbzdyU2tWcFE4VURqUk8xM2F2WUFLeFQ0REJPZEVIakM1UDhNdFJoeWRRSktsVEFuTWZMd2tuWGpXYzB6aVhIRE5ZaXJOUGpydUNYRWtkcDZYQzZOUVZHRTdIbVZBYmxmY1g0Nl9TOFFFVHJNdGRidVdXMDI4NnVGYWZ0dGYteE04dW9mTlBLR3dXSzZrbWdzelZ6UWs3NHdMSVJxeG95cHZoOUtoNkVtYUtUZmdUUEJSQmQxNVB4Y1pEbHpDV0NWVU5lSHUw?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
           "title": "Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzlZNDhuZmIwaHJSYk9Bc251QndFdk9iSXhJUUMwS3BfYkdXVnREa2NrWXdHR0t6dWJ5NTYxeG1oZ3VZbkRHSVJZb1AzSlFoQzBDNnB3NEhTdW9CN2RVeU1fLWx1R2V1YmI0RWZ2RFBuX0dDbmFNa29wcUpWR0VlRy0yVlpWbXRxTVk3MlNiOU90aXlMVWdNdkctUTFQdHYxOG9R?oc=5",
           "source": "Tehran Times",
@@ -252,6 +330,12 @@
       "term": "Lebanon",
       "count": 6,
       "headlines": [
+        {
+          "title": "Israel-Lebanon ceasefire talks a ‘train wreck’, Israeli ambassador to US says",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon",
@@ -271,58 +355,10 @@
           "region": "Levant"
         },
         {
-          "title": "الشيخ قاسم: لا خيار أمام إسرائيل إلا الانسحاب الكامل من كل الأراضي اللبنانية ووقف العدوان جواً وبراً وبحراً بشكل كامل، والانسحاب وانتشار الجيش اللبناني وإعادة الأسرى، وعودة الأهالي والإعمار",
-          "url": "https://www.almanar.com.lb/article/972442/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
           "title": "IDF says it hit Hezbollah operatives in Lebanon, as new Jerusalem-Beirut talks begin in DC",
           "url": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-operatives-in-lebanon-as-new-jerusalem-beirut-talks-begin-in-dc/",
           "source": "Times of Israel",
           "region": "Israel"
-        },
-        {
-          "title": "5th round of Lebanon-Israel talks begins in Washington",
-          "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "talks",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
-          "url": "https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon-Israel talks resume, Hezbollah demands Israel withdraw",
-          "url": "https://www.newarab.com/news/lebanon-israel-talks-resume-hezbollah-demands-israel-withdraw",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran says to oversee Hormuz as Swiss talks conclude",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkh4bnJJdzFleUI3WGJqNVp2d3RreGZGR2Rvc2VtWExDNTJMSF9jMXJtbzR6dURaYm9HWndBcG9aOERtSnFfejJqOTc3ZTR1WUIwQmRpQk9iS0lKdnlkR2dmR0NCRHN3NGQxdVRkTzVjczBGT0t6VzJXQXcwZF9jUXNLME5jazFmY3pLUEhyT28?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "IDF says it hit Hezbollah operatives in Lebanon, as new Jerusalem-Beirut talks begin in DC",
-          "url": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-operatives-in-lebanon-as-new-jerusalem-beirut-talks-begin-in-dc/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
-          "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
-          "source": "Mehr News",
-          "region": "Iran"
         },
         {
           "title": "5th round of Lebanon-Israel talks begins in Washington",
@@ -334,7 +370,7 @@
     },
     {
       "term": "Strait of Hormuz",
-      "count": 5,
+      "count": 6,
       "headlines": [
         {
           "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
@@ -355,6 +391,12 @@
           "region": "Levant"
         },
         {
+          "title": "Oman and Iran to pursue talks on managing Strait of Hormuz navigation",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nMTQwcUtuRFhhWFlNYV9BajBfNm5EOVBJSTlvbTZ0UUxVc0U3cVlXM29KUDI1S3RsbTlPYjJZOUJ4QWF6WVo3QmpMWlpPT2c4eWVz?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
           "title": "11 India-bound ships transit Strait of Hormuz after US-Iran MoU; 10 vessels remain in Gulf: MEA",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXR1NXpRU0VTXy05S0ZYdjhpSDljNkJESklQV0tOOWdjNUR4azUybEJpdGQtY0pVWWRQdU42MFFtYUhKT1RKWTZmTWN3OGNuUlJaYjQ2VEdRRHZuX0NZZTJSVTZNRXk2UDhpSnFEYW1RdzhuU294TnQxTGdfUFcxclAtV3hEMmk2Y0FCdnBHUGdzbzNwS1NaTmpBNm9lZ2dLeVhWWVhlYWN2Wl8tdlFDT3ZZTXAycDFLRTVlSzRrQjlXVnNxQ1JYbHBYSXA?oc=5",
           "source": "Times of Oman",
@@ -365,6 +407,150 @@
           "url": "https://en.mehrnews.com/news/245565/Oman-Iran-form-joint-working-group-to-manage-Hormuz",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "US-Iran",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Sharif warns of ‘spoilers’ attempting to sabotage US-Iran deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Pakistan, Iran discuss next phase of US-Iran negotiations during Islamabad talks",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZnNWNnlvRmttNmNSQW9HVjhWelc1RGs3eTVtWm9uUTR6YXhXMDJSSENlTjJMbUVfeXVRR3RKMmhJVkFVNlFpenljWE1OMmg2TEhV?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "11 India-bound ships transit Strait of Hormuz after US-Iran MoU; 10 vessels remain in Gulf: MEA",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXR1NXpRU0VTXy05S0ZYdjhpSDljNkJESklQV0tOOWdjNUR4azUybEJpdGQtY0pVWWRQdU42MFFtYUhKT1RKWTZmTWN3OGNuUlJaYjQ2VEdRRHZuX0NZZTJSVTZNRXk2UDhpSnFEYW1RdzhuU294TnQxTGdfUFcxclAtV3hEMmk2Y0FCdnBHUGdzbzNwS1NaTmpBNm9lZ2dLeVhWWVhlYWN2Wl8tdlFDT3ZZTXAycDFLRTVlSzRrQjlXVnNxQ1JYbHBYSXA?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "negotiations",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel-Lebanon ceasefire talks a ‘train wreck’, Israeli ambassador to US says",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "As Iran, US conclude first round of talks, ‘difficult details’ could still threaten negotiations - analysts",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYXBjMzhVS3Jsa09Yb2V1VFdBa2w1VmVwMEtNWWtnZzF4NUpOVjZEM0N4a3FJNHhMRk1VOGI4WkJaZ1R3UmpLeUo4eVVvbkMzaGlpVGpxRUlETUhWYllBb0h5QmNCbkxDNWJOem9WUlRnOTgydUNpRjNyRmNrSzFNOXMtTDJEd204LThwWkM5MjdhUURyeTlFZTJwNmNDUjJmaHp0Umpma0VjX1ZuV1QyczFEQ2h5SERUVXpwdDR6Rlo4R3IxY05RdGZzQmRfNjZGVlE?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Pakistan, Iran discuss next phase of US-Iran negotiations during Islamabad talks",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZnNWNnlvRmttNmNSQW9HVjhWelc1RGs3eTVtWm9uUTR6YXhXMDJSSENlTjJMbUVfeXVRR3RKMmhJVkFVNlFpenljWE1OMmg2TEhV?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "5th round of Lebanon-Israel talks begins in Washington",
+          "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "ceasefire",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Israel-Lebanon ceasefire talks a ‘train wreck’, Israeli ambassador to US says",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Sharif warns of ‘spoilers’ attempting to sabotage US-Iran deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "‘What ceasefire?’: In northern Israel, locals doubt an agreement can end the war with Hezbollah",
+          "url": "https://www.egyptindependent.com/what-ceasefire-in-northern-israel-locals-doubt-an-agreement-can-end-the-war-with-hezbollah/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "'We are being abandoned': Northern Israel emergency response squads denounce reduced mobilization",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900292",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Hezbollah",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Lebanon-Israel talks resume, Hezbollah demands Israel withdraw",
+          "url": "https://www.newarab.com/news/lebanon-israel-talks-resume-hezbollah-demands-israel-withdraw",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel includes Majdal Zoun in 'buffer zone,' claims Hezbollah tunnel found: Why is it suddenly focusing on the village?",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUDQtV2pKVVhVSXZjTjhQOERJRWluN2djTHdlOXA5LWE2ZENoNjVkYkJBaG5MU3ZPNVlhNE5NeXJZZkx6UnhYMlRGcFBiSUtpd0ZsajBKS1JuRmtJS0pqWVM1bnR6Z3NUTTI1UWhQeXpfTjk3MWxxWk5OZWJQNXVHbmpWTnVWVUJLaEl4UzktZURoLWxDWklOY213QlJIUWJadzRsZVRSWnRBaXBPemFWZzVYVVp4ZGR3SFNYUEQyc09TOVBuUDJsNTdJX1drU1IyVHlVT1U3SXhKZ1VtMWlLRk4tVE1SZ29DTkh0alI2U2pFR1I4?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "‘What ceasefire?’: In northern Israel, locals doubt an agreement can end the war with Hezbollah",
+          "url": "https://www.egyptindependent.com/what-ceasefire-in-northern-israel-locals-doubt-an-agreement-can-end-the-war-with-hezbollah/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "'We are being abandoned': Northern Israel emergency response squads denounce reduced mobilization",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900292",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "IDF says it hit Hezbollah operatives in Lebanon, as new Jerusalem-Beirut talks begin in DC",
+          "url": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-operatives-in-lebanon-as-new-jerusalem-beirut-talks-begin-in-dc/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -392,129 +578,9 @@
         },
         {
           "title": "بوتين: الغرب يستعد للحرب مع روسيا - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdF9aYlBtZlN4OElsMTJFNnVSY0d5M2JIQk9SYzU0N3VvcFplWFlpV3dWMnAycjZJYUVIQTgwTGcwdjUzZlV3SFQ0eW9LMGhKWDBWQnpB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xWERPVlE4Qi1seEZFLXJWSFNNSTE3cWhOUUoyS0hVaEJ3VFVfWkhiWmhaRV9TeFlTcl8yOWRZU2U2a25MeHE0MkhoMENQLXFHWGtETHdSSQ?oc=5",
           "source": "Al-Akhbar",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "US-Iran",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Sharif warns of ‘spoilers’ attempting to sabotage US-Iran deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
-          "url": "https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "11 India-bound ships transit Strait of Hormuz after US-Iran MoU; 10 vessels remain in Gulf: MEA",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXR1NXpRU0VTXy05S0ZYdjhpSDljNkJESklQV0tOOWdjNUR4azUybEJpdGQtY0pVWWRQdU42MFFtYUhKT1RKWTZmTWN3OGNuUlJaYjQ2VEdRRHZuX0NZZTJSVTZNRXk2UDhpSnFEYW1RdzhuU294TnQxTGdfUFcxclAtV3hEMmk2Y0FCdnBHUGdzbzNwS1NaTmpBNm9lZ2dLeVhWWVhlYWN2Wl8tdlFDT3ZZTXAycDFLRTVlSzRrQjlXVnNxQ1JYbHBYSXA?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "ceasefire",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Sharif warns of ‘spoilers’ attempting to sabotage US-Iran deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "‘What ceasefire?’: In northern Israel, locals doubt an agreement can end the war with Hezbollah",
-          "url": "https://www.egyptindependent.com/what-ceasefire-in-northern-israel-locals-doubt-an-agreement-can-end-the-war-with-hezbollah/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "'We are being abandoned': Northern Israel emergency response squads denounce reduced mobilization",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900292",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Iranian",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Iran will never negotiate defensive ability, president says",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-never-negotiate-defensive-ability-president-says",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
-          "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "We are ready for preemptive, surprise ops.: Gen. Pourdastan",
-          "url": "https://en.mehrnews.com/news/245562/We-are-ready-for-preemptive-surprise-ops-Gen-Pourdastan",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Hezbollah",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Lebanon-Israel talks resume, Hezbollah demands Israel withdraw",
-          "url": "https://www.newarab.com/news/lebanon-israel-talks-resume-hezbollah-demands-israel-withdraw",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "‘What ceasefire?’: In northern Israel, locals doubt an agreement can end the war with Hezbollah",
-          "url": "https://www.egyptindependent.com/what-ceasefire-in-northern-israel-locals-doubt-an-agreement-can-end-the-war-with-hezbollah/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "'We are being abandoned': Northern Israel emergency response squads denounce reduced mobilization",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900292",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "IDF says it hit Hezbollah operatives in Lebanon, as new Jerusalem-Beirut talks begin in DC",
-          "url": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-operatives-in-lebanon-as-new-jerusalem-beirut-talks-begin-in-dc/",
-          "source": "Times of Israel",
-          "region": "Israel"
         }
       ]
     },
@@ -549,26 +615,74 @@
       ]
     },
     {
-      "term": "Russia",
+      "term": "Lebanon-Israel",
       "count": 3,
       "headlines": [
         {
-          "title": "Missile strike kills three in Ukraine as Russia feels war’s economic strain",
-          "url": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "US Yet to Deliver ‘Alaska Promises’ on Ukraine: Russia",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2U0Y2pnRUtiX3hGbWVpQjNsSnFiNV9uV3NUMGpQRkdKOFFBZ2FLZXpnRm42OEdHcmhnbi04UXdOdXJLZ3VBbGJaYU1RbGxKdEhvRE5UQkNnUmxaZUNxT2VwUkpvUm5vX2VGeGJCeF8wVVhJV2Z2TjMyQlF1dFg0ZXFCTEVIb2hFWTBOOHdOdW1Ra014MkVuWHR4UWRQajJsYnBUM1Bva9IBrAFBVV95cUxOcXl3d01IdmlaXzJ6YTJLNEcxdzZfcHEwUWNDVUUwRkFHREtlVzdnNjVKdXQ2WFB3RHNyU0Q1b1c5WkxWMDNlNTYwSGo4RFpXVjR0RVhsTmRZdUROcU5RV3FUYTRBRDlzX2JLVE1aNFI0dVcxdkxtVFloeGFSMkk5U0VyQ2VtcW50RjVaakQ0VkdocWpBTkVoRjF1QmJmZWhhZ2tIenlsSXBpZ19u?oc=5",
-          "source": "Al Arabiya",
+          "title": "Lebanon-Israel talks resume, Hezbollah demands Israel withdraw",
+          "url": "https://www.newarab.com/news/lebanon-israel-talks-resume-hezbollah-demands-israel-withdraw",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "بوتين: الغرب يستعد للحرب مع روسيا - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdF9aYlBtZlN4OElsMTJFNnVSY0d5M2JIQk9SYzU0N3VvcFplWFlpV3dWMnAycjZJYUVIQTgwTGcwdjUzZlV3SFQ0eW9LMGhKWDBWQnpB?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
+          "title": "5th round of Lebanon-Israel talks begins in Washington",
+          "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Pakistani",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Sharif warns of ‘spoilers’ attempting to sabotage US-Iran deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iranian source rejects claims of missile talks with US",
+          "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
+          "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Iranian",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran will never negotiate defensive ability, president says",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-never-negotiate-defensive-ability-president-says",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iranian source rejects claims of missile talks with US",
+          "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
+          "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -621,30 +735,6 @@
       ]
     },
     {
-      "term": "Lebanon-Israel",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
-          "url": "https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon-Israel talks resume, Hezbollah demands Israel withdraw",
-          "url": "https://www.newarab.com/news/lebanon-israel-talks-resume-hezbollah-demands-israel-withdraw",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "5th round of Lebanon-Israel talks begins in Washington",
-          "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Palestinian",
       "count": 3,
       "headlines": [
@@ -693,30 +783,6 @@
       ]
     },
     {
-      "term": "Washington",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "IDF says it hit Hezbollah operatives in Lebanon, as new Jerusalem-Beirut talks begin in DC",
-          "url": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-operatives-in-lebanon-as-new-jerusalem-beirut-talks-begin-in-dc/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "5th round of Lebanon-Israel talks begins in Washington",
-          "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "West Bank",
       "count": 3,
       "headlines": [
@@ -741,31 +807,7 @@
       ]
     },
     {
-      "term": "Saudi Arabia",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Marriott International, Blacksand ink $1.33bn deal for 10 hotels in Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jSXZyT0dET2JEZ0pnOEdsR1dVU3NxLUlwM1g2LWN6bVY4RGd4b19DX1JucThiOHJkR0IyUHdKeXRBQzJLcl9oUUJKVWhlTDZWWEhv?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "International demand key to unlocking value in Saudi tourism sector, FHS panelists say",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pWFRGTzF6elBjTmdHa2VzMng1N0lmZngtR19yc3BQRG9XcDJtVUlQOHhFcHJjSXd5emZ1U0dQTlBORWFWWVd2Ni1WbjQtcklFd1hn?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Saudi Arabia approves first joint satellite project with Egypt",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmVDUlItcEpNaDd3V245QmdQV0cwM0o2N1FSMzREYnhtQjEtV0FmV2FNaDVhVmNWMDRGS242SHJvSWV4bi02NE1LRjhaYWdqbWdZSm5Cd003ajVpbU41OFdCN05uUVhNS2lXYS1lVWQ0RkJCQS00Z21kR0lFT3d5MkdLcG84Y0JSR0ZxMEpnQ2lyOXJWV2NqekpMb2F2Ny15REJVV2JvQmhEd016Q1JNUGRtd0hGcjkybUVuek9NRE16a2RMZEo40gHHAUFVX3lxTE9mZUNSUi1wSk1oN3dXbjlCZ1BXRzAzSjY3UVIzNERieG1CMS1XQWZXYU1oNWFWY1YwNEZLbjZIcm9JZXhuLTY0TUtGOFphZ2ptZ1lKbkJ3TTdqNWltTjU4V0I3Tm5RWE1LaVdhLWVVZDRGQkJBLTRnbWRHSUVPd3kyR0twbzhjQlJHRnEwSmdDaXI5clZXY2p6SkxvYXY3LXlEQlVXYm9CaER3TXpDUk1QZG13SEZyOTJtRW56T01ETXprZExkSjg?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Ukraine",
+      "term": "missile",
       "count": 2,
       "headlines": [
         {
@@ -775,10 +817,28 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "US Yet to Deliver ‘Alaska Promises’ on Ukraine: Russia",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2U0Y2pnRUtiX3hGbWVpQjNsSnFiNV9uV3NUMGpQRkdKOFFBZ2FLZXpnRm42OEdHcmhnbi04UXdOdXJLZ3VBbGJaYU1RbGxKdEhvRE5UQkNnUmxaZUNxT2VwUkpvUm5vX2VGeGJCeF8wVVhJV2Z2TjMyQlF1dFg0ZXFCTEVIb2hFWTBOOHdOdW1Ra014MkVuWHR4UWRQajJsYnBUM1Bva9IBrAFBVV95cUxOcXl3d01IdmlaXzJ6YTJLNEcxdzZfcHEwUWNDVUUwRkFHREtlVzdnNjVKdXQ2WFB3RHNyU0Q1b1c5WkxWMDNlNTYwSGo4RFpXVjR0RVhsTmRZdUROcU5RV3FUYTRBRDlzX2JLVE1aNFI0dVcxdkxtVFloeGFSMkk5U0VyQ2VtcW50RjVaakQ0VkdocWpBTkVoRjF1QmJmZWhhZ2tIenlsSXBpZ19u?oc=5",
-          "source": "Al Arabiya",
+          "title": "Iranian source rejects claims of missile talks with US",
+          "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Russia",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Missile strike kills three in Ukraine as Russia feels war’s economic strain",
+          "url": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "بوتين: الغرب يستعد للحرب مع روسيا - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xWERPVlE4Qi1seEZFLXJWSFNNSTE3cWhOUUoyS0hVaEJ3VFVfWkhiWmhaRV9TeFlTcl8yOWRZU2U2a25MeHE0MkhoMENQLXFHWGtETHdSSQ?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
         }
       ]
     },
@@ -801,20 +861,20 @@
       ]
     },
     {
-      "term": "African",
+      "term": "Switzerland",
       "count": 2,
       "headlines": [
         {
-          "title": "South African police investigate murder amid rise in anti-migrant attacks",
-          "url": "https://www.aljazeera.com/news/2026/6/23/south-african-police-investigate-murder-amid-rise-in-anti-migrant-attacks?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "South African police probe murder of foreign national amid xenophobic unrest",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aOHpOZVg0Q0ZkVzB0ZUlESmRzN1dXN1Y2bG1tZUVhWnAzY3lRdnk3M202TE5feXFzb09hRWdKZ3dBbjNpVnlwY1NtaWFSaDhaQzhr?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "Lebanon-Israel talks resume, Hezbollah demands Israel withdraw",
+          "url": "https://www.newarab.com/news/lebanon-israel-talks-resume-hezbollah-demands-israel-withdraw",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -829,26 +889,8 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "No double standards over Iran having ballistic missiles, says Pakistan's PM",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-says-there-should-not-be-double-standards-over-iran-having",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Pakistani",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Sharif warns of ‘spoilers’ attempting to sabotage US-Iran deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
-          "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
+          "title": "Iranian source rejects claims of missile talks with US",
+          "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
           "source": "Mehr News",
           "region": "Iran"
         }
@@ -865,10 +907,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "No double standards over Iran having ballistic missiles, says Pakistan's PM",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-says-there-should-not-be-double-standards-over-iran-having",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Iranian source rejects claims of missile talks with US",
+          "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -909,78 +951,6 @@
       ]
     },
     {
-      "term": "negotiations",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
-          "url": "https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "5th round of Lebanon-Israel talks begins in Washington",
-          "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Switzerland",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
-          "url": "https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon-Israel talks resume, Hezbollah demands Israel withdraw",
-          "url": "https://www.newarab.com/news/lebanon-israel-talks-resume-hezbollah-demands-israel-withdraw",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Pakistan",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "No double standards over Iran having ballistic missiles, says Pakistan's PM",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-says-there-should-not-be-double-standards-over-iran-having",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "ACI urges 'stronger' economic ties, direct air link with Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTBuU1lrS3FJSmpLcDlkQUxma25VaURPWjlta3MyeDUxLXltd254ODFMNHhVcnJuZGNzYU5IUHk4eUxrcDVBN1E1aGU1S0FTQkljS2VsdXMtSjJULWpPeUVXdUhMdUVRSTFVcTNEY3RRdDBhZEFiSWdDdW1PX09PQmxzZmVGX29hb2FpOHRrMkRWMlpZa0hTcnpDTlk0c1ZqX3c?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "sanctions",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Will Iran Get Sanctions Relief?",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVEtU0lIVjNDVWxQZG53OTAzQ3ZyRTFsTjlCbnllRlJjUEh3dXpxUEY1dFJvOTBJU1dHRlItMHdTUE1YYVBlazkwd2I4MHAwT0tiUFpQVktOLXlRQ3BTb0V2ejZSc2pvUHYtSFV6c2dJRUdmM0l4TmR0V3VnUkFVUTh3UlhaRHZGelJr0gGQAUFVX3lxTE1LcEVTWFRuM0g3cGE3M2ttNTRON0d1TDBIVkJ5YV9ORG90S2FoZ0RjdkFBd0VFX2dZRnlsZW5iaTNvMWNDOVI0Mk8yQjA0Q1JGbWtBZURSeFp2a2cza3p0cF9GSUVFZ3RvbHZ4Y05zT2RrZmR3LUlnMGdVODJMdnVrUE9DUDZJTXg0MzN0VVNOUQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Palestinians",
       "count": 2,
       "headlines": [
@@ -1017,56 +987,20 @@
       ]
     },
     {
-      "term": "Keir",
+      "term": "Pakistan",
       "count": 2,
       "headlines": [
         {
-          "title": "Keir Starmer was the architect of his own downfall",
-          "url": "https://www.newarab.com/opinion/keir-starmer-was-architect-his-own-downfall",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Why the forces that felled Keir Starmer threaten so many Western leaders",
-          "url": "https://www.egyptindependent.com/why-the-forces-that-felled-keir-starmer-threaten-so-many-western-leaders/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Starmer",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Keir Starmer was the architect of his own downfall",
-          "url": "https://www.newarab.com/opinion/keir-starmer-was-architect-his-own-downfall",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Why the forces that felled Keir Starmer threaten so many Western leaders",
-          "url": "https://www.egyptindependent.com/why-the-forces-that-felled-keir-starmer-threaten-so-many-western-leaders/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Lebanese",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Packaging and packing: Lebanese companies take home awards at major international competition",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ21aS0FZZkFnakcyajBmQXJ0cjNaTkE3aUxma2lwd2VqWG5wVEZ3LWZJWGY2STV3b1JYcHlWU1RMRnFfM3ZFMWdLcjhxbFItTE9Sd2FnVVdUWmMxM1FKVWgyYVlWT2FDQ3dKNDhDN1NBTzlxNlY5Ujd4VmZ0T2hMQlJSNEQ2c01oU3AtbDNhUE5WQWhPQm5XQ2VyenpFamtHSXVmeGtvQ0MzRWx4WGNKWGZZVjFyMWtyTFVscGpmMVE5M29Id1JZNUNUcWZOZ1FsZ2ZzbFVCOFpFM3FrbHc?oc=5",
-          "source": "L'Orient Today",
+          "title": "ACI urges 'stronger' economic ties, direct air link with Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTBuU1lrS3FJSmpLcDlkQUxma25VaURPWjlta3MyeDUxLXltd254ODFMNHhVcnJuZGNzYU5IUHk4eUxrcDVBN1E1aGU1S0FTQkljS2VsdXMtSjJULWpPeUVXdUhMdUVRSTFVcTNEY3RRdDBhZEFiSWdDdW1PX09PQmxzZmVGX29hb2FpOHRrMkRWMlpZa0hTcnpDTlk0c1ZqX3c?oc=5",
+          "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "الشيخ قاسم: لا خيار أمام إسرائيل إلا الانسحاب الكامل من كل الأراضي اللبنانية ووقف العدوان جواً وبراً وبحراً بشكل كامل، والانسحاب وانتشار الجيش اللبناني وإعادة الأسرى، وعودة الأهالي والإعمار",
-          "url": "https://www.almanar.com.lb/article/972442/",
-          "source": "Al Manar",
-          "region": "Levant"
+          "title": "Pakistan, Iran discuss next phase of US-Iran negotiations during Islamabad talks",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZnNWNnlvRmttNmNSQW9HVjhWelc1RGs3eTVtWm9uUTR6YXhXMDJSSENlTjJMbUVfeXVRR3RKMmhJVkFVNlFpenljWE1OMmg2TEhV?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -1089,19 +1023,19 @@
       ]
     },
     {
-      "term": "oil",
+      "term": "Putin",
       "count": 2,
       "headlines": [
         {
-          "title": "Washington suspends sanctions on Iranian oil until Aug. 21",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHJ5bk1Nd0pRLTAwVlF5d1NNS2NXWUNfYmdScGJmV2tFMmYzU1ZGcnhNQjdtdGt0ZElVaUJSOUJMaVRLVmxIQ2RBcFRWX25IX184MnI0S3JZM2M4eEFfZGlPVlJGXzg4N1kyLU8tWDdDSWlDa3hFSlplZTY1czRiRGZnYmRjaFhLS3IzaEFaWVpWYXJDbXQyeHcyQjJhRFBGcGljY0JjbVBrX1p2VmFiUFJXam1SbFFfZGVlam5WQ0ZDWHA4TU5XN1VYZDV0M3B0OVRSMXZ3Q012WnZiQjd1RnlXUzlVdGtNWlFjXzJXdkhxUk94ZVR0UmUtOXA4YlFIaFBDYUQyZzB3REZkR3N5Q2V5VFBGTzN1RG1NZVFtMmhKWDhoby1UeURVYw?oc=5",
-          "source": "L'Orient Today",
+          "title": "بوتين: الغرب يستعد للحرب مع روسيا - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xWERPVlE4Qi1seEZFLXJWSFNNSTE3cWhOUUoyS0hVaEJ3VFVfWkhiWmhaRV9TeFlTcl8yOWRZU2U2a25MeHE0MkhoMENQLXFHWGtETHdSSQ?oc=5",
+          "source": "Al-Akhbar",
           "region": "Levant"
         },
         {
-          "title": "US waiver throws Iran oil exports a lifeline after five-year low",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejhHVEpNcURkRk1iWF9ROExCVE15UVlDcS1TM1JxeGNFVXJ2aFZFSDBodU84aUZYa25qOHZkOFNlOXFWRzlQNmJlNjZGeU1RbUU0M1NGNGMzSTlSVGFFTThpQzJ4Mng5X1dMNHh0Ym9RUUVyWlJMU1hsZ0VjZTh1MV9ZazFiRndSQTBLdlFPdjB1UUtOei1Wdk5WMGdNYXlxZUYwTGV3ZG9WNFZaV055NHpzVFB6V1lOQUVIYnFUQlVWdw?oc=5",
-          "source": "The National",
+          "title": "Leader of Russia-backed Georgian region resigns to become Putin adviser",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Tb2pqTXRSckRvbVVpdG1aVHo2dm1RbzNETUhlVjZrVFEzMWFNYjM2ZFVDbnVtVUlGdDR2Zk9rd3BDTEhwQmRiRThDVHdxUHpfRkk0?oc=5",
+          "source": "Arab News",
           "region": "Gulf"
         }
       ]
@@ -1125,38 +1059,20 @@
       ]
     },
     {
-      "term": "Qassem",
+      "term": "Islamabad",
       "count": 2,
       "headlines": [
         {
-          "title": "الشيخ قاسم: لدى السلطة السياسية في لبنان ضمانة مجرّبة اسمها المقاومة، منعت إسرائيل من تحقيق أهدافها، نقول لكم استفيدوا من هذه المقاومة لتكونوا أقوياء في مواجهة التحديات",
-          "url": "https://www.almanar.com.lb/article/972452/",
-          "source": "Al Manar",
-          "region": "Levant"
+          "title": "Pakistan, Iran discuss next phase of US-Iran negotiations during Islamabad talks",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZnNWNnlvRmttNmNSQW9HVjhWelc1RGs3eTVtWm9uUTR6YXhXMDJSSENlTjJMbUVfeXVRR3RKMmhJVkFVNlFpenljWE1OMmg2TEhV?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         },
         {
-          "title": "الشيخ قاسم: لا خيار أمام إسرائيل إلا الانسحاب الكامل من كل الأراضي اللبنانية ووقف العدوان جواً وبراً وبحراً بشكل كامل، والانسحاب وانتشار الجيش اللبناني وإعادة الأسرى، وعودة الأهالي والإعمار",
-          "url": "https://www.almanar.com.lb/article/972442/",
-          "source": "Al Manar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "prisoners",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "الشيخ قاسم: لا خيار أمام إسرائيل إلا الانسحاب الكامل من كل الأراضي اللبنانية ووقف العدوان جواً وبراً وبحراً بشكل كامل، والانسحاب وانتشار الجيش اللبناني وإعادة الأسرى، وعودة الأهالي والإعمار",
-          "url": "https://www.almanar.com.lb/article/972442/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinian Detainees Commission says women prisoners face catastrophic conditions in Damon Prison - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSVGdqeWhKVEZJVXc1b3RSSm1tbk9PT1VaRDBYd3F1MkFRNnZ1LUFZWHpXZlA4anNmcHFYV3NtX0hEcmRhYlNwem9GU2FmSzVKaExvRC1qNA?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
+          "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -1233,20 +1149,74 @@
       ]
     },
     {
-      "term": "genocide",
+      "term": "IDF",
       "count": 2,
       "headlines": [
         {
-          "title": "Israel targeted Gaza children, resulting in genocide, UN inquiry claims",
-          "url": "https://www.jpost.com/middle-east/article-900287",
+          "title": "'We are being abandoned': Northern Israel emergency response squads denounce reduced mobilization",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-900292",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
         {
-          "title": "UN Inquiry Says Israel 'Deliberately' Targeted Gaza Children in Acts of Genocide",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVVdrYnQ0YmsyTWdobHVoQjRsdVNDa0Z6N3JlRHFLSXBCVkZCdVgxbzdyU2tWcFE4VURqUk8xM2F2WUFLeFQ0REJPZEVIakM1UDhNdFJoeWRRSktsVEFuTWZMd2tuWGpXYzB6aVhIRE5ZaXJOUGpydUNYRWtkcDZYQzZOUVZHRTdIbVZBYmxmY1g0Nl9TOFFFVHJNdGRidVdXMDI4NnVGYWZ0dGYteE04dW9mTlBLR3dXSzZrbWdzelZ6UWs3NHdMSVJxeG95cHZoOUtoNkVtYUtUZmdUUEJSQmQxNVB4Y1pEbHpDV0NWVU5lSHUw?oc=5",
+          "title": "IDF says it hit Hezbollah operatives in Lebanon, as new Jerusalem-Beirut talks begin in DC",
+          "url": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-operatives-in-lebanon-as-new-jerusalem-beirut-talks-begin-in-dc/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Washington",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "IDF says it hit Hezbollah operatives in Lebanon, as new Jerusalem-Beirut talks begin in DC",
+          "url": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-operatives-in-lebanon-as-new-jerusalem-beirut-talks-begin-in-dc/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "5th round of Lebanon-Israel talks begins in Washington",
+          "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Bennett",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Bennett Angers Far-right by Saying 'Some' West Bank Outposts Should Be Removed",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVnBnMjV2RFM3X0l4RTJZeUtTTGRhYVlvSEdLMU44d2FTZGNuYXNxM1hiRlZ5UEpWVWpiNHRFVGIwcVhOZEhWUnl5TUpEa0hwOTN6Y0YwcXNxZmdITU1LZXp1WjltcVFXd2VQRlB0RHlERnUxZWo1RnpBMjRDa0pvUkhVUHdVNTVUQjVDZXdTWHZ3YXpjcTFEWXlDSDdWRWV2SXduUUZPTGVVbEpuS3U0QzYzRGphQk15MkF0STdkbnQ5S2Z3NUFBcnZiOVlHTU05X3BQdDViRW83SjB6dHEtMV92al92eUd6dnZBdUY1QVRTVXpVbXhpODI0dnZlM2hLVnVyQkN0TUVsVHFHYzRTaDdoOHFEYnVXclE?oc=5",
           "source": "Haaretz",
           "region": "Israel"
+        },
+        {
+          "title": "Israel Smuggled Starlink Systems Into Iran, Former PM Says",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbE9WczNWNm1pNWctRFlFNlNWck04MjAtTDhaRnZUUTMxc25iTzVRMXlSTkVMX2t0ejRNdVI4UTB2ME9TVmJNbjg1R1IxVk5OT2Fzb1laZE5XVEhuY095UzhiTHlQRHRvdnlVTkVwZnhtdEo5cUd6dUpqaFZybGtOX01Nc1QtSjNReC1TYmo5c3k4eXhxSHdxdmgtM2Vmb1NrYnN5VGhUSG4xSk5jMzh6SXRfaU9va2Z2eDd3QmxqcHBrelRyMHFFZ1ZZWDVhSjBaMkVjbzBUaG9PcDVXSmxOLThNQjU0d2s?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "MNA",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iranian source rejects claims of missile talks with US",
+          "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
+          "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     }
