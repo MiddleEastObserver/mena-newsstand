@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T13:02:57.593576+00:00",
+  "updated": "2026-06-23T13:33:48.975060+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,18 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Kenya minister says US-run Ebola facility plans halted after court order",
+            "url": "https://www.aljazeera.com/news/2026/6/23/kenya-minister-says-us-run-ebola-facility-plans-halted-after-court-order?traffic_source=rss",
+            "published": "2026-06-23T13:30:54+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "What the US and Iran agreed – and disagreed – on first day of talks",
+            "url": "https://www.aljazeera.com/news/2026/6/23/what-the-us-and-iran-agreed-and-disagreed-on-first-day-of-talks?traffic_source=rss",
+            "published": "2026-06-23T13:12:18+00:00",
+            "snippet": ""
+          },
           {
             "title": "Former PM says Israel smuggled Starlink internet systems into Iran",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/former-pm-says-israel-smuggled-starlink-internet-systems-into-iran?traffic_source=rss",
@@ -25,18 +37,6 @@
             "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
             "published": "2026-06-23T11:55:55+00:00",
             "snippet": ""
-          },
-          {
-            "title": "NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC",
-            "url": "https://www.aljazeera.com/news/2026/6/23/nyc-mayor-zohran-mamdani-doubles-down-on-criticism-of-aipac?traffic_source=rss",
-            "published": "2026-06-23T11:35:13+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Why is Israel being accused of meddling in Colombia presidential election?",
-            "url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss",
-            "published": "2026-06-23T11:16:27+00:00",
-            "snippet": ""
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "UN inquiry: Israel deliberately targeted Palestinian children as part of genocide",
+            "url": "https://www.middleeasteye.net/news/israel-deliberately-targeted-palestinian-children-part-genocide-un-inquiry-finds",
+            "published": "2026-06-23T13:12:11+00:00",
+            "snippet": ""
+          },
           {
             "title": "UK judge renews contempt proceedings against Palestine Action lawyer",
             "url": "https://www.middleeasteye.net/news/judge-renews-contempt-proceedings-against-palestine-action-lawyer",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/news/how-israel-turned-gazas-crossings-interrogation-and-torture-hubs",
             "published": "2026-06-23T11:51:18+00:00",
             "snippet": ""
-          },
-          {
-            "title": "How Andy Burnham could set Britain on a new course on Israel and Palestine",
-            "url": "https://www.middleeasteye.net/news/how-andy-burnham-could-set-britain-new-course-israel-and-palestine",
-            "published": "2026-06-23T11:35:38+00:00",
-            "snippet": ""
           }
         ],
         "error": null
@@ -87,39 +87,37 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
-            "title": "Oman, Iran to hold talks regarding future management of Strait of Hormuz",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHNkYUhvU2xXTmZYcm9EZTZLX3hJbm9EZkVaUU90Ni0zRU01NzYxbmxYTnl3WjhoOHg5d1lRVE50Q29qakhkc1A2Y2NiTUsxekRzdndhdm1aXzMyUHBsSEhWU1k4b2tfZy1ubW1RZjFZSTFZMEI3UzdVWG9PTkhHQnJxVHdON1hvVnl2VGphY0VTNVcxT3NjcDk1THB4QUlQdlg0YlYwNG1JS3hELXUzNUpTOVhIUFdTdE9LQzBBSU1sUU9xaENySNIBzgFBVV95cUxNbzVXYVpNZkZJWmZQakpoNDRkN2tLYnY3ZnExMDZycnZZS29nWXpaVVA0Mzk2N0w1UlBaQ19rajRsdllyTVdfc2VybE9CWHQ0bGlpTmo4d1d1VmtjSVJNMVQ5bHk3UmF2WWVXUGRmRm1RQ01tZVpYLVVCV25RVlBQU3EzUjNqRUlUalNFOWJqR0hjZDNaQzB5MVNLVk1RdTBZanlGVjdIYzhFRVU3b2pETjhBaHljZENQWHFGLW85TC1xRVJGZTRPSl9qMnRyUQ?oc=5",
-            "published": "2026-06-23T12:11:00+00:00",
+            "title": "Chaos in UK as PM Starmer departs: Former Blair adviser & broadcaster discuss",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa1ZzLXoyYkVxZU9TclNuR3JzTUF5VjJFRERpVVNCRXV1aWN4Y3hLTzBEdUdQZVdSbXBpLU1kNHNTZU5kc3o4YVZLRnRTaWFrc3dQNTJlUlFnbVF4c1JjdUN1YjJyMzVtT3pENXZfOHdhbkZMNzNSVUl2QXk3U2RBRHVJMktrSUEyTUpaSHpkeEp0VmdYelNKOXZiOGFNTGdSTnEyeDQ1b1hqNzZqM3VHSDRnX3c0RFlTNEN6bEdvZWJsdFBNcFBjVFFOTmhkVmPSAdQBQVVfeXFMTWMzRUV1UmwxcXgxSG5Pdk1zbEVFSTJHMHprNnJmNU5oVThLZ0t4eUJSSHVTZG9rWXM0UWlDMDUtc0NYZlNFMng3UDM0ZVN0aFFZVnFvRGVZSFZvM1YwN3hyMHVjY2hRV3c1VV9rVUNrMExJWUU1YlFEMTRIeW8wcGdBbTR5bi04aDRKYXY1MmV5OVAybXdKWGZaVmJjR0sxaHNDZ0gyT0JkMDVyc1RWOXVjWFVEcHB2T21qa0RQNXFSOVFmXzNOeDlYTk92bkx5MmpIaWo?oc=5",
+            "published": "2026-06-23T13:01:00+00:00",
             "snippet": ""
           },
           {
-            "title": "Trump insists Iran has agreed to nuclear inspections",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFh6RXJOemdudmItWVJmWkY1bll0NDBEN2poZWNnNGNReE9iUWpxTVFXU1lIN3A1bEMtTE1HYU1GVjZJWFg4azNmQWhaaWdCVFhmTEFQMFhOVWRzNm1Vc0NudTIxSFJmQ0ZZekdLZ28zaElvMDNaSDVQd2pZMG9xdHlTdVJOWVlkM2Z6Wk5FVW10b2kyOVhzSzBvTG5CTUstVEJ1dzFRSEN0b05ENFZGVGt0OVgtWVFf0gG-AUFVX3lxTE4ySi03N1cyMjgzZHYwR09FQWJCbERiUTB1UDRSeUZtZHkxRklqTWc1VTM5NTdKVWg0aGxqRFhTTi05TEVjVlBwbi1NNkNGVjBVWTltUWdKM1hCNUo5VktGdXdEUHFjVXFub0JCUDJ5RXlkZmFHUzRoSm51Y0hhd1JkUGpHb0F6RU1MY21udnZpXzdVZ1c3TnRIZ2xSd1FVUnJFenZMdG1vdEhkMkYtWGVsRHZ0SDY1dXRmM2tWTUE?oc=5",
+            "title": "Netanyahu says Israel should ‘break free’ of US military aid",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcEowTjhNV0Y4VmVlZGRqV0ppUEx2NDFDc080b2ZXRkRTQnhqeFZXUWM5bTdkZ2NDSklLNmtkbE5QWlU2OXhHRWwxVEYwRlZWRTZzNzEyYVZWZjFTZV9VUWR3NUpqdG16MzY3bmhnUTc3QmtVdTRPc3NWN0ttb1ZpYmt5UWhScmpHeEo2WXg2NzhqV1ZXUDlPSHRPeVRyeUJiNjhBQ3k1SWNNTEJMWXVWXzMwTFRmT0HSAbwBQVVfeXFMUFJVSlh1MmhRWDMxcnBOdDBBdmhLSi1Fby01ZTFIRjZ1MmRuZmRTYzNMdjNZRmxyVUZObi1LZGxFMHpUVmozd2d5V0hvcjJjaTVQV1cwRVUxWU9pUkxBWDJJYU1Wbjh5Y2g1UWhXS1VUWTJlam1IdkJvSkhZcFpWekM4ejA4WVR6YkFKWEJtZ0JzTnRkUG9JRXgzeHUzREJ6R0ozV2VTR3BGbEotZEtMTDZUX242WllUMjlhUTc?oc=5",
+            "published": "2026-06-23T12:56:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Netanyahu: Troops have ‘full freedom of action’ in south Lebanon",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGJKc0tqQ0pyQUoxbzFQcGRZRjVXRjV3VEVYTkduM2dwTE5QVkU2Y3BKSGM4RnUyVzFlWXZOcGcyZDRWeGlFNEtHRm5ybnFZMDBlVUFCVGdBemdpYVY2NGhYZ2Q3R0pSdFFhOTZYRkZib2NYNDROZlJ6YTQ0SnVkckdsNXRfYUtXOE03Z2RIVmZYUzB0R1kzd0YtczN4cll2YVRSOVZMZzJLWTZoNmhSeG92WkRIbmc4eUhKS3ZDbDlnd9IBxwFBVV95cUxPSEVGSG5aUTUxZlRBeEtsLTREZ3Vnb3A4cHkyZjdHMHhXc1EzOXdqSkpQZWNWSm5LTkRmQXdlaWZRWDVST2o5Sk9oalYxRkh4b0t4TlA3T2VvZ0JCZVlNODdnSXYwVndTTk91X1Q1blNCNFhTOEZXVXIzRFZLcjc2Y2hLZnJoLUNJWVJXUGduZTNPR3RhU3dPNWo4OTgxdDRWRVVTcnpqSU00VVNocEhaNHJ3OWwzMDlZSWZrdXpOazUweDNKY3Nj?oc=5",
+            "published": "2026-06-23T12:50:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Putin says Ukrainian infrastructure attacks are an attempt to destabilize Russia",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN2Y5YWk4YkRGcDR1ZDdHdEVGNG5FZEVIbnNMZ0VNcUNfaGtKM1N3Znh5YlF2S2FUa1V2cF9kR0Rsb1BaeEJrQkZUSnYzU1dTZHBqVkxKYXhOVndQV0NheWU1MzBWVWhyLVA2QU5Zcm4yMkZZS1RpdEhIODZ4WG5DNWFma1lCRzNITm1PZWtuVmZNU2tsazF0ZW5HUzYtNlFDMVJlQmRBejVzTHhyWHlmSmNrQXNYeGYyREx1clB5VjhkZzZiVmduWnE3TkbSAdIBQVVfeXFMT1FFYU1fX0xFM0hOS3JVZ2ZMaWVrZ1BNUFQ0aVRUYV9ONGV0c2ZKT2tpMjRfcDJLNHJzQnpRYWo1ZnZfNXRoS2ZRMlFybFdCTnZNalc4bFJZMVVldnhFT1dwbFJERWhUS1hNYkdyMUt2ektCbTRBdWFWTXJFdHhGLVNLWUtZWGtFeUhobF9XUFc2VzEwMVk2S2g1QVQ4bmh6QXdIZHVfODc0dUF5LVUyWDd2LW0xa0s2WVltOG5MQXRlaVNRUVl6ZGNhSXMwVFI2TklR?oc=5",
+            "published": "2026-06-23T12:49:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Trump says Iran agrees to ‘highest level’ nuclear inspections",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkotNzdXMjI4M2R2MEdPRUFiQmxEYlEwdVA0UnlGbWR5MUZJak1nNVUzOTU3SlVoNGhsakRYU04tOUxFY1ZQcG4tTTZDRlYwVVk5bVFnSjNYQjVKOVZLRnV3RFBxY1Vxbm9CQlAyeUV5ZGZhR1M0aEpudWNIYXdSZFBqR29BekVNTGNtbnZ2aV83VWdXN050SGdsUndRVVJyRXp2THRtb3RIZDJGLVhlbER2dEg2NXV0ZjNrVk1B0gG-AUFVX3lxTE4ySi03N1cyMjgzZHYwR09FQWJCbERiUTB1UDRSeUZtZHkxRklqTWc1VTM5NTdKVWg0aGxqRFhTTi05TEVjVlBwbi1NNkNGVjBVWTltUWdKM1hCNUo5VktGdXdEUHFjVXFub0JCUDJ5RXlkZmFHUzRoSm51Y0hhd1JkUGpHb0F6RU1MY21udnZpXzdVZ1c3TnRIZ2xSd1FVUnJFenZMdG1vdEhkMkYtWGVsRHZ0SDY1dXRmM2tWTUE?oc=5",
             "published": "2026-06-23T11:47:00+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Iran FM joins President Pezeshkian for Pakistan visit: State media",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkJDUENzQ2hZQTVIRDJYTUFmSUZqSjgwdGpKZEM4bWFYMm8zSVlXVnU2M1pVVXd3WXY1V000eUMwSV9wQ1VXZXBwa3A2cGVGM3N5SlFjX0k5czFvWDdLeUpQa1NkQ3VxRHA2eWt5MFJISV8xcTRMaUEzU3ZfanBHcmZyUDV2Z3pxc1ZFM0lSNG9tZTJOeERYZDhXYUxmbFJpOTlyRHl1RnJ1VGdQMk9FZWdoRW5UTU96Ty1OTjZFVXLSAcYBQVVfeXFMTVM0RUJIa3A1VkxBS0JJbVZBYkZfTlJYVGZqUnJkY0xLMmlpdTRJM0FJYUlTd21QYnhITHdySWliRFZtLTUtbW9OZzVYWUo3d09rdzFnUnNZUG1hRFJhQWpIdmdWcW0xcE4xNzZoaG8xdVNiUG1hc1BxeTFPMkF1cTRWZno1bTVoYkpIWlNQV2JVY2JHWGVSTXVsZE1STWRpV0pZYUtKbmdOYWpXTW9HOGpwNkE0ZFZxcWlLMGRuWmVvSDFBTWJ3?oc=5",
-            "published": "2026-06-23T11:06:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Ukraine says Russian strike killed three in Zelenskyy’s hometown",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEFPbkMzd3VVR09KSWRXLWZZQXlZN21MTnMtTlNhMTAzTjRBOGw0Uzd0VmV4T0YzaFd5WTI4eUtMMktoTHE1cVBtQzVQZnEyMjhUNEhxc3FDWXp0THpNcWFLczZTQ3BHUjZRVi1fX1NYNDNZR3lKMVN2YlVnby0wNUV2Qkt1QmEyUmoxclZ2bW9jZ3hqWjNydXVLUHFqQ242TW1Bd19vYVFmMUp5S1cwNjR1VnFJWkR0eC1vTNIBvAFBVV95cUxPOEFPbkMzd3VVR09KSWRXLWZZQXlZN21MTnMtTlNhMTAzTjRBOGw0Uzd0VmV4T0YzaFd5WTI4eUtMMktoTHE1cVBtQzVQZnEyMjhUNEhxc3FDWXp0THpNcWFLczZTQ3BHUjZRVi1fX1NYNDNZR3lKMVN2YlVnby0wNUV2Qkt1QmEyUmoxclZ2bW9jZ3hqWjNydXVLUHFqQ242TW1Bd19vYVFmMUp5S1cwNjR1VnFJWkR0eC1vTA?oc=5",
-            "published": "2026-06-23T10:24:00+00:00",
-            "snippet": "Ukraine reported that a Russian strike in Zelenskyy's hometown resulted in three fatalities."
-          },
-          {
-            "title": "Israeli gunfire kills two people in south Lebanon, civil defense says",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXNNeDR1RE9lbU9zU3ZaczhuUl9hOVA0ZmVyaXEyVE1ueHRScWxjS2g0Sm9sUTFFcEgxMFJ5eW9SV182b3o3OS1PMVZIREVJU3NIUXdjcGZ6NDFZcENtRkNqUjdndlR3dkJxUm1FVjVyU3NYU0p3dEQ2b1RHdmp2MllWYVZKaHBvcm9rbktXTWNSWGtCTEJHVWlrWUd0bVRRNTdJV01JRmJQNXpCN19tUEdBMlJaX2V2eDhHZURrR1hqUlBTX3FsWGJn0gHKAUFVX3lxTE15c014NHVET2VtT3NTdlpzOG5SX2E5UDRmZXJpcTJUTW54dFJxbGNLaDRKb2xRMUVwSDEwUnl5b1JXXzZvejc5LU8xVkhERUlTc0hRd2NwZno0MVlwQ21GQ2pSN2d2VHd2QnFSbUVWNXJTc1hTSnd0RDZvVEd2anYyWVZhVkpocG9yb2tuS1dNY1JYa0JMQkdVaWtZR3RtVFE1N0lXTUlGYlA1ekI3X21QR0EyUlpfZXZ4OEdlRGtHWGpSUFNfcWxYYmc?oc=5",
-            "published": "2026-06-23T09:49:00+00:00",
-            "snippet": "Civil defense sources stated that Israeli gunfire in southern Lebanon has resulted in the deaths of two people."
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "The New Arab",
@@ -127,6 +125,12 @@
         "lang": "en",
         "url": "https://www.newarab.com",
         "headlines": [
+          {
+            "title": "EU migration pact: An ICE-style dragnet that will hit MENA hard",
+            "url": "https://www.newarab.com/opinion/eu-migration-pact-ice-style-dragnet-will-hit-mena-hard",
+            "published": "2026-06-23T13:06:18+00:00",
+            "snippet": ""
+          },
           {
             "title": "Syria transitional justice protests are actually about economics",
             "url": "https://www.newarab.com/analysis/syria-transitional-justice-protests-are-actually-about-economics",
@@ -150,12 +154,6 @@
             "url": "https://www.newarab.com/news/israel-sentences-two-palestinian-citizens-over-gaza-solidarity",
             "published": "2026-06-23T10:35:58+00:00",
             "snippet": "Two Palestinian citizens in Israel received suspended jail sentences for displaying anti-war slogans, a move critics argue criminalizes solidarity with Gaza."
-          },
-          {
-            "title": "Israeli firms trading with EU are poisoning Palestinian farmland",
-            "url": "https://www.newarab.com/investigations/israeli-firms-trading-eu-are-poisoning-palestinian-farmland",
-            "published": "2026-06-23T10:01:50+00:00",
-            "snippet": "EU firms continue to engage with Israeli industrial settlements, despite evidence of environmental crimes against Palestinian land and people, raising concerns about complicity."
           }
         ],
         "error": null
@@ -167,9 +165,27 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
+            "title": "من طهران إلى كينشاسا.. رسائل الصمود ومستجدات المشهد الإيراني",
+            "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOTWVsRDh3SVFsc2Zlb2dEeUZuNnNFUEdPb2Ewcmh1eDBuX19taVpCTXp3cndGckExYS1vQWY0SGJBd09kYW5NQXA2dkJDS2ZuQmFRZXJiTU5kM0JfSU5sM0dDSU96NGJhTHo1VjZadmFmWG5ydkpWYmlSZUZZUzF0R3RhWWRxLWQ5eDZmRFVkNGVtbEJmbUVJSnJXUUZnTmY4QXh6UE44Wjk2aFBsdy03Q3hzUldtR2lZT0k1dEFUNG1qZWNqWUtnRkJMZU9qX0F6cXFSck5MVWdRSlR1QjVnczdZVmpuRFh4bWpDRzdpQjFhaXJrTTRLZDlhLTI1eHVoOHZaRHVEZHB1dzA3UGNSNWJ1Q1cwWU5zZ3drNEt5NkdxaFFzTXU5eFFkcFVkdFU0TWtkVzQ3Mms3di1IYlVidDJKd1k5cGg1anB2X1BtejJSZHQ2SDEzYWh2VWxDUmZDTFlYUU1EY0FKb21qdVZCd1drcGJUT2FkdDVSeE1JWjdXRThwNmtzNXY2bmVzNHg1aXhJdkF5blc3ZkN5MUxTTjFaU25RSWhSaGtFd3AyTkFjaEhOWUd3NXIzUFJieWhlUlVmd2lKQW9rS2lBTlBXSDkwR3N5aUZMN0ZWSHZJZnBZaFNuU0VqSGY4VnZhS3E0RDZORXF3NWF0elZBSjhSbTNoNHp4RUgtbEJJMnRwdktDMm83eUJmNDB2X1RvMEFsMVhseC1rTE5TSzR2eGViZlRzR0FTNGVuTlpyeFZ5R2pFYzJiN2c?oc=5",
+            "published": "2026-06-23T13:01:46+00:00",
+            "snippet": ""
+          },
+          {
             "title": "فلسطين المحتلة: مكتب إعلام الأسرى: الاحتلال يستخدم سلاح التجويع لإجبار المعتقلين الفلسطينيين على الإدلاء باعترافات خلال التحقيق العسكري",
             "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNSFFhUk1rRGxZZTFPdl9OMjkwbExOZGpLemFSdlNSUWsyXzdYQ196Vzl6OUJFWkVSM0M3TEloYzBIQWszWEtXb1FKNU1rT2hhamJzYWtEQWstUkdZZDg1NFRWTUt1dXdxc19lam41cDUwMGxKODJINmRVbUZqUWU1TVk4U0ZKT05BRUpBZGt0bzkyZUtlbUNvb0NaZ1pVUFIwc3dENEZhLS10YVNmU0VYT0VqRmU5VGJRR2xUeVgtcmZqZldmOFFaSy00b0N1Q19qVk51eUkxdTNCdFMweUFCR1l2aGM5b2ZLd3cwd19CUVN5RnEyRzNGLUpZLUNjOVpCRUtBZHZzY0V3RG9kdENMNmVCYnAtSlUxRjlHNnY3aGwzcTc4a2hmRVNheE5rVVBvVDRSMURZS1VJZ0g3M0J4dkxyWjZ5VkxoLWFYWDFDLTlUMEVvVnRvWEZYc3VJb0QzTDNIOExYc09lQTh1WnNZMEk1X05zd2RvbmgzOThhZGhKME9uQ0pXNUstZlBweU9UWi1zYTlHaGJyZnN6bGswblRpOWdFSGN6TGtTUEdPTFpHaDVUNUJfNC1EZlNmQ1ZJMVBxbkdlRGV6azVET01oWEszZXVRZjJOZ2lScDFJLUhxSjZhTUJsUWFCWVU2WEhwdlF1RDVWMlB0Zw?oc=5",
             "published": "2026-06-23T12:29:42+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "بينيت يفنّد ادعاءات نتنياهو وكاتس: كاذبان.. لا حرية لعمل \"الجيش\" في لبنان",
+            "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOUHZJQW5KM1BZOEs2dzVvenZWTURsQ21PYzhsWDYxUGhSNWZmN0VzVFVjYzRzbGY1M0FjSWtraUtpQm81OFAyVEdYVURsblZLLVB5eVVVd1hHZ20wN2VSYTNEWWswcVB4N21aT1YwcjRCRG9jTGswUDJtZ2wxcGUtV19OVHRqLTdNU243alRNbmRxVlMxVHhKT1ZzeF9NTkVvVlZhZjlCU1dMSlU5bmg5THVPWVVaZnZDRzloMENKRE84ek1BRlh5TVBXdXpsV0hhWEhXd242SHozamhJekY0bHk3Y0EtS2p5RTlQd211UGdJNEVzYlNLdnp4RHZoWWt4U0QzWVdJT2NmSExUUlVPVld1bFJrbVZUZ3ZQYkNDajFkbFd4YkE1SndxZGh4U2REZGwwZWlSSUduQ3MxaUhqZ1dTVEMxYWtZOUdkSjMwNGdtdlFTeldqbmVkWC1IbVBseXMwenpZbDRvTUQ0akdLYWxFdDJOYWdLZEFqYTc2UXZpWGZ1bHp3VEZUOWgtNHhOYlZ5c0stOUJqSUtTUlZIS3Y4WDZCalhzbXFnbllGMkdDelNpV3lkdWlqY2c2VkpvdXhaQ3p3Vmh6emE1ZEZPVVBTUFcya185OGNfdHhHLU3SAeADQVVfeXFMTlB2SUFuSjNQWThLNnc1b3p2Vk1EbENtT2M4bFg2MVBoUjVmZjdFc1RVY2M0c2xmNTNBY0lra2lLaUJvNThQMlRHWFVEbG5WSy1QeXlVVXdYR2dtMDdlUmEzRFlrMHFQeDdtWk9WMHI0QkRvY0xrMFAybWdsMXBlLVdfTlR0ai03TVNuN2pUTW5kcVZTMVR4Sk9Wc3hfTU5Fb1ZWYWY5QlNXTEpVOW5oOUx1T1lVWmZ2Q0c5aDBDSkRPOHpNQUZYeU1QV3V6bFdIYVhIV3duNkh6M2poSXpGNGx5N2NBLUtqeUU5UHdtdVBnSTRFc2JTS3Z6eER2aFlreFNEM1lXSU9jZkhMVFJVT1ZXdWxSa21WVGd2UGJDQ2oxZGxXeGJBNUp3cWRoeFNkRGRsMGVpUklHbkNzMWlIamdXU1RDMWFrWTlHZEozMDRnbXZRU3pXam5lZFgtSG1QbHlzMHp6WWw0b01ENGpHS2FsRXQyTmFnS2RBamE3NlF2aVhmdWx6d1RGVDloLTR4TmJWeXNLLTlCaklLU1JWSEt2OFg2QmpYc21xZ25ZRjJHQ3pTaVd5ZHVpamNnNlZKb3V4WkN6d1ZoenphNWRGT1VQU1BXMmtfOThjX3R4Ry1N?oc=5",
+            "published": "2026-06-23T12:05:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "تقرير أممي يؤكد استهداف \"إسرائيل\" لأطفال غزة \"عمداً\" في إطار الإباد الجماعية",
+            "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPQWtkRk1ZNXpxWDZCNzV3OFVBd2lNTXFzRW8zZnpfeWh4UElodnBTVjlDZWVqNjBlbVRIUFRUdmRZODF2Y2xuaXVaemhyTjBMbE5TTE5uOHZXQjJiY3dfQ3BuTnRrOVhnNy1uU2xieXRUdG12RmhTXzBYQ2I5ZVpscEdLS2dwSW1HWmFQa0ZCWHhjdG5tM3E1aUdTcmdzc0RfcGx5NWZuSXlaYUtEVmtGWWt2TnJ4bTFEN3JQWHlfdzRIaFVLRHQwcGc1bHBicTl1dmEtWEYweHQ1OThGNUZldDlpQ1NGRlA3Z1JJTzVCMWpLWThLNWVSa0FmbV94ekxrN3FLNlJwRzBSbmEyYkZMdzNOTk5pUW1KUnUyVmU3U0tKekxGcDVxVkhVOUJCT29kOTNoWURTTFhZdXpZRENjZ0taaUFoVTg5RGJHdWM0OUdkSU5NRWVhSHQxbnYxa0pTUzJMblRfcmlIOW54MmhQeEllZ2hXWGtyVWs3REp3cTNIRVo4cXhyM0w5ZkY4TFRJYWk4ZTdLRi04OF8zSmpEdTI1Sld6cnM3dGFYTXBYa2NqNUcwX1FmcXpndV9aVmxDR1VZTHNzTGwxa21FbzBiMDNNZ1PSAdgDQVVfeXFMTS03N2llSzFvb2d2ZWVuMFcxQ2Q5Z0Z3NExtNkhOaDN0UXF3MU1uNFg1cThwMVV5V0ZwSGZmVDVRZGN4bWsyVlVVN2plTE1tbkZrcktSeEp4MUg4WXl6MGQ5UU1mbHl2UEhsY1pic2ZDMGFjc01ZQXdSdUw2Q3E0MjVnNkRLSTYxMjhrdU5zWVRnZUhoem9aaW93V2hLZGlLZ0RJRjUzYWJSR3VzRDN1OGhPV25lVWo2MlBTZWRHeFcyY0JPdmwtOUpuaENFdVU3c0pXdVY4T1RCM1BNdFRCNUstd2J2dThlT1JaYlRfODRKRmJacWVyV280ZTFBWk5xd3IzSi1vXzdMZjdSZklCandlcGFNTlhPZEFjdWEtenBxZGg4NXZOWmhSSTFlNTdKV3J3MTgzdGZaUGpmTnhBbXRoUFA5VnhCT3JPaFQ5eHBscURJQ2hxWkloSWZTejBtMFFVLW5RWTc0QW9tYnNPVDU5cExDcFNMT1ZEeGJta09QU1F6VTBmaG91empqOWxuWGF3Ul9iZDhKMEdiZDNvUlRLQ3BRRTg5OUlBUV9yRkROQXJuU3FfYW13Y3AzczFhYkhHZm1kT0RCSHhxY2RIS3ExSHVQOHBJRg?oc=5",
+            "published": "2026-06-23T11:43:21+00:00",
             "snippet": ""
           },
           {
@@ -177,29 +193,9 @@
             "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOU2RyeU5DeEpXOUQwYWg2N3lPb3VCT1ZMOGtxRVlDWnRsOHhXLXRRMlFiUlJVUnRYOG55NmtYdUl5NTZSdmp5TmFDNjFyNmJIcXF2aTg3WFRGVlpUNzBxRXA5Ml9Ed3lPaE4zZEJZQU1GTXBaTDRISXZqeHRRMzMxRnQ2RHhBSGpQUGYxQTg1Nmt5SGpLbW1ybTl3V2hIMGdBQmN1UDFrd0VNcDlCeHJ6cXFmQk10VXVfb2tGUXZsck8xME5LZjFmaWlTamU3OXBkZXZOcUg1TktvUnVBRUtSLUlkeC1uNEtaZE1rZkRILTgwT2swUmdLRmVWdzZnVTZlVEpSZVdiM3RFVkFXLUZUZnlQb1oyT1RTd3pOUnZONjVFdXYzQjVSNy16eTY4Ti1TOEU4dU9sOFdVaDNwZDh0NFFOMk9JUHNhVkZZRVpjeVM1QjhNeE9xWnYtM3dGUnlzbWRGQmFsaGQwVndiY0xMU0lCT3JhcjNHR2dCMl9UVjUxYkU2MFdSa3U0dzhTMmpHZlkwUUVER0Z1WlVEbDJaNlNDLVZLV1hXX1hCOFo0QmJPY1NYTWVrallBY3ZoZDRkTU9RM0dmR2JfckF1aGJlNkVncWU?oc=5",
             "published": "2026-06-23T11:23:15+00:00",
             "snippet": ""
-          },
-          {
-            "title": "الذهب يتراجع مع تماسك الدولار.. وتوقعات برفع أسعار الفائدة",
-            "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxOckVHakVmclYtcVVZVEdHRTVOVWFoeHh1T2VlSEs2UzJ2T3RWVVNKMXhsZVRMVnAwbC1TY2F0ODkwWHJiVEdUbmZucXAxLU95YnVBS1NXcWRuRkFnSHoxaTZMM0FBTFZCNHY1VzdMZnpyRUNVUlg3RFNMVGprSy0tckxyZlI0VTgxTkpxOFVQcy01bDI2a3pudFdDM3l1S1Fib1paVnZYT3p0VkEzM3BzQ01GNzVlaUQ3VTRQREtJeUVzVzk5VHRDakFrWDFTVzBKQXQ4VmFHLUM4aTU1SEdJV1ZSWGl3eFlQT3FvS3ZUUThYb1ZGaG5ac2Q3djZyRzZXaWdPdXFsSHpqSXkxTmRHYzZuQjFCaTlZcnNwamc4LU9pVzRXQ1FNazF6WkNhU09zYmdTbGUwTEsySUhsSEppSmNzU2lWM1dpUXZndWUwazVGUHBZUlF0eGNPTHVLUlQ5Wm1RcTE0TFhvQzgyUENiY0F4RWxlX3lVSXE1clVZd25LLUpyWWFKSldDQWZFR1pQalUtWkJBVUsxR0NpbXczUDJCQ0FuOGxoa0NBMTdERk85cjhxT2wzSTctMGlrNVd1UG5DNU1PWC02Q1BEMWFRVjIyekhVM3FEdnllVC1hanfSAeQDQVVfeXFMTnk0alJjcC1vcEpRZUFERmw3REhTRmpLOFNmX3Y3OGxJYmtfaUp4Y1UxeUtIU3hwRmU4US1HXzQ1NGFjQ0c3WXFCUUUwM2l4Z0hSa0ZYQjVIZ0JBLWxnSVNRN1kzOFQzMkM4Q2RWWjJKMS1oTzJTYVFiOWhqenJHcl9MS1daZnFReHRpbDNLV0N0dmV2VjZsLVBHTnE1b3h5d2I1aTJVaUtCanhqdjduVnJlYVFtN3hJbWJheTJRVlk5UWNwOGVRbVpyUndhQ3NjWldBSmx2OE5VVTdzODNuRkNoV2drWU1zWHRWWmNobnhmbkdOVmNqN29uRW9vQjUxdDRfWmMzME1BMWd4UEJjWGRjVXdIaU1qc1hCaFFQSjNiTzA4dUFmSEowNUE3cndKa1JMd1VpVVI4eVNjcUdteVdKdmVrUk9mMkZHTEV3dFBkZGJ6QUJHLXFWUVlvWVdUbFp5ZlJQWWlDb1JtUWVGdWlIODBUUVJlZDBHUU9jV0lUSjBJTTBGaGZQX3Z3bUxjMXNFODByekw1cVU5YlVKUFZiQ3djX1lOeWE5T3pYUncwZHV6Tnl4RHZRVzRERmM5b2RWY2VnY1dQcTZBTGd3bHhwbWJ3QkFWekNtU1lvdkRXMDFicg?oc=5",
-            "published": "2026-06-23T11:11:33+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "فرنسا: الرئيس الفرنسي يبلغ نظيره اللبناني أنه سيجري مجموعة اتصالات مع عدد من قادة الدول لتحديد الموقف من هذه الخطوة",
-            "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNVjkwU01NdGl6SEg0ajA3djJiYnFKUmo0R3NtelVfOFliYldpUzNFTmpGckw2ekxibzZORE95RjhrOF9xNnhLSDdER3FhdGFEUWQ5R0ZvbUdWRWN0MTc4bGFtLTNUZkJON0ZzT09adlN0ZjhMUDRMX0cxVkI2dGE0ZVZfMEN6ZmdlS3Q2ZmY0bFdKY0MzM3hsRTZYbU5leDZLR3dfSk15Sjdqa2dpMURQd25uMnFHeEt2Z3g0Ykgwbk1iSWgxUE1GNjJmTGl5eDI0M20wclpDcEI5bnRESHFud3UzMHZlWE9oZzQ2MURmY3ZOVjFqV0M0blFOTTBweFBMdF9YMjRWbnBFdDl4aWhJdWh0anNKekczYllvRUdCZllGLUpzWjNNaWlra3J5Tlo3UWhRR19ZcFFYamdNZ0xnZFNMdVg2c3hxSXc0cGdpQkRNTW9uTW0yNng2VmVHRTl3ZnN1cjAzbFdTVGpmSGZpUHpnWnVWNnRuMzJVeHMzc1gzekgwclg4YzYwajItaHJlTWJSRDJjRkdkX3JfbkFoSzRxQXUzQjVIekRLU1kwTjVUcy1ua0dpOVZ1XzlaVTV5TkpUX1dEV0tWUW1yZVQtclYtN0gwaUxtWDk4cEsxTlVhLThKTWxOLWVmRUtjVnNXejl4WFdvNGlUZw?oc=5",
-            "published": "2026-06-23T11:01:31+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "لبنان: شهيدان وجريح في انتهاك إسرائيلي لوقف إطلاق نار",
-            "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPaWRWZEhrenNFQnltd3VRS0hTeXJMdFFrZU43bW1aVFdzblRzeTB5TkVIX3o0bWxWYXFZSWZBX0VZYW14TlprN0JneWFITkU5VlpNUC1wZGo2NGJ3M0lzcjc2SW55UHh0dHNSZUZvTFFjSzJfUHdHUU9KeXh6VzRXeENwbWY1eFBWYmVHWXpQVEFsY2MyaW1ZYXRPX3FtM2Q0U1hWbzNqMzBDZUZPcUNnM2pjLURodm0wQTd1QV9qZkxBeHJuZ3Y1djhZUGFWcmo3U3QwNDEtUFRiZTJpRm1vSWhJek9ONzU3REhJSFp3cjVZWnc1TWxkVC1IVnF2NFNDTjB2c3VyNnViMFFuVDZhRENJUXdnVlpfcGxWQ2kzcEZLenJ0dk5LU1RmWEpIRHRkZzZ4X3ZaQ3d6dzd5NnhSTmxpLUp1bEM5T0F6b0VyZ2h3bDJwQmVrQUswRkVkVVJRQlhsTG52RWFpMHdkR3RqMkxhcnVHdkhpQzBsdnhrenRrbTFLUHJGUXdnNlNOa2lsa0ZjQ2UweUxDTTM5RkRlV1hPamx6OE5GYmtOR0Z3ajhUTFYydzFDLVhDdEQ4ZzDSAcMDQVVfeXFMUEVVUTJKbnBjWWlIYm9laUh5cVdKRVk1T1c1cHRFRVFJeWZDM0hqMHNFcVduMlE5QXdKNVpCV2l5amVBRndMVHh4SU94dHdIMVBkMU04X1JnY0xvTWlSbVRvdlRLTFVKazJOanpEbmtJREFmVWYxMk5jR1BTU2UwN2R0V2tKR2tLMFNGZ0I2VHo5STJqMExDejBURElnaWN6eXBVTEp4dVYyNFB4SzFTRXBjckI3ZkRXNHVWZi00N3J3alRoZzNpbTRoMF9lbHRfMnQxMGtyZWhMc3M1SUhFdU5pOXVRbWZ5QlhFd2tEZHE3UFJkWHpUcmN3M2ZKX0R4U2RwZkhaZS1qR0ZCcnpncHgwRlJQcW1zWEduYi1BZDZES25xeEF0OHUxMlR5amtWbVA0ZlVWRlNwNXN6YU9WakNCcTVoS3pxN0xnM2FkNGZvcXBYMzVTWGczcUVnNTh3UGNnT2FuSFMxenBNeHI0WkN6ZXdHeVBvMGswUjk4TWl5bjFMUFZicmpmQ1BUZEpQTVlaTVQ1MXNsaUhpd3NJZUlqanlUTEdUSGZUSU51RjVfb1R0aDZDOUVsY21jdDd2dUVvbw?oc=5",
-            "published": "2026-06-23T10:59:51+00:00",
-            "snippet": ""
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       }
     ],
     "Levant": [
@@ -240,9 +236,7 @@
             "snippet": "Analysts suggest that difficult details could still jeopardize negotiations as Iran and the US conclude their first round of talks."
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "L'Orient Today",
@@ -251,10 +245,10 @@
         "url": "https://today.lorientlejour.com",
         "headlines": [
           {
-            "title": "'American sponsorship is a guarantee,' says Lebanese-American coordination committee",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOW1GNXE0WTBvbzIzZmhDd2F3bk9idG53TkgzYVRDaWYwV1hudllXWlBMY281ODdJUlc4NE1lSUN3elFPNmlQOGd1LUF3bHZFYXNIVFA0LW1NWU9Kcy1JZTZ4RGRJSno0STR6dVlhR0k4T3ltUktnZzQ3QmhzbXVRaTQtb3hQdlpma0hKS1I5X3dIS1NuYjNWZVJkazdtSEZlQk04SU50ZkRGTnkyXzd4eFcta3RkY0VaS1hDVzluZmRYVFVSeEk0YUlkUXJlZzg?oc=5",
-            "published": "2026-06-23T08:42:36+00:00",
-            "snippet": "The Lebanese-American coordination committee stated that 'American sponsorship is a guarantee'."
+            "title": "Hezbollah tunnel discovered in Majdel Zoun: why the Israeli army is focusing on this southern Lebanese village",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUDQtV2pKVVhVSXZjTjhQOERJRWluN2djTHdlOXA5LWE2ZENoNjVkYkJBaG5MU3ZPNVlhNE5NeXJZZkx6UnhYMlRGcFBiSUtpd0ZsajBKS1JuRmtJS0pqWVM1bnR6Z3NUTTI1UWhQeXpfTjk3MWxxWk5OZWJQNXVHbmpWTnVWVUJLaEl4UzktZURoLWxDWklOY213QlJIUWJadzRsZVRSWnRBaXBPemFWZzVYVVp4ZGR3SFNYUEQyc09TOVBuUDJsNTdJX1drU1IyVHlVT1U3SXhKZ1VtMWlLRk4tVE1SZ29DTkh0alI2U2pFR1I4?oc=5",
+            "published": "2026-06-23T13:04:54+00:00",
+            "snippet": ""
           },
           {
             "title": "400 public figures sign a call to save Lebanon",
@@ -281,9 +275,7 @@
             "snippet": "Washington has announced the suspension of sanctions on Iranian oil until August 21."
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "Egypt Independent",
@@ -291,6 +283,12 @@
         "lang": "en",
         "url": "https://egyptindependent.com",
         "headlines": [
+          {
+            "title": "Should Egypt remove ‘marital status’ from women’s ID cards?",
+            "url": "https://www.egyptindependent.com/should-egypt-remove-marital-status-from-womens-id-cards/",
+            "published": "2026-06-23T13:19:39+00:00",
+            "snippet": ""
+          },
           {
             "title": "The future of oil prices may depend on China",
             "url": "https://www.egyptindependent.com/the-future-of-oil-prices-may-depend-on-china/",
@@ -314,12 +312,6 @@
             "url": "https://www.egyptindependent.com/israel-must-have-arms-independence-netanyahu-says-as-us-military-aid-expiring-in-2028/",
             "published": "2026-06-23T11:50:11+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Egyptian, Kuwaiti FMs stress need for permanent ceasefire in Gaza",
-            "url": "https://www.egyptindependent.com/egyptian-kuwaiti-fms-stress-need-for-permanent-ceasefire-in-gaza/",
-            "published": "2026-06-23T10:03:36+00:00",
-            "snippet": "Egyptian and Kuwaiti Foreign Ministers emphasized the necessity of a permanent ceasefire in Gaza and unimpeded humanitarian access, while rejecting Palestinian displacement."
           }
         ],
         "error": null
@@ -331,12 +323,6 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
-            "title": "عُمان وإيران تلتزمان ضمان العبور الآمن في مضيق هرمز - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQUUVJRUFKRjNwX2hHSksyWU90RktOWUx5UzhZTDllZUxoSnNRUHdGNmQ1WWg5VURKQVJMbFFOenhkaW9SQW9SVkkxNGlORHJYT1RwVmQyVEhpcVRWdDJGbS01WGlYSVQyMXROQUM2X2RMdEhHbWRSQnF0OTFhSzhObm9CbnI0aU1YUGxqNkRpOGFJaDZkWEVpRGE5MkZleGtYUUJJS202N3Y4QkpYNlU4UEN5alV6c0V3elZIejZQMWJNS0ZqWEpqUmxwWjJpWFc2X2YzdjVHMkhEWGx3dUIyaFdLVWtNeWRjRUdNMG1oejRBUVdxTzdNX2lpRmYxeEwtcHd1UnRjMGZTSkcwT2xxQ3hRcGNlWHZYY2NKQ0VXVGNmVi1XYlZlaEQ4cmp1N1FyMEtEWjRUNmFwd01BcTlCOGhiTm5qcll6MjZoRU1CZ2d3cGYtSnozdXZkekxPQVFPYTRiM2pXX2ZpTlFLcFdCS3pvVzVJdDVhNUd3bG1oUFZENk5xZGRpSW85dUpSU0w4OE1JV0oySmUwR2gwVWZEMGc4ODNiWFM3UFJfMWtEYnhFQQ?oc=5",
-            "published": "2026-06-23T11:54:32+00:00",
-            "snippet": ""
-          },
-          {
             "title": "الاحتلال يخطط لتوسيع سيطرته على غزة وتهيئة الوضع لـ«المدينة الخضراء» في رفح - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPSEExQWNocU03MnZZZW9UcUlrR2ZEMDFrelFYRFZVaW1GdU0zVmh2NTE1dkdRUEQwZHFmTmswSlptYl9ab2owUFg4SmZwNVM5aUplaWhOVnVETkU5X05WaThFUHFFU3hKSUNDdkhLNWRWbERQLWdqaWRWNVNuazFLVnlnZ1VsTmpCdEFpNkNvdkRTX2FNakZGNEdlaEJkT05lUy1DR1lqcjVDWUh2elRYTE5rT01KVWFjdU5Ra0lUTVAtcHdEX1pLbHhzWDFrWVRZZEpGZ3pDazhvOGdxYjZxcFVhWGUyalNFOEJQcHdYRk9kM2k3alM3YjVnNFNtSmNWZzJGbDU1YzR5UGZNckYxalUyREFpR0hGZzZ6a3dURmJqeUZ6djM4QXBtaGhhMHIxam8tRmtIRHFjVkZ2a3dKTlA5b295UGY0OGR6SFI1MFUtc19rNmU1aU9mcXVoZy0wcHBDM0FhbzNiQVlyc2pKV0JPb2hBOXFFRmV5THlmWERjdnVJSS10RmdsQ1RjbHJWNHlBd055bm15eUpxUG9Bb25BSWV5dzBKTVNYOVdWVVlnUERzUTdZNWk5MWx3RmUyQVJVeU1mTDB5NURHSkVaZ3pSNTY4ZlZNaEk4WU5IZVNQSUJETXdTSmp5V1JhSXVXLXc?oc=5",
             "published": "2026-06-23T10:46:57+00:00",
@@ -347,6 +333,12 @@
             "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOd2FEYVY5NjJMdFN4Qmx3d1pIRmU0WVJiQ1o3T3JjZzBzWDktaFJyWW5VTHdGdFJBYkpnX2cyRVF0U080ak8tUXNrVFpRUTR2eHRBMDlrN0wwT1ZrcDRsRGNoeXJlT21JdUZMODZqYjFqSWlmMzFBdGtObTVZWGZ4OFZwRFE3UzZwZ0lqV2pWQ0Q5QkhZelZFam8wWGN2cGd0VVhuMWtOS1BNU0poVmhEcGJPVUc5SzlqR3k4SjM4YVh6MzVYU01EMVFzazI0dVlWR2JpNjZ6R01MbFdFT3hYRTNPUk1ScGNCLWZMdFFrWHlDcGtaNC1VLXZ5ZWJzdHJ5ZXlMdlNyV2c5UXcydjh2OURVWmVCaXB6UmU1cnc4cXhEak5BWXBIdzNWd3hJMnJmc28tVkpWZGNEZnRJMW5MeDFfLVZ3Y29kTXhOeUxhY0U0eTQwNEgybC0tZE5rVENyRXJpMXp6dUdFU2JQZVdMOXlhajJYbFpQZW05cWRNaFdzeGltdGtScFdjb0dhYmdaSXNYb3FoSVQ4R1NwdFcwT3ozSi0zUG90S2FrcFVveWk4ZlRVTlhaLVZnZWNNZw?oc=5",
             "published": "2026-06-23T10:20:00+00:00",
             "snippet": "Norway defeated Senegal to qualify for the Round of 32 in the 2026 World Cup."
+          },
+          {
+            "title": "فرنسا تتجاوز العراق وتبلغ دور الـ32 من المونديال - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQNk02Rm8zbzJlbkJIMGRqY0dVTi1tUEQ0a0hlT3MtMXJtYThYLTJMdlhYRmpXR0tsQzVydkxoV2pWN2k0VzlNVHFzZzhyZUJxQmxUcm52eFZXV1hHTUtlWWxWdnppNnQ3WDU0dk9CSVUyYkFiaE53X25Kcmp6c2lvelFDcHlvaDNrR3lmZko2SW1XXzQ0TGtHUUhVZkJDdFpYci1uNTkyVDRTUS1sT2hfTVg3QllIUUtqemRTbVVkQ1gxQ0ZlQ3U1Q2xSY1ZiNUVybFZ3MkNYOG5MNVpVSXM1ZGVQT09KYkFNNkdRSEFNa1l1RVYzWnBqNUtUanNIV1dMLXhfSXU4YnlPcmlxcHlQWGdGWlptTnNhOHNKeGJXeGd6S002bTlxcnZDbEozZkd2VFhqaWRReERoM1JBX3dIUUVxd3JuMjhtckdPRVFCVThBQzBXb3N1ZUJLRkJzUklrMkxDUmE0akNZN1pWc3dZVTROQkFWeWJSV0F1bjZVcF9PcVprMFo5UTlDQ09sLUJjSW5RQXBYeHB2cjdf?oc=5",
+            "published": "2026-06-23T10:11:00+00:00",
+            "snippet": ""
           },
           {
             "title": "10 أطعمة مرطبة... ماذا يمكنك أن تأكل للحفاظ على سوائل جسمك؟ - Al Akhbar",
@@ -361,9 +353,7 @@
             "snippet": "Criticism surrounds the 'American timing' as Al-Zaidi completes restructuring efforts."
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "Al Manar",
@@ -372,33 +362,33 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "بين الاتهامات المرتبطة بالمقاومة ومعايير المحاسبة… قضية تعود إلى الواجهة",
-            "url": "https://www.almanar.com.lb/article/971937/",
-            "published": "2026-06-23T13:02:28+00:00",
+            "title": "“كهرباء لبنان” : إصلاح الاضرار على شبكة النقل وإعادة التيار الى محطة النبطية في الجنوب",
+            "url": "https://www.almanar.com.lb/article/971992/",
+            "published": "2026-06-23T13:33:08+00:00",
             "snippet": ""
           },
           {
-            "title": "الرئيس سلام تلقى اتصالا من ماكرون",
-            "url": "https://www.almanar.com.lb/article/971927/",
-            "published": "2026-06-23T12:45:41+00:00",
+            "title": "الرئيس بزشكيان وقائد الجيش الباكستاني يؤكدان على تطوير التعاون وتعزيز الأمن الإقليمي",
+            "url": "https://www.almanar.com.lb/article/971967/",
+            "published": "2026-06-23T13:22:09+00:00",
             "snippet": ""
           },
           {
-            "title": "⭕️بالفيديو | مشاهد من عملية استهداف المقاومة بتاريخ 17-06-2026 تموضع قوة تابعة لجيش العدو في أطراف بلدة كفرتبنيت جنوبيّ لبنان بمحلّقة أبابيل الانقضاضيّة",
-            "url": "https://www.almanar.com.lb/article/971907/",
-            "published": "2026-06-23T12:44:11+00:00",
+            "title": "عاشوراء تجمع أبناء بحبوش… مسلمين ومسيحيين تحت راية الوحدة",
+            "url": "https://www.almanar.com.lb/article/971962/",
+            "published": "2026-06-23T13:20:19+00:00",
             "snippet": ""
           },
           {
-            "title": "جبل عامل الثانية يودّع شهداءه بمواكب حاشدة ورسائل وفاء",
-            "url": "https://www.almanar.com.lb/article/971867/",
-            "published": "2026-06-23T12:42:50+00:00",
+            "title": "حزب الله شيع ثلة من الشهداء في الضاحية الجنوبية والبقاع",
+            "url": "https://www.almanar.com.lb/article/971872/",
+            "published": "2026-06-23T13:12:31+00:00",
             "snippet": ""
           },
           {
-            "title": "ميسي يقود الأرجنتين إلى الدور المقبل ويعتلي عرش هدافي المونديال",
-            "url": "https://www.almanar.com.lb/article/971857/",
-            "published": "2026-06-23T12:36:05+00:00",
+            "title": "الرئيس مسعود بزشكيان وقائد الجيش الباكستاني يؤكدان على تطوير التعاون وتعزيز الأمن الإقليمي",
+            "url": "https://www.almanar.com.lb/article/971947/",
+            "published": "2026-06-23T13:07:09+00:00",
             "snippet": ""
           }
         ],
@@ -410,6 +400,18 @@
         "lang": "en",
         "url": "https://english.wafa.ps",
         "headlines": [
+          {
+            "title": "Vice President Hussein Al-Sheikh discusses EU-Palestine relations and latest developments with senior European delegation - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HUzVwcnV1cGg5S3NyQk9qTFdvcGxhczFBQ2lLRl91ZjFoeWphYU41NWZ4Mk54UVZWVEpYSExLTno5NXJjVThhSDdnbzlTR0t5RkhMbmkxQQ?oc=5",
+            "published": "2026-06-23T13:29:19+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Israeli colonists vandalize two vehicles in predawn attack on village east of Ramallah - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ma2JiRThqSm5rT1lDM1Y4VVZrRF90YzRld1ZoN0R3NklFem03MnM4NUM2Nkoyd2M3TWZrOVdTWl9TTXZZYXpuYTBNaUgydmhfU2dPMjk5bw?oc=5",
+            "published": "2026-06-23T12:54:17+00:00",
+            "snippet": ""
+          },
           {
             "title": "Palestinian Religious Affairs Ministry condemns Israeli work at Ibrahimi Mosque courtyard - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KUjRtV0VzTWVaMnI3LUNuSkt5aGx5NW8tekJVcV91aS13Y0toa2pZd2RiemdTWHJMT2lZcEEzOU9tTFFWZF9NemFkLV9EcjJaWlllcWttMA?oc=5",
@@ -423,27 +425,13 @@
             "snippet": ""
           },
           {
-            "title": "President Abbas receives credentials of Vatican envoy to Palestine - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpQlFYODNJS29lTVFMWUhFZTlWdkRDaV8tNnNjOUNTcDBaTmw2MVFGcXljbF9YLS1PNm5PZHpMX1FtTmgzYUwzVU9YVUdxRG9oNVBMZ0p0NA?oc=5",
-            "published": "2026-06-23T12:04:17+00:00",
-            "snippet": ""
-          },
-          {
             "title": "Palestinian Detainees Commission says women prisoners face catastrophic conditions in Damon Prison - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSVGdqeWhKVEZJVXc1b3RSSm1tbk9PT1VaRDBYd3F1MkFRNnZ1LUFZWHpXZlA4anNmcHFYV3NtX0hEcmRhYlNwem9GU2FmSzVKaExvRC1qNA?oc=5",
             "published": "2026-06-23T10:29:02+00:00",
             "snippet": "The Palestinian Detainees Commission reported that women prisoners in Damon Prison are facing catastrophic conditions."
-          },
-          {
-            "title": "Israeli forces detain 25 Palestinians during military raid on Fawwar refugee camp - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81bnM3WHhDLVNxQVgybGQybURNZ0JJRTFwZVR4bnBpNENsTnZlemtZOWdKMi1BUElyR1I0U2czeGRGNGlWMzdoQlY0LS1GM0VZMENHcGd1RQ?oc=5",
-            "published": "2026-06-23T08:59:41+00:00",
-            "snippet": "Israeli forces detained 25 Palestinians during a military raid on the Fawwar refugee camp."
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "Falastin al-Youm",
@@ -464,27 +452,25 @@
             "snippet": ""
           },
           {
+            "title": "تصريحات ألفاريز تضع أتلتيكو مدريد في مواجهة برشلونة",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQb1I5SS00c0ZzbG5sczJtM3p2YTdMNzBnTENzd3JERDNWazlVRFdKWVBjY1lOZ3ByM3lWWUVfeTAtcjVvTnY5RzJmMkU4SnNjQlV6Sm9iR2lpZG5JOG01RHVKNWNMRHpaSzVjNW1ka213dUxWcERMVW94bXo3TXNab2tRNGl4MVZhOHlaSlM0TFU1OTNMTk9kd0pvQ1Mtb09Hck1MaDc4ZTJaU2RuT2FuaGsxQkFqdTE4Rzh3cFFuUlZ3RWF5YjJIUlY4MHBuNWFoSmkzbGprVjZYc3FLYXlIay00bVpOQWVBZEthSkdfbFNKN1RBaXQ0ME9qVkkzVlp1TFEyeWNmWnhUYnNjQmhlaWo1SHpqNDZ0Z3k2ZmdzTFU?oc=5",
+            "published": "2026-06-23T10:53:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "الحرب والسلم",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMjF4WENqSHdJT2pkOXg4bzc1TXY3Y1NEbWFqY2JXdWdBamRyTXF6Q3ZFeVp4a0NNbWdtRzYzQUdwd2RfTDlhLS1KVkN5WjBUczFDVTM5Nlo0SGQyYmgtYXBSanhJV3lYM29qVU5RRXFEbHkxUHhIVkRSMVRBSzBCOGRkZkl3YU9FUWpuRklKYXczTHJ1OWpQYkNZX3VHdjVLUkFvQw?oc=5",
             "published": "2026-06-23T10:49:00+00:00",
             "snippet": ""
           },
           {
-            "title": "العلم يكشف السبب: البعوض لايلدغ الجميع بالتساوي",
-            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOT2FDcjR5RWtFNkRwenpKN0FaWEd6bmxhaGRySkRCWHBZamg0dXY3NVE4UkdRNk1DZlhPcVBxMmQ1VmxzUGpsSE84RVp6YWhuQUowVUFJWFIwd1RmY2YxTHhERnI3c3Rfd3NEbGg1aHM1MWxQdmgyOFFpUVpnMlpMRDRpdmh3T1p0bEs2MUhqSVJheHplNXRKUnN4U2NodFJHWk9ndUh4ekVIREh5MkdEZ2R0NmtlLXVMVWtQZDNEQkZITkZDVDJvS1dHczNaSHIwc1VUbG9EQVNCRnBPUmlOLWh2amZGMW11Njg0RXhFWERhYjBqUzEyM0RNeGdxNlJwV282bGZqQlcxLVdqYTRCZU04QkgtTWJSTWxXS29OYV8?oc=5",
-            "published": "2026-06-23T10:19:00+00:00",
-            "snippet": "Science has revealed that mosquitoes do not bite everyone equally."
-          },
-          {
-            "title": "تعرف عليها .. 6 منتخبات تأهلت للدور الثاني في كأس العالم 2026 حتى الآن",
-            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZDBKV2RUVFg0a3VWbVBxbXJ6bGRVaEZ1YVZNWkR0YTE2S3RYa1NDRnVrdzdkQlBJcUMyd2RyODVUMDdjZnhmQXlJNVFuQ1R2UlpaNGMzUWRCTmFVRG04dXB6X25JYjQtTDJ1RXh6N1pZMlJ5LV96Z2g0YTN1OW45NzVnR2ctQkxFV1V5dzZPTUEzaUR0cXh1TGotc01hUjQwLVQ0dk50ZkRDY3c5Z2FmbkRmUHRVWG4yRlAxZXNhSURvX3lJUlR0Y1NWVElLN09lZWlacUg1WXZzUWlLZnhWUXU0WEhhTmFWUDE1Y3pPbWE0S3VXNnBuR2tKMnc0a09ydkdHWE1RcXFtX1BNNVJVT0phNA?oc=5",
-            "published": "2026-06-23T09:51:00+00:00",
+            "title": "حزب الله يحذر: الاحتلال انتهك اتفاق وقف اطلاق النار باستهداف مواطنين في النبطة",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPclB3cVZjNnBxMzB0aU9fNGFOVUQtX2FKNFNMbjNIRTUyVkpwTWIzVXlMbWlvUWtuTndrLWhNWWhMMzhUOGNCWG9ZZ0U2Q0xNWFhzY0FKSGJPVEFXdWlld3JSWjVIa1lWYTNUbDBmVEV6REIzb0twQV9KVHh2cFlaSzFCOHV1emM2bElCeldPVkhqblFvQjdUM0FNUVR6cWRUZkNaTXRDSmlXNG4wZndERENCWFFYTUNWblM0aGtkMlJONDZLYXdrUE41RVdEVkZ4Z2NOaFBZNHJ2a3hIMzNjZ2dvZl9BTVR4aXFsd051SzN2clFLN29ZWjZ2SzZxUWVIaWswY0dGSjdkOG1vSE1lZTJESUs1dm8zMGc?oc=5",
+            "published": "2026-06-23T10:49:00+00:00",
             "snippet": ""
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       }
     ],
     "Gulf": [
@@ -495,39 +481,37 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
+            "title": "Coalition launches rehabilitation program in Moroni",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tZnQycmVCZE1QSVJxWTRxNU1OVnk2QU83SVdXdFhWX2U1cHc3dGtOOW5DWnVIOGVCanQyQ0NhY0VSdEN2VTZlS2YzekVYN0ZPUDEw?oc=5",
+            "published": "2026-06-23T12:26:07+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Smart warehouses in Saudi Arabia boost capacity by 70%, minimize workforce",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVjVmOFlpTndWaWJVcDVBNHZhRkRBQjFQd01lWFhzVUFOOWlPZXJLc0FPVjlMNjJTZ250ZDhIdzJDcVBkNElSR2thUDc4WjR0QWZn?oc=5",
+            "published": "2026-06-23T12:15:13+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Tucker Carlson says he no longer backs Republican Party over ‘immoral’ Iran war",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aYVVFNVg0R0JHTWZtdlBLMW1lV3oxSy1JTWJEQW1rcllvc2hPRTM2TXYzamx0OHdhMTJoVnk4bUtRZlA5V19ISE94Yk1nUjJYZ01F?oc=5",
+            "published": "2026-06-23T11:55:04+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Lebanese, French leaders discuss post-UNIFIL peacekeeping mission in southern Lebanon",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1seWdWOEdidkF3YVU0WnNtZUpSZl9LSXZYTWtpN0NOUlE5a290OVdYN3pJeERJVGplbE1MUUR2X1ktS2gzVHlGazdXekJXcGhPc1k0?oc=5",
+            "published": "2026-06-23T11:55:03+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Pakistan clears 435-km fuel pipeline linking Punjab to northwest",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMUlNveGdiRXNNZGxKQ0U5OW9CRmM0cDZnODhwZURzNEEzVlVyR1dDVVNEcjNBc3BrM0Z2WU5JOTVRV2VTZ2ItQ3FRajg4dWtDaGFN?oc=5",
             "published": "2026-06-23T11:31:04+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Saudi assets under management to exceed $400bn by 2027: Fitch",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80b2Yzek15MXhaQ1l5Ry1YX2toMGdDUFFpY0xwWWdkSmlIMXZBa0lWMFhZdTJQbGhLTzN4NTFQU2JsVUFPc2tNSjN5R01NZVlKY0k0?oc=5",
-            "published": "2026-06-23T10:57:43+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Egypt approves 2026/27 budget, economic development plan",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mdGVQaVFKRjBSbVhOSGpHd2hlMVVjMVdSQ3NPMUJfN0tOZTJldkdMNWZPb1oyamlkbl9yNmxYN2J6dDBOLWRTZFNhZEoxUEw2UHFj?oc=5",
-            "published": "2026-06-23T10:30:05+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Russia says US drifting from role as ‘objective mediator’ in Ukraine war",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9naVUtYnZheC11ZThYdEhTTWI3VHNsWUdsYUU2YlhXZVFDZHhpZTRfMFZ6VHAwUkxXeXFIOFM1blRqWmlQaEt0YzZ0Y1RRV2RTYUlB?oc=5",
-            "published": "2026-06-23T09:51:36+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Israeli gunfire kills one in south Lebanon: state media",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lV1FmWkY2dU15WGlfTXZYSzVZejcySWZmNHRKOGhQYXB3a01TcFRXdjNtSTRxVWVQTzR6RkxoLU5hdFNxYXdhSXpTYXQtcGZ3Qkhz?oc=5",
-            "published": "2026-06-23T09:51:36+00:00",
-            "snippet": ""
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "The National",
@@ -535,6 +519,18 @@
         "lang": "en",
         "url": "https://www.thenationalnews.com",
         "headlines": [
+          {
+            "title": "Two killed by Israeli gunfire in southern Lebanon amid lull in fighting",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEU2NXdrRGR4aGo5dU8xT2tvY2JNWGZmamEwU0dHZTNuUEd2NkN2QUJ2MGwzSFJhejJsMmtEeEV4TUExN2l2b0dnTmN4MVZnU21MMU9rWld4YXpSdDhxNm90QmRiT2x3eWt5ZHFwejl4UnZoLWxnQXh6SXZpTkdhTk9uVjc0ODM4UXJ4ZUlWRXNwWTdKSnVJMFpsakpqaUNLcElpamJibE9YejRudWFoaHVwR0xPZnN5TmFXYTB6Y3g0ZlU?oc=5",
+            "published": "2026-06-23T13:21:35+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Britons want to reduce ties with Sudan government amid concerns over asylum and Islamism",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX1oyY3E3UEI2LWNsNjNkRTVraUJIYU9PLXctaHlveFVWME1LUEg5Y0JDVngtT1hVY0l5Rl9hZWFLbGdPS1p4cU9ZN0UzYTNWNC1jNFF6Zy1IeFR6MXFPR19SMmoyM3BBM3JmZFc2X244UDFzZzlYRnFoenhCM1RwU0Y0aS1QaVJsWUgyWTdZaFZXbUxnS3NXUVJlSTA2RjllVjFxUTlua0dvYW5YS0xfOWFOOUNPekZ6QUMyXzAyZTZ6WEt5cDNqWUVLbjg2d0tIeVlLc0xxbw?oc=5",
+            "published": "2026-06-23T12:56:15+00:00",
+            "snippet": ""
+          },
           {
             "title": "Best photos of June 23: Sparks fly at manufacturing company in China to heatwave in Paris",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZUpnb2gybmRBcGxtcE0zeHRfNEtKc2JCcWxKQURuTnJ2NmFHZGFaRmZhOXNJT2FCbHpGN1RpSTJHTFk5SkdBejNHVDFsYlJaUFBpdTE0dThhRmpTQVduNWg2VTNyd25RcDdQTDRjdFZRZkowRXNwTnJ1b1lKbVkxTENraTRkMlBUNG9UR0FWcHE5ZGdQYU1YNHdRVXdtX21Mb01fZWlxWjJJUzJoREJvVGc5WlVkNm00QUc5RHQ5RzBGZUJBel9jTEptdXJZVzM1T3Jz?oc=5",
@@ -552,23 +548,9 @@
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeEhNM214YVgxcDJ2NWVVMzNfTVQzUVI4cVYtckhSRHc5RG9aTHRWVWw3cFVGU0hBZVlqR3VYclVJR0F2UTZNWnVUb2NrS0l3eGo1ZzJPcnp1cmMxekxqZEFmWDducXBNSlZfdGhCRDA5RGM2ZDhVQ1FvbHFJbWNWWHpWNlYtZ2kxcmU4UkdtRlR6UnRQZHdMMmJGbXJxYlZmWjZYNXBFZzVRR2hla2FDbjl3TV8wQUJaUnEzWA?oc=5",
             "published": "2026-06-23T10:55:35+00:00",
             "snippet": "Arab diplomacy is intensifying amidst US-Iran talks and Senator Rubio's tour of the Gulf."
-          },
-          {
-            "title": "Qatar doing 'everything possible' to extinguish Netanyahu's regional 'fires', says PM",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU0xRVU5DRGxNTnhtQ240ckgzbmdDWVhmSFhvenhEYU9GMkJUbGdwNDZONmFYMXdUVUszVHRyLVVGeERmTW9tYXplOC1KaVdyOHAzdTBaUnRHTlp5Yk01Tl9vZ3lieFdoSUlRc3ViV2Rmb2N3S21ydi1YVnFxSUZwdXFGS1VnNnVDd1hnZVhTQVFnSUlZRi1oaUFuQzkxaFZJSHlkSktIaVY3eVR3RzdJUEQ4Nm5JbThHQ3drOHhsRGlsbmtIRWl5YXU2NTVBUQ?oc=5",
-            "published": "2026-06-23T10:52:30+00:00",
-            "snippet": "Qatar's Prime Minister stated the country is doing 'everything possible' to extinguish Netanyahu's regional 'fires'."
-          },
-          {
-            "title": "Extreme weather risk on the rise with Gulf 'feeling 4°C hotter'",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSXVzRUVLdlBtXzQxYU83djY5S1VXaHRRMUlLYkw5WFNPZWRxMkhUZjl6RVA4RmRBaVpORU5uUjB2enpvY19Dd29zdnFtQ3F1VW8xNS1vVnhjaDJ5LXM5bVhDWVdHWEx0TzhudFBwZDlrRG1uNmVHM3JWbkZrc2ZRRDVIbkJ6WTNnbHZMS3ZHNXB4VzJIbk5SeVlndDdZRWZBRTdNcGRac2RNS2NZVmtoMDJ1VTBLSnppcjdFXzFDZ0pDd3BMYXluaUhRR3ZkRnNtVVhuM3hZdkNkR28yYjBqak5aNzE?oc=5",
-            "published": "2026-06-23T09:59:10+00:00",
-            "snippet": "The Gulf region is experiencing increased extreme weather risk, with temperatures feeling '4°C hotter'."
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "Gulf News",
@@ -577,39 +559,37 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
+            "title": "Stephen N R",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16UEZyQXNpVG1veHY0dm9KbzZKQm1zV2RjTkdSRnJhRWVDM3AtNEhicVVmXzFkZV94Yk9NXzk1dzdITkdFNGF1SzZTd0ZiZlZT?oc=5",
+            "published": "2026-06-23T12:37:08+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Rs17-crore palace booked for wedding; bride-to-be, lover held in cliff-death plot",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkFDcmV4TlV5dlNOTUFfT3N5NTUzRDZzZ0xYOVhwdzJYeHZSSTRCa3dQcWdqaWluVVdtMjRkSzdEQkdjWWZMdlhxX0hkS0tELWJDTzExdkcxdEtHeW5XMGpRXzFtRFI2OUJLT0RvZjgwN1g3NHdjbnl0elE0VThsRl94TWVHdVp0aVNncWlzMGw0dmFWNWc2YWJGcjlKYjQyZWVja0hkUGpmZ1hUZW9UZjBEQThqb1VfNTcyRDQzT29oWTN2MnJwSFNoa0I1ZFZnZG1ENU9IamRTVTdISHfSAd4BQVVfeXFMUFZBQ3JleE5VeXZTTk1BX09zeTU1M0Q2c2dMWDlYcHcyWHh2Ukk0Qmt3UHFnamlpblVXbTI0ZEs3REJHY1lmTHZYcV9IZEtLRC1iQ08xMXZHMXRLR3luVzBqUV8xbURSNjlCS09Eb2Y4MDdYNzR3Y255dHpRNFU4bEZfeE1lR3VadGlTZ3FpczBsNHZhVjVnNmFiRnI5SmI0MmVlY2tIZFBqZmdYVGVvVGYwREE4am9VXzU3MkQ0M09vaFkzdjJycEhTaGtCNWRWZ2RtRDVPSGpkU1U3SEh3?oc=5",
+            "published": "2026-06-23T11:30:12+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Air Arabia Abu Dhabi adds Aleppo flights from July 7",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcVZBdWN2ZFpHQUIwa2NfSlV1ME5oYm8zUnZma1hGMEhQdTQwV0U2X0JibzZfWHAwUW8xQi0wZHZ4cDVLYVNMWDNVX3prMVoxZzBqQ3gyakI1cEJXNnFDSEZNNUNmYkJrNEhqNVBfWXVndk9HUGRxNmltNFp2N0NOazhjbVZBLTlFdUtiZ1JWczk0Q3hrREF2dk11d3dQTzJyRmQ1bnFZNm80SEFHN081Q1NMalcydDlZ0gG4AUFVX3lxTE9xVkF1Y3ZkWkdBQjBrY19KVXUwTmhibzNSdmZrWEYwSFB1NDBXRTZfQmJvNl9YcDBRbzFCLTBkdnhwNUthU0xYM1VfemsxWjFnMGpDeDJqQjVwQlc2cUNIRk01Q2ZiQms0SGo1UF9ZdWd2T0dQZHE2aW00WnY3Q05rOGNtVkEtOUV1S2JnUlZzOTRDeGtEQXZ2TXV3d1BPMnJGZDVucVk2bzRIQUc3TzVDU0xqVzJ0OVk?oc=5",
+            "published": "2026-06-23T10:29:07+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Hormuz traffic hits post-war high, uncertainty persists",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOODVLeFl0WGNwRWJMejlveHZnbWR6MVNHUnBHaXF4ZW1vVGJVcEpaSFA5MEVxUUlUNG00MTVTak9JbE9SaHVZZkZfSFpyeUFlV1BMU01rSnV4cXdMM3ctQTJWZy1YUHkwQ1ZGWG82UEpLS2IwREx0RE10ejdUeENhNk5vNndwQm9IVTZ5Y1lsQ0RWZ3fSAaYBQVVfeXFMTVdxcEtnNzAwV0Y4aEVPZUxDczFKS0llSnpTXzJlbXdGYnlMVDNVaW5YMDJwY005eEs4OVRObjJDaGVmYjZ0RXowVlFSeC0xVFBmSVFaRVZNdHNfYUJFYzB5WU51azVMd2ZNdzZMa203TWxlS0FYMHF4WnR6NGliVDY0bnA2WHNlMWVEVGRERmsza3FPZkFqeE9FS3hwZFgwU284TWc4UQ?oc=5",
             "published": "2026-06-23T10:25:37+00:00",
             "snippet": ""
           },
           {
-            "title": "Dubai graduate chosen as student voice of Stanford’s 2026 commencement",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUd4NV9UNzR3eW90SUgxaUh5U2FoX1dnZ2NMTEtjLVV0YU5MZTUtUkJzVmV4ZC1DLU1VV2RwVVMzYzJuZm9HRVdzTUlWRHlqQjNPR05wTGx3Q2VwVWU4ZmZZM1RsMHFoa1VWMmNrc2VucWNzSUw3OE1QbWZCSWdDN1JlUTk4a3JMTUppRFpPN3BoQTgzTUJIVXdCckhxeEhJZUw5RVJTdDRDNm5SYlMxLW4yWXlaOUZaeUlrQi1jZ3BTZ9IBwgFBVV95cUxQOUd4NV9UNzR3eW90SUgxaUh5U2FoX1dnZ2NMTEtjLVV0YU5MZTUtUkJzVmV4ZC1DLU1VV2RwVVMzYzJuZm9HRVdzTUlWRHlqQjNPR05wTGx3Q2VwVWU4ZmZZM1RsMHFoa1VWMmNrc2VucWNzSUw3OE1QbWZCSWdDN1JlUTk4a3JMTUppRFpPN3BoQTgzTUJIVXdCckhxeEhJZUw5RVJTdDRDNm5SYlMxLW4yWXlaOUZaeUlrQi1jZ3BTZw?oc=5",
-            "published": "2026-06-23T10:09:54+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Bengaluru parents, younger sister murdered; daughter, boyfriend arrested",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcm9LdTlQdHJaaTRyX3N4THgyMWkwU0ZnWld5QXk4cTJGTm8yT0s0Rzc2OVo0OGVQZWE0alJuTlZLZDNqc0RnXzRuczVITmRwcVh2dFRSOXFKUVQ0MmhmYjJFeDIwT3ROTnVYMHBscm9JXzFfUVk3MWxoZUJaY2dYSmZxMHBZaUtDcDctUEdXUVNuelJiNVc4THJoMWpjcEN0NnhpSUVBcXp1T1lOX21ta1dsTkxhazNmeTJlSDgzZktBOElJWUFUbzFlWXVDQ0Jr0gHQAUFVX3lxTE9yb0t1OVB0clppNHJfc3hMeDIxaTBTRmdaV3lBeThxMkZObzJPSzRHNzY5WjQ4ZVBlYTRqUm5OVktkM2pzRGdfNG5zNUhOZHBxWHZ0VFI5cUpRVDQyaGZiMkV4MjBPdE5OdVgwcGxyb0lfMV9RWTcxbGhlQlpjZ1hKZnEwcFlpS0NwNy1QR1dRU256UmI1VzhMcmgxamNwQ3Q2eGlJRUFxenVPWU5fbW1rV2xOTGFrM2Z5MmVIODNmS0E4SUlZQVRvMWVZdUNDQms?oc=5",
-            "published": "2026-06-23T10:05:07+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "UAE e-invoicing countdown begins: New deadlines, rules and risks explained",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOWwzTG1tVzkyNWRFMWttSGxOT294QkRURlZPNWRRSHBpcUlmWmtBM09Eejg5bVFERmMxT1VMMmdRcFZtTDRsT0dWcUNHOVZqRXM2QXdpZnREUVo1RHpqaEVNZmVOQ3NOa1V2U3I3a25sMVdaZl85d1diLWlaQVNKa3BqUTAxV3NSZnNDN253VFBUNERlNnhmUVkzVVNpRm1aeU96UjM2WmVQS0ZScE0wNlR3R05wMEJDdmRvUXF2Q0YwRXJiTmQ2UUIzTy1KUmZLTk840gHTAUFVX3lxTE05bDNMbW1XOTI1ZEUxa21IbE5Pb3hCRFRGVk81ZFFIcGlxSWZaa0EzT0R6ODltUURGYzFPVUwyZ1FwVm1MNGxPR1ZxQ0c5VmpFczZBd2lmdERRWjVEempoRU1mZU5Dc05rVXZTcjdrbmwxV1pmXzl3V2ItaVpBU0prcGpRMDFXc1Jmc0M3bndUUFQ0RGU2eGZRWTNVU2lGbVp5T3pSMzZaZVBLRlJwTTA2VHdHTnAwQkN2ZG9RcXZDRjBFcmJOZDZRQjNPLUpSZktOTzg?oc=5",
-            "published": "2026-06-23T09:54:25+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "From pause to purpose: How this Lebanese mother found a new path in the UAE",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFBnc2FKd2RIUklEOVhRWnpISnRyeTlLZkFpdE1aLU94VXo0Rm4za1lPMjVFMmQ5Rmp3bWNvZXFTSzFEa2VlYjdiN1F1UzQ1MmZBMERxQm91TmJybk9qMjIwREFteTFkcHJ1NDdSM0pIeG1wRXNzV2tzNjJuc0Z3VUhoTFAxYkRGNFdOZWRIdEMxX1Rnd05KV1JsbmhjakxpRTBGZjREYnV1dlBxeEI3WWg5ZUlSYUVfWC1Qb3I0QmpOQmdORl8wSW1RZDfSAcwBQVVfeXFMTXBQZ3NhSndkSFJJRDlYUVp6SEp0cnk5S2ZBaXRNWi1PeFV6NEZuM2tZTzI1RTJkOUZqd21jb2VxU0sxRGtlZWI3YjdRdVM0NTJmQTBEcUJvdU5icm5PajIyMERBbXkxZHBydTQ3UjNKSHhtcEVzc1drczYybnNGd1VIaExQMWJERjRXTmVkSHRDMV9UZ3dOSldSbG5oY2pMaUUwRmY0RGJ1dXZQcXhCN1loOWVJUmFFX1gtUG9yNEJqTkJnTkZfMEltUWQ3?oc=5",
-            "published": "2026-06-23T09:48:15+00:00",
+            "title": "Dana Gas gets Egypt dues cleared after new gas find beats forecast",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdGRZNk5qbXBpOHg2dHpxcXdhdzZ0T1RKS2plenpTZTllTTVvN2wwaFpKaUZKVWg2NlhDTkZibDdqUDhvUlFiSVdhY0lZelJLNXlZMVpzaHBlNWNDa2E2dWxKT2JYTXZFdDA5MlgwU1Vfb2RYNW9Hek5iMTJrM1ZKRl9KRTRwZTBhNm9TVTJFMmFhekFfUEp5d0c4Y2RmRFNhQmZRbW4wbXR3YXhXUGZHOF9TSWcwczY3aXpNcVBLNTBXbkVsLWdFYtIByAFBVV95cUxPdGRZNk5qbXBpOHg2dHpxcXdhdzZ0T1RKS2plenpTZTllTTVvN2wwaFpKaUZKVWg2NlhDTkZibDdqUDhvUlFiSVdhY0lZelJLNXlZMVpzaHBlNWNDa2E2dWxKT2JYTXZFdDA5MlgwU1Vfb2RYNW9Hek5iMTJrM1ZKRl9KRTRwZTBhNm9TVTJFMmFhekFfUEp5d0c4Y2RmRFNhQmZRbW4wbXR3YXhXUGZHOF9TSWcwczY3aXpNcVBLNTBXbkVsLWdFYg?oc=5",
+            "published": "2026-06-23T10:22:43+00:00",
             "snippet": ""
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "Gulf Times",
@@ -619,14 +599,14 @@
         "headlines": [
           {
             "title": "Deputy PM and State Minister for Defence attends graduation of 26th National Service Cohort",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTQzZkpfMXFVTncwOWtuQU5GREN4LWlzcVRYQWF3WXp4cjQ2RDdiOFlLREZpeFE4VjhNUXl6R2Z3OWdYTEo0NE9KWkZpaEk2QTN1VzVBQ0I3Z2hBeGVIaG55QV9teFAzdVlPTWhScjBULWI3TE9zQjdLZy1ScWtvQmRsdmEyb2RYLWxhcWxPWVNqSHN3eUZUMzg2YlVzOGc5Sjhpd3pSZW5WZkZFaF9STkVBaHBaQnRHS3l4SVJUUk1NUm9tSVBUTzdBdzNBeWVCek9VZDZn0gHbAUFVX3lxTE12ZEJfUGZ2ckxqU1NYOFN1ZnhaQm9xUmlyekh4ZTR1aGRFbFJhZHo1RHhPZlFBd0pGQ3NhbzY5Ql80YTRhYW9KS2REQzhDbVh3MXVjWGhwV1FqbDJuQ1NzTl82dzZNZFFNQ01CVklJV25VQUpZOUJHb0Q5NzNxQV95cGNWekdNSFlzTXFyemtCREM2dTFHMEM1R1hMTjlBajR1T0ExZTBmekFvclF1QjlMa0xyTElYMHc2anpHd1BOQnFXdDFnOGZWZUpCMmxmY0FhN09MZ3hjZUI4Zw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdmRCX1BmdnJMalNTWDhTdWZ4WkJvcVJpcnpIeGU0dWhkRWxSYWR6NUR4T2ZRQXdKRkNzYW82OUJfNGE0YWFvSktkREM4Q21YdzF1Y1hocFdRamwybkNTc05fNnc2TWRRTUNNQlZJSVduVUFKWTlCR29EOTczcUFfeXBjVnpHTUhZc01xcnprQkRDNnUxRzBDNUdYTE45QWo0dU9BMWUwZnpBb3JRdUI5TGtMckxJWDB3Nmp6R3dQTkJxV3QxZzhmVmVKQjJsZmNBYTdPTGd4Y2VCOGfSAdsBQVVfeXFMTXZkQl9QZnZyTGpTU1g4U3VmeFpCb3FSaXJ6SHhlNHVoZEVsUmFkejVEeE9mUUF3SkZDc2FvNjlCXzRhNGFhb0pLZERDOENtWHcxdWNYaHBXUWpsMm5DU3NOXzZ3Nk1kUU1DTUJWSUlXblVBSlk5QkdvRDk3M3FBX3lwY1Z6R01IWXNNcXJ6a0JEQzZ1MUcwQzVHWExOOUFqNHVPQTFlMGZ6QW9yUXVCOUxrTHJMSVgwdzZqekd3UE5CcVd0MWc4ZlZlSkIybGZjQWE3T0xneGNlQjhn?oc=5",
             "published": "2026-06-23T11:46:00+00:00",
             "snippet": ""
           },
           {
-            "title": "Invest Qatar gateway introduces new feature, connecting startups to venture capital funds",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbVdUNHJ1OEZSTENpTjk4R24tcHU3Y0lxRTd2azJJSmlXTG81M2g5bkZFMUFQeXBKR21SdTBTZGo3bEtjZDhaYXdORHlvVFNKOTE1WmhIeVFfZ096NG5tNFZxXy1ZeFBqemdPcS01clhPWThOY0NZU3JOREFSM1JoM09kaThOSTdXeUR2T0FCWGtPS241a21VX3c0V2xIbW41V0k3YTBjVFRESUczbmYxOEVCUHJsblE0T1IwUjhaTmVBQks2eDhETHNSZ3ZuOUptUmc?oc=5",
-            "published": "2026-06-23T11:22:00+00:00",
+            "title": "HH the Amir receives phone call from UAE President",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGdwNXJPZlgwX2w3LTFveEYtWXpCSGptdXZYVGIwT3pVaHpDbEgwVlA5b0NrU25NTVNGUmh3SlA4Q09CMWtCclgxZmlXV1p1eW0yOG9LRWhuVUIxNFdyWTVSckZDVjJwSFFsbDFkVWlqeG9nYnhvcE0yWU1zcEJrM1FwcTIxc1FTZVRIR2laNEpxZmtaU3lsR1AwOXhaaDJSbUN3Z9IBpAFBVV95cUxNOGdwNXJPZlgwX2w3LTFveEYtWXpCSGptdXZYVGIwT3pVaHpDbEgwVlA5b0NrU25NTVNGUmh3SlA4Q09CMWtCclgxZmlXV1p1eW0yOG9LRWhuVUIxNFdyWTVSckZDVjJwSFFsbDFkVWlqeG9nYnhvcE0yWU1zcEJrM1FwcTIxc1FTZVRIR2laNEpxZmtaU3lsR1AwOXhaaDJSbUN3Zw?oc=5",
+            "published": "2026-06-23T11:10:00+00:00",
             "snippet": ""
           },
           {
@@ -637,7 +617,7 @@
           },
           {
             "title": "Prime Minister and Minister of Foreign Affairs Receives Dutch FM",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVXNXay1UczFEbjl1SVhZMXhLcDBucnBRVGZtTW94S3ZmOENfYVFJME9EWGxKQTFkWGhVc2F5Uy1BZEV4UnNHRV9YUm44czl1UjRhT01HODVvWU5OYUUzVnFKWXUyek56SzdIanJqT3lUTy1HeGVsMWpNRVM1YUNtMzlCWk9nQ2JoOUZYMDJLdmJNemRnTFlwLWE2Y2c2cUxhWlV1MWl5UV9HVGlubzliVzN30gG3AUFVX3lxTE80dm1iT0FINXNjd1Y5LTRURUhnU0RQTno4cXZjeU9BNzk5ZzY3OC1tajhVUHNfaVRNekhaRFlxeV9sTjBCQmxmLUpEUXVXcnJtNWdfRXZQNnZWeFFhSnYtWDlyX0xUaWc0QlN0cThzdmhVVU9qV3ZyRW9abnJ0Mi01VmYyUnUzQUhRQmVmSDY2S1B6aU5ad3ktQnJCNFpON0lzVnpWUnhjbXI5MkMtSHdMNWRSV05fbw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHZtYk9BSDVzY3dWOS00VEVIZ1NEUE56OHF2Y3lPQTc5OWc2NzgtbWo4VVBzX2lUTXpIWkRZcXlfbE4wQkJsZi1KRFF1V3JybTVnX0V2UDZ2VnhRYUp2LVg5cl9MVGlnNEJTdHE4c3ZoVVVPald2ckVvWm5ydDItNVZmMlJ1M0FIUUJlZkg2NktQemlOWnd5LUJyQjRaTjdJc1Z6VlJ4Y21yOTJDLUh3TDVkUldOX2_SAbcBQVVfeXFMTzR2bWJPQUg1c2N3VjktNFRFSGdTRFBOejhxdmN5T0E3OTlnNjc4LW1qOFVQc19pVE16SFpEWXF5X2xOMEJCbGYtSkRRdVdycm01Z19FdlA2dlZ4UWFKdi1YOXJfTFRpZzRCU3RxOHN2aFVVT2pXdnJFb1pucnQyLTVWZjJSdTNBSFFCZWZINjZLUHppTlp3eS1CckI0Wk43SXNWelZSeGNtcjkyQy1Id0w1ZFJXTl9v?oc=5",
             "published": "2026-06-23T10:21:00+00:00",
             "snippet": ""
           },
@@ -648,9 +628,7 @@
             "snippet": "The King of Thailand received the credentials of Qatar's Ambassador."
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "Times of Oman",
@@ -659,39 +637,37 @@
         "url": "https://timesofoman.com",
         "headlines": [
           {
+            "title": "Environment Authority launches second version of Washaq System",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjVjUlZMWGtIWVNCTjFmWEg0NURaSkQxQ3hGUkl1ZkVGSUk5RWlsSzN0Vk9hTUJ3dURYTEpSRk5YQlAwMU9QZHR2WmhRWXdHdFd6ZmQ1TTV4TGtEMlFaZGFlZWRrSXNsLWJyM2FmQmwxWVlFYWMxQ1RpTWQzQ1EtdGdrTTZ5akVEOTh1c0JCTlYyb25hZjhNT0VEQThwb0FTOHBB?oc=5",
+            "published": "2026-06-23T13:24:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Royal Decree issued on amending some laws",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVhmQ2JoeXJpNV83VlM0NV84N0pjc3dHR1B5Ui1LenFTZ2dKNUJ4VTdBUE01SkRPODJqQjAyRXJ4OU43WmctbUNJNlRJSE1HYmxtLTc0Z2xFZTZJeXQwOGsyZ0Q2WlBIZlVsRWNVRi00a2huOWQ5b3BrdWxVX2RRQ18teDlXWXM?oc=5",
+            "published": "2026-06-23T13:16:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Starmer's exit leaves Britain's deeper political problems unresolved",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDNOYUNVbS01S2ZHRVVLYXppQUZSU2tzY2dYblM1dXRnODhSS29DMFZTOGtwczFhdmRpSTNROFBISXFDR281M3dYQWRzN3VodlZSMUFUR0stT1lZTm9CcTZ3Mm5JQmpBUDNHYURhYm9EWnNpdTd4NlNlYXYxbW5MTmI5UFRKX2hMMUQ3Yy02dEFlVGk2ZTFNcDNFaVo0MGRDTWt0Z19MZHg?oc=5",
+            "published": "2026-06-23T12:51:00+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "MoC signed to enhance exchange of statistical data, information",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM256S1k3VXpYbEZEenhkZF84N3VwT0pOQlFld1pnYmhpSm1XalpyY0RXTHVKTmNJaWFLM1ZiUVVaVHRRVm1IY01kWTRHb18yWEtqWUxXc29vbm5hM3BpQmJNZkc2UGxxTzhzYUdQY3RVZGxfUjNfa0ZmZWlqWk55Y0JDN21rUy1BMjRZaVpGMDhnSjRNamw3cnotUmpySDFRWWUw?oc=5",
+            "published": "2026-06-23T12:36:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Oman, Morocco sign MoU to train lawyers, legal professionals",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWpHcnBWNlRtU2VqYVZ3QnVSVGZIMG9IWEQwRkhXdUhUWV9KN2wxRUJQaVBuVkZGbU9DVGlieV9KTVRYQmpNQkdfRGpBQjlqS1NIU2VJRzNIQlBBYW05OElIQnpVNVdfdjFERW9vT0s4ZXVkakYtWk94ZWRfelFUdjVUa25OcHNfRC1VWEp6SFJaYnY4Nm1VbVgySU9jZw?oc=5",
             "published": "2026-06-23T12:22:00+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Oman adopts Advanced Air Mobility technologies",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb29KcTBsM1ZJRXF6ZUlleTZ1MGRYMXM3WFNlUGRiVGxNQlNHRm5WY2p3N0pjeFN6T0thQkstZXlEYVRrMHRVbXBTb1Mwd0lKbjE0TDhTd0pUYU1Rbjl4SnQ4V25qTU9wai1JX2s3VWt4bjVFNjM3OWZpaUJINzgwVGNrNmtnaTdpT3ZWa3J3?oc=5",
-            "published": "2026-06-23T12:19:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Oman, Iran reaffirm their commitment to ensuring safe passage through Strait of Hormuz",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRVJlclV1RTlkUzhCaTh1QVAweDhvTE1KSlFPWVhXZmpOa29sVllxdkhMYzZjT3pzTUlXVC1PQXJSckpIeF9iQWQ2dHFTdEl6TzM4LVltTFJpVnlFVE9tUGF4VjFHUkc2cGFDSnFNNDRvNTFfams3SGNqLTZBaTBJN2xJamVMOWc5UnNNc0d6dmFDYjZRbEVndzYwdVFpQS1NNVlZcTd3SGJ5a09kZHBXYzNKMWZEbFhzN2pfNlRpR0xlUQ?oc=5",
-            "published": "2026-06-23T12:12:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Power sector outlook in India remains positive on strong demand, policy support: Report",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ19uaXNOakEyUFJGaVBrbEZLZzFicnp6bEpxWkFMX0JPNlB6Q1NDcnVjYU00ODdsbzU1WVR6VzJZZGpCZ1hWRVY4NnJza0o0X3BhMHU3Z3RTQ0YxVTYyeHNzRXRZS1g4YVgwM1dyaXktcWtlWGhwR0dyT05aNGQzX2xLQnBCTFhpUU1veENJM05tb3JsbG9XNDUxVEtLNkJlUWFzMGlIdDd5a1hvRjRuQk55TkVIWDVjZmdwR2VscUM2QQ?oc=5",
-            "published": "2026-06-23T12:08:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "World unlikely to return to pre-crisis energy situation: S&P's Jim Burkhard",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVVE1X1Y1bHZVRmlXOVNiR1h0enhiaEY1bklPOUd5NGpKVHB2MWZ4LTFBRDBWT3cwTmNmdE5rMVVwMzduMktIMTBZc2doTEhBeWZ6QjBZc19FbEg2Rkg3c1h3bVByQ29mdFFaOWx6Mm1NaFlsMUN4TVVsTmI4UjJiUGFzT2wtRl9iYzdhTEVIcy16Rk5FRldWc0NZcHRIcHZjekdGYndoQlFwYk9ZakxCMg?oc=5",
-            "published": "2026-06-23T12:05:00+00:00",
-            "snippet": ""
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       }
     ],
     "Israel": [
@@ -702,7 +678,7 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
-            "title": "Return of Ron Arad amid topics of current Israel-Lebanon negotiations - report",
+            "title": "Return of Ron Arad's remains could be discussed in Israel-Lebanon DC talks  - report",
             "url": "https://www.jpost.com/middle-east/article-900274",
             "published": "2026-06-23T15:53:55+00:00",
             "snippet": ""
@@ -741,6 +717,18 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
+            "title": "As talks sideline Israel, Netanyahu says ‘we need to free ourselves of dependence’ on US arms",
+            "url": "https://www.timesofisrael.com/as-talks-sideline-israel-netanyahu-says-we-need-to-free-ourselves-of-dependence-on-us-arms/",
+            "published": "2026-06-23T13:21:11+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Israel, AIPAC and Zohran Mamdani take center stage in Tuesday’s NY primaries",
+            "url": "https://www.timesofisrael.com/israel-aipac-and-zohran-mamdani-take-center-stage-in-tuesdays-ny-primaries/",
+            "published": "2026-06-23T13:16:26+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Contradicting Vance, Iran says no plans for IAEA inspections of damaged nuclear sites",
             "url": "https://www.timesofisrael.com/contradicting-vance-iran-says-no-plans-for-iaea-inspections-of-damaged-nuclear-sites/",
             "published": "2026-06-23T11:39:11+00:00",
@@ -757,18 +745,6 @@
             "url": "https://toi.li/x7OeKS",
             "published": "2026-06-23T10:56:56+00:00",
             "snippet": "Magen is seeking donations to support child sexual abuse survivors and advocacy, with a dollar-for-dollar match offer."
-          },
-          {
-            "title": "Help Magen break the silence around child sexual abuse - Sponsored Content",
-            "url": "https://toi.li/ODfeDq",
-            "published": "2026-06-23T10:38:14+00:00",
-            "snippet": "Magen is seeking donations to support child sexual abuse survivors and advocacy, with a dollar-for-dollar match offer."
-          },
-          {
-            "title": "Daily Briefing June 23: Underground Hezbollah base put all of Israel in range",
-            "url": "https://www.timesofisrael.com/daily-briefing-june-23-underground-hezbollah-base-put-all-of-israel-in-range/",
-            "published": "2026-06-23T10:20:15+00:00",
-            "snippet": "Daily Briefing on June 23 covers an underground Hezbollah base, army frustration with a porous ceasefire, and IDF strikes in Gaza."
           }
         ],
         "error": null
@@ -853,9 +829,7 @@
             "snippet": ""
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-06-23T12:33:56.167569+00:00"
+        "error": null
       },
       {
         "source": "Mehr News",
@@ -863,6 +837,12 @@
         "lang": "en",
         "url": "https://en.mehrnews.com",
         "headlines": [
+          {
+            "title": "We are ready for preemptive, surprise ops.: Gen. Pourdastan",
+            "url": "https://en.mehrnews.com/news/245562/We-are-ready-for-preemptive-surprise-ops-Gen-Pourdastan",
+            "published": "2026-06-23T13:06:53+00:00",
+            "snippet": ""
+          },
           {
             "title": "Gaza death toll reaches 73,039 since Oct. 2023: health min.",
             "url": "https://en.mehrnews.com/news/245563/Gaza-death-toll-reaches-73-039-since-Oct-2023-health-min",
@@ -886,12 +866,6 @@
             "url": "https://en.mehrnews.com/news/245559/Ghalibaf-meets-with-Sultan-of-Oman-in-Muscat-for-talks",
             "published": "2026-06-23T08:56:59+00:00",
             "snippet": ""
-          },
-          {
-            "title": "Ukraine intensifies drone strikes on Zaporozhye nuclear plant",
-            "url": "https://en.mehrnews.com/news/245558/Ukraine-intensifies-drone-strikes-on-Zaporozhye-nuclear-plant",
-            "published": "2026-06-23T08:45:49+00:00",
-            "snippet": "Ukrainian forces have increased drone strikes targeting facilities at the Zaporozhye Nuclear Power Plant (ZNPP) in the past week."
           }
         ],
         "error": null
