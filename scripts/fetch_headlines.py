@@ -172,12 +172,13 @@ SOURCES = {
             "source": "Tehran Times", "country": "Iran", "lang": "en",
             "url": "https://www.tehrantimes.com",
             "rss": "https://www.tehrantimes.com/rss",
-            # Its full-site Google News feed mixes in sports & culture; exclude
-            # those sections at the query so only news/politics comes through.
+            # Its full-site Google News feed mixes in sports results. Exclude
+            # sports at the query (these terms never appear in political
+            # articles, so news/politics still comes through). Culture/arts are
+            # handled by the title filter, which won't starve the feed.
             "gn_exclude": ["volleyball", "football", "soccer", "wrestling",
-                           "basketball", "taekwondo", "sports", "theater",
-                           "theatre", "cinema", "film", "movie", "music",
-                           "festival", "tourism"],
+                           "basketball", "taekwondo", "handball", "futsal",
+                           "weightlifting"],
         },
         {
             "source": "Mehr News", "country": "Iran", "lang": "en",
@@ -479,6 +480,12 @@ def is_offtopic(title: str, url: str = "") -> bool:
     if title:
         # Advice / service Q&A columns: "Ask Gulf News: …", "Ask Khaleej Times: …"
         if re.match(r"(?i)^ask\s+[\w.'’ -]{2,24}:", title.strip()):
+            return True
+        # Arts-venue listings ("Iranshahr Theater to host …", "National Theatre
+        # stages …") — but NOT the military "theater of war / operations".
+        if re.search(r"(?i)theat(?:er|re)\s+"
+                     r"(?:to\s+host|hosts|to\s+stage|stages|festival|production|"
+                     r"premieres?|presents)", title):
             return True
         if OFFTOPIC_RE.search(title):
             return True
