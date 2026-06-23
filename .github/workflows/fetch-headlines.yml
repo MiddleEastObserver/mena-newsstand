@@ -172,7 +172,7 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
     # Serialise deploys; never cancel one mid-publish.
     concurrency:
       group: newsstand-pages
@@ -202,6 +202,22 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      # GitHub finishes building a Pages deployment ASYNCHRONOUSLY after the
+      # deploy step returns, so when two runs land close together (the */15
+      # safety cron overlapping the ~28-min self-loop, or several manual
+      # refreshes) the next deploy fails with HTTP 400 "in progress deployment".
+      # It's transient and self-healing — wait for the previous one to settle
+      # and try again so the run doesn't show as failed.
+      - name: Wait, then retry the deploy if it hit an in-progress conflict
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 75
+
+      - name: Deploy to GitHub Pages (retry)
+        id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
   # ---------------------------------------------------------------------------
