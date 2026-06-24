@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T14:24:43.820647+00:00",
+  "updated": "2026-06-24T14:53:51.072175+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
+            "url": "https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know?traffic_source=rss",
+            "published": "2026-06-24T14:27:55+00:00",
+            "snippet": "Tehran says the strait 'will never return' to its prewar conditions and claims it can charge fees for services."
+          },
           {
             "title": "Rubio tries to reassure Gulf allies on US-Iran deal details",
             "url": "https://www.aljazeera.com/news/2026/6/24/rubio-tries-to-reassure-gulf-allies-on-us-iran-deal-details?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal?traffic_source=rss",
             "published": "2026-06-24T12:59:19+00:00",
             "snippet": "Pakistan sees strategic opportunity in the US-Iran thaw, including trade, energy access and renewed regional relevance."
-          },
-          {
-            "title": "Iranians cautiously optimistic about thorny deal with US",
-            "url": "https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us?traffic_source=rss",
-            "published": "2026-06-24T12:44:07+00:00",
-            "snippet": "Iranians are cautiously optimistic about complex negotiations with the US, facing internal political disputes as they look ahead to months of talks."
           }
         ],
         "error": null
@@ -87,16 +87,22 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
-            "title": "Israeli drone targets vehicle in southern Lebanon",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMENTczl1VTNrODRSTmpKVE5ZVHc4OExCeFVPM2hCQ1M3M0xOd2dUeGMxUkRETTBhRHMzQVdsZjVXNjdZalliWTk5OGVjdkVfT2FQTDU1WFFNRjRnWGRTZGNkUjhoeFBtVDlGU0xRTTlNQ1VtOVZtbExfalhwcEdMWmJOX0p5aE1heVE1WHEwTlNkM1pjb2FMZXV6azNkeEs3ZTllUnVQemRxcDA3ckM4c9IBsAFBVV95cUxOMENTczl1VTNrODRSTmpKVE5ZVHc4OExCeFVPM2hCQ1M3M0xOd2dUeGMxUkRETTBhRHMzQVdsZjVXNjdZalliWTk5OGVjdkVfT2FQTDU1WFFNRjRnWGRTZGNkUjhoeFBtVDlGU0xRTTlNQ1VtOVZtbExfalhwcEdMWmJOX0p5aE1heVE1WHEwTlNkM1pjb2FMZXV6azNkeEs3ZTllUnVQemRxcDA3ckM4cw?oc=5",
-            "published": "2026-06-24T13:34:00+00:00",
-            "snippet": "Israeli drone targets vehicle in southern Lebanon Al Arabiya English"
+            "title": "Former US National Security Adviser John Bolton on Trump, Iran and nuclear",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVppeVJEeVZONU1UREY5dGYzVG5MS3JmdW00V3VfUlNUSkxJRW93RnJhd05MeU1QcGhCMU1ibEMyMnllMmlqbzJ5ZzBNVEJsNkY4d1VqM2FCOWVuaGFtMk5HVF9oTkN6STl2WlZCb3Z1bGx1LU12cmtDRUJGd09nVldIUnRuZWZQWUdsUHdxcUt1b2RCR0hZXzVPeHU5TWdUTlZVUXNxOTRhYlZZU0Z3MkdUQlNzN2FDMDI3RXdKczc1S3E4ZkNfREE3VU5mMlBDQ3Rz0gHTAUFVX3lxTFBVWml5UkR5Vk41TVRERjl0ZjNUbkxLcmZ1bTRXdV9SU1RKTElFb3dGcmF3Tkx5TVBwaEIxTWJsQzIyeWUyaWpvMnlnME1UQmw2Rjh3VWozYUI5ZW5oYW0yTkdUX2hOQ3pJOXZaVkJvdnVsbHUtTXZya0NFQkZ3T2dWV0hSdG5lZlBZR2xQd3FxS3VvZEJHSFlfNU94dTlNZ1ROVlVRc3E5NGFiVllTRncyR1RCU3M3YUMwMjdFd0pzNzVLcThmQ19EQTdVTmYyUENDdHM?oc=5",
+            "published": "2026-06-24T12:54:00+00:00",
+            "snippet": "Former US National Security Adviser John Bolton on Trump, Iran and nuclear Al Arabiya English"
           },
           {
             "title": "Military expert: They want to strip Iran of nuclear capabilities, but what about Israel?",
             "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcVB5MjRoQnBpZDJPeEVURlROcTZ4WURycWQ4eEhmWFhiU2doZDBVTHducW00OFBzQnFGYVBFVl9YdEhhSEhWdDNwMkJtMUJwWG5qa0l1N2VqSVk2andsanduZ09lanhQSU52cmc4ZTZEVHZtUWVGQXowQkVNazFOR2JxUnpIdWdlNFlvOW13b0ZEQjl6UVdDZW5mQUJFU2VDOVNOdDJ2MUVZZzVMaFVHeHFuVVJCZk5MeGFuLXBuMDVHREhocEItY0o4VEZET3c1RUg0NThEZDBSZ3ROSV93amc2S1czX2vSAecBQVVfeXFMT3FQeTI0aEJwaWQyT3hFVEZUTnE2eFlEcnFkOHhIZlhYYlNnaGQwVUx3bnFtNDhQc0JxRmFQRVZfWHRIYUhIVnQzcDJCbTFCcFhuamtJdTdlaklZNmp3bGp3bmdPZWp4UElOdnJnOGU2RFR2bVFlRkF6MEJFTWsxTkdicVJ6SHVnZTRZbzltd29GREI5elFXQ2VuZkFCRVNlQzlTTnQydjFFWWc1TGhVR3hxblVSQmZOTHhhbi1wbjA1R0RIaHBCLWNKOFRGRE93NUVINDU4RGQwUmd0Tklfd2pnNktXM19r?oc=5",
             "published": "2026-06-24T12:37:00+00:00",
             "snippet": "Military expert: They want to strip Iran of nuclear capabilities, but what about Israel? Al Arabiya English"
+          },
+          {
+            "title": "Lebanon transfers 128 Syrian convicts home under agreement",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1J1VGlqNnh1TG1meGRxdFZFaTZET01ZbjRvbE8xMGtoWTYxUTlDZXNLeTllTFJHbFUxWVVYREUyRndjZkJWM0dpUjlxVFZPQmVXR0cyQjI0cGtNcmtmaG5SQUUxN092a2RWOERrYzIybjV5X1JWMWlvR0xNelM5WUNvOEsxRWVGb2hBSUh0blk4X2VuZTl5bHlVZlBRVXNPM0FBd1dZd3owOXVFOEF5RTA1eWxCcmFlelJsZNIBvAFBVV95cUxNM1J1VGlqNnh1TG1meGRxdFZFaTZET01ZbjRvbE8xMGtoWTYxUTlDZXNLeTllTFJHbFUxWVVYREUyRndjZkJWM0dpUjlxVFZPQmVXR0cyQjI0cGtNcmtmaG5SQUUxN092a2RWOERrYzIybjV5X1JWMWlvR0xNelM5WUNvOEsxRWVGb2hBSUh0blk4X2VuZTl5bHlVZlBRVXNPM0FBd1dZd3owOXVFOEF5RTA1eWxCcmFlelJsZA?oc=5",
+            "published": "2026-06-24T12:36:00+00:00",
+            "snippet": "Lebanon transfers 128 Syrian convicts home under agreement Arab News"
           },
           {
             "title": "Israel says struck Hezbollah operatives in south Lebanon",
@@ -109,12 +115,6 @@
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeDhkY21Cb1E1WmZ3eXV4YlVlTnJsU0JNVEh6VkRQTFJCd3VvRTUxd2dMZkdDdzQ2bndhbmdqekhtN1Y5eVlmQzc0dXZmSkI3NXNJNFAtX1QwakVRVXpsY2FSajFuY3ZtMGJpNW55bFpCMEtKYk1lRlc4VFJxUDZtQ1lnYlBaZmE5R2RSeUZMVTgtYXdtSzd5UUh1UWtSUEFxNlZVYTNBak1KR3dmbDVMVDFpeng4QWxYOFU2Rjltc3FrQVpNSnhwUk1Nc9IBywFBVV95cUxQeDhkY21Cb1E1WmZ3eXV4YlVlTnJsU0JNVEh6VkRQTFJCd3VvRTUxd2dMZkdDdzQ2bndhbmdqekhtN1Y5eVlmQzc0dXZmSkI3NXNJNFAtX1QwakVRVXpsY2FSajFuY3ZtMGJpNW55bFpCMEtKYk1lRlc4VFJxUDZtQ1lnYlBaZmE5R2RSeUZMVTgtYXdtSzd5UUh1UWtSUEFxNlZVYTNBak1KR3dmbDVMVDFpeng4QWxYOFU2Rjltc3FrQVpNSnhwUk1Ncw?oc=5",
             "published": "2026-06-24T11:52:00+00:00",
             "snippet": "Trump stated that Iran has informed the US that no tolls are being sought at the Strait of Hormuz, adding that no money has been transferred to Iran."
-          },
-          {
-            "title": "Rubio vows ‘commitment’ to UAE security in meeting with Emirati president",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXFTNVpfNEpJSnF0aGRXX0hyaWFJcElSN0RqSktOSHhpcFo2SHdaUGM2MERYd3ZVNEV1QzktVVpMSS1IVnZrTjg2VGVrSkFOdXptTTVGYzdvbTNLcjA0WWFnN1pMTkFKeGk1Q01lRmRSaXlDZHlYLWxkd0kzdW9NYmVQVDhTUDgwWWNDNWUxWVpjUFNsN1M5VEh0R2JMcmVaNTBjYVhBWERYMnAzR1Y4bTNBbk84LWVSNklTaGZJMkR3T0FlUUHSAcYBQVVfeXFMTUFxUzVaXzRKSUpxdGhkV19IcmlhSXBJUjdEakpLTkh4aXBaNkh3WlBjNjBEWHd2VTRFdUM5LVVaTEktSFZ2a044NlRla0pBTnV6bU01RmM3b20zS3IwNFlhZzdaTE5BSnhpNUNNZUZkUml5Q2R5WC1sZHdJM3VvTWJlUFQ4U1A4MFljQzVlMVlaY1BTbDdTOVRIdEdiTHJlWjUwY2FYQVhEWDJwM0dWOG0zQW5POC1lUjZJU2hmSTJEd09BZVFB?oc=5",
-            "published": "2026-06-24T11:02:00+00:00",
-            "snippet": "Senator Rubio has affirmed his commitment to the security of the UAE during a meeting with the Emirati president."
           }
         ],
         "error": null
@@ -125,6 +125,12 @@
         "lang": "en",
         "url": "https://www.newarab.com",
         "headlines": [
+          {
+            "title": "Israeli strike kills two in Lebanon as Rubio begins Gulf tour",
+            "url": "https://www.newarab.com/news/israeli-strike-kills-two-lebanon-rubio-begins-gulf-tour",
+            "published": "2026-06-24T14:40:12+00:00",
+            "snippet": "Rubio's Gulf tour comes after the first round of talks with Iran concluded in Switzerland, aimed at bringing an end to the war."
+          },
           {
             "title": "Gaza surfers turn to the sea to cope with war and displacement",
             "url": "https://www.newarab.com/news/gaza-surfers-turn-sea-cope-war-and-displacement",
@@ -148,12 +154,6 @@
             "url": "https://www.newarab.com/analysis/sidelined-us-iran-deal-whats-next-gaza",
             "published": "2026-06-24T13:10:03+00:00",
             "snippet": "As geopolitical priorities shift, Gaza's exclusion from the US-Iran agreement highlights its waning role in regional diplomacy"
-          },
-          {
-            "title": "The Lady Imam reintroduces Amina Wadud to the world",
-            "url": "https://www.newarab.com/features/lady-imam-reintroduces-amina-wadud-world",
-            "published": "2026-06-24T12:56:26+00:00",
-            "snippet": "Carla Power's new biography, 'The Lady Imam,' explores how Amina Wadud has influenced Islamic thought, gender discussions, and Muslim feminism."
           }
         ],
         "error": null
@@ -183,16 +183,16 @@
             "snippet": "Ghalibaf stated that regional security is the responsibility of the region's countries and that the Islamabad MoU represents a defeat for Washington."
           },
           {
+            "title": "بريطانيا: تنحي جونز يعزز فرص بورنهام للوصول إلى رئاسة الحكومة",
+            "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNNkhnOURpZHJ3XzdDaWVzcFRjU1lYQWlQTExNY0Y4czdGT2NndHpGTXpIM2VYRlZYNmx1OU1ZenByLTlQOXR0R1ZOVEs3N3JaVXB4cHJUeEZzQTRCM2VDWUM0Y3BpcWJESXFrdG9peDR5U3NXb2NvdUhBYU9QNzJXRElkLVY0Tm9kNHJEN1lPV2IxRWxSMEJLM2RPUnRBZHVDZnNWdVRadG5lUUtJVlhRa0FjTG5xYUM4VS1zeWhJclZnV2JUdDBBNFNqeE96M3JKUjl3UHM5VTBhNzl3Mm9VNk9vZ0E1UnlSMTNINUlMT3NXM2poZFNyMkgzSHV6RWU1cE9fMzgyRU9QRHE4bWNCVkl1QkU3OUlEUzZ1aVdDYkpqZkVnTHIyMVkwRmZTNEFOS2ZHcmdRRDhUSGdXRnBNOVg2cXBpZHZpSzBYZ1RhYnlBYTFrU1RwZGZlQ29pTmlGUkhxWjRBcUNXdi0tTHZpRzBVSDBjclRfWEh0cXFOVW5sa3RMeUwtYTJOai1XdWw3THA1dGpoVWdZNDJLem4wZElNUjJiRGxLYlU5akoxMTN0Wk1iVXh0WWR0MGIxLS1IYmtZQ3haa2FuN2NVb2VrT0RjcHVxXzZQOFhlUVdmT2NBbVRjU2N5V2lCcXB2YlBY0gH0A0FVX3lxTE9vNUxrbVBpcFlXOUYyeGI3SE1ZZWN3ZnNuazJsVzdHUXU3ZGZNYXo3YkhQLUw3endFT0R6eWVtb2c1U2ZpckJiRXo4MFZDSUZVVkxrQndrbHpwejc1cVVYNEx4TWZjTDZXa2hwNGNER3lsSWxGM3hTSWMtRE43cVZXMHNTWm82emNyUmZ1TkZfeG5lQnlxMGlWMDctWEtmRy1WWm5jc3JZM2IyYWM0ZURIM1lkRUVzU3hwbUY4T2J2TXNoNzdmcHBCcWRmX2c0YThDcEs4aG5URk1kbklYR2s2TlNTTDJhcmpXQlhuOFhVSGpWXy1pTjluckF1M0ctV0p1Y0VYMHRLckRiSDR3NVQ3eXZJOXpCYUNJUHJ3M3NEUUV5LUE5R2hZVzBEQlBpU1RrNld1QlI1bTNBR3BuVU9qXzhyc1p0NzNGU0FuQ19ZQ09XeFdkTWNxdldFMWh0YnRzQ0l2cGh0Z01waXRZM3Zid1BHcnVKZ3lxU2h0czBHd0RWTGlGWkpUdTJpX05aUEoxcW9adlpwOF9nOHhLQ2Exbi1ZWmdYcE5xTWJBNFhJdmhVdjZkZk1JWUF0UHA5ZWR6RkhoOGpVRlZRSWNKTHg3cG9hVm4wREVPMjdoZ0tRMFQ1NjlNeVladWwzTEJBejZTaGhp?oc=5",
+            "published": "2026-06-24T09:55:03+00:00",
+            "snippet": "بريطانيا: تنحي جونز يعزز فرص بورنهام للوصول إلى رئاسة الحكومة almayadeen.net"
+          },
+          {
             "title": "وزير الحرب الأميركي يعلن نجاح أول اختبار لنظام \"القبة الذهبية\" للدفاع الصاروخي",
             "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPTHlGVWJHRlhrdHBNc21KZHRlTEV5aV95S09rOE40NERwSk1iQTJWY0VoZUxvUXFxREprZHFEa1ZOaWVDMk9GdWd2Ym1lUHk1S29OUGVWWk1OT1BXMXZ5aDFpQXFheENUS1hOakNBbUJkdEpubHZXUFlpT2hXTWRRdC02d2M0ekJHYXctdnNuWjc5QTJienhyaTVuNTNWeGszUHlUY1BZSHBvdzdEd3Q0UGZxTkxoa3hZTmZsVDBuWWFyV3JzNG9faTh0cFllcEppdlluNXl1U2xuQjI4bGNwVXk0QzNTWVVubnU3YW9VdllySjh0SjFXU2doUktqbWEtN3hhMDBCTkJxV2RBQ2dkR3J2NC12dU5BZVAzdkM5Nk1wTDd1bmNQUGVPVWtUeGtiNWxPVzlJWk1JTmxhamZHTGxJNXp5YnJVZkJtYTIyNlcxZjJNazNqRkt6dHJtZldOeTZzS2VSMzFlVXRVVHJYODZpLTdWMWFDczRSSnF0OFd3QWpIYlpKa1IyZFg1d2x3SzlJcTlLdmFDT1VKTjNOM1JaYkNZdFZhbElaRFZ3ZnUzLUJlRm9kbV9RV1FqUmRxeXFWcXNRWmFlNXpYNy1mU3VWSmdtb01tMUNOTTNsRWR0Wlk4Q3NlREg3WGExX0Iw0gH0A0FVX3lxTE5FR3Q3ek0yOEJvWUpLU2FQSkNkOC1iVjAwa0NVRDB4VnN5d1pvS1pUYmZUc0dYNjRITlE4eGRjN3hqekdPaTA5WUNIR3ZoTUx5UlpXVHhpeGFHc29iVkdHa2M5YTFBRWpVNnZySWhXRUVmVkJ3b3F3Z0gwalhzRFdJT0dGMUtvYjZCZXhlSU9FNHp4c1lhT0ozUWQ4QVZNVGJ5RGVBcWdFcldTMC1PTmx3eXZDdmtwd0N1VTA5b1Y3NTk3QmNMUzAwaEM0aGEzMEdwdEFzU1dXV3A2aGdGOE91SGJfWV92WTlfbmp5djRydU9NTlBhd3lPTXZrRHViNXlpUm04NDd3aEU4bUNEQ243WnE0azkybEUzTHIxR2hqQ3lIUmhVdkY3UnJMQkV2SkVhYWRBYnJaZXo5ZVBpaFVYak1yRTktXzBndGRKMDhXeVc2RVhkUmlhd3k4VkJRb2dhN2FQMXduRGY2ZXB5YTlWUjNJa1ljYmQzcE1tZ1cwYmF2dGZGcWRESk1GMndpcUNQZU0tcmtwMkhjb3A4NzZZQkRVZ0s3UUx3b2kycm1pQ2d2dmM2OU5PSWMxVU1Jck56ODFEZlFQNjFkeWpFZXhQVmZabWkwQ2lTdE9GcjYzNTB2ckVUckFGMnFoUkVQLXRnRVBz?oc=5",
             "published": "2026-06-24T08:14:52+00:00",
             "snippet": "The US Secretary of War announced the successful first test of the 'Golden Dome' missile defense system."
-          },
-          {
-            "title": "كيم جونغ أون يعلن تجهيز بحرية كوريا الشمالية بأسلحة نووية",
-            "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOYXJPNUZvQVkwTkgydV9XLUZNQ25KY1Y0MDVFTURUZWVuQ1hGLWRSNU5fcjBELUZWUEFZU3Y0SldHVEdkTEdvbW5jbG9mX2hEaE05amxRb3FuaU5NVWEtbzBoY0FuaGlySGZiX2wwSmZBaGs3UFRENHVfTy1EUDRMTEdsbVdfTFg0STR3Vl91ek9lT1BESHhoVzhJTDQxeGxtcjJvSEdOSnM3ZXJOb2RmMk1mWWFoRmpiT1VOeGo1amtQWXhEWHM4bnRGN3lQZHJZWjBlcHBtNTd4Y2ZRLXdHeHp0OHNHRjNXX2hjd2QwcjNWdkVwZGo4c0tvSUVnTnI2bmt0aU9pQU1STjROdUU2UTYxcjBsWERpX3B6aVFhRDYzM0x0cWFldVo3QjZaMlBOODNienZVSTlUYnZvOVIxdVBhSHRZWklCaU0tc09EdGE5Unl0S3ZrdjIzalZvZ3BRNXYyZUUyYWtUQVhMVWtCOEZUNUlzYjFROExMMHhXTjczZm9SSEMtUkRaLW9JRmRMeENVMGYxQkEyUl9RSDVGdjhQUks5ZFVPdGlEMlV2T2pUUFhLYWZ5MFI1ZHhDWWdvS0xNemptZGlybGprV1FfM1c1QUdvY0ZSbGxGMHNWb9IB4wNBVV95cUxOLTZvN2ZoUHE1TlUtNnVHLTBFQk1fbHR2X0VrTnBHZXl3RmVxazJ4NkZ3a2RIQXB6Mk1TNGhqZjI5NXd2c3Y5UW9nWC1RQjJ3ckNvN1R6NVNFUS1ja3pHSnpWdnByQWhKMzZHdkdnN1oyMTVUYURkRHJmVTNyMDcycUZrRnJXRE4xZ2oyS0Z0dzlPZFNacVhNdlMwXzItY3JDaDZIMUx5eUJOLXI3THdweThndWM5dE5PZHExWHEwUzc5VkdhX2JMSG9xY1NxSGdsS2YtQWpxTDVIOExicklKNU9JZ2tDSkR1bi0weHgyWHJiQUdIQXFfV0RTdnlELWxFamhERFlpOHhCSm0xamxUdktDRHFlT1N3OGFIYjBXV080ck5hanIyc3RGVktxN0ZBeGNYMkdGMmF6am55Q2NCaW1yalVZc184Y3ROaUVQQW9UTFZsUVEtRzdzQjBPOVkwV2dSMm5BZ001aXdqM0lITW94bW5BemZWMXMxRkoxbFh2RTB6NkY1cFNza0ZuejdMYlhBcjYtX2pkYWpmMUhxZTUxTm1Dd0xRNHlDUFVORUUtZ0FRd3B5V3lRY2MwUjNDMmhodmNtMDZYRnFWYVhXZ2JkX2F5QS05aU5TTkZXUzNUd28?oc=5",
-            "published": "2026-06-24T06:23:10+00:00",
-            "snippet": "كيم جونغ أون يعلن تجهيز بحرية كوريا الشمالية بأسلحة نووية almayadeen.net"
           }
         ],
         "error": null
@@ -335,6 +335,12 @@
             "snippet": "Ghalibaf affirmed that ending the war in Lebanon is a priority."
           },
           {
+            "title": "حكاية يزيد من انتخاب عون إلى صناديق الكرز والدرّاق: السعودية مصرّة على تدمير لبنان - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSzZlaXFMVmp1RFdnR3VEZ25WbXlOODY2TENrZ2dkSUkyODdHdWtMYk9UWnd0VUxWT0FHaEpZUW9nQ1R3VGNteC1ONUU0TS1QVHR2ZlR4OUkwZjhYYUVFSmpFYm1kcU5uT3c?oc=5",
+            "published": "2026-06-23T21:30:00+00:00",
+            "snippet": "حكاية يزيد من انتخاب عون إلى صناديق الكرز والدرّاق: السعودية مصرّة على تدمير لبنان Al Akhbar"
+          },
+          {
             "title": "4 مطالب إسرائيلية في واشنطن تحاكي طلبات سلطة الوصاية: تباينات داخل الإدارة الأميركية وإسرائيل تكرّر «الاختبار بالنار» - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQTlg4Z1pRYlhZYmw1LXRFWEdqdEtNOTJKWXJEdVNfZ1ZfYUdaMWRuSkZxVDY5VDdNWkM3eU0zemJIblhFS0hDeUY0dHBLYWZWcV9fMi1YTS1QS2dFNkVZZ3gydkRZSVp3b2djM2ViTzhCdlhSYmFLdDlyRl9yLVRnWjI2QTFNZ2VETE0xeGxyTkdQQU5CZjVNazZGXzdtNmF1MUtNVFFDa0l0UG9ldlRGMWEtX3J0WFI1UUFCX0VSYlV2Rmh2eHpfVG43c1pqMWVmblNCZ214LVBLVnl4d0FNVWpfaV82NlRkaVNQSFBfaElYUS1XYmJHeGFycmpCYWtRbzluX2M1UlVSY3NoaFlwOTZxdlBHTDNVdHFaTG1kVEJHbi13b0VkRGdqMGNJdC1yR2pjRVcyUUtvenVFOU1fSU96bnhKUW1ySm1iaGdMMXFpRUNBcnAxSEd6TEJaYVRTSUJjeU50QVlsbVFrNDEwc2U3Q3NjaEtKNzdSWWV0OVBEWXdfaG9XN0lid0t4TTZramw3R0JudFphWC01VXpqNU1OblJaUU4xSHpCaDkwd0JITDJueW15eEgxVmcwTnhXbWxMMGxxUk1BX281aFdyZUFrd2RWR09YLW1HRGdRX0s3RVdpakxYdzZtdnY4cEtJbm5EMG1ocVJ0SjVjQ2FITXpB?oc=5",
             "published": "2026-06-23T21:30:00+00:00",
@@ -345,12 +351,6 @@
             "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNFk2d2hNa291VGRLdlBlLUxtMF9wNlNkTUNUS1VPak10SmdlZUJMUHNBNDJFZTV3UTlERFFXd3g0UjNPVHUxb2UyZGJuSEgyUkd6SW5SVFZoWlFtWHJ4YlEzX2U4Tjl2ejVwc2tJSWhEZzQ4ZmNMUlVlYmJnM2hiRnFCZnF2UTJIVmZqS3hpN2hnYVZUeG1WMWU3a1pxNlJCb2JvbzBndVB5MWxTMFh1Qmh4WjhqbVdNdWducUhDWmptVXlweHBaMHpQdHpDNjBoNWpCZkQxRV9tbTFXYWhETUIzd1h2T0s1Q1Q0SDFB?oc=5",
             "published": "2026-06-23T21:30:00+00:00",
             "snippet": "The article discusses the resistance of Al-Khiyam."
-          },
-          {
-            "title": "حكاية يزيد من انتخاب عون إلى صناديق الكرز والدرّاق: السعودية مصرّة على تدمير لبنان - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSzZlaXFMVmp1RFdnR3VEZ25WbXlOODY2TENrZ2dkSUkyODdHdWtMYk9UWnd0VUxWT0FHaEpZUW9nQ1R3VGNteC1ONUU0TS1QVHR2ZlR4OUkwZjhYYUVFSmpFYm1kcU5uT3c?oc=5",
-            "published": "2026-06-23T21:30:00+00:00",
-            "snippet": "حكاية يزيد من انتخاب عون إلى صناديق الكرز والدرّاق: السعودية مصرّة على تدمير لبنان Al Akhbar"
           }
         ],
         "error": null
@@ -362,34 +362,34 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "جيش العدو استهدف سيارة قرب تلة الدبشة",
-            "url": "https://www.almanar.com.lb/article/974267/",
-            "published": "2026-06-24T14:11:42+00:00",
-            "snippet": "افاد مراسل المنار ان جيش العدو استهدف سيارة قرب مرتفع الدبشة المشرف على النبطية الفوقا وكفررمان.الى ذلك طلب جيش العدو من الأهالي مغادرة بلدة عين عرب بعد عودتهم اليها وتأمينها من قبل الجيش اللبناني خلال اليومين الماضيين."
+            "title": "شهيد فلسطيني برصاص العدو الإسرائيلي في بلدة اليامون بالضفة المحتلة",
+            "url": "https://www.almanar.com.lb/article/974372/",
+            "published": "2026-06-24T14:52:43+00:00",
+            "snippet": "استشهد شاب فلسطيني، الأربعاء، إثر إطلاق قوات إسرائيلية خاصة النار عليه، عقب محاصرتها منزلاً في بلدة اليامون غرب جنين بالضفة الغربية المحتلة."
           },
           {
-            "title": "مراسل المنار: جنود العدو يقطعون طريق عين عرب – الوزاني ويتموضعون في محيط احد المنازل المشرفة عليه",
-            "url": "https://www.almanar.com.lb/article/974257/",
-            "published": "2026-06-24T14:03:36+00:00",
+            "title": "مراسل المنار: العدو الاسرائيلي نفذ تفجيرا في بلدة عيترون جنوب لبنان",
+            "url": "https://www.almanar.com.lb/article/974347/",
+            "published": "2026-06-24T14:49:43+00:00",
             "snippet": ""
           },
           {
-            "title": "جنبلاط : لا للتلاعب بعقيدة الجيش اللبناني تحت أي مسمى أو مهمة",
-            "url": "https://www.almanar.com.lb/article/974247/",
-            "published": "2026-06-24T13:53:26+00:00",
-            "snippet": "‏قال الرئيس السابق للحزب التقدمي الاشتراكي وليد جنبلاط ان الجيش اللبناني مسؤول عن أمن الوطن والجنوب، وان “اتفاق الهدنة يرعى العلاقة بين الدولة اللبنانية واسرائيل”."
-          },
-          {
-            "title": "اخر المستجدات في قطاع غزة نتابعها مع مدير مكتبنا في القطاع عماد عيد",
-            "url": "https://www.almanar.com.lb/article/974237/",
-            "published": "2026-06-24T13:31:34+00:00",
+            "title": "مراسل المنار: العدو الاسرائيلي استهدف بقذائف المدفعية أطراف بلدة ياطر في جنوب لبنان",
+            "url": "https://www.almanar.com.lb/article/974282/",
+            "published": "2026-06-24T14:48:37+00:00",
             "snippet": ""
           },
           {
-            "title": "مراسل المنار: جيش العدو استهدف سيارة قرب مرتفع الدبشة في النبطية الفوقا",
-            "url": "https://www.almanar.com.lb/article/974227/",
-            "published": "2026-06-24T13:18:01+00:00",
-            "snippet": ""
+            "title": "في خرق جديد لاتفاق وقف إطلاق النار بغزة.. شهيدان بقصف إسرائيلي على خان يونس",
+            "url": "https://www.almanar.com.lb/article/974307/",
+            "published": "2026-06-24T14:33:51+00:00",
+            "snippet": "واصلت قوات الاحتلال الإسرائيلي الأربعاء خرق وقف إطلاق النار في قطاع غزة، عبر القصف وإطلاق النار في أرجاء متفرقة من شرقي القطاع وجنوبه."
+          },
+          {
+            "title": "العاملون في المستشفيات الحكومية على الخطوط الأمامية ناشدوا الرئيس بري إيجاد حل عادل يضمن صرف رواتبهم",
+            "url": "https://www.almanar.com.lb/article/974297/",
+            "published": "2026-06-24T14:25:55+00:00",
+            "snippet": "ناشد العاملون في المستشفيات الحكومية على الخطوط الأمامية: ميس الجبل الحكومي، بنت جبيل الحكومي ومرجعيون الحكومي، رئيس مجلس النواب نبيه بري “إيجاد حل عادل يضمن صرف رواتب جميع العاملين المتضررين ويضمن لهم مستقبلهم الوظيفي”.وجاء في كتاب وجهه العاملون الى رئيس مجلس النواب: “نحن العاملين في المستشفيات الح"
           }
         ],
         "error": null
@@ -419,16 +419,16 @@
             "snippet": "Colonists vandalized a vehicle belonging to the village council in Bethlehem."
           },
           {
-            "title": "Occupation forces issue stop-work notices for 15 homes in village near Bethlehem - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0SzlfcVdZMXNEaGRxNHhCbXFQZ0dNdUNEQW9YYllGUVk0MWdFREZhWHVjeW9GTWhudWNaRXVFQW1RdUxaYXJtLU9iZWRBY2xxMFlCeDhhSQ?oc=5",
-            "published": "2026-06-24T12:54:47+00:00",
-            "snippet": "Occupation forces issued stop-work notices for 15 homes in a village near Bethlehem."
-          },
-          {
             "title": "Colonists attack Palestinian vehicles south of Nablus - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1aTk2dmxXNXRpNFJRZUxoMGtoZGJaWEVCME9LYVFKa01sNXdWLVdmY3BLUExqMFBkOW0xZ21PM3E1dVd0eWZQNFFBTUxlUW1FakI5THJ6SQ?oc=5",
             "published": "2026-06-24T12:54:44+00:00",
             "snippet": "Colonists attacked Palestinian vehicles south of Nablus."
+          },
+          {
+            "title": "UPDATE: Israeli forces raid village near Bethlehem, demolish concrete wall foundations - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00aHRyVXZjeVhhZDlRSHlVbHJwYzJzNTg2UDZEbGNQek9VamxTRkUtMkNiMW5ReWZueTVEYUVzbnJjcm9ucUpRZk9yWWlPSGViWG9uZTBQNA?oc=5",
+            "published": "2026-06-24T12:03:54+00:00",
+            "snippet": "UPDATE: Israeli forces raid village near Bethlehem, demolish concrete wall foundations WAFA Agency"
           }
         ],
         "error": null
@@ -481,6 +481,12 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
+            "title": "Rubio commits to UAE security, discusses Iran-US deal with Emirati leader",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05OXNWVzdqd1FvajRfV1N0aU0zM2pYcG1MTlFXSUVfRl9jSnc3eEtMYU1UUUNsTzlJekstRWMzSVZRd0JBOFNWRDJ3ZldDclA1aE1CcGVSem5yY0c4WkE?oc=5",
+            "published": "2026-06-24T14:26:15+00:00",
+            "snippet": "Rubio commits to UAE security, discusses Iran-US deal with Emirati leader Arab News"
+          },
+          {
             "title": "Lebanon transfers 128 Syrian convicts home under agreement",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Xamx6ejYtT2pySUlVVS1ObXphWDRRSVNyXzB1aWZyNDlNTmpoTnVWNnB0Mm42cVFZZDlwT1ZTTWh1eUd1bUY2X3RvLURrUTlwVVVn?oc=5",
             "published": "2026-06-24T12:39:12+00:00",
@@ -503,12 +509,6 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96b0hFWHJ6dUQ0YUN1SnphelJheVV3ZVZZNDlkdzUwWk45WlNTOWZTQ3kwbURYVUhlSXhjMXVFRVdXYno1dkdZYURPVXkxRjFPVU04?oc=5",
             "published": "2026-06-24T08:55:05+00:00",
             "snippet": "Pakistan stated that global support reflects confidence in its role in US-Iran diplomacy."
-          },
-          {
-            "title": "Saudi Arabia raises $2.81bn in June sukuk issuance, monthly rise of 340%",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ITjBPa3BkekJCQjRuY1FlNWRZWjAydW54bXNHTjZQM0FrSXVkY19lTHVGWmF4cEthWHF1Qk1YTVFTVG1HdGY5YV92ZlNWdkhYbWk0?oc=5",
-            "published": "2026-06-24T08:21:29+00:00",
-            "snippet": "Saudi Arabia raised $2.81 billion in June sukuk issuance, a 340% monthly increase."
           }
         ],
         "error": null
@@ -684,6 +684,12 @@
             "snippet": "According to Wiener, \"If the IDF chief says the PA is a threat and the Shin Bet says this also, this could change the public view and then help convince the Americans. This is the agenda.\""
           },
           {
+            "title": "Ex-general calls to dismantle Palestinian Authority, squash internal threats - interview",
+            "url": "https://www.jpost.com/israel-news/defense-news/article-900409",
+            "published": "2026-06-24T17:07:23+00:00",
+            "snippet": "According to Wiener, \"If the IDF chief says the PA is a threat and the Shin Bet says this also, this could change the public view and then help convince the Americans. This is the agenda.\""
+          },
+          {
             "title": "Iran, Egypt decry Seattle WC 'Pride Match,' residents have no plans to tone down celebrations",
             "url": "https://www.jpost.com/international/article-900405",
             "published": "2026-06-24T16:54:09+00:00",
@@ -700,12 +706,6 @@
             "url": "https://www.jpost.com/israel-news/defense-news/article-900400",
             "published": "2026-06-24T16:26:01+00:00",
             "snippet": "While several prominent Hesder Yeshivot rabbis were present, The Jerusalem Post has learned that rabbis from one-third of Hesder Yeshivot who have announced a boycott of the move were not."
-          },
-          {
-            "title": "ICC bureau says prosecutor Khan should be fired for 'non-consensual sexual contact'",
-            "url": "https://www.jpost.com/international/article-900398",
-            "published": "2026-06-24T16:19:47+00:00",
-            "snippet": "The decision by the executive bureau of the ICC's governing body will inform a vote on his fate by the ICC's 125-member Assembly of States Parties in New York on July 24."
           }
         ],
         "error": null
@@ -836,34 +836,34 @@
         "url": "https://en.mehrnews.com",
         "headlines": [
           {
-            "title": "Iran rebuffs IAEA access to damaged nuclear sites",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWJpYUh6UDl5eXNVN1lMNGRtVEY3OWJfTWU5Wk9RMUQwVzhIQ1l0MVJKSzB2LWFYM3p6N1N4RzhUci1FYmExdmdUTkV4ZkxpUXR0RTV0bmUwbmVIWnMwbjU4LWNWYThrenBHd1Uya3pBWE5xcF9QSEdtMFZPb2NzRWRuUDVYeERoeFU2WEJB?oc=5",
-            "published": "2026-06-24T12:43:00+00:00",
-            "snippet": "Iran rebuffs IAEA access to damaged nuclear sites Mehr News Agency"
+            "title": "Iran rejects IAEA access to damaged nuclear sites",
+            "url": "https://en.mehrnews.com/news/245580/Iran-rebuffs-IAEA-access-to-damaged-nuclear-sites",
+            "published": "2026-06-24T12:43:17+00:00",
+            "snippet": "TEHRAN, Jun. 24 (MNA) – Iran refused a meeting with IAEA chief Rafael Grossi in Switzerland and will not discuss access to bombed nuclear sites until a final agreement and full sanctions removal."
+          },
+          {
+            "title": "Islamabad MoU became declaration of US defeat: Ghalibaf",
+            "url": "https://en.mehrnews.com/news/245579/Islamabad-MoU-became-declaration-of-US-defeat-Ghalibaf",
+            "published": "2026-06-24T11:52:27+00:00",
+            "snippet": "Parliament Speaker Mohammad Bagher Ghalibaf stated that the Islamabad memorandum of understanding between Iran and the United States was not a result of pressure but of the Iranian nation's resistance and strength."
           },
           {
             "title": "Iran oil minister heads to BRICS energy summit in India",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWdnd3hLaTB2ZmhCV3V6M2tRaDlTUkNXS1MzYzVnWWxwclF5UUFmaFFKSmx6U0l1VWxGcjJzR1hwNm1rZUl4bjVBRjZLMjNNamtkS21UQmdGR0R0Wlh1VDBxcGtHQTJ4S0dxcENSSTFTalVtNTI0Z1RKdFJ5RnQtMllKM19LT0hMZ3ljRjM1NlNTU21TVkE?oc=5",
-            "published": "2026-06-24T10:38:00+00:00",
+            "url": "https://en.mehrnews.com/news/245578/Iran-oil-minister-heads-to-BRICS-energy-summit-in-India",
+            "published": "2026-06-24T10:38:26+00:00",
             "snippet": "Iranian Oil Minister Mohsen Paknejad has traveled to India to attend the BRICS energy ministers' meeting, with bilateral talks on energy cooperation planned."
           },
           {
-            "title": "Israel has no choice but to pull out from entire Lebanon",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWpNTUhCeTJtWEJiUzhLaVl3X3FBdkd3SlY4T1lnOVlPS3YwTEZBUjM3a3EwcU5zVzVHUkNNSUIxOWdORmd4MXAwNmdkRTBKQjFtZjZJRVFFcU0yTnZrZ29fdjlHZGxUYWdsajBBSFdHT2NNRTJCUTRwaHNEcUljOFBkbDlzLWhaelNvc1l2NkpvdnM1NDhR?oc=5",
-            "published": "2026-06-23T20:17:00+00:00",
-            "snippet": "Israel has no choice but to pull out from entire Lebanon Mehr News Agency"
+            "title": "56 IRCS sites hit in war: ‌Kolivand",
+            "url": "https://en.mehrnews.com/news/245577/56-IRCS-sites-hit-in-war-Kolivand",
+            "published": "2026-06-24T09:37:50+00:00",
+            "snippet": "TEHRAN, Jun. 24 (MNA) – Iran's Red Crescent chief said Wednesday that 56 of its centres and 350 medical facilities were targeted during the war."
           },
           {
-            "title": "Senate votes to limit Trump’s Iran war powers",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2xiVjBmTG5LTEFyLWlTT3ZpZVplNlY4TDY0MFVBR3Z6dHllai05NDcxM2ktUkRFQWVIdUpnaVFoalFiZS1ZLVd0SVFCZjRRMW1oVHF1cG01eVRXWV82eGd0WTY5SXF6RnRtLVJfNWJubWhDVUlNMEZqem5iRUU3VkF3Um84RXhJ?oc=5",
-            "published": "2026-06-23T20:03:00+00:00",
-            "snippet": "Senate votes to limit Trump’s Iran war powers Mehr News Agency"
-          },
-          {
-            "title": "Pezeshkian meets with Pakistani army chief in Islamabad",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1A2Wi1lY0RaLVloUEhBVkg1UFV6YVRxLWk0QkNfNWpseVY0dlJUUFo3X25PSFhiajM5VDdqQXhKaU00Vm1lRERDdmtldDhNSXNTdXdJNHpBWWEyYnE0Y1JoN3VOVkpIb1FtcWtiV0NqOWdTSG5XaUJZVjA1ZmZxcEtxMHB6WENnMVR6bV9RTUFXSGc4TkE?oc=5",
-            "published": "2026-06-23T18:13:00+00:00",
-            "snippet": "Pezeshkian meets with Pakistani army chief in Islamabad Mehr News Agency"
+            "title": "Region seeks security framework with Iran: Qatari PM",
+            "url": "https://en.mehrnews.com/news/245576/Region-seeks-security-framework-with-Iran-Qatari-PM",
+            "published": "2026-06-24T07:50:29+00:00",
+            "snippet": "TEHRAN, Jun. 24 (MNA) – The Persian Gulf region is now working toward a new security architecture that includes Iran, Qatar's prime minister says."
           }
         ],
         "error": null
