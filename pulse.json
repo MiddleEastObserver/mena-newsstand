@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T18:01:22.250495+00:00",
+  "updated": "2026-06-24T18:32:23.949937+00:00",
   "total_headlines": 110,
   "terms": [
     {
@@ -82,23 +82,17 @@
     },
     {
       "term": "Israeli",
-      "count": 11,
+      "count": 10,
       "headlines": [
         {
-          "title": "Amid Israeli incursions, this mother demands the return of her son",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/amid-israeli-incursions-this-mother-demands-the-return-of-her-son?traffic_source=rss",
+          "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
           "title": "‘Genocidaires’ delight’: Israeli Ben & Jerry’s flavour sparks social media backlash",
           "url": "https://www.middleeasteye.net/trending/genocidaires-delight-israeli-ben-jerrys-flavour-sparks-social-media-backlash",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Palestinian man killed by Israeli forces near Jenin",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-killed-israeli-forces-near-jenin",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -261,15 +255,51 @@
       ]
     },
     {
-      "term": "Trump",
-      "count": 7,
+      "term": "talks",
+      "count": 6,
       "headlines": [
         {
-          "title": "ABC ‘fighting back’, urging US public to defend stations amid FCC scrutiny",
-          "url": "https://www.aljazeera.com/economy/2026/6/24/abc-fighting-back-urging-us-public-to-defend-stations-amid-fcc-scrutiny?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Rubio says US will coordinate closely with Gulf allies on Iran talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-coordinate-closely-gulf-allies-iran-talks",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
+        {
+          "title": "Erdogan says bilateral talks with Trump likely at NATO summit in Turkey",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDFxZmc5a1ktbWhCckxRWFdibGhjRkRORzdCWGRmdTlPZGdEOTYwXzZRYnREemVQNFB6bVpKQW0zNS1xRGlKMklJVnh6ZmN2Z1NjbS1ydTU1Y1lkQWFDUmhGLWpHUHI0UnVWQ0twdVJWMlNmLVU5THgtZllNalJXSlEydTRIbUFIVTJ5MUJiM2U2LWJ0aDdGRER4YThQVTZ2WGRRWWxfdEF6ek4tOWl3VFBlMW5jbUVkOHJGQXdYTTR3OUQyS3M5WWJzT1Rzd9IBzgFBVV95cUxONDFxZmc5a1ktbWhCckxRWFdibGhjRkRORzdCWGRmdTlPZGdEOTYwXzZRYnREemVQNFB6bVpKQW0zNS1xRGlKMklJVnh6ZmN2Z1NjbS1ydTU1Y1lkQWFDUmhGLWpHUHI0UnVWQ0twdVJWMlNmLVU5THgtZllNalJXSlEydTRIbUFIVTJ5MUJiM2U2LWJ0aDdGRER4YThQVTZ2WGRRWWxfdEF6ek4tOWl3VFBlMW5jbUVkOHJGQXdYTTR3OUQyS3M5WWJzT1Rzdw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Katz threatens to maintain Israeli occupation of southern Lebanon, even against US demand; Talks between Iran, Gulf states expected in Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQU1JIR1BzWFl2VE10eE5BRExHUVM3RkRMbUYyVmdPNmZYZEVUb1F1X0xfandnVmlpN2p2RGN6Qkt5MFlkN2VLMWwzVHZiT3FCZV83Y0NGUkVJNWhVTm13b25kTklEb21BMnlwTURoZVc4TWoxdEkwZEZBZVlVRUN3aF9xLThJMkRmUHdqMFlnNmlwdndyVVNTaEEybTZJeVZpOFJhN2xtdGF0bjJZNENFdHYxenViUlpKVk15TnVkdW1UdFN5RVR0Wnh5ZTZpQ0FuMXBGeVJzYkpDZ1FqUjRZZzBUcnJsVzhtcGNTdmpwZmx2UkY4aS1WbHpSdWFrQ09kd3VLNWZYOGl4Mm1o?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Iranian, Saudi foreign ministers discuss peace talks progress",
+          "url": "https://en.irna.ir/news/86192154/Iranian-Saudi-foreign-ministers-discuss-peace-talks-progress",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iranian, Saudi FMs discuss peace talks progress",
+          "url": "https://en.mehrnews.com/news/245582/Iran-Saudi-FMs-discuss-peace-talks-progress",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran oil minister heads to BRICS energy summit in India",
+          "url": "https://en.mehrnews.com/news/245578/Iran-oil-minister-heads-to-BRICS-energy-summit-in-India",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Trump",
+      "count": 6,
+      "headlines": [
         {
           "title": "Rubio says US will coordinate closely with Gulf allies on Iran talks",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-coordinate-closely-gulf-allies-iran-talks",
@@ -310,14 +340,8 @@
     },
     {
       "term": "Iranian",
-      "count": 7,
+      "count": 6,
       "headlines": [
-        {
-          "title": "US embassy in Kuwait resumes operations after wartime suspension",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-kuwait-resumes-operations-after-wartime-suspension",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
         {
           "title": "US reopens embassy in Kuwait months after Iranian attack",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGpaM3JNcVpyS1FaZnZXUG1TMnltRi1Hb0N1by13S1R6WTV3QWc5UmRCQVAxWGdUZ1ktZ2wzN0JjVktIanVBdEduWWhRUkgxb28ySTFIRGVTSHhCWGFDSlplZWRKWHA1RzduWEJ3cm9VTDRwTVBBS19VWXRRbnJneXZBMjhmU0IweTF5N0dNc242QVhwcDNsTjg2OHZEZEwxTkFFWUVBZ0dHNWlNM3dVVdIBsAFBVV95cUxOTGpaM3JNcVpyS1FaZnZXUG1TMnltRi1Hb0N1by13S1R6WTV3QWc5UmRCQVAxWGdUZ1ktZ2wzN0JjVktIanVBdEduWWhRUkgxb28ySTFIRGVTSHhCWGFDSlplZWRKWHA1RzduWEJ3cm9VTDRwTVBBS19VWXRRbnJneXZBMjhmU0IweTF5N0dNc242QVhwcDNsTjg2OHZEZEwxTkFFWUVBZ0dHNWlNM3dVVQ?oc=5",
@@ -357,43 +381,37 @@
       ]
     },
     {
-      "term": "talks",
-      "count": 6,
+      "term": "war",
+      "count": 5,
       "headlines": [
         {
-          "title": "Rubio says US will coordinate closely with Gulf allies on Iran talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-coordinate-closely-gulf-allies-iran-talks",
+          "title": "UN: RSF used rape and sexual slavery as weapons of war in Sudan since 2023",
+          "url": "https://www.middleeasteye.net/news/un-rsf-used-rape-and-sexual-slavery-weapons-war-sudan-three-years",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Erdogan says bilateral talks with Trump likely at NATO summit in Turkey",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDFxZmc5a1ktbWhCckxRWFdibGhjRkRORzdCWGRmdTlPZGdEOTYwXzZRYnREemVQNFB6bVpKQW0zNS1xRGlKMklJVnh6ZmN2Z1NjbS1ydTU1Y1lkQWFDUmhGLWpHUHI0UnVWQ0twdVJWMlNmLVU5THgtZllNalJXSlEydTRIbUFIVTJ5MUJiM2U2LWJ0aDdGRER4YThQVTZ2WGRRWWxfdEF6ek4tOWl3VFBlMW5jbUVkOHJGQXdYTTR3OUQyS3M5WWJzT1Rzd9IBzgFBVV95cUxONDFxZmc5a1ktbWhCckxRWFdibGhjRkRORzdCWGRmdTlPZGdEOTYwXzZRYnREemVQNFB6bVpKQW0zNS1xRGlKMklJVnh6ZmN2Z1NjbS1ydTU1Y1lkQWFDUmhGLWpHUHI0UnVWQ0twdVJWMlNmLVU5THgtZllNalJXSlEydTRIbUFIVTJ5MUJiM2U2LWJ0aDdGRER4YThQVTZ2WGRRWWxfdEF6ek4tOWl3VFBlMW5jbUVkOHJGQXdYTTR3OUQyS3M5WWJzT1Rzdw?oc=5",
-          "source": "Al Arabiya",
+          "title": "Brent crude drops below $75 for first time since war on Iran",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-crude-drops-below-75-first-time-start-us-israeli-war-iran",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Katz threatens to maintain Israeli occupation of southern Lebanon, even against US demand; Talks between Iran, Gulf states expected in Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQU1JIR1BzWFl2VE10eE5BRExHUVM3RkRMbUYyVmdPNmZYZEVUb1F1X0xfandnVmlpN2p2RGN6Qkt5MFlkN2VLMWwzVHZiT3FCZV83Y0NGUkVJNWhVTm13b25kTklEb21BMnlwTURoZVc4TWoxdEkwZEZBZVlVRUN3aF9xLThJMkRmUHdqMFlnNmlwdndyVVNTaEEybTZJeVZpOFJhN2xtdGF0bjJZNENFdHYxenViUlpKVk15TnVkdW1UdFN5RVR0Wnh5ZTZpQ0FuMXBGeVJzYkpDZ1FqUjRZZzBUcnJsVzhtcGNTdmpwZmx2UkY4aS1WbHpSdWFrQ09kd3VLNWZYOGl4Mm1o?oc=5",
+          "title": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejRVcHhiN1BBbGtiYm1KenRWMHctOEk1ZzlwSzJjUHEta1JUeWpydUduZVM2bDF3SmRaaThyc3BVY1lLdHBHcS01YU5PbUxZaUUxU0VOSllCN3lFLTh6Z1ltVzFpZ3YyMnJJa0ZEUUxwQ3NGUXB0eWFxblpYbDRTSE5NMVZCSW1sbXVESk8wQTRXLWZ1R3FWYzRQWDk3TmQ0WW5zSVZlT0RlNEN6eDFLZ1BPLUFSenhsM0pMVWMwRFBlZw?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "Iranian, Saudi foreign ministers discuss peace talks progress",
-          "url": "https://en.irna.ir/news/86192154/Iranian-Saudi-foreign-ministers-discuss-peace-talks-progress",
+          "title": "Opinion | Opinion • The Iran War's Real and Only Winner",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFdaYmVvaHdDRzdIdW95T3l0dkt6YUx6WEM1RHl0YjJTcWtnMzNSS1hQTjhkZHU5aDJkc0RMUUhjYnJ1Mko4b2tHRjJHWk1ib1gxSzY2WXNNekg4MUluS005SnVfWkRzUFhHbnBWblVjeTh1N29BeFBNTXNha2R1N1JNRV9mWGFsb3pSTXM0UFlEUWdLUUxpVHhhRURQZnRmM240ZDlxOHp3aWxVeEl1TDktaThJeWZuQUJJdXp4SjNCODFNWVpQTi1NRkJ5Q0x0MjdiNmhKOGV3QQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Ghalibaf: US image of dominance collapsed in recent war",
+          "url": "https://en.irna.ir/news/86192130/Ghalibaf-US-image-of-dominance-collapsed-in-recent-war",
           "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iranian, Saudi FMs discuss peace talks progress",
-          "url": "https://en.mehrnews.com/news/245582/Iran-Saudi-FMs-discuss-peace-talks-progress",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran oil minister heads to BRICS energy summit in India",
-          "url": "https://en.mehrnews.com/news/245578/Iran-oil-minister-heads-to-BRICS-energy-summit-in-India",
-          "source": "Mehr News",
           "region": "Iran"
         }
       ]
@@ -511,8 +529,8 @@
       "count": 4,
       "headlines": [
         {
-          "title": "The children Gaza lost",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/6/24/the-children-gaza-lost?traffic_source=rss",
+          "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -533,36 +551,6 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaVd2TVgxeDZRd2FuOUxHNzFHRUdjbTR5QzNzSWEyVTRPTjlwV3JucUNSSkxTVkJCZkpiOVVYMUdFSmRUM1NlWWRTQjVHVnY5ZDV2cmFxVjd3RmpXb1Q1Ukw1Qm12SkhyejdmakZDX0xoNmVGS3l0YkkxZjcwTG94UGRndXV6NmNJVGVfeHJUREthd0VKQ0Y1djN4YmFseXg0bktDU3lLckRIaWFlMTdfRUF3ZkpQSHc5cjBSS0ZUNDR4UnpRZHNCWk9tWnJLeXVXNk1jLVNRSWFwT2o2d1M5U18wZWdNQUNpSmdNb3NqVFNqZl9zVHlXX1BoTmRHQQ?oc=5",
           "source": "Falastin al-Youm",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "war",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Brent crude drops below $75 for first time since war on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-crude-drops-below-75-first-time-start-us-israeli-war-iran",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejRVcHhiN1BBbGtiYm1KenRWMHctOEk1ZzlwSzJjUHEta1JUeWpydUduZVM2bDF3SmRaaThyc3BVY1lLdHBHcS01YU5PbUxZaUUxU0VOSllCN3lFLTh6Z1ltVzFpZ3YyMnJJa0ZEUUxwQ3NGUXB0eWFxblpYbDRTSE5NMVZCSW1sbXVESk8wQTRXLWZ1R3FWYzRQWDk3TmQ0WW5zSVZlT0RlNEN6eDFLZ1BPLUFSenhsM0pMVWMwRFBlZw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Opinion | Opinion • The Iran War's Real and Only Winner",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFdaYmVvaHdDRzdIdW95T3l0dkt6YUx6WEM1RHl0YjJTcWtnMzNSS1hQTjhkZHU5aDJkc0RMUUhjYnJ1Mko4b2tHRjJHWk1ib1gxSzY2WXNNekg4MUluS005SnVfWkRzUFhHbnBWblVjeTh1N29BeFBNTXNha2R1N1JNRV9mWGFsb3pSTXM0UFlEUWdLUUxpVHhhRURQZnRmM240ZDlxOHp3aWxVeEl1TDktaThJeWZuQUJJdXp4SjNCODFNWVpQTi1NRkJ5Q0x0MjdiNmhKOGV3QQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Ghalibaf: US image of dominance collapsed in recent war",
-          "url": "https://en.irna.ir/news/86192130/Ghalibaf-US-image-of-dominance-collapsed-in-recent-war",
-          "source": "IRNA",
-          "region": "Iran"
         }
       ]
     },
@@ -627,6 +615,126 @@
       ]
     },
     {
+      "term": "drone strike",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli drone strike kills 2 in Kfar Roummane car attack",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFNSZzZaWXZYSFpZM21sUWV4OGNZcjRraTc4dUQtYjBGbzFvall3LXdLTkFCNTktYXJ1OWJUODhPZWFBNVBBYzFyUTZvby13bHdYemNsYXJGVG5Ic0lrMGJWWlhyT2E5ZTl6Vm1GUjl1UXhZdElTamR3c2FiMERoT3NnalhlNkQxXzNvejNnOE44ZGhWczZRRHJvZUphZ1hJUWh1NFJEeE1wTDVXek5jcw?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Katz vows no IDF withdrawal from south Lebanon ‘even if there’s an American demand’",
+          "url": "https://www.timesofisrael.com/katz-vows-no-idf-withdrawal-from-south-lebanon-even-if-theres-an-american-demand/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Palestinians",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel deliberately targeting children in ongoing genocide against Palestinians, UN commission finds",
+          "url": "https://www.egyptindependent.com/israel-deliberately-targeting-children-in-ongoing-genocide-against-palestinians-un-commission-finds/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "AIPAC-backed Adrian Boafo wins Maryland primary, as other Democrats turn on lobby group",
+          "url": "https://www.timesofisrael.com/aipac-backed-adrian-boafo-wins-maryland-primary-as-other-democrats-turn-on-lobby-group/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Strait of Hormuz",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Rubio rejects proposal to charge ships for using Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-rejects-proposal-charge-ships-using-strait-hormuz",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "‘Exploding oil?!’ The Middle East is about to find out",
+          "url": "https://www.egyptindependent.com/exploding-oil-the-middle-east-is-about-to-find-out/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Oman and UN set up corridor for safe passage of ships stranded in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa1gxZ09OSjVXeFNvak1NNW54STEtWmdiUHBCVVN0Q0NEVUFHUTNtZDN3UjBEZnhiaTFoUkVFRmZOY2NZQVVIaU12QUVTMkJXR19Vbzd2OTMxclhxbUZGMUVRZV8zMDdOM0lWR2djQzMzTnZXMTdnVnQ4a0NJNXZaSHd5UG5DNURfdVlGdEU2bzdmOFNtRy1PQl9fenoyMFBLcmpXQXZvc2JFMTJEYXA2X1diZ2dtblFROWE4aTFzSWp6UFp1WWJpOXMzdXdTdDZ1Rnc?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Rubio",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Rubio rejects proposal to charge ships for using Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-rejects-proposal-charge-ships-using-strait-hormuz",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Rubio says US will coordinate closely with Gulf allies on Iran talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-coordinate-closely-gulf-allies-iran-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Rubio commits to UAE security, discusses Iran-US deal with Emirati leader",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05OXNWVzdqd1FvajRfV1N0aU0zM2pYcG1MTlFXSUVfRl9jSnc3eEtMYU1UUUNsTzlJekstRWMzSVZRd0JBOFNWRDJ3ZldDclA1aE1CcGVSem5yY0c4WkE?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Secretary",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Rubio rejects proposal to charge ships for using Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-rejects-proposal-charge-ships-using-strait-hormuz",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Rubio says US will coordinate closely with Gulf allies on Iran talks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-coordinate-closely-gulf-allies-iran-talks",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Bishwanath Sinha to take over as Kerala Chief Secretary from July 1",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazBWcFBXSXpDc0ZCY2VYYTRWTEpyVUZEcjBGVy01XzcxYlI5T0VTUW9pdjVabUlFbVF2bFJnazB0ZlBkRUEzcHFlRW55UXFtdF91aHFsMHg2ZW4wLThZYkZVWFN5cUtieDNWYWF3TlBRdU1rcmJuUkVjS2Q0VVhIS21wQ01LMlVTWVM0akZ4QzREdEU4Y3J3cGljMUlVeVY4WVJma0RGbEFubzNYV1ZGeFoxX2xxa2ot0gHOAUFVX3lxTFBKbHc1NjlxOUlSLUpVTVQ4SnJ6Y1ZWaXJHQ190emxTbm1YN0pYdlB3ckN5S2JudDZQSUlhUjdtanNLckJzLTIzTGVkTUNqSnpuQllBSENDYUI3SW1lR25UUHBTYk5tUkxYeFViMkhhQTJOSUY0dzh5dUJYdmV5aHZ2X1g4RTdKaEVEXzFHZnRneEZMWm45d0ZUS1k5Z0o2M0daTDdjck93NjN1YzJoZ2FQWmdhMGo0M1RwdWVNc3ZUNnRfMU12emM5dzd3NlRB?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
       "term": "oil",
       "count": 3,
       "headlines": [
@@ -647,30 +755,6 @@
           "url": "https://en.mehrnews.com/news/245578/Iran-oil-minister-heads-to-BRICS-energy-summit-in-India",
           "source": "Mehr News",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Jenin",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Palestinian man killed by Israeli forces near Jenin",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-killed-israeli-forces-near-jenin",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "BREAKING: Israeli forces kill, detain young man in village west of Jenin - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CVVMzTmdQRTNieDM1bmlkcGJ6eE5SQ25NMl9acWN2eC1PMnFuZ2RTS3lsWG1iWWhwVEl4Qkc3dG1VQlpaVEdyUW5MNWJlcWJzclE1VzJJaw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces injure, detain young man in village west of Jenin - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PYWYtN1VmalpIYlZ0WWppbi1KZmFteUc5ZXJselJFeGZ5cWJWdDl5N283OXdMSE03MURHRHlFb054empvdTM2NWNRYTdWRDhmWmptckVwWQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
         }
       ]
     },
@@ -819,6 +903,60 @@
       ]
     },
     {
+      "term": "Colombia",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win",
+          "url": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "HH the Amir congratulates Colombian President-Elect",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0JDREgxc2F4blR6NVhkYWp2akk0RmU0S1RYX0FUQnVwdkpvUVVPRi1GRm4tUTd6SXpQOWJLQThkN1JzZ24zSF8zcGplSWVmQk5hVnUtMlcxTW1HLWhIMnlyeEVXeFBzekFSc1RfQlJFSUlVQzJrUl96ZTJtWkZZM1Z5UF9WYXlZdDM3SzVzY3M4VGtLNHdUaVAzRy1ZLVNX?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "strike",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Russian strike on Ukraine kills mine disposal expert: NGO",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXVzMWxrYWZfbjFLampDMmVJWGZzc1R4YkowejR6a3RQTjE4VmhHcHZvZnN0cUFWV3M5S1hXbzRDTUJEbXBjYjJ3WDZ4dnAzVHFkbnhFYjRwemdPY2RQTk90WEtERWNTejZGUlhMd3lBSGh1ejAxUXZNcjlXTFNhLVNZcWtubG1ZeUMzTlFQNGpPWWw0NEFKUWdYbGRaSGNYazRTNGRtZFVzZmFVVTI4NVZB0gGyAUFVX3lxTE45dXMxbGthZl9uMUtqakMyZUlYZnNzVHhiSjB6NHprdFBOMThWaEdwdm9mc3RxQVZXczlLWFdvNENNQkRtcGNiMndYNnh2cDNUcWRueEViNHB6Z09jZFBOT3RYS0RFY1N6NkZSWEx3eUFIaHV6MDFRdk1yOVdMU2EtU1lxa25sbVl5QzNOUVA0ak9ZbDQ0QUpRZ1hsZFpIY1hrNFM0ZG1kVXNmYVVVMjg1VkE?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "India",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Flash floods hit India’s Arunachal Pradesh",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/flash-floods-hit-indias-arunachal-pradesh?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran oil minister heads to BRICS energy summit in India",
+          "url": "https://en.mehrnews.com/news/245578/Iran-oil-minister-heads-to-BRICS-energy-summit-in-India",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Pakistan",
       "count": 2,
       "headlines": [
@@ -873,74 +1011,92 @@
       ]
     },
     {
-      "term": "Palestinian",
+      "term": "RSF",
       "count": 2,
       "headlines": [
         {
-          "title": "The children Gaza lost",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/6/24/the-children-gaza-lost?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "UN: RSF used rape and sexual slavery as weapons of war in Sudan since 2023",
+          "url": "https://www.middleeasteye.net/news/un-rsf-used-rape-and-sexual-slavery-weapons-war-sudan-three-years",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Palestinian man killed by Israeli forces near Jenin",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-killed-israeli-forces-near-jenin",
+          "title": "Hunger and desperation grip Sudan's El-Obeid as RSF closes in",
+          "url": "https://www.newarab.com/news/hunger-and-desperation-grip-sudans-el-obeid-rsf-closes",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Sudan",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "UN: RSF used rape and sexual slavery as weapons of war in Sudan since 2023",
+          "url": "https://www.middleeasteye.net/news/un-rsf-used-rape-and-sexual-slavery-weapons-war-sudan-three-years",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hunger and desperation grip Sudan's El-Obeid as RSF closes in",
+          "url": "https://www.newarab.com/news/hunger-and-desperation-grip-sudans-el-obeid-rsf-closes",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Submitted",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "UN: RSF used rape and sexual slavery as weapons of war in Sudan since 2023",
+          "url": "https://www.middleeasteye.net/news/un-rsf-used-rape-and-sexual-slavery-weapons-war-sudan-three-years",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "‘Genocidaires’ delight’: Israeli Ben & Jerry’s flavour sparks social media backlash",
+          "url": "https://www.middleeasteye.net/trending/genocidaires-delight-israeli-ben-jerrys-flavour-sparks-social-media-backlash",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         }
       ]
     },
     {
-      "term": "Lebanese",
+      "term": "Marco",
       "count": 2,
       "headlines": [
         {
-          "title": "Amid Israeli incursions, this mother demands the return of her son",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/amid-israeli-incursions-this-mother-demands-the-return-of-her-son?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Rubio rejects proposal to charge ships for using Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-rejects-proposal-charge-ships-using-strait-hormuz",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
-        {
-          "title": "Israeli drone attack kills two in south Lebanon",
-          "url": "https://en.mehrnews.com/news/245581/Israeli-drone-attack-kills-two-in-south-Lebanon",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Rubio",
-      "count": 2,
-      "headlines": [
         {
           "title": "Rubio says US will coordinate closely with Gulf allies on Iran talks",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-coordinate-closely-gulf-allies-iran-talks",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
-        },
-        {
-          "title": "Rubio commits to UAE security, discusses Iran-US deal with Emirati leader",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05OXNWVzdqd1FvajRfV1N0aU0zM2pYcG1MTlFXSUVfRl9jSnc3eEtMYU1UUUNsTzlJekstRWMzSVZRd0JBOFNWRDJ3ZldDclA1aE1CcGVSem5yY0c4WkE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
         }
       ]
     },
     {
-      "term": "Secretary",
+      "term": "Washington",
       "count": 2,
       "headlines": [
         {
-          "title": "Rubio says US will coordinate closely with Gulf allies on Iran talks",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-will-coordinate-closely-gulf-allies-iran-talks",
+          "title": "Rubio rejects proposal to charge ships for using Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-rejects-proposal-charge-ships-using-strait-hormuz",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Bishwanath Sinha to take over as Kerala Chief Secretary from July 1",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazBWcFBXSXpDc0ZCY2VYYTRWTEpyVUZEcjBGVy01XzcxYlI5T0VTUW9pdjVabUlFbVF2bFJnazB0ZlBkRUEzcHFlRW55UXFtdF91aHFsMHg2ZW4wLThZYkZVWFN5cUtieDNWYWF3TlBRdU1rcmJuUkVjS2Q0VVhIS21wQ01LMlVTWVM0akZ4QzREdEU4Y3J3cGljMUlVeVY4WVJma0RGbEFubzNYV1ZGeFoxX2xxa2ot0gHOAUFVX3lxTFBKbHc1NjlxOUlSLUpVTVQ4SnJ6Y1ZWaXJHQ190emxTbm1YN0pYdlB3ckN5S2JudDZQSUlhUjdtanNLckJzLTIzTGVkTUNqSnpuQllBSENDYUI3SW1lR25UUHBTYk5tUkxYeFViMkhhQTJOSUY0dzh5dUJYdmV5aHZ2X1g4RTdKaEVEXzFHZnRneEZMWm45d0ZUS1k5Z0o2M0daTDdjck93NjN1YzJoZ2FQWmdhMGo0M1RwdWVNc3ZUNnRfMU12emM5dzd3NlRB?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "Katz vows no IDF withdrawal from south Lebanon ‘even if there’s an American demand’",
+          "url": "https://www.timesofisrael.com/katz-vows-no-idf-withdrawal-from-south-lebanon-even-if-theres-an-american-demand/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -959,42 +1115,6 @@
           "url": "https://en.irna.ir/news/86192022/No-plan-for-access-to-Iran-s-attacked-nuclear-facilities-without",
           "source": "IRNA",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Kuwait",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US embassy in Kuwait resumes operations after wartime suspension",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-kuwait-resumes-operations-after-wartime-suspension",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US reopens embassy in Kuwait months after Iranian attack",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGpaM3JNcVpyS1FaZnZXUG1TMnltRi1Hb0N1by13S1R6WTV3QWc5UmRCQVAxWGdUZ1ktZ2wzN0JjVktIanVBdEduWWhRUkgxb28ySTFIRGVTSHhCWGFDSlplZWRKWHA1RzduWEJ3cm9VTDRwTVBBS19VWXRRbnJneXZBMjhmU0IweTF5N0dNc242QVhwcDNsTjg2OHZEZEwxTkFFWUVBZ0dHNWlNM3dVVdIBsAFBVV95cUxOTGpaM3JNcVpyS1FaZnZXUG1TMnltRi1Hb0N1by13S1R6WTV3QWc5UmRCQVAxWGdUZ1ktZ2wzN0JjVktIanVBdEduWWhRUkgxb28ySTFIRGVTSHhCWGFDSlplZWRKWHA1RzduWEJ3cm9VTDRwTVBBS19VWXRRbnJneXZBMjhmU0IweTF5N0dNc242QVhwcDNsTjg2OHZEZEwxTkFFWUVBZ0dHNWlNM3dVVQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Department",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US embassy in Kuwait resumes operations after wartime suspension",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-kuwait-resumes-operations-after-wartime-suspension",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US CENTCOM kills senior ISIS leader Ali Husayn al-'Ulaywi in northwest Syria airstrike",
-          "url": "https://www.jpost.com/middle-east/isis-threat/article-900403",
-          "source": "Jerusalem Post",
-          "region": "Israel"
         }
       ]
     },
@@ -1175,114 +1295,6 @@
           "url": "https://www.timesofisrael.com/andy-burnham-inches-closer-to-uk-premiership-as-starmer-seeks-legacy-in-final-days/",
           "source": "Times of Israel",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Democrats",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Anti-AIPAC Democrats break through in New York primaries",
-          "url": "https://www.newarab.com/news/anti-aipac-democrats-break-through-new-york-primaries",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "AIPAC-backed Adrian Boafo wins Maryland primary, as other Democrats turn on lobby group",
-          "url": "https://www.timesofisrael.com/aipac-backed-adrian-boafo-wins-maryland-primary-as-other-democrats-turn-on-lobby-group/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "York",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Anti-AIPAC Democrats break through in New York primaries",
-          "url": "https://www.newarab.com/news/anti-aipac-democrats-break-through-new-york-primaries",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Mamdani-backed candidates win New York Democratic primaries",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcW41UDFPV2Z6Rzk3eVBDdjZIcllySU1mRTdYejlQXzZTMWpTQnhaa1dDMC0xRUNVTHI1T2FPRFI0U3FqQmNfYWZCV0stRXo1NGFEMTA1aXo3ZnRfSzRfZUJud014ZVhLdEJCRFhXcFNFSkZ0MWVGcFBxdGpBbGotRnY5Um4zRk1uc01HVENZZGhwMFpmYVVxMHpJVk5qT0J1R213T0RDVW1FRC1PV29Ucmdn?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Mamdani",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Anti-AIPAC Democrats break through in New York primaries",
-          "url": "https://www.newarab.com/news/anti-aipac-democrats-break-through-new-york-primaries",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "The Mamdani effect: Democratic incumbents now have to worry about being too pro-Israel - opinion",
-          "url": "https://www.jpost.com/opinion/article-900418",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "aid",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Anti-AIPAC Democrats break through in New York primaries",
-          "url": "https://www.newarab.com/news/anti-aipac-democrats-break-through-new-york-primaries",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "AIPAC-backed Adrian Boafo wins Maryland primary, as other Democrats turn on lobby group",
-          "url": "https://www.timesofisrael.com/aipac-backed-adrian-boafo-wins-maryland-primary-as-other-democrats-turn-on-lobby-group/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "drone strike",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israeli drone strike kills 2 in Kfar Roummane car attack",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFNSZzZaWXZYSFpZM21sUWV4OGNZcjRraTc4dUQtYjBGbzFvall3LXdLTkFCNTktYXJ1OWJUODhPZWFBNVBBYzFyUTZvby13bHdYemNsYXJGVG5Ic0lrMGJWWlhyT2E5ZTl6Vm1GUjl1UXhZdElTamR3c2FiMERoT3NnalhlNkQxXzNvejNnOE44ZGhWczZRRHJvZUphZ1hJUWh1NFJEeE1wTDVXek5jcw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Katz vows no IDF withdrawal from south Lebanon ‘even if there’s an American demand’",
-          "url": "https://www.timesofisrael.com/katz-vows-no-idf-withdrawal-from-south-lebanon-even-if-theres-an-american-demand/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Kfar",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israeli drone strike kills 2 in Kfar Roummane car attack",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFNSZzZaWXZYSFpZM21sUWV4OGNZcjRraTc4dUQtYjBGbzFvall3LXdLTkFCNTktYXJ1OWJUODhPZWFBNVBBYzFyUTZvby13bHdYemNsYXJGVG5Ic0lrMGJWWlhyT2E5ZTl6Vm1GUjl1UXhZdElTamR3c2FiMERoT3NnalhlNkQxXzNvejNnOE44ZGhWczZRRHJvZUphZ1hJUWh1NFJEeE1wTDVXek5jcw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli drone attack kills two in south Lebanon",
-          "url": "https://en.mehrnews.com/news/245581/Israeli-drone-attack-kills-two-in-south-Lebanon",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     }
