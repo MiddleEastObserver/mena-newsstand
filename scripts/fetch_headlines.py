@@ -203,6 +203,9 @@ JUNK_TITLES = {
     "e-paper", "epaper", "newsletters", "newsletter", "tag", "tags", "live",
     "live blog", "watch", "author", "authors", "more", "latest", "latest news",
     "breaking news", "podcasts", "podcast",
+    # Arabic section/navigation labels that arrive as if they were articles.
+    "صحة وطب", "صحة", "رياضة", "فن", "فنون", "منوعات", "تكنولوجيا", "سيارات",
+    "ثقافة", "مقالات", "الرئيسية", "فيديو", "صور",
 }
 
 # ---------------------------------------------------------------------------
@@ -253,6 +256,38 @@ OFFTOPIC_TERMS = [
 ]
 OFFTOPIC_RE = re.compile(
     r"\b(" + "|".join(re.escape(t) for t in OFFTOPIC_TERMS) + r")\b", re.I)
+
+# Sponsored / advertising entries that RSS feeds mix in as if they were articles.
+# Only clear ad markers — NOT a bare "sponsored"/"partnership", which appear in
+# real headlines ("Sponsored by years of conflict…", "in partnership with the US").
+AD_TITLE_RE = re.compile(
+    r"\bsponsored\s+(content|post|article|feature|story|listing)\b"
+    r"|\b(advertorial|advertisement)\b"
+    r"|\bpaid\s+(content|post|partnership|promotion)\b"
+    r"|\b(partnered|branded|promoted)\s+(content|post|story)\b"
+    r"|\[\s*(ad|sponsored|promoted|advertisement)\s*\]"
+    r"|\(\s*(ad|sponsored|advertisement)\s*\)"
+    r"|(?:^|[-|–—:]\s*)sponsored\s*$",          # a trailing "… - Sponsored" tag
+    re.I)
+# Known ad-network / affiliate redirect hosts that show up in entry links.
+AD_DOMAINS = {
+    "doubleclick.net", "googleadservices.com", "googlesyndication.com",
+    "outbrain.com", "taboola.com", "adnxs.com", "go.skimresources.com",
+    "skimresources.com", "awin1.com", "shareasale.com", "linksynergy.com",
+    "prf.hn", "anrdoezrs.net", "dpbolvw.net", "jdoqocy.com", "smartadserver.com",
+}
+
+# Arabic-language sports / lifestyle that the English term list can't catch.
+# Matched as substrings (Arabic prefixes attach to words), so ONLY unambiguous
+# multi-letter terms are listed — deliberately avoiding ones that hide inside
+# common geopolitical words: e.g. "هداف" (scorer) ⊂ "استهداف" (targeting),
+# "الدوري" ⊂ "الدورية" (patrol), "منتخب" also means "elected", "أبراج"=towers.
+OFFTOPIC_AR = [
+    "كأس العالم", "المونديال", "كرة القدم", "كرة قدم", "دوري أبطال",
+    "ميسي", "رونالدو", "نيمار",                                     # sports
+    "وصفات", "العناية بالبشرة", "مكياج", "تسريحة",                   # lifestyle
+]
+OFFTOPIC_AR_RE = re.compile("|".join(re.escape(t) for t in OFFTOPIC_AR))
 
 # Order regions appear in the Headlines tab (the site renders them in the order
 # they're written to headlines.json).
@@ -477,7 +512,16 @@ def is_offtopic(title: str, url: str = "") -> bool:
             head = re.split(r"[-_.]", seg, 1)[0]      # e.g. "sport-news" -> "sport"
             if head in OFFTOPIC_PATHS:
                 return True
+        dom = domain_of(url)                          # ad-network / affiliate link
+        if dom in AD_DOMAINS or any(dom.endswith("." + a) for a in AD_DOMAINS):
+            return True
     if title:
+        # Sponsored / advertising content masquerading as a headline.
+        if AD_TITLE_RE.search(title):
+            return True
+        # Arabic-language sports / lifestyle the English term list misses.
+        if OFFTOPIC_AR_RE.search(title):
+            return True
         # Advice / service Q&A columns: "Ask Gulf News: …", "Ask Khaleej Times: …"
         if re.match(r"(?i)^ask\s+[\w.'’ -]{2,24}:", title.strip()):
             return True
