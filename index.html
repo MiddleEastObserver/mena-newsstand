@@ -189,10 +189,9 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .brief-slide{scroll-snap-align:center;flex:0 0 min(86%,460px);background:var(--card);
   border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:var(--r3);
   overflow:hidden;box-shadow:var(--sh2);display:flex;flex-direction:column}
-.brief-img{position:relative;height:140px;background:linear-gradient(135deg,#0E1A35,#15264F);overflow:hidden;flex:0 0 auto}
-.brief-img img{width:100%;height:100%;object-fit:cover;object-position:center 22%;display:block;animation:briefimgin .4s ease}
+.brief-img{position:relative;height:150px;background:radial-gradient(120% 120% at 50% 30%,#1B2D54,#0E1A35);overflow:hidden;flex:0 0 auto;display:flex;align-items:center;justify-content:center;padding:10px}
+.brief-img img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;display:block;border-radius:4px;animation:briefimgin .4s ease}
 @keyframes briefimgin{from{opacity:0}to{opacity:1}}
-.brief-img::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(14,26,53,.45),transparent 60%);pointer-events:none}
 .brief-body{padding:22px 26px 26px;display:flex;flex-direction:column;gap:13px;min-height:200px}
 .brief-kicker{font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
 .brief-h{font-family:'Playfair Display',serif;font-weight:800;font-size:25px;line-height:1.12;color:var(--blue)}
