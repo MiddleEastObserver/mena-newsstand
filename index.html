@@ -189,11 +189,7 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .brief-slide{scroll-snap-align:center;flex:0 0 min(86%,460px);background:var(--card);
   border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:var(--r3);
   overflow:hidden;box-shadow:var(--sh2);display:flex;flex-direction:column}
-.brief-img{position:relative;height:152px;background:radial-gradient(120% 120% at 50% 30%,#1B2D54,#0E1A35);overflow:hidden;flex:0 0 auto}
-.brief-img img{width:100%;height:100%;object-fit:cover;object-position:center;display:block;animation:briefimgin .4s ease}
-.brief-img img.fit{object-fit:contain;padding:8px}
-@keyframes briefimgin{from{opacity:0}to{opacity:1}}
-.brief-body{padding:22px 26px 26px;display:flex;flex-direction:column;gap:13px;min-height:200px}
+.brief-body{padding:24px 26px 26px;display:flex;flex-direction:column;gap:13px;min-height:212px}
 .brief-kicker{font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
 .brief-h{font-family:'Playfair Display',serif;font-weight:800;font-size:25px;line-height:1.12;color:var(--blue)}
 .brief-rule{width:46px;height:3px;background:var(--gold);border-radius:2px}
@@ -203,7 +199,7 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .brief-dots{display:flex;gap:7px;justify-content:center;margin-top:6px;flex-wrap:wrap}
 .brief-dot{width:8px;height:8px;border-radius:50%;background:var(--line);cursor:pointer;transition:.2s;border:none;padding:0}
 .brief-dot.active{background:var(--accent);transform:scale(1.3)}
-.brief-arrow{position:absolute;top:84px;transform:translateY(-50%);z-index:3;width:40px;height:40px;
+.brief-arrow{position:absolute;top:50%;transform:translateY(-50%);z-index:3;width:40px;height:40px;
   border-radius:50%;border:1px solid var(--line);background:rgba(255,255,255,.92);color:var(--blue);
   font-size:22px;line-height:1;display:none;align-items:center;justify-content:center;box-shadow:var(--sh2)}
 .brief-arrow:hover{background:#fff;color:var(--accent)}
@@ -752,136 +748,11 @@ async function loadTrends(){
   body.innerHTML = html;
 }
 
-// Map a card to the country it's about, so each card gets a matching flag image
-// from flagcdn.com (the internet, not the site's own covers). Heading is weighted
-// over the body. Returns an ISO country code, or '' (then the card is text-only).
-const BRIEF_CC = {
-  ukraine:'ua', russia:'ru', china:'cn', beijing:'cn', iran:'ir', tehran:'ir',
-  israel:'il', israeli:'il', lebanon:'lb', hezbollah:'lb', beirut:'lb',
-  syria:'sy', damascus:'sy', yemen:'ye', houthi:'ye', egypt:'eg', cairo:'eg',
-  turkey:'tr', iraq:'iq', qatar:'qa', kuwait:'kw', bahrain:'bh', oman:'om',
-  jordan:'jo', sudan:'sd', libya:'ly', tunisia:'tn', algeria:'dz',
-  'saudi':'sa', riyadh:'sa', uae:'ae', emirates:'ae', gulf:'sa',
-  gaza:'ps', palestin:'ps', 'west bank':'ps',
-  'united states':'us', 'u.s.':'us', america:'us', washington:'us', trump:'us',
-  europe:'eu', 'european union':'eu', brussels:'eu',
-  britain:'gb', british:'gb', brexit:'gb', 'u.k.':'gb', london:'gb',
-  france:'fr', paris:'fr', germany:'de', pakistan:'pk', india:'in',
-  afghanistan:'af', 'north korea':'kp', japan:'jp', venezuela:'ve', taiwan:'tw'
-};
-function briefFlag(card){
-  const h = (card.heading||'').toLowerCase();
-  for(const k in BRIEF_CC){ if(h.includes(k)) return BRIEF_CC[k]; }
-  const s = (card.summary||'').toLowerCase();
-  for(const k in BRIEF_CC){ if(s.includes(k)) return BRIEF_CC[k]; }
-  return '';
-}
-
-// Ordered keyword -> Wikipedia page title, chosen so the lead image is a
-// LANDSCAPE scene/event (fills the banner) rather than a portrait or a flag:
-// current conflicts/events first, then a cityscape of the relevant place, then a
-// topic scene. Subjects are de-duplicated across cards.
-const BRIEF_SUBJECTS = [
-  // events / conflicts (landscape montages)
-  ["russia-ukraine","Russian invasion of Ukraine"],
-  ["ukraine","Russian invasion of Ukraine"],["zelensky","Russian invasion of Ukraine"],
-  ["syrian civil war","Syrian civil war"],["syria","Syrian civil war"],
-  ["gaza","Gaza Strip"],["west bank","West Bank"],
-  // cities (recognisable landscape cityscapes of the place being discussed)
-  ["tehran","Tehran"],["iran","Tehran"],["beirut","Beirut"],["hezbollah","Beirut"],
-  ["lebanon","Beirut"],["damascus","Damascus"],["sanaa","Sanaa"],["yemen","Sanaa"],
-  ["houthi","Sanaa"],["baghdad","Baghdad"],["iraq","Baghdad"],["cairo","Cairo"],
-  ["egypt","Cairo"],["istanbul","Istanbul"],["turkey","Istanbul"],
-  ["jerusalem","Jerusalem"],["tel aviv","Tel Aviv"],["israel","Tel Aviv"],
-  ["riyadh","Riyadh"],["saudi","Riyadh"],["doha","Doha"],["qatar","Doha"],
-  ["dubai","Dubai"],["emirates","Dubai"],["uae","Dubai"],["kuwait","Kuwait City"],
-  ["amman","Amman"],["jordan","Amman"],["beijing","Beijing"],["china","Beijing"],
-  ["moscow","Moscow"],["russia","Moscow"],["kyiv","Kyiv"],
-  ["washington","Washington, D.C."],["united states","Washington, D.C."],
-  ["america","Washington, D.C."],["trump","Washington, D.C."],
-  ["brussels","Brussels"],["european union","Brussels"],["europe","Brussels"],
-  ["london","London"],["britain","London"],["brexit","London"],["paris","Paris"],
-  ["france","Paris"],["berlin","Berlin"],["germany","Berlin"],
-  ["islamabad","Islamabad"],["pakistan","Islamabad"],["new delhi","New Delhi"],
-  ["india","New Delhi"],
-  // topic scenes (landscape)
-  ["nuclear","Nuclear power plant"],["oil","Oil refinery"],["opec","Oil refinery"],
-  ["energy","Oil refinery"],["economy","New York Stock Exchange"],
-  ["market","New York Stock Exchange"],["sanction","Economic sanctions"],
-  ["cyber","Computer security"],["climate","Climate change"],
-  ["nato","NATO"],["diploma","Headquarters of the United Nations"],
-  ["summit","Headquarters of the United Nations"],
-  ["talks","Headquarters of the United Nations"],
-];
-const WORLD_SUBJECT = "Earth";
-
-function cardSubjects(c){
-  const head = (c.heading||'').toLowerCase();
-  if(/big picture|top line|overview|global picture|the world/.test(head)) return [WORLD_SUBJECT];
-  const txt = head + ' ' + (c.summary||'').toLowerCase();
-  const out = [];
-  for(const [k,title] of BRIEF_SUBJECTS){ if(txt.includes(k) && !out.includes(title)) out.push(title); }
-  out.push(WORLD_SUBJECT);
-  return out;
-}
-function assignSubjects(cards){
-  const used = new Set();
-  return cards.map(cardSubjects).map(list=>{
-    let chosen = list.find(t=>!used.has(t)) || list[0];
-    used.add(chosen);
-    return chosen;
-  });
-}
-async function wikiThumb(title){
-  try{
-    const r = await fetch("https://en.wikipedia.org/api/rest_v1/page/summary/" +
-      encodeURIComponent(title), {headers:{Accept:"application/json"}});
-    if(!r.ok) return "";
-    const j = await r.json();
-    // Use the thumbnail URL AS-IS — do not rewrite the width (requesting a size
-    // the file doesn't have 404s). cover-fill makes even a ~320px thumb fill.
-    return (j.thumbnail && j.thumbnail.source) || "";
-  }catch(e){ return ""; }
-}
-// Resolve to an <img> only AFTER it's confirmed loadable, so a 404 never leaves
-// a broken-image icon. Returns the loaded Image (with natural dims) or null.
-function preloadImg(src){
-  return new Promise(res=>{
-    if(!src){ res(null); return; }
-    const im = new Image();
-    im.onload = ()=> res(im);
-    im.onerror = ()=> res(null);
-    im.src = src;
-  });
-}
-async function loadBriefImages(track, cards, subjects){
-  const usedFlag = new Set();
-  const boxes = [...track.querySelectorAll(".brief-img")];
-  await Promise.all(boxes.map(async (box, idx)=>{
-    const wsrc = subjects[idx] ? await wikiThumb(subjects[idx]) : "";
-    const im = await preloadImg(wsrc);
-    if(im){
-      const fit = im.naturalHeight > im.naturalWidth * 1.2 ? ' class="fit"' : '';
-      box.innerHTML = `<img${fit} src="${esc(wsrc)}" alt="">`;
-      return;
-    }
-    const cc = briefFlag(cards[idx]);            // fallback: a flag, never duplicated
-    const fsrc = cc ? `https://flagcdn.com/w640/${cc}.png` : "";
-    if(cc && !usedFlag.has(cc) && await preloadImg(fsrc)){
-      usedFlag.add(cc);
-      box.innerHTML = `<img class="fit" src="${fsrc}" alt="">`;
-    }else{
-      box.remove();                              // no image — clean text-only card
-    }
-  }));
-}
 function renderBriefCarousel(cards){
   const track = document.getElementById("brief-track");
   const n = cards.length;
-  const subjects = assignSubjects(cards);
   track.innerHTML = cards.map((c,idx)=>
     `<article class="brief-slide">
-      <div class="brief-img"></div>
       <div class="brief-body">
         <span class="brief-kicker">${String(idx+1).padStart(2,'0')} / ${String(n).padStart(2,'0')}</span>
         <div class="brief-h">${esc(c.heading||('Update '+(idx+1)))}</div>
@@ -889,7 +760,6 @@ function renderBriefCarousel(cards){
         <div class="brief-sum">${esc(c.summary||'')}</div>
       </div>
     </article>`).join("");
-  loadBriefImages(track, cards, subjects);
   const dots = document.getElementById("brief-dots");
   dots.innerHTML = cards.map((_,i)=>
     `<button class="brief-dot${i===0?' active':''}" data-i="${i}" aria-label="Card ${i+1}"></button>`).join("");
