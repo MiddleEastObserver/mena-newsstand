@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T01:29:39.076153+00:00",
+  "updated": "2026-06-24T01:58:38.379074+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
+            "published": "2026-06-24T01:29:51+00:00",
+            "snippet": "US Senate votes to pause Iran war in rare rebuke to Trump"
+          },
           {
             "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
             "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss",
             "published": "2026-06-23T23:01:10+00:00",
             "snippet": "The high court has ruled that prisoners cannot sue prison staff for monetary damages under religious liberties law. This decision affects a Rastafarian man who was shaved by prison guards."
-          },
-          {
-            "title": "Israel’s deliberate targeting of Palestinian children",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
-            "published": "2026-06-23T22:50:00+00:00",
-            "snippet": "A new UN report details the impact of Israel's war on Gaza and its occupation of the West Bank on Palestinian children. The report documents the toll on these children."
           }
         ],
         "error": null
@@ -425,10 +425,10 @@
             "snippet": "The Cabinet has directed further reform measures to strengthen expenditure control and public financial governance, as reported by WAFA Agency."
           },
           {
-            "title": "Israeli forces detain 25 Palestinians during military raid on Fawwar refugee camp - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81bnM3WHhDLVNxQVgybGQybURNZ0JJRTFwZVR4bnBpNENsTnZlemtZOWdKMi1BUElyR1I0U2czeGRGNGlWMzdoQlY0LS1GM0VZMENHcGd1RQ?oc=5",
-            "published": "2026-06-23T08:59:41+00:00",
-            "snippet": "Israeli forces detained 25 Palestinians during a military raid on Fawwar refugee camp, according to WAFA Agency."
+            "title": "Dozens of Israeli colonists storm Sebastia archaeological site under military protection - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DaTlrR25VWUE1WVAyU09rUGlBdmxrV3kwcWhkY19LcEozSTZWbWQzSktLbzk3UVhfRnRoZjBEN0VxUEJGTTktbDdDYzZrSVczbFR4eHpGZw?oc=5",
+            "published": "2026-06-23T07:34:05+00:00",
+            "snippet": "Dozens of Israeli colonists storm Sebastia archaeological site under military protection WAFA Agency"
           }
         ],
         "error": null
@@ -481,10 +481,10 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "Iraq rice production rebounds as drought ends, but future uncertain",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naXRpU2l0VTVSZkQ1N1VmN0hvR19JaHVISTFhbVBfUy1rWlpDZFg2c0xCRXFyYnhWVktmM1dTUEI0WFZjbmx1c0FQQmRfbmFlYjBN?oc=5",
-            "published": "2026-06-24T00:10:16+00:00",
-            "snippet": "Iraq rice production rebounds as drought ends, but future uncertain Arab News"
+            "title": "Eleven more bodies of migrants wash ashore from capsize last week off Libya",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iS0hZenFlZXk3QXlfQjA5TjVhbXN3aG9Xd2tucnBpYzJ2NFJZZzVkRnphQkM5NzdJSHlBT2gtNEQ2RUxTbnNVdXRwVWV0eGVyc0xr?oc=5",
+            "published": "2026-06-23T23:28:41+00:00",
+            "snippet": "Eleven more bodies of migrants wash ashore from capsize last week off Libya Arab News"
           },
           {
             "title": "Leaders of four Central European countries meet in Hungary to reboot regional group",
@@ -559,6 +559,12 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
+            "title": "Trump administration touts Iran deal as a payday for US farmers, but Iran denies it",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa21kMEpvQVh5MHpNVFpCVVF0M2xJU2lQQ1lNeWxLb25qQ09HUWhicWZibHRkODREUXpIVzRPR3dqdEhQQnNuRHE0M0V6SExHREgwZlo4Wk1TZDJjQndISGdIQzAzZkszQUkyYld1X3A2cDBHb1N0OE1iVy1NMDBoYXdlNkZXZzk0b2hpc2ZwTnpabXZJYVI4WkNTZHF0b2w1YllKMTM4TE15cGh5QUk1N25kdEdHbDZHSzVNX1dSSmVpbExQSi1pdE9lQmZ6OGpoVVRpSGxDaG9pV0Z30gHcAUFVX3lxTE9rbWQwSm9BWHkwek1UWkJVUXQzbElTaVBDWU15bEtvbmpDT0dRaGJxZmJsdGQ4NERRekhXNE9Hd2p0SFBCc25EcTQzRXpITEdESDBmWjhaTVNkMmNCd0hIZ0hDMDNmSzNBSTJiV3VfcDZwMEdvU3Q4TWJXLU0wMGhhd2U2RldnOTRvaGlzZnBOelptdklhUjhaQ1NkcXRvbDViWUoxMzhMTXlwaHlBSTU3bmR0R0dsNkdLNU1fV1JKZWlsTFBKLWl0T2VCZno4amhVVGlIbENob2lXRnc?oc=5",
+            "published": "2026-06-23T23:28:26+00:00",
+            "snippet": "Trump administration touts Iran deal as a payday for US farmers, but Iran denies it Gulf News"
+          },
+          {
             "title": "UK must speed up switch to electric to hit climate goals: report",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3NrVUwxVExnOC1RcERxNFNObUxkZmxhc1YyVXNCRFNuUWZDVkpSQTJlN0g3dUd3NEUxWUVySEJFS3RvcE5YWHJVRlZWRWN4dG5mdExnbkxOTV9HYlJlV2lsVHB6Ny1WMmtHR3gzTzEtX3E4cEY2UXFMZmluZHVseXMtN3ZXZms4THUwRWxlTlJLbGFnQmwweHBHUm5FVGhKT2FEVDhPYUllV0M3T2IyYnp5MVZSZHFCZ2ZqZmlzWXjSAcABQVVfeXFMTl9za1VMMVRMZzgtUXBEcTRTTm1MZGZsYXNWMlVzQkRTblFmQ1ZKUkEyZTdIN3VHdzRFMVlFckhCRUt0b3BOWFhyVUZWVkVjeHRuZnRMZ25MTk1fR2JSZVdpbFRwejctVjJrR0d4M08xLV9xOHBGNlFxTGZpbmR1bHlzLTd2V2ZrOEx1MEVsZU5SS2xhZ0JsMHhwR1JuRVRoSk9hRFQ4T2FJZVdDN09iMmJ6eTFWUmRxQmdmamZpc1l4?oc=5",
             "published": "2026-06-23T23:19:45+00:00",
@@ -581,12 +587,6 @@
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkblVHaHNBY3ZDRy1yUHVKUWtQVW00WWN0OFp4Q3cxbktLV1JaSzVnTU9xbnZpLXRteW5tRTdzOC1qcm1BeW90Rmx3MUtvWFNUZUd6WUgwVlVCZFJXR1c0VHY0eEhYU0g1bmpVYg?oc=5",
             "published": "2026-06-23T22:48:03+00:00",
             "snippet": "This job posting is for an MEP Site Engineer - 1 No."
-          },
-          {
-            "title": "Latest MENA News & Top Stories",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UMTFNN3dMTmFaTFUxWlJuckVzYVRUalJ1bjlzV1doWEZtLVZxOXBWNUpSWUpzbWpXNHF4Rzg2OUdfY0FOSlE?oc=5",
-            "published": "2026-06-23T22:44:37+00:00",
-            "snippet": "This item provides the latest MENA news and top stories from Gulf News."
           }
         ],
         "error": null
@@ -610,10 +610,10 @@
             "snippet": "Qatar's new digital scholarship program is designed to lead to guaranteed employment, as reported by Gulf Times."
           },
           {
-            "title": "PM arrives in Muscat",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jaVRGZDdJS3A1YWpFd095SDl1cnZWa2ttdFRnVXBDaTNlcFJfcEx1UmJ3c3N0RlJvZEpOSDJ6N1VLNS1QQjhYQ2xXSFppcTlvLWFEY3hKTEhQSVBtVmFQdl9KZTlVNVpOVVp4WEd2TGJ0eV9kaklN0gF8QVVfeXFMUExvOFJPSFJobHRJQkx0MjZrMnI1ZmtiV0NJbDRuS0xlendhUklZWEx2R21hTl8wZG9tTXhLd0xWNnhva3RJRlJSWXZIcWx2T0N6NEliS0k1QVk0UG9oSHAxSjdfRUJmRmp3aVpFNTVoa3JOYUg4T20wRUNwSA?oc=5",
-            "published": "2026-06-23T21:00:00+00:00",
-            "snippet": "The Prime Minister has arrived in Muscat, according to Gulf Times."
+            "title": "Coach Lopetegui urges Qatar to fight until the end against Bosnia",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwckI4ejQyWEZHSTQ2M0FTM0JuWG8zYmJYNkw0TXd5LTM1eEgxbkVmeHoyYjNCTTRoT2h1ZjRoWTdKQlo5RE12TjUzckcyNXUzNktYZVptdVJ5ODFJNVo4OVU2ZnNGQjFVTWp5UjlhQTNzLTJwbFZ6aWdLekM?oc=5",
+            "published": "2026-06-23T22:04:19+00:00",
+            "snippet": "Coach Lopetegui urges Qatar to fight until the end against Bosnia Gulf Times"
           },
           {
             "title": "Qatar makes it to world's top five for economic resilience",
@@ -622,10 +622,10 @@
             "snippet": "Qatar makes it to world's top five for economic resilience | Gulf Times Gulf Times"
           },
           {
-            "title": "HH the Amir condoles with Indian PM",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXlzajF4WVUtQW5lOEVqVW81M1JwWG5ad1VfdUR4YUlJWHFYMnYwZWpRcVF3andCRllteHc2T3dMNktuQVFnNG81MVdBN0ZLTjM1OGNGaGVIaVdzV0NJdTNZQ0NLS1N2SkdJVnh2ODdFNTlJMmpva3Z5VjZTcDlYeHNLSWZ6U1FibVdTOFFoWEjSAZABQVVfeXFMUHl5c2oxeFlVLUFuZThFalVvNTNScFhuWndVX3VEeGFJSVhxWDJ2MGVqUXFRd2p3QkZZbXh3Nk93TDZLbkFRZzRvNTFXQTdGS04zNThjRmhlSGlXc1dDSXUzWUNDS0tTdkpHSVZ4djg3RTU5STJqb2t2eVY2U3A5WHhzS0lmelNRYm1XUzhRaFhI?oc=5",
-            "published": "2026-06-23T20:21:00+00:00",
-            "snippet": "HH the Amir condoles with Indian PM | Gulf Times Gulf Times"
+            "title": "PM arrives in Muscat",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jaVRGZDdJS3A1YWpFd095SDl1cnZWa2ttdFRnVXBDaTNlcFJfcEx1UmJ3c3N0RlJvZEpOSDJ6N1VLNS1QQjhYQ2xXSFppcTlvLWFEY3hKTEhQSVBtVmFQdl9KZTlVNVpOVVp4WEd2TGJ0eV9kaklN0gF8QVVfeXFMUExvOFJPSFJobHRJQkx0MjZrMnI1ZmtiV0NJbDRuS0xlendhUklZWEx2R21hTl8wZG9tTXhLd0xWNnhva3RJRlJSWXZIcWx2T0N6NEliS0k1QVk0UG9oSHAxSjdfRUJmRmp3aVpFNTVoa3JOYUg4T20wRUNwSA?oc=5",
+            "published": "2026-06-23T21:00:00+00:00",
+            "snippet": "The Prime Minister has arrived in Muscat, according to Gulf Times."
           }
         ],
         "error": null
