@@ -189,8 +189,9 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
 .brief-slide{scroll-snap-align:center;flex:0 0 min(86%,460px);background:var(--card);
   border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:var(--r3);
   overflow:hidden;box-shadow:var(--sh2);display:flex;flex-direction:column}
-.brief-img{position:relative;height:132px;background:linear-gradient(135deg,#0E1A35,#15264F);overflow:hidden;flex:0 0 auto}
-.brief-img img{width:100%;height:100%;object-fit:cover;display:block}
+.brief-img{position:relative;height:140px;background:linear-gradient(135deg,#0E1A35,#15264F);overflow:hidden;flex:0 0 auto}
+.brief-img img{width:100%;height:100%;object-fit:cover;object-position:center 22%;display:block;animation:briefimgin .4s ease}
+@keyframes briefimgin{from{opacity:0}to{opacity:1}}
 .brief-img::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(14,26,53,.45),transparent 60%);pointer-events:none}
 .brief-body{padding:22px 26px 26px;display:flex;flex-direction:column;gap:13px;min-height:200px}
 .brief-kicker{font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
@@ -775,22 +776,99 @@ function briefFlag(card){
   for(const k in BRIEF_CC){ if(s.includes(k)) return BRIEF_CC[k]; }
   return '';
 }
+
+// Ordered keyword -> Wikipedia page title. People first (real portraits), then
+// groups/events, then places, then topics — so each card prefers a concrete
+// person/event photo. Subjects are de-duplicated across cards.
+const BRIEF_SUBJECTS = [
+  ["trump","Donald Trump"],["netanyahu","Benjamin Netanyahu"],
+  ["pezeshkian","Masoud Pezeshkian"],["khamenei","Ali Khamenei"],
+  ["erdogan","Recep Tayyip Erdoğan"],["putin","Vladimir Putin"],
+  ["zelensky","Volodymyr Zelenskyy"],["xi jinping","Xi Jinping"],
+  ["macron","Emmanuel Macron"],["starmer","Keir Starmer"],
+  ["el-sisi","Abdel Fattah el-Sisi"],["sisi","Abdel Fattah el-Sisi"],
+  ["bin salman","Mohammed bin Salman"],["nasrallah","Hassan Nasrallah"],
+  ["ghalibaf","Mohammad Bagher Ghalibaf"],["guterres","António Guterres"],
+  ["hezbollah","Hezbollah"],["hamas","Hamas"],["houthi","Houthi movement"],
+  ["islamic state","Islamic State"],["nato","NATO"],["opec","OPEC"],
+  ["security council","United Nations Security Council"],
+  ["gaza","Gaza Strip"],["west bank","West Bank"],
+  ["russia-ukraine","Russian invasion of Ukraine"],
+  ["ukraine","Russian invasion of Ukraine"],
+  ["nuclear","Nuclear program of Iran"],
+  ["iran","Iran"],["israel","Israel"],["lebanon","Lebanon"],["syria","Syria"],
+  ["yemen","Yemen"],["iraq","Iraq"],["egypt","Egypt"],["turkey","Turkey"],
+  ["saudi","Saudi Arabia"],["qatar","Qatar"],["emirates","United Arab Emirates"],
+  ["uae","United Arab Emirates"],["kuwait","Kuwait"],["jordan","Jordan"],
+  ["china","China"],["russia","Russia"],["united states","United States"],
+  ["washington","United States"],["america","United States"],
+  ["european union","European Union"],["europe","European Union"],
+  ["britain","United Kingdom"],["brexit","Brexit"],["france","France"],
+  ["germany","Germany"],["pakistan","Pakistan"],["india","India"],
+  ["sanction","International sanctions"],["oil","Petroleum industry"],
+  ["energy","Energy"],["economy","World economy"],["market","Stock market"],
+  ["cyber","Cyberwarfare"],["climate","Climate change"],["diploma","Diplomacy"],
+];
+const WORLD_SUBJECT = "Earth";
+
+function cardSubjects(c){
+  const head = (c.heading||'').toLowerCase();
+  if(/big picture|top line|overview|global picture|the world/.test(head)) return [WORLD_SUBJECT];
+  const txt = head + ' ' + (c.summary||'').toLowerCase();
+  const out = [];
+  for(const [k,title] of BRIEF_SUBJECTS){ if(txt.includes(k) && !out.includes(title)) out.push(title); }
+  out.push(WORLD_SUBJECT);
+  return out;
+}
+function assignSubjects(cards){
+  const used = new Set();
+  return cards.map(cardSubjects).map(list=>{
+    let chosen = list.find(t=>!used.has(t)) || list[0];
+    used.add(chosen);
+    return chosen;
+  });
+}
+async function wikiThumb(title){
+  try{
+    const r = await fetch("https://en.wikipedia.org/api/rest_v1/page/summary/" +
+      encodeURIComponent(title), {headers:{Accept:"application/json"}});
+    if(!r.ok) return "";
+    const j = await r.json();
+    let src = (j.thumbnail && j.thumbnail.source) || "";
+    if(src) src = src.replace(/\/\d+px-/, "/500px-");   // sharper banner
+    return src;
+  }catch(e){ return ""; }
+}
+async function loadBriefImages(track, cards, subjects){
+  const usedFlag = new Set();
+  const boxes = [...track.querySelectorAll(".brief-img")];
+  await Promise.all(boxes.map(async (box, idx)=>{
+    const src = subjects[idx] ? await wikiThumb(subjects[idx]) : "";
+    if(src){ box.innerHTML = `<img src="${esc(src)}" alt="" loading="lazy">`; return; }
+    const cc = briefFlag(cards[idx]);            // fallback: a flag, never duplicated
+    if(cc && !usedFlag.has(cc)){
+      usedFlag.add(cc);
+      box.innerHTML = `<img src="https://flagcdn.com/w640/${cc}.png" alt="" loading="lazy" onerror="this.closest('.brief-img').remove()">`;
+    }else{
+      box.remove();                              // no image — clean text-only card
+    }
+  }));
+}
 function renderBriefCarousel(cards){
   const track = document.getElementById("brief-track");
   const n = cards.length;
-  track.innerHTML = cards.map((c,idx)=>{
-    const cc = briefFlag(c);
-    const img = cc
-      ? `<div class="brief-img"><img src="https://flagcdn.com/w640/${cc}.png" alt="" loading="lazy" onerror="this.closest('.brief-img').remove()"></div>`
-      : '';
-    return `<article class="brief-slide">${img}
+  const subjects = assignSubjects(cards);
+  track.innerHTML = cards.map((c,idx)=>
+    `<article class="brief-slide">
+      <div class="brief-img"></div>
       <div class="brief-body">
         <span class="brief-kicker">${String(idx+1).padStart(2,'0')} / ${String(n).padStart(2,'0')}</span>
         <div class="brief-h">${esc(c.heading||('Update '+(idx+1)))}</div>
         <div class="brief-rule"></div>
         <div class="brief-sum">${esc(c.summary||'')}</div>
       </div>
-    </article>`;}).join("");
+    </article>`).join("");
+  loadBriefImages(track, cards, subjects);
   const dots = document.getElementById("brief-dots");
   dots.innerHTML = cards.map((_,i)=>
     `<button class="brief-dot${i===0?' active':''}" data-i="${i}" aria-label="Card ${i+1}"></button>`).join("");
