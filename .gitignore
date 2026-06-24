@@ -13,3 +13,8 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Trends intermediate: the broad per-outlet coverage sample is produced by
+# fetch_headlines.py and consumed by build_trends.py within the same CI run.
+# It's not browser-facing (trends.json is), so it isn't committed or deployed.
+coverage.json

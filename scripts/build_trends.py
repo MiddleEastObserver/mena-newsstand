@@ -24,6 +24,7 @@ from pathlib import Path
 
 ROOT       = Path(__file__).parent.parent
 HL_PATH    = ROOT / "headlines.json"
+COV_PATH   = ROOT / "coverage.json"          # broad per-outlet sample (preferred)
 OUT_PATH   = ROOT / "trends.json"
 HIST_PATH  = ROOT / "state" / "trends_history.json"
 
@@ -119,9 +120,21 @@ def parse_ts(s):
         return None
 
 
-def main():
+def load_regions():
+    """Prefer coverage.json (the broad sample of what each outlet is actually
+    covering — up to ~40 items/outlet). Fall back to headlines.json (the 5/outlet
+    shown on the wall) if coverage isn't available, so trends never goes blank."""
+    cov = load_json(COV_PATH) or {}
+    regions = cov.get("regions", {})
+    has_cov = any(o.get("coverage") for outs in regions.values() for o in outs)
+    if has_cov:
+        return regions, "coverage"
     data = load_json(HL_PATH) or {}
-    regions = data.get("regions", {})
+    return data.get("regions", {}), "headlines"
+
+
+def main():
+    regions, basis = load_regions()
 
     now = datetime.now(timezone.utc)
     total = 0
@@ -131,7 +144,8 @@ def main():
     for region, outlets in regions.items():
         for outlet in outlets:
             source = outlet.get("source", "")
-            hls = outlet.get("headlines", [])
+            # coverage.json carries "coverage"; headlines.json carries "headlines".
+            hls = outlet.get("coverage") or outlet.get("headlines") or []
             counts = {}
             n = 0
             for h in hls:
@@ -231,7 +245,7 @@ def main():
     }
     OUT_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=2),
                         encoding="utf-8")
-    print(f"Wrote trends.json — {total} headlines, {len(topics_out)} topics, "
+    print(f"Wrote trends.json — {total} items ({basis}), {len(topics_out)} topics, "
           f"{len(outlet_rows)} outlets, trend={'yes' if ref else 'building'}")
 
 
