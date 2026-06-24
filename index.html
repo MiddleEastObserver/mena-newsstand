@@ -681,7 +681,7 @@ async function loadTrends(){
   // 1) Topic volume, with rising/falling vs ~24h ago
   let html = `<div class="tr-section">
     <div class="tr-h">Topic Volume — Today</div>
-    <div class="tr-sub">Share of all ${d.total_headlines} current headlines whose main subject is each topic${d.has_trend ? ", with the change in coverage vs ~24h ago" : ""}.</div>`;
+    <div class="tr-sub">Share of the ${d.total_headlines} stories MENA outlets are currently running whose main subject is each topic${d.has_trend ? ", with the change in coverage vs ~24h ago" : ""}.</div>`;
   if(!d.has_trend) html += `<div class="tr-note">Rising/falling figures appear once ~24h of history has accumulated.</div>`;
   for(const t of topics){
     const w = (t.share / maxShare * 100).toFixed(1);
@@ -702,7 +702,7 @@ async function loadTrends(){
   // 2) What each outlet is covering — 100% stacked topic mix
   html += `<div class="tr-section">
     <div class="tr-h">What Each Outlet Is Covering</div>
-    <div class="tr-sub">Every outlet's headlines split by topic — its editorial mix at a glance. Hover a segment for the topic and share.</div>`;
+    <div class="tr-sub">Every outlet's recent coverage split by topic — its editorial mix at a glance. Hover a segment for the topic and share.</div>`;
   const legend = topics.filter(t=>t.id !== "other");
   html += `<div class="tr-legend">` +
     legend.map(t=>`<span class="tr-leg"><span class="tr-leg-dot" style="background:${esc(t.color)}"></span>${esc(t.label)}</span>`).join("") +
@@ -714,7 +714,7 @@ async function loadTrends(){
     html += `<div class="tr-outlet">
       <div class="tr-outlet-head">
         <span class="tr-outlet-name">${esc(o.source)}</span>
-        <span class="tr-outlet-meta">${esc(o.country)} · ${o.total} headlines · most: ${top}</span>
+        <span class="tr-outlet-meta">${esc(o.country)} · ${o.total} stories · most: ${top}</span>
       </div>
       <div class="tr-stack">${segs}</div>
     </div>`;

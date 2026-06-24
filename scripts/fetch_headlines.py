@@ -167,18 +167,17 @@ SOURCES = {
             # Replaced Fars News (en): its feed — and even the Google News
             # fallback — only ever returned Fars's Farsi homepage cards from a
             # datacenter IP, never article-level headlines. Tehran Times is an
-            # English daily that is reachable and well-indexed, so it yields real
-            # articles beside Mehr.
+            # English daily, so it yields real articles beside Mehr.
+            #
+            # NOTE: we deliberately do NOT set "gn_exclude" here. The previous
+            # sports-term exclusions were applied by Google News against the
+            # ARTICLE BODY, not the headline, so any political story that merely
+            # mentioned a sport in passing was thrown away — which starved this
+            # outlet down to a single e-paper card. Sports are now dropped at the
+            # TITLE level (is_offtopic), which is precise and never removes news.
             "source": "Tehran Times", "country": "Iran", "lang": "en",
             "url": "https://www.tehrantimes.com",
             "rss": "https://www.tehrantimes.com/rss",
-            # Its full-site Google News feed mixes in sports results. Exclude
-            # sports at the query (these terms never appear in political
-            # articles, so news/politics still comes through). Culture/arts are
-            # handled by the title filter, which won't starve the feed.
-            "gn_exclude": ["volleyball", "football", "soccer", "wrestling",
-                           "basketball", "taekwondo", "handball", "futsal",
-                           "weightlifting"],
         },
         {
             "source": "Mehr News", "country": "Iran", "lang": "en",
@@ -189,9 +188,21 @@ SOURCES = {
 }
 
 HEADLINES_PER_OUTLET = 5
+# A much broader per-outlet sample of the outlet's actual recent coverage,
+# written to coverage.json for the Trends view. The Headlines tab still shows
+# only HEADLINES_PER_OUTLET per outlet; Trends, however, should reflect WHAT
+# EACH OUTLET IS ACTUALLY COVERING, not just the handful of cards on the wall —
+# so it is computed from up to this many fresh, on-topic items per outlet.
+COVERAGE_PER_OUTLET = 40
 REQUEST_TIMEOUT = 20
 ARTICLE_TIMEOUT = 10      # per-article fetch when enriching a missing description
 MAX_AGE_DAYS = 4          # drop entries older than this (kills evergreen junk)
+# Google News search window for the fallback. Kept >= MAX_AGE_DAYS so the search
+# is never the bottleneck: a thinly-indexed outlet (e.g. Tehran Times) returns
+# almost nothing for "when:1d", which starved its card down to a single item.
+# fresh_items() still enforces MAX_AGE_DAYS, so widening the query only adds
+# candidates for sparse outlets and is neutral for busy ones (newest-first, capped).
+GNEWS_WINDOW_DAYS = 7
 
 # Titles that are navigation/section/tag pages, not articles. Matched
 # case-folded against the article's core title (outlet suffix stripped).
@@ -206,6 +217,8 @@ JUNK_TITLES = {
     # Arabic section/navigation labels that arrive as if they were articles.
     "صحة وطب", "صحة", "رياضة", "فن", "فنون", "منوعات", "تكنولوجيا", "سيارات",
     "ثقافة", "مقالات", "الرئيسية", "فيديو", "صور",
+    "اقتصاد", "اقتصادية", "أخبار", "سياسة", "دولي", "دوليات", "العالم",
+    "محليات", "آراء", "رأي", "الأخبار", "عاجل",
 }
 
 # ---------------------------------------------------------------------------
@@ -237,6 +250,14 @@ OFFTOPIC_TERMS = [
     "neymar", "benzema", "haaland", "transfer window", "penalty shootout",
     "hat-trick", "hat trick", "top scorer", "clean sheet", "man of the match",
     "quarter-final", "semi-final", "quarterfinal", "semifinal",
+    # Unambiguous sport names (no geopolitical sense). These previously lived in
+    # Tehran Times' Google-News body exclusion; moved here so they're dropped at
+    # the headline level for every outlet without starving any feed.
+    "volleyball", "basketball", "handball", "futsal", "taekwondo", "weightlifting",
+    "wrestling", "gymnastics", "marathon", "asian games", "judo", "karate",
+    "athletics meet", "friendly match",
+    # — arts / culture venues & ensembles —
+    "orchestra", "symphony", "concerto",
     # — entertainment / celebrity —
     "hollywood", "bollywood", "box office", "box-office", "oscars",
     "academy award", "grammy", "golden globe", "film festival", "red carpet",
@@ -277,6 +298,17 @@ AD_DOMAINS = {
     "prf.hn", "anrdoezrs.net", "dpbolvw.net", "jdoqocy.com", "smartadserver.com",
 }
 
+# E-paper / PDF / print-edition cards (e.g. "Gulf Times ePaper-June 24, 2026",
+# "tehrantimes pdf") — the daily paper download, never an article.
+EPAPER_RE = re.compile(
+    r"(?i)\b(e-?paper|e-?edition|epaper|print\s+edition|paper\s+edition|"
+    r"today'?s\s+paper|digital\s+edition)\b")
+# Google News tag / search / archive landing pages surfaced as if articles:
+#   "Tag Results for "IWRE" (1 articles)",  "… (12 articles)"
+TAG_PAGE_RE = re.compile(
+    r"(?i)^(tag|search|topic|category)\s+results?\b"
+    r"|\(\s*\d+\s+articles?\s*\)\s*$")
+
 # Arabic-language sports / lifestyle that the English term list can't catch.
 # Matched as substrings (Arabic prefixes attach to words), so ONLY unambiguous
 # multi-letter terms are listed — deliberately avoiding ones that hide inside
@@ -284,10 +316,30 @@ AD_DOMAINS = {
 # "الدوري" ⊂ "الدورية" (patrol), "منتخب" also means "elected", "أبراج"=towers.
 OFFTOPIC_AR = [
     "كأس العالم", "المونديال", "كرة القدم", "كرة قدم", "دوري أبطال",
-    "ميسي", "رونالدو", "نيمار",                                     # sports
+    "ميسي", "رونالدو", "نيمار", "مبابي",                            # sports — players
+    # Club names: each is unique and never appears inside a geopolitical word,
+    # so they're safe as substrings (Arabic prefixes attach to the front).
+    "برشلونة", "ريال مدريد", "ليفربول", "تشيلسي", "مانشستر",
+    "يوفنتوس", "يويفا", "الميركاتو", "هاتريك",                       # sports — clubs/terms
     "وصفات", "العناية بالبشرة", "مكياج", "تسريحة",                   # lifestyle
 ]
 OFFTOPIC_AR_RE = re.compile("|".join(re.escape(t) for t in OFFTOPIC_AR))
+
+# Football / match-report scorelines, e.g. "… holding England to 0-0 draw",
+# "won 3-1", "goalless draw". A digit-digit pairing next to a result word never
+# occurs in geopolitics, so this is high-precision.
+SPORT_SCORE_RE = re.compile(
+    r"(?i)\b\d{1,2}\s*[-–—]\s*\d{1,2}\s+(draw|win|won|loss|defeat|victory|aggregate)\b"
+    r"|\bgoalless\s+draw\b|\bnil[-\s]nil\b|\bfull[-\s]time\b")
+
+# Weather-record FILLER (heat/cold records). Deliberately tight: it matches the
+# "record/grips/sweeps" phrasing of a weather story, NOT a geopolitical line that
+# merely contains "heatwave" (e.g. "Heatwave strains Iraq's power grid" is kept).
+WEATHER_FILLER_RE = re.compile(
+    r"(?i)\brecord(?:s|ed)?\s+(?:the\s+)?(?:hottest|coldest|warmest)\b"
+    r"|\b(?:hottest|coldest|warmest)\s+\w+\s+(?:ever|on\s+record)\b"
+    r"|\bheat\s?wave\s+(?:grips|sweeps|hits|engulfs|bakes|scorches|blankets)\b"
+    r"|\bcold\s+snap\b")
 
 # Order regions appear in the Headlines tab (the site renders them in the order
 # they're written to headlines.json).
@@ -400,7 +452,7 @@ def gnews_url(meta: dict) -> str:
     full-site feed would otherwise surface — applied as Google News '-term'
     exclusions, which match the article body, not just the headline."""
     hl, gl, ceid = GNEWS_LOCALE.get(meta["lang"], GNEWS_LOCALE["en"])
-    q = f"site:{domain_of(meta['url'])} when:1d"
+    q = f"site:{domain_of(meta['url'])} when:{GNEWS_WINDOW_DAYS}d"
     for term in meta.get("gn_exclude", []):
         q += f" -{term}"
     query = quote_plus(q)
@@ -455,6 +507,47 @@ def _is_allcaps_topic(core: str) -> bool:
     )
 
 
+# Category words that make up Google News' section "landing page" labels. When
+# an outlet's own feed is down, the site:-scoped Google News search sometimes
+# returns these navigation pages (e.g. "Latest Business News", "Transportation
+# and Aviation News") instead of articles. We treat a Title-Cased string made up
+# ENTIRELY of these words (+ connectors) as junk — a real headline always carries
+# ordinary lower-case words, so it can never match.
+SECTION_WORDS = {
+    "news", "headlines", "updates", "update", "coverage", "live", "latest",
+    "breaking", "top", "more", "trending", "featured", "features", "feature",
+    "business", "economy", "economic", "finance", "financial", "markets",
+    "market", "money", "trade", "science", "technology", "tech", "innovation",
+    "digital", "transportation", "transport", "aviation", "travel", "tourism",
+    "sports", "sport", "football", "world", "politics", "political", "policy",
+    "opinion", "opinions", "editorial", "lifestyle", "entertainment", "showbiz",
+    "culture", "arts", "art", "health", "education", "environment", "climate",
+    "energy", "oil", "gas", "defense", "defence", "security", "military",
+    "national", "international", "regional", "local", "analysis", "videos",
+    "video", "photos", "photo", "gallery", "weather", "automotive", "auto",
+    "cars", "motoring", "realestate", "property", "sections", "section",
+}
+SECTION_CONNECTORS = {"and", "&", "of", "the", "in", "for", "your", "all", "a", "on"}
+
+
+def _is_section_label(core: str) -> bool:
+    """A Title-Cased category/landing-page label (e.g. 'Latest Business News',
+    'Transportation and Aviation News'): every significant word is a section
+    name and is capitalised, so it is a navigation page, never an article."""
+    if not any(c.isascii() and c.isalpha() for c in core):
+        return False                       # non-Latin scripts handled elsewhere
+    words = re.findall(r"[A-Za-z&]+", core)
+    if not (2 <= len(words) <= 6):
+        return False
+    sig = [w for w in words if w.lower() not in SECTION_CONNECTORS]
+    if len(sig) < 2:                       # need >=2 real category words
+        return False
+    # Title-Cased AND every significant word is a known section term.
+    if not all(w[:1].isupper() for w in sig):
+        return False
+    return all(w.lower() in SECTION_WORDS for w in sig)
+
+
 def is_junk_title(title: str, source: str) -> bool:
     core = core_title(title)
     c = core.casefold()
@@ -494,6 +587,20 @@ def is_junk_title(title: str, source: str) -> bool:
         return True
     if _is_allcaps_topic(core):
         return True
+    # E-paper / PDF / print-edition download cards (the daily paper, not news).
+    if EPAPER_RE.search(core):
+        return True
+    # A bare "<outlet> pdf" / "Daily PDF" card — only when the title is just a
+    # word or two, so a real headline that mentions a PDF is never dropped.
+    if re.search(r"\bpdf\b", c) and len(core.split()) <= 3:
+        return True
+    # Tag / search / archive landing pages ("Tag Results for …", "… (3 articles)").
+    if TAG_PAGE_RE.search(core):
+        return True
+    # Title-Cased section labels ("Latest Business News", "Transportation and
+    # Aviation News") that Google News returns when an outlet's feed is down.
+    if _is_section_label(core):
+        return True
     return False
 
 
@@ -521,6 +628,11 @@ def is_offtopic(title: str, url: str = "") -> bool:
             return True
         # Arabic-language sports / lifestyle the English term list misses.
         if OFFTOPIC_AR_RE.search(title):
+            return True
+        # Football/match scorelines and weather-record filler.
+        if SPORT_SCORE_RE.search(title):
+            return True
+        if WEATHER_FILLER_RE.search(title):
             return True
         # Advice / service Q&A columns: "Ask Gulf News: …", "Ask Khaleej Times: …"
         if re.match(r"(?i)^ask\s+[\w.'’ -]{2,24}:", title.strip()):
@@ -735,11 +847,19 @@ def strip_internal(items):
             for it in items[:HEADLINES_PER_OUTLET]]
 
 
+def coverage_items(items):
+    """A lightweight, broader slice of the outlet's fresh coverage for trends —
+    titles only (no descriptions/snippets, no article fetches). Already filtered
+    for freshness, junk and off-topic by fresh_items()."""
+    return [{"title": it["title"], "url": it["url"], "published": it["published"]}
+            for it in items[:COVERAGE_PER_OUTLET]]
+
+
 def fetch_outlet(session: requests.Session, meta: dict) -> dict:
     result = {
         "source": meta["source"], "country": meta["country"],
         "lang": meta["lang"], "url": meta["url"],
-        "headlines": [], "error": None,
+        "headlines": [], "coverage": [], "error": None,
     }
     source = meta["source"]
     domain = domain_of(meta["url"])
@@ -768,12 +888,16 @@ def fetch_outlet(session: requests.Session, meta: dict) -> dict:
 
     if items:
         result["headlines"] = strip_internal(items)
+        # Broader coverage sample for the Trends view (what the outlet is really
+        # covering), captured from the SAME already-filtered item list.
+        result["coverage"] = coverage_items(items)
         # Fill in missing descriptions from the article pages so every headline
         # can get a snippet, not just the ones whose feed shipped a description.
         filled = enrich_missing_descriptions(session, result["headlines"])
         newest = items[0]["published"][:10] or "undated"
         extra = f", +{filled} desc" if filled else ""
-        print(f"  + {source}: {len(result['headlines'])} headlines ({via}, newest {newest}{extra})")
+        print(f"  + {source}: {len(result['headlines'])} headlines "
+              f"({len(result['coverage'])} in coverage, {via}, newest {newest}{extra})")
     else:
         result["error"] = "no entries"
         print(f"  x {source}: no entries (native + google-news failed)", file=sys.stderr)
@@ -1041,7 +1165,43 @@ def main():
     snippet_meta = generate_snippets(output["regions"], existing)
     output.update(snippet_meta)
 
+    # Split the broad per-outlet coverage out into its own file BEFORE writing
+    # headlines.json, so the Headlines tab's download stays small (5/outlet) while
+    # Trends can read what each outlet is actually covering (up to 40/outlet).
+    cov_path = Path(__file__).parent.parent / "coverage.json"
+
+    def _outlet_coverage(o):
+        # Prefer this run's broad sample; if the feed was down and we carried its
+        # previous headlines forward, fall back to those so Trends still reflects
+        # what the outlet is showing rather than dropping it to zero.
+        cov = o.get("coverage") or []
+        if not cov:
+            cov = [{"title": h.get("title", ""), "url": h.get("url", ""),
+                    "published": h.get("published", "")}
+                   for h in o.get("headlines", [])]
+        return cov
+
+    coverage_out = {
+        "updated": output["updated"],
+        "regions": {
+            region: [
+                {"source": o["source"], "country": o.get("country", ""),
+                 "lang": o.get("lang", ""), "url": o.get("url", ""),
+                 "coverage": _outlet_coverage(o)}
+                for o in outs
+            ]
+            for region, outs in output["regions"].items()
+        },
+    }
+    cov_total = sum(len(o["coverage"]) for outs in coverage_out["regions"].values()
+                    for o in outs)
+    # Remove the bulky coverage list from the headlines payload.
+    for outs in output["regions"].values():
+        for o in outs:
+            o.pop("coverage", None)
+
     out_path.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
+    cov_path.write_text(json.dumps(coverage_out, ensure_ascii=False, indent=2), encoding="utf-8")
     total = sum(len(o["headlines"]) for outs in output["regions"].values() for o in outs)
     ok = sum(1 for outs in output["regions"].values() for o in outs if o["headlines"])
     stale = sum(1 for outs in output["regions"].values() for o in outs if o.get("stale"))
@@ -1049,6 +1209,8 @@ def main():
     print(f"\nWrote {out_path} — {total} headlines, {ok} outlets live"
           f"{f' ({stale} carried-forward)' if stale else ''}"
           f"{f', {down} still down' if down else ''}")
+    print(f"Wrote {cov_path} — {cov_total} coverage items across {ok} outlets "
+          f"(for Trends)")
 
 
 if __name__ == "__main__":
