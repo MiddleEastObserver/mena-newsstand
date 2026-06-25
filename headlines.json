@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:54:45.304683+00:00",
+  "updated": "2026-06-25T22:23:41.620341+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,18 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Venezuela earthquakes live: At least 188 dead as rescue efforts intensify",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-at-least-188-dead-as-rescue-efforts-intensify?traffic_source=rss",
+            "published": "2026-06-25T22:00:02+00:00",
+            "snippet": "Venezuelans battle to rescue loved ones trapped alive beneath rubble of collapsed buildings after two major earthquakes."
+          },
+          {
+            "title": "Venezuela rescue teams race to find earthquake survivors",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-rescue-teams-race-to-find-earthquake-survivors?traffic_source=rss",
+            "published": "2026-06-25T21:42:33+00:00",
+            "snippet": "Rescue teams raced to find survivors and recover bodies after twin earthquakes rocked Venezuela on Wednesday."
+          },
           {
             "title": "Economic losses mount as Venezuela earthquake death toll grows",
             "url": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
@@ -25,18 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss",
             "published": "2026-06-25T20:50:40+00:00",
             "snippet": "La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated."
-          },
-          {
-            "title": "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/netanyahu-we-will-remain-in-lebanon-syria-and-gaza-as-long-as?traffic_source=rss",
-            "published": "2026-06-25T20:34:02+00:00",
-            "snippet": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza."
-          },
-          {
-            "title": "Ashura ceremonies intertwine faith and support for state in Iran",
-            "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
-            "published": "2026-06-25T20:12:33+00:00",
-            "snippet": "State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "US Supreme Court allows Trump to end protections for Haitian and Syrian migrants",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-supreme-court-allows-trump-end-protections-haitian-and-syrian",
+            "published": "2026-06-25T22:00:33+00:00",
+            "snippet": "US Supreme Court allows Trump to end protections for Haitian and Syrian migrants The US Supreme Court has allowed the Trump administration to end legal protections for migrants fleeing violence and natural disasters in Haiti and Syria, exposing hundreds of thousands of people to possible deportation"
+          },
           {
             "title": "IMO suspends Hormuz evacuation plan after vessel hit near Oman",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-suspends-hormuz-evacuation-plan-after-vessel-hit-near-oman",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ships-using-unauthorised-hormuz-routes-will-lose-safe-passage",
             "published": "2026-06-25T20:20:52+00:00",
             "snippet": "Iran says ships using unauthorised Hormuz routes will lose safe passage guarantees The Persian Gulf Strait Authority (PGSA) says vessels travelling through routes outside its designated framework will not be covered by safe passage guarantees."
-          },
-          {
-            "title": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-says-prices-have-eased-us-iran-agreement-gulf-trade-remains",
-            "published": "2026-06-25T19:49:36+00:00",
-            "snippet": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted The International Monetary Fund says energy and commodity prices have fallen since the United States and Iran agreed to halt hostilities and reopen the Strait of Hormuz, but warned that Gulf trade flows will take tim"
           }
         ],
         "error": null
@@ -171,28 +171,28 @@
             "snippet": "رحيمي للميادين: إيران لم ولن توافق على شراء مواد غذائية من واشنطن almayadeen.net"
           },
           {
+            "title": "إيران تتهم الناتو بالتواطؤ في الحرب وتطالب بمساءلة الدول المشاركة",
+            "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNbThOYjVYaWJNSUdtSUJXRG5aaVhrZmxOVURXc29iMUIxQlpFNzBrNXM2QW1jSXJOWWkxLVRDLTF0VVFaV2o1SzVIUldDQzF2ajkyVzBSQ3Bmcml0VmVSeENzQnM4Sk41X09YWTRSUUlMeGw4OXNXX0t3V3hTYW9IZGxLaGM4OTluc2pCTER6UmthR3pxalpIMGVtRllYZi13WFRKSzNybktCRDZoTUxXaExRai1EeGplTUw5azc5LU02TDBTQnNWY3pRLTlYVjF1SGVIYU0zSWNfZVVKb05YUkoybUQwUHZqN1dCQjVlX0o5a0V3R2tlLWh1dnJnQzAtYnpBQzQ5OTF4Y0ZzdmdwOHQ4cjAwaVVzSmVOVVYyejVMRGdPc0IwOFVVclJxY1BueEN5NHl6NHJINDJxdW1qa2ZSM0hzWGFJZXh6aUhBX3pmaUxWbkVWT0hncDc2SXh6dHlrNnNRYU9uZ3B2MEN6ZjhBenZUSk02b3pma1NwMmlpa0ZEWGh2dHNiWE1GQS1JdmFfS0FvMzZZamt5QXA5SFZGLW1PM19lNjhCa05UWlNHak95VlBvSFZTQXd2OU5KQ1I3bGluVndqbEtMNndwYjBydzlrVlR3SUZfY25QZkdTT3dPVzJIQm5kTXR5VHVjMW9Z?oc=5",
+            "published": "2026-06-25T20:02:51+00:00",
+            "snippet": "إيران تتهم الناتو بالتواطؤ في الحرب وتطالب بمساءلة الدول المشاركة almayadeen.net"
+          },
+          {
+            "title": "حرب ترامب على إيران تعمّق أزمات الطاقة والغذاء والتجارة في العالم",
+            "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOLWhxNFRxRm9STVp3SVVpTzJsV2RhNEZjQnpwMWZRRUpzR2s3SDJMZTBBNXpaZ09ndHpSOVp3Z2dJTEx3cXhUMmNmSFllX1JUY3djdlpxOE9jZEN1WjlJY2ZSdFFfRGhpS1hjVU15Wi0xZzJsUTFSaXF1b0ZTVGptTXJ2cjZSd09LTVRKR0k4NjlhblRxenM1c2dHR2ZsV1BWVHZQV0o5NjB3TWpvcjd3VF82YXEzb3FiTlREbXNGN0kwVlhpVDdSUFNfb0hiVlBmUkpJb1ZmMTczVHBJUl9UYjM4VEJPY09KTFB3SFRzMjUxTnRmZkhLYWNJLU9wLUdMSVN4NVlzQTFqQ0ZsTEc1ZHJUbEhPSFQtTmhJY0JpYkZWeE9ubmVHbmdERjMzVlhHZ0xiOTVoVW10ZWdiNzBlZV82emxtMjJtZ0E4ZTB2NnlrUVpUcVE5UEtkUGZ2UjVpTHJXdmFUdjNPN3NQRV8yajRMREZ4SkxiY25iNnFmWGpyeERPLUh6RDBBcV9yNXhiczFndWdrNDk1ZFFnMlNfQ0pxU3VzWXF5ZW9CSVl1eEIzVXMtYWNTdGJYSjV1Z2o4Z3l5NTNNdXRqdWRPSEJLSkZENHZUclpzRS1uUDVwOUF1eGxGVzhhQTZCMWw?oc=5",
+            "published": "2026-06-25T19:59:42+00:00",
+            "snippet": "حرب ترامب على إيران تعمّق أزمات الطاقة والغذاء والتجارة في العالم almayadeen.net"
+          },
+          {
+            "title": "إيران ترسخ معادلة مضيق هرمز وتؤكد سيادتها على أمن الملاحة",
+            "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPZ0tjWTRRZWJBOXJ6RTZYZ1kyekxmanRCUS1EQ3RpbVloMHFWX0lxNXk4RUh5TE1GSUtFT0R3ZkNkbEw2RDB3STFQRWVTWWg1a0dVWER1V2JfLWVpaHIzYV9GS2VNeFdUUXc3cW9VZWNCb0s4X0h2dWV0U1dYS2l3NXBzeTFfMEVhdG9ZYnFFM3lKRmJLc2lRUXQtYUJROWRyWkdlckR0YlFsVWxFVDVrekpkLXN4SXo5aVJlTjRob0FmMmljUXdSUFIzeHdsWVRVM3JNQWpzNzJvN0RKaDBZQl9wZU5GUGE2SVRJTVRIZDNhS2locjZaeFRPN0NDbnNtbDZicERBVkhIdHNpMHc0X3NFNEpwWElMdS11WUxwU0pmOEhRdWE1SFVCbjJWRG1rYjV3eHJtOXBlLVlzdUJ2aWozRV9sSXQxeEtSR2lWQXVDaHo0eEpBMlpLR1k2NFgtN1g0eUVCRmQzWUZoVkRYem93ai1tZ3Z0V0htendNR295bXFXbjJBMlJZbmZQQklBeGRWc2lpaGNETXlra2tBaFRhOGUtNGJra0NNengtd2xxaV9xc2k5QlhpNURDQnRjWGlnS0ZDVURpZ3g3eTZLVEFBX05qS0JBclRz?oc=5",
+            "published": "2026-06-25T19:54:59+00:00",
+            "snippet": "إيران ترسخ معادلة مضيق هرمز وتؤكد سيادتها على أمن الملاحة almayadeen.net"
+          },
+          {
             "title": "كيف أعادت حرب رمضان رسم موقع إيران وشروطها في المنطقة؟",
             "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxOTnRSdktjY01sZFFUUjhYQ2NDYjIzN0FxSnItczJ1eGptZm1IZGplQ3M2VGNxdTVtYjNwN0hRdEVseWpFaGJPZ1RXU1Y3bjBDaXFkYWU1cU9OaEkzN0Yxb3pvM0FnbVR3bEw0b1dUMF9uMWZWYko4NVhJUE9DclBCczk2TkJpR28yNW1HS0FfaGdzLXJIdnB3V094WTZDeTE0bGEtcHNfbkNhOVJ4ajg5a1NFSHNtbzRYdEFDZGVKeFpqMUxKX1AwaFZrTVNPZTQ2YWFjYmNSVDFuMEk4OTVSVjJFQW9WbEtFUThBc1R2cWd0V0JDaEV5dXlxM3h6cHp4Ry1EWldNbmxsUDZGVUpGenJsbFRZeEpMZ2VubmVSTTZ0VDZxRTByMjlaajhYNUNLZFFxSjF3STliWTBnb1k5RDNFNVpkM2tQalYzdmNYY1NUR3B3YW9LUS1iU21TdUswOXFZbmlhVkh0TzR2VXpTTFlTRGhxSVJsX0ZmT2V0MlZMaWs3clZhcFkyRlVFMk5EMVFQTkZiZVd2QUdUdEQ3TmJvRXZpTHNvclRIREYtTFg4R1BNN3ZtdFl0dmdrQTJybUFRLUpOdnBtN216elFKZ0xpNTB5RGE2dk5MYUtzeXR6b21ELUJETEJpdWQ1MHBWakgybmQ3OXB3aFJNUWd6WU4xY3dNbHZuWU1fUm9La2xNaUFO?oc=5",
             "published": "2026-06-25T19:00:00+00:00",
             "snippet": "كيف أعادت حرب رمضان رسم موقع إيران وشروطها في المنطقة؟ almayadeen.net"
-          },
-          {
-            "title": "البوسنة تتصدر المجموعة الثالثة.. وداوود أوغلو يشعل مواجهة تركيا وأمريكا برسائل داعمة لفلسطين",
-            "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxPcHdhc04zLWZxZ3FrQVlvTmIzWXBrNUl5anZfanZPVGlwcmlHcjExZ01uOUxTd0pxWkVLdGktYkpYdDNqSHpWbGJlUHJSWUNIRE1kd2h1R2ZLVUZVaEN6Zk1MbmZOMWU0aTlIUkktRGl5Wnk4NWdJRVo0TnRXeF9YaHNsdzZiV3lHM2VFR1doLTYwdThnME9oVW1nMG5VUmVWbVo2NkZEZ0w4TV8weDAwSWt4RmZZb2NaWnpRZW10V21wYUQ0OV9FMnpzbThtZjhOc1JMT1R2WlFrUVpMTFZoYlhKcWxKRUQ3VnJCNDdUZ1NueXZyX3ZTS2FrT1JmenpEdkdjdGlJTVc5SmhWSWE3M3QyXzhnaDVuajRtWWhfNmdvODlkNWxvdjQ2OGRKcXFiY1NxUWdTajZkbTlrbUlqZTVqSlQ2dkFRZHRnTHo0bWhfOGFWOGgycTQwdE53TW1pczhfLUx4ZG04Z05pc2VpcXp4T095elpHM0JTY2lIQUZPNHJuOGl3eGFWTURoZ2F2ek5Id0hEeWZ3S2o5dVV4MHVPZXNkYzU1TGQtUHN6VjBZbnNuQmlwSUx5Q1lrUDVNS0c1cWJzWkdXZkxSdFVaSU1MemViSkVGczhlMVB4TlFnUnhpdDhaNUo1WTNJZWl2ZXdXMUZBbWtxY2RER1VxblZmak5EaWJoazRaQkUxS2lCaFNiMzVpenB0S0ctdUZ3OHQ5WlhuLTRNM3NlUmM5ZEtKOFF1WmhQUVl4TE0yVHR5MWljSUI1YmRWMnRFM084LTFBc1dfMlVMMXlzTVY5N2dKaEpXSWw0SndHdmJpRVgzbC1N?oc=5",
-            "published": "2026-06-25T17:43:02+00:00",
-            "snippet": "البوسنة تتصدر المجموعة الثالثة.. وداوود أوغلو يشعل مواجهة تركيا وأمريكا برسائل داعمة لفلسطين almayadeen.net"
-          },
-          {
-            "title": "السيد الحوثي: سنبادر في أي وقت لاستهداف أي تمركز للعدو الإسرائيلي في \"أرض الصومال\"",
-            "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPWjVJNTRkWEhTR0hqRXcyblBlT1dyaUdSaHNhaUN5Sm1ldTF0QXhRbU9wRllITXpCYXN0UjNXVGFvdndpckhfZVdtS0c2UEk1RGxfZmR3X3VhRG1KSWtMNC0wVjI2WkpoMm1mVUNQbERIbm11UmJ4THdTdzdOd1ZmT0t5UklOZnlTck9pc0V0SDVPcm5oazBodmdsckJLRU5GUXY4cmV6NFpiTWo0VEViS0NxQm9nb1lpMVJwNE82ZjQ1RkQza09zVWNtaEt6eGFiTm5GejAxNlJxVTd2dkh2RGs4bkFGMl9QbjZfWTU2U1d6bnhJOER1c0tGSkVneHRQVkZLUGh0V0RnNUhEaE1IRmx5Y3RaNXk5ZzNmUHRGTklDTUVKR2NwbzlrM0dUQ0N6WnhwZEFMNGlqVmhjWFN1UUVpVmQ3a3J5enNwRnF4a2EyaXdka1FjT211UzFCU3E2ekJKZWhHMmFLRkRQM0pPQjJLREd3SVNUOXBTTEM4LUJiaFRmRWw2T2J2TWZKUjRjYTFOUVBlcDVkREZDS1YxbVRmS3lMSXhVZF94TGRya2xlTjFTU25wc1VZMjNSRnkyZWk5NHpETElmX0NMRm1FVDY0bl9BRWpuN3YzWVppczh1YVRPd1RJSTJR0gHuA0FVX3lxTE1tWmEtNjJUZXdkMmFnb1VRNmlXTlg2Wlg3SEFxeGJsN2lTRERzVlRaY0NzMllUa0o5cEN0aktwWDZNT3JEVVk0aVpjUmRPUVVMZmtyQUVkRlN6VDVQdzVlNmlKYlpmYnNNZmhnZFpyNE9TSlotQXVNMHhtOVRKZlNvR1FCc3J6WExfWWxWR3FmSmctVHczdDhlLU5VaVVjd25RaTF0Q0FJckVvZGY3QWptWjJubEdVRS1FSi1VNThkZ1A5SjBJRzRNeWlrZjl5a2I2eEtWZ3lmUUtBSGZSYndJeU5jQkdyM2lZeDhfT0V1WE52YlhDUWZ2ZmR2N0dtUXlwT2lLTGlLano5ZWZTTWRFWDE2Q3V6NHZtak1YRTdDQnBPbnY1T0VKMGFKR3dZMy0zaFdHRWVhSFJveDZ1WlJya3JSOG1tMTVPVDRhTUpScmZtMzdpZGRqcVN2c3dDd0JGajRaaVBybEtXRFFwNzlBcHZVWTJ3dTVja3RGU0NlY2RSamNtRU1wd3BIY2JLNGJjbEpxSlZMdjhuUGxOWmJ2dzhISEx5VV9oUExyeWhMTzBsUl93dU56cExBcTg0dzJhWXNEY2VHdGluVUFxTHN2RThaZTRvUEh3WEVKTEtsYzliNTFPeHV5MTBJcGF3?oc=5",
-            "published": "2026-06-25T14:59:15+00:00",
-            "snippet": "السيد الحوثي: سنبادر في أي وقت لاستهداف أي تمركز للعدو الإسرائيلي في \"أرض الصومال\" almayadeen.net"
-          },
-          {
-            "title": "روبيو من المنامة: دول الخليج ترفض فرض أي رسوم في مضيق هرمز",
-            "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNUlp2ckNtSnY1bXN0SDRHVVhhaFUtZk9saWZGNDJVamFsVzVtNFRrWERrcUdWa1ctWTV0c3VUbW4tUHVxeVBtaGd3UnQtNWJEVE5DVDdtZDY0eGZMcEpfY0I5ajZUNjdHbHl5ZFlXN1piYl9zTWh0dkhYSklkZUU0YTE4OERiREstYW1CeHdWOWVpR0txQUZOb1kyeUFoMlFRMTlRTlI4OGhVNDVuc2F0eXl0WjExaGFad2s1MVg3SURVR0ttTGduUlU2b3E3RGEwTVVIbHRvQjI3dXgtY2RxTWlCcVZQZnhvLUFPeWJDaGxJcWhwOWlTMTNZdk85VXd4anVEWEpnRDZXNXdWZGlCaHBqVHJJYl8tLTBmSVBJOU1jRzl0cU5pNGRrMXhQRTY4QmgwTV9oRC05ZVVTRDRvY1dhb0dwbjdtamlOdlNSRVByRC1pX0lVVUJEMnd6WHRncWlQM3M5Ul9ZZjhkdExlZU5QTDY0MXZKVjBJQm9OOGh0Unp2LUwtR3ZTQllpSk84WmQyNWJLRjRKaXk4akQ3MGVXQW5UdUJkX2xSMnFLeXVDZ09XY01pRVdrOU1aYnhyTjJBRk1uUC0wR1VPejBaUGsyb9IB1wNBVV95cUxQUmQ1WERhcGsyazI1aWI5X0hzbEJyQXg2dHJKRDgtd1dhckpUbmNtNlRkWGpUeExxMWstZ1F3elJ6QmJqaF9naEV5bWhUWEN2R1FKUGJMcERGaFdTRExSdGFPMFl3RGFsZVd1TTJ6Q001WmQ4T1BWMnRTS0U5YUZJYWkxNU9GeTQ2YjhYc0hkemJvcnFGc2N1Ym9wOEdJa0NnN0pfY2E2bExKX0l6Uk9xSEpibmcwd3FKc01pbG94cEtXWUFMdUFUY1lua1BMVFhuem5HV3pKSjFueFhjUnpnU1lkcVltbFhZdDBSaFc3Y3JqRVcwc1Y1SEVGN0tvdTQtMWl4SXVpaXM2R3BWZUdlWnJSQ3dTNlgtWWpfZkZJVGxYRDJuNEM3VndneEktbUpraWVHWFFhR2E3VUpHMFJzdG8tamZWNTVGUUY1enh0NmduTUpYM1FUNXl5eHUyamRaNXpPaHp4ZllQMk1DT2dpZjBnS0NpdkxVRDIySW5qTFl2eWE3ZnFGY01xa29HTHZpWlQyZFJnQmhOb3M4SEdKWlJCcDZXRWRkUUNmWVlFNHZwV1JLMlNnUkpYVUNmNllUTWZnMFVyY2gzR2hMQTlVQkE4M1lFZHM?oc=5",
-            "published": "2026-06-25T14:04:38+00:00",
-            "snippet": "روبيو من المنامة: دول الخليج ترفض فرض أي رسوم في مضيق هرمز almayadeen.net"
           }
         ],
         "error": null
@@ -362,34 +362,34 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "دبابات الاحتلال الصهيوني تطلق نيرانها بشكل مكثف شرقي جباليا شمالي قطاع غزة",
-            "url": "https://www.almanar.com.lb/article/977607/",
-            "published": "2026-06-25T21:40:39+00:00",
+            "title": "فنزويلا | فرق الإنقاذ تواصل أعمال البحث عن ضحايا الزلزالين المدمرين اللذين أوديا بحياة 182 شخصا على الأقل",
+            "url": "https://www.almanar.com.lb/article/977662/",
+            "published": "2026-06-25T22:15:31+00:00",
+            "snippet": "يواصل عمال الإنقاذ، عمليت البحث عن ضحايا تحت أنقاض المباني المنهارة في العاصمة الفنزويلية كراكاس، بعد الزلزالين المدمرين اللذين بلغت قوتهما 7.2 و7.5 درجة على مقياس ريختر، وأوديا بحياة 188 شخصًا على الأقل، وفقًا لأحدث حصيلة رسمية."
+          },
+          {
+            "title": "السلطات الفنزويلية تعلن ارتفاع حصيلة ضحايا الزلزال المزدوج الذي ضرب البلاد الأربعاء إلى 188 قتيلًا وأكثر من 1500 جريح و لا يزال أكثر من 200 شخص محاصرين تحت الأنقاض",
+            "url": "https://www.almanar.com.lb/article/977647/",
+            "published": "2026-06-25T22:02:03+00:00",
             "snippet": ""
           },
           {
-            "title": "المتحدثة باسم الخارجية الروسية ماريا زاخاروفا: موسكو تواصل تحذير واشنطن بشأن خطورة نقل الأسلحة إلى كييف",
-            "url": "https://www.almanar.com.lb/article/977597/",
-            "published": "2026-06-25T21:38:42+00:00",
+            "title": "قوات الاحتلال الصهيوني تداهم المنازل خلال اقتحام بلدة بديا غرب سلفيت",
+            "url": "https://www.almanar.com.lb/article/977637/",
+            "published": "2026-06-25T22:00:51+00:00",
             "snippet": ""
           },
           {
-            "title": "أمين عام الناتو يأسف لشراء بعض دول الحلف أسلحة من خارج المنظومة",
-            "url": "https://www.almanar.com.lb/article/977582/",
-            "published": "2026-06-25T21:37:58+00:00",
-            "snippet": "أعرب الأمين العام لحلف الناتو مارك روته، عن أسفه لقيام بعض الدول الأعضاء في الحلف بشراء أسلحة من دول خارج المنظومة."
-          },
-          {
-            "title": "وزير خارجية كيان العدو “جدعون ساعر”: على خلفية الأزمة المتصاعدة مع تركيا سأقدم للحكومة مقترح قرار رسمي للاعتراف بـ “الإبادة الجماعية للأرمن”",
-            "url": "https://www.almanar.com.lb/article/977572/",
-            "published": "2026-06-25T21:26:30+00:00",
+            "title": "وزارة الصحة اللبنانية: شهيدان وجريح في حصيلة مصححة للغارة “الإسرائيلية” على سيارة في بلدة ميفدون",
+            "url": "https://www.almanar.com.lb/article/977627/",
+            "published": "2026-06-25T21:58:23+00:00",
             "snippet": ""
           },
           {
-            "title": "تقرير مصور | اليمن يحيي عاشوراء ويجدد ثباته على نهج كربلاء",
-            "url": "https://www.almanar.com.lb/article/977557/",
-            "published": "2026-06-25T21:20:38+00:00",
-            "snippet": "اليمن يحيي ذكرى عاشوراء ويجدد الموقف مع محور المقاومة على نهج كربلاء."
+            "title": "بالفيديو | رغم الظروف الاقتصادية الخانقة ابناء البقاع يفتحون المضائف على الطريق المؤدي الى بعلبك مواساة للامام الحسين عليه السلام",
+            "url": "https://www.almanar.com.lb/article/977617/",
+            "published": "2026-06-25T21:56:05+00:00",
+            "snippet": "فتح ابناء البقاع المضائف على الطريق المؤدي الى بعلبك، رغم الظروف الاقتصادية الخانقة، مواساة للامام الحسين عليه السلام."
           }
         ],
         "error": null
@@ -661,10 +661,10 @@
             "snippet": "Oman supports diplomatic progress between the United States and Iran to ensure regional peace."
           },
           {
-            "title": "Two in five heart failure and CKD patients show elevated cardiovascular inflammation",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb21CZDlYUUx5LS10SnljUXh2aV92enRaZlBVS1hvWWZzeG9lZmZLVjFCdUdteTREcXRhSVpLZTlPRUNBZUhXdkhpbnJ2MUpzbUVpdkQwMlVVWGF1V1JUNHQyVWV5ZWtGME5CR3U4dzl6ajMtME5NWW9UUmQ5eW9EVlNMUnkxQkdjSk00RTc0cmNObTRBeGdURU1UUXRGck5HT3JUTFQ4ZzRHeGMyd0NfMk50X0JDUnNwUzUwVGR1TUs?oc=5",
-            "published": "2026-06-25T07:23:00+00:00",
-            "snippet": "Two in five heart failure and CKD patients show elevated cardiovascular inflammation Times of Oman"
+            "title": "At least 164 dead, 971 injured as quakes rock Venezuela",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDYwa3pteS1OQ1dhRFpTc1lhSERqV2Q4eExLN0VLQ0hMRWRDM204dVpkLWpTb1lVcFF2NWtWMVowU2Juc2RjcDNRWHRCejJYNW5vUTltREdqaWg2LXFRVVBRYXM2YzdWUGhrOTBkY0gzZDdhdFJzUG92WmdSQ0pIVTVRZDdMYUI5NndzY0c0eVRJQ2xsS2laeA?oc=5",
+            "published": "2026-06-25T11:35:00+00:00",
+            "snippet": "At least 164 dead, 971 injured as quakes rock Venezuela Times of Oman"
           }
         ],
         "error": null
@@ -677,6 +677,12 @@
         "lang": "en",
         "url": "https://www.jpost.com",
         "headlines": [
+          {
+            "title": "Venezuela earthquakes leave 188 dead, over 41,000 reportedly missing",
+            "url": "https://www.jpost.com/international/article-900587",
+            "published": "2026-06-26T00:54:47+00:00",
+            "snippet": "On-site footage Wednesday and Thursday showed survivors and emergency services searching for trapped people, and survivors being taken away on stretchers. In others, residents decried a lack of help."
+          },
           {
             "title": "Quds force commander demands Israel leave Lebanon as Iran's deputy FM threatens Italy, Romania",
             "url": "https://www.jpost.com/middle-east/iran-news/article-900560",
@@ -700,12 +706,6 @@
             "url": "https://www.jpost.com/international/article-900576",
             "published": "2026-06-25T21:58:22+00:00",
             "snippet": "The issue generating the greatest concern in Israel is the possibility that Turkey could eventually regain access to the F-35 stealth fighter program."
-          },
-          {
-            "title": "Gulf countries weigh next steps after Iran war amid Rubio visit to Bahrain, Kuwait, UAE",
-            "url": "https://www.jpost.com/middle-east/article-900574",
-            "published": "2026-06-25T21:48:21+00:00",
-            "snippet": "Rubio was in the UAE and then Kuwait. The visits to Kuwait, Bahrain, and the UAE are important, as these countries were attacked by Iran during the latest conflict."
           }
         ],
         "error": null
@@ -716,6 +716,12 @@
         "lang": "en",
         "url": "https://www.timesofisrael.com",
         "headlines": [
+          {
+            "title": "IDF chief says military needs ‘every male and female combat soldier’",
+            "url": "https://www.timesofisrael.com/idf-chief-says-military-needs-every-male-and-female-combat-soldier/",
+            "published": "2026-06-25T21:56:41+00:00",
+            "snippet": "Alternately booed and cheered at military ceremony, Netanyahu touts wartime achievements, insists troops will stay in southern Lebanon 'for as long as necessary' The post IDF chief says military needs ‘every male and female combat soldier’ appeared first on The Times of Israel ."
+          },
           {
             "title": "Teenage boy shot dead, second injured, in Jaffa shooting",
             "url": "https://www.timesofisrael.com/teenage-boy-shot-dead-second-injured-in-jaffa-shooting/",
@@ -739,12 +745,6 @@
             "url": "https://www.timesofisrael.com/herzogs-helicopter-makes-emergency-landing-after-hitting-birds/",
             "published": "2026-06-25T18:26:42+00:00",
             "snippet": "No injuries or damages reported in incident, as president switches to new military chopper to continue travels to north from Jerusalem The post Herzog’s helicopter makes emergency landing after hitting birds appeared first on The Times of Israel ."
-          },
-          {
-            "title": "Europe continues to bake under heat wave that has killed dozens, disrupted power",
-            "url": "https://www.timesofisrael.com/europe-continues-to-bake-under-heat-wave-that-has-killed-dozens-disrupted-power/",
-            "published": "2026-06-25T17:40:25+00:00",
-            "snippet": "Britain and Switzerland hit record temperatures, with at least 48 dead in France, 20 in Germany in drowning incidents, as schools are shuttered and nuclear plants taken offline The post Europe continues to bake under heat wave that has killed dozens, disrupted power appeared first on The Times of Is"
           }
         ],
         "error": null
@@ -780,10 +780,10 @@
             "snippet": "Chair of Britain's Largest Arts Center to Step Down Amid Antisemitism Scrutiny Haaretz"
           },
           {
-            "title": "Three killed in Israeli drone strike on vehicle in south Lebanon, reports say",
+            "title": "Three Killed in Israeli Drone Strike on Vehicle in South Lebanon, Local Reports Say",
             "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUDlwVGxzUXhIZzNleGZqUVI2d1RZaGFWZFpJWW00dUZKWmIzbkVQZnFSamlGQnp4UG1NY2JVckZsRG9yMnkxX0tFbUhuNkpHSW9CTE1Id2w2bTJPaGh4ellTZTB4TEpFMXA1eDE5V0psaUwxdEVKcEEwX2QtbUlEajZjM3JFNGhBcWM5NnV3bV93YmhhMW4tMGxHVVdHcEtmNkt1WWQwYWtSblFjb0FXa09LbTlfZmxPSTJZRnpNSERfRDhXNDdIZEZiWWszUzZ4N3FOOGJyWmFxU01remlueTIzSjQxSkFjUWJEWXctMG55QTZhVk9Za3FwT0lDeDJIU2FpSUE5OTNUSTFqZllIc2VCVXdZalRROFQ5azIxTnMteGM?oc=5",
             "published": "2026-06-25T14:24:00+00:00",
-            "snippet": "Three killed in Israeli drone strike on vehicle in south Lebanon, reports say Haaretz"
+            "snippet": "Three Killed in Israeli Drone Strike on Vehicle in South Lebanon, Local Reports Say Haaretz"
           }
         ],
         "error": null
