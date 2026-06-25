@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T04:23:14.219068+00:00",
-  "total_headlines": 106,
+  "updated": "2026-06-25T04:52:30.354719+00:00",
+  "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 15,
+      "count": 14,
       "headlines": [
         {
           "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
@@ -79,12 +79,6 @@
           "region": "Israel"
         },
         {
-          "title": "Trump claims he stopped ‘great leader’ Erdogan from bringing Turkey into war on Iran’s side",
-          "url": "https://www.timesofisrael.com/trump-claims-he-stopped-great-leader-erdogan-from-bringing-turkey-into-war-on-irans-side/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
           "title": "Iran rejects IAEA access to damaged nuclear sites",
           "url": "https://en.mehrnews.com/news/245580/Iran-rebuffs-IAEA-access-to-damaged-nuclear-sites",
           "source": "Mehr News",
@@ -100,7 +94,7 @@
     },
     {
       "term": "Israeli",
-      "count": 12,
+      "count": 13,
       "headlines": [
         {
           "title": "Israeli army says it struck two people in southern Lebanon",
@@ -169,6 +163,12 @@
           "region": "Israel"
         },
         {
+          "title": "Analysis • Mainstream Haredim are radicalizing, risking a rift with Israeli society",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOOU42M3FuVlhWUTRneDE5WTJlTGdEX1ZxdnZ2RmdXRUlZWmprdEFxQUF3VElwdExnX0RocVFnOXpJWEI2Z3FBelVyemg4MS1zOXFxS0JKcnUyelhDOFkzMHYtWUJMb3ZpZmY3TUpjTFZqZnhiMU9Bc0RGQUU0N1NOZzdVUExyc0E1Rk8xcHc0SjNWM0U4WG1JdXo3aXZ6VllDNFcxQVE2TnJrd3haYWdVY0pESERWM0ZHSUp1RlR0Y3diTm5KTHFMeU9ydEdlbWQ0eWZuV0RrYmVnWmdBTW4tRC04Y0tzLU5OVHRxcHY0Wk1iWlI5anVyM3JTc1E5S0VrYnl6a05ZOW5HQ2lMRFZ4aFBDVGR0TVl1MEtJ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
           "title": "Israeli drone attack kills two in south Lebanon",
           "url": "https://en.mehrnews.com/news/245581/Israeli-drone-attack-kills-two-in-south-Lebanon",
           "source": "Mehr News",
@@ -178,7 +178,7 @@
     },
     {
       "term": "war",
-      "count": 11,
+      "count": 10,
       "headlines": [
         {
           "title": "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
@@ -229,12 +229,6 @@
           "region": "Israel"
         },
         {
-          "title": "Trump claims he stopped ‘great leader’ Erdogan from bringing Turkey into war on Iran’s side",
-          "url": "https://www.timesofisrael.com/trump-claims-he-stopped-great-leader-erdogan-from-bringing-turkey-into-war-on-irans-side/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
           "title": "Ghalibaf: Islamic countries should learn from the experience of recent war",
           "url": "https://en.irna.ir/news/86192212/Ghalibaf-Islamic-countries-should-learn-from-the-experience",
           "source": "IRNA",
@@ -250,7 +244,7 @@
     },
     {
       "term": "Trump",
-      "count": 11,
+      "count": 10,
       "headlines": [
         {
           "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
@@ -309,12 +303,6 @@
         {
           "title": "Trump gets in shouting match with GOP senator who backed Iran war powers resolution",
           "url": "https://www.timesofisrael.com/trump-gets-in-shouting-match-with-gop-senator-who-backed-iran-war-powers-resolution/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Trump claims he stopped ‘great leader’ Erdogan from bringing Turkey into war on Iran’s side",
-          "url": "https://www.timesofisrael.com/trump-claims-he-stopped-great-leader-erdogan-from-bringing-turkey-into-war-on-irans-side/",
           "source": "Times of Israel",
           "region": "Israel"
         }
@@ -621,36 +609,6 @@
       ]
     },
     {
-      "term": "NATO",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump criticises European allies over lack of support during war on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-criticises-european-allies-over-lack-support-during-war-iran",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US to progress with Turkey jet engine sales ahead of NATO summit",
-          "url": "https://www.newarab.com/news/us-progress-turkey-jet-engine-sales-ahead-nato-summit",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "سلوفاكيا تعلن مقاطعة حزمة “الناتو” العسكرية لأوكرانيا وتطالب بالحوار مع روسيا",
-          "url": "https://www.almanar.com.lb/article/975502/",
-          "source": "Al Manar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Strait of Hormuz",
       "count": 4,
       "headlines": [
@@ -823,7 +781,7 @@
           "region": "Levant"
         },
         {
-          "title": "IDF soldier found handcuffed in West Bank town",
+          "title": "IDF soldier rescued after being found handcuffed in West Bank town, incident likely criminal",
           "url": "https://www.jpost.com/israel-news/crime-in-israel/article-900437",
           "source": "Jerusalem Post",
           "region": "Israel"
@@ -903,6 +861,30 @@
       ]
     },
     {
+      "term": "NATO",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump criticises European allies over lack of support during war on Iran",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-criticises-european-allies-over-lack-support-during-war-iran",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US to progress with Turkey jet engine sales ahead of NATO summit",
+          "url": "https://www.newarab.com/news/us-progress-turkey-jet-engine-sales-ahead-nato-summit",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
       "term": "House",
       "count": 3,
       "headlines": [
@@ -947,30 +929,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15QU50QXZFZ1l4STlTNW9mLXJfemhmbVExb2lvZ3l1RGliaXd0N3Bla1R1M2VMQ2xaYjZfeHJEVUY3WlVkVnhFcHp5bENLZjZ4TEo0?oc=5",
           "source": "Arab News",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Turkey",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Vance says US reviewing conditions for Türkiye's F-35 purchase",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-reviewing-conditions-turkiyes-f-35-purchase",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US to progress with Turkey jet engine sales ahead of NATO summit",
-          "url": "https://www.newarab.com/news/us-progress-turkey-jet-engine-sales-ahead-nato-summit",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump claims he stopped ‘great leader’ Erdogan from bringing Turkey into war on Iran’s side",
-          "url": "https://www.timesofisrael.com/trump-claims-he-stopped-great-leader-erdogan-from-bringing-turkey-into-war-on-irans-side/",
-          "source": "Times of Israel",
-          "region": "Israel"
         }
       ]
     },
@@ -1043,6 +1001,30 @@
           "url": "https://en.mehrnews.com/news/245581/Israeli-drone-attack-kills-two-in-south-Lebanon",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Netanyahu",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Troops will not withdraw from Lebanon 'as long as I am PM,' Netanyahu says; Israel kills 2 in drone strike near Nabatieh",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQU1JIR1BzWFl2VE10eE5BRExHUVM3RkRMbUYyVmdPNmZYZEVUb1F1X0xfandnVmlpN2p2RGN6Qkt5MFlkN2VLMWwzVHZiT3FCZV83Y0NGUkVJNWhVTm13b25kTklEb21BMnlwTURoZVc4TWoxdEkwZEZBZVlVRUN3aF9xLThJMkRmUHdqMFlnNmlwdndyVVNTaEEybTZJeVZpOFJhN2xtdGF0bjJZNENFdHYxenViUlpKVk15TnVkdW1UdFN5RVR0Wnh5ZTZpQ0FuMXBGeVJzYkpDZ1FqUjRZZzBUcnJsVzhtcGNTdmpwZmx2UkY4aS1WbHpSdWFrQ09kd3VLNWZYOGl4Mm1o?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Opinion | Opinion • A new left-wing party is the best political news Netanyahu has had in months",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdzJ4TkRlLXlaMzJjV2dyczJraUF4VTBualNEVkwtYTZQN0wzNXNqLXZDc19pV2FWdmNYZ1M0MmRaWmJxVDhRT2dRUW1YTjYweU9FcUx6YUktTGFSenBZbkRBT0lYWDZ6a2lKcUJmLXYwX201MnE0VVl4ZF9hVUZ2RUhUanNkcTl3U0pSdHRWanI5Z3lja3VKbVlJMlQ1TTlxVjNOSmtDRDdWTDF1Z2NXQ3VsMENuVEs3dl9PSktOd3JYUS1hQTN0bzltRTEtQXpjYmwtVF9BZWZzYU1GRjFJQWtlakhEWm1wektRckN2MmtiS3FSWGs5VzB5aUdHUFNqbF9ZOXdqQV9zZFY3NjZ0WG1R?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Israel's Military Strategy Has Failed. Why Can't Netanyahu's Opponents Say It Out Loud?",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNb0FHUlBVVkhBaVExTTl3M1pWc3ZoTTc3V3lVODRhN2JsNHBfazlBWGF1TU80Q0Exc0Vld0xQVzY1STE2Sk9TMDd0TkRuUlVPNWJrZV9NYmpBVTZsQ2d2VUducjYwMkY1djlaV2M1T0tiZ0p6VDc1UnhRRDlDRVkteHA3dmhfYVl4aXY1X2tsdXh3NWNRdUd2MW01NkpjUkE0Y0hobXEwQUVBaXNPZzlXNElsaGxzQUFuZDNFd3kxWVZKWmdIVUVTamtPZlltZjIwWE12SnRJVUdLekU4d2VzSzJwNUdXQjFyd1I4VVZVLWtLcGN1S3F4d0dJSl9aZFNhQzlnOXREb2FEeUk3blUya0gyd3JPR1hFVFg1cHRn?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
         }
       ]
     },
@@ -1143,6 +1125,30 @@
       ]
     },
     {
+      "term": "UAE",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "President Sheikh Mohamed receives US Secretary of State Marco Rubio in Abu Dhabi",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbGVueG9uQk5PN0RuOVpQWFhmdGdsMkx2QWt5MDRpUEl3dXF3WnVveHZXMkdJalZURm41cWR5aTQyUV84bzdVUnVRc0xhSFo2bXhXZ003MTJmQ2N2R0dlc0VjUjRZYzVGV0szQWRRRnRveWdnWmVWT1k3OHhwZFRlMGNUWUpZeXY4bmdrOG82SWhQVWF6dlUzazFkY1k3eWlIMjdwQmRzSWxjYk9BbklBVEp4aV8xd2FiUlduX2plNVBtakVqQmZwMTdXZ0MwUQ?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "UAE oil exports rebound to 85% of prewar levels despite Strait of Hormuz closure, IEA says",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaUJlaGYxcmZLRVNCczVzLWFJZ1FkWjB4dlBRZUpKXzNBUnBvcGhia01yTEtvalJWRnZfeHpodGsyWmZRMVA1bHlpOHlsQktxampMUjBXYmNvV1FiZDRtRHBjcjFiRFF5QmZvZ3RnOEo1Vm9NaDc3VW1kLWFRb3hCcWVMRVpIamZ5VDVsd2hILUlMLWFaRlp2WjJ5bjJYR3RwZ0x0WTM2YkNya01fNFFHU1BURXowR1E3X1kzMkZMMnpDblBPcjJmWnhFNXdhX0VLQU5Ld0FZT1dTcTBiQ0xGdTdn?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Opec's global crude output share could fall from 35% to 31% without UAE: EIA",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOE9sUEJrYTNIcUNUbWlVYjBMSDNvZms3Z1lENk5EWnBVSTZnMzk4RWdab1ZXNDVMSkhzeTVyWVVqQkJBcFNVTlAwMGRyRWhhNU5mcXdESVRTNTRDYkxpUkR5V2x3amw3TmM1MzdtUWRhODJpc0Q4dkd1YjBRb01Bd0t4QXJWS3UzOU4tR3VZVXlSdUtXdXZJRmhHZEMxemV0amJZd1JOMXEwdEVRQ0tVOQ?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
       "term": "Ghalibaf",
       "count": 3,
       "headlines": [
@@ -1215,6 +1221,24 @@
       ]
     },
     {
+      "term": "Thousands",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Thousands feared dead as twin earthquakes cause devastation across Venezuel",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/iranians-mark-first-ashura-since-khameneis-killing-in-the-us-iran-war?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
       "term": "Ashura",
       "count": 2,
       "headlines": [
@@ -1229,24 +1253,6 @@
           "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNTFVNVEJXZHA3dHozVE5maFJvSHlKVHZudURzTDNGVVBIYVR5UHh4b1ZoQXlaZDUzR2FUcjIyM1p0YjJrbDRVNXlDZ05Fc08xNFd2a1A5UUR2ZFNGd3FVMWlUWktvNTZxTGV1NFZjUDJVOWNzd3BZbkJVUmEyVWppUWYtNklsMVBSQm5ueWh5NHhtbUYzYzRLYVUzSlBRQXhBU2ZpVFhPelROQWJUdnBYT3kwN1drRW1idUR0RTc1cTUyMFRFRmJudjN1eVlXa0Rmc1lwSkdZUWtSaEJKazFlUnNkN2szR2xKSnBXalFRSnU2bF9Ha1VRT2dOcmhLNnR2MVhyZzR1NU1nSGZpWEhDdV92Z3VROThkTXh4QnFzbWZYQkdqTk1wNUJBUkFPeXNuZHNGVjR1dHZzSkVhWm15dmJOUlg0ZTRxbFNnYm5Xa0lqOUQ4VHdzSzhGaU9uVjVNOUpONXdHbXdEUHhVcV9XLU8yTG1iVlZZMC0yM2VRSlFGeFRDVjFDMGFSeHBRcjdTSmc?oc=5",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "aid",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Migrants left to endure deadly Paris heat with little shelter or aid",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/migrants-left-to-endure-deadly-paris-heat-with-little-shelter-or-aid?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "سلوفاكيا تعلن مقاطعة حزمة “الناتو” العسكرية لأوكرانيا وتطالب بالحوار مع روسيا",
-          "url": "https://www.almanar.com.lb/article/975502/",
-          "source": "Al Manar",
-          "region": "Levant"
         }
       ]
     },
@@ -1287,24 +1293,6 @@
       ]
     },
     {
-      "term": "Russia",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Russian opposition leader jailed over anti-war social media posts",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/russian-opposition-leader-jailed-over-anti-war-social-media-posts?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "سلوفاكيا تعلن مقاطعة حزمة “الناتو” العسكرية لأوكرانيا وتطالب بالحوار مع روسيا",
-          "url": "https://www.almanar.com.lb/article/975502/",
-          "source": "Al Manar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Secretary",
       "count": 2,
       "headlines": [
@@ -1329,6 +1317,24 @@
         {
           "title": "Trump casts doubt on US responsibility for deadly Iran school strike",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-casts-doubt-us-responsibility-deadly-iran-school-strike",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US to progress with Turkey jet engine sales ahead of NATO summit",
+          "url": "https://www.newarab.com/news/us-progress-turkey-jet-engine-sales-ahead-nato-summit",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Turkey",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Vance says US reviewing conditions for Türkiye's F-35 purchase",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-reviewing-conditions-turkiyes-f-35-purchase",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -1445,24 +1451,6 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVljLXR1OXJUN1FJaTJVWGtSdjBGSElPallUdERtRzhZWnhyQ0JIRF9uMFNTMzVqNVROQTdxdFNfRlN2RDFRZG5lcUp1ZUFKTkw4NXZQTzFocGFJVi0xUUxuZHhCdXFqUDY4bjUxMzNjUm5yenUtVy1OcHhSV3ZXSUZnTlBmVkMyeUJsaHoxTUx4RVlIWWtiT2xsLXRFdGdKMXdlYlNoY0FuOEww0gGsAUFVX3lxTE9lWWMtdHU5clQ3UUlpMlVYa1J2MEZISU9qWVR0RG1HOFlaeHJDQkhEX24wU1MzNWo1VE5BN3F0U19GU3ZEMVFkbmVxSnVlQUpOTDg1dlBPMWhwYUlWLTFRTG5keEJ1cWpQNjhuNTEzM2NSbnJ6dS1XLU5weFJXdldJRmdOUGZWQzJ5QmxoejFNTHhFWUhZa2JPbGwtdEV0Z0oxd2ViU2hjQW44TDA?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Switzerland",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US-Iran Talks to Resume in Switzerland at End of June: Rubio",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDZEUXU0U2lOOGJLY0tQSi1DRHU5Ylg1NXBnQWpUN05jTlpGYUE2cUdnNlBoVjJEeE5KTy1pQ2hQNGI4Uk1SQ0RYcVlPNXZtbEd0bDBYOWRpRXhQZm9NRWdDODhEOEx3Yk5lb2ZoU21ISWdhSTVPYnFmNlV6bVdzRFMyc1ZCVFNSSkJJNHhnZlpRY0dDbTRNSFJrdG05Q1B1bWhiMXZCZDR5OUo0UW04aFRnbW82T2vSAbcBQVVfeXFMTzA2RFF1NFNpTjhiS2NLUEotQ0R1OWJYNTVwZ0FqVDdOY05aRmFBNnFHZzZQaFYyRHhOSk8taUNoUDRiOFJNUkNEWHFZTzV2bWxHdGwwWDlkaUV4UGZvTUVnQzg4RDhMd2JOZW9maFNtSElnYUk1T2JxZjZVem1Xc0RTMnNWQlRTUkpCSTR4Z2ZaUWNHQ200TUhSa3RtOUNQdW1oYjF2QmQ0eTlKNFFtOGhUZ21vNk9r?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran rejects IAEA access to damaged nuclear sites",
-          "url": "https://en.mehrnews.com/news/245580/Iran-rebuffs-IAEA-access-to-damaged-nuclear-sites",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     }
