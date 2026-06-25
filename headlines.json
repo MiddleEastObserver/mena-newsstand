@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T03:53:35.883706+00:00",
+  "updated": "2026-06-25T04:22:35.891028+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,18 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/iranians-mark-first-ashura-since-khameneis-killing-in-the-us-iran-war?traffic_source=rss",
+            "published": "2026-06-25T03:55:07+00:00",
+            "snippet": "Thousands gathered in Tehran on the eve of Ashura, the first since the killing of Iranian supreme leader Ali Khamenei."
+          },
+          {
+            "title": "Migrants left to endure deadly Paris heat with little shelter or aid",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/migrants-left-to-endure-deadly-paris-heat-with-little-shelter-or-aid?traffic_source=rss",
+            "published": "2026-06-25T03:50:26+00:00",
+            "snippet": "Hundreds of migrants in Paris are left exposed as a heatwave sweeps Europe."
+          },
           {
             "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
@@ -25,18 +37,6 @@
             "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss",
             "published": "2026-06-25T01:11:53+00:00",
             "snippet": "A magnitude 7.2 earthquake struck Venezuela near Moron, followed by a stronger 7.5 magnitude quake in the same region. Buildings in Caracas reportedly collapsed."
-          },
-          {
-            "title": "Buildings collapse in Venezuelan capital after powerful earthquakes hit",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/buildings-collapse-in-venezuelan-capital-after-powerful-earthquakes-hit?traffic_source=rss",
-            "published": "2026-06-25T00:18:28+00:00",
-            "snippet": "Buildings have collapsed in Venezuela's capital after powerful earthquakes struck the country. The tremors caused significant damage in Caracas."
-          },
-          {
-            "title": "Two years on, Kenyan families still seek justice after Gen Z protests",
-            "url": "https://www.aljazeera.com/news/2026/6/25/two-years-on-kenyan-families-still-seek-justice-after-gen-z-protests?traffic_source=rss",
-            "published": "2026-06-25T00:11:16+00:00",
-            "snippet": "Two years after Gen Z protests, Kenyan families are still seeking justice for those killed and missing. They state that investigations have stalled and accountability remains elusive."
           }
         ],
         "error": null
@@ -105,16 +105,16 @@
             "snippet": "Trump stated that the war on Iran is 'going very well.' This assessment comes amidst ongoing military operations and diplomatic developments."
           },
           {
-            "title": "Federal judge bars Trump from implementing proof of citizenship requirement to vote",
-            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM29HTXljX1R3QzRUYmNKeVRjU1FqN1E4aFBnTHRaUTBBVEQ0RmkyZGFkVGl6YnVxNWwtZ3dDUEpxS0pEUmJ0LU8yTGl6RDJuaC1tS3RGZl91dGNaaGI0UTlOdEF2b1RRN3I5WWF0ekVWNU1yZXRhQzhyYnJSTXNSRktTeUpPdjBDdklya2R3cDhZTW9Xekw4OGg5YjJhZ1NMREpsTEJ5VURIOU5xcUlKdFJ6Z2c1ekt4SDNHVzM5UTVOeWtFVVNEdjdfTWUyMFI3NkNfRW1RZEExUDBrMEdHRdIB4AFBVV95cUxNM29HTXljX1R3QzRUYmNKeVRjU1FqN1E4aFBnTHRaUTBBVEQ0RmkyZGFkVGl6YnVxNWwtZ3dDUEpxS0pEUmJ0LU8yTGl6RDJuaC1tS3RGZl91dGNaaGI0UTlOdEF2b1RRN3I5WWF0ekVWNU1yZXRhQzhyYnJSTXNSRktTeUpPdjBDdklya2R3cDhZTW9Xekw4OGg5YjJhZ1NMREpsTEJ5VURIOU5xcUlKdFJ6Z2c1ekt4SDNHVzM5UTVOeWtFVVNEdjdfTWUyMFI3NkNfRW1RZEExUDBrMEdHRQ?oc=5",
-            "published": "2026-06-24T17:41:33+00:00",
-            "snippet": "A federal judge has issued an order preventing Trump from enforcing a requirement for proof of citizenship to vote. The ruling impacts election procedures."
+            "title": "US-Iran Talks to Resume in Switzerland at End of June: Rubio",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDZEUXU0U2lOOGJLY0tQSi1DRHU5Ylg1NXBnQWpUN05jTlpGYUE2cUdnNlBoVjJEeE5KTy1pQ2hQNGI4Uk1SQ0RYcVlPNXZtbEd0bDBYOWRpRXhQZm9NRWdDODhEOEx3Yk5lb2ZoU21ISWdhSTVPYnFmNlV6bVdzRFMyc1ZCVFNSSkJJNHhnZlpRY0dDbTRNSFJrdG05Q1B1bWhiMXZCZDR5OUo0UW04aFRnbW82T2vSAbcBQVVfeXFMTzA2RFF1NFNpTjhiS2NLUEotQ0R1OWJYNTVwZ0FqVDdOY05aRmFBNnFHZzZQaFYyRHhOSk8taUNoUDRiOFJNUkNEWHFZTzV2bWxHdGwwWDlkaUV4UGZvTUVnQzg4RDhMd2JOZW9maFNtSElnYUk1T2JxZjZVem1Xc0RTMnNWQlRTUkpCSTR4Z2ZaUWNHQ200TUhSa3RtOUNQdW1oYjF2QmQ0eTlKNFFtOGhUZ21vNk9r?oc=5",
+            "published": "2026-06-24T18:49:10+00:00",
+            "snippet": "US-Iran Talks to Resume in Switzerland at End of June: Rubio Al Arabiya English"
           },
           {
-            "title": "500 US Aircraft Took Off From Italy for Iran Strikes: NATO Chief",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDNPQzloeDZqeGROVDZSUWJnZDNJWnBQZ21IUE1adW9BcWtUSjRLVXNtNjdkOEd5cTVuWjJIYkd3cjZLRHdWWDhsbTdBWG4yNzliRWpMVE42RVVncEJtYlllUUlzZzBSSk5UYWRybTNXNTN4SWFwWUVJSVRnY2gybV92cG85N09RQmM5ZFlfdDVWT2NRVkJLS0NxYW0tSzZaZXVkNHFNWVZTaFZMVV96ZTFieTBJZnpXWElxTG9R0gG-AUFVX3lxTE1IM09DOWh4Nmp4ZE5UNlJRYmdkM0lacFBnbUhQTVp1b0Fxa1RKNEtVc202N2Q4R3lxNW5aMkhiR3dyNktEd1ZYOGxtN0FYbjI3OWJFakxUTjZFVWdwQm1iWWVRSXNnMFJKTlRhZHJtM1c1M3hJYXBZRUlJVGdjaDJtX3Zwbzk3T1FCYzlkWV90NVZPY1FWQktLQ3FhbS1LNlpldWQ0cU1ZVlNoVkxVX3plMWJ5MElmeldYSXFMb1E?oc=5",
-            "published": "2026-06-24T16:58:31+00:00",
-            "snippet": "NATO Chief indicated that 500 US aircraft took off from Italy for strikes against Iran. This operation involved significant air support from NATO member Italy."
+            "title": "Rubio Says ‘No Country’ Can Charge for Hormuz Traffic",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVljLXR1OXJUN1FJaTJVWGtSdjBGSElPallUdERtRzhZWnhyQ0JIRF9uMFNTMzVqNVROQTdxdFNfRlN2RDFRZG5lcUp1ZUFKTkw4NXZQTzFocGFJVi0xUUxuZHhCdXFqUDY4bjUxMzNjUm5yenUtVy1OcHhSV3ZXSUZnTlBmVkMyeUJsaHoxTUx4RVlIWWtiT2xsLXRFdGdKMXdlYlNoY0FuOEww0gGsAUFVX3lxTE9lWWMtdHU5clQ3UUlpMlVYa1J2MEZISU9qWVR0RG1HOFlaeHJDQkhEX24wU1MzNWo1VE5BN3F0U19GU3ZEMVFkbmVxSnVlQUpOTDg1dlBPMWhwYUlWLTFRTG5keEJ1cWpQNjhuNTEzM2NSbnJ6dS1XLU5weFJXdldJRmdOUGZWQzJ5QmxoejFNTHhFWUhZa2JPbGwtdEV0Z0oxd2ViU2hjQW44TDA?oc=5",
+            "published": "2026-06-24T18:39:40+00:00",
+            "snippet": "Rubio Says ‘No Country’ Can Charge for Hormuz Traffic Al Arabiya English"
           }
         ],
         "error": null
@@ -362,6 +362,24 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "زلزال بقوة 7.2 درجة يهز شمال شرقي اليابان",
+            "url": "https://www.almanar.com.lb/article/975557/",
+            "published": "2026-06-25T04:21:32+00:00",
+            "snippet": "أفادت وكالة “كيودو” بأن خمسة أشخاص على الأقل أصيبوا في اليابان نتيجة تداعيات زلزال بلغت قوته 7.2 درجة على مقياس ريختر."
+          },
+          {
+            "title": "إطلاق نار وقذائف شرق حيّ الزيتون جنوب شرق مدينة غزّة",
+            "url": "https://www.almanar.com.lb/article/975547/",
+            "published": "2026-06-25T04:00:28+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "آية الله الشيخ قاسم: القواعد الأميركية كابوس يهدّد الدول الضعيفة",
+            "url": "https://www.almanar.com.lb/article/975527/",
+            "published": "2026-06-25T03:58:34+00:00",
+            "snippet": "أكد المرجع البحريني الكبير آية الله الشيخ عيسى قاسم، في تدوينة نشرها عبر منصة إكس، أنّ من حق شعوب الدول التي تستضيف قواعد عسكرية أميركية أن ترفض وجود هذه القواعد على أراضيها، وأن تسعى إلى التخلص مما وصفه بـ”الكابوس الجاثم على صدرها” والمهدد لوجودها."
+          },
+          {
             "title": "قائد القيادة المركزية الأمريكية براد كوبر يزور كيان العدو اليوم  للتشاور حول آخر التطورات المتعلقة بإيران ولبنان",
             "url": "https://www.almanar.com.lb/article/975517/",
             "published": "2026-06-25T03:52:44+00:00",
@@ -372,24 +390,6 @@
             "url": "https://www.almanar.com.lb/article/975502/",
             "published": "2026-06-25T03:13:08+00:00",
             "snippet": "Slovakia will not allocate funds for military aid to Ukraine and refuses to participate in NATO's new 70 billion Euro aid package for Kyiv. The Slovak government prioritizes dialogue with Russia."
-          },
-          {
-            "title": "قوات الاحتلال تعتقل شابين فلسطينيين خلال اقتحام مدينة طوباس",
-            "url": "https://www.almanar.com.lb/article/975492/",
-            "published": "2026-06-25T03:06:26+00:00",
-            "snippet": "Occupation forces arrested two Palestinian youths during an incursion into the city of Tubas. The arrests occurred in the occupied West Bank."
-          },
-          {
-            "title": "الرئيسة الفنزويلية بالوكالة ديلسي رودريغيز: الحكومة تعلن حالة الطوارئ بعد الزلزال",
-            "url": "https://www.almanar.com.lb/article/975482/",
-            "published": "2026-06-25T03:05:18+00:00",
-            "snippet": "Venezuela's acting President, Delcy Rodríguez, announced a state of emergency following the earthquake. The declaration addresses the severe impact of the tremors."
-          },
-          {
-            "title": "وزير الداخلية الفنزويلي: الزلزال ضرب بشكل مباشر 8 ولايات وهناك مناطق في العاصمة كاراكاس تأثرت بشكل كارثي",
-            "url": "https://www.almanar.com.lb/article/975467/",
-            "published": "2026-06-25T02:06:29+00:00",
-            "snippet": "Venezuela's Minister of Interior stated that the earthquake directly impacted eight states, with catastrophic effects in some areas of the capital, Caracas."
           }
         ],
         "error": null
@@ -421,7 +421,7 @@
           {
             "title": "Israel seizes 464 dunums north of Ramallah under pretext of “state land” for colonial outpost expansion - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ndW1rSEVib0FaaXpJeDhqdE9abHBwMnVKSFgwd1I4NVhtSnBvRG1PS2VpT2hDMFdpTTlOSmpncTlPN0k5ZkJjdHBRYTlUN0JfTW1kQXIxNA?oc=5",
-            "published": "2026-06-25T00:04:35+00:00",
+            "published": "2026-06-25T00:45:00+00:00",
             "snippet": "Israel seized 464 dunams of land north of Ramallah, citing 'state land' for colonial outpost expansion. This land grab affects Palestinian territory."
           },
           {
@@ -637,12 +637,6 @@
         "url": "https://timesofoman.com",
         "headlines": [
           {
-            "title": "Opec's global crude output share could fall from 35% to 31% without UAE: EIA",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOE9sUEJrYTNIcUNUbWlVYjBMSDNvZms3Z1lENk5EWnBVSTZnMzk4RWdab1ZXNDVMSkhzeTVyWVVqQkJBcFNVTlAwMGRyRWhhNU5mcXdESVRTNTRDYkxpUkR5V2x3amw3TmM1MzdtUWRhODJpc0Q4dkd1YjBRb01Bd0t4QXJWS3UzOU4tR3VZVXlSdUtXdXZJRmhHZEMxemV0amJZd1JOMXEwdEVRQ0tVOQ?oc=5",
-            "published": "2026-06-25T02:37:00+00:00",
-            "snippet": "OPEC's global crude output share could decrease from 35% to 31% if the UAE is not included, according to the EIA. This highlights the UAE's significance in oil production."
-          },
-          {
             "title": "Japan hit by magnitude 7 earthquake, PM Takaichi sets up task force",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcThDNnI0Wk84YWdTM1NKNzl6b1dzZ0VHYkc3U3VoZVdhOWpnclhDTmY2VDQ2UTNIVVRmVkEzR1hUSGxyQ1J2WEozeEpvQ3NBX1BsN0duamotMGVSU0F1YjYyeUJUSkFzRVAyanhBMndkUENDNzJuYVZCTkVVb1JXRGoxMHAyTnNiSUprRE5leDV2WmFCY3JFNTF0VEIzQUk2OW9KeWJzLTM?oc=5",
             "published": "2026-06-25T02:25:00+00:00",
@@ -665,6 +659,12 @@
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVZIYzA1QWZ6NmZPWTlPRGpDbnc5YndrM3c3WEdzMzl4Ym1lNWQ0UHotNGFwN0VJcTFvUnZXQUhTNFEzaFluOEQ4aXlsTFVJM0JycVVXbXFpZld0WnVtM2Z3TmNpV1E0c3Q3QXdGZ25yTUc1Q1F3aXRqdlNGWmVSaEU1cWpkVHVIQVVjclhB?oc=5",
             "published": "2026-06-24T13:22:00+00:00",
             "snippet": "A call has been made to increase exports to international markets. This initiative aims to boost economic growth and trade."
+          },
+          {
+            "title": "Oman, Qatar affirm keenness to develop bilateral cooperation, support for regional stability",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcHpDcVFlSWRIZXgxWW5iekNTTDF6M2NidmdzVkVXRmhvUktKRnlwMjg0MGhFQzJsbUZHeTB0OG5lZ2JtZENwby1uQVlWdXE2OC1kQUNEVnZlNVRnUWtEckQtS1hIRUMzUTBsLURzaUlPVW9zX1U0cFdZT3B4MTRDOHpmbV9jRlNaaUZ0VHpGN3NqMWRMa3BacXdwVmM4WlYySlpFVmtwMldmbGRlZWd6NTZYOGtldk5IQnJocE5TMGFfM0s4Q1dURA?oc=5",
+            "published": "2026-06-24T11:31:00+00:00",
+            "snippet": "Oman, Qatar affirm keenness to develop bilateral cooperation, support for regional stability Times of Oman"
           }
         ],
         "error": null
@@ -756,34 +756,10 @@
         "url": "https://www.haaretz.com",
         "headlines": [
           {
-            "title": "Opinion | Opinion • We launched a new Jewish-Arab party – and we won't throw away your vote",
-            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVnhBUkRkM1Izd2Q2a0NSbTFPN3dfTTQ4M1lnc2pJOG4zVEstZjZ3bjV1TWFnRXFFSWNRb0dBRjdsdXU2MlpIZUtFMk4wS1BuT3d4WVdSVTVzbFBvZmlDa0ppYzFuZlE2VmVteDZibjgwQ2RnN1dmZ1FyOVBaOWd1X2NjeWo4SGZLSFhtSDJvMTZFRHQzU1ppYWtBY0g4cHBMMlY0THFYY3VWUnl5cFhWTzVQNzIzV1BvT0drZTVpYXZIam9jQVlqWTUwYzFlRVNDNmJwdGE3MWtIaDVBSkpIYkJDTUVLdG5WYnlmZ1lzNk9XYXlPVTc0TGp0czVueU1ldDJSY2xoSQ?oc=5",
-            "published": "2026-06-24T21:04:00+00:00",
-            "snippet": "This article discusses the launch and success of a new Jewish-Arab party in the New York primaries."
-          },
-          {
-            "title": "Analysis • Mainstream Haredim are radicalizing, risking a rift with Israeli society",
-            "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOOU42M3FuVlhWUTRneDE5WTJlTGdEX1ZxdnZ2RmdXRUlZWmprdEFxQUF3VElwdExnX0RocVFnOXpJWEI2Z3FBelVyemg4MS1zOXFxS0JKcnUyelhDOFkzMHYtWUJMb3ZpZmY3TUpjTFZqZnhiMU9Bc0RGQUU0N1NOZzdVUExyc0E1Rk8xcHc0SjNWM0U4WG1JdXo3aXZ6VllDNFcxQVE2TnJrd3haYWdVY0pESERWM0ZHSUp1RlR0Y3diTm5KTHFMeU9ydEdlbWQ0eWZuV0RrYmVnWmdBTW4tRC04Y0tzLU5OVHRxcHY0Wk1iWlI5anVyM3JTc1E5S0VrYnl6a05ZOW5HQ2lMRFZ4aFBDVGR0TVl1MEtJ?oc=5",
-            "published": "2026-06-24T18:31:00+00:00",
-            "snippet": "This analysis explores the radicalization of mainstream Haredim and the potential rift with Israeli society."
-          },
-          {
-            "title": "Israel's Military Strategy Has Failed. Why Can't Netanyahu's Opponents Say It Out Loud?",
-            "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNb0FHUlBVVkhBaVExTTl3M1pWc3ZoTTc3V3lVODRhN2JsNHBfazlBWGF1TU80Q0Exc0Vld0xQVzY1STE2Sk9TMDd0TkRuUlVPNWJrZV9NYmpBVTZsQ2d2VUducjYwMkY1djlaV2M1T0tiZ0p6VDc1UnhRRDlDRVkteHA3dmhfYVl4aXY1X2tsdXh3NWNRdUd2MW01NkpjUkE0Y0hobXEwQUVBaXNPZzlXNElsaGxzQUFuZDNFd3kxWVZKWmdIVUVTamtPZlltZjIwWE12SnRJVUdLekU4d2VzSzJwNUdXQjFyd1I4VVZVLWtLcGN1S3F4d0dJSl9aZFNhQzlnOXREb2FEeUk3blUya0gyd3JPR1hFVFg1cHRn?oc=5",
-            "published": "2026-06-24T16:51:00+00:00",
-            "snippet": "This piece questions why Netanyahu's opponents are unable to state that Israel's military strategy has failed."
-          },
-          {
-            "title": "Analysis • NY primaries send a clear message: Democrats must reckon with Israel, AIPAC",
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMFhUMWRVOXYtMTdxQjB2RElrVThNTGtIR2VtTlNJTUFVVXBpR2kzMDQzQmFnR0F0NjRWUG5nNFdxbjlwMkNjMTdxUEdmYlpVSlFRWk5lVXFKbHU5X1dCUDVZaWxXRVV2RUxkMUlzdlE0UTY3VF9zb01HaU44RmZFVjR1dVhwTkhuc0l0NGFDUVM1cFpjb1lwMHdPZHh4Y0JkbDlCTlZicG9MYk5MYWtvY0lEUERGWlExQVdCeVhqeDFSdGthT1JGQWplckhuS050MG04c1hLQzZ5N1l1aEliRVJUVUlMM3l2d3FYWkdlVGxxaGNwWllMWjJ4aFZ1NWtDbjBj?oc=5",
-            "published": "2026-06-24T16:51:00+00:00",
-            "snippet": "This analysis suggests that the NY primaries send a clear message to Democrats regarding Israel and AIPAC."
-          },
-          {
-            "title": "Opinion | Opinion • The Iran War's Real and Only Winner",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbFdaYmVvaHdDRzdIdW95T3l0dkt6YUx6WEM1RHl0YjJTcWtnMzNSS1hQTjhkZHU5aDJkc0RMUUhjYnJ1Mko4b2tHRjJHWk1ib1gxSzY2WXNNekg4MUluS005SnVfWkRzUFhHbnBWblVjeTh1N29BeFBNTXNha2R1N1JNRV9mWGFsb3pSTXM0UFlEUWdLUUxpVHhhRURQZnRmM240ZDlxOHp3aWxVeEl1TDktaThJeWZuQUJJdXp4SjNCODFNWVpQTi1NRkJ5Q0x0MjdiNmhKOGV3QQ?oc=5",
-            "published": "2026-06-24T15:55:00+00:00",
-            "snippet": "This opinion piece identifies the real and only winner of the Iran War."
+            "title": "Israel Is Bleeding Support in U.S. and Pouring Tens of Millions to Change That",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2T2Ytb19mcGJYcFpZQW9GampPYjVKR2FIaVZGWUZJclZrWWhKVEFldWd0WFM1SzU3Y19nd1JPY2JhMEk4aUE?oc=5",
+            "published": "2024-06-26T02:13:18+00:00",
+            "snippet": "Israel Is Bleeding Support in U.S. and Pouring Tens of Millions to Change That Haaretz"
           }
         ],
         "error": null
@@ -869,6 +845,5 @@
         "error": null
       }
     ]
-  },
-  "titles_hash": "5150e6312481eb6d"
+  }
 }
