@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:25:18.575318+00:00",
+  "updated": "2026-06-25T21:54:45.304683+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -9,10 +9,16 @@
         "url": "https://www.aljazeera.com",
         "headlines": [
           {
+            "title": "Economic losses mount as Venezuela earthquake death toll grows",
+            "url": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
+            "published": "2026-06-25T21:12:00+00:00",
+            "snippet": "Initial forecasts suggest damage could cost as much as 7 percent of the South American nation's GDP."
+          },
+          {
             "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
             "url": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
             "published": "2026-06-25T20:55:46+00:00",
-            "snippet": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck."
+            "snippet": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked Al Arabiya English"
           },
           {
             "title": "Venezuela quake leaves La Guaira in almost total devastation",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
             "published": "2026-06-25T20:12:33+00:00",
             "snippet": "State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein."
-          },
-          {
-            "title": "Has Marco Rubio’s tour of the Gulf reassured US allies?",
-            "url": "https://www.aljazeera.com/video/inside-story/2026/6/25/has-marco-rubios-tour-of-the-gulf-reassured-us-allies?traffic_source=rss",
-            "published": "2026-06-25T20:00:22+00:00",
-            "snippet": "The US secretary of state tells Gulf Cooperation Council (GCC) states that the Iran deal will ensure their security."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "IMO suspends Hormuz evacuation plan after vessel hit near Oman",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-suspends-hormuz-evacuation-plan-after-vessel-hit-near-oman",
+            "published": "2026-06-25T21:31:14+00:00",
+            "snippet": "IMO suspends Hormuz evacuation plan after vessel hit near Oman International Maritime Organisation Secretary-General Arsenio Dominguez says the group has suspended its evacuation plan for vessels stranded in the Strait of Hormuz."
+          },
           {
             "title": "A battle of narratives emerges as Mamdani-backed candidates sweep NYC primaries",
             "url": "https://www.middleeasteye.net/news/battle-narratives-mamdani-backed-candidates-sweep-primaries-nyc",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-says-prices-have-eased-us-iran-agreement-gulf-trade-remains",
             "published": "2026-06-25T19:49:36+00:00",
             "snippet": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted The International Monetary Fund says energy and commodity prices have fallen since the United States and Iran agreed to halt hostilities and reopen the Strait of Hormuz, but warned that Gulf trade flows will take tim"
-          },
-          {
-            "title": "Cargo ship hit by unidentified projectile in Strait of Hormuz",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cargo-ship-hit-unidentified-projectile-strait-hormuz",
-            "published": "2026-06-25T19:17:24+00:00",
-            "snippet": "Cargo ship hit by unidentified projectile in Strait of Hormuz The United Kingdom Maritime Trade Operations (UKMTO) says a cargo ship has been hit by an unidentified projectile in the Strait of Hormuz, damaging the vessel but causing no injuries."
           }
         ],
         "error": null
@@ -88,7 +88,7 @@
         "headlines": [
           {
             "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZlVMNEdUVDBYR3hGenAyaXZMb1pmb1pHWlFXSVVfc09IbXlvY0ZEM0lXX184THRUY1RRdUlfN3lTV1N2WXBZc2pmaXVCWjdCcmZWTW9RZkRHdC1YYWVhRlNKb2dpakpKM3FnZ2U2RzJtVldkR0ZxalljejFyZWh1OE9fYzN1QVpZbWF6RFpxeXRiV1Q5eXU5c0pJNUJ0dmdCX1E5azQxRWh5N2JhZHJzTVRyUjdYWXpSbUFaUDlZNjdtTmVJV1JJMllLazl6S1HSAc8BQVVfeXFMT2ZVTDRHVFQwWEd4RnpwMml2TG9aZm9aR1pRV0lVX3NPSG15b2NGRDNJV19fOEx0VGNUUXVJXzd5U1dTdllwWXNqZml1Qlo3QnJmVk1vUWZER3QtWGFlYUZTSm9naWpKSjNxZ2dlNkcybVZXZEdGcWpZY3oxcmVodThPX2MzdUFaWW1hekRacXl0YldUOXl1OXNKSTVCdHZnQl9ROWs0MUVoeTdiYWRyc01UclI3WFl6Um1BWlA5WTY3bU5lSVdSSTJZS2s5ektR?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjZ4UkZ6Ui12V3pHa2VHYmdGclNrTnNWUHJNclpvZFYyb3M1NTJiWGh3SG5ZVl8xTEk5QVFxSGRCbDFmNjliTlltdkRONXhmckFGTFlaVXhMdmI1VG5rVWNybTNISGJJclNHTVNGWHZnaFJSeFFvQ2hOdHF2cURxRHlpbWFNNEF2TkctY2ctc254WnVjcUo0dEFoMDFpbXhna052ZzluNFNfaXo0dm5tMDB0RmtvNE9hbUJXZm51RVYtVk9qakYtRzh30gHPAUFVX3lxTE9mVUw0R1RUMFhHeEZ6cDJpdkxvWmZvWkdaUVdJVV9zT0hteW9jRkQzSVdfXzhMdFRjVFF1SV83eVNXU3ZZcFlzamZpdUJaN0JyZlZNb1FmREd0LVhhZWFGU0pvZ2lqSkozcWdnZTZHMm1WV2RHRnFqWWN6MXJlaHU4T19jM3VBWlltYXpEWnF5dGJXVDl5dTlzSkk1QnR2Z0JfUTlrNDFFaHk3YmFkcnNNVHJSN1hZelJtQVpQOVk2N21OZUlXUkkyWUtrOXpLUQ?oc=5",
             "published": "2026-06-25T19:08:00+00:00",
             "snippet": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked Al Arabiya English"
           },
@@ -126,6 +126,12 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "The State of Israel Vs Dr Hussam Abu Safiya: Silencing a witness",
+            "url": "https://www.newarab.com/opinion/state-israel-vs-dr-hussam-abu-safiya-silencing-witness",
+            "published": "2026-06-25T21:33:08+00:00",
+            "snippet": "Israel's detention of Dr Hussam Abu Safiya and other Gazan healthcare workers is an attempt to silence them, writes Omar Abdel-Mannan."
+          },
+          {
             "title": "Turkish journalists denied accreditation for Ankara NATO summit",
             "url": "https://www.newarab.com/news/turkish-journalists-denied-accreditation-ankara-nato-summit",
             "published": "2026-06-25T19:30:40+00:00",
@@ -148,12 +154,6 @@
             "url": "https://www.newarab.com/analysis/what-kind-iran-will-emerge-us-israeli-war",
             "published": "2026-06-25T16:43:01+00:00",
             "snippet": "Analysis: The war has strengthened Iran's confidence in its deterrence capabilities, while leaving the fundamental drivers of its foreign policy unchanged"
-          },
-          {
-            "title": "Gaza ceasefire talks return to square one amid escalation fears",
-            "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
-            "published": "2026-06-25T16:04:20+00:00",
-            "snippet": "Palestinians are growing increasingly concerned as ceasefire negotiations stall, raising fears of wider Israeli military escalation."
           }
         ],
         "error": null
@@ -169,6 +169,12 @@
             "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOSUhCVXJJVGpiTGJGekNnbEk1TzZSbllDcFpwVUc2eXZPdnkwS1d2M1VPcW9Yck10TjIzd1JOMWhvSFFSbTVmTEx4eGZrcl9VQTdVUEh5ck1kTGdHSTJGZzM4dlNpTnBaX0dYOE1pZl9Td1VwY1lWUGNESmctVVdvRDI1OENLWWNfQUpRSzQtdGtTS0VINXF4WGJ6MjR6WXpac2gyZENKdDl0d3ROWV9mYmZ3Q3R5QU92YXZPY19wNTFPck5hcHdrMUxNel9rYlV1NDNGUDVEbXhqQXNKNHpDS0h5Zm1PNERZbTFkWlRRanBZNXlBMlppaFlqblZEc1VaSzNiX25zbWNLUWNfZFJNQUIzMU45enBqd0VkRnBLbTRPaXpkcnZsSTlZdllSbXZPVFpWaEN2S3FJSmc2dzRZaHU1bVlFVlRHTE8zVDEzTFJVMEk5SEJycFdmUGNrOWd1U2syZDh6OWNTYmRkVEFEWDBrTUZTUzZwT0NsLXpySkdsckd3dUQwUEg4WDFvcG1oNUM3RmlmQWxmd0V6OWQ4ZElKd1NRcTdSR1VfNjNkdUZPV3BLNGVtZGhUUGMxd2dnTkZLOFZINVBBeU1UY3JTaGRqem9DQl82ZHd3YnFLVnZ1VWFRSVNUUFFMRmdXeWFIazAzOWV0TkZWUkp2aGdUVVoxS1kwWkUwWGEzeEJqbHljYVFaYk1wbGFNVFB4eVQzR1pNYnozODRnSnBKUkVQSjY3aUFwNjY3?oc=5",
             "published": "2026-06-25T20:23:00+00:00",
             "snippet": "رحيمي للميادين: إيران لم ولن توافق على شراء مواد غذائية من واشنطن almayadeen.net"
+          },
+          {
+            "title": "كيف أعادت حرب رمضان رسم موقع إيران وشروطها في المنطقة؟",
+            "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxOTnRSdktjY01sZFFUUjhYQ2NDYjIzN0FxSnItczJ1eGptZm1IZGplQ3M2VGNxdTVtYjNwN0hRdEVseWpFaGJPZ1RXU1Y3bjBDaXFkYWU1cU9OaEkzN0Yxb3pvM0FnbVR3bEw0b1dUMF9uMWZWYko4NVhJUE9DclBCczk2TkJpR28yNW1HS0FfaGdzLXJIdnB3V094WTZDeTE0bGEtcHNfbkNhOVJ4ajg5a1NFSHNtbzRYdEFDZGVKeFpqMUxKX1AwaFZrTVNPZTQ2YWFjYmNSVDFuMEk4OTVSVjJFQW9WbEtFUThBc1R2cWd0V0JDaEV5dXlxM3h6cHp4Ry1EWldNbmxsUDZGVUpGenJsbFRZeEpMZ2VubmVSTTZ0VDZxRTByMjlaajhYNUNLZFFxSjF3STliWTBnb1k5RDNFNVpkM2tQalYzdmNYY1NUR3B3YW9LUS1iU21TdUswOXFZbmlhVkh0TzR2VXpTTFlTRGhxSVJsX0ZmT2V0MlZMaWs3clZhcFkyRlVFMk5EMVFQTkZiZVd2QUdUdEQ3TmJvRXZpTHNvclRIREYtTFg4R1BNN3ZtdFl0dmdrQTJybUFRLUpOdnBtN216elFKZ0xpNTB5RGE2dk5MYUtzeXR6b21ELUJETEJpdWQ1MHBWakgybmQ3OXB3aFJNUWd6WU4xY3dNbHZuWU1fUm9La2xNaUFO?oc=5",
+            "published": "2026-06-25T19:00:00+00:00",
+            "snippet": "كيف أعادت حرب رمضان رسم موقع إيران وشروطها في المنطقة؟ almayadeen.net"
           },
           {
             "title": "البوسنة تتصدر المجموعة الثالثة.. وداوود أوغلو يشعل مواجهة تركيا وأمريكا برسائل داعمة لفلسطين",
@@ -187,12 +193,6 @@
             "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNUlp2ckNtSnY1bXN0SDRHVVhhaFUtZk9saWZGNDJVamFsVzVtNFRrWERrcUdWa1ctWTV0c3VUbW4tUHVxeVBtaGd3UnQtNWJEVE5DVDdtZDY0eGZMcEpfY0I5ajZUNjdHbHl5ZFlXN1piYl9zTWh0dkhYSklkZUU0YTE4OERiREstYW1CeHdWOWVpR0txQUZOb1kyeUFoMlFRMTlRTlI4OGhVNDVuc2F0eXl0WjExaGFad2s1MVg3SURVR0ttTGduUlU2b3E3RGEwTVVIbHRvQjI3dXgtY2RxTWlCcVZQZnhvLUFPeWJDaGxJcWhwOWlTMTNZdk85VXd4anVEWEpnRDZXNXdWZGlCaHBqVHJJYl8tLTBmSVBJOU1jRzl0cU5pNGRrMXhQRTY4QmgwTV9oRC05ZVVTRDRvY1dhb0dwbjdtamlOdlNSRVByRC1pX0lVVUJEMnd6WHRncWlQM3M5Ul9ZZjhkdExlZU5QTDY0MXZKVjBJQm9OOGh0Unp2LUwtR3ZTQllpSk84WmQyNWJLRjRKaXk4akQ3MGVXQW5UdUJkX2xSMnFLeXVDZ09XY01pRVdrOU1aYnhyTjJBRk1uUC0wR1VPejBaUGsyb9IB1wNBVV95cUxQUmQ1WERhcGsyazI1aWI5X0hzbEJyQXg2dHJKRDgtd1dhckpUbmNtNlRkWGpUeExxMWstZ1F3elJ6QmJqaF9naEV5bWhUWEN2R1FKUGJMcERGaFdTRExSdGFPMFl3RGFsZVd1TTJ6Q001WmQ4T1BWMnRTS0U5YUZJYWkxNU9GeTQ2YjhYc0hkemJvcnFGc2N1Ym9wOEdJa0NnN0pfY2E2bExKX0l6Uk9xSEpibmcwd3FKc01pbG94cEtXWUFMdUFUY1lua1BMVFhuem5HV3pKSjFueFhjUnpnU1lkcVltbFhZdDBSaFc3Y3JqRVcwc1Y1SEVGN0tvdTQtMWl4SXVpaXM2R3BWZUdlWnJSQ3dTNlgtWWpfZkZJVGxYRDJuNEM3VndneEktbUpraWVHWFFhR2E3VUpHMFJzdG8tamZWNTVGUUY1enh0NmduTUpYM1FUNXl5eHUyamRaNXpPaHp4ZllQMk1DT2dpZjBnS0NpdkxVRDIySW5qTFl2eWE3ZnFGY01xa29HTHZpWlQyZFJnQmhOb3M4SEdKWlJCcDZXRWRkUUNmWVlFNHZwV1JLMlNnUkpYVUNmNllUTWZnMFVyY2gzR2hMQTlVQkE4M1lFZHM?oc=5",
             "published": "2026-06-25T14:04:38+00:00",
             "snippet": "روبيو من المنامة: دول الخليج ترفض فرض أي رسوم في مضيق هرمز almayadeen.net"
-          },
-          {
-            "title": "عاشوراء ودلالاتها الاجتماعية في إيران",
-            "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPUUFKY3VRckNnRG1qdDdjWFRlZkNCU2Z3STF4TnJOMHU0YklaZ2FTNlRwTzF6TmN3OHpDYXU3aEFsQUhCRERyRGY4NVUzTzExU24wYkt5N0xULXZ0OEwxX0ZickRJRGk2cEpiNTBJWFMyNkV5OU1Lb1pSdjJsdFVZWGZtV0hCbi1Wc29kQXZsSjBzM3Fpd0xDVGhBd2pPbEV2OWNrcnJvTU9PRjV3TWFtaF9TcEQtSmtKbERSeGtZQ1JOcDJ5bkg3OWI4Q3hJUURjd3FoUmpsMlZjaF9EZnNGZUxqcW8xYjBSSnBjd2p1WHRjS1lqSGthUkVsWGhnLXJHSF9sWTBIR016dXo3M2llOVA0OV94OGd0S0NseTJkMTk4U2MycUtTREV3WFFwbElKdmlWcEdLdzlLa2t0U21GOUxoV3VqNWNuOEFhVjJXX1lKMFZlMzhTd1J1VkRHbnBhZTNCX3ptWWZzbDJiU3lHSWpSeWpwRXZEWlVFUHZGS3FoRnVVanNWUzhrRy1yYkhwVml1eEtCeG1VV1dLUDFscmdrWWt6QmVFNWJuU2VjdTVBakVEZmc?oc=5",
-            "published": "2026-06-25T14:02:13+00:00",
-            "snippet": "عاشوراء ودلالاتها الاجتماعية في إيران almayadeen.net"
           }
         ],
         "error": null
@@ -323,6 +323,24 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "الاتحاد العمالي العام يحذر من انفجار اجتماعي كبير - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQZ2tfWnRrMEV6aGhtLUZEY25yZzRzd2VpRUJQSUdFR2xXbEdiTUxnZG0zTkFyMzVxQ2NQUGNETkFJTmo5aXF1U3lubC1oUFZvWElwcEU0dXJTYTIxREFGWXJQR3hVOXQ3cjhFbjVLUF9qMEtfQV9yZmlDVTJIWUk0UEp5QmV6YW1VQVZEUEdfVHRxamk1aE5TXzl2T2JvV2tJN21NUmk5eXJ4OV9qaUw2Y05yMk5za2llOUEtZm1PeHNSaVRHZDJDc01BdkNhdGUtZmY4MlM2Q1UtaWZlTHR3R0JIM0g2QklLR0VqcU9Tb0FfNVExVVJwNWF3R1V5LU5BOVdlc3o0UmNKWmoxYTRQLXlkZ2ljUlA0bjcydVBtWlJoblk5QlhxVHg0NVZLT2VYVzNKbWpiaXBnODgxVWIzMXVVTXR4QW9Tdll6RDVNWW92WjBTWDhJRmYweW93c3hqNkRfLUF4eGo4Qk1GWW5BSHpOd3d4ZnIyaTlFY3lCU0ZFQzVJdVNsdjl5SDl4ME5oajdMeWI2U0tBeWZBdmducVhoRXBlY1AzZHA3Y3ZxYU9DcE0?oc=5",
+            "published": "2026-06-25T20:44:37+00:00",
+            "snippet": "الاتحاد العمالي العام يحذر من انفجار اجتماعي كبير Al Akhbar"
+          },
+          {
+            "title": "المحكمة العليا الأميركية تمهد لإنهاء الحماية المؤقتة لمهاجرين من سوريا وهايتي - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNOGpsRHNMMnlOLU83NWJXWVoyZ2FEb3VldG1zb0dBWlFHTkJPNEF2d3R2SjhBTGFlWWR5MnlXUThDTnh4SjBvcVo3UDlQeEV4Z0QycGM2QVpPT0lUVlQ4a1ppRFpjSjZpLVB1MklPZHBpWmw5ZXFJQ093SGFrQWpTWV9aQjg3cXJPcnR5a19HeXhYMTkxWVlzTWU4Tlp1dHQzVVNoSUkwc3dmOFNMc05ueHM5Q0luUDFsc3dDRUlid2VfUU1CLXZOVEh0WWtiSl9DeHRlZDhiNGpLVzJkV1UzODRoYzY0d2JiZVJNSWx6SU42eUdEZXhDV3NOVldjUWEzOUdudmM2azd3RHpqZTdKVzM5ei1WRWZxYnU3OVhJTS1iaDNvRlQ4Y1JIWlpjNU44aWgxRFl0YmNaeDJrT0hPSnQ5UFpkYmtzd29MT0lTMG8wTERhNUYxRGRNdm9BSC0wS21UWVQyZVVIcDBmQ2NCOVFyNnNmZV9ZdG5MNFNSZVI5U2NzRjhfeWw5VGdMRDhXLTlWVVNaY0pfd1FKb1FzNnZEbm9ra2JzS0tZelhXNnpGT1JNdGQyOHlobDVyWERFR3RSRUpCMWRtbE9YRmhGRk51aXFDM29WZ18zZEFzZU1oaGEwaDVlODJrNm9VYURuNVFvSFV2MGpGV21vYW5mR3dfemN6QmtP?oc=5",
+            "published": "2026-06-25T20:16:39+00:00",
+            "snippet": "المحكمة العليا الأميركية تمهد لإنهاء الحماية المؤقتة لمهاجرين من سوريا وهايتي Al Akhbar"
+          },
+          {
+            "title": "صندوق النقد: أسعار الطاقة والسلع الأولية تراجعت بعد مذكرة التفاهم مع إيران - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOUmQ2NG4tVkFXN281UUp6aGRsYXNfdmtZeS1ldzFQSVE3Um1CSGp6MUNTdWRmRXlIVm83TmthNU1NVElTb2tQN2hJLTNNVGJ5aDNsUjhrMkEzb2lhdW5hb0xxT0ZHT2VLeENCSGxIOU9NYmpKeF9YU2N4b2dTVmkxVWd2V3N1bGU2YnVmdlFqUnJiMnpmYTNRVEpKd3ZiYWVWT3RadVhfei1XWkQxWHBmVlc0bTJJNEdkT0J1S1lZcjJUX055RGNRemZjZU9LSE13SzZjMFdPbi12U0ZOTkwzNU9BX2dhcHkxek5QSDdOaUY0UjVKU0VLQkxwNmtEZzJiZ2NJZjdaT3EzQ0ZuT3hqQ0R1QmM5ekhUUjR2S3V0ckNtMzMyTkYyMHV6ZVRNT05iaG5SaVlDclZTRXR2X0dXbGVaM3VaUm1QcVA5MlNEVWg5QlBzdGcyaFFidVBmT0dUTTJxY0NhZzJCYUdpMk5iSmE3b0w3c3dhUUpvUHJyVmUtVEI0RUtrcmdMWlNwYUowaG14OEVMZHpMeVhNZmVsNk5XOVdua2ljeWo4TEM0SWJDS19meDBOSTJZaU9RYXplaF91XzhIVE9sbnpRZlFBMWk3X0ZyQjVlZ0RrODFSaDV1Q0F6WlYwZklTSDU1TTdLemprSg?oc=5",
+            "published": "2026-06-25T20:01:07+00:00",
+            "snippet": "صندوق النقد: أسعار الطاقة والسلع الأولية تراجعت بعد مذكرة التفاهم مع إيران Al Akhbar"
+          },
+          {
             "title": "روسيا تدرس مقاضاة بريطانيا إذا باعت نفط الناقلة «سميرتوس» - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQODZwQWJuUTB4WXNIcUJqTEQ4ajZYclk2YklxNzlaYjIwcFhPRTJ6YWlOeWxMQlF0OVpfMC1tRktBOXp5OW5SSzg3aXFCM3JDSzVEUHJoLXJ3TVpzQ0RQZk9XUmM1ZUFuVUk1TzRWUXktM3M2WmJEYUJrQ2ZLWXo4UmVuOXV6Z1g4Vkkxbi1hbGtSWWVfdU1JZlVBWGFGdFdCN0MtTldFU3QwU0ctRUlOWFNsWFJkektkbTlfM3I3bWROMGNvMXlZemJzbmc0bllFWnB2LXpkQldXYW1FeURZdVY3SnpNVU93dDZabXdTaTZGRDFQWnNhNW9tSzFoa1lveEtKY1kxQ2ZtcERXTFptRlBCd3p0UHpZYzlMcVIwN0lXXzVHM2NTV2w2VWIzV2dUZkxkZHZYSzNFTlg4S1o2Mzd5c1lrelp4YUJMRm9RWml5Q2F4ZXpxN2w3Vk9nMlZlOGVQQlhjcW9MYWY4MnpLclJLLTN3THhsTzZ6Zm5MVnFpbi1rS3pXeDBEajNILXpHSDg4cjRaa19pSG02LUp0Ml9FdXp2MndHdnJlUkRBc0xXclI5RHZSRS1GUl85dW5wZU1NY29waVNsdzZxY1Z0Snh2aGUwcEltbkYwLWpHR19SUVN2QzZqUUNKSUJlOGhQNE9aXzZSZm1pd1U?oc=5",
             "published": "2026-06-25T19:33:00+00:00",
@@ -333,24 +351,6 @@
             "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQdkJoRGhYYXY3UG0tMlhkMlZZUkhKVWtvaGtUMXJwTjk0cEZtWnB2MTBCOFdMTWduUnBJSU1sYlNJbjl6YUN4dUFUQlo1WjhZWFBrcy1BN05hdE1zVEtWT01sUmlZUFVVTklMUVdpaGgwRXhUdHBodGpiaVl1OExTbEJJNWpvRmxxek5kd0c5NGJxLWNKUXFMQUJGQU1zdmVwMXNWM3lSVU9XejRFMU5ReGZkaEY5Vkk2S3dJMjRrZ3gxUVNjb0duLWE4cTRDZDFLaDVZZ21FRm5CQ0JwRzNOTzRheFBocm9IZDBsYnc3UVJyM01HTGxGd01EM3hucTRaQ1c2ajdEQm5YWFgxNnhfU3FGalFHYXBEY1IyQjFNb3REelBTYlRQZUQyX2F2dTFmYVJuWFJKQVpzVW1EQ2daOE5GaE5FLUpPY1hQXzdIaXY5dm12YUVGN21JaU9tMEh0bDlNN01uU3JfMDVyTV9lb3RSMHlqbXE3eUNTX2R4OERpdWxEUllxNE1GY2VBVS1ZUk1Td0o4YlZQM3FnR3JZb0FpQm82N0p4MEZFV253TS1nZXcyTDZYbG9GTTFkb3FOVHdyaHhmSFlacWlpSnE3T0h1by01VjRYUDFLWFhGbW1uU1BvVDQ4ZTh5YmFKZ29hbjVCdQ?oc=5",
             "published": "2026-06-25T19:14:00+00:00",
             "snippet": "البنتاغون يخصّص نحو مليار دولار لتحديث طائرات «يوم القيامة» Al Akhbar"
-          },
-          {
-            "title": "ليبرمان: تمسك نتنياهو بالسلطة يقود إسرائيل إلى «حرب أهلية» - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOZjV5Si1qNG8wUlB5TVFLekh1b29WaEliNkFoUjZvdDZ5QmlFQTVoUllLNlhUMVRlNlpsak1EcUxqTTczWVNCODdaWS1YdzZRTFRJSTJwV0RvR2t5Q3V2YmpuZVpmd0RZNmpfT3BHRDA3WXFOVHVaQjkxYlNIVjZ1S19xcXhfbnlBQVFpTFQ5Y0N3aGgySTQwYXlvdVh1VU9DMHJYRVdOSkNPQzBGdmgxelVaTGNaajlhN0tkeTdMbzk0M2pQMUVPRHNpdkZ4TC04UW1UV3R5WGtKTElwN1RmVW0wb3Z0SkhYT0NROU9nOEhHb3dCbi1nTGVSZm40TWNRQTJxc0VHYnF1RDRMYXF2dXowYmV3OGxpX0lFZUV4Xy01bDBtbDU2cHJEWUlxNVh5R3BHNkZHU2ZjMmNfQkpQYUwxc040bFJydXFWa1NPYkRIVllhVllWZmJKVzhScUxvb0RlSWZFWnREcU5DUUg5emZVcUtjR1dmemdvUnZOZWhvZVdjYnYzVHVoOE5hcHFqaVBsSW9EaWRpRFQ5eHBPeWM0Tk82eHVfdUhFdUctbksxbWxOMElGWkFRcjNsQzBHOC14Nm95ZFFPRkdiV1NwRU1xT0tRUmFrMlZR?oc=5",
-            "published": "2026-06-25T18:33:27+00:00",
-            "snippet": "ليبرمان: تمسك نتنياهو بالسلطة يقود إسرائيل إلى «حرب أهلية» Al Akhbar"
-          },
-          {
-            "title": "الاحتلال يختلق الذرائع لمهاجمة الضفة... 26 كتيبة واستعدادات عسكرية - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPWm9TTmVnWHNFS0t5YTFUWFk5ajYxeWFwZVpmOGxjbk1DeWxsRGowV1dvSHZQbE5yeWx3b0l4VGhlaE5XYXh5UUN1T3BNM1ZBR3hZczVCUTVVblhyTGFIT1loRW9wbDkxLUZoY2QwRXZ6d2hKOVBWTW81TVF4c1hxYVM4cEl5QlVpWWp1eWJIM1FDYjJ0VUZ6WWZqd3ZUMUlJV3FaUDNpVV9KbWhFVS1welNFOVlIUGdXemItOGJnNUt0WUpwU1RtblBWZ0xLNW5iTnpSV08xREFxb2EtTnhaT3ZVS2N6UUg1eDBqODJDU2Y1dlBaWm5uQXI4dWdZWlRrVEQ0TnBqcUpkVEJ3RE9DQzdOUEpOaVVOQVpzNnloSkRaNHJTVnVXN0VOYlZjcm9seFhpSm1MWDlhVVZZNGl2VER2ejVjb3NVV1ZBOFhJVTJfbG9pV3dwYmt6cGpLNW1wZDJRSTFjblliRXRpak00NE9mWGEzSGQ1X0g2OUFWSU9RM28xblNmWGRjQXN0ejBiYk50bUZnVEVTUGpVelRSRjBBTGNqMjQtTGdsYmZ6R1JodHNxa1ZIQlM5aDdFUFNGMVdxcjN6eGdlSmJ2eXFpdFFfNTVickNZSXdYNXBnYnhJbThMMVhFQWJ5VFU?oc=5",
-            "published": "2026-06-25T18:07:00+00:00",
-            "snippet": "الاحتلال يختلق الذرائع لمهاجمة الضفة... 26 كتيبة واستعدادات عسكرية Al Akhbar"
-          },
-          {
-            "title": "عراقجي والبوسعيدي يناقشان آليات الإدارة المستقبلية لمضيق هرمز - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPNVpUYTY0MWJOdHhjb0ViVEo2andKb19QUWFVUVVyMzRpNjJOYmIwZjhKb2NFSnhnc0RyTVpRNnlfVEZOS1RhWGlDeVpSXzgzUmNWbWVyODBUbGlCVUtpUEhjTGtfOWtNTkg4SThCemo3Y2NKRXc4amRsNzFxSjJpdnhXSEZUVFVNWWpwSUM1NzFEVS00Zm9IYlhIOGxJanRFMW1rMmhneDBGZDhickF5QnJHdVFQYTc3UDVoM1FiOVNMQjdaWGRDWHFxLURaZGM3cGFaQjhndkJsNEVSbjdrY2RiNlN2NjB1YldZY3YxOUV5dmVaanpkS2ZJUjZmRm8ycFQ2dV9PZm1mbThKZ2paRzdmaG1ncF9pMFkzQkNlZzBTMjZVTmtKQVI1NDUyTEdnTk1zOWtaUVlDWlV5Y2NmNHB2WjZYM01DOVRTQ0JmS2s5b2dJMU1OYmlWa05mQTBsM1Y5QnFNQ2hHakZxc245RHVFM1E0TFp6eUxBT2tKV3lDRmFMcDRmT2MycHlWSUV5NFBodVhBT01yQ2YwMTYzTm5jUHFmZzV1cVpjUzI4MU5CZ2JWY1JmOG1WTjhwQ216b00yNFRsaUlMYlZpeDNOeGJSWkViRExyVS1UZUx5NUFlSTRFUDZrVldoai1yOHZ1QmJUTFRTNExSMTU3UWdDSkpwLU1CcENK?oc=5",
-            "published": "2026-06-25T17:46:10+00:00",
-            "snippet": "عراقجي والبوسعيدي يناقشان آليات الإدارة المستقبلية لمضيق هرمز Al Akhbar"
           }
         ],
         "error": null
@@ -362,34 +362,34 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "دبابات الاحتلال الصهيوني تطلق نيرانها بشكل مكثف شرقي جباليا شمالي قطاع غزة",
+            "url": "https://www.almanar.com.lb/article/977607/",
+            "published": "2026-06-25T21:40:39+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "المتحدثة باسم الخارجية الروسية ماريا زاخاروفا: موسكو تواصل تحذير واشنطن بشأن خطورة نقل الأسلحة إلى كييف",
+            "url": "https://www.almanar.com.lb/article/977597/",
+            "published": "2026-06-25T21:38:42+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "أمين عام الناتو يأسف لشراء بعض دول الحلف أسلحة من خارج المنظومة",
+            "url": "https://www.almanar.com.lb/article/977582/",
+            "published": "2026-06-25T21:37:58+00:00",
+            "snippet": "أعرب الأمين العام لحلف الناتو مارك روته، عن أسفه لقيام بعض الدول الأعضاء في الحلف بشراء أسلحة من دول خارج المنظومة."
+          },
+          {
+            "title": "وزير خارجية كيان العدو “جدعون ساعر”: على خلفية الأزمة المتصاعدة مع تركيا سأقدم للحكومة مقترح قرار رسمي للاعتراف بـ “الإبادة الجماعية للأرمن”",
+            "url": "https://www.almanar.com.lb/article/977572/",
+            "published": "2026-06-25T21:26:30+00:00",
+            "snippet": ""
+          },
+          {
             "title": "تقرير مصور | اليمن يحيي عاشوراء ويجدد ثباته على نهج كربلاء",
             "url": "https://www.almanar.com.lb/article/977557/",
             "published": "2026-06-25T21:20:38+00:00",
             "snippet": "اليمن يحيي ذكرى عاشوراء ويجدد الموقف مع محور المقاومة على نهج كربلاء."
-          },
-          {
-            "title": "اعلام العدو: هبوط أكثر من مروحية إنقاذ عسكرية في المستشفيات الإسرائيلية قادمة من جنوب لبنان",
-            "url": "https://www.almanar.com.lb/article/977487/",
-            "published": "2026-06-25T20:57:26+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "اعلام العدو: حدث أمني في بيت ياحون: قتيل وجرحى إسرائيليون ومروحيات إخلاء إلى حيفا",
-            "url": "https://www.almanar.com.lb/article/977502/",
-            "published": "2026-06-25T20:56:48+00:00",
-            "snippet": "اعلنت وسائل إعلام العدو ان سحب الإصابات من جنوب لبنان استغرق وقتًا طويلاً وافادت عن هبوط مروحية إنقاذ عسكرية في مستشفى رمبام في حيفا."
-          },
-          {
-            "title": "تقرير مصور | في ملف الامتحانات الرسمية: خياران أمام طلاب الترمينال والبكالوريا الفنية",
-            "url": "https://www.almanar.com.lb/article/977497/",
-            "published": "2026-06-25T20:52:03+00:00",
-            "snippet": "في ملف الامتحانات الرسمية، الحكومة تخير طلاب الترمينال والبكالوريا الفنية بين الإفادات المشروطة والشهادات."
-          },
-          {
-            "title": "المقاومة الاسلامية: للمرة الثالثة.. العدو انتهك وقف إطلاق النار الذي التزمنا به حتى الآن",
-            "url": "https://www.almanar.com.lb/article/977477/",
-            "published": "2026-06-25T20:49:50+00:00",
-            "snippet": "قالت المقاومة الإسلامية في بيان لها مساء الخميس “تعمد جيش العدو الإسرائيلي مجدداً استهداف مواطِنين لبنانِيين كانوا في طريقهم لتفقد بيوتهم على طريق زوطر الشرقية ميفدون بذريعة أنهم كانوا يشكلون تهديداً على قواته المحتلة”."
           }
         ],
         "error": null
@@ -678,6 +678,24 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
+            "title": "Quds force commander demands Israel leave Lebanon as Iran's deputy FM threatens Italy, Romania",
+            "url": "https://www.jpost.com/middle-east/iran-news/article-900560",
+            "published": "2026-06-26T00:00:46+00:00",
+            "snippet": "\"You Zionists must leave all of Lebanon. This land is the arena of resistance and steadfastness, not a playground for occupiers,\" he demanded in a social media post."
+          },
+          {
+            "title": "'A minister who destroys': Bedouin protest Ben-Gvir over demolition of illegal homes in Negev",
+            "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900552",
+            "published": "2026-06-25T23:48:17+00:00",
+            "snippet": "The demonstration came in the wake of comments made the previous day by Ben-Gvir, saying that he would continue demolishing “more and more and more illegally built homes in the Negev."
+          },
+          {
+            "title": "Venezuela reels from earthquake disaster as rescuers race to find survivors",
+            "url": "https://www.jpost.com/international/article-900586",
+            "published": "2026-06-25T23:09:08+00:00",
+            "snippet": "Residents of La Guaira, a popular spot for beachgoers and the worst-hit city in the country, and Moron, near the quakes' epicenter, were scrambling amid limited official help."
+          },
+          {
             "title": "Trump hints at plan to help modernize Turkey's airforce, reviewing giving Erdogan F-35 fighter jets",
             "url": "https://www.jpost.com/international/article-900576",
             "published": "2026-06-25T21:58:22+00:00",
@@ -688,24 +706,6 @@
             "url": "https://www.jpost.com/middle-east/article-900574",
             "published": "2026-06-25T21:48:21+00:00",
             "snippet": "Rubio was in the UAE and then Kuwait. The visits to Kuwait, Bahrain, and the UAE are important, as these countries were attacked by Iran during the latest conflict."
-          },
-          {
-            "title": "Likud MK: Netanyahu expected to work 'behind closed doors’ for influence over list - interview",
-            "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900570",
-            "published": "2026-06-25T21:31:45+00:00",
-            "snippet": "Halevi is a member of the Likud Constitution Committee, which will hold a vote on changing the primary system in a way that could grant Netanyahu authority to select candidates for the highest slots."
-          },
-          {
-            "title": "Yitzhar resident indicted after armed sheep search erupts into violence in Huwara, West Bank",
-            "url": "https://www.jpost.com/israel-news/crime-in-israel/article-900567",
-            "published": "2026-06-25T20:53:37+00:00",
-            "snippet": "Cohen is not charged with carrying out the beating. The indictment says he pulled the helmeted passenger away while he was punching one of the victims."
-          },
-          {
-            "title": "Israel Navy hosts German delegation, vessel at Haifa Naval Base",
-            "url": "https://www.jpost.com/israel-news/defense-news/article-900558",
-            "published": "2026-06-25T20:32:33+00:00",
-            "snippet": "The Israel Navy hosted a German delegation in Haifa, where both sides conducted a Passing Exercise and discussed expanding naval collaboration."
           }
         ],
         "error": null
