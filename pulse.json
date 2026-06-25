@@ -1,15 +1,21 @@
 {
-  "updated": "2026-06-25T19:30:18.058374+00:00",
+  "updated": "2026-06-25T19:59:11.835206+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 18,
+      "count": 19,
       "headlines": [
         {
           "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-says-prices-have-eased-us-iran-agreement-gulf-trade-remains",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -55,12 +61,6 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "US says wants deal with Iran, but not 'at any price'",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUc0ZlZoRlNDbW5JTDdqRTR2TEd1bmRCSFNpUlZraG9UVEFQNVd4UjFzRWFaWDlmTmw2NzBQb2xiWTl5YzhfR3E4SnJkSlpfTHhBQ1lOSm5MU3pNVWVkakxueGdaVWlvcXFMNkdBMTlHc2dkUmRSekxpanBiNVBpM1lDY1QyZlRGVC1CRVB3?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
           "title": "Rubio in Middle East tour says any Iran deal will ensure security of Gulf allies",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
           "source": "L'Orient Today",
@@ -85,8 +85,8 @@
           "region": "Gulf"
         },
         {
-          "title": "Vance announces unprecedented CENTCOM-IRGC talks aimed at reducing military tensions",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900563",
+          "title": "Gulf countries weigh next steps after Iran war amid Rubio visit to Bahrain, Kuwait, UAE",
+          "url": "https://www.jpost.com/middle-east/article-900574",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
@@ -112,6 +112,12 @@
           "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
           "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
           "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
           "region": "Iran"
         }
       ]
@@ -151,6 +157,12 @@
           "region": "Iran"
         },
         {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
           "title": "Our patience shapes future, overturns equations: Qassem",
           "url": "https://en.mehrnews.com/news/245608/Our-patience-shapes-future-overturns-equations-Qassem",
           "source": "Mehr News",
@@ -173,18 +185,12 @@
           "url": "https://en.mehrnews.com/news/245603/China-expo-highlights-supply-chain-resilience",
           "source": "Mehr News",
           "region": "Iran"
-        },
-        {
-          "title": "China Focus: 2026 Summer Davos",
-          "url": "https://en.mehrnews.com/news/245602/China-Focus-2026-Summer-Davos",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
     {
       "term": "Venezuela",
-      "count": 8,
+      "count": 9,
       "headlines": [
         {
           "title": "‘Concrete breaking off walls’: Survivors describe Venezuela’s earthquakes",
@@ -220,6 +226,12 @@
           "title": "Minister of State at Ministry of Foreign Affairs holds phone call with Foreign Minister of Venezuela",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVkhqbGJKVWgzWmNsX0t4bURDYjJ0Y2VCd0kxYXZmUmVCdXc2WE56YnVzVFRZVFdOal9xYk5BcEQ4cVpLLWpBMVExZHhGV01kTldzZW43UldVRktLSGhiLUVqRWNidEFtcGljUVJBQkdvYVlpTUtVQ1lGckdsOHNaWjRCTkhsR2FwdTRENVFmNVdQVC1zaW5DNGlsRmVWbnNUX01oSVBGRTlJaXktaDljMGJWTWhzbnRsWlgtenNPTzFFeTgzdFA3c1hUbFFUa2xHNFBuN2lXQnZ6UmFYVk1ocHBR0gHnAUFVX3lxTE8yX2I3V0RRRUJZbk96SnZxckcxUXgtQlJoYTRRNmpuRHVVdjVOVTFRZnhSM3gzazVoVXgtSUpYbFR5U0pBTnVHOWNpUFA4WVZkYmE1MlU0WnpMd2ZwbXBPYUVvbE1BOGk4NDNNUEIxa3BsczlpN0VETU5hWWJuaGhjNzFyanFkRThRVW1FV1U2d2NqNmJndlo2T3piQXkyVDZxanhFQUJ4VWN4MVFNSFdRRGp2QWxRRV9RQ2p5cVR2V2FUQjY4ZGZ1ZzZ4RDBhU2FyYUZBa0RMNWNLeGxiSm1YaGNmZlFYaw?oc=5",
           "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "At least 164 dead, 971 injured as quakes rock Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDYwa3pteS1OQ1dhRFpTc1lhSERqV2Q4eExLN0VLQ0hMRWRDM204dVpkLWpTb1lVcFF2NWtWMVowU2Juc2RjcDNRWHRCejJYNW5vUTltREdqaWg2LXFRVVBRYXM2YzdWUGhrOTBkY0gzZDdhdFJzUG92WmdSQ0pIVTVRZDdMYUI5NndzY0c0eVRJQ2xsS2laeA?oc=5",
+          "source": "Times of Oman",
           "region": "Gulf"
         },
         {
@@ -291,6 +303,54 @@
       ]
     },
     {
+      "term": "war",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Majority of US voters think Iran war 'not worth it', new poll finds",
+          "url": "https://www.middleeasteye.net/news/majority-us-voters-think-iran-war-not-worth-it-new-poll-finds",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "What kind of Iran will emerge from the US-Israeli war?",
+          "url": "https://www.newarab.com/analysis/what-kind-iran-will-emerge-us-israeli-war",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Gulf countries weigh next steps after Iran war amid Rubio visit to Bahrain, Kuwait, UAE",
+          "url": "https://www.jpost.com/middle-east/article-900574",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "A Collapsing Society: Israel Suffers a National Mental Crisis Due to the War",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOTTJtT3B1di15dHQ5Tlp0d1JKckpvYk1PSlJWcGdWTHVQV0c5Qi16Z0dPYWdKXzNqbkNYbnltQmhFSEhIN0JkZ1NqVTZQbUs3SmNxMENnTWJZeHBMYlhYRXQyejdyN2JTU1ptbnZrS3JpaWNJcjJkTW5udGR1WkJBTWVGM2hWT3B4b013Y2NYYVgybks3U3lGZ0VCUGVjMFJ0VFc0bEpsOU9hOHJMeUVTYWhPZ18wYXpuZjJBQTZ6ZW01bVVGWTN4d3c5NDAzdEo4cm9teUxRaDBRdE4zR2lQV005M2phcmVWRElvdWphRGdRYWRoN0xxcjBfTXpLcmdQdHVobUZ1Rk1WYWRGcW1pVzRCWG9aamFMSXNGT3E5Nm5QcExuZTc0OG9R?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
+          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Lebanon",
       "count": 7,
       "headlines": [
@@ -339,8 +399,8 @@
       ]
     },
     {
-      "term": "war",
-      "count": 6,
+      "term": "Strait of Hormuz",
+      "count": 5,
       "headlines": [
         {
           "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
@@ -349,34 +409,28 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Majority of US voters think Iran war 'not worth it', new poll finds",
-          "url": "https://www.middleeasteye.net/news/majority-us-voters-think-iran-war-not-worth-it-new-poll-finds",
+          "title": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-says-prices-have-eased-us-iran-agreement-gulf-trade-remains",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "What kind of Iran will emerge from the US-Israeli war?",
-          "url": "https://www.newarab.com/analysis/what-kind-iran-will-emerge-us-israeli-war",
-          "source": "The New Arab",
+          "title": "Cargo ship hit by unidentified projectile in Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cargo-ship-hit-unidentified-projectile-strait-hormuz",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
-          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
-          "source": "Al Mayadeen",
+          "title": "IRGC warns ships to use Iran-approved routes through Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-ships-use-iran-approved-routes-through-strait-hormuz",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "A Collapsing Society: Israel Suffers a National Mental Crisis Due to the War",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOTTJtT3B1di15dHQ5Tlp0d1JKckpvYk1PSlJWcGdWTHVQV0c5Qi16Z0dPYWdKXzNqbkNYbnltQmhFSEhIN0JkZ1NqVTZQbUs3SmNxMENnTWJZeHBMYlhYRXQyejdyN2JTU1ptbnZrS3JpaWNJcjJkTW5udGR1WkJBTWVGM2hWT3B4b013Y2NYYVgybks3U3lGZ0VCUGVjMFJ0VFc0bEpsOU9hOHJMeUVTYWhPZ18wYXpuZjJBQTZ6ZW01bVVGWTN4d3c5NDAzdEo4cm9teUxRaDBRdE4zR2lQV005M2phcmVWRElvdWphRGdRYWRoN0xxcjBfTXpLcmdQdHVobUZ1Rk1WYWRGcW1pVzRCWG9aamFMSXNGT3E5Nm5QcExuZTc0OG9R?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
-          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Shipping giant says stranded vessels have left Gulf after Hormuz closure",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shipping-giant-says-stranded-vessels-have-left-gulf-after-hormuz-closure",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -384,6 +438,12 @@
       "term": "MNA",
       "count": 5,
       "headlines": [
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
         {
           "title": "Our patience shapes future, overturns equations: Qassem",
           "url": "https://en.mehrnews.com/news/245608/Our-patience-shapes-future-overturns-equations-Qassem",
@@ -407,23 +467,17 @@
           "url": "https://en.mehrnews.com/news/245603/China-expo-highlights-supply-chain-resilience",
           "source": "Mehr News",
           "region": "Iran"
-        },
-        {
-          "title": "China Focus: 2026 Summer Davos",
-          "url": "https://en.mehrnews.com/news/245602/China-Focus-2026-Summer-Davos",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
     {
-      "term": "Strait of Hormuz",
+      "term": "United",
       "count": 4,
       "headlines": [
         {
-          "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-says-prices-have-eased-us-iran-agreement-gulf-trade-remains",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -439,10 +493,40 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Shipping giant says stranded vessels have left Gulf after Hormuz closure",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shipping-giant-says-stranded-vessels-have-left-gulf-after-hormuz-closure",
+          "title": "Oman supports US-Iran diplomatic progress to secure regional peace",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmcyV3BlSWhQVHgxNy1mZ1M1TEFLTzNZd0hqNGRJMDNkR2p2UWVteVdVcGVPdnRKc0VHeXJrTzI4Y0FURDZ2VzU2MzJ5T3pHZ0tqcnlNRW02THBQaE9fREpReG9IdDhILWx4OW1qczJDbEppTGkyZHloektsU2xPMlo1enFfdFdVbDJRYk1zRVc4VVFRb21XYk5lRnZ6ZmNHS0tRdndzOXg?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "IRGC",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "IRGC warns ships to use Iran-approved routes through Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-ships-use-iran-approved-routes-through-strait-hormuz",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel must withdraw entirely from Lebanon, Iran’s IRGC says",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlVPcWQxZmVSODVESFdzbFgtSDVaWmpEbWJrN2NrX19YLV9OSjRqZDlMdjdLT1ZzdzV1cTk5WGVkVEZacGFwWHFDLUxlN0J6c3ZCVXpnSnhSblQ1UzNiQUFiSzQxZVVLYk9iVENqOVZuQnhLWTlJaDUwbHQxa05xTW1DMzJPSS1xV0lWeDZadE93OWctbEY5a3JqWV9zRGpEZ3RMNWo0bDBHWTJhZ1FFZzVtc3Z2YkxhVFhWZC00Y9IBvwFBVV95cUxNTlVPcWQxZmVSODVESFdzbFgtSDVaWmpEbWJrN2NrX19YLV9OSjRqZDlMdjdLT1ZzdzV1cTk5WGVkVEZacGFwWHFDLUxlN0J6c3ZCVXpnSnhSblQ1UzNiQUFiSzQxZVVLYk9iVENqOVZuQnhLWTlJaDUwbHQxa05xTW1DMzJPSS1xV0lWeDZadE93OWctbEY5a3JqWV9zRGpEZ3RMNWo0bDBHWTJhZ1FFZzVtc3Z2YkxhVFhWZC00Yw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Live updates • VP Vance says U.S. agreed to a 'direct channel' with the IRGC to settle disputes",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOaTV4TUlabTJzYzN6VHItdEhNTlRlNFA3ckxWUi1zSmh5RFhHNFJEWDQwMlNaMlVIVFVKdFFndThYTlA2YnhibTZJRFhlbHZyOVo4X29wUVdRTkV5ck9sMGlRRGN6M1AzSEhSSnljUHB1ZjFLSm5UWDdNUDhLVjR0V3l1bU5DLXFxYVNseW1ESFFBdjNoZ0NsVDdBeUV2aG9NWndkMWhQc21JT0h2UlZnYVZjeHBXQ1RUQkxUYVdGaDZaOFhsZ0dJNFRwTEZuTEk5N1NNUmRwTWUyZ3RFVHhsY2V6eE5aTlo5dU8zOTZ1SHBWbTdrdklEOThKcE1oVzVZNnFoZF9UQ1Z4WGVqRUlUbzcxS2Q5U2xXbXFrb1hhYw?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -507,25 +591,25 @@
       ]
     },
     {
-      "term": "United",
+      "term": "agreement",
       "count": 3,
       "headlines": [
         {
-          "title": "Cargo ship hit by unidentified projectile in Strait of Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cargo-ship-hit-unidentified-projectile-strait-hormuz",
+          "title": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-says-prices-have-eased-us-iran-agreement-gulf-trade-remains",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "IRGC warns ships to use Iran-approved routes through Strait of Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-ships-use-iran-approved-routes-through-strait-hormuz",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Egypt signs historic agreement to establish 1st wind turbine factory",
+          "url": "https://www.egyptindependent.com/egypt-signs-historic-agreement-to-establish-1st-wind-turbine-factory/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         },
         {
-          "title": "Oman supports US-Iran diplomatic progress to secure regional peace",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmcyV3BlSWhQVHgxNy1mZ1M1TEFLTzNZd0hqNGRJMDNkR2p2UWVteVdVcGVPdnRKc0VHeXJrTzI4Y0FURDZ2VzU2MzJ5T3pHZ0tqcnlNRW02THBQaE9fREpReG9IdDhILWx4OW1qczJDbEppTGkyZHloektsU2xPMlo1enFfdFdVbDJRYk1zRVc4VVFRb21XYk5lRnZ6ZmNHS0tRdndzOXg?oc=5",
-          "source": "Times of Oman",
+          "title": "KSrelief signs agreement to boost medical infrastructure in Sudan",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNEYwS3R5WklEX0d3ZTA5M3dfX2ZaOTF5NlRGaW51bjhxV1FfRXJKa0huMC13d1FOMDF5TjFvX25jV3dVM1FvZmhqdnFTMFJCZlVV?oc=5",
+          "source": "Arab News",
           "region": "Gulf"
         }
       ]
@@ -551,30 +635,6 @@
           "url": "https://en.mehrnews.com/news/245606/Ship-hit-by-unknown-projectile-off-Oman-coasts",
           "source": "Mehr News",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "IRGC",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "IRGC warns ships to use Iran-approved routes through Strait of Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-ships-use-iran-approved-routes-through-strait-hormuz",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel must withdraw entirely from Lebanon, Iran’s IRGC says",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlVPcWQxZmVSODVESFdzbFgtSDVaWmpEbWJrN2NrX19YLV9OSjRqZDlMdjdLT1ZzdzV1cTk5WGVkVEZacGFwWHFDLUxlN0J6c3ZCVXpnSnhSblQ1UzNiQUFiSzQxZVVLYk9iVENqOVZuQnhLWTlJaDUwbHQxa05xTW1DMzJPSS1xV0lWeDZadE93OWctbEY5a3JqWV9zRGpEZ3RMNWo0bDBHWTJhZ1FFZzVtc3Z2YkxhVFhWZC00Y9IBvwFBVV95cUxNTlVPcWQxZmVSODVESFdzbFgtSDVaWmpEbWJrN2NrX19YLV9OSjRqZDlMdjdLT1ZzdzV1cTk5WGVkVEZacGFwWHFDLUxlN0J6c3ZCVXpnSnhSblQ1UzNiQUFiSzQxZVVLYk9iVENqOVZuQnhLWTlJaDUwbHQxa05xTW1DMzJPSS1xV0lWeDZadE93OWctbEY5a3JqWV9zRGpEZ3RMNWo0bDBHWTJhZ1FFZzVtc3Z2YkxhVFhWZC00Yw?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Live updates • VP Vance says U.S. agreed to a 'direct channel' with the IRGC to settle disputes",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOaTV4TUlabTJzYzN6VHItdEhNTlRlNFA3ckxWUi1zSmh5RFhHNFJEWDQwMlNaMlVIVFVKdFFndThYTlA2YnhibTZJRFhlbHZyOVo4X29wUVdRTkV5ck9sMGlRRGN6M1AzSEhSSnljUHB1ZjFLSm5UWDdNUDhLVjR0V3l1bU5DLXFxYVNseW1ESFFBdjNoZ0NsVDdBeUV2aG9NWndkMWhQc21JT0h2UlZnYVZjeHBXQ1RUQkxUYVdGaDZaOFhsZ0dJNFRwTEZuTEk5N1NNUmRwTWUyZ3RFVHhsY2V6eE5aTlo5dU8zOTZ1SHBWbTdrdklEOThKcE1oVzVZNnFoZF9UQ1Z4WGVqRUlUbzcxS2Q5U2xXbXFrb1hhYw?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
         }
       ]
     },
@@ -627,54 +687,6 @@
       ]
     },
     {
-      "term": "Palestinians",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "US and Gulf states say Palestinians must not be forced out of Gaza",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-gulf-states-say-palestinians-must-not-be-forced-out-gaza",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gaza ceasefire talks return to square one amid escalation fears",
-          "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "US and Gulf states say Palestinians must not be forced out of Gaza",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-gulf-states-say-palestinians-must-not-be-forced-out-gaza",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gaza ceasefire talks return to square one amid escalation fears",
-          "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Palestinian",
       "count": 3,
       "headlines": [
@@ -723,6 +735,30 @@
       ]
     },
     {
+      "term": "NATO",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Turkish journalists denied accreditation for Ankara NATO summit",
+          "url": "https://www.newarab.com/news/turkish-journalists-denied-accreditation-ankara-nato-summit",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
+          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Secretary",
       "count": 3,
       "headlines": [
@@ -743,6 +779,102 @@
           "url": "https://en.mehrnews.com/news/245608/Our-patience-shapes-future-overturns-equations-Qassem",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Rubio",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Rubio in Middle East tour says any Iran deal will ensure security of Gulf allies",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Gulf countries weigh next steps after Iran war amid Rubio visit to Bahrain, Kuwait, UAE",
+          "url": "https://www.jpost.com/middle-east/article-900574",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Trump",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "How Trump caused the biggest oil shock in history and got away with it – for now",
+          "url": "https://www.egyptindependent.com/how-trump-caused-the-biggest-oil-shock-in-history-and-got-away-with-it-for-now/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Trump hints at plan to help modernize Turkey's airforce, reviewing giving Erdogan F-35 fighter jets",
+          "url": "https://www.jpost.com/international/article-900576",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Three",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Adnoc Drilling activates AI-powered rig three months ahead of schedule",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTE1PYzNoTEN1T1lpMEdzR2FtU2RqZ0FYU0ljM09SY3RfcWlNbklrWHVvNlR6S3lwOUV4UU9mb3R1bUd0ZGF1ZGRaX3FzeVZhQ2xHYlJmSGc2a0ZBUWV2Q1ROVnlKdnhqVE5zTXByX21VRThhM0NIRnFreU5XbXB0d1lYUDVzbnZjSmRnNDRmOHVqVU8ycHU1QXY2WnB5bjZFMU9IbzdCcXNoT1Rud0wzZ3lZbV9qUkpwNTFla01WRXVFc3ZYSE1uNHBn?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Three killed in Israeli drone strike on vehicle in south Lebanon, reports say",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUDlwVGxzUXhIZzNleGZqUVI2d1RZaGFWZFpJWW00dUZKWmIzbkVQZnFSamlGQnp4UG1NY2JVckZsRG9yMnkxX0tFbUhuNkpHSW9CTE1Id2w2bTJPaGh4ellTZTB4TEpFMXA1eDE5V0psaUwxdEVKcEEwX2QtbUlEajZjM3JFNGhBcWM5NnV3bV93YmhhMW4tMGxHVVdHcEtmNkt1WWQwYWtSblFjb0FXa09LbTlfZmxPSTJZRnpNSERfRDhXNDdIZEZiWWszUzZ4N3FOOGJyWmFxU01remlueTIzSjQxSkFjUWJEWXctMG55QTZhVk9Za3FwT0lDeDJIU2FpSUE5OTNUSTFqZllIc2VCVXdZalRROFQ5azIxTnMteGM?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "UAE",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Flying to India from UAE? You must now fill a mandatory health declaration form before boarding",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnhMTHdTX2JZSmhoN3E2M2lvenV6SEpJeWpsOEhhLUJBejRJeHNhUmxtQlJJZmFmTGZFZ0pSeUFxeUZMUlgxUTNDeGpkMFNQRUlBQlNITEgzUllEMm1WeFpQbG1UZTczdVA4bHh2VmNUS3dxdGJrSWY2em0wTUxWejFXR3BYM2JuWnN5bUJsXzNEWjNMXzZzNmJJR01XQ0I0ODJXTnRUU0dPX0djLTE4UHZxcmh5RUJuVm4xUDlJenFlN0JWYnc?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "UAE expands visa-on-arrival scheme to citizens of six countries",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUklMM3AwR1NhWWV2V2MtVXFYMThTc3BmaHY3Njk2SnZGNGFkUHZnaDFYcmpGVXFFYnlRMWp6a0JySlY0YmlVUE1YUU9CZlFHb0hJYnJUOEgxOUp5QW1fb3JtSWdSTVZDT3phdnNKcGUxTmViR09ZUGpiVHRTOElWZFJJd1lZazZhc01UR1dZRlE4ejZtMjAtQ1BOY2lIRS1FT2RhYUZZaDNHLU0yVkVMQdIBwwFBVV95cUxNYUY3STNkcVhGbVJ6bnE2eFRiemxSRTJXMFg5Vm94ZGJKWXA5SS1vNmItb01EaVlhYTZ3MHpIQWtwWFF6NjVCSll2a2V1b0ZKWFR5bVI1XzhGbkNlVnRITGUyV3FPbWNFWmt4SXRsSUJmb01MSktfQlMxbXozOW9wWG5ackpsYm5vWWJGZ284Sl92S3ZjcTdDR2ZLcFJLZk9yNDJRQ1JnckVTUTlCeEhWWk1MUE1SN2Fra2RHXzJ1ZUhCV2s?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Gulf countries weigh next steps after Iran war amid Rubio visit to Bahrain, Kuwait, UAE",
+          "url": "https://www.jpost.com/middle-east/article-900574",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     },
@@ -801,19 +933,109 @@
       ]
     },
     {
-      "term": "genocide",
+      "term": "US-Iran",
       "count": 2,
       "headlines": [
         {
-          "title": "US and Gulf states say Palestinians must not be forced out of Gaza",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-gulf-states-say-palestinians-must-not-be-forced-out-gaza",
+          "title": "IMF says prices have eased since US-Iran agreement but Gulf trade remains disrupted",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-says-prices-have-eased-us-iran-agreement-gulf-trade-remains",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Analysis • FlagGate: How Israel set off a storm by hosting a separatist genocide denier",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZW5XSWthdTJPbTkwUkprdEMxSmQ2RnQweW5iTDVyWnV5OHFMZ0QxcXRMLUNMRGhXdEFGVWNLaVQxeUp4SUk5ZlM0SlVQcXlZSXpEc2FsNGFDdEJCZjg0bG9sZ215Y1MtMHpteTFPb0hUZndfYmFFUUJib05FdmRIWGR6T19qclgzZkNNY3RGR2k2UEpEbmVaLVVZYm9sYkg2NDJGazItVGF5aDZINTdOSHMtZlBLVXBOZEU5bGNtcm9XN2djbGtubzh5V1NYWUN1N19rZ1V3dk9TTFllRVdtUWdMVElFaGJ3WWdjMVZwMjQ4SGJkZmd4elU3NTRuR2tYVUtPZ2szUEgtWUUyWTRxMm5UZ1BfTnM?oc=5",
-          "source": "Haaretz",
+          "title": "Oman supports US-Iran diplomatic progress to secure regional peace",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmcyV3BlSWhQVHgxNy1mZ1M1TEFLTzNZd0hqNGRJMDNkR2p2UWVteVdVcGVPdnRKc0VHeXJrTzI4Y0FURDZ2VzU2MzJ5T3pHZ0tqcnlNRW02THBQaE9fREpReG9IdDhILWx4OW1qczJDbEppTGkyZHloektsU2xPMlo1enFfdFdVbDJRYk1zRVc4VVFRb21XYk5lRnZ6ZmNHS0tRdndzOXg?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Revolutionary Guard",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "IRGC warns ships to use Iran-approved routes through Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-ships-use-iran-approved-routes-through-strait-hormuz",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Islamic",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "IRGC warns ships to use Iran-approved routes through Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-ships-use-iran-approved-routes-through-strait-hormuz",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Corps",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "IRGC warns ships to use Iran-approved routes through Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-ships-use-iran-approved-routes-through-strait-hormuz",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Hormuz",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Shipping giant says stranded vessels have left Gulf after Hormuz closure",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shipping-giant-says-stranded-vessels-have-left-gulf-after-hormuz-closure",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "West Bank",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckRQSmNTU25hM3dyUi1EMnpYUjlMTng0ZDZRZUxiS3BZRWZaUDFXYVgwSEc1dDlPUTBFZ3Zsd0t1eG5kRU5Bck14UlBZMldNX3J3eTBfQmtwRWRrMDRleXp5cmhHV29SUkE5U1hxR2FBeHdGRUFuNUYzbGp1dW5NUW9EaGdieV80czQwdDgyZjZxNFpTcFZXWDUxdUxpS0RLdXh3WTZpQ2JOWWNheDQ1Y09WbHIzdHhDSi1NcXF5ZDBkZU01MUlFWGVR0gHKAUFVX3lxTE9yRFBKY1NTbmEzd3JSLUQyelhSOUxOeDRkNlFlTGJLcFlFZlpQMVdhWDBIRzV0OU9RMEVndmx3S3V4bmRFTkFyTXhSUFkyV01fcnd5MF9Ca3BFZGswNGV5enlyaEdXb1JSQTlTWHFHYUF4d0ZFQW41RjNsanV1bk1Rb0RoZ2J5XzRzNDB0ODJmNnE0WlNwVldYNTF1TGlLREt1eHdZNmlDYk5ZY2F4NDVjT1ZscjN0eENKLU1xcXlkMGRlTTUxSUVYZVE?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Yitzhar resident indicted after armed sheep search erupts into violence in Huwara, West Bank",
+          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-900567",
+          "source": "Jerusalem Post",
           "region": "Israel"
         }
       ]
@@ -855,7 +1077,7 @@
       ]
     },
     {
-      "term": "talks",
+      "term": "Gaza",
       "count": 2,
       "headlines": [
         {
@@ -865,10 +1087,28 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Vance announces unprecedented CENTCOM-IRGC talks aimed at reducing military tensions",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900563",
-          "source": "Jerusalem Post",
-          "region": "Israel"
+          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Palestinians",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Gaza ceasefire talks return to square one amid escalation fears",
+          "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         }
       ]
     },
@@ -886,24 +1126,6 @@
           "title": "Our patience shapes future, overturns equations: Qassem",
           "url": "https://en.mehrnews.com/news/245608/Our-patience-shapes-future-overturns-equations-Qassem",
           "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "NATO",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
-          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
-          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
-          "source": "IRNA",
           "region": "Iran"
         }
       ]
@@ -945,24 +1167,6 @@
       ]
     },
     {
-      "term": "Rubio",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Rubio in Middle East tour says any Iran deal will ensure security of Gulf allies",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
-          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "OPEC",
       "count": 2,
       "headlines": [
@@ -981,25 +1185,7 @@
       ]
     },
     {
-      "term": "agreement",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Egypt signs historic agreement to establish 1st wind turbine factory",
-          "url": "https://www.egyptindependent.com/egypt-signs-historic-agreement-to-establish-1st-wind-turbine-factory/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "KSrelief signs agreement to boost medical infrastructure in Sudan",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNEYwS3R5WklEX0d3ZTA5M3dfX2ZaOTF5NlRGaW51bjhxV1FfRXJKa0huMC13d1FOMDF5TjFvX25jV3dVM1FvZmhqdnFTMFJCZlVV?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
+      "term": "Netanyahu",
       "count": 2,
       "headlines": [
         {
@@ -1009,10 +1195,28 @@
           "region": "Levant"
         },
         {
+          "title": "Likud MK: Netanyahu expected to work 'behind closed doors’ for influence over list - interview",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900570",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "oil",
+      "count": 2,
+      "headlines": [
+        {
           "title": "How Trump caused the biggest oil shock in history and got away with it – for now",
           "url": "https://www.egyptindependent.com/how-trump-caused-the-biggest-oil-shock-in-history-and-got-away-with-it-for-now/",
           "source": "Egypt Independent",
           "region": "Levant"
+        },
+        {
+          "title": "Three ships reverse course in Hormuz after IRGC warning",
+          "url": "https://en.mehrnews.com/news/245609/Three-ships-reverse-course-in-Hormuz-after-IRGC-warning",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -1071,24 +1275,6 @@
       ]
     },
     {
-      "term": "UAE",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Flying to India from UAE? You must now fill a mandatory health declaration form before boarding",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnhMTHdTX2JZSmhoN3E2M2lvenV6SEpJeWpsOEhhLUJBejRJeHNhUmxtQlJJZmFmTGZFZ0pSeUFxeUZMUlgxUTNDeGpkMFNQRUlBQlNITEgzUllEMm1WeFpQbG1UZTczdVA4bHh2VmNUS3dxdGJrSWY2em0wTUxWejFXR3BYM2JuWnN5bUJsXzNEWjNMXzZzNmJJR01XQ0I0ODJXTnRUU0dPX0djLTE4UHZxcmh5RUJuVm4xUDlJenFlN0JWYnc?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "UAE expands visa-on-arrival scheme to citizens of six countries",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUklMM3AwR1NhWWV2V2MtVXFYMThTc3BmaHY3Njk2SnZGNGFkUHZnaDFYcmpGVXFFYnlRMWp6a0JySlY0YmlVUE1YUU9CZlFHb0hJYnJUOEgxOUp5QW1fb3JtSWdSTVZDT3phdnNKcGUxTmViR09ZUGpiVHRTOElWZFJJd1lZazZhc01UR1dZRlE4ejZtMjAtQ1BOY2lIRS1FT2RhYUZZaDNHLU0yVkVMQdIBwwFBVV95cUxNYUY3STNkcVhGbVJ6bnE2eFRiemxSRTJXMFg5Vm94ZGJKWXA5SS1vNmItb01EaVlhYTZ3MHpIQWtwWFF6NjVCSll2a2V1b0ZKWFR5bVI1XzhGbkNlVnRITGUyV3FPbWNFWmt4SXRsSUJmb01MSktfQlMxbXozOW9wWG5ackpsYm5vWWJGZ284Sl92S3ZjcTdDR2ZLcFJLZk9yNDJRQ1JnckVTUTlCeEhWWk1MUE1SN2Fra2RHXzJ1ZUhCV2s?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "nuclear",
       "count": 2,
       "headlines": [
@@ -1107,110 +1293,20 @@
       ]
     },
     {
-      "term": "Herzog",
+      "term": "Bahrain",
       "count": 2,
       "headlines": [
         {
-          "title": "IDF helicopter carrying Herzog makes emergency landing after hitting bird, none injured",
-          "url": "https://www.jpost.com/israel-news/article-900565",
+          "title": "GCC security is indivisible, Iran must be prevented from acquiring nuclear weapons, says Bahrain’s Foreign Minister",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbDVlZkdaZDBOSzl2NmN4UW11UzNSQk8yeU45WXFFdm5aOFBCQnF0REEtT3cwMl9SVmJ6RXNOUHo4dE11RC1YdTliSjBvbHNIejJZN3lXUy1GZDloWnZ3eF9FNVB5bHFRUGlnOE1DZzMzcWgyOXNyaXNsQlRFRzgtWHhJT3BfLUtmQ2xiTURscXBsM3FMVUZucUxVTm9EaHpLcHdCcjA1Z29pMWpueDFJMHZJMzZfdWpfXzZISDdHSEFWREd0VVVJZWtzX3d2SktQeHZxaERobHoxa0FpOVI1UF9ldEpuNEhfWW9oWFFodkh4OFBtNGdv0gGMAkFVX3lxTFBZMjNsNkRsbFhWdmRjN2dFaXp1U2NYSVRfaURWSnM3TmU0Rk9zNlI3SmJVYTE3SEpLYUFQcFZkYmdzb1llR245OTk1MXFnU3dFeDlnNTF2bk10bVE3YUNNN2FNRm9saEpzZFZLMlgzZk5QamVLdXZSdWtaU0tqR2diSjlDMWdOZENHZzJ3Tnh6TEJjSmRYM2VPQlJKWWtfWTVBa2djektfUDRJdDA2b2VtUHl3Q0tWTklBYXlLNy14enRSQXV6dlRpZXdCbUJtUUJqbDNQLTRhOXQwMGpTNVpxX3M3NUFfYnU0RTNoRmlQb3ZRVXlYcE1IUEh1Zm5EdU13ZUJiMjVSSnFzZXo?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Gulf countries weigh next steps after Iran war amid Rubio visit to Bahrain, Kuwait, UAE",
+          "url": "https://www.jpost.com/middle-east/article-900574",
           "source": "Jerusalem Post",
           "region": "Israel"
-        },
-        {
-          "title": "Herzog’s helicopter makes emergency landing after hitting birds",
-          "url": "https://www.timesofisrael.com/herzogs-helicopter-makes-emergency-landing-after-hitting-birds/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Vance",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Vance announces unprecedented CENTCOM-IRGC talks aimed at reducing military tensions",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900563",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Live updates • VP Vance says U.S. agreed to a 'direct channel' with the IRGC to settle disputes",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOaTV4TUlabTJzYzN6VHItdEhNTlRlNFA3ckxWUi1zSmh5RFhHNFJEWDQwMlNaMlVIVFVKdFFndThYTlA2YnhibTZJRFhlbHZyOVo4X29wUVdRTkV5ck9sMGlRRGN6M1AzSEhSSnljUHB1ZjFLSm5UWDdNUDhLVjR0V3l1bU5DLXFxYVNseW1ESFFBdjNoZ0NsVDdBeUV2aG9NWndkMWhQc21JT0h2UlZnYVZjeHBXQ1RUQkxUYVdGaDZaOFhsZ0dJNFRwTEZuTEk5N1NNUmRwTWUyZ3RFVHhsY2V6eE5aTlo5dU8zOTZ1SHBWbTdrdklEOThKcE1oVzVZNnFoZF9UQ1Z4WGVqRUlUbzcxS2Q5U2xXbXFrb1hhYw?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Britain",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Europe continues to bake under heat wave that has killed dozens, disrupted power",
-          "url": "https://www.timesofisrael.com/europe-continues-to-bake-under-heat-wave-that-has-killed-dozens-disrupted-power/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Chair of Britain’s largest arts center to step down amid antisemitism scrutiny",
-          "url": "https://www.timesofisrael.com/chair-of-britains-largest-arts-center-to-step-down-amid-antisemitism-scrutiny/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Smotrich",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Smotrich vows long-sought assistance plan for Israeli tech harmed by strong shekel",
-          "url": "https://www.timesofisrael.com/smotrich-vows-long-sought-assistance-plan-for-israeli-tech-harmed-by-strong-shekel/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Latest polls show Likud and Smotrich making gains as Bennett bleeds support",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOY0JMUnUtWUdQcU53SGk4cTB1bDB5cHBxUFYzRHZfY25RZFhuTDhzcXF1d1NNMUhkWHdLM0tuREJ4NGJ1SzZRRHFUU0hUcndkM0hfdXlFV0VQb2FVV3MxM2dSYll2dEZ3R0Q1dVkzcnQxWjZTRzVCQXhKTGM4QUNGS2VDNlktMHY2T3MxbGpJVkc0ZlMzT1hzX3AxdUlKS0JlUUdNZ0dydXNUTlo3Z1NRWmRYSEl4QnZiOVViQjV5OG1zR3ZSQU9mcjZvY3JEU1kyYktabUFoMTFJOUJaSmZQWjdaM3ZqTDJyVl8xNjdTQmxNVU1GZHVlX29TZXFuNGY3UEp5RDQ4Sy05REZ3R3BLUkVUaDBxdXVN?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Society",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "A Collapsing Society: Israel Suffers a National Mental Crisis Due to the War",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOTTJtT3B1di15dHQ5Tlp0d1JKckpvYk1PSlJWcGdWTHVQV0c5Qi16Z0dPYWdKXzNqbkNYbnltQmhFSEhIN0JkZ1NqVTZQbUs3SmNxMENnTWJZeHBMYlhYRXQyejdyN2JTU1ptbnZrS3JpaWNJcjJkTW5udGR1WkJBTWVGM2hWT3B4b013Y2NYYVgybks3U3lGZ0VCUGVjMFJ0VFc0bEpsOU9hOHJMeUVTYWhPZ18wYXpuZjJBQTZ6ZW01bVVGWTN4d3c5NDAzdEo4cm9teUxRaDBRdE4zR2lQV005M2phcmVWRElvdWphRGdRYWRoN0xxcjBfTXpLcmdQdHVobUZ1Rk1WYWRGcW1pVzRCWG9aamFMSXNGT3E5Nm5QcExuZTc0OG9R?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
-          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "China",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "China expo highlights supply chain resilience",
-          "url": "https://en.mehrnews.com/news/245603/China-expo-highlights-supply-chain-resilience",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "China Focus: 2026 Summer Davos",
-          "url": "https://en.mehrnews.com/news/245602/China-Focus-2026-Summer-Davos",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     }
