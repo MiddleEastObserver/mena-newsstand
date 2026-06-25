@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-25T18:03:59.198805+00:00",
+  "updated": "2026-06-25T18:32:44.197734+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 19,
+      "count": 18,
       "headlines": [
         {
           "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
@@ -21,12 +21,6 @@
         {
           "title": "Gulf stock markets fall as oil prices return to pre-war levels",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-stock-markets-fall-oil-prices-return-pre-war-levels",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Italy denies authorising use of airbases for US attacks on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -85,7 +79,7 @@
           "region": "Gulf"
         },
         {
-          "title": "Vance announces unprecedented CENTCOM-IRGC aimed at reducing military tensions",
+          "title": "Vance announces unprecedented CENTCOM-IRGC talks aimed at reducing military tensions",
           "url": "https://www.jpost.com/middle-east/iran-news/article-900563",
           "source": "Jerusalem Post",
           "region": "Israel"
@@ -195,8 +189,74 @@
       ]
     },
     {
-      "term": "Israeli",
+      "term": "Tehran",
       "count": 10,
+      "headlines": [
+        {
+          "title": "Iran condoles with Venezuela over earthquake",
+          "url": "https://en.irna.ir/news/86192829/Iran-condoles-with-Venezuela-over-earthquake",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
+          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
+          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
+          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Israel strikes southern Lebanon again, breaching ceasefire",
+          "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Ship hit by unknown projectile off Oman shores",
+          "url": "https://en.mehrnews.com/news/245606/Ship-hit-by-unknown-projectile-off-Oman-coasts",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "China expo highlights supply chain resilience",
+          "url": "https://en.mehrnews.com/news/245603/China-expo-highlights-supply-chain-resilience",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "China Focus: 2026 Summer Davos",
+          "url": "https://en.mehrnews.com/news/245602/China-Focus-2026-Summer-Davos",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "China Town in Jordan's Aqaba emerges as link",
+          "url": "https://en.mehrnews.com/news/245601/China-Town-in-Jordan-s-Aqaba-emerges-as-link",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Xi stresses carrying forward revolutionary traditions",
+          "url": "https://en.mehrnews.com/news/245604/Xi-stresses-carrying-forward-revolutionary-traditions",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Israeli",
+      "count": 9,
       "headlines": [
         {
           "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
@@ -247,12 +307,6 @@
           "region": "Israel"
         },
         {
-          "title": "Opinion | The map and 'the territories': Why Israeli election coverage has no maps",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORm1zOWo4Wng1TGR2T1k3OE5UUDFDbXRKZE13NmtpNFYxX0JqbDhVT2VaUXlDWUZJTjZqOUV1VHFfaWlxakdDaTBNZWF6ZnNULTZtUXlGNjEzYTg0MGxlM1hMNUpILW5VU2FybnlYVWs2SFk0SnRDLVBxTWNKWTJDQmRMYkFjb25LbG5DUmt3bUtkU1ptcnY2NnhGb2tlcUdESG1SRG5VdW04b0dZOHZvX0stc2dUY203UmQ1WXZQZzc1eU1sem5sNldHN0RtZExVMF9pVXVjVHlycTRoOXFwdVZYWjhHNktzOHR0ZFd0a3h1NVFaQndLaUZzYlNVTlJvSnR6aVgtLU4?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
           "title": "Israel strikes southern Lebanon again, breaching ceasefire",
           "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
           "source": "IRNA",
@@ -261,67 +315,49 @@
       ]
     },
     {
-      "term": "Tehran",
-      "count": 10,
+      "term": "Venezuela",
+      "count": 7,
       "headlines": [
+        {
+          "title": "Venezuela struggles to respond to devastating twin earthquakes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-struggles-to-respond-to-devastating-twin-earthquakes?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Jordan offers condolences to Venezuela after deadly earthquakes",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlQxNlhKRGpveHhfbHZyaFRlVEhpVjMteDU3SkcwX3dtMlpPc3pob25rb0FnUzY0LWtVMFRiV2dNX0FMMVdvYXVHblQ4RkFRSkY1VWRpOWhLQ2lUcVBhdVNCR3ZUWDNFSDBCeHQyRHM3RjEzU0FLcEZoTzhFSm9lZHVER3UzSGZPSVVpSENRYmpNdFhxLVBaYTVON2ExejA?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "What we know about Venezuela’s biggest earthquake in more than a century",
+          "url": "https://www.egyptindependent.com/what-we-know-about-venezuelas-biggest-earthquake-in-more-than-a-century/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "MoFA confirms no casualties among Palestinian community following devastating Venezuela earthquakes - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wM3NoalBFc1o4c0dhaXBBZVg4OTVOVHhFY0xxNEVrdXNBUzk5bmltV0RGQ1AwcThGTXdfNk9IdjREVzYtSHBNV1kyZUgxQWJpRzBzQkY3dw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Venezuela earthquakes kill at least 164 as rescue teams continue search for survivors",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSG1TVmZPUnprdGtfOGRCcUllOUNKNGlxV2RTd3F1d1dUTTVyTXk3dDBHdGNnT2VveG5xWVhYOENmbXRzVGp2QmtUTWFUNC1jeTgxZk1jQ2dzVmFxWmhYWlBsQmg3R2ZkWmg0My1OcU5JcEljS1BuNVJIcXFXNzBNb3Q0VTlESVJOa2xtbmdKTXA2UDhvNW9PMmc4ZVJNZ0dVYTZiM1ZWbzBlYm1YZTktVFhwV1hiLTRfbEZhTkRJMGJNUHpUdUE?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "At least 164 dead, 971 injured as quakes rock Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDYwa3pteS1OQ1dhRFpTc1lhSERqV2Q4eExLN0VLQ0hMRWRDM204dVpkLWpTb1lVcFF2NWtWMVowU2Juc2RjcDNRWHRCejJYNW5vUTltREdqaWg2LXFRVVBRYXM2YzdWUGhrOTBkY0gzZDdhdFJzUG92WmdSQ0pIVTVRZDdMYUI5NndzY0c0eVRJQ2xsS2laeA?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
         {
           "title": "Iran condoles with Venezuela over earthquake",
           "url": "https://en.irna.ir/news/86192829/Iran-condoles-with-Venezuela-over-earthquake",
           "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
-          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
-          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
-          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Israel strikes southern Lebanon again, breaching ceasefire",
-          "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "China expo highlights supply chain resilience",
-          "url": "https://en.mehrnews.com/news/245603/China-expo-highlights-supply-chain-resilience",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "China Focus: 2026 Summer Davos",
-          "url": "https://en.mehrnews.com/news/245602/China-Focus-2026-Summer-Davos",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "China Town in Jordan's Aqaba emerges as link",
-          "url": "https://en.mehrnews.com/news/245601/China-Town-in-Jordan-s-Aqaba-emerges-as-link",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Xi stresses carrying forward revolutionary traditions",
-          "url": "https://en.mehrnews.com/news/245604/Xi-stresses-carrying-forward-revolutionary-traditions",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "VIDEO: Ashura mourning in Rey",
-          "url": "https://en.mehrnews.com/news/245599/VIDEO-Ashura-mourning-in-Rey",
-          "source": "Mehr News",
           "region": "Iran"
         }
       ]
@@ -369,48 +405,6 @@
       ]
     },
     {
-      "term": "Venezuela",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Venezuela struggles to respond to devastating twin earthquakes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-struggles-to-respond-to-devastating-twin-earthquakes?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Jordan offers condolences to Venezuela after deadly earthquakes",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlQxNlhKRGpveHhfbHZyaFRlVEhpVjMteDU3SkcwX3dtMlpPc3pob25rb0FnUzY0LWtVMFRiV2dNX0FMMVdvYXVHblQ4RkFRSkY1VWRpOWhLQ2lUcVBhdVNCR3ZUWDNFSDBCeHQyRHM3RjEzU0FLcEZoTzhFSm9lZHVER3UzSGZPSVVpSENRYmpNdFhxLVBaYTVON2ExejA?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "What we know about Venezuela’s biggest earthquake in more than a century",
-          "url": "https://www.egyptindependent.com/what-we-know-about-venezuelas-biggest-earthquake-in-more-than-a-century/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "MoFA confirms no casualties among Palestinian community following devastating Venezuela earthquakes - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wM3NoalBFc1o4c0dhaXBBZVg4OTVOVHhFY0xxNEVrdXNBUzk5bmltV0RGQ1AwcThGTXdfNk9IdjREVzYtSHBNV1kyZUgxQWJpRzBzQkY3dw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Venezuela earthquakes kill at least 164 as rescue teams continue search for survivors",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSG1TVmZPUnprdGtfOGRCcUllOUNKNGlxV2RTd3F1d1dUTTVyTXk3dDBHdGNnT2VveG5xWVhYOENmbXRzVGp2QmtUTWFUNC1jeTgxZk1jQ2dzVmFxWmhYWlBsQmg3R2ZkWmg0My1OcU5JcEljS1BuNVJIcXFXNzBNb3Q0VTlESVJOa2xtbmdKTXA2UDhvNW9PMmc4ZVJNZ0dVYTZiM1ZWbzBlYm1YZTktVFhwV1hiLTRfbEZhTkRJMGJNUHpUdUE?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Iran condoles with Venezuela over earthquake",
-          "url": "https://en.irna.ir/news/86192829/Iran-condoles-with-Venezuela-over-earthquake",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Court",
       "count": 4,
       "headlines": [
@@ -427,46 +421,16 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "India government clears air on passport-citizenship debate, cites law and court rulings",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2tzRzFGOFlhbjBLRVlsZ0V5N040Y3V3a2Y0OFh1R1JnR3FFQ2NmYm9ZQ3RCcEpNWExfeml4ekNiRVZtNnJ6OC1pdzljZFBfOFl4bzB6QjhMVEVxblpDNG1ZWUpwby10bFFBSWdPbmdGazVWaDQ1bkVzVGxrZ3hYR1ZrOUxIX01hNURocG9wejFFOGxDVWlCNm5LLXdyZTY3NGs2ZWJHUGhXUXM1ei1XeHFWd0V4cWhmbUhmQ0ZIS0NZc1V2UjlOclhUa0sySm5IT3c?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
           "title": "Court rules Netanyahu aide can return to work despite indictment over leaked documents",
           "url": "https://www.timesofisrael.com/court-rules-netanyahu-aide-can-return-to-work-despite-indictment-over-leaked-documents/",
           "source": "Times of Israel",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Iranian",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Italy denies authorising use of airbases for US attacks on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
         },
         {
-          "title": "Foreign Minister holds phone call with Iranian counterpart",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa21KNEpXcXpkM2RPRzZQQk5yVS16RGRqRHBVNlc5TFJjLVM5UHloZDV1dzc2STl5SVBVQ1lQRGxUdm85bVc3TS1telN0RWhZbGpodFpWNzRfZEhHSjhITEwwRmJrVkpTOFlOV295Zk54WmFQNmhUNGVhQ2JrXzhYdV9HdjVKQmMtMDVhMkt0Ri0tSGZTZm9vaDI0RUtodw?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
-          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
-          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Israel's Top Court Slams Police for Failing to Probe Settler Attack on Rabbi Solidarity Activist",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQN3lDZFFNb0NlZVJRQ3ZNSnVGMWRJU2FGX0cxamZST0R5X2FzcWd1alJZU0M3RUxSRDFoZWVHUjdja2V3TUZ4cXFJSC16enJTMTBjQ3d3cE1rc3BRVlVRc1NZZWlGYkpvVWVnOGY0NU9EZkVtNHJKeXZJSnRQQ0lURV9tY3V5aEgyMW5LUmV2a3JYRnFkR3lBR1BoTms4QnY4QjVPOUZnMU16R3RkbDBOcUhGYThWMVQtdm1uWVlPa1RCaXlkNFZSMW8zUngzSnctQVJPOXBlcEFEQmNZYjdkNC1PZjVMa3F1ZmIyY29rU0M5YnJ3Q1FVZC0ya0gxSFI5XzVBSHFEZkhvNDVW?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
         }
       ]
     },
@@ -531,39 +495,15 @@
       ]
     },
     {
-      "term": "UAE",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Friday prayers in UAE to warn of 'deadly poison' of drug abuse",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDMtLURxSzl0ekJ5U3hZd0xkblVQc3RWM1BDcnNZNExRQmx3WmIxWXhYQlg2RmhEUEVmN040OGdPQlg3UkZ1V2hpeEpNWGs3Wnc2MHljQ0RTaVgyeTlHX04ydXZpVG1jSEd1N3RPdF92eW9ZdnBUd2w0ek9WNEJKdUFBRG9KWDkzVW1DQ2M0WnEyYVRmb0xCUEpzSXJ0eUtpOEpwSTg3cW95eFFUZXBlcXJBWQ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Flying to India from UAE? You must now fill a mandatory health declaration form before boarding",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnhMTHdTX2JZSmhoN3E2M2lvenV6SEpJeWpsOEhhLUJBejRJeHNhUmxtQlJJZmFmTGZFZ0pSeUFxeUZMUlgxUTNDeGpkMFNQRUlBQlNITEgzUllEMm1WeFpQbG1UZTczdVA4bHh2VmNUS3dxdGJrSWY2em0wTUxWejFXR3BYM2JuWnN5bUJsXzNEWjNMXzZzNmJJR01XQ0I0ODJXTnRUU0dPX0djLTE4UHZxcmh5RUJuVm4xUDlJenFlN0JWYnc?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "UAE expands visa-on-arrival scheme to citizens of six countries",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUklMM3AwR1NhWWV2V2MtVXFYMThTc3BmaHY3Njk2SnZGNGFkUHZnaDFYcmpGVXFFYnlRMWp6a0JySlY0YmlVUE1YUU9CZlFHb0hJYnJUOEgxOUp5QW1fb3JtSWdSTVZDT3phdnNKcGUxTmViR09ZUGpiVHRTOElWZFJJd1lZazZhc01UR1dZRlE4ejZtMjAtQ1BOY2lIRS1FT2RhYUZZaDNHLU0yVkVMQdIBwwFBVV95cUxNYUY3STNkcVhGbVJ6bnE2eFRiemxSRTJXMFg5Vm94ZGJKWXA5SS1vNmItb01EaVlhYTZ3MHpIQWtwWFF6NjVCSll2a2V1b0ZKWFR5bVI1XzhGbkNlVnRITGUyV3FPbWNFWmt4SXRsSUJmb01MSktfQlMxbXozOW9wWG5ackpsYm5vWWJGZ284Sl92S3ZjcTdDR2ZLcFJLZk9yNDJRQ1JnckVTUTlCeEhWWk1MUE1SN2Fra2RHXzJ1ZUhCV2s?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "UAE Friday sermon to focus on combating drug abuse and shared community responsibility",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc1Fmdi1UYzAxckZQdnl2aFo3NHNEU0pLMUhoaC1idXpUS0RaWjlnY2lSZ0NVb2JtTld5TlpuQ0xVbE5qQWZTZUNndmtiTkZMWHdST21ZOHdxeW5aQ0ZPZ1NrZ0ZfUTZ0X0ZXT25NOC1ucmxMWFBON0d4emRYSW13U2RUMkJwRnJPZ2RlVkwtRWtfeFZGMzQzaFh1TTM5X1Z4bS15aG1HVzlaNjd3WVlCa1NNOWw0S3NxZ2k2T1BzeFJBX0ZFYzRtcV9DYVJna03SAeIBQVVfeXFMTldWeWNQWFdMMVZ2VDBmelpmWF9PMXU0Y3NTa1hldXgwZDc3aEtTQXRvbjBSbGpGRVdLYlVacEtOLTNLcHBYNHBzZGpJZjVLSG1uVENoRUROSnhfZEhqUzZqdE01RDhZVUdQaFRaQU42dzRBZjV0bW0wTklCMGtzbnV6Wi1yeDBVd2VPU1FhcENYMThrWTc4YURPRmdhVy05eTVzYnc4VDcxZGdsNDRIVldIMzhVRGR2QzF4TWRYWUsxUmhlaHVtSVVXX2I3eWM5RVJtbC16dUpLdlk3V0RrZmdkUQ?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "MNA",
       "count": 4,
       "headlines": [
+        {
+          "title": "Ship hit by unknown projectile off Oman shores",
+          "url": "https://en.mehrnews.com/news/245606/Ship-hit-by-unknown-projectile-off-Oman-coasts",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
         {
           "title": "China expo highlights supply chain resilience",
           "url": "https://en.mehrnews.com/news/245603/China-expo-highlights-supply-chain-resilience",
@@ -581,11 +521,29 @@
           "url": "https://en.mehrnews.com/news/245601/China-Town-in-Jordan-s-Aqaba-emerges-as-link",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "attack",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Ukrainian attack on Crimea kills five, Russian officials say",
+          "url": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
         },
         {
-          "title": "VIDEO: Ashura mourning in Rey",
-          "url": "https://en.mehrnews.com/news/245599/VIDEO-Ashura-mourning-in-Rey",
-          "source": "Mehr News",
+          "title": "Israel's Top Court Slams Police for Failing to Probe Settler Attack on Rabbi Solidarity Activist",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQN3lDZFFNb0NlZVJRQ3ZNSnVGMWRJU2FGX0cxamZST0R5X2FzcWd1alJZU0M3RUxSRDFoZWVHUjdja2V3TUZ4cXFJSC16enJTMTBjQ3d3cE1rc3BRVlVRc1NZZWlGYkpvVWVnOGY0NU9EZkVtNHJKeXZJSnRQQ0lURV9tY3V5aEgyMW5LUmV2a3JYRnFkR3lBR1BoTms4QnY4QjVPOUZnMU16R3RkbDBOcUhGYThWMVQtdm1uWVlPa1RCaXlkNFZSMW8zUngzSnctQVJPOXBlcEFEQmNZYjdkNC1PZjVMa3F1ZmIyY29rU0M5YnJ3Q1FVZC0ya0gxSFI5XzVBSHFEZkhvNDVW?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
+          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
+          "source": "IRNA",
           "region": "Iran"
         }
       ]
@@ -703,7 +661,7 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Vance announces unprecedented CENTCOM-IRGC aimed at reducing military tensions",
+          "title": "Vance announces unprecedented CENTCOM-IRGC talks aimed at reducing military tensions",
           "url": "https://www.jpost.com/middle-east/iran-news/article-900563",
           "source": "Jerusalem Post",
           "region": "Israel"
@@ -729,30 +687,6 @@
         {
           "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
           "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Abbas",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Italy denies authorising use of airbases for US attacks on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "President Abbas conveys condolences to Venezuelan counterpart over earthquakes victims - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93RnBJYW5sbWNJczY1RHk4eGtzR0RLZVVzbWRVOHJzdFl2THJlRXR5N29LOC1xVzByTHpRbFdIazJWWWw4SEo0Ti1oclBwdm5EcnNZS2k2MA?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran condoles with Venezuela over earthquake",
-          "url": "https://en.irna.ir/news/86192829/Iran-condoles-with-Venezuela-over-earthquake",
           "source": "IRNA",
           "region": "Iran"
         }
@@ -855,6 +789,30 @@
       ]
     },
     {
+      "term": "Iranian",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Foreign Minister holds phone call with Iranian counterpart",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa21KNEpXcXpkM2RPRzZQQk5yVS16RGRqRHBVNlc5TFJjLVM5UHloZDV1dzc2STl5SVBVQ1lQRGxUdm85bVc3TS1telN0RWhZbGpodFpWNzRfZEhHSjhITEwwRmJrVkpTOFlOV295Zk54WmFQNmhUNGVhQ2JrXzhYdV9HdjVKQmMtMDVhMkt0Ri0tSGZTZm9vaDI0RUtodw?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
+          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
+          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "China",
       "count": 3,
       "headlines": [
@@ -897,24 +855,6 @@
       ]
     },
     {
-      "term": "attack",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Ukrainian attack on Crimea kills five, Russian officials say",
-          "url": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
-          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Romania",
       "count": 2,
       "headlines": [
@@ -951,6 +891,24 @@
       ]
     },
     {
+      "term": "Hormuz",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Shipping giant says stranded vessels have left Gulf after Hormuz closure",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shipping-giant-says-stranded-vessels-have-left-gulf-after-hormuz-closure",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hormuz traffic rebound returns oil to prewar rates, as US reassures wary Gulf allies",
+          "url": "https://www.timesofisrael.com/hormuz-traffic-rebound-returns-oil-to-prewar-rates-as-us-reassures-wary-gulf-allies/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "Washington",
       "count": 2,
       "headlines": [
@@ -983,42 +941,6 @@
           "url": "https://www.egyptindependent.com/how-trump-caused-the-biggest-oil-shock-in-history-and-got-away-with-it-for-now/",
           "source": "Egypt Independent",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Italy",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Italy denies authorising use of airbases for US attacks on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
-          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Araghchi",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Italy denies authorising use of airbases for US attacks on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran condoles with Venezuela over earthquake",
-          "url": "https://en.irna.ir/news/86192829/Iran-condoles-with-Venezuela-over-earthquake",
-          "source": "IRNA",
-          "region": "Iran"
         }
       ]
     },
@@ -1073,24 +995,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tUkJSRVFVS2syTVpnc01UWk9wclVPdDZJUXZId21TaGpoMDgxcUNuVUtCZHhacGpkSzBkM182TlR6Z2ZIdEZLRExJVllsdFJWZWVZ?oc=5",
           "source": "Arab News",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Ashura",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "عاشوراء ودلالاتها الاجتماعية في إيران",
-          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPUUFKY3VRckNnRG1qdDdjWFRlZkNCU2Z3STF4TnJOMHU0YklaZ2FTNlRwTzF6TmN3OHpDYXU3aEFsQUhCRERyRGY4NVUzTzExU24wYkt5N0xULXZ0OEwxX0ZickRJRGk2cEpiNTBJWFMyNkV5OU1Lb1pSdjJsdFVZWGZtV0hCbi1Wc29kQXZsSjBzM3Fpd0xDVGhBd2pPbEV2OWNrcnJvTU9PRjV3TWFtaF9TcEQtSmtKbERSeGtZQ1JOcDJ5bkg3OWI4Q3hJUURjd3FoUmpsMlZjaF9EZnNGZUxqcW8xYjBSSnBjd2p1WHRjS1lqSGthUkVsWGhnLXJHSF9sWTBIR016dXo3M2llOVA0OV94OGd0S0NseTJkMTk4U2MycUtTREV3WFFwbElKdmlWcEdLdzlLa2t0U21GOUxoV3VqNWNuOEFhVjJXX1lKMFZlMzhTd1J1VkRHbnBhZTNCX3ptWWZzbDJiU3lHSWpSeWpwRXZEWlVFUHZGS3FoRnVVanNWUzhrRy1yYkhwVml1eEtCeG1VV1dLUDFscmdrWWt6QmVFNWJuU2VjdTVBakVEZmc?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "VIDEO: Ashura mourning in Rey",
-          "url": "https://en.mehrnews.com/news/245599/VIDEO-Ashura-mourning-in-Rey",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
@@ -1239,6 +1143,24 @@
       ]
     },
     {
+      "term": "Abbas",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "President Abbas conveys condolences to Venezuelan counterpart over earthquakes victims - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93RnBJYW5sbWNJczY1RHk4eGtzR0RLZVVzbWRVOHJzdFl2THJlRXR5N29LOC1xVzByTHpRbFdIazJWWWw4SEo0Ti1oclBwdm5EcnNZS2k2MA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran condoles with Venezuela over earthquake",
+          "url": "https://en.irna.ir/news/86192829/Iran-condoles-with-Venezuela-over-earthquake",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "drone strike",
       "count": 2,
       "headlines": [
@@ -1257,7 +1179,25 @@
       ]
     },
     {
-      "term": "India",
+      "term": "Iraq",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "US companies will be 'top priority' in Iraq, new PM says",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2xPcmJfYVJPYkZPRWpROFFsQ1UwcTk2c2g1WHNCa1lUR3V4RFBHeWxRXzdFLU1BbVd0T1pxaEhfelgxRHJEYk44ZnROVjZ5VDhQWGtQWFNlbzhZekx4U0FrbllvTlluR0tDel9iNjRLb1B1NU5UdUVwRm44SDRyZ25IMmR4UFZ3YTdkMEl6MkI2enpLYmlhbFZxck1DUlI4SVJ3R2RPT3Fxb1U?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iraq threatens to leave Opec if quota demands not met",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDk1WG5rMVlFQTI1YjdFbTRDY1JEalJzZ0hWR2FDNk1kOUtVdkZ1VU1QNWZZUTZ2cmN5dFhqbTlyb0JUd3dHU1g2WnhoTGxjTUlUVzNaMTc4MVNvcjFXRnlWWllJb0ZkR0FoODV2WEZMeWZzNTRGR29TSXdCODVPRDg3QTR4aFZxVzVVb041MUd1UXVNcGlmWk1OWmNqYUVsZEtmMF9GWG5yQmdoVU1uVU1aM3A0V2VjbVZGZUpxOVlpTXo5Y3V3aWtmVU4?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "UAE",
       "count": 2,
       "headlines": [
         {
@@ -1267,9 +1207,27 @@
           "region": "Gulf"
         },
         {
-          "title": "India government clears air on passport-citizenship debate, cites law and court rulings",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2tzRzFGOFlhbjBLRVlsZ0V5N040Y3V3a2Y0OFh1R1JnR3FFQ2NmYm9ZQ3RCcEpNWExfeml4ekNiRVZtNnJ6OC1pdzljZFBfOFl4bzB6QjhMVEVxblpDNG1ZWUpwby10bFFBSWdPbmdGazVWaDQ1bkVzVGxrZ3hYR1ZrOUxIX01hNURocG9wejFFOGxDVWlCNm5LLXdyZTY3NGs2ZWJHUGhXUXM1ei1XeHFWd0V4cWhmbUhmQ0ZIS0NZc1V2UjlOclhUa0sySm5IT3c?oc=5",
+          "title": "UAE expands visa-on-arrival scheme to citizens of six countries",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUklMM3AwR1NhWWV2V2MtVXFYMThTc3BmaHY3Njk2SnZGNGFkUHZnaDFYcmpGVXFFYnlRMWp6a0JySlY0YmlVUE1YUU9CZlFHb0hJYnJUOEgxOUp5QW1fb3JtSWdSTVZDT3phdnNKcGUxTmViR09ZUGpiVHRTOElWZFJJd1lZazZhc01UR1dZRlE4ejZtMjAtQ1BOY2lIRS1FT2RhYUZZaDNHLU0yVkVMQdIBwwFBVV95cUxNYUY3STNkcVhGbVJ6bnE2eFRiemxSRTJXMFg5Vm94ZGJKWXA5SS1vNmItb01EaVlhYTZ3MHpIQWtwWFF6NjVCSll2a2V1b0ZKWFR5bVI1XzhGbkNlVnRITGUyV3FPbWNFWmt4SXRsSUJmb01MSktfQlMxbXozOW9wWG5ackpsYm5vWWJGZ284Sl92S3ZjcTdDR2ZLcFJLZk9yNDJRQ1JnckVTUTlCeEhWWk1MUE1SN2Fra2RHXzJ1ZUhCV2s?oc=5",
           "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Qatar",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Mexico shares long, strong relations with Qatar: envoy",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFJkcGZmRnE0Z2RQV2xTT19XeGoyU2psVVdFZEk4aHFEZ1l5NUhWMTJ6OUNpczcwdlBaeXFQM00tSDFYcDhJVGVFTzRPOTBZVkduaE9pYkxNV3Z3aEdjeGR6ejc3YTdHUGhsZ3hqdHZERkFIRlpfaWpCRzVrUks2X0xYYWR0RUJvTnhqeGtVN3psT0NMQTFkczMzTGwtUERTZlHSAacBQVVfeXFMTlk2bGdVUThmTDVCY0d2OEozWGJSVnhIMlpKa0R3bnMyNDlsUENHZFFKT19xWm1DOTZBTXlXUXRaLVdmRXpjOWJZendxLS1QQ0JDUlN3WTFrVFlwbXhMRTRXTmV3eWFtaElQcGZ5dFNsbDJhbVJ3aHM1bUYwODNlVkJ2Ti1LR0k2bm5NOUpyeWIwSk02ZE9RZmx1WkxFeDBJMVZHMkNhakU?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Qatar, US, Nigeria, and Algeria sign joint open letter on EU Methane Regulation",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkwtcmJ1VjNhN2lETlU4ZWFKeXhtLWZtUEhWaXd6QUJCU0Z6Vk5BRWtLOFp6eGxSU1RGWnROVkl5NW03U0lWVWk5SjBRNVl2b0xQTExWRWtTX1VWdHBOWmQyZ1hFS3V5dWJOVDh3SjRVQlFTazVxSUtvOU1QN0p3b3A1N0k1OENGN01ud3cxYWgyMFIwbHp5WHBNUTdtMUxncTRaUzFmeWJBRnhpeXVHQ3R4TzFJTUJraENTMXhuNzJmZ9IBxwFBVV95cUxNM2hVVVdtbjNJQ0Y3T3dSdktvb0tiVi0xM01oemp2NHJKSHg5R3hOb2FXOGRlRFZpdWlfZ2RMZllUbXE4WGJuYTJ2WTJOR1VqRlBselNHT1R4a2xxajJRbFVrNFBKSlBPZFUxaG5Vd1ZzWi1nbm1JLTV0ZC1hZEJveFljeW9FMzZtazNpcm9UNm9SbUxsVWdBbFlVUk5RYk9famFieC16N0FvMEg4UlFJc3YxYkpsekhBVnlPYkE1eFcyUnlHSHBF?oc=5",
+          "source": "Gulf Times",
           "region": "Gulf"
         }
       ]
