@@ -1,243 +1,27 @@
 {
-  "updated": "2026-06-25T13:45:25.250306+00:00",
+  "updated": "2026-06-25T14:14:15.580942+00:00",
   "total_headlines": 110,
   "terms": [
-    {
-      "term": "Israeli",
-      "count": 20,
-      "headlines": [
-        {
-          "title": "Israeli forces kill Palestinian man during raid on his home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drones-and-decomposing-babies-whats-un-report-israels-genocide",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Two people killed in Israeli drone strike on car in South Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-people-killed-israeli-drone-strike-car-south-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
-          "url": "https://www.middleeasteye.net/news/drones-decomposing-babies-un-report-israel-targeting-palestinian-children",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Crimson Thread: The new Israeli separation wall that cuts through the 'breadbasket of Palestine'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crimson-thread-new-israeli-separation-wall-cuts-through-breadbasket",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli defense minister says Israel will not withdraw from southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2J1NHJTUGcwbVlSUEh6UHQyQUhoWHlIci05MVQ1NTVQTmZYQ0NYNExRdTlKM0d3U0VFNGx0WU5LSV8yY1IwZ3NJN2J1V3VfYUlfRXFEeHQ0V01ORmpfcFpIZzZJU1lnTDFWbGZHeUhBaXhrYTlHVHNTTkhHUjk2Q05wUlRqYzRxd21lMndvdG1fZGIzRUpwbHp1Z3VmRmxaVUtib2RKYngteXBJOGxBajhVaE9KMkhZZ004TW9jaXVwek9wTmNqVXh3TURlQl93T1lmZDFvczNEVGPSAdsBQVVfeXFMT1NidTRyU1BnMG1ZUlBIelB0MkFIaFh5SHItOTFUNTU1UE5mWENDWDRMUXU5SjNHd1NFRTRsdFlOS0lfMmNSMGdzSTdidVd1X2FJX0VxRHh0NFdNTkZqX3BaSGc2SVNZZ0wxVmxmR3lIQWl4a2E5R1RzU05IR1I5NkNOcFJUamM0cXdtZTJ3b3RtX2RiM0VKcGx6dWd1ZkZsWlVLYm9kSmJ4LXlwSThsQWo4VWhPSjJIWWdNOE1vY2l1cHpPcE5jalV4d01EZUJfd09ZZmQxb3MzRFRj?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmFjSWd2SGg4UjJKRExtYWlJMzlKWFhhRGRfd3FpaWVjQXlFZ0YyNXFVMEVmbHhtQWxMbm95NnFMS09SUjh3NHZqSWpJUlpZTzV3SGdiRUJnVTFBSTE2em5EeFNnSnM1WG1MMHB0NDJpRVg3VWd5YlpnOGh4aTBuQl9MTTZjVjNScUxLZERTaEpBaWNsMWxZWkNiYnA2TzR1OEdWMUxxZG9qbHZQNlRBbC1qQVhFN3hNUWI0RXhxbXlmTkVaeDQ1MTZRMTZnNldHalI40gHTAUFVX3lxTE12YWNJZ3ZIaDhSMkpETG1haUkzOUpYWGFEZF93cWlpZWNBeUVnRjI1cVUwRWZseG1BbExub3k2cUxLT1JSOHc0dmpJaklSWllPNXdIZ2JFQmdVMUFJMTZ6bkR4U2dKczVYbUwwcHQ0MmlFWDdVZ3liWmc4aHhpMG5CX0xNNmNWM1JxTEtkRFNoSkFpY2wxbFlaQ2JicDZPNHU4R1YxTHFkb2psdlA2VEFsLWpBWEU3eE1RYjRFeHFteWZORVp4NDUxNlExNmc2V0dqUjg?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مصدر أمني للميادين: تم تجهيز مقدمات جدول انسحاب الاحتلال من جنوب لبنان وهو قيد الدراسة",
-          "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOdU9KanlOWnI0bEFFUXd6XzVZekNhT0w4TEZMREVJM21TVzE0UnhPQV9QSzUyMGF3cVdHNlBLTGpwUUFOMlo0UVAtNGt6MWZCNHA2eXc4YmlxSnpJazR6Ymp0NGVGMkhSVllYcE9SeS04WWloREJmbU5kSDlraVhZSDFuQTBJT3BwZjNiQUx1YXEyNlJiRkpkQmFMdzBkRzBZWTFzNTMyS0s5eUxIVzZHY0tTNWkwSG5hSm9CanVkdDlwa1FScUJYazkzOGFCcGFIQ00xNjBLTXlTbU9NRnNoOVhlWl82S21EWlNKZmk1Z2NMYnpQWU5fdmR6MUdYOTFyRVdMZVBsMWdyMElVS0Z6bFloV1ExRFpIc1g2Q0J6aS01SEFseWZ5aGZtYmlweDh2eXdYU3gwWjVBSWVYbFhNWlBrQUZXSldGYnE2VG1mZFdpZkM0VFlWV0JSR3BmZDk2YUNkbXI3ZTRranZtQ2cwRUhYWEZ6UWlpQXl6NGtmbmVlejYzenZIV2VhcUFZam9DQWkyODdrd24tblE0bW84OFNTTkx1TmVZWnhVdlJZZUNVZU8xNDlXcS01LUFwOUJuRF91YWEtWVNFZXkzVXJwSEM5RzdXNjJIa3lWXzBBazNwbG1PVlQ1cWwycWowM3YwOUdVTk1ZTFFJWk1zamhoQVJWODFrRVg5X09FcE4tWE1rVlEyRG94U3V4TnJQN19KY0NMZWRqUnQxQUZGMkFkZ1dZQ3JMSW1FYzlsSkRR?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "وقفة تضامنية دعماً للأسرى اللبنانيين والفلسطينيين في السجون الإسرائيلية",
-          "url": "https://www.almanar.com.lb/article/976627/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Journalist among two Palestinians injured in assault by Israeli forces in northern Jordan Valley - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VVnQzZVdOWFdxaHE1UEx6aTJ5YW0xX1dqSmJocmY0R292RWZnWXo3elVIeDc5ckp4bldYTndRaXd1VWgwU1ZZalotaFBaRzVGUS1rYklNaw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli colonists raid Bedouin community near Khan al-Ahmar east of Jerusalem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WXFTQUhBZWhwRmlqUHdzTk1pMjR4SmpjMURSakRDbGozSXVPTWM2LUtwMXBoME5aTHlwVXJpcGhOTWxQdU5fUURvc1gzeTBTWmVJNEU5cw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli colonists attack Palestinian youths with pepper spray in Ras al-Ahmar area near Tubas - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQMnRvSEZrNEFVN3hiZld1N2ttVmlOQnZRQTltQmF0U0lFWEZKWFZMbS1JMnJjcmlsMkhPQ2pFckJGWmRHMk5jQzR3RDUyUmlsUnFMMVBLVQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinian Prisoner's Society says two Palestinians killed during Israeli detention incursions - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tYUZ1OHJ5aFRRVF8yNVBDUkoyX1ZBdkhMOHpSYzU1X0VYMVgwVVhpeFZqUzZvMkYtRjFWWEZINU11ODYyWlBZN2lNMC1JYS16MDhlTmctZw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces issue demolition orders for five homes and three agricultural structures in Hebron - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPSW5NZ055Z2l1QjcydmVYZWxzMWtRZGNmVTkyQ0J5UnRhS1pLVlpGSHpucjFNQ1lKREg0d0hPcnNKZ0xBMDVnZ0kwMmpmeEkxdTd6aFh1VQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaWmprVThtNkVOUzhIMmRHMTlmTHJmUEJTeW5sY0llckJna0J4UHJBbnh5MzNZSW1LUHJrb2plUXZQYjY0NnpZcXdBZmtzYjZsUElj?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Palestinians warn West Bank antiquities bill designed to expand Israeli control",
-          "url": "https://www.timesofisrael.com/palestinians-warn-west-bank-antiquities-bill-designed-to-expand-israeli-control/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Israeli Universities Rise in Global Rankings, Palestinian Institution Makes Top List",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWZhZ085eEEzRHpvaEpKblRLbUdrV1NVUzRqQ2xuRmJCV2NBMzdJRnl4WW12ZEhoRzY3T3VHVDJUV2l4Ni1hRlZ1cUNic2twcm90ZzJNcVRoaERlX05Tcm9GQThoX3ptMGhySk9rUUV0MzcyZDNNelJ5UGRwN1hnTEYtS0tvSTZJNDdKUUJqR0J5WlYwbm5sUk9vOTFLUGl3ZUxsR2lZQ0VBNEZ3RXhGbGRnY2l1WHpSVVBsV0xWT1VNVXk3YmdHRkJybEZocDQ5aERxYXlNZjJYRnhCbHdMQ2Jlb1dYRUlLVzVXY0JlMmhwaVBEaGd5RS12OXZmU205UmpVaWpoTTZ4NkY0bEY4?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Opinion | The map and 'the territories': Why Israeli election coverage has no maps",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORm1zOWo4Wng1TGR2T1k3OE5UUDFDbXRKZE13NmtpNFYxX0JqbDhVT2VaUXlDWUZJTjZqOUV1VHFfaWlxakdDaTBNZWF6ZnNULTZtUXlGNjEzYTg0MGxlM1hMNUpILW5VU2FybnlYVWs2SFk0SnRDLVBxTWNKWTJDQmRMYkFjb25LbG5DUmt3bUtkU1ptcnY2NnhGb2tlcUdESG1SRG5VdW04b0dZOHZvX0stc2dUY203UmQ1WXZQZzc1eU1sem5sNldHN0RtZExVMF9pVXVjVHlycTRoOXFwdVZYWjhHNktzOHR0ZFd0a3h1NVFaQndLaUZzYlNVTlJvSnR6aVgtLU4?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "IDF Lawyer: Israeli Army Randomly, Unlawfully Restricts West Bank Palestinians",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMjY4NHFGVEh6YVRmNHVPNHpkbno1SFlUemFnMWYzZVNvanM1TlI2VjQ4U2doWFYxTWxjanJ5WGJ2XzdkZFN5X1RUN1dOM1dQb01hOTNpU0kyYWttdk1wdHR0b3RsWjBIZTMzSEZJQ1c0dHdrZ1oyREd0OUJkdV9HeUxwM0oxdnU4c1Y3VU1KcElIWUhkNFRRTVcwcGZLQWNjLVltbjg2R2w0MHl2LWlGSkx5T0lwZ0xaeTlyOHRvRHlXSWp1TXZpNm54S2paQlVtWlNpUHRfNkhXb1dWQmMtVzVBamRBaXZlQ3ljdk5tMno5RUg2X01RQWtFQjdyY3VSQ2kwZGN1dlRRTGMySlY1Ql9VejlMaGFyTUdRWEF3?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Lebanon",
-      "count": 16,
-      "headlines": [
-        {
-          "title": "Two people killed in Israeli drone strike on car in South Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-people-killed-israeli-drone-strike-car-south-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli defense minister says Israel will not withdraw from southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2J1NHJTUGcwbVlSUEh6UHQyQUhoWHlIci05MVQ1NTVQTmZYQ0NYNExRdTlKM0d3U0VFNGx0WU5LSV8yY1IwZ3NJN2J1V3VfYUlfRXFEeHQ0V01ORmpfcFpIZzZJU1lnTDFWbGZHeUhBaXhrYTlHVHNTTkhHUjk2Q05wUlRqYzRxd21lMndvdG1fZGIzRUpwbHp1Z3VmRmxaVUtib2RKYngteXBJOGxBajhVaE9KMkhZZ004TW9jaXVwek9wTmNqVXh3TURlQl93T1lmZDFvczNEVGPSAdsBQVVfeXFMT1NidTRyU1BnMG1ZUlBIelB0MkFIaFh5SHItOTFUNTU1UE5mWENDWDRMUXU5SjNHd1NFRTRsdFlOS0lfMmNSMGdzSTdidVd1X2FJX0VxRHh0NFdNTkZqX3BaSGc2SVNZZ0wxVmxmR3lIQWl4a2E5R1RzU05IR1I5NkNOcFJUamM0cXdtZTJ3b3RtX2RiM0VKcGx6dWd1ZkZsWlVLYm9kSmJ4LXlwSThsQWo4VWhPSjJIWWdNOE1vY2l1cHpPcE5jalV4d01EZUJfd09ZZmQxb3MzRFRj?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmFjSWd2SGg4UjJKRExtYWlJMzlKWFhhRGRfd3FpaWVjQXlFZ0YyNXFVMEVmbHhtQWxMbm95NnFMS09SUjh3NHZqSWpJUlpZTzV3SGdiRUJnVTFBSTE2em5EeFNnSnM1WG1MMHB0NDJpRVg3VWd5YlpnOGh4aTBuQl9MTTZjVjNScUxLZERTaEpBaWNsMWxZWkNiYnA2TzR1OEdWMUxxZG9qbHZQNlRBbC1qQVhFN3hNUWI0RXhxbXlmTkVaeDQ1MTZRMTZnNldHalI40gHTAUFVX3lxTE12YWNJZ3ZIaDhSMkpETG1haUkzOUpYWGFEZF93cWlpZWNBeUVnRjI1cVUwRWZseG1BbExub3k2cUxLT1JSOHc0dmpJaklSWllPNXdIZ2JFQmdVMUFJMTZ6bkR4U2dKczVYbUwwcHQ0MmlFWDdVZ3liWmc4aHhpMG5CX0xNNmNWM1JxTEtkRFNoSkFpY2wxbFlaQ2JicDZPNHU4R1YxTHFkb2psdlA2VEFsLWpBWEU3eE1RYjRFeHFteWZORVp4NDUxNlExNmc2V0dqUjg?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "هل دخل لبنان والمنطقة فعلاً مرحلة ما بعد الحرب؟",
-          "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNNTZkeVgyZkxkM0doUFZ1MkpmWG1oTUFFZDZaLXdDNUtEYkhEZzl0M1MxQ1lJR3B0cUY1LW1hanE5RzNjUE9mWEJTb2NNTHZSLTNTVnc1VVNyRTJXWkYyNEVhVUhhcm8ySDZHSEE3emMtbnpDZk9VTjUxa3BnUTU3a3JsVjE1enBEYmFHNDh2WWVoS2VocmR5amY4VHhYUXUtam9JaUZ5RzZvVW56REVxNFAtTHZ2UFRmWTdOemJjc1A4QWY1UDAzZzRHY0pqaDZRbWVONEZJT3NjeW52WkZGRU1GdEFOZ1FDTFJnQ0UteVpiT0l5WnFERjFvMndlSTQ4bWR0emttajJFY0JnelV5dzdKbDd1Qmwtc1pORGRYXzZxX0JyaWdxUl80a1RBOTl5RUs4QnhIYUQ0RUt5eTZrWi16Q2RoMUZPUkx6eGp0clJYMXJWbnlwcUI2VnE2aFVHVkdSaXNWWkFCOXJIZkRWLUU5YXNoRWlIMnVwLUxUX3M3a0l6RnVfZ0ZucVp5X1JwUlRwZVNadXRJMFVJbmNPXzk1RW9TRGtQQUlHOGVBMjNBVktIVi1xTjFnNWN5N3JxV1pzZFdyTHVmQk1Yc3dDWTBNakQ1SXNxV1pR?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مصدر أمني للميادين: تم تجهيز مقدمات جدول انسحاب الاحتلال من جنوب لبنان وهو قيد الدراسة",
-          "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOdU9KanlOWnI0bEFFUXd6XzVZekNhT0w4TEZMREVJM21TVzE0UnhPQV9QSzUyMGF3cVdHNlBLTGpwUUFOMlo0UVAtNGt6MWZCNHA2eXc4YmlxSnpJazR6Ymp0NGVGMkhSVllYcE9SeS04WWloREJmbU5kSDlraVhZSDFuQTBJT3BwZjNiQUx1YXEyNlJiRkpkQmFMdzBkRzBZWTFzNTMyS0s5eUxIVzZHY0tTNWkwSG5hSm9CanVkdDlwa1FScUJYazkzOGFCcGFIQ00xNjBLTXlTbU9NRnNoOVhlWl82S21EWlNKZmk1Z2NMYnpQWU5fdmR6MUdYOTFyRVdMZVBsMWdyMElVS0Z6bFloV1ExRFpIc1g2Q0J6aS01SEFseWZ5aGZtYmlweDh2eXdYU3gwWjVBSWVYbFhNWlBrQUZXSldGYnE2VG1mZFdpZkM0VFlWV0JSR3BmZDk2YUNkbXI3ZTRranZtQ2cwRUhYWEZ6UWlpQXl6NGtmbmVlejYzenZIV2VhcUFZam9DQWkyODdrd24tblE0bW84OFNTTkx1TmVZWnhVdlJZZUNVZU8xNDlXcS01LUFwOUJuRF91YWEtWVNFZXkzVXJwSEM5RzdXNjJIa3lWXzBBazNwbG1PVlQ1cWwycWowM3YwOUdVTk1ZTFFJWk1zamhoQVJWODFrRVg5X09FcE4tWE1rVlEyRG94U3V4TnJQN19KY0NMZWRqUnQxQUZGMkFkZ1dZQ3JMSW1FYzlsSkRR?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Jordan sends 20-truck aid convoy to Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW9VZjlVclRDWjljZUR2cWtpQmpZSVVYaFE3UlRTd3YxSE1rRTM0azRRR3UtQUpneno5QmlqRHhWWVU0bjVGSG1PS3dJdzkxcUthRF9KZHhIWVhDMFJBY3JkWkpzN2lPeXhtSGVNSGlOQUtXSTItaXcxVjAxV0NTdmU2NW8?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel says 'no US demand' to withdraw from Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclkxTmp1cTlYMnVpcGZPV1lnaWYtZkFTNjhlUmtjcWxBMTVmVFF1N2tiM29Ub0Y3NjZlaEFQWmtIaFZLQUtGaDZjQ3VwVW1tdnRBLWRzc2owcFFUOW1MajYxXzhPMEN4cXN0c3M5NG9tQlhwbUtrSzFIOWxMa2tvbVNxZTdNN1VKSlNTTW13?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "فضل الله: وضعنا سيكون أفضل في القادم من الأيام... وما لا نوافق عليه لن يمشي في لبنان - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQRlhTOVl3RjI0T1JWQWVrbW1zak9pd3NnS29fek9MeWRPczUybmEtd181dVVkUWFMbTc4TVlDZG9JVWRUemU4ckgtcjVXTmtmeHducXJpRU9BRVZoQTZQT3hFTWI5WUpEM0FQLWs4Y3czdVlKVlE5U2doVm5MRXNCSjVKaGREdU9XamxuRXRyOFpPYWoxRk0zdW4tRW9IbFkwRDh3cC03bTdNTHJEeHJ2cTZLaDNvLTZNZWdWa0F5dGQxMmEtMDdFcGR6MDc2Y2tXcHlvaTF6blZxc1BqSGc0N05meXZzYUIxMk1nNEd5R25vR2x5MktXbkNSakIwM3IxbHRvRTF4YkY3aXI5RVg5bjl3S2lzaWRXZkhrYndWYjZlQmVGQzhjZ01tUG03M0tneXYza25iZm8xakVSc1pDQ290cHVERERmaDJjdW9DalBfZlRsTXpBUGRFQ1JzVVdQanYwcmZfZk9jTnpyZkVnQ2FMbzloSDlNWmhFeF9WMk1BUnBzb2owaG03cVVGbU9OMmZhYjdDQU9ZeF96Vkp6dHNBbnh3YnlrcTFUeGFqeUJJMnRhYzVqem45eDhDMFI3Rk04S1FFSzVueHp3Z1pabWNJNjVVUQ?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaWmprVThtNkVOUzhIMmRHMTlmTHJmUEJTeW5sY0llckJna0J4UHJBbnh5MzNZSW1LUHJrb2plUXZQYjY0NnpZcXdBZmtzYjZsUElj?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Reservist killed, soldier injured in truck accident in south Lebanon",
-          "url": "https://www.timesofisrael.com/reservist-killed-soldier-injured-in-truck-accident-in-south-lebanon/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Israel Denies Report of Partial Withdrawal From Southern Lebanon 'Buffer Zone'",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQR0pYMmpSWVM0d2NHTklzV0pxNlg0NmhBUEwyM29kN0lNbURQQy1uR1I3SV9xSmFLVEptYkpaODVVU3l6YlIwUy1UblBSYk5ybmU2eGFRN0xvOUVTRFUybFk3ck94ZWtCVmd1NEk1OUdNVnAwNm5oQjA0cnYzODhWY09zdzRqdVNCNnBVcjVhMzFOYlNEV3gxZ28yNm82em1MaE40YTFXTkJ1SEtKd01IS25BeHlsbXdLbWtGWHVTQVpqelZJUjdiaGhTNEh1c29GVUtsQW9JTzRCdmo2dU9TR2E2RjhaZF9MWUZSdUI3NFZKOUVQSFJXUDlxal8xNDRSUjMweFlUZGNLc29pSVdIR3hTcWE5Y2M?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Israel strikes southern Lebanon again, breaching ceasefire",
-          "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "IRGC Quds Force chief warns Israel to leave Lebanon or face humiliating defeat",
-          "url": "https://en.irna.ir/news/86192654/IRGC-Quds-Force-chief-warns-Israel-to-leave-Lebanon-or-face-humiliating",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Ghaani warns 'Israel' to leave entire Lebanon",
-          "url": "https://en.mehrnews.com/news/245593/Ghaani-warns-Israel-to-leave-entire-Lebanon",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
     {
       "term": "Iran",
       "count": 16,
       "headlines": [
         {
-          "title": "Rubio says Europe’s refusal of military bases weakens transatlantic alliance with US",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-europes-refusal-military-bases-weakens-transatlantic-alliance",
+          "title": "Iran, Israel and the Bomb",
+          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/6/25/iran-israel-and-the-bomb?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Ghalibaf rejects US claim that Iran's unfrozen assets will be spent on US goods",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-rejects-us-claim-irans-unfrozen-assets-will-be-spent-us-goods",
           "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "‘Why is Israel allowed nukes but not others?’ Will Iran & Trump make a peace deal?",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQdIB5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQQ?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -259,12 +43,6 @@
           "region": "Levant"
         },
         {
-          "title": "What to know about Rubio’s meeting with Gulf nations and Iran negotiations",
-          "url": "https://www.egyptindependent.com/what-to-know-about-rubios-meeting-with-gulf-nations-and-iran-negotiations/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
           "title": "GCC security is indivisible, Iran must be prevented from acquiring nuclear weapons, says Bahrain’s Foreign Minister",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbDVlZkdaZDBOSzl2NmN4UW11UzNSQk8yeU45WXFFdm5aOFBCQnF0REEtT3cwMl9SVmJ6RXNOUHo4dE11RC1YdTliSjBvbHNIejJZN3lXUy1GZDloWnZ3eF9FNVB5bHFRUGlnOE1DZzMzcWgyOXNyaXNsQlRFRzgtWHhJT3BfLUtmQ2xiTURscXBsM3FMVUZucUxVTm9EaHpLcHdCcjA1Z29pMWpueDFJMHZJMzZfdWpfXzZISDdHSEFWREd0VVVJZWtzX3d2SktQeHZxaERobHoxa0FpOVI1UF9ldEpuNEhfWW9oWFFodkh4OFBtNGdv0gGMAkFVX3lxTFBZMjNsNkRsbFhWdmRjN2dFaXp1U2NYSVRfaURWSnM3TmU0Rk9zNlI3SmJVYTE3SEpLYUFQcFZkYmdzb1llR245OTk1MXFnU3dFeDlnNTF2bk10bVE3YUNNN2FNRm9saEpzZFZLMlgzZk5QamVLdXZSdWtaU0tqR2diSjlDMWdOZENHZzJ3Tnh6TEJjSmRYM2VPQlJKWWtfWTVBa2djektfUDRJdDA2b2VtUHl3Q0tWTklBYXlLNy14enRSQXV6dlRpZXdCbUJtUUJqbDNQLTRhOXQwMGpTNVpxX3M3NUFfYnU0RTNoRmlQb3ZRVXlYcE1IUEh1Zm5EdU13ZUJiMjVSSnFzZXo?oc=5",
           "source": "Gulf News",
@@ -275,12 +53,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmcyV3BlSWhQVHgxNy1mZ1M1TEFLTzNZd0hqNGRJMDNkR2p2UWVteVdVcGVPdnRKc0VHeXJrTzI4Y0FURDZ2VzU2MzJ5T3pHZ0tqcnlNRW02THBQaE9fREpReG9IdDhILWx4OW1qczJDbEppTGkyZHloektsU2xPMlo1enFfdFdVbDJRYk1zRVc4VVFRb21XYk5lRnZ6ZmNHS0tRdndzOXg?oc=5",
           "source": "Times of Oman",
           "region": "Gulf"
-        },
-        {
-          "title": "Dubai enlisting businesses to help keep it a tourism and finance hub after Iran war",
-          "url": "https://www.timesofisrael.com/dubai-enlisting-businesses-to-help-keep-it-a-tourism-and-finance-hub-after-iran-war/",
-          "source": "Times of Israel",
-          "region": "Israel"
         },
         {
           "title": "Analysis • Rubio to the rescue: The Gulf, like Israel, feels Trump sold it out on Iran",
@@ -333,19 +105,205 @@
       ]
     },
     {
-      "term": "Venezuela",
-      "count": 8,
+      "term": "Lebanon",
+      "count": 15,
       "headlines": [
         {
-          "title": "Venezuela quakes: How will sanctions impact aid operations?",
-          "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss",
+          "title": "Israel says will only withdraw from Lebanon after Hezbollah disarmed",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-will-only-withdraw-lebanon-after-hezbollah-disarmed",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Two people killed in Israeli drone strike on car in South Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-people-killed-israeli-drone-strike-car-south-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli defense minister says Israel will not withdraw from southern Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2J1NHJTUGcwbVlSUEh6UHQyQUhoWHlIci05MVQ1NTVQTmZYQ0NYNExRdTlKM0d3U0VFNGx0WU5LSV8yY1IwZ3NJN2J1V3VfYUlfRXFEeHQ0V01ORmpfcFpIZzZJU1lnTDFWbGZHeUhBaXhrYTlHVHNTTkhHUjk2Q05wUlRqYzRxd21lMndvdG1fZGIzRUpwbHp1Z3VmRmxaVUtib2RKYngteXBJOGxBajhVaE9KMkhZZ004TW9jaXVwek9wTmNqVXh3TURlQl93T1lmZDFvczNEVGPSAdsBQVVfeXFMT1NidTRyU1BnMG1ZUlBIelB0MkFIaFh5SHItOTFUNTU1UE5mWENDWDRMUXU5SjNHd1NFRTRsdFlOS0lfMmNSMGdzSTdidVd1X2FJX0VxRHh0NFdNTkZqX3BaSGc2SVNZZ0wxVmxmR3lIQWl4a2E5R1RzU05IR1I5NkNOcFJUamM0cXdtZTJ3b3RtX2RiM0VKcGx6dWd1ZkZsWlVLYm9kSmJ4LXlwSThsQWo4VWhPSjJIWWdNOE1vY2l1cHpPcE5jalV4d01EZUJfd09ZZmQxb3MzRFRj?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "هل دخل لبنان والمنطقة فعلاً مرحلة ما بعد الحرب؟",
+          "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNNTZkeVgyZkxkM0doUFZ1MkpmWG1oTUFFZDZaLXdDNUtEYkhEZzl0M1MxQ1lJR3B0cUY1LW1hanE5RzNjUE9mWEJTb2NNTHZSLTNTVnc1VVNyRTJXWkYyNEVhVUhhcm8ySDZHSEE3emMtbnpDZk9VTjUxa3BnUTU3a3JsVjE1enBEYmFHNDh2WWVoS2VocmR5amY4VHhYUXUtam9JaUZ5RzZvVW56REVxNFAtTHZ2UFRmWTdOemJjc1A4QWY1UDAzZzRHY0pqaDZRbWVONEZJT3NjeW52WkZGRU1GdEFOZ1FDTFJnQ0UteVpiT0l5WnFERjFvMndlSTQ4bWR0emttajJFY0JnelV5dzdKbDd1Qmwtc1pORGRYXzZxX0JyaWdxUl80a1RBOTl5RUs4QnhIYUQ0RUt5eTZrWi16Q2RoMUZPUkx6eGp0clJYMXJWbnlwcUI2VnE2aFVHVkdSaXNWWkFCOXJIZkRWLUU5YXNoRWlIMnVwLUxUX3M3a0l6RnVfZ0ZucVp5X1JwUlRwZVNadXRJMFVJbmNPXzk1RW9TRGtQQUlHOGVBMjNBVktIVi1xTjFnNWN5N3JxV1pzZFdyTHVmQk1Yc3dDWTBNakQ1SXNxV1pR?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Jordan sends 20-truck aid convoy to Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW9VZjlVclRDWjljZUR2cWtpQmpZSVVYaFE3UlRTd3YxSE1rRTM0azRRR3UtQUpneno5QmlqRHhWWVU0bjVGSG1PS3dJdzkxcUthRF9KZHhIWVhDMFJBY3JkWkpzN2lPeXhtSGVNSGlOQUtXSTItaXcxVjAxV0NTdmU2NW8?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel says 'no US demand' to withdraw from Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclkxTmp1cTlYMnVpcGZPV1lnaWYtZkFTNjhlUmtjcWxBMTVmVFF1N2tiM29Ub0Y3NjZlaEFQWmtIaFZLQUtGaDZjQ3VwVW1tdnRBLWRzc2owcFFUOW1MajYxXzhPMEN4cXN0c3M5NG9tQlhwbUtrSzFIOWxMa2tvbVNxZTdNN1VKSlNTTW13?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "فضل الله: وضعنا سيكون أفضل في القادم من الأيام... وما لا نوافق عليه لن يمشي في لبنان - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQRlhTOVl3RjI0T1JWQWVrbW1zak9pd3NnS29fek9MeWRPczUybmEtd181dVVkUWFMbTc4TVlDZG9JVWRUemU4ckgtcjVXTmtmeHducXJpRU9BRVZoQTZQT3hFTWI5WUpEM0FQLWs4Y3czdVlKVlE5U2doVm5MRXNCSjVKaGREdU9XamxuRXRyOFpPYWoxRk0zdW4tRW9IbFkwRDh3cC03bTdNTHJEeHJ2cTZLaDNvLTZNZWdWa0F5dGQxMmEtMDdFcGR6MDc2Y2tXcHlvaTF6blZxc1BqSGc0N05meXZzYUIxMk1nNEd5R25vR2x5MktXbkNSakIwM3IxbHRvRTF4YkY3aXI5RVg5bjl3S2lzaWRXZkhrYndWYjZlQmVGQzhjZ01tUG03M0tneXYza25iZm8xakVSc1pDQ290cHVERERmaDJjdW9DalBfZlRsTXpBUGRFQ1JzVVdQanYwcmZfZk9jTnpyZkVnQ2FMbzloSDlNWmhFeF9WMk1BUnBzb2owaG03cVVGbU9OMmZhYjdDQU9ZeF96Vkp6dHNBbnh3YnlrcTFUeGFqeUJJMnRhYzVqem45eDhDMFI3Rk04S1FFSzVueHp3Z1pabWNJNjVVUQ?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaWmprVThtNkVOUzhIMmRHMTlmTHJmUEJTeW5sY0llckJna0J4UHJBbnh5MzNZSW1LUHJrb2plUXZQYjY0NnpZcXdBZmtzYjZsUElj?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Israeli, Lebanese officials deny US claim that IDF withdrew from parts of Lebanon",
+          "url": "https://www.timesofisrael.com/israeli-lebanese-officials-deny-us-claim-that-idf-withdrew-from-parts-of-lebanon/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Israel Denies Report of Partial Withdrawal From Southern Lebanon 'Buffer Zone'",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQR0pYMmpSWVM0d2NHTklzV0pxNlg0NmhBUEwyM29kN0lNbURQQy1uR1I3SV9xSmFLVEptYkpaODVVU3l6YlIwUy1UblBSYk5ybmU2eGFRN0xvOUVTRFUybFk3ck94ZWtCVmd1NEk1OUdNVnAwNm5oQjA0cnYzODhWY09zdzRqdVNCNnBVcjVhMzFOYlNEV3gxZ28yNm82em1MaE40YTFXTkJ1SEtKd01IS25BeHlsbXdLbWtGWHVTQVpqelZJUjdiaGhTNEh1c29GVUtsQW9JTzRCdmo2dU9TR2E2RjhaZF9MWUZSdUI3NFZKOUVQSFJXUDlxal8xNDRSUjMweFlUZGNLc29pSVdIR3hTcWE5Y2M?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Israel strikes southern Lebanon again, breaching ceasefire",
+          "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "IRGC Quds Force chief warns Israel to leave Lebanon or face humiliating defeat",
+          "url": "https://en.irna.ir/news/86192654/IRGC-Quds-Force-chief-warns-Israel-to-leave-Lebanon-or-face-humiliating",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Ghaani warns 'Israel' to leave entire Lebanon",
+          "url": "https://en.mehrnews.com/news/245593/Ghaani-warns-Israel-to-leave-entire-Lebanon",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Israeli",
+      "count": 14,
+      "headlines": [
+        {
+          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drones-and-decomposing-babies-whats-un-report-israels-genocide",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Two people killed in Israeli drone strike on car in South Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-people-killed-israeli-drone-strike-car-south-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli defense minister says Israel will not withdraw from southern Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2J1NHJTUGcwbVlSUEh6UHQyQUhoWHlIci05MVQ1NTVQTmZYQ0NYNExRdTlKM0d3U0VFNGx0WU5LSV8yY1IwZ3NJN2J1V3VfYUlfRXFEeHQ0V01ORmpfcFpIZzZJU1lnTDFWbGZHeUhBaXhrYTlHVHNTTkhHUjk2Q05wUlRqYzRxd21lMndvdG1fZGIzRUpwbHp1Z3VmRmxaVUtib2RKYngteXBJOGxBajhVaE9KMkhZZ004TW9jaXVwek9wTmNqVXh3TURlQl93T1lmZDFvczNEVGPSAdsBQVVfeXFMT1NidTRyU1BnMG1ZUlBIelB0MkFIaFh5SHItOTFUNTU1UE5mWENDWDRMUXU5SjNHd1NFRTRsdFlOS0lfMmNSMGdzSTdidVd1X2FJX0VxRHh0NFdNTkZqX3BaSGc2SVNZZ0wxVmxmR3lIQWl4a2E5R1RzU05IR1I5NkNOcFJUamM0cXdtZTJ3b3RtX2RiM0VKcGx6dWd1ZkZsWlVLYm9kSmJ4LXlwSThsQWo4VWhPSjJIWWdNOE1vY2l1cHpPcE5jalV4d01EZUJfd09ZZmQxb3MzRFRj?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Journalist among two Palestinians injured in assault by Israeli forces in northern Jordan Valley - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VVnQzZVdOWFdxaHE1UEx6aTJ5YW0xX1dqSmJocmY0R292RWZnWXo3elVIeDc5ckp4bldYTndRaXd1VWgwU1ZZalotaFBaRzVGUS1rYklNaw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli colonists raid Bedouin community near Khan al-Ahmar east of Jerusalem - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WXFTQUhBZWhwRmlqUHdzTk1pMjR4SmpjMURSakRDbGozSXVPTWM2LUtwMXBoME5aTHlwVXJpcGhOTWxQdU5fUURvc1gzeTBTWmVJNEU5cw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli colonists attack Palestinian youths with pepper spray in Ras al-Ahmar area near Tubas - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQMnRvSEZrNEFVN3hiZld1N2ttVmlOQnZRQTltQmF0U0lFWEZKWFZMbS1JMnJjcmlsMkhPQ2pFckJGWmRHMk5jQzR3RDUyUmlsUnFMMVBLVQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Palestinian Prisoner's Society says two Palestinians killed during Israeli detention incursions - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tYUZ1OHJ5aFRRVF8yNVBDUkoyX1ZBdkhMOHpSYzU1X0VYMVgwVVhpeFZqUzZvMkYtRjFWWEZINU11ODYyWlBZN2lNMC1JYS16MDhlTmctZw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces issue demolition orders for five homes and three agricultural structures in Hebron - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPSW5NZ055Z2l1QjcydmVYZWxzMWtRZGNmVTkyQ0J5UnRhS1pLVlpGSHpucjFNQ1lKREg0d0hPcnNKZ0xBMDVnZ0kwMmpmeEkxdTd6aFh1VQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaWmprVThtNkVOUzhIMmRHMTlmTHJmUEJTeW5sY0llckJna0J4UHJBbnh5MzNZSW1LUHJrb2plUXZQYjY0NnpZcXdBZmtzYjZsUElj?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Israeli, Lebanese officials deny US claim that IDF withdrew from parts of Lebanon",
+          "url": "https://www.timesofisrael.com/israeli-lebanese-officials-deny-us-claim-that-idf-withdrew-from-parts-of-lebanon/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Israeli Universities Rise in Global Rankings, Palestinian Institution Makes Top List",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWZhZ085eEEzRHpvaEpKblRLbUdrV1NVUzRqQ2xuRmJCV2NBMzdJRnl4WW12ZEhoRzY3T3VHVDJUV2l4Ni1hRlZ1cUNic2twcm90ZzJNcVRoaERlX05Tcm9GQThoX3ptMGhySk9rUUV0MzcyZDNNelJ5UGRwN1hnTEYtS0tvSTZJNDdKUUJqR0J5WlYwbm5sUk9vOTFLUGl3ZUxsR2lZQ0VBNEZ3RXhGbGRnY2l1WHpSVVBsV0xWT1VNVXk3YmdHRkJybEZocDQ5aERxYXlNZjJYRnhCbHdMQ2Jlb1dYRUlLVzVXY0JlMmhwaVBEaGd5RS12OXZmU205UmpVaWpoTTZ4NkY0bEY4?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Opinion | The map and 'the territories': Why Israeli election coverage has no maps",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORm1zOWo4Wng1TGR2T1k3OE5UUDFDbXRKZE13NmtpNFYxX0JqbDhVT2VaUXlDWUZJTjZqOUV1VHFfaWlxakdDaTBNZWF6ZnNULTZtUXlGNjEzYTg0MGxlM1hMNUpILW5VU2FybnlYVWs2SFk0SnRDLVBxTWNKWTJDQmRMYkFjb25LbG5DUmt3bUtkU1ptcnY2NnhGb2tlcUdESG1SRG5VdW04b0dZOHZvX0stc2dUY203UmQ1WXZQZzc1eU1sem5sNldHN0RtZExVMF9pVXVjVHlycTRoOXFwdVZYWjhHNktzOHR0ZFd0a3h1NVFaQndLaUZzYlNVTlJvSnR6aVgtLU4?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "IDF Lawyer: Israeli Army Randomly, Unlawfully Restricts West Bank Palestinians",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMjY4NHFGVEh6YVRmNHVPNHpkbno1SFlUemFnMWYzZVNvanM1TlI2VjQ4U2doWFYxTWxjanJ5WGJ2XzdkZFN5X1RUN1dOM1dQb01hOTNpU0kyYWttdk1wdHR0b3RsWjBIZTMzSEZJQ1c0dHdrZ1oyREd0OUJkdV9HeUxwM0oxdnU4c1Y3VU1KcElIWUhkNFRRTVcwcGZLQWNjLVltbjg2R2w0MHl2LWlGSkx5T0lwZ0xaeTlyOHRvRHlXSWp1TXZpNm54S2paQlVtWlNpUHRfNkhXb1dWQmMtVzVBamRBaXZlQ3ljdk5tMno5RUg2X01RQWtFQjdyY3VSQ2kwZGN1dlRRTGMySlY1Ql9VejlMaGFyTUdRWEF3?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Venezuela",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "Venezuela earthquakes devastate country",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-earthquakes-devastate-country?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Thousands feared dead after major earthquakes strike Venezuela",
-          "url": "https://www.newarab.com/news/thousands-feared-dead-after-major-earthquakes-strike-venezuela",
-          "source": "The New Arab",
+          "title": "Venezuela quakes: How will sanctions impact aid operations?",
+          "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
@@ -358,12 +316,6 @@
           "title": "What we know about Venezuela’s biggest earthquake in more than a century",
           "url": "https://www.egyptindependent.com/what-we-know-about-venezuelas-biggest-earthquake-in-more-than-a-century/",
           "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "زلزالان عنيفان يخلّفان عشرات القتلى ومئات الجرحى في فنزويلا - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPX1FCREdWN0N1MEpoREpleWxlVTRvWm91b2tQQVJHV2diMHFGRmV5Rlc2clFCY0x5aGJUcUN6VWV6bnFnTzE4QkhFcnEzVmNoeGhkTVJTdWEzbkhVb3hpZDZ6YVVJZzlSMmlhTllYMzFNVXhBNHNwSDZvZThLbkEydU03QUFjVEhHTjZaTW1fd3ktNk94TW11TUo5Nnh6ZENkSlQzQzFkeXQ1UlZSZ2dhVldPSzBuZmxtLW1lSmhCMWJiY1pZZUJQSW15XzBwMnAySVVnYUE4MlZfMTh4NlpDZVJNUkZUd0JGaFVmYXBiTU8xY3RKdXZQcEVSZG9qQzdIb0VrVGU0Sk5sY0s3S3p1MnQ0aGNTWkhQQXBBU1ZKVTRnc0wyY2hUMVlXbi1vb0NRbzlqdURTVjdVYTJhZTdvTmVaNGxBSF8yYnFYNndNWkloQWRJX2NMa1h1eUw0WXZoamNMcXQ0Tk1qT3Jsd29rODB0VnEzV0lyX3BGdWVrWlRzZ3lMYy1pVlprZU9Ic3RrVGxORDFnQ09nRTFPWXVnaWZ1QlZ3VmRmMDM0emNmUVpJdktYX0FiazJZWXlqSUMyMG5KTGhZYjRyRkZtVDJIakZUUU80dGtPS0dfUnFiRWVlZDJBSUp2Wk1fbzByNV8ycXc?oc=5",
-          "source": "Al-Akhbar",
           "region": "Levant"
         },
         {
@@ -387,13 +339,61 @@
       ]
     },
     {
-      "term": "Palestinian",
-      "count": 8,
+      "term": "Trump",
+      "count": 7,
       "headlines": [
         {
-          "title": "Israeli forces kill Palestinian man during raid on his home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "‘Why is Israel allowed nukes but not others?’ Will Iran & Trump make a peace deal?",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQdIB5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "ICC judges sue Trump over 'draconian' sanctions",
+          "url": "https://www.newarab.com/news/icc-judges-sue-trump-over-draconian-sanctions",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "مشادة كلامية بين ترامب وسناتور جمهوري بسبب الحرب على إيران",
+          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNdlRQcDBiTEdPMjNnX2xrUVZwNWx6SFowTnhyTmVmYVU3cDFFMWhRekRhOEwweE05eWVFMU1jNWhPcWxuakU3WFQ4QnA3em5yYlE2S0k3WHcxX3VMOVh6YnZjZ3pUZmF0eU9aa1BVRHRINzNIN29SZGlOUVY1RnBDMWU5RnRieXVhQm55UW5jbmhUbVFrZ28xTklQX3k1UDk2UEVnb3EwbUwzbEI4MEJETGZrQ3UwYU1SUmFuN2luX1FsNzVzT09Ec1dBejFpdEdVX01kRFBzcnc5U2pUTVlYNTM2YS0yeHBSS3NXZ1F6U1p4M0VrRVpXUkltQlZ1eGVLU3dVSFFQaGJLSzlKUmFSaFYzYXpER0V1MnhFR3hDZ2k5d0VuVExaVmRTNG53LV9ZMVlIZG9BWVExMElYc0paNnB2bWFrOTVFa3dOSVdYcnI2bUZfZzFOTVZzTjYtS2pSWGN0RlRjcGItNnd2Ul9WM05RZ3pEdWhHWVc4aVhsNmNoTmtGVklLRXhNQ3JfZHNKQXZFVGUwaVQzQXd1TDZPLTgxbHNfOEppTENFUkpqamtkRWxwWW1ZM3piNm5YTFRPeHNTTWxZV2JmdExGZDFaUlprMzRJZXFPMVBaSnpidHdlZHVMbmVj0gHrA0FVX3lxTE1YSDFkYktLWnJzNXc4SFpfdHNYYk03ZHZKYzJfeF92ZU9aQXJ0bl8xdUNnWVItOFd1UUtzUHFyY3ozd3V2X3B5MDNjeFJhTmhTSU00Si1wS3JuX3pPOGpYbFFsdDUtMWVsNzZBbW1HdmdVcUpoc3FXd0FiZ1ZRTHYxc2QtZ2lhMnNmb3E4QnZSZzkyWVd2MEh0Z1ozOHlDTkdBRWZJSW9mcUg3N3BPZVBCc3pPYjA2SDR5QUJhNUtYaDNTbEtWSnROUjM3dWxXMDRvZ0tCaXJaWlEyOTF4c3pMcnNLQlhfWWRlamR4d2JFWl9PeGdheXN4a0ExNjktTzRzU2dBeFRPMHVZdUlCNUdvdl9CVVpGUUwtV1FlN21ZR0xTRzZFUjJPRWpWVFdHUGFScHRNbDkzeWozS0hhZnVuVlRMdzRjS2lOSVJMYzBxanVIazlUWFNkbFZhRDdsdG5uNUZjWC1IaTJSbjgxcV9BN25pSjBBT3JJZU9RNF9pX0lwazQzRjZGc1FOeW5EWXBwTjV3bVhtUWlYZ3pZM284bmZJV0ZWZW12UlFmbjJObWxZSHNPT1ZiOU9FdTlfa3FTMVd1WERwd0FJNkw0MUV0LWtmXzJCMmdPMnRVN0NfQXJZLWFMeVJHZXQ0?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "How Trump caused the biggest oil shock in history and got away with it – for now",
+          "url": "https://www.egyptindependent.com/how-trump-caused-the-biggest-oil-shock-in-history-and-got-away-with-it-for-now/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Daily Briefing June 25: US-Iran deal fuels Trump’s delusional dreams of peace and prizes",
+          "url": "https://www.timesofisrael.com/daily-briefing-june-25-us-iran-deal-fuels-trumps-delusional-dreams-of-peace-and-prizes/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Analysis • Rubio to the rescue: The Gulf, like Israel, feels Trump sold it out on Iran",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbU9PekJZdlF3YThZWW5aV1NDN1NxRFRoZTNZQnhpVVNzV0UtSmk4QnBGbXBiaVZJTVNXRWlyVlRXUlhMZGt0RHN3WXJQQ2syQ2VocVBSdEVfS3dCdlB0MEJ1LW1DUVlXWXloTW92dUVJNmFrRnFQbi1pOHI4MnpNcVFIaDdtZnFJNkxLOVNhMDhDLTRWOUlMY3RDVFNfdVNHeUpDVWNueEJMQVF0R0phNm5EYmVITklDTEdHbE1pUVZBY210TVk0R19SQ3lQYlhYRDlXZ2F6Ulk1OTNaUDJNNlNPempoWkJRSTJLUlFnb240M3czNnNqTDlUZkxJYTVUZEFZWVU2aHFKSkZCTklUQl8tVmFSVDkxM0g2V2xPamg?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Palestinian",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "Archbishop of Canterbury vows to help Palestinians achieve 'freedom you deserve'",
+          "url": "https://www.middleeasteye.net/news/archbishop-canterbury-vows-help-palestinians-achieve-freedom",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -401,24 +401,6 @@
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drones-and-decomposing-babies-whats-un-report-israels-genocide",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
-        },
-        {
-          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
-          "url": "https://www.middleeasteye.net/news/drones-decomposing-babies-un-report-israel-targeting-palestinian-children",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Crimson Thread: The new Israeli separation wall that cuts through the 'breadbasket of Palestine'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crimson-thread-new-israeli-separation-wall-cuts-through-breadbasket",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "وقفة تضامنية دعماً للأسرى اللبنانيين والفلسطينيين في السجون الإسرائيلية",
-          "url": "https://www.almanar.com.lb/article/976627/",
-          "source": "Al Manar",
-          "region": "Levant"
         },
         {
           "title": "Israeli colonists attack Palestinian youths with pepper spray in Ras al-Ahmar area near Tubas - WAFA Agency",
@@ -433,6 +415,12 @@
           "region": "Levant"
         },
         {
+          "title": "Police find possible terror tunnel running from West Bank toward Jerusalem, arrest 2",
+          "url": "https://www.timesofisrael.com/police-find-tunnel-running-from-west-bank-toward-jerusalem-arrest-2/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
           "title": "Israeli Universities Rise in Global Rankings, Palestinian Institution Makes Top List",
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWZhZ085eEEzRHpvaEpKblRLbUdrV1NVUzRqQ2xuRmJCV2NBMzdJRnl4WW12ZEhoRzY3T3VHVDJUV2l4Ni1hRlZ1cUNic2twcm90ZzJNcVRoaERlX05Tcm9GQThoX3ptMGhySk9rUUV0MzcyZDNNelJ5UGRwN1hnTEYtS0tvSTZJNDdKUUJqR0J5WlYwbm5sUk9vOTFLUGl3ZUxsR2lZQ0VBNEZ3RXhGbGRnY2l1WHpSVVBsV0xWT1VNVXk3YmdHRkJybEZocDQ5aERxYXlNZjJYRnhCbHdMQ2Jlb1dYRUlLVzVXY0JlMmhwaVBEaGd5RS12OXZmU205UmpVaWpoTTZ4NkY0bEY4?oc=5",
           "source": "Haaretz",
@@ -442,20 +430,8 @@
     },
     {
       "term": "withdrawal",
-      "count": 8,
+      "count": 6,
       "headlines": [
-        {
-          "title": "Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmFjSWd2SGg4UjJKRExtYWlJMzlKWFhhRGRfd3FpaWVjQXlFZ0YyNXFVMEVmbHhtQWxMbm95NnFMS09SUjh3NHZqSWpJUlpZTzV3SGdiRUJnVTFBSTE2em5EeFNnSnM1WG1MMHB0NDJpRVg3VWd5YlpnOGh4aTBuQl9MTTZjVjNScUxLZERTaEpBaWNsMWxZWkNiYnA2TzR1OEdWMUxxZG9qbHZQNlRBbC1qQVhFN3hNUWI0RXhxbXlmTkVaeDQ1MTZRMTZnNldHalI40gHTAUFVX3lxTE12YWNJZ3ZIaDhSMkpETG1haUkzOUpYWGFEZF93cWlpZWNBeUVnRjI1cVUwRWZseG1BbExub3k2cUxLT1JSOHc0dmpJaklSWllPNXdIZ2JFQmdVMUFJMTZ6bkR4U2dKczVYbUwwcHQ0MmlFWDdVZ3liWmc4aHhpMG5CX0xNNmNWM1JxTEtkRFNoSkFpY2wxbFlaQ2JicDZPNHU4R1YxTHFkb2psdlA2VEFsLWpBWEU3eE1RYjRFeHFteWZORVp4NDUxNlExNmc2V0dqUjg?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مصدر أمني للميادين: تم تجهيز مقدمات جدول انسحاب الاحتلال من جنوب لبنان وهو قيد الدراسة",
-          "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOdU9KanlOWnI0bEFFUXd6XzVZekNhT0w4TEZMREVJM21TVzE0UnhPQV9QSzUyMGF3cVdHNlBLTGpwUUFOMlo0UVAtNGt6MWZCNHA2eXc4YmlxSnpJazR6Ymp0NGVGMkhSVllYcE9SeS04WWloREJmbU5kSDlraVhZSDFuQTBJT3BwZjNiQUx1YXEyNlJiRkpkQmFMdzBkRzBZWTFzNTMyS0s5eUxIVzZHY0tTNWkwSG5hSm9CanVkdDlwa1FScUJYazkzOGFCcGFIQ00xNjBLTXlTbU9NRnNoOVhlWl82S21EWlNKZmk1Z2NMYnpQWU5fdmR6MUdYOTFyRVdMZVBsMWdyMElVS0Z6bFloV1ExRFpIc1g2Q0J6aS01SEFseWZ5aGZtYmlweDh2eXdYU3gwWjVBSWVYbFhNWlBrQUZXSldGYnE2VG1mZFdpZkM0VFlWV0JSR3BmZDk2YUNkbXI3ZTRranZtQ2cwRUhYWEZ6UWlpQXl6NGtmbmVlejYzenZIV2VhcUFZam9DQWkyODdrd24tblE0bW84OFNTTkx1TmVZWnhVdlJZZUNVZU8xNDlXcS01LUFwOUJuRF91YWEtWVNFZXkzVXJwSEM5RzdXNjJIa3lWXzBBazNwbG1PVlQ1cWwycWowM3YwOUdVTk1ZTFFJWk1zamhoQVJWODFrRVg5X09FcE4tWE1rVlEyRG94U3V4TnJQN19KY0NMZWRqUnQxQUZGMkFkZ1dZQ3JMSW1FYzlsSkRR?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
         {
           "title": "Israel says 'no US demand' to withdraw from Lebanon",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclkxTmp1cTlYMnVpcGZPV1lnaWYtZkFTNjhlUmtjcWxBMTVmVFF1N2tiM29Ub0Y3NjZlaEFQWmtIaFZLQUtGaDZjQ3VwVW1tdnRBLWRzc2owcFFUOW1MajYxXzhPMEN4cXN0c3M5NG9tQlhwbUtrSzFIOWxMa2tvbVNxZTdNN1VKSlNTTW13?oc=5",
@@ -495,42 +471,36 @@
       ]
     },
     {
-      "term": "Rubio",
-      "count": 6,
+      "term": "Palestinians",
+      "count": 5,
       "headlines": [
         {
-          "title": "Rubio says Europe’s refusal of military bases weakens transatlantic alliance with US",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-europes-refusal-military-bases-weakens-transatlantic-alliance",
+          "title": "Archbishop of Canterbury vows to help Palestinians achieve 'freedom you deserve'",
+          "url": "https://www.middleeasteye.net/news/archbishop-canterbury-vows-help-palestinians-achieve-freedom",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Rubio in Middle East tour says any Iran deal will ensure security of Gulf allies",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
-          "source": "L'Orient Today",
+          "title": "Journalist among two Palestinians injured in assault by Israeli forces in northern Jordan Valley - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VVnQzZVdOWFdxaHE1UEx6aTJ5YW0xX1dqSmJocmY0R292RWZnWXo3elVIeDc5ckp4bldYTndRaXd1VWgwU1ZZalotaFBaRzVGUS1rYklNaw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
-          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
-          "source": "Egypt Independent",
+          "title": "Palestinian Prisoner's Society says two Palestinians killed during Israeli detention incursions - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tYUZ1OHJ5aFRRVF8yNVBDUkoyX1ZBdkhMOHpSYzU1X0VYMVgwVVhpeFZqUzZvMkYtRjFWWEZINU11ODYyWlBZN2lNMC1JYS16MDhlTmctZw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "What to know about Rubio’s meeting with Gulf nations and Iran negotiations",
-          "url": "https://www.egyptindependent.com/what-to-know-about-rubios-meeting-with-gulf-nations-and-iran-negotiations/",
-          "source": "Egypt Independent",
+          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
+          "source": "Falastin al-Youm",
           "region": "Levant"
         },
         {
-          "title": "Rubio warns Hormuz tolls would ‘spread like contagion’ to other waterways",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05a0UxUDRwWDVfSVlxNG9udXBOY3ZYbWZjdFVyRXkzdFpPb0JWYml3RzkySGh5Qmh4b0FqWTFMd09LaTk1ZGppMXpxajI5WWVPeWdB?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Analysis • Rubio to the rescue: The Gulf, like Israel, feels Trump sold it out on Iran",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbU9PekJZdlF3YThZWW5aV1NDN1NxRFRoZTNZQnhpVVNzV0UtSmk4QnBGbXBiaVZJTVNXRWlyVlRXUlhMZGt0RHN3WXJQQ2syQ2VocVBSdEVfS3dCdlB0MEJ1LW1DUVlXWXloTW92dUVJNmFrRnFQbi1pOHI4MnpNcVFIaDdtZnFJNkxLOVNhMDhDLTRWOUlMY3RDVFNfdVNHeUpDVWNueEJMQVF0R0phNm5EYmVITklDTEdHbE1pUVZBY210TVk0R19SQ3lQYlhYRDlXZ2F6Ulk1OTNaUDJNNlNPempoWkJRSTJLUlFnb240M3czNnNqTDlUZkxJYTVUZEFZWVU2aHFKSkZCTklUQl8tVmFSVDkxM0g2V2xPamg?oc=5",
+          "title": "IDF Lawyer: Israeli Army Randomly, Unlawfully Restricts West Bank Palestinians",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMjY4NHFGVEh6YVRmNHVPNHpkbno1SFlUemFnMWYzZVNvanM1TlI2VjQ4U2doWFYxTWxjanJ5WGJ2XzdkZFN5X1RUN1dOM1dQb01hOTNpU0kyYWttdk1wdHR0b3RsWjBIZTMzSEZJQ1c0dHdrZ1oyREd0OUJkdV9HeUxwM0oxdnU4c1Y3VU1KcElIWUhkNFRRTVcwcGZLQWNjLVltbjg2R2w0MHl2LWlGSkx5T0lwZ0xaeTlyOHRvRHlXSWp1TXZpNm54S2paQlVtWlNpUHRfNkhXb1dWQmMtVzVBamRBaXZlQ3ljdk5tMno5RUg2X01RQWtFQjdyY3VSQ2kwZGN1dlRRTGMySlY1Ql9VejlMaGFyTUdRWEF3?oc=5",
           "source": "Haaretz",
           "region": "Israel"
         }
@@ -574,8 +544,14 @@
     },
     {
       "term": "war",
-      "count": 5,
+      "count": 4,
       "headlines": [
+        {
+          "title": "Iran, Israel and the Bomb",
+          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/6/25/iran-israel-and-the-bomb?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
           "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
@@ -587,192 +563,12 @@
           "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNdlRQcDBiTEdPMjNnX2xrUVZwNWx6SFowTnhyTmVmYVU3cDFFMWhRekRhOEwweE05eWVFMU1jNWhPcWxuakU3WFQ4QnA3em5yYlE2S0k3WHcxX3VMOVh6YnZjZ3pUZmF0eU9aa1BVRHRINzNIN29SZGlOUVY1RnBDMWU5RnRieXVhQm55UW5jbmhUbVFrZ28xTklQX3k1UDk2UEVnb3EwbUwzbEI4MEJETGZrQ3UwYU1SUmFuN2luX1FsNzVzT09Ec1dBejFpdEdVX01kRFBzcnc5U2pUTVlYNTM2YS0yeHBSS3NXZ1F6U1p4M0VrRVpXUkltQlZ1eGVLU3dVSFFQaGJLSzlKUmFSaFYzYXpER0V1MnhFR3hDZ2k5d0VuVExaVmRTNG53LV9ZMVlIZG9BWVExMElYc0paNnB2bWFrOTVFa3dOSVdYcnI2bUZfZzFOTVZzTjYtS2pSWGN0RlRjcGItNnd2Ul9WM05RZ3pEdWhHWVc4aVhsNmNoTmtGVklLRXhNQ3JfZHNKQXZFVGUwaVQzQXd1TDZPLTgxbHNfOEppTENFUkpqamtkRWxwWW1ZM3piNm5YTFRPeHNTTWxZV2JmdExGZDFaUlprMzRJZXFPMVBaSnpidHdlZHVMbmVj0gHrA0FVX3lxTE1YSDFkYktLWnJzNXc4SFpfdHNYYk03ZHZKYzJfeF92ZU9aQXJ0bl8xdUNnWVItOFd1UUtzUHFyY3ozd3V2X3B5MDNjeFJhTmhTSU00Si1wS3JuX3pPOGpYbFFsdDUtMWVsNzZBbW1HdmdVcUpoc3FXd0FiZ1ZRTHYxc2QtZ2lhMnNmb3E4QnZSZzkyWVd2MEh0Z1ozOHlDTkdBRWZJSW9mcUg3N3BPZVBCc3pPYjA2SDR5QUJhNUtYaDNTbEtWSnROUjM3dWxXMDRvZ0tCaXJaWlEyOTF4c3pMcnNLQlhfWWRlamR4d2JFWl9PeGdheXN4a0ExNjktTzRzU2dBeFRPMHVZdUlCNUdvdl9CVVpGUUwtV1FlN21ZR0xTRzZFUjJPRWpWVFdHUGFScHRNbDkzeWozS0hhZnVuVlRMdzRjS2lOSVJMYzBxanVIazlUWFNkbFZhRDdsdG5uNUZjWC1IaTJSbjgxcV9BN25pSjBBT3JJZU9RNF9pX0lwazQzRjZGc1FOeW5EWXBwTjV3bVhtUWlYZ3pZM284bmZJV0ZWZW12UlFmbjJObWxZSHNPT1ZiOU9FdTlfa3FTMVd1WERwd0FJNkw0MUV0LWtmXzJCMmdPMnRVN0NfQXJZLWFMeVJHZXQ0?oc=5",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
-        },
-        {
-          "title": "What to know about Rubio’s meeting with Gulf nations and Iran negotiations",
-          "url": "https://www.egyptindependent.com/what-to-know-about-rubios-meeting-with-gulf-nations-and-iran-negotiations/",
-          "source": "Egypt Independent",
-          "region": "Levant"
         },
         {
           "title": "Russia pumps up pressure on Belarus to open new front in Ukraine war, eyes anti-NATO ops. - WSJ",
           "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-900534",
           "source": "Jerusalem Post",
           "region": "Israel"
-        },
-        {
-          "title": "Dubai enlisting businesses to help keep it a tourism and finance hub after Iran war",
-          "url": "https://www.timesofisrael.com/dubai-enlisting-businesses-to-help-keep-it-a-tourism-and-finance-hub-after-iran-war/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "مشادة كلامية بين ترامب وسناتور جمهوري بسبب الحرب على إيران",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNdlRQcDBiTEdPMjNnX2xrUVZwNWx6SFowTnhyTmVmYVU3cDFFMWhRekRhOEwweE05eWVFMU1jNWhPcWxuakU3WFQ4QnA3em5yYlE2S0k3WHcxX3VMOVh6YnZjZ3pUZmF0eU9aa1BVRHRINzNIN29SZGlOUVY1RnBDMWU5RnRieXVhQm55UW5jbmhUbVFrZ28xTklQX3k1UDk2UEVnb3EwbUwzbEI4MEJETGZrQ3UwYU1SUmFuN2luX1FsNzVzT09Ec1dBejFpdEdVX01kRFBzcnc5U2pUTVlYNTM2YS0yeHBSS3NXZ1F6U1p4M0VrRVpXUkltQlZ1eGVLU3dVSFFQaGJLSzlKUmFSaFYzYXpER0V1MnhFR3hDZ2k5d0VuVExaVmRTNG53LV9ZMVlIZG9BWVExMElYc0paNnB2bWFrOTVFa3dOSVdYcnI2bUZfZzFOTVZzTjYtS2pSWGN0RlRjcGItNnd2Ul9WM05RZ3pEdWhHWVc4aVhsNmNoTmtGVklLRXhNQ3JfZHNKQXZFVGUwaVQzQXd1TDZPLTgxbHNfOEppTENFUkpqamtkRWxwWW1ZM3piNm5YTFRPeHNTTWxZV2JmdExGZDFaUlprMzRJZXFPMVBaSnpidHdlZHVMbmVj0gHrA0FVX3lxTE1YSDFkYktLWnJzNXc4SFpfdHNYYk03ZHZKYzJfeF92ZU9aQXJ0bl8xdUNnWVItOFd1UUtzUHFyY3ozd3V2X3B5MDNjeFJhTmhTSU00Si1wS3JuX3pPOGpYbFFsdDUtMWVsNzZBbW1HdmdVcUpoc3FXd0FiZ1ZRTHYxc2QtZ2lhMnNmb3E4QnZSZzkyWVd2MEh0Z1ozOHlDTkdBRWZJSW9mcUg3N3BPZVBCc3pPYjA2SDR5QUJhNUtYaDNTbEtWSnROUjM3dWxXMDRvZ0tCaXJaWlEyOTF4c3pMcnNLQlhfWWRlamR4d2JFWl9PeGdheXN4a0ExNjktTzRzU2dBeFRPMHVZdUlCNUdvdl9CVVpGUUwtV1FlN21ZR0xTRzZFUjJPRWpWVFdHUGFScHRNbDkzeWozS0hhZnVuVlRMdzRjS2lOSVJMYzBxanVIazlUWFNkbFZhRDdsdG5uNUZjWC1IaTJSbjgxcV9BN25pSjBBT3JJZU9RNF9pX0lwazQzRjZGc1FOeW5EWXBwTjV3bVhtUWlYZ3pZM284bmZJV0ZWZW12UlFmbjJObWxZSHNPT1ZiOU9FdTlfa3FTMVd1WERwd0FJNkw0MUV0LWtmXzJCMmdPMnRVN0NfQXJZLWFMeVJHZXQ0?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
-          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "How Trump caused the biggest oil shock in history and got away with it – for now",
-          "url": "https://www.egyptindependent.com/how-trump-caused-the-biggest-oil-shock-in-history-and-got-away-with-it-for-now/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Daily Briefing June 25: US-Iran deal fuels Trump’s delusional dreams of peace and prizes",
-          "url": "https://www.timesofisrael.com/daily-briefing-june-25-us-iran-deal-fuels-trumps-delusional-dreams-of-peace-and-prizes/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Analysis • Rubio to the rescue: The Gulf, like Israel, feels Trump sold it out on Iran",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbU9PekJZdlF3YThZWW5aV1NDN1NxRFRoZTNZQnhpVVNzV0UtSmk4QnBGbXBiaVZJTVNXRWlyVlRXUlhMZGt0RHN3WXJQQ2syQ2VocVBSdEVfS3dCdlB0MEJ1LW1DUVlXWXloTW92dUVJNmFrRnFQbi1pOHI4MnpNcVFIaDdtZnFJNkxLOVNhMDhDLTRWOUlMY3RDVFNfdVNHeUpDVWNueEJMQVF0R0phNm5EYmVITklDTEdHbE1pUVZBY210TVk0R19SQ3lQYlhYRDlXZ2F6Ulk1OTNaUDJNNlNPempoWkJRSTJLUlFnb240M3czNnNqTDlUZkxJYTVUZEFZWVU2aHFKSkZCTklUQl8tVmFSVDkxM0g2V2xPamg?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "agreement",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Rubio in Middle East tour says any Iran deal will ensure security of Gulf allies",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Egypt signs historic agreement to establish 1st wind turbine factory",
-          "url": "https://www.egyptindependent.com/egypt-signs-historic-agreement-to-establish-1st-wind-turbine-factory/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "What to know about Rubio’s meeting with Gulf nations and Iran negotiations",
-          "url": "https://www.egyptindependent.com/what-to-know-about-rubios-meeting-with-gulf-nations-and-iran-negotiations/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "KSrelief signs agreement to boost medical infrastructure in Sudan",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNEYwS3R5WklEX0d3ZTA5M3dfX2ZaOTF5NlRGaW51bjhxV1FfRXJKa0huMC13d1FOMDF5TjFvX25jV3dVM1FvZmhqdnFTMFJCZlVV?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Pakistan, US agree in principle to form maritime working group",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGV1Myc0NOeHlmX0szbFFRQ2t0bUJ1LUdndVBvaDh5N25OaGlfbXg5aUF4YWdlWnFtWFhqTTgxcElHVl9uNGJtSm5mSktGczJib2ZF?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Palestinians",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Journalist among two Palestinians injured in assault by Israeli forces in northern Jordan Valley - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VVnQzZVdOWFdxaHE1UEx6aTJ5YW0xX1dqSmJocmY0R292RWZnWXo3elVIeDc5ckp4bldYTndRaXd1VWgwU1ZZalotaFBaRzVGUS1rYklNaw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinian Prisoner's Society says two Palestinians killed during Israeli detention incursions - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tYUZ1OHJ5aFRRVF8yNVBDUkoyX1ZBdkhMOHpSYzU1X0VYMVgwVVhpeFZqUzZvMkYtRjFWWEZINU11ODYyWlBZN2lNMC1JYS16MDhlTmctZw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinians warn West Bank antiquities bill designed to expand Israeli control",
-          "url": "https://www.timesofisrael.com/palestinians-warn-west-bank-antiquities-bill-designed-to-expand-israeli-control/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "IDF Lawyer: Israeli Army Randomly, Unlawfully Restricts West Bank Palestinians",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMjY4NHFGVEh6YVRmNHVPNHpkbno1SFlUemFnMWYzZVNvanM1TlI2VjQ4U2doWFYxTWxjanJ5WGJ2XzdkZFN5X1RUN1dOM1dQb01hOTNpU0kyYWttdk1wdHR0b3RsWjBIZTMzSEZJQ1c0dHdrZ1oyREd0OUJkdV9HeUxwM0oxdnU4c1Y3VU1KcElIWUhkNFRRTVcwcGZLQWNjLVltbjg2R2w0MHl2LWlGSkx5T0lwZ0xaeTlyOHRvRHlXSWp1TXZpNm54S2paQlVtWlNpUHRfNkhXb1dWQmMtVzVBamRBaXZlQ3ljdk5tMno5RUg2X01RQWtFQjdyY3VSQ2kwZGN1dlRRTGMySlY1Ql9VejlMaGFyTUdRWEF3?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drones-and-decomposing-babies-whats-un-report-israels-genocide",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
-          "url": "https://www.middleeasteye.net/news/drones-decomposing-babies-un-report-israel-targeting-palestinian-children",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Reservist killed, soldier injured in truck accident in south Lebanon",
-          "url": "https://www.timesofisrael.com/reservist-killed-soldier-injured-in-truck-accident-in-south-lebanon/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Secretary",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Rubio says Europe’s refusal of military bases weakens transatlantic alliance with US",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-europes-refusal-military-bases-weakens-transatlantic-alliance",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
-          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
-          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "What to know about Rubio’s meeting with Gulf nations and Iran negotiations",
-          "url": "https://www.egyptindependent.com/what-to-know-about-rubios-meeting-with-gulf-nations-and-iran-negotiations/",
-          "source": "Egypt Independent",
-          "region": "Levant"
         }
       ]
     },
@@ -807,32 +603,152 @@
       ]
     },
     {
-      "term": "Lebanese",
+      "term": "Iraq",
       "count": 4,
       "headlines": [
         {
-          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "title": "Iraq warns it might leave OPEC if oil quota not raised",
+          "url": "https://www.newarab.com/news/iraq-warns-it-might-leave-opec-if-oil-quota-not-raised",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "From guns to power: The reinvention of Iraq's Asaib Ahl al-Haq",
+          "url": "https://www.newarab.com/analysis/guns-power-reinvention-iraqs-asaib-ahl-al-haq",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "العراق يلوّح بمراجعة عضويته في «أوبك» إذا لم تُرفع حصته الإنتاجية - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPZk03X1d3dUNzSWUwenJCN3ZOUTVaWTUzbUFmRkJBZmlTekhUWWJWMTdaVmxVS0hZa1FCdnlFMVk0T01HcXRXNFctbXJYSVhWX1V4TGlsUWs5RFlndVZraTBmUlh4UlhlcEhDVUIycGRacXRwUjhKa0Y3dEozeEtiN1VSUUxzSElLOS14ZHBqeTVjSEtnNU5GSjRhdkxoVjJOZGxWdF9MZ2hjMFhEVEVsR0FsRGdXakpYbG5SU2NTVWZROFdpb2NDZHVYbEFGTWROYmRGcVhYbzBUamJKcDJ3bzhxRGxKTVZPdFRVM1VOSDJUcnM3NzZXSW1WQ2V1ZF8yNmFmVGtCcjlCa1UtU3hybjQ2c1dhdTNfSXRia0VJb2tpUGJvYUNNWXc1akg1eUYzZEhYRklVdkVPZGY4OVFzZHZCdE04RGwzbm12cko3Zk9Lc3ltM0NvbVNrOENZanVYcUsxUlJLZXQtd3psUWszTHN2RUVZTEUwckJyMGsxelVFRENES3RrczV6NW0wX08yeG9NRk14MG50M3E2VXJUZ0lDeExGbzYxNkxPVThCRnFXZ2pqWkhPTXB1aVhfd0dNWXU3dE1kUGUxeDFCb19kRmhFajdNYjVmNkZaQkQ5aW5mU1k0eWc?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Iraq threatens to leave Opec if quota demands not met",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDk1WG5rMVlFQTI1YjdFbTRDY1JEalJzZ0hWR2FDNk1kOUtVdkZ1VU1QNWZZUTZ2cmN5dFhqbTlyb0JUd3dHU1g2WnhoTGxjTUlUVzNaMTc4MVNvcjFXRnlWWllJb0ZkR0FoODV2WEZMeWZzNTRGR29TSXdCODVPRDg3QTR4aFZxVzVVb041MUd1UXVNcGlmWk1OWmNqYUVsZEtmMF9GWG5yQmdoVU1uVU1aM3A0V2VjbVZGZUpxOVlpTXo5Y3V3aWtmVU4?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "OPEC",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Iraq warns it might leave OPEC if oil quota not raised",
+          "url": "https://www.newarab.com/news/iraq-warns-it-might-leave-opec-if-oil-quota-not-raised",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Officials considering all options if OPEC quota is not raised, has weighed exit, sources say",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnpCUEJlT2Z5OUNOSWU0c2I0YVVwVGN5TzdZZEZqUThTTDZTajNQZFZVbHFDN0ZPZjBrRGNJUUNzcDZtWks3a3c2VVZvMU5FRlV3TTJNMXpSOF8yN29TeE5PTFNhWWR0Sk56MXpINUdBRWpzbG0wemVOaFN2SllVdHU4WllIR3JwdFZFTkpSQ0NCZ0IwU0haRnRsOUNsRDdBN1YxWXZmdzNFRDRDXzJRdGFwUmJld2haOXMxbl9taEphVzVLN0xrd3JHUU5EWVhLZkZsLXE2OEJwQWM?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "نقابة المعلمين اسفت لمظاهر الاحتفال بقرار إلغاء الامتحانات",
-          "url": "https://www.almanar.com.lb/article/976702/",
-          "source": "Al Manar",
+          "title": "العراق يلوّح بمراجعة عضويته في «أوبك» إذا لم تُرفع حصته الإنتاجية - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPZk03X1d3dUNzSWUwenJCN3ZOUTVaWTUzbUFmRkJBZmlTekhUWWJWMTdaVmxVS0hZa1FCdnlFMVk0T01HcXRXNFctbXJYSVhWX1V4TGlsUWs5RFlndVZraTBmUlh4UlhlcEhDVUIycGRacXRwUjhKa0Y3dEozeEtiN1VSUUxzSElLOS14ZHBqeTVjSEtnNU5GSjRhdkxoVjJOZGxWdF9MZ2hjMFhEVEVsR0FsRGdXakpYbG5SU2NTVWZROFdpb2NDZHVYbEFGTWROYmRGcVhYbzBUamJKcDJ3bzhxRGxKTVZPdFRVM1VOSDJUcnM3NzZXSW1WQ2V1ZF8yNmFmVGtCcjlCa1UtU3hybjQ2c1dhdTNfSXRia0VJb2tpUGJvYUNNWXc1akg1eUYzZEhYRklVdkVPZGY4OVFzZHZCdE04RGwzbm12cko3Zk9Lc3ltM0NvbVNrOENZanVYcUsxUlJLZXQtd3psUWszTHN2RUVZTEUwckJyMGsxelVFRENES3RrczV6NW0wX08yeG9NRk14MG50M3E2VXJUZ0lDeExGbzYxNkxPVThCRnFXZ2pqWkhPTXB1aVhfd0dNWXU3dE1kUGUxeDFCb19kRmhFajdNYjVmNkZaQkQ5aW5mU1k0eWc?oc=5",
+          "source": "Al-Akhbar",
           "region": "Levant"
         },
         {
-          "title": "كتلة الوفاء للمقاومة: على السلطة اللبنانية اغتنام فرصة الدعم الإيراني",
-          "url": "https://www.almanar.com.lb/article/976682/",
-          "source": "Al Manar",
+          "title": "Iraq threatens to leave Opec if quota demands not met",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDk1WG5rMVlFQTI1YjdFbTRDY1JEalJzZ0hWR2FDNk1kOUtVdkZ1VU1QNWZZUTZ2cmN5dFhqbTlyb0JUd3dHU1g2WnhoTGxjTUlUVzNaMTc4MVNvcjFXRnlWWllJb0ZkR0FoODV2WEZMeWZzNTRGR29TSXdCODVPRDg3QTR4aFZxVzVVb041MUd1UXVNcGlmWk1OWmNqYUVsZEtmMF9GWG5yQmdoVU1uVU1aM3A0V2VjbVZGZUpxOVlpTXo5Y3V3aWtmVU4?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Rubio",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Rubio in Middle East tour says any Iran deal will ensure security of Gulf allies",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
+          "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "وقفة تضامنية دعماً للأسرى اللبنانيين والفلسطينيين في السجون الإسرائيلية",
-          "url": "https://www.almanar.com.lb/article/976627/",
-          "source": "Al Manar",
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
           "region": "Levant"
+        },
+        {
+          "title": "Rubio warns Hormuz tolls would ‘spread like contagion’ to other waterways",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05a0UxUDRwWDVfSVlxNG9udXBOY3ZYbWZjdFVyRXkzdFpPb0JWYml3RzkySGh5Qmh4b0FqWTFMd09LaTk1ZGppMXpxajI5WWVPeWdB?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Analysis • Rubio to the rescue: The Gulf, like Israel, feels Trump sold it out on Iran",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbU9PekJZdlF3YThZWW5aV1NDN1NxRFRoZTNZQnhpVVNzV0UtSmk4QnBGbXBiaVZJTVNXRWlyVlRXUlhMZGt0RHN3WXJQQ2syQ2VocVBSdEVfS3dCdlB0MEJ1LW1DUVlXWXloTW92dUVJNmFrRnFQbi1pOHI4MnpNcVFIaDdtZnFJNkxLOVNhMDhDLTRWOUlMY3RDVFNfdVNHeUpDVWNueEJMQVF0R0phNm5EYmVITklDTEdHbE1pUVZBY210TVk0R19SQ3lQYlhYRDlXZ2F6Ulk1OTNaUDJNNlNPempoWkJRSTJLUlFnb240M3czNnNqTDlUZkxJYTVUZEFZWVU2aHFKSkZCTklUQl8tVmFSVDkxM0g2V2xPamg?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "agreement",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Rubio in Middle East tour says any Iran deal will ensure security of Gulf allies",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Egypt signs historic agreement to establish 1st wind turbine factory",
+          "url": "https://www.egyptindependent.com/egypt-signs-historic-agreement-to-establish-1st-wind-turbine-factory/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "KSrelief signs agreement to boost medical infrastructure in Sudan",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNEYwS3R5WklEX0d3ZTA5M3dfX2ZaOTF5NlRGaW51bjhxV1FfRXJKa0huMC13d1FOMDF5TjFvX25jV3dVM1FvZmhqdnFTMFJCZlVV?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Pakistan, US agree in principle to form maritime working group",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGV1Myc0NOeHlmX0szbFFRQ2t0bUJ1LUdndVBvaDh5N25OaGlfbXg5aUF4YWdlWnFtWFhqTTgxcElHVl9uNGJtSm5mSktGczJib2ZF?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "ceasefire",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Families of 4 missing post-cease-fire protest outside Grand Serail",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWFfa0VDdWpwdXM0QlB3U1hvRmhaaDgyMEU5Z1A4RnhFVFBiZk5ULW1DSHh1dE8wakl6MDdaMG9WNnBZb2J3dW15b3UyaDkweWxONmNqMTQtWlJFUDN0UGJwNzB3N3EzM0FqV0NOdjRPUnE1R0xhc05KUDVaNEFUWk0wenpLZ2xqdVdLLVVxZXc0bHE1c2hIT0xXZ0UtVkZ5dlM3TTd0QWFOZFlKd3JhMlg3Uk1XcWI4di1j?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "«يديعوت أحرونوت»: الساعات الأخيرة قبل وقف النار... كمين حزب الله أربك «الكتيبة 52» - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xY2xWaU9BSjAyYTZFeUVFeDBqS0hnam8zMVAzVHVUVmR0MzJyVkQ5NGsyNFNzUHdkTXJiSjJycnRfNTIwVmx5dDN6NjlSMTk3Xy0tVExVREo?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "As Strip stagnates, Gazans plan first large anti-Hamas protest since ceasefire",
+          "url": "https://www.timesofisrael.com/as-strip-stagnates-gazans-plan-first-large-anti-hamas-protest-since-ceasefire/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Israel strikes southern Lebanon again, breaching ceasefire",
+          "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -867,78 +783,6 @@
       ]
     },
     {
-      "term": "Marco",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Rubio says Europe’s refusal of military bases weakens transatlantic alliance with US",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-europes-refusal-military-bases-weakens-transatlantic-alliance",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
-          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "What to know about Rubio’s meeting with Gulf nations and Iran negotiations",
-          "url": "https://www.egyptindependent.com/what-to-know-about-rubios-meeting-with-gulf-nations-and-iran-negotiations/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Iraq",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iraq warns it might leave OPEC if oil quota not raised",
-          "url": "https://www.newarab.com/news/iraq-warns-it-might-leave-opec-if-oil-quota-not-raised",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "From guns to power: The reinvention of Iraq's Asaib Ahl al-Haq",
-          "url": "https://www.newarab.com/analysis/guns-power-reinvention-iraqs-asaib-ahl-al-haq",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "العراق يلوّح بمراجعة عضويته في «أوبك» إذا لم تُرفع حصته الإنتاجية - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPZk03X1d3dUNzSWUwenJCN3ZOUTVaWTUzbUFmRkJBZmlTekhUWWJWMTdaVmxVS0hZa1FCdnlFMVk0T01HcXRXNFctbXJYSVhWX1V4TGlsUWs5RFlndVZraTBmUlh4UlhlcEhDVUIycGRacXRwUjhKa0Y3dEozeEtiN1VSUUxzSElLOS14ZHBqeTVjSEtnNU5GSjRhdkxoVjJOZGxWdF9MZ2hjMFhEVEVsR0FsRGdXakpYbG5SU2NTVWZROFdpb2NDZHVYbEFGTWROYmRGcVhYbzBUamJKcDJ3bzhxRGxKTVZPdFRVM1VOSDJUcnM3NzZXSW1WQ2V1ZF8yNmFmVGtCcjlCa1UtU3hybjQ2c1dhdTNfSXRia0VJb2tpUGJvYUNNWXc1akg1eUYzZEhYRklVdkVPZGY4OVFzZHZCdE04RGwzbm12cko3Zk9Lc3ltM0NvbVNrOENZanVYcUsxUlJLZXQtd3psUWszTHN2RUVZTEUwckJyMGsxelVFRENES3RrczV6NW0wX08yeG9NRk14MG50M3E2VXJUZ0lDeExGbzYxNkxPVThCRnFXZ2pqWkhPTXB1aVhfd0dNWXU3dE1kUGUxeDFCb19kRmhFajdNYjVmNkZaQkQ5aW5mU1k0eWc?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "OPEC",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iraq warns it might leave OPEC if oil quota not raised",
-          "url": "https://www.newarab.com/news/iraq-warns-it-might-leave-opec-if-oil-quota-not-raised",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Officials considering all options if OPEC quota is not raised, has weighed exit, sources say",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnpCUEJlT2Z5OUNOSWU0c2I0YVVwVGN5TzdZZEZqUThTTDZTajNQZFZVbHFDN0ZPZjBrRGNJUUNzcDZtWks3a3c2VVZvMU5FRlV3TTJNMXpSOF8yN29TeE5PTFNhWWR0Sk56MXpINUdBRWpzbG0wemVOaFN2SllVdHU4WllIR3JwdFZFTkpSQ0NCZ0IwU0haRnRsOUNsRDdBN1YxWXZmdzNFRDRDXzJRdGFwUmJld2haOXMxbl9taEphVzVLN0xrd3JHUU5EWVhLZkZsLXE2OEJwQWM?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "العراق يلوّح بمراجعة عضويته في «أوبك» إذا لم تُرفع حصته الإنتاجية - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPZk03X1d3dUNzSWUwenJCN3ZOUTVaWTUzbUFmRkJBZmlTekhUWWJWMTdaVmxVS0hZa1FCdnlFMVk0T01HcXRXNFctbXJYSVhWX1V4TGlsUWs5RFlndVZraTBmUlh4UlhlcEhDVUIycGRacXRwUjhKa0Y3dEozeEtiN1VSUUxzSElLOS14ZHBqeTVjSEtnNU5GSjRhdkxoVjJOZGxWdF9MZ2hjMFhEVEVsR0FsRGdXakpYbG5SU2NTVWZROFdpb2NDZHVYbEFGTWROYmRGcVhYbzBUamJKcDJ3bzhxRGxKTVZPdFRVM1VOSDJUcnM3NzZXSW1WQ2V1ZF8yNmFmVGtCcjlCa1UtU3hybjQ2c1dhdTNfSXRia0VJb2tpUGJvYUNNWXc1akg1eUYzZEhYRklVdkVPZGY4OVFzZHZCdE04RGwzbm12cko3Zk9Lc3ltM0NvbVNrOENZanVYcUsxUlJLZXQtd3psUWszTHN2RUVZTEUwckJyMGsxelVFRENES3RrczV6NW0wX08yeG9NRk14MG50M3E2VXJUZ0lDeExGbzYxNkxPVThCRnFXZ2pqWkhPTXB1aVhfd0dNWXU3dE1kUGUxeDFCb19kRmhFajdNYjVmNkZaQkQ5aW5mU1k0eWc?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "NATO",
       "count": 3,
       "headlines": [
@@ -963,74 +807,26 @@
       ]
     },
     {
-      "term": "ceasefire",
+      "term": "Sources",
       "count": 3,
       "headlines": [
         {
-          "title": "Families of 4 missing post-cease-fire protest outside Grand Serail",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWFfa0VDdWpwdXM0QlB3U1hvRmhaaDgyMEU5Z1A4RnhFVFBiZk5ULW1DSHh1dE8wakl6MDdaMG9WNnBZb2J3dW15b3UyaDkweWxONmNqMTQtWlJFUDN0UGJwNzB3N3EzM0FqV0NOdjRPUnE1R0xhc05KUDVaNEFUWk0wenpLZ2xqdVdLLVVxZXc0bHE1c2hIT0xXZ0UtVkZ5dlM3TTd0QWFOZFlKd3JhMlg3Uk1XcWI4di1j?oc=5",
+          "title": "Officials considering all options if OPEC quota is not raised, has weighed exit, sources say",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnpCUEJlT2Z5OUNOSWU0c2I0YVVwVGN5TzdZZEZqUThTTDZTajNQZFZVbHFDN0ZPZjBrRGNJUUNzcDZtWks3a3c2VVZvMU5FRlV3TTJNMXpSOF8yN29TeE5PTFNhWWR0Sk56MXpINUdBRWpzbG0wemVOaFN2SllVdHU4WllIR3JwdFZFTkpSQ0NCZ0IwU0haRnRsOUNsRDdBN1YxWXZmdzNFRDRDXzJRdGFwUmJld2haOXMxbl9taEphVzVLN0xrd3JHUU5EWVhLZkZsLXE2OEJwQWM?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "«يديعوت أحرونوت»: الساعات الأخيرة قبل وقف النار... كمين حزب الله أربك «الكتيبة 52» - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNRVF6aUFVbjZOUDZKeDZDakRaYVhIajBpSktMdUV6ajlzaFhBdUg2bmxxMXM3c3dFaGxpVEQ3dDVLT3ZjanhNXzlxa0FMam1uYWFmaU1NMktwbjdBU0xDb0JoNEdWLW1zQktsOFZySEkzTDJUdFY5NVZURUxNRXdlc1VMR2ZoWl95cHVyVjFCYU5DLWo5dEpXUEZFelhrckgyanRJZHhfVEdTZVJFQS1hSXM3eDBmTGk2U2hVWG15MjlSOXYtS3EzSFdOOW51a19SMEsxQkduYkgyckpTdk5STEVwX0xzY2tmNzJfQ1U2UHNtbFZ2UFZFZWZPc3FrNFhyQXZNbjhMV1VKY09NSmhQSVdGc2s5aGZ3b0NDRFhYYUVFOWs0TU9jeVNnMVVmcjdrTXJIbGtmZXo4czhvVnd0UFdIcEZwWnphNWdBd08wRVNLWVo4MDZaTWVmMGV0b1JqVlE0bWVFdEpzcWMtRVNBX29uTFBkWmFrdDU2aUR4TVNxQy1BYThfdnRsczJXVUhBY09kS29QVjdqOVBZc0dMa3ZRMjExand5S2d3Yi1Panh3LUp5NGhidjU1eU5RWHd1RDZRVDF3bEFMTE9TNUtZZHJtb3I?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel strikes southern Lebanon again, breaching ceasefire",
-          "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "US-Iran",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "What to know about Rubio’s meeting with Gulf nations and Iran negotiations",
-          "url": "https://www.egyptindependent.com/what-to-know-about-rubios-meeting-with-gulf-nations-and-iran-negotiations/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Oman supports US-Iran diplomatic progress to secure regional peace",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmcyV3BlSWhQVHgxNy1mZ1M1TEFLTzNZd0hqNGRJMDNkR2p2UWVteVdVcGVPdnRKc0VHeXJrTzI4Y0FURDZ2VzU2MzJ5T3pHZ0tqcnlNRW02THBQaE9fREpReG9IdDhILWx4OW1qczJDbEppTGkyZHloektsU2xPMlo1enFfdFdVbDJRYk1zRVc4VVFRb21XYk5lRnZ6ZmNHS0tRdndzOXg?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "Daily Briefing June 25: US-Iran deal fuels Trump’s delusional dreams of peace and prizes",
-          "url": "https://www.timesofisrael.com/daily-briefing-june-25-us-iran-deal-fuels-trumps-delusional-dreams-of-peace-and-prizes/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "IRGC",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "IRGC says ships must use Iran-approved routes through Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTJBWnAwVUVYSW1zR2MxeUpNYkdDRjFUaFZZSGMyU2lXQkRuRHdiMWhPcFJ5elpzYmdEWXgzYVliRVBFcGtzVE1kTDBtb1Q1ZUFzQmFGS0p1d0s1a2RuQUFiM2hWQXdkSTZMQkJ2YlVJRVF3eFROaUpkYW4tZHV4Z0k2S2JrbGJzbXFCRjlHcWNVakYtZVpjV2t4MGNDSFY4U1Jic2ZCOFFReXk5TjNzT3g3UFFPSTlhLU4xWksyRlI0QQ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "IRGC agents lived in Australia before directing attacks on Jewish targets, spy chief says",
-          "url": "https://www.timesofisrael.com/irgc-agents-lived-in-australia-before-directing-attacks-on-jewish-targets-spy-chief-says/",
-          "source": "Times of Israel",
+          "title": "Russia pumps up pressure on Belarus to open new front in Ukraine war, eyes anti-NATO ops. - WSJ",
+          "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-900534",
+          "source": "Jerusalem Post",
           "region": "Israel"
         },
         {
-          "title": "IRGC Quds Force chief warns Israel to leave Lebanon or face humiliating defeat",
-          "url": "https://en.irna.ir/news/86192654/IRGC-Quds-Force-chief-warns-Israel-to-leave-Lebanon-or-face-humiliating",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Potential Gantz-Hendel-Simhi alliance faces hurdles despite merger reports",
+          "url": "https://www.timesofisrael.com/potential-gantz-hendel-simhi-alliance-faces-hurdles-despite-merger-reports/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -1059,26 +855,86 @@
       ]
     },
     {
-      "term": "Jewish",
+      "term": "IDF",
       "count": 3,
       "headlines": [
         {
-          "title": "Taiwan's Jewish community establishes first-ever cemetery in Taipei, buries 74-year-old man",
-          "url": "https://www.jpost.com/diaspora/article-900536",
+          "title": "Twenty years since Gilad Schalit's abduction, newly released IDF logs show real-time confusion",
+          "url": "https://www.jpost.com/israel-news/article-900537",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
         {
-          "title": "NHS to make Jewish BRCA genetic testing program permanent after successful pilot",
-          "url": "https://www.jpost.com/health-and-wellness/article-900299",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "IRGC agents lived in Australia before directing attacks on Jewish targets, spy chief says",
-          "url": "https://www.timesofisrael.com/irgc-agents-lived-in-australia-before-directing-attacks-on-jewish-targets-spy-chief-says/",
+          "title": "Israeli, Lebanese officials deny US claim that IDF withdrew from parts of Lebanon",
+          "url": "https://www.timesofisrael.com/israeli-lebanese-officials-deny-us-claim-that-idf-withdrew-from-parts-of-lebanon/",
           "source": "Times of Israel",
           "region": "Israel"
+        },
+        {
+          "title": "IDF Lawyer: Israeli Army Randomly, Unlawfully Restricts West Bank Palestinians",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMjY4NHFGVEh6YVRmNHVPNHpkbno1SFlUemFnMWYzZVNvanM1TlI2VjQ4U2doWFYxTWxjanJ5WGJ2XzdkZFN5X1RUN1dOM1dQb01hOTNpU0kyYWttdk1wdHR0b3RsWjBIZTMzSEZJQ1c0dHdrZ1oyREd0OUJkdV9HeUxwM0oxdnU4c1Y3VU1KcElIWUhkNFRRTVcwcGZLQWNjLVltbjg2R2w0MHl2LWlGSkx5T0lwZ0xaeTlyOHRvRHlXSWp1TXZpNm54S2paQlVtWlNpUHRfNkhXb1dWQmMtVzVBamRBaXZlQ3ljdk5tMno5RUg2X01RQWtFQjdyY3VSQ2kwZGN1dlRRTGMySlY1Ql9VejlMaGFyTUdRWEF3?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Ministers",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran, Oman FMs discuss Strait of Hormuz, regional issues",
+          "url": "https://en.irna.ir/news/86192670/Iran-Oman-FMs-discuss-Strait-of-Hormuz-regional-issues",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran, India oil ministers call for expanding energy ties",
+          "url": "https://en.irna.ir/news/86192626/Iran-India-oil-ministers-call-for-expanding-energy-ties",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran, Oman FMs discuss Strait of Hormuz developments",
+          "url": "https://en.mehrnews.com/news/245595/Iran-Oman-FMs-discuss-Strait-of-Hormuz-developments",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "nuclear",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran, Israel and the Bomb",
+          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/6/25/iran-israel-and-the-bomb?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "GCC security is indivisible, Iran must be prevented from acquiring nuclear weapons, says Bahrain’s Foreign Minister",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbDVlZkdaZDBOSzl2NmN4UW11UzNSQk8yeU45WXFFdm5aOFBCQnF0REEtT3cwMl9SVmJ6RXNOUHo4dE11RC1YdTliSjBvbHNIejJZN3lXUy1GZDloWnZ3eF9FNVB5bHFRUGlnOE1DZzMzcWgyOXNyaXNsQlRFRzgtWHhJT3BfLUtmQ2xiTURscXBsM3FMVUZucUxVTm9EaHpLcHdCcjA1Z29pMWpueDFJMHZJMzZfdWpfXzZISDdHSEFWREd0VVVJZWtzX3d2SktQeHZxaERobHoxa0FpOVI1UF9ldEpuNEhfWW9oWFFodkh4OFBtNGdv0gGMAkFVX3lxTFBZMjNsNkRsbFhWdmRjN2dFaXp1U2NYSVRfaURWSnM3TmU0Rk9zNlI3SmJVYTE3SEpLYUFQcFZkYmdzb1llR245OTk1MXFnU3dFeDlnNTF2bk10bVE3YUNNN2FNRm9saEpzZFZLMlgzZk5QamVLdXZSdWtaU0tqR2diSjlDMWdOZENHZzJ3Tnh6TEJjSmRYM2VPQlJKWWtfWTVBa2djektfUDRJdDA2b2VtUHl3Q0tWTklBYXlLNy14enRSQXV6dlRpZXdCbUJtUUJqbDNQLTRhOXQwMGpTNVpxX3M3NUFfYnU0RTNoRmlQb3ZRVXlYcE1IUEh1Zm5EdU13ZUJiMjVSSnFzZXo?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "sanctions",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Venezuela quakes: How will sanctions impact aid operations?",
+          "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "ICC judges sue Trump over 'draconian' sanctions",
+          "url": "https://www.newarab.com/news/icc-judges-sue-trump-over-draconian-sanctions",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -1101,43 +957,43 @@
       ]
     },
     {
-      "term": "Tripoli",
+      "term": "Hezbollah",
       "count": 2,
       "headlines": [
         {
-          "title": "US push for unified Libyan government tests Tripoli factions",
-          "url": "https://www.aljazeera.com/features/2026/6/25/us-push-for-unified-libyan-government-tests-tripoli-factions?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Israel says will only withdraw from Lebanon after Hezbollah disarmed",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-will-only-withdraw-lebanon-after-hezbollah-disarmed",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "اعتصام وقطع طريق أمام سراي طرابلس احتجاجاً على شطب مستفيدين من برنامج “أمان”",
-          "url": "https://www.almanar.com.lb/article/976632/",
-          "source": "Al Manar",
+          "title": "«يديعوت أحرونوت»: الساعات الأخيرة قبل وقف النار... كمين حزب الله أربك «الكتيبة 52» - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xY2xWaU9BSjAyYTZFeUVFeDBqS0hnam8zMVAzVHVUVmR0MzJyVkQ5NGsyNFNzUHdkTXJiSjJycnRfNTIwVmx5dDN6NjlSMTk3Xy0tVExVREo?oc=5",
+          "source": "Al-Akhbar",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "raid",
+      "term": "talks",
       "count": 2,
       "headlines": [
         {
-          "title": "Israeli forces kill Palestinian man during raid on his home",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Israel says will only withdraw from Lebanon after Hezbollah disarmed",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-will-only-withdraw-lebanon-after-hezbollah-disarmed",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli colonists raid Bedouin community near Khan al-Ahmar east of Jerusalem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WXFTQUhBZWhwRmlqUHdzTk1pMjR4SmpjMURSakRDbGozSXVPTWM2LUtwMXBoME5aTHlwVXJpcGhOTWxQdU5fUURvc1gzeTBTWmVJNEU5cw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "Potential Gantz-Hendel-Simhi alliance faces hurdles despite merger reports",
+          "url": "https://www.timesofisrael.com/potential-gantz-hendel-simhi-alliance-faces-hurdles-despite-merger-reports/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
     {
-      "term": "Drones",
+      "term": "Gaza",
       "count": 2,
       "headlines": [
         {
@@ -1147,28 +1003,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
-          "url": "https://www.middleeasteye.net/news/drones-decomposing-babies-un-report-israel-targeting-palestinian-children",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "genocide",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drones-and-decomposing-babies-whats-un-report-israels-genocide",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Drones and decomposing babies: What's in UN report on Israel's genocide of Palestinian children",
-          "url": "https://www.middleeasteye.net/news/drones-decomposing-babies-un-report-israel-targeting-palestinian-children",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         }
       ]
     },
@@ -1183,46 +1021,82 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Thousands feared dead after major earthquakes strike Venezuela",
-          "url": "https://www.newarab.com/news/thousands-feared-dead-after-major-earthquakes-strike-venezuela",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "Israeli, Lebanese officials deny US claim that IDF withdrew from parts of Lebanon",
+          "url": "https://www.timesofisrael.com/israeli-lebanese-officials-deny-us-claim-that-idf-withdrew-from-parts-of-lebanon/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
     {
-      "term": "Valley",
+      "term": "Syrian",
       "count": 2,
       "headlines": [
         {
-          "title": "Crimson Thread: The new Israeli separation wall that cuts through the 'breadbasket of Palestine'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crimson-thread-new-israeli-separation-wall-cuts-through-breadbasket",
-          "source": "Middle East Eye",
+          "title": "Syrian Cassette Archives preserve a lost era of music and memory",
+          "url": "https://www.newarab.com/features/syrian-cassette-archives-preserve-lost-era-music-and-memory",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Journalist among two Palestinians injured in assault by Israeli forces in northern Jordan Valley - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VVnQzZVdOWFdxaHE1UEx6aTJ5YW0xX1dqSmJocmY0R292RWZnWXo3elVIeDc5ckp4bldYTndRaXd1VWgwU1ZZalotaFBaRzVGUS1rYklNaw?oc=5",
-          "source": "WAFA News",
+          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
+          "source": "L'Orient Today",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "election",
+      "term": "GTA",
       "count": 2,
       "headlines": [
         {
-          "title": "Algerian woman pilot challenges stereotypes to run in election",
-          "url": "https://www.newarab.com/news/algerian-woman-pilot-challenges-stereotypes-run-election",
+          "title": "GTA 6 pre-orders unavailable in some Arab countries",
+          "url": "https://www.newarab.com/news/gta-6-pre-orders-unavailable-some-arab-countries",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Opinion | The map and 'the territories': Why Israeli election coverage has no maps",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORm1zOWo4Wng1TGR2T1k3OE5UUDFDbXRKZE13NmtpNFYxX0JqbDhVT2VaUXlDWUZJTjZqOUV1VHFfaWlxakdDaTBNZWF6ZnNULTZtUXlGNjEzYTg0MGxlM1hMNUpILW5VU2FybnlYVWs2SFk0SnRDLVBxTWNKWTJDQmRMYkFjb25LbG5DUmt3bUtkU1ptcnY2NnhGb2tlcUdESG1SRG5VdW04b0dZOHZvX0stc2dUY203UmQ1WXZQZzc1eU1sem5sNldHN0RtZExVMF9pVXVjVHlycTRoOXFwdVZYWjhHNktzOHR0ZFd0a3h1NVFaQndLaUZzYlNVTlJvSnR6aVgtLU4?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
+          "title": "No price shock for 'GTA VI' as gamers gear up for preorders",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVkdpcFFHSWJGazBhRTBzZWNaZER6bjEwMkEtblVVNzlxSkR2SDNqTEFWRm5NVkV4N2gwSjFQZEl0bHdOWFJLbTdwemhFdlhfVFB5SHdHVThwVC1jS0RvRmxIUHhWNmxkbFJNTlRqeWxhRjN5cng0d1NZdjVpcUgzd1FkYUxKMHN6LVRzdmg5a1ExWDhxeTF5Xy1yMA?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Grand",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "GTA 6 pre-orders unavailable in some Arab countries",
+          "url": "https://www.newarab.com/news/gta-6-pre-orders-unavailable-some-arab-countries",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Families of 4 missing post-cease-fire protest outside Grand Serail",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWFfa0VDdWpwdXM0QlB3U1hvRmhaaDgyMEU5Z1A4RnhFVFBiZk5ULW1DSHh1dE8wakl6MDdaMG9WNnBZb2J3dW15b3UyaDkweWxONmNqMTQtWlJFUDN0UGJwNzB3N3EzM0FqV0NOdjRPUnE1R0xhc05KUDVaNEFUWk0wenpLZ2xqdVdLLVVxZXc0bHE1c2hIT0xXZ0UtVkZ5dlM3TTd0QWFOZFlKd3JhMlg3Uk1XcWI4di1j?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Secretary",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         }
       ]
     },
@@ -1245,38 +1119,38 @@
       ]
     },
     {
-      "term": "Serail",
+      "term": "Lebanese",
       "count": 2,
       "headlines": [
         {
-          "title": "Families of 4 missing post-cease-fire protest outside Grand Serail",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWFfa0VDdWpwdXM0QlB3U1hvRmhaaDgyMEU5Z1A4RnhFVFBiZk5ULW1DSHh1dE8wakl6MDdaMG9WNnBZb2J3dW15b3UyaDkweWxONmNqMTQtWlJFUDN0UGJwNzB3N3EzM0FqV0NOdjRPUnE1R0xhc05KUDVaNEFUWk0wenpLZ2xqdVdLLVVxZXc0bHE1c2hIT0xXZ0UtVkZ5dlM3TTd0QWFOZFlKd3JhMlg3Uk1XcWI4di1j?oc=5",
+          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "اعتصام وقطع طريق أمام سراي طرابلس احتجاجاً على شطب مستفيدين من برنامج “أمان”",
-          "url": "https://www.almanar.com.lb/article/976632/",
-          "source": "Al Manar",
-          "region": "Levant"
+          "title": "Israeli, Lebanese officials deny US claim that IDF withdrew from parts of Lebanon",
+          "url": "https://www.timesofisrael.com/israeli-lebanese-officials-deny-us-claim-that-idf-withdrew-from-parts-of-lebanon/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
     {
-      "term": "Iranian",
+      "term": "attack",
       "count": 2,
       "headlines": [
         {
-          "title": "كتلة الوفاء للمقاومة: على السلطة اللبنانية اغتنام فرصة الدعم الإيراني",
-          "url": "https://www.almanar.com.lb/article/976682/",
-          "source": "Al Manar",
+          "title": "Israeli colonists attack Palestinian youths with pepper spray in Ras al-Ahmar area near Tubas - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQMnRvSEZrNEFVN3hiZld1N2ttVmlOQnZRQTltQmF0U0lFWEZKWFZMbS1JMnJjcmlsMkhPQ2pFckJGWmRHMk5jQzR3RDUyUmlsUnFMMVBLVQ?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "West Asia security requires foreign troop withdrawal",
-          "url": "https://en.mehrnews.com/news/245591/West-Asia-security-requires-foreign-troop-withdrawal",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Police find possible terror tunnel running from West Bank toward Jerusalem, arrest 2",
+          "url": "https://www.timesofisrael.com/police-find-tunnel-running-from-west-bank-toward-jerusalem-arrest-2/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -1317,6 +1191,24 @@
       ]
     },
     {
+      "term": "IRGC",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "IRGC says ships must use Iran-approved routes through Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTJBWnAwVUVYSW1zR2MxeUpNYkdDRjFUaFZZSGMyU2lXQkRuRHdiMWhPcFJ5elpzYmdEWXgzYVliRVBFcGtzVE1kTDBtb1Q1ZUFzQmFGS0p1d0s1a2RuQUFiM2hWQXdkSTZMQkJ2YlVJRVF3eFROaUpkYW4tZHV4Z0k2S2JrbGJzbXFCRjlHcWNVakYtZVpjV2t4MGNDSFY4U1Jic2ZCOFFReXk5TjNzT3g3UFFPSTlhLU4xWksyRlI0QQ?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "IRGC Quds Force chief warns Israel to leave Lebanon or face humiliating defeat",
+          "url": "https://en.irna.ir/news/86192654/IRGC-Quds-Force-chief-warns-Israel-to-leave-Lebanon-or-face-humiliating",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "GCC",
       "count": 2,
       "headlines": [
@@ -1353,19 +1245,37 @@
       ]
     },
     {
-      "term": "IDF",
+      "term": "US-Iran",
       "count": 2,
       "headlines": [
         {
-          "title": "Twenty years since Gilad Schalit's abduction, newly released IDF logs show real-time confusion",
-          "url": "https://www.jpost.com/israel-news/article-900537",
+          "title": "Oman supports US-Iran diplomatic progress to secure regional peace",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmcyV3BlSWhQVHgxNy1mZ1M1TEFLTzNZd0hqNGRJMDNkR2p2UWVteVdVcGVPdnRKc0VHeXJrTzI4Y0FURDZ2VzU2MzJ5T3pHZ0tqcnlNRW02THBQaE9fREpReG9IdDhILWx4OW1qczJDbEppTGkyZHloektsU2xPMlo1enFfdFdVbDJRYk1zRVc4VVFRb21XYk5lRnZ6ZmNHS0tRdndzOXg?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "Daily Briefing June 25: US-Iran deal fuels Trump’s delusional dreams of peace and prizes",
+          "url": "https://www.timesofisrael.com/daily-briefing-june-25-us-iran-deal-fuels-trumps-delusional-dreams-of-peace-and-prizes/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Jewish",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Taiwan's Jewish community establishes first-ever cemetery in Taipei, buries 74-year-old man",
+          "url": "https://www.jpost.com/diaspora/article-900536",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
         {
-          "title": "IDF Lawyer: Israeli Army Randomly, Unlawfully Restricts West Bank Palestinians",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMjY4NHFGVEh6YVRmNHVPNHpkbno1SFlUemFnMWYzZVNvanM1TlI2VjQ4U2doWFYxTWxjanJ5WGJ2XzdkZFN5X1RUN1dOM1dQb01hOTNpU0kyYWttdk1wdHR0b3RsWjBIZTMzSEZJQ1c0dHdrZ1oyREd0OUJkdV9HeUxwM0oxdnU4c1Y3VU1KcElIWUhkNFRRTVcwcGZLQWNjLVltbjg2R2w0MHl2LWlGSkx5T0lwZ0xaeTlyOHRvRHlXSWp1TXZpNm54S2paQlVtWlNpUHRfNkhXb1dWQmMtVzVBamRBaXZlQ3ljdk5tMno5RUg2X01RQWtFQjdyY3VSQ2kwZGN1dlRRTGMySlY1Ql9VejlMaGFyTUdRWEF3?oc=5",
-          "source": "Haaretz",
+          "title": "NHS to make Jewish BRCA genetic testing program permanent after successful pilot",
+          "url": "https://www.jpost.com/health-and-wellness/article-900299",
+          "source": "Jerusalem Post",
           "region": "Israel"
         }
       ]
@@ -1375,8 +1285,8 @@
       "count": 2,
       "headlines": [
         {
-          "title": "Palestinians warn West Bank antiquities bill designed to expand Israeli control",
-          "url": "https://www.timesofisrael.com/palestinians-warn-west-bank-antiquities-bill-designed-to-expand-israeli-control/",
+          "title": "Police find possible terror tunnel running from West Bank toward Jerusalem, arrest 2",
+          "url": "https://www.timesofisrael.com/police-find-tunnel-running-from-west-bank-toward-jerusalem-arrest-2/",
           "source": "Times of Israel",
           "region": "Israel"
         },
