@@ -1,17 +1,11 @@
 {
-  "updated": "2026-06-25T22:53:24.927441+00:00",
+  "updated": "2026-06-25T23:01:19.733206+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 23,
+      "count": 22,
       "headlines": [
-        {
-          "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-          "url": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
         {
           "title": "US official says frozen Iranian funds have not been released",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-official-says-frozen-iranian-funds-have-not-been-released",
@@ -125,6 +119,12 @@
           "url": "https://en.irna.ir/news/86192829/Iran-condoles-with-Venezuela-over-earthquake",
           "source": "IRNA",
           "region": "Iran"
+        },
+        {
+          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
+          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -226,8 +226,14 @@
     },
     {
       "term": "Israeli",
-      "count": 11,
+      "count": 12,
       "headlines": [
+        {
+          "title": "Hezbollah says Israeli strike killed two civilians in southern Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israeli-strike-killed-two-civilians-southern-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckRQSmNTU25hM3dyUi1EMnpYUjlMTng0ZDZRZUxiS3BZRWZaUDFXYVgwSEc1dDlPUTBFZ3Zsd0t1eG5kRU5Bck14UlBZMldNX3J3eTBfQmtwRWRrMDRleXp5cmhHV29SUkE5U1hxR2FBeHdGRUFuNUYzbGp1dW5NUW9EaGdieV80czQwdDgyZjZxNFpTcFZXWDUxdUxpS0RLdXh3WTZpQ2JOWWNheDQ1Y09WbHIzdHhDSi1NcXF5ZDBkZU01MUlFWGVR0gHKAUFVX3lxTE9yRFBKY1NTbmEzd3JSLUQyelhSOUxOeDRkNlFlTGJLcFlFZlpQMVdhWDBIRzV0OU9RMEVndmx3S3V4bmRFTkFyTXhSUFkyV01fcnd5MF9Ca3BFZGswNGV5enlyaEdXb1JSQTlTWHFHYUF4d0ZFQW41RjNsanV1bk1Rb0RoZ2J5XzRzNDB0ODJmNnE0WlNwVldYNTF1TGlLREt1eHdZNmlDYk5ZY2F4NDVjT1ZscjN0eENKLU1xcXlkMGRlTTUxSUVYZVE?oc=5",
@@ -301,8 +307,8 @@
       "count": 9,
       "headlines": [
         {
-          "title": "France and Italy propose coalition to replace UNIFIL in Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-italy-propose-coalition-replace-unifil-lebanon",
+          "title": "Hezbollah says Israeli strike killed two civilians in southern Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israeli-strike-killed-two-civilians-southern-lebanon",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -501,62 +507,32 @@
       ]
     },
     {
-      "term": "Italy",
+      "term": "attack",
       "count": 4,
       "headlines": [
         {
-          "title": "France and Italy propose coalition to replace UNIFIL in Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-italy-propose-coalition-replace-unifil-lebanon",
-          "source": "Middle East Eye",
+          "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+          "url": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Quds force commander demands Israel leave Lebanon as Iran's deputy FM threatens Italy, Romania",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900560",
-          "source": "Jerusalem Post",
+          "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjZ4UkZ6Ui12V3pHa2VHYmdGclNrTnNWUHJNclpvZFYyb3M1NTJiWGh3SG5ZVl8xTEk5QVFxSGRCbDFmNjliTlltdkRONXhmckFGTFlaVXhMdmI1VG5rVWNybTNISGJJclNHTVNGWHZnaFJSeFFvQ2hOdHF2cURxRHlpbWFNNEF2TkctY2ctc254WnVjcUo0dEFoMDFpbXhna052ZzluNFNfaXo0dm5tMDB0RmtvNE9hbUJXZm51RVYtVk9qakYtRzh30gHPAUFVX3lxTE9mVUw0R1RUMFhHeEZ6cDJpdkxvWmZvWkdaUVdJVV9zT0hteW9jRkQzSVdfXzhMdFRjVFF1SV83eVNXU3ZZcFlzamZpdUJaN0JyZlZNb1FmREd0LVhhZWFGU0pvZ2lqSkozcWdnZTZHMm1WV2RHRnFqWWN6MXJlaHU4T19jM3VBWlltYXpEWnF5dGJXVDl5dTlzSkk1QnR2Z0JfUTlrNDFFaHk3YmFkcnNNVHJSN1hZelJtQVpQOVk2N21OZUlXUkkyWUtrOXpLUQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Two people killed in Israeli drone strike on car in South Lebanon, sources say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcDhOQVRNQk9MMnlRcl9RcnJab28yR0N6UXVzTnRiR2ZxdnJsS3NBTEd6MDRDQTNWTWo2WnpBSnR0TXBrbXpobzJ4cHMtVVFjeVdZ?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Three Killed in Israeli Drone Strike on Vehicle in South Lebanon, Local Reports Say",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUDlwVGxzUXhIZzNleGZqUVI2d1RZaGFWZFpJWW00dUZKWmIzbkVQZnFSamlGQnp4UG1NY2JVckZsRG9yMnkxX0tFbUhuNkpHSW9CTE1Id2w2bTJPaGh4ellTZTB4TEpFMXA1eDE5V0psaUwxdEVKcEEwX2QtbUlEajZjM3JFNGhBcWM5NnV3bV93YmhhMW4tMGxHVVdHcEtmNkt1WWQwYWtSblFjb0FXa09LbTlfZmxPSTJZRnpNSERfRDhXNDdIZEZiWWszUzZ4N3FOOGJyWmFxU01remlueTIzSjQxSkFjUWJEWXctMG55QTZhVk9Za3FwT0lDeDJIU2FpSUE5OTNUSTFqZllIc2VCVXdZalRROFQ5azIxTnMteGM?oc=5",
+          "source": "Haaretz",
           "region": "Israel"
-        },
-        {
-          "title": "Italian foreign minister rejects NATO chief’s claim on assisting US against Iran",
-          "url": "https://en.irna.ir/news/86192872/Italian-foreign-minister-rejects-NATO-chief-s-claim-on-assisting",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
-          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "occupation",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "France and Italy propose coalition to replace UNIFIL in Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-italy-propose-coalition-replace-unifil-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "قوات الاحتلال تقتحم قرية كفر قليل شرقي نابلس شمالي الضفة الغربية",
-          "url": "https://www.almanar.com.lb/article/977677/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "قوات الاحتلال الصهيوني تداهم المنازل خلال اقتحام بلدة بديا غرب سلفيت",
-          "url": "https://www.almanar.com.lb/article/977637/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
         }
       ]
     },
@@ -681,6 +657,30 @@
       ]
     },
     {
+      "term": "Hezbollah",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Hezbollah says Israeli strike killed two civilians in southern Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israeli-strike-killed-two-civilians-southern-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel says will only withdraw troops from Lebanon after Hezbollah disarmed",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWN3cGV2UEVvN3B1U1N5eDhOM1l6U0thSzhOWDh5aXpybkFQVG5yU0FVdDAyeUFQVDFqbkhHQ0stcWlXWXNfTVV0V0p3Rk1QVlpSZTlQcWJaUlNUNk90OHpEdEQ5T1A2Um9CR0xqRlhNdDljN3FOazQ0MzRWRzJiLVZkbmdaXzdIVFJjc3A4LWxMVl9zS1FMVE9yc2gxZVU5MEduTE1Ha1FaS05rU0FGTnJsakV3QmNiYjRuSmRqbm5lb2hBanU3QnJ5eTY3bHJSTUFJ0gHTAUFVX3lxTFBxY3dwZXZQRW83cHVTU3l4OE4zWXpTS2FLOE5YOHlpenJuQVBUbnJTQVV0MDJ5QVBUMWpuSEdDSy1xaVdZc19NVXRXSndGTVBWWlJlOVBxYlpSU1Q2T3Q4ekR0RDlPUDZSb0JHTGpGWE10OWM3cU5rNDQzNFZHMmItVmRuZ1pfN0hUUmNzcDgtbExWX3NLUUxUT3JzaDFlVTkwR25MTUdrUVpLTmtTQUZOcmxqRXdCY2JiNG5KZGpubmVvaEFqdTdCcnl5NjdsclJNQUk?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Our patience shapes future, overturns equations: Qassem",
+          "url": "https://en.mehrnews.com/news/245608/Our-patience-shapes-future-overturns-equations-Qassem",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Iranian",
       "count": 3,
       "headlines": [
@@ -701,6 +701,30 @@
           "url": "https://en.mehrnews.com/news/245607/Pezeshkian-offers-condolences-to-Venezuela-after-quakes",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "agreement",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "US official says frozen Iranian funds have not been released",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-official-says-frozen-iranian-funds-have-not-been-released",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Egypt signs historic agreement to establish 1st wind turbine factory",
+          "url": "https://www.egyptindependent.com/egypt-signs-historic-agreement-to-establish-1st-wind-turbine-factory/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "KSrelief signs agreement to boost medical infrastructure in Sudan",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNEYwS3R5WklEX0d3ZTA5M3dfX2ZaOTF5NlRGaW51bjhxV1FfRXJKa0huMC13d1FOMDF5TjFvX25jV3dVM1FvZmhqdnFTMFJCZlVV?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -801,54 +825,6 @@
       ]
     },
     {
-      "term": "attack",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMjZ4UkZ6Ui12V3pHa2VHYmdGclNrTnNWUHJNclpvZFYyb3M1NTJiWGh3SG5ZVl8xTEk5QVFxSGRCbDFmNjliTlltdkRONXhmckFGTFlaVXhMdmI1VG5rVWNybTNISGJJclNHTVNGWHZnaFJSeFFvQ2hOdHF2cURxRHlpbWFNNEF2TkctY2ctc254WnVjcUo0dEFoMDFpbXhna052ZzluNFNfaXo0dm5tMDB0RmtvNE9hbUJXZm51RVYtVk9qakYtRzh30gHPAUFVX3lxTE9mVUw0R1RUMFhHeEZ6cDJpdkxvWmZvWkdaUVdJVV9zT0hteW9jRkQzSVdfXzhMdFRjVFF1SV83eVNXU3ZZcFlzamZpdUJaN0JyZlZNb1FmREd0LVhhZWFGU0pvZ2lqSkozcWdnZTZHMm1WV2RHRnFqWWN6MXJlaHU4T19jM3VBWlltYXpEWnF5dGJXVDl5dTlzSkk1QnR2Z0JfUTlrNDFFaHk3YmFkcnNNVHJSN1hZelJtQVpQOVk2N21OZUlXUkkyWUtrOXpLUQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Two people killed in Israeli drone strike on car in South Lebanon, sources say",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcDhOQVRNQk9MMnlRcl9RcnJab28yR0N6UXVzTnRiR2ZxdnJsS3NBTEd6MDRDQTNWTWo2WnpBSnR0TXBrbXpobzJ4cHMtVVFjeVdZ?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Three Killed in Israeli Drone Strike on Vehicle in South Lebanon, Local Reports Say",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUDlwVGxzUXhIZzNleGZqUVI2d1RZaGFWZFpJWW00dUZKWmIzbkVQZnFSamlGQnp4UG1NY2JVckZsRG9yMnkxX0tFbUhuNkpHSW9CTE1Id2w2bTJPaGh4ellTZTB4TEpFMXA1eDE5V0psaUwxdEVKcEEwX2QtbUlEajZjM3JFNGhBcWM5NnV3bV93YmhhMW4tMGxHVVdHcEtmNkt1WWQwYWtSblFjb0FXa09LbTlfZmxPSTJZRnpNSERfRDhXNDdIZEZiWWszUzZ4N3FOOGJyWmFxU01remlueTIzSjQxSkFjUWJEWXctMG55QTZhVk9Za3FwT0lDeDJIU2FpSUE5OTNUSTFqZllIc2VCVXdZalRROFQ5azIxTnMteGM?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Palestinian",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckRQSmNTU25hM3dyUi1EMnpYUjlMTng0ZDZRZUxiS3BZRWZaUDFXYVgwSEc1dDlPUTBFZ3Zsd0t1eG5kRU5Bck14UlBZMldNX3J3eTBfQmtwRWRrMDRleXp5cmhHV29SUkE5U1hxR2FBeHdGRUFuNUYzbGp1dW5NUW9EaGdieV80czQwdDgyZjZxNFpTcFZXWDUxdUxpS0RLdXh3WTZpQ2JOWWNheDQ1Y09WbHIzdHhDSi1NcXF5ZDBkZU01MUlFWGVR0gHKAUFVX3lxTE9yRFBKY1NTbmEzd3JSLUQyelhSOUxOeDRkNlFlTGJLcFlFZlpQMVdhWDBIRzV0OU9RMEVndmx3S3V4bmRFTkFyTXhSUFkyV01fcnd5MF9Ca3BFZGswNGV5enlyaEdXb1JSQTlTWHFHYUF4d0ZFQW41RjNsanV1bk1Rb0RoZ2J5XzRzNDB0ODJmNnE0WlNwVldYNTF1TGlLREt1eHdZNmlDYk5ZY2F4NDVjT1ZscjN0eENKLU1xcXlkMGRlTTUxSUVYZVE?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "MoFA confirms no casualties among Palestinian community following devastating Venezuela earthquakes - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wM3NoalBFc1o4c0dhaXBBZVg4OTVOVHhFY0xxNEVrdXNBUzk5bmltV0RGQ1AwcThGTXdfNk9IdjREVzYtSHBNV1kyZUgxQWJpRzBzQkY3dw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "قاسم: نثمن موقف دول الخليج الرافض لتهجير الغزيين",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTThwOG9weFpmSVBwbks1MWRXSEN6T0Y2WVk0VFM1LXJXUzFDaHN4dGtneVFFZzBaSmhVMmpuRnZRcDRlMVdqWDhhMXlxanRWREdNMmVaZUR6NFVKanBmUThOZFNQV2RQRGpybWxQUmZLOGdkbjBiSGFtbmtoOGh6dS1faVpFQ3NOaGRyZ0FFdWY2YmQxMm9nc2x4UzR6SUpjT0xmRnJEdmZoRnpnSl9IMjIzdk4zRnh2cEZNQmtJai1EckFjMGItWXZTUmFBTTZpU1VZbFNlTklrRUF6b0FRMTRWQkZZVy0wc25DTzdXWUUwZi1HUkdqUTVVLThVYVVfLUJqc0FZVHBHRFVyZWlXWGFCcXpzQXBkaFE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "IRGC",
       "count": 3,
       "headlines": [
@@ -897,6 +873,30 @@
       ]
     },
     {
+      "term": "occupation",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "قوات الاحتلال تقتحم قرية كفر قليل شرقي نابلس شمالي الضفة الغربية",
+          "url": "https://www.almanar.com.lb/article/977677/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "قوات الاحتلال الصهيوني تداهم المنازل خلال اقتحام بلدة بديا غرب سلفيت",
+          "url": "https://www.almanar.com.lb/article/977637/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "raid",
       "count": 3,
       "headlines": [
@@ -917,6 +917,30 @@
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkNHJUVzZqTUVvQWpNTlZNcThTWXFic2EzWFVaWXF5ZDV5YzQ5OERzUV9FZEtqRlNVME95d192NFBoZE8taWRjWGlkc19RX3hTUDlDdjQ3Yw?oc=5",
           "source": "WAFA News",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Italy",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Quds force commander demands Israel leave Lebanon as Iran's deputy FM threatens Italy, Romania",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900560",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Italian foreign minister rejects NATO chief’s claim on assisting US against Iran",
+          "url": "https://en.irna.ir/news/86192872/Italian-foreign-minister-rejects-NATO-chief-s-claim-on-assisting",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran holds Italy, Romania accountable for aiding US-Israeli aggression",
+          "url": "https://en.irna.ir/news/86192815/Iran-holds-Italy-Romania-accountable-for-aiding-US-Israeli-aggression",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -963,19 +987,19 @@
       ]
     },
     {
-      "term": "agreement",
+      "term": "strike",
       "count": 2,
       "headlines": [
         {
-          "title": "US official says frozen Iranian funds have not been released",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-official-says-frozen-iranian-funds-have-not-been-released",
+          "title": "Hezbollah says Israeli strike killed two civilians in southern Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israeli-strike-killed-two-civilians-southern-lebanon",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Egypt signs historic agreement to establish 1st wind turbine factory",
-          "url": "https://www.egyptindependent.com/egypt-signs-historic-agreement-to-establish-1st-wind-turbine-factory/",
-          "source": "Egypt Independent",
+          "title": "3 شهداء إثر غارة إسرائيلية استهدفت سيارة في بلدة زوطر جنوب لبنان",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVnh0QkhxWWFZTWpnQmtYLVF5cDVZeGp1TG5KWnJVdmlRTXExX3gtQTFkaDdqNHFpT1B1aEFqbm1fRVJmajhtWm82TTY5eUx6TGszWFdnVTM0MG5Xc2N6NW5Sa3lJUlA4Q0Z2T3JWZjFOMHkyX0J5eDFJWmRDXy1WZngxLWs2Y2pKTDNtcjNuWWExbGdIR0JzVkozVVZtSjl4akthTlgtbWFPd2FmUDl1YUttZGlMOV8wdllEc29YRjFUenpNTDFsYTgwbndjOWs3YkE5NnRjc0J1NkVqMDVRcFA5eEJXTjFoVUxhdGhTNUk5dHJ0RWN2WWpzZUpCcDAxODhtRnBqWDZRckhiOHVVckFMbw?oc=5",
+          "source": "Falastin al-Youm",
           "region": "Levant"
         }
       ]
@@ -1035,20 +1059,20 @@
       ]
     },
     {
-      "term": "Hezbollah",
+      "term": "Palestinian",
       "count": 2,
       "headlines": [
         {
-          "title": "Israel says will only withdraw troops from Lebanon after Hezbollah disarmed",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWN3cGV2UEVvN3B1U1N5eDhOM1l6U0thSzhOWDh5aXpybkFQVG5yU0FVdDAyeUFQVDFqbkhHQ0stcWlXWXNfTVV0V0p3Rk1QVlpSZTlQcWJaUlNUNk90OHpEdEQ5T1A2Um9CR0xqRlhNdDljN3FOazQ0MzRWRzJiLVZkbmdaXzdIVFJjc3A4LWxMVl9zS1FMVE9yc2gxZVU5MEduTE1Ha1FaS05rU0FGTnJsakV3QmNiYjRuSmRqbm5lb2hBanU3QnJ5eTY3bHJSTUFJ0gHTAUFVX3lxTFBxY3dwZXZQRW83cHVTU3l4OE4zWXpTS2FLOE5YOHlpenJuQVBUbnJTQVV0MDJ5QVBUMWpuSEdDSy1xaVdZc19NVXRXSndGTVBWWlJlOVBxYlpSU1Q2T3Q4ekR0RDlPUDZSb0JHTGpGWE10OWM3cU5rNDQzNFZHMmItVmRuZ1pfN0hUUmNzcDgtbExWX3NLUUxUT3JzaDFlVTkwR25MTUdrUVpLTmtTQUZOcmxqRXdCY2JiNG5KZGpubmVvaEFqdTdCcnl5NjdsclJNQUk?oc=5",
+          "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckRQSmNTU25hM3dyUi1EMnpYUjlMTng0ZDZRZUxiS3BZRWZaUDFXYVgwSEc1dDlPUTBFZ3Zsd0t1eG5kRU5Bck14UlBZMldNX3J3eTBfQmtwRWRrMDRleXp5cmhHV29SUkE5U1hxR2FBeHdGRUFuNUYzbGp1dW5NUW9EaGdieV80czQwdDgyZjZxNFpTcFZXWDUxdUxpS0RLdXh3WTZpQ2JOWWNheDQ1Y09WbHIzdHhDSi1NcXF5ZDBkZU01MUlFWGVR0gHKAUFVX3lxTE9yRFBKY1NTbmEzd3JSLUQyelhSOUxOeDRkNlFlTGJLcFlFZlpQMVdhWDBIRzV0OU9RMEVndmx3S3V4bmRFTkFyTXhSUFkyV01fcnd5MF9Ca3BFZGswNGV5enlyaEdXb1JSQTlTWHFHYUF4d0ZFQW41RjNsanV1bk1Rb0RoZ2J5XzRzNDB0ODJmNnE0WlNwVldYNTF1TGlLREt1eHdZNmlDYk5ZY2F4NDVjT1ZscjN0eENKLU1xcXlkMGRlTTUxSUVYZVE?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Our patience shapes future, overturns equations: Qassem",
-          "url": "https://en.mehrnews.com/news/245608/Our-patience-shapes-future-overturns-equations-Qassem",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "MoFA confirms no casualties among Palestinian community following devastating Venezuela earthquakes - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wM3NoalBFc1o4c0dhaXBBZVg4OTVOVHhFY0xxNEVrdXNBUzk5bmltV0RGQ1AwcThGTXdfNk9IdjREVzYtSHBNV1kyZUgxQWJpRzBzQkY3dw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         }
       ]
     },
@@ -1233,24 +1257,6 @@
       ]
     },
     {
-      "term": "Russia",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "روسيا تدرس مقاضاة بريطانيا إذا باعت نفط الناقلة «سميرتوس» - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQODZwQWJuUTB4WXNIcUJqTEQ4ajZYclk2YklxNzlaYjIwcFhPRTJ6YWlOeWxMQlF0OVpfMC1tRktBOXp5OW5SSzg3aXFCM3JDSzVEUHJoLXJ3TVpzQ0RQZk9XUmM1ZUFuVUk1TzRWUXktM3M2WmJEYUJrQ2ZLWXo4UmVuOXV6Z1g4Vkkxbi1hbGtSWWVfdU1JZlVBWGFGdFdCN0MtTldFU3QwU0ctRUlOWFNsWFJkektkbTlfM3I3bWROMGNvMXlZemJzbmc0bllFWnB2LXpkQldXYW1FeURZdVY3SnpNVU93dDZabXdTaTZGRDFQWnNhNW9tSzFoa1lveEtKY1kxQ2ZtcERXTFptRlBCd3p0UHpZYzlMcVIwN0lXXzVHM2NTV2w2VWIzV2dUZkxkZHZYSzNFTlg4S1o2Mzd5c1lrelp4YUJMRm9RWml5Q2F4ZXpxN2w3Vk9nMlZlOGVQQlhjcW9MYWY4MnpLclJLLTN3THhsTzZ6Zm5MVnFpbi1rS3pXeDBEajNILXpHSDg4cjRaa19pSG02LUp0Ml9FdXp2MndHdnJlUkRBc0xXclI5RHZSRS1GUl85dW5wZU1NY29waVNsdzZxY1Z0Snh2aGUwcEltbkYwLWpHR19SUVN2QzZqUUNKSUJlOGhQNE9aXzZSZm1pd1U?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Russia's expulsion of Romanian general consul \"predictable\", foreign ministry says",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM1ZDdWRIZGtjVmg3VUE4NG1MY1lCN2Y5ZW9NZkJabzE5dDBJU0VoZmlNdVBnSEdTb2NCckd5elA4VkdTbTFrNUJXOVNKNTd0U0R3?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Britain",
       "count": 2,
       "headlines": [
@@ -1305,42 +1311,6 @@
       ]
     },
     {
-      "term": "Gulf states",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "قاسم: نثمن موقف دول الخليج الرافض لتهجير الغزيين",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTThwOG9weFpmSVBwbks1MWRXSEN6T0Y2WVk0VFM1LXJXUzFDaHN4dGtneVFFZzBaSmhVMmpuRnZRcDRlMVdqWDhhMXlxanRWREdNMmVaZUR6NFVKanBmUThOZFNQV2RQRGpybWxQUmZLOGdkbjBiSGFtbmtoOGh6dS1faVpFQ3NOaGRyZ0FFdWY2YmQxMm9nc2x4UzR6SUpjT0xmRnJEdmZoRnpnSl9IMjIzdk4zRnh2cEZNQmtJai1EckFjMGItWXZTUmFBTTZpU1VZbFNlTklrRUF6b0FRMTRWQkZZVy0wc25DTzdXWUUwZi1HUkdqUTVVLThVYVVfLUJqc0FZVHBHRFVyZWlXWGFCcXpzQXBkaFE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Gulf-Iran reconciliation talks not imminent, diplomats say",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHdTYmx2NHpPVV9yek1fVmxtbjhxdFQtZHdxZm1Ic3ZpWDhDNkd2QjNNUEJwMmRJdU0wR0NDNGJpbjE3OGFseVBzckVVeDRWbVV2QkZUcGtuLVFkSjF0c0VuTWExTnJ2MGVRRUJ6R2M1NHVhaUp2Znpxazh1UHp1Wjh3UVQzWlZISW5Ecm0tVFpkcWtpRG1QQWJhaG1RUXBuaVFTamV0b1M1QkoyQmxlMQ?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Qassem",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "قاسم: نثمن موقف دول الخليج الرافض لتهجير الغزيين",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTThwOG9weFpmSVBwbks1MWRXSEN6T0Y2WVk0VFM1LXJXUzFDaHN4dGtneVFFZzBaSmhVMmpuRnZRcDRlMVdqWDhhMXlxanRWREdNMmVaZUR6NFVKanBmUThOZFNQV2RQRGpybWxQUmZLOGdkbjBiSGFtbmtoOGh6dS1faVpFQ3NOaGRyZ0FFdWY2YmQxMm9nc2x4UzR6SUpjT0xmRnJEdmZoRnpnSl9IMjIzdk4zRnh2cEZNQmtJai1EckFjMGItWXZTUmFBTTZpU1VZbFNlTklrRUF6b0FRMTRWQkZZVy0wc25DTzdXWUUwZi1HUkdqUTVVLThVYVVfLUJqc0FZVHBHRFVyZWlXWGFCcXpzQXBkaFE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Our patience shapes future, overturns equations: Qassem",
-          "url": "https://en.mehrnews.com/news/245608/Our-patience-shapes-future-overturns-equations-Qassem",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "drone strike",
       "count": 2,
       "headlines": [
@@ -1355,6 +1325,42 @@
           "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUDlwVGxzUXhIZzNleGZqUVI2d1RZaGFWZFpJWW00dUZKWmIzbkVQZnFSamlGQnp4UG1NY2JVckZsRG9yMnkxX0tFbUhuNkpHSW9CTE1Id2w2bTJPaGh4ellTZTB4TEpFMXA1eDE5V0psaUwxdEVKcEEwX2QtbUlEajZjM3JFNGhBcWM5NnV3bV93YmhhMW4tMGxHVVdHcEtmNkt1WWQwYWtSblFjb0FXa09LbTlfZmxPSTJZRnpNSERfRDhXNDdIZEZiWWszUzZ4N3FOOGJyWmFxU01remlueTIzSjQxSkFjUWJEWXctMG55QTZhVk9Za3FwT0lDeDJIU2FpSUE5OTNUSTFqZllIc2VCVXdZalRROFQ5azIxTnMteGM?oc=5",
           "source": "Haaretz",
           "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Iraq",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "US companies will be 'top priority' in Iraq, new PM says",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2xPcmJfYVJPYkZPRWpROFFsQ1UwcTk2c2g1WHNCa1lUR3V4RFBHeWxRXzdFLU1BbVd0T1pxaEhfelgxRHJEYk44ZnROVjZ5VDhQWGtQWFNlbzhZekx4U0FrbllvTlluR0tDel9iNjRLb1B1NU5UdUVwRm44SDRyZ25IMmR4UFZ3YTdkMEl6MkI2enpLYmlhbFZxck1DUlI4SVJ3R2RPT3Fxb1U?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iraq threatens to leave Opec if quota demands not met",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDk1WG5rMVlFQTI1YjdFbTRDY1JEalJzZ0hWR2FDNk1kOUtVdkZ1VU1QNWZZUTZ2cmN5dFhqbTlyb0JUd3dHU1g2WnhoTGxjTUlUVzNaMTc4MVNvcjFXRnlWWllJb0ZkR0FoODV2WEZMeWZzNTRGR29TSXdCODVPRDg3QTR4aFZxVzVVb041MUd1UXVNcGlmWk1OWmNqYUVsZEtmMF9GWG5yQmdoVU1uVU1aM3A0V2VjbVZGZUpxOVlpTXo5Y3V3aWtmVU4?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "UAE",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Flying to India from UAE? You must now fill a mandatory health declaration form before boarding",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnhMTHdTX2JZSmhoN3E2M2lvenV6SEpJeWpsOEhhLUJBejRJeHNhUmxtQlJJZmFmTGZFZ0pSeUFxeUZMUlgxUTNDeGpkMFNQRUlBQlNITEgzUllEMm1WeFpQbG1UZTczdVA4bHh2VmNUS3dxdGJrSWY2em0wTUxWejFXR3BYM2JuWnN5bUJsXzNEWjNMXzZzNmJJR01XQ0I0ODJXTnRUU0dPX0djLTE4UHZxcmh5RUJuVm4xUDlJenFlN0JWYnc?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "UAE expands visa-on-arrival scheme to citizens of six countries",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUklMM3AwR1NhWWV2V2MtVXFYMThTc3BmaHY3Njk2SnZGNGFkUHZnaDFYcmpGVXFFYnlRMWp6a0JySlY0YmlVUE1YUU9CZlFHb0hJYnJUOEgxOUp5QW1fb3JtSWdSTVZDT3phdnNKcGUxTmViR09ZUGpiVHRTOElWZFJJd1lZazZhc01UR1dZRlE4ejZtMjAtQ1BOY2lIRS1FT2RhYUZZaDNHLU0yVkVMQdIBwwFBVV95cUxNYUY3STNkcVhGbVJ6bnE2eFRiemxSRTJXMFg5Vm94ZGJKWXA5SS1vNmItb01EaVlhYTZ3MHpIQWtwWFF6NjVCSll2a2V1b0ZKWFR5bVI1XzhGbkNlVnRITGUyV3FPbWNFWmt4SXRsSUJmb01MSktfQlMxbXozOW9wWG5ackpsYm5vWWJGZ284Sl92S3ZjcTdDR2ZLcFJLZk9yNDJRQ1JnckVTUTlCeEhWWk1MUE1SN2Fra2RHXzJ1ZUhCV2s?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
         }
       ]
     }
