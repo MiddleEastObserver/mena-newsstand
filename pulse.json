@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-25T16:39:30.614006+00:00",
+  "updated": "2026-06-25T17:08:25.034093+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Israeli",
-      "count": 20,
+      "count": 19,
       "headlines": [
         {
-          "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+          "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+          "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -79,12 +79,6 @@
           "region": "Levant"
         },
         {
-          "title": "Israeli colonists attack Palestinian youths with pepper spray in Ras al-Ahmar area near Tubas - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQMnRvSEZrNEFVN3hiZld1N2ttVmlOQnZRQTltQmF0U0lFWEZKWFZMbS1JMnJjcmlsMkhPQ2pFckJGWmRHMk5jQzR3RDUyUmlsUnFMMVBLVQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
           "title": "Two people killed in Israeli drone strike on car in South Lebanon, sources say",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcDhOQVRNQk9MMnlRcl9RcnJab28yR0N6UXVzTnRiR2ZxdnJsS3NBTEd6MDRDQTNWTWo2WnpBSnR0TXBrbXpobzJ4cHMtVVFjeVdZ?oc=5",
           "source": "Arab News",
@@ -130,12 +124,12 @@
     },
     {
       "term": "Iran",
-      "count": 20,
+      "count": 19,
       "headlines": [
         {
-          "title": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
-          "url": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Gulf stock markets fall as oil prices return to pre-war levels",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-stock-markets-fall-oil-prices-return-pre-war-levels",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -160,6 +154,12 @@
           "title": "‘Why is Israel allowed nukes but not others?’ Will Iran & Trump make a peace deal?",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQdIB5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQQ?oc=5",
           "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "What kind of Iran will emerge from the US-Israeli war?",
+          "url": "https://www.newarab.com/analysis/what-kind-iran-will-emerge-us-israeli-war",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -211,6 +211,12 @@
           "region": "Gulf"
         },
         {
+          "title": "Hormuz traffic rebound returns oil to prewar rates, as US reassures wary Gulf allies",
+          "url": "https://www.timesofisrael.com/hormuz-traffic-rebound-returns-oil-to-prewar-rates-as-us-reassures-wary-gulf-allies/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
           "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
           "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
           "source": "IRNA",
@@ -233,43 +239,13 @@
           "url": "https://en.mehrnews.com/news/245597/Italy-rejects-NATO-chief-claim-on-assisting-US-against-Iran",
           "source": "Mehr News",
           "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf rejects claims of mandatory US imports",
-          "url": "https://en.mehrnews.com/news/245596/Ghalibaf-rejects-claims-of-mandatory-US-imports",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran, Oman FMs discuss Strait of Hormuz developments",
-          "url": "https://en.mehrnews.com/news/245595/Iran-Oman-FMs-discuss-Strait-of-Hormuz-developments",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran sympathizes with Venezuela over deadly earthquakes",
-          "url": "https://en.mehrnews.com/news/245594/Iran-sympathizes-with-Venezuela-over-deadly-earthquakes",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
     {
       "term": "Lebanon",
-      "count": 15,
+      "count": 12,
       "headlines": [
-        {
-          "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon Latest: Peace talks between Lebanon and Israel, people return south",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/lebanon-latest-peace-talks-between-lebanon-and-israel-people-return-south?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
         {
           "title": "Three killed in Israeli strike on southern Lebanon",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-israeli-strike-southern-lebanon-0",
@@ -323,12 +299,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcDhOQVRNQk9MMnlRcl9RcnJab28yR0N6UXVzTnRiR2ZxdnJsS3NBTEd6MDRDQTNWTWo2WnpBSnR0TXBrbXpobzJ4cHMtVVFjeVdZ?oc=5",
           "source": "Arab News",
           "region": "Gulf"
-        },
-        {
-          "title": "CENTCOM chief Cooper to visit Zamir as Lebanon ceasefire, withdrawal terms in play",
-          "url": "https://www.jpost.com/international/article-900548",
-          "source": "Jerusalem Post",
-          "region": "Israel"
         },
         {
           "title": "Israel Denies Report of Partial Withdrawal From Southern Lebanon 'Buffer Zone'",
@@ -391,6 +361,24 @@
           "region": "Iran"
         },
         {
+          "title": "China Focus: 2026 Summer Davos",
+          "url": "https://en.mehrnews.com/news/245602/China-Focus-2026-Summer-Davos",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "China Town in Jordan's Aqaba emerges as link",
+          "url": "https://en.mehrnews.com/news/245601/China-Town-in-Jordan-s-Aqaba-emerges-as-link",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Xi stresses carrying forward revolutionary traditions",
+          "url": "https://en.mehrnews.com/news/245604/Xi-stresses-carrying-forward-revolutionary-traditions",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
           "title": "VIDEO: Ashura mourning in Rey",
           "url": "https://en.mehrnews.com/news/245599/VIDEO-Ashura-mourning-in-Rey",
           "source": "Mehr News",
@@ -401,131 +389,29 @@
           "url": "https://en.mehrnews.com/news/245597/Italy-rejects-NATO-chief-claim-on-assisting-US-against-Iran",
           "source": "Mehr News",
           "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf rejects claims of mandatory US imports",
-          "url": "https://en.mehrnews.com/news/245596/Ghalibaf-rejects-claims-of-mandatory-US-imports",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran, Oman FMs discuss Strait of Hormuz developments",
-          "url": "https://en.mehrnews.com/news/245595/Iran-Oman-FMs-discuss-Strait-of-Hormuz-developments",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran sympathizes with Venezuela over deadly earthquakes",
-          "url": "https://en.mehrnews.com/news/245594/Iran-sympathizes-with-Venezuela-over-deadly-earthquakes",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
     {
-      "term": "Palestinian",
+      "term": "war",
       "count": 7,
       "headlines": [
         {
-          "title": "'The face of a tortured man': Photos of Palestinian journalist released from Israeli prison spark outrage",
-          "url": "https://www.middleeasteye.net/trending/photos-palestinian-journalist-following-release-israeli-detention-spark-outrage",
+          "title": "Gulf stock markets fall as oil prices return to pre-war levels",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-stock-markets-fall-oil-prices-return-pre-war-levels",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Why Palestinian Christians can view the archbishop of Canterbury's visit with cautious hope",
-          "url": "https://www.middleeasteye.net/opinion/why-palestinian-christians-can-view-archbishop-canterburys-visit-cautious-hope",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckRQSmNTU25hM3dyUi1EMnpYUjlMTng0ZDZRZUxiS3BZRWZaUDFXYVgwSEc1dDlPUTBFZ3Zsd0t1eG5kRU5Bck14UlBZMldNX3J3eTBfQmtwRWRrMDRleXp5cmhHV29SUkE5U1hxR2FBeHdGRUFuNUYzbGp1dW5NUW9EaGdieV80czQwdDgyZjZxNFpTcFZXWDUxdUxpS0RLdXh3WTZpQ2JOWWNheDQ1Y09WbHIzdHhDSi1NcXF5ZDBkZU01MUlFWGVR0gHKAUFVX3lxTE9yRFBKY1NTbmEzd3JSLUQyelhSOUxOeDRkNlFlTGJLcFlFZlpQMVdhWDBIRzV0OU9RMEVndmx3S3V4bmRFTkFyTXhSUFkyV01fcnd5MF9Ca3BFZGswNGV5enlyaEdXb1JSQTlTWHFHYUF4d0ZFQW41RjNsanV1bk1Rb0RoZ2J5XzRzNDB0ODJmNnE0WlNwVldYNTF1TGlLREt1eHdZNmlDYk5ZY2F4NDVjT1ZscjN0eENKLU1xcXlkMGRlTTUxSUVYZVE?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli forces shoot dead sleeping Palestinian in West Bank raid",
-          "url": "https://www.newarab.com/news/israeli-forces-shoot-dead-sleeping-palestinian-west-bank-raid",
+          "title": "What kind of Iran will emerge from the US-Israeli war?",
+          "url": "https://www.newarab.com/analysis/what-kind-iran-will-emerge-us-israeli-war",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Palestinian Prisoner's Society says two Palestinians killed during Israeli detention incursions - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tYUZ1OHJ5aFRRVF8yNVBDUkoyX1ZBdkhMOHpSYzU1X0VYMVgwVVhpeFZqUzZvMkYtRjFWWEZINU11ODYyWlBZN2lNMC1JYS16MDhlTmctZw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli colonists attack Palestinian youths with pepper spray in Ras al-Ahmar area near Tubas - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQMnRvSEZrNEFVN3hiZld1N2ttVmlOQnZRQTltQmF0U0lFWEZKWFZMbS1JMnJjcmlsMkhPQ2pFckJGWmRHMk5jQzR3RDUyUmlsUnFMMVBLVQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli Universities Rise in Global Rankings, Palestinian Institution Makes Top List",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWZhZ085eEEzRHpvaEpKblRLbUdrV1NVUzRqQ2xuRmJCV2NBMzdJRnl4WW12ZEhoRzY3T3VHVDJUV2l4Ni1hRlZ1cUNic2twcm90ZzJNcVRoaERlX05Tcm9GQThoX3ptMGhySk9rUUV0MzcyZDNNelJ5UGRwN1hnTEYtS0tvSTZJNDdKUUJqR0J5WlYwbm5sUk9vOTFLUGl3ZUxsR2lZQ0VBNEZ3RXhGbGRnY2l1WHpSVVBsV0xWT1VNVXk3YmdHRkJybEZocDQ5aERxYXlNZjJYRnhCbHdMQ2Jlb1dYRUlLVzVXY0JlMmhwaVBEaGd5RS12OXZmU205UmpVaWpoTTZ4NkY0bEY4?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Iranian",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Italy denies authorising use of airbases for US attacks on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Foreign Minister holds phone call with Iranian counterpart",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa21KNEpXcXpkM2RPRzZQQk5yVS16RGRqRHBVNlc5TFJjLVM5UHloZDV1dzc2STl5SVBVQ1lQRGxUdm85bVc3TS1telN0RWhZbGpodFpWNzRfZEhHSjhITEwwRmJrVkpTOFlOV295Zk54WmFQNmhUNGVhQ2JrXzhYdV9HdjVKQmMtMDVhMkt0Ri0tSGZTZm9vaDI0RUtodw?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
-          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
-          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf rejects claims of mandatory US imports",
-          "url": "https://en.mehrnews.com/news/245596/Ghalibaf-rejects-claims-of-mandatory-US-imports",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran, Oman FMs discuss Strait of Hormuz developments",
-          "url": "https://en.mehrnews.com/news/245595/Iran-Oman-FMs-discuss-Strait-of-Hormuz-developments",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
-          "url": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "‘Why is Israel allowed nukes but not others?’ Will Iran & Trump make a peace deal?",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQdIB5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQQ?oc=5",
-          "source": "Al Arabiya",
+          "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
+          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
@@ -535,50 +421,20 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
-          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "How Trump caused the biggest oil shock in history and got away with it – for now",
-          "url": "https://www.egyptindependent.com/how-trump-caused-the-biggest-oil-shock-in-history-and-got-away-with-it-for-now/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "ceasefire",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Gaza ceasefire talks return to square one amid escalation fears",
-          "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Families of 4 missing post-cease-fire protest outside Grand Serail",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWFfa0VDdWpwdXM0QlB3U1hvRmhaaDgyMEU5Z1A4RnhFVFBiZk5ULW1DSHh1dE8wakl6MDdaMG9WNnBZb2J3dW15b3UyaDkweWxONmNqMTQtWlJFUDN0UGJwNzB3N3EzM0FqV0NOdjRPUnE1R0xhc05KUDVaNEFUWk0wenpLZ2xqdVdLLVVxZXc0bHE1c2hIT0xXZ0UtVkZ5dlM3TTd0QWFOZFlKd3JhMlg3Uk1XcWI4di1j?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "«يديعوت أحرونوت»: الساعات الأخيرة قبل وقف النار... كمين حزب الله أربك «الكتيبة 52» - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xY2xWaU9BSjAyYTZFeUVFeDBqS0hnam8zMVAzVHVUVmR0MzJyVkQ5NGsyNFNzUHdkTXJiSjJycnRfNTIwVmx5dDN6NjlSMTk3Xy0tVExVREo?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "CENTCOM chief Cooper to visit Zamir as Lebanon ceasefire, withdrawal terms in play",
-          "url": "https://www.jpost.com/international/article-900548",
+          "title": "The final frontier: Israel aims to become world leader in space attack capabilities, Katz says",
+          "url": "https://www.jpost.com/israel-news/article-900557",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
         {
-          "title": "Israel strikes southern Lebanon again, breaching ceasefire",
-          "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
+          "title": "Beyond the war: The struggle to sustain essential care - opinion",
+          "url": "https://www.jpost.com/opinion/article-900475",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
+          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
           "source": "IRNA",
           "region": "Iran"
         }
@@ -586,8 +442,14 @@
     },
     {
       "term": "Palestinians",
-      "count": 5,
+      "count": 6,
       "headlines": [
+        {
+          "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+          "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Gaza ceasefire talks return to square one amid escalation fears",
           "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
@@ -621,9 +483,57 @@
       ]
     },
     {
+      "term": "Palestinian",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "'The face of a tortured man': Photos of Palestinian journalist released from Israeli prison spark outrage",
+          "url": "https://www.middleeasteye.net/trending/photos-palestinian-journalist-following-release-israeli-detention-spark-outrage",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckRQSmNTU25hM3dyUi1EMnpYUjlMTng0ZDZRZUxiS3BZRWZaUDFXYVgwSEc1dDlPUTBFZ3Zsd0t1eG5kRU5Bck14UlBZMldNX3J3eTBfQmtwRWRrMDRleXp5cmhHV29SUkE5U1hxR2FBeHdGRUFuNUYzbGp1dW5NUW9EaGdieV80czQwdDgyZjZxNFpTcFZXWDUxdUxpS0RLdXh3WTZpQ2JOWWNheDQ1Y09WbHIzdHhDSi1NcXF5ZDBkZU01MUlFWGVR0gHKAUFVX3lxTE9yRFBKY1NTbmEzd3JSLUQyelhSOUxOeDRkNlFlTGJLcFlFZlpQMVdhWDBIRzV0OU9RMEVndmx3S3V4bmRFTkFyTXhSUFkyV01fcnd5MF9Ca3BFZGswNGV5enlyaEdXb1JSQTlTWHFHYUF4d0ZFQW41RjNsanV1bk1Rb0RoZ2J5XzRzNDB0ODJmNnE0WlNwVldYNTF1TGlLREt1eHdZNmlDYk5ZY2F4NDVjT1ZscjN0eENKLU1xcXlkMGRlTTUxSUVYZVE?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli forces shoot dead sleeping Palestinian in West Bank raid",
+          "url": "https://www.newarab.com/news/israeli-forces-shoot-dead-sleeping-palestinian-west-bank-raid",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vietnamese President reaffirms Hanoi’s unwavering support to Palestinian people - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsdW1ZazRORGwyZFpBZlpjRmQ0ZG1ScWowbl9aaEQyQVpBbUozbUs4ZGZlS3lTMjlSTmlSUzZOcERPV0NQdGJId1hEUG4yQjBYZy1BZGM3MA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Palestinian Prisoner's Society says two Palestinians killed during Israeli detention incursions - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tYUZ1OHJ5aFRRVF8yNVBDUkoyX1ZBdkhMOHpSYzU1X0VYMVgwVVhpeFZqUzZvMkYtRjFWWEZINU11ODYyWlBZN2lNMC1JYS16MDhlTmctZw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli Universities Rise in Global Rankings, Palestinian Institution Makes Top List",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWZhZ085eEEzRHpvaEpKblRLbUdrV1NVUzRqQ2xuRmJCV2NBMzdJRnl4WW12ZEhoRzY3T3VHVDJUV2l4Ni1hRlZ1cUNic2twcm90ZzJNcVRoaERlX05Tcm9GQThoX3ptMGhySk9rUUV0MzcyZDNNelJ5UGRwN1hnTEYtS0tvSTZJNDdKUUJqR0J5WlYwbm5sUk9vOTFLUGl3ZUxsR2lZQ0VBNEZ3RXhGbGRnY2l1WHpSVVBsV0xWT1VNVXk3YmdHRkJybEZocDQ5aERxYXlNZjJYRnhCbHdMQ2Jlb1dYRUlLVzVXY0JlMmhwaVBEaGd5RS12OXZmU205UmpVaWpoTTZ4NkY0bEY4?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "Venezuela",
       "count": 5,
       "headlines": [
+        {
+          "title": "Venezuela struggles to respond to devastating twin earthquakes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-struggles-to-respond-to-devastating-twin-earthquakes?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Jordan offers condolences to Venezuela after deadly earthquakes",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlQxNlhKRGpveHhfbHZyaFRlVEhpVjMteDU3SkcwX3dtMlpPc3pob25rb0FnUzY0LWtVMFRiV2dNX0FMMVdvYXVHblQ4RkFRSkY1VWRpOWhLQ2lUcVBhdVNCR3ZUWDNFSDBCeHQyRHM3RjEzU0FLcEZoTzhFSm9lZHVER3UzSGZPSVVpSENRYmpNdFhxLVBaYTVON2ExejA?oc=5",
@@ -647,88 +557,16 @@
           "url": "https://www.timesofisrael.com/israel-making-immediate-preparations-to-send-aid-team-to-quake-stricken-venezuela/",
           "source": "Times of Israel",
           "region": "Israel"
-        },
-        {
-          "title": "Iran sympathizes with Venezuela over deadly earthquakes",
-          "url": "https://en.mehrnews.com/news/245594/Iran-sympathizes-with-Venezuela-over-deadly-earthquakes",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "MNA",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "VIDEO: Ashura mourning in Rey",
-          "url": "https://en.mehrnews.com/news/245599/VIDEO-Ashura-mourning-in-Rey",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Italy rejects NATO chief claim on assisting US against Iran",
-          "url": "https://en.mehrnews.com/news/245597/Italy-rejects-NATO-chief-claim-on-assisting-US-against-Iran",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf rejects claims of mandatory US imports",
-          "url": "https://en.mehrnews.com/news/245596/Ghalibaf-rejects-claims-of-mandatory-US-imports",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran, Oman FMs discuss Strait of Hormuz developments",
-          "url": "https://en.mehrnews.com/news/245595/Iran-Oman-FMs-discuss-Strait-of-Hormuz-developments",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran sympathizes with Venezuela over deadly earthquakes",
-          "url": "https://en.mehrnews.com/news/245594/Iran-sympathizes-with-Venezuela-over-deadly-earthquakes",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Court",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "US Supreme Court paves way for government to block asylum seekers at border",
-          "url": "https://www.aljazeera.com/news/2026/6/25/us-supreme-court-paves-way-for-government-to-block-asylum-seekers-at-border?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "India government clears air on passport-citizenship debate, cites law and court rulings",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2tzRzFGOFlhbjBLRVlsZ0V5N040Y3V3a2Y0OFh1R1JnR3FFQ2NmYm9ZQ3RCcEpNWExfeml4ekNiRVZtNnJ6OC1pdzljZFBfOFl4bzB6QjhMVEVxblpDNG1ZWUpwby10bFFBSWdPbmdGazVWaDQ1bkVzVGxrZ3hYR1ZrOUxIX01hNURocG9wejFFOGxDVWlCNm5LLXdyZTY3NGs2ZWJHUGhXUXM1ei1XeHFWd0V4cWhmbUhmQ0ZIS0NZc1V2UjlOclhUa0sySm5IT3c?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "State Attorney Aisman warns Mahash law could put sensitive cases under political pressure",
-          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900541",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Court rules Netanyahu aide can return to work despite indictment over leaked documents",
-          "url": "https://www.timesofisrael.com/court-rules-netanyahu-aide-can-return-to-work-despite-indictment-over-leaked-documents/",
-          "source": "Times of Israel",
-          "region": "Israel"
         }
       ]
     },
     {
       "term": "Rubio",
-      "count": 4,
+      "count": 5,
       "headlines": [
         {
-          "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+          "title": "Rubio: Gulf countries don’t support Strait of Hormuz tolls",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rubio-gulf-countries-dont-support-strait-of-hormuz-tolls?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -749,46 +587,58 @@
           "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
           "source": "Egypt Independent",
           "region": "Levant"
+        },
+        {
+          "title": "Rubio praises progress in Israel-Lebanon talks",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pZW5hY0x2VTFGNVNCS1d5X0x0Tmt3a1VaSVh0ZVNhQzVSY2dVQlp6MENjUFdWUGYwRWc5MUNGam1wTEpEZHVCRGdPck1EOElGY2pN?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
     {
-      "term": "talks",
-      "count": 4,
+      "term": "Iranian",
+      "count": 5,
       "headlines": [
         {
-          "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Italy denies authorising use of airbases for US attacks on Iran",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Lebanon Latest: Peace talks between Lebanon and Israel, people return south",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/lebanon-latest-peace-talks-between-lebanon-and-israel-people-return-south?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
+          "title": "Foreign Minister holds phone call with Iranian counterpart",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa21KNEpXcXpkM2RPRzZQQk5yVS16RGRqRHBVNlc5TFJjLVM5UHloZDV1dzc2STl5SVBVQ1lQRGxUdm85bVc3TS1telN0RWhZbGpodFpWNzRfZEhHSjhITEwwRmJrVkpTOFlOV295Zk54WmFQNmhUNGVhQ2JrXzhYdV9HdjVKQmMtMDVhMkt0Ri0tSGZTZm9vaDI0RUtodw?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
         },
         {
-          "title": "Gaza ceasefire talks return to square one amid escalation fears",
-          "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Potential Gantz-Hendel-Simhi alliance faces hurdles despite merger reports",
-          "url": "https://www.timesofisrael.com/potential-gantz-hendel-simhi-alliance-faces-hurdles-despite-merger-reports/",
-          "source": "Times of Israel",
+          "title": "The final frontier: Israel aims to become world leader in space attack capabilities, Katz says",
+          "url": "https://www.jpost.com/israel-news/article-900557",
+          "source": "Jerusalem Post",
           "region": "Israel"
+        },
+        {
+          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
+          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
+          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
     {
-      "term": "NATO",
+      "term": "Secretary",
       "count": 4,
       "headlines": [
         {
-          "title": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
-          "url": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss",
+          "title": "Rubio: Gulf countries don’t support Strait of Hormuz tolls",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rubio-gulf-countries-dont-support-strait-of-hormuz-tolls?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -799,10 +649,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "سلوفاكيا تعلن مقاطعة حزمة \"الناتو\" العسكرية لأوكرانيا وتطالب بالحوار مع روسيا",
-          "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPOU9PeHllQVZUVnB2Mk95SE50enpqWWVIcTR4c1NoY2M5czFnUWNsTVdpbzc4Q0pKT1BfV0NWOXBHZXZiWVFuNGttOVRSaWdieG10TDh1bGRwTzJUNmYtbGlTbFdJOG85WG5MMEd3TFlHOUpfdGZkeEdMbWlCNUdCSXI3MVpPUHllSXdZbnp3b000TDZhVS1uYVR0dDRMTWhUdGtZOGREOUEzZGZPaHNOS01ndlRDU09fUUV2S0RoQktIY21vOTIyQkN5Sk0xZVZFWjdLQ185clprWXVSLUlhZXVSTW9kRU1xR3VKZWs0RW9DajlkQllmRXIyZ2hyNUxjU2c3a3RVaU8wX3JCWU5oRjlrUFBSVWpzOTBVOWlmNGdjdFpBZVJ0TF84MUs5NWdUdXpvVVJfVEVpUXlBMlFJUGk4TnZUYTlmUVI0eVFvSTNPbGtScHZXZFp4YktwYjY5MmRwT3ZmUVgzanVaaGp0Z3RLaWY5ZzcxbWhRYlZucERLRzdBc1p2YloycEpOQ09HSWN5M2hBNnphcUxpc00xUUVaNl9yRk42UEwtd1R1Q0xNcEF1MjNFMTZIVV9oMUQzeUlmYVczVG5QWUtPQXROeTk0TXVpR25ydXhUbDFJZzU4Zkl4Zkg4OUlhSmVYa2w2WFdVU21Bb9IB-wNBVV95cUxQZ3ZDMk9meE9UNTRtQmdVVmtJdHFGZm56SzQzZXhLRXBVdll4N1BWMGFERV83clMycG0xWjBadlQtSXFxdWhFSUtkTEoxYnFMV3RUNHE3VGJOUzVPQzBWbmU0RV9ibmlacDdhZXJJbU5Pa2R6bWxKNFBSNFIxYzdQTFJWZnBSYXZhRTEteTlrOFl3ellickdyNmZYZk5JbGplUlg1NHZvNWY2SXFvdzRGZHhjUk5md1pzNDEtM2RWR2g4aFNheVFZYXVMRzNhNmhGZ1pSUlVWOGhmWU5GUEhpM3Q5T3Jzb3F0N2ZzeXlsMnJtNDgxQTFBNjg0MlRfVUlzd0xOajhLODMybHNhMjFrUnM4ZnlCOTNCYmdUb0h2UEhGNThJTHZHaFZaNllfd21RbW9mbDJYQWluSXRhX3gzN2Q5TlhDX0dQcmJvVmJ5dVBBbThuUzJtMFk4bkFrUnRYdjYyMVhQbnNYRVlzVl90OE1mMDJrLWgwLUd6R3M2MUstSjR4bkhIZE9QQ1NQNXlVdHY1aEZHc2lndG96WC1EM2JYMG90aDZPMXkxNXBKV1duNDhsNjl1Z0VZZ2JjNFR5YjFtWEJDcnF5OFhmTlkwRGpZbF9HcFNVTXFyNDAyOWpielhsOW9GaFdrbGxpSWszOGl0MEFPTE9EU2M?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         },
         {
           "title": "Italy rejects NATO chief claim on assisting US against Iran",
@@ -813,32 +663,32 @@
       ]
     },
     {
-      "term": "war",
+      "term": "West Bank",
       "count": 4,
       "headlines": [
         {
-          "title": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
-          "url": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss",
+          "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+          "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "بقائي: تصريحات أمين عام \"الناتو\" اعتراف بالتواطؤ في الحرب على إيران",
-          "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQYTVwMHpqS3VCdHloWVd2RlNHcjM5OUhScWEycUVZTXY5dVN0Nmtjel9nVDByUl90YjQzMWtySHZaYnlSVjJvSHo1ZGp4Ni1oZXl5YUJrcDNuUV9ORXVKNTVpSWJvY0RJQ1VJLVVuTVFWOXFmYUtPdmRpWGdwZ2wwcEhNUHhnMUVQM2phalQ0Y0hHeFZEM01JbHpISzVaTEJ5a01NYnRNb1ZqUF95enpMMnd4VUdrSWxvLWMxdkpObDRSTUpNNEotZ1cybGc3ZkpmS0gybVpvb2VXclhKV3o3QWFsR0tRYzFGTWY3aFNVTERTZXVveUtIaFFkMDRhMDZZOHc5QUt1MWpXQ2lQOFMtY0VOZDRna3Y1d1dHSWQtaFBpT2lVcGQ0Y19HVVVhSUNVdlFJbHZoVDJpYzlQcGRidjJPZ0ZxTVhsSG5GY0lvVEpMV3VmbmtXOHN1RF9xeXF2OEM1aGk2dHk2Z0l0NEtlaHJTWnc3a3pMRmw1V3puTjE5UjBpLVpjNjJGR2VNMW5iakt3ODVQS2huaTd4YUFhYmNzTnRPcFJZT1AwcDBsTUhrdWNzTkZWRG5jd25OOGRkS0pWcVR0WDNYU3Z6eHkyS1pGM1VBQjV6a1A5SnVINlN1RVJ5TVh5U2xpcVVMZ0kzbjVXbjN6V1RZOWlVVU8wRlZaSjZtZ3NjZHVKLWlZWWo4QkU2eVBlTV9KbGY4R1o5ZkwyZnRPYmRkclJDRnZQMmVkMWRTMGVK?oc=5",
-          "source": "Al Mayadeen",
+          "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckRQSmNTU25hM3dyUi1EMnpYUjlMTng0ZDZRZUxiS3BZRWZaUDFXYVgwSEc1dDlPUTBFZ3Zsd0t1eG5kRU5Bck14UlBZMldNX3J3eTBfQmtwRWRrMDRleXp5cmhHV29SUkE5U1hxR2FBeHdGRUFuNUYzbGp1dW5NUW9EaGdieV80czQwdDgyZjZxNFpTcFZXWDUxdUxpS0RLdXh3WTZpQ2JOWWNheDQ1Y09WbHIzdHhDSi1NcXF5ZDBkZU01MUlFWGVR0gHKAUFVX3lxTE9yRFBKY1NTbmEzd3JSLUQyelhSOUxOeDRkNlFlTGJLcFlFZlpQMVdhWDBIRzV0OU9RMEVndmx3S3V4bmRFTkFyTXhSUFkyV01fcnd5MF9Ca3BFZGswNGV5enlyaEdXb1JSQTlTWHFHYUF4d0ZFQW41RjNsanV1bk1Rb0RoZ2J5XzRzNDB0ODJmNnE0WlNwVldYNTF1TGlLREt1eHdZNmlDYk5ZY2F4NDVjT1ZscjN0eENKLU1xcXlkMGRlTTUxSUVYZVE?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "مشادة كلامية بين ترامب وسناتور جمهوري بسبب الحرب على إيران",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNdlRQcDBiTEdPMjNnX2xrUVZwNWx6SFowTnhyTmVmYVU3cDFFMWhRekRhOEwweE05eWVFMU1jNWhPcWxuakU3WFQ4QnA3em5yYlE2S0k3WHcxX3VMOVh6YnZjZ3pUZmF0eU9aa1BVRHRINzNIN29SZGlOUVY1RnBDMWU5RnRieXVhQm55UW5jbmhUbVFrZ28xTklQX3k1UDk2UEVnb3EwbUwzbEI4MEJETGZrQ3UwYU1SUmFuN2luX1FsNzVzT09Ec1dBejFpdEdVX01kRFBzcnc5U2pUTVlYNTM2YS0yeHBSS3NXZ1F6U1p4M0VrRVpXUkltQlZ1eGVLU3dVSFFQaGJLSzlKUmFSaFYzYXpER0V1MnhFR3hDZ2k5d0VuVExaVmRTNG53LV9ZMVlIZG9BWVExMElYc0paNnB2bWFrOTVFa3dOSVdYcnI2bUZfZzFOTVZzTjYtS2pSWGN0RlRjcGItNnd2Ul9WM05RZ3pEdWhHWVc4aVhsNmNoTmtGVklLRXhNQ3JfZHNKQXZFVGUwaVQzQXd1TDZPLTgxbHNfOEppTENFUkpqamtkRWxwWW1ZM3piNm5YTFRPeHNTTWxZV2JmdExGZDFaUlprMzRJZXFPMVBaSnpidHdlZHVMbmVj0gHrA0FVX3lxTE1YSDFkYktLWnJzNXc4SFpfdHNYYk03ZHZKYzJfeF92ZU9aQXJ0bl8xdUNnWVItOFd1UUtzUHFyY3ozd3V2X3B5MDNjeFJhTmhTSU00Si1wS3JuX3pPOGpYbFFsdDUtMWVsNzZBbW1HdmdVcUpoc3FXd0FiZ1ZRTHYxc2QtZ2lhMnNmb3E4QnZSZzkyWVd2MEh0Z1ozOHlDTkdBRWZJSW9mcUg3N3BPZVBCc3pPYjA2SDR5QUJhNUtYaDNTbEtWSnROUjM3dWxXMDRvZ0tCaXJaWlEyOTF4c3pMcnNLQlhfWWRlamR4d2JFWl9PeGdheXN4a0ExNjktTzRzU2dBeFRPMHVZdUlCNUdvdl9CVVpGUUwtV1FlN21ZR0xTRzZFUjJPRWpWVFdHUGFScHRNbDkzeWozS0hhZnVuVlRMdzRjS2lOSVJMYzBxanVIazlUWFNkbFZhRDdsdG5uNUZjWC1IaTJSbjgxcV9BN25pSjBBT3JJZU9RNF9pX0lwazQzRjZGc1FOeW5EWXBwTjV3bVhtUWlYZ3pZM284bmZJV0ZWZW12UlFmbjJObWxZSHNPT1ZiOU9FdTlfa3FTMVd1WERwd0FJNkw0MUV0LWtmXzJCMmdPMnRVN0NfQXJZLWFMeVJHZXQ0?oc=5",
-          "source": "Al Mayadeen",
+          "title": "Israeli forces shoot dead sleeping Palestinian in West Bank raid",
+          "url": "https://www.newarab.com/news/israeli-forces-shoot-dead-sleeping-palestinian-west-bank-raid",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
-          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "IDF Lawyer: Israeli Army Randomly, Unlawfully Restricts West Bank Palestinians",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMjY4NHFGVEh6YVRmNHVPNHpkbno1SFlUemFnMWYzZVNvanM1TlI2VjQ4U2doWFYxTWxjanJ5WGJ2XzdkZFN5X1RUN1dOM1dQb01hOTNpU0kyYWttdk1wdHR0b3RsWjBIZTMzSEZJQ1c0dHdrZ1oyREd0OUJkdV9HeUxwM0oxdnU4c1Y3VU1KcElIWUhkNFRRTVcwcGZLQWNjLVltbjg2R2w0MHl2LWlGSkx5T0lwZ0xaeTlyOHRvRHlXSWp1TXZpNm54S2paQlVtWlNpUHRfNkhXb1dWQmMtVzVBamRBaXZlQ3ljdk5tMno5RUg2X01RQWtFQjdyY3VSQ2kwZGN1dlRRTGMySlY1Ql9VejlMaGFyTUdRWEF3?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
         }
       ]
     },
@@ -873,6 +723,36 @@
       ]
     },
     {
+      "term": "Trump",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "‘Why is Israel allowed nukes but not others?’ Will Iran & Trump make a peace deal?",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQdIB5gFBVV95cUxQcTZHWWZuOGNSSXpJQThKVVpETE5BVG12eUhGSU1QWWJrM25KM0lxRnJEbktDSG1rb05SWEVROFptaml2aGNUN1dMWVRia0pTamg4T0pXV2QxNmpzdDB1N0hDSEhsR3Y4ZmhnLXkzZXFGMWozUm4zdWVuTmVpaG9VZXNNZ2t6c3RBamtVb2psRjZ5ZGFiZ080Q19wSDNGLWxfd1pULUxzaVBGQmVWaWFFeVRKQWNuOG1HeXRUMkh4RjE1LUVwUnV1VHE1aU1mMEpjdU15R0JQdjVDY0x5M05SeVBYZm9jQQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "مشادة كلامية بين ترامب وسناتور جمهوري بسبب الحرب على إيران",
+          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNdlRQcDBiTEdPMjNnX2xrUVZwNWx6SFowTnhyTmVmYVU3cDFFMWhRekRhOEwweE05eWVFMU1jNWhPcWxuakU3WFQ4QnA3em5yYlE2S0k3WHcxX3VMOVh6YnZjZ3pUZmF0eU9aa1BVRHRINzNIN29SZGlOUVY1RnBDMWU5RnRieXVhQm55UW5jbmhUbVFrZ28xTklQX3k1UDk2UEVnb3EwbUwzbEI4MEJETGZrQ3UwYU1SUmFuN2luX1FsNzVzT09Ec1dBejFpdEdVX01kRFBzcnc5U2pUTVlYNTM2YS0yeHBSS3NXZ1F6U1p4M0VrRVpXUkltQlZ1eGVLU3dVSFFQaGJLSzlKUmFSaFYzYXpER0V1MnhFR3hDZ2k5d0VuVExaVmRTNG53LV9ZMVlIZG9BWVExMElYc0paNnB2bWFrOTVFa3dOSVdYcnI2bUZfZzFOTVZzTjYtS2pSWGN0RlRjcGItNnd2Ul9WM05RZ3pEdWhHWVc4aVhsNmNoTmtGVklLRXhNQ3JfZHNKQXZFVGUwaVQzQXd1TDZPLTgxbHNfOEppTENFUkpqamtkRWxwWW1ZM3piNm5YTFRPeHNTTWxZV2JmdExGZDFaUlprMzRJZXFPMVBaSnpidHdlZHVMbmVj0gHrA0FVX3lxTE1YSDFkYktLWnJzNXc4SFpfdHNYYk03ZHZKYzJfeF92ZU9aQXJ0bl8xdUNnWVItOFd1UUtzUHFyY3ozd3V2X3B5MDNjeFJhTmhTSU00Si1wS3JuX3pPOGpYbFFsdDUtMWVsNzZBbW1HdmdVcUpoc3FXd0FiZ1ZRTHYxc2QtZ2lhMnNmb3E4QnZSZzkyWVd2MEh0Z1ozOHlDTkdBRWZJSW9mcUg3N3BPZVBCc3pPYjA2SDR5QUJhNUtYaDNTbEtWSnROUjM3dWxXMDRvZ0tCaXJaWlEyOTF4c3pMcnNLQlhfWWRlamR4d2JFWl9PeGdheXN4a0ExNjktTzRzU2dBeFRPMHVZdUlCNUdvdl9CVVpGUUwtV1FlN21ZR0xTRzZFUjJPRWpWVFdHUGFScHRNbDkzeWozS0hhZnVuVlRMdzRjS2lOSVJMYzBxanVIazlUWFNkbFZhRDdsdG5uNUZjWC1IaTJSbjgxcV9BN25pSjBBT3JJZU9RNF9pX0lwazQzRjZGc1FOeW5EWXBwTjV3bVhtUWlYZ3pZM284bmZJV0ZWZW12UlFmbjJObWxZSHNPT1ZiOU9FdTlfa3FTMVd1WERwd0FJNkw0MUV0LWtmXzJCMmdPMnRVN0NfQXJZLWFMeVJHZXQ0?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "How Trump caused the biggest oil shock in history and got away with it – for now",
+          "url": "https://www.egyptindependent.com/how-trump-caused-the-biggest-oil-shock-in-history-and-got-away-with-it-for-now/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "United",
       "count": 4,
       "headlines": [
@@ -903,32 +783,32 @@
       ]
     },
     {
-      "term": "withdrawal",
+      "term": "ceasefire",
       "count": 4,
       "headlines": [
         {
-          "title": "Israel says 'no US demand' to withdraw from Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclkxTmp1cTlYMnVpcGZPV1lnaWYtZkFTNjhlUmtjcWxBMTVmVFF1N2tiM29Ub0Y3NjZlaEFQWmtIaFZLQUtGaDZjQ3VwVW1tdnRBLWRzc2owcFFUOW1MajYxXzhPMEN4cXN0c3M5NG9tQlhwbUtrSzFIOWxMa2tvbVNxZTdNN1VKSlNTTW13?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
+          "title": "Gaza ceasefire talks return to square one amid escalation fears",
+          "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "title": "Families of 4 missing post-cease-fire protest outside Grand Serail",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWFfa0VDdWpwdXM0QlB3U1hvRmhaaDgyMEU5Z1A4RnhFVFBiZk5ULW1DSHh1dE8wakl6MDdaMG9WNnBZb2J3dW15b3UyaDkweWxONmNqMTQtWlJFUDN0UGJwNzB3N3EzM0FqV0NOdjRPUnE1R0xhc05KUDVaNEFUWk0wenpLZ2xqdVdLLVVxZXc0bHE1c2hIT0xXZ0UtVkZ5dlM3TTd0QWFOZFlKd3JhMlg3Uk1XcWI4di1j?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "CENTCOM chief Cooper to visit Zamir as Lebanon ceasefire, withdrawal terms in play",
-          "url": "https://www.jpost.com/international/article-900548",
-          "source": "Jerusalem Post",
-          "region": "Israel"
+          "title": "«يديعوت أحرونوت»: الساعات الأخيرة قبل وقف النار... كمين حزب الله أربك «الكتيبة 52» - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xY2xWaU9BSjAyYTZFeUVFeDBqS0hnam8zMVAzVHVUVmR0MzJyVkQ5NGsyNFNzUHdkTXJiSjJycnRfNTIwVmx5dDN6NjlSMTk3Xy0tVExVREo?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
         },
         {
-          "title": "Israel Denies Report of Partial Withdrawal From Southern Lebanon 'Buffer Zone'",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQR0pYMmpSWVM0d2NHTklzV0pxNlg0NmhBUEwyM29kN0lNbURQQy1uR1I3SV9xSmFLVEptYkpaODVVU3l6YlIwUy1UblBSYk5ybmU2eGFRN0xvOUVTRFUybFk3ck94ZWtCVmd1NEk1OUdNVnAwNm5oQjA0cnYzODhWY09zdzRqdVNCNnBVcjVhMzFOYlNEV3gxZ28yNm82em1MaE40YTFXTkJ1SEtKd01IS25BeHlsbXdLbWtGWHVTQVpqelZJUjdiaGhTNEh1c29GVUtsQW9JTzRCdmo2dU9TR2E2RjhaZF9MWUZSdUI3NFZKOUVQSFJXUDlxal8xNDRSUjMweFlUZGNLc29pSVdIR3hTcWE5Y2M?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
+          "title": "Israel strikes southern Lebanon again, breaching ceasefire",
+          "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -963,26 +843,80 @@
       ]
     },
     {
-      "term": "Washington",
+      "term": "MNA",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "China Focus: 2026 Summer Davos",
+          "url": "https://en.mehrnews.com/news/245602/China-Focus-2026-Summer-Davos",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "China Town in Jordan's Aqaba emerges as link",
+          "url": "https://en.mehrnews.com/news/245601/China-Town-in-Jordan-s-Aqaba-emerges-as-link",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "VIDEO: Ashura mourning in Rey",
+          "url": "https://en.mehrnews.com/news/245599/VIDEO-Ashura-mourning-in-Rey",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Italy rejects NATO chief claim on assisting US against Iran",
+          "url": "https://en.mehrnews.com/news/245597/Italy-rejects-NATO-chief-claim-on-assisting-US-against-Iran",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Gaza",
       "count": 3,
       "headlines": [
         {
-          "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+          "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+          "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Vance says US and Iran to establish direct military channel with IRGC",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iran-establish-direct-military-channel-irgc",
-          "source": "Middle East Eye",
+          "title": "Gaza ceasefire talks return to square one amid escalation fears",
+          "url": "https://www.newarab.com/news/gaza-ceasefire-talks-return-square-one-amid-escalation-fears",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
-          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Court",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "US Supreme Court paves way for government to block asylum seekers at border",
+          "url": "https://www.aljazeera.com/news/2026/6/25/us-supreme-court-paves-way-for-government-to-block-asylum-seekers-at-border?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "India government clears air on passport-citizenship debate, cites law and court rulings",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2tzRzFGOFlhbjBLRVlsZ0V5N040Y3V3a2Y0OFh1R1JnR3FFQ2NmYm9ZQ3RCcEpNWExfeml4ekNiRVZtNnJ6OC1pdzljZFBfOFl4bzB6QjhMVEVxblpDNG1ZWUpwby10bFFBSWdPbmdGazVWaDQ1bkVzVGxrZ3hYR1ZrOUxIX01hNURocG9wejFFOGxDVWlCNm5LLXdyZTY3NGs2ZWJHUGhXUXM1ei1XeHFWd0V4cWhmbUhmQ0ZIS0NZc1V2UjlOclhUa0sySm5IT3c?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Court rules Netanyahu aide can return to work despite indictment over leaked documents",
+          "url": "https://www.timesofisrael.com/court-rules-netanyahu-aide-can-return-to-work-despite-indictment-over-leaked-documents/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -1011,79 +945,7 @@
       ]
     },
     {
-      "term": "Lebanese",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Three killed in Israeli strike on southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-israeli-strike-southern-lebanon-0",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "CENTCOM chief Cooper to visit Zamir as Lebanon ceasefire, withdrawal terms in play",
-          "url": "https://www.jpost.com/international/article-900548",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Health",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Three killed in Israeli strike on southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-israeli-strike-southern-lebanon-0",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Flying to India from UAE? You must now fill a mandatory health declaration form before boarding",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnhMTHdTX2JZSmhoN3E2M2lvenV6SEpJeWpsOEhhLUJBejRJeHNhUmxtQlJJZmFmTGZFZ0pSeUFxeUZMUlgxUTNDeGpkMFNQRUlBQlNITEgzUllEMm1WeFpQbG1UZTczdVA4bHh2VmNUS3dxdGJrSWY2em0wTUxWejFXR3BYM2JuWnN5bUJsXzNEWjNMXzZzNmJJR01XQ0I0ODJXTnRUU0dPX0djLTE4UHZxcmh5RUJuVm4xUDlJenFlN0JWYnc?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Supermarkets containing drugged baby food barred from selling edible products, cosmetics",
-          "url": "https://www.jpost.com/israel-news/crime-in-israel/article-900546",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "West Bank",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israeli troops fatally shoot a Palestinian in the occupied West Bank",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckRQSmNTU25hM3dyUi1EMnpYUjlMTng0ZDZRZUxiS3BZRWZaUDFXYVgwSEc1dDlPUTBFZ3Zsd0t1eG5kRU5Bck14UlBZMldNX3J3eTBfQmtwRWRrMDRleXp5cmhHV29SUkE5U1hxR2FBeHdGRUFuNUYzbGp1dW5NUW9EaGdieV80czQwdDgyZjZxNFpTcFZXWDUxdUxpS0RLdXh3WTZpQ2JOWWNheDQ1Y09WbHIzdHhDSi1NcXF5ZDBkZU01MUlFWGVR0gHKAUFVX3lxTE9yRFBKY1NTbmEzd3JSLUQyelhSOUxOeDRkNlFlTGJLcFlFZlpQMVdhWDBIRzV0OU9RMEVndmx3S3V4bmRFTkFyTXhSUFkyV01fcnd5MF9Ca3BFZGswNGV5enlyaEdXb1JSQTlTWHFHYUF4d0ZFQW41RjNsanV1bk1Rb0RoZ2J5XzRzNDB0ODJmNnE0WlNwVldYNTF1TGlLREt1eHdZNmlDYk5ZY2F4NDVjT1ZscjN0eENKLU1xcXlkMGRlTTUxSUVYZVE?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli forces shoot dead sleeping Palestinian in West Bank raid",
-          "url": "https://www.newarab.com/news/israeli-forces-shoot-dead-sleeping-palestinian-west-bank-raid",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "IDF Lawyer: Israeli Army Randomly, Unlawfully Restricts West Bank Palestinians",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMjY4NHFGVEh6YVRmNHVPNHpkbno1SFlUemFnMWYzZVNvanM1TlI2VjQ4U2doWFYxTWxjanJ5WGJ2XzdkZFN5X1RUN1dOM1dQb01hOTNpU0kyYWttdk1wdHR0b3RsWjBIZTMzSEZJQ1c0dHdrZ1oyREd0OUJkdV9HeUxwM0oxdnU4c1Y3VU1KcElIWUhkNFRRTVcwcGZLQWNjLVltbjg2R2w0MHl2LWlGSkx5T0lwZ0xaeTlyOHRvRHlXSWp1TXZpNm54S2paQlVtWlNpUHRfNkhXb1dWQmMtVzVBamRBaXZlQ3ljdk5tMno5RUg2X01RQWtFQjdyY3VSQ2kwZGN1dlRRTGMySlY1Ql9VejlMaGFyTUdRWEF3?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Secretary",
+      "term": "NATO",
       "count": 3,
       "headlines": [
         {
@@ -1093,10 +955,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
-          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "سلوفاكيا تعلن مقاطعة حزمة \"الناتو\" العسكرية لأوكرانيا وتطالب بالحوار مع روسيا",
+          "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPOU9PeHllQVZUVnB2Mk95SE50enpqWWVIcTR4c1NoY2M5czFnUWNsTVdpbzc4Q0pKT1BfV0NWOXBHZXZiWVFuNGttOVRSaWdieG10TDh1bGRwTzJUNmYtbGlTbFdJOG85WG5MMEd3TFlHOUpfdGZkeEdMbWlCNUdCSXI3MVpPUHllSXdZbnp3b000TDZhVS1uYVR0dDRMTWhUdGtZOGREOUEzZGZPaHNOS01ndlRDU09fUUV2S0RoQktIY21vOTIyQkN5Sk0xZVZFWjdLQ185clprWXVSLUlhZXVSTW9kRU1xR3VKZWs0RW9DajlkQllmRXIyZ2hyNUxjU2c3a3RVaU8wX3JCWU5oRjlrUFBSVWpzOTBVOWlmNGdjdFpBZVJ0TF84MUs5NWdUdXpvVVJfVEVpUXlBMlFJUGk4TnZUYTlmUVI0eVFvSTNPbGtScHZXZFp4YktwYjY5MmRwT3ZmUVgzanVaaGp0Z3RLaWY5ZzcxbWhRYlZucERLRzdBc1p2YloycEpOQ09HSWN5M2hBNnphcUxpc00xUUVaNl9yRk42UEwtd1R1Q0xNcEF1MjNFMTZIVV9oMUQzeUlmYVczVG5QWUtPQXROeTk0TXVpR25ydXhUbDFJZzU4Zkl4Zkg4OUlhSmVYa2w2WFdVU21Bb9IB-wNBVV95cUxQZ3ZDMk9meE9UNTRtQmdVVmtJdHFGZm56SzQzZXhLRXBVdll4N1BWMGFERV83clMycG0xWjBadlQtSXFxdWhFSUtkTEoxYnFMV3RUNHE3VGJOUzVPQzBWbmU0RV9ibmlacDdhZXJJbU5Pa2R6bWxKNFBSNFIxYzdQTFJWZnBSYXZhRTEteTlrOFl3ellickdyNmZYZk5JbGplUlg1NHZvNWY2SXFvdzRGZHhjUk5md1pzNDEtM2RWR2g4aFNheVFZYXVMRzNhNmhGZ1pSUlVWOGhmWU5GUEhpM3Q5T3Jzb3F0N2ZzeXlsMnJtNDgxQTFBNjg0MlRfVUlzd0xOajhLODMybHNhMjFrUnM4ZnlCOTNCYmdUb0h2UEhGNThJTHZHaFZaNllfd21RbW9mbDJYQWluSXRhX3gzN2Q5TlhDX0dQcmJvVmJ5dVBBbThuUzJtMFk4bkFrUnRYdjYyMVhQbnNYRVlzVl90OE1mMDJrLWgwLUd6R3M2MUstSjR4bkhIZE9QQ1NQNXlVdHY1aEZHc2lndG96WC1EM2JYMG90aDZPMXkxNXBKV1duNDhsNjl1Z0VZZ2JjNFR5YjFtWEJDcnF5OFhmTlkwRGpZbF9HcFNVTXFyNDAyOWpielhsOW9GaFdrbGxpSWszOGl0MEFPTE9EU2M?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
         },
         {
           "title": "Italy rejects NATO chief claim on assisting US against Iran",
@@ -1107,61 +969,169 @@
       ]
     },
     {
-      "term": "American",
+      "term": "withdrawal",
       "count": 3,
       "headlines": [
         {
-          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
-          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
+          "title": "Israel says 'no US demand' to withdraw from Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclkxTmp1cTlYMnVpcGZPV1lnaWYtZkFTNjhlUmtjcWxBMTVmVFF1N2tiM29Ub0Y3NjZlaEFQWmtIaFZLQUtGaDZjQ3VwVW1tdnRBLWRzc2owcFFUOW1MajYxXzhPMEN4cXN0c3M5NG9tQlhwbUtrSzFIOWxMa2tvbVNxZTdNN1VKSlNTTW13?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel Denies Report of Partial Withdrawal From Southern Lebanon 'Buffer Zone'",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQR0pYMmpSWVM0d2NHTklzV0pxNlg0NmhBUEwyM29kN0lNbURQQy1uR1I3SV9xSmFLVEptYkpaODVVU3l6YlIwUy1UblBSYk5ybmU2eGFRN0xvOUVTRFUybFk3ck94ZWtCVmd1NEk1OUdNVnAwNm5oQjA0cnYzODhWY09zdzRqdVNCNnBVcjVhMzFOYlNEV3gxZ28yNm82em1MaE40YTFXTkJ1SEtKd01IS25BeHlsbXdLbWtGWHVTQVpqelZJUjdiaGhTNEh1c29GVUtsQW9JTzRCdmo2dU9TR2E2RjhaZF9MWUZSdUI3NFZKOUVQSFJXUDlxal8xNDRSUjMweFlUZGNLc29pSVdIR3hTcWE5Y2M?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Netanyahu",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Netanyahu heckled, told to 'go home' during combat officer graduation ceremony speech",
+          "url": "https://www.jpost.com/israel-news/article-900553",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Court rules Netanyahu aide can return to work despite indictment over leaked documents",
+          "url": "https://www.timesofisrael.com/court-rules-netanyahu-aide-can-return-to-work-despite-indictment-over-leaked-documents/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Society",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Palestinian Prisoner's Society says two Palestinians killed during Israeli detention incursions - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tYUZ1OHJ5aFRRVF8yNVBDUkoyX1ZBdkhMOHpSYzU1X0VYMVgwVVhpeFZqUzZvMkYtRjFWWEZINU11ODYyWlBZN2lNMC1JYS16MDhlTmctZw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Beyond the war: The struggle to sustain essential care - opinion",
+          "url": "https://www.jpost.com/opinion/article-900475",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Armenian Red Cross chief calls for expanding cooperation with Iran’s IRCS",
+          "url": "https://en.irna.ir/news/86192792/Armenian-Red-Cross-chief-calls-for-expanding-cooperation-with",
           "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Ghalibaf rejects claims of mandatory US imports",
-          "url": "https://en.mehrnews.com/news/245596/Ghalibaf-rejects-claims-of-mandatory-US-imports",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran sympathizes with Venezuela over deadly earthquakes",
-          "url": "https://en.mehrnews.com/news/245594/Iran-sympathizes-with-Venezuela-over-deadly-earthquakes",
-          "source": "Mehr News",
           "region": "Iran"
         }
       ]
     },
     {
-      "term": "attack",
+      "term": "Police",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Police officer seen assaulting haredim at draft protest released after questioning",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900554",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "State attorney warns against ‘deliberate erosion’ of public trust in law enforcement",
+          "url": "https://www.timesofisrael.com/state-attorney-warns-against-deliberate-erosion-of-public-trust-in-law-enforcement/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Israel Police Raid Northern Community Over Suspected Illegal Child Marriages",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPcHlhSzZfYkZMeFZlYm05NmVqVVh2MnktN1h6S0I2VF93aW0wVTVCaVdfUlo3RVhFTV9MRWkya2JncDQyMHh3QV9oSDRVWlh1YUU5VFQ4bGdNUnhrcTl5MWZtZkxXdU9VYUYzdXJ3R3VZWnR2d1RYT0NXNHVIN2VLYUIya29aVW8tbVluczhYSjJNSExLS0FUbEIwOEZxYjdSNXpuaWVURUNmU0VqOVdHNDRJMVAxZmI1elAzMXg1SHQ5NXJXa3FfSDc1SU5UTTR4WlNPbDkyTVdueTFnd0o1TjVXLXd2Z1NWa1I4bmhhYXpxWXh1TEhDVFBmSEVuQkhQbVJNSXNQOWstQ3hKdGpxYjZ3M2RoTklYclcydGlR?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Strait of Hormuz",
       "count": 2,
       "headlines": [
         {
-          "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+          "title": "Rubio: Gulf countries don’t support Strait of Hormuz tolls",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rubio-gulf-countries-dont-support-strait-of-hormuz-tolls?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli colonists attack Palestinian youths with pepper spray in Ras al-Ahmar area near Tubas - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQMnRvSEZrNEFVN3hiZld1N2ttVmlOQnZRQTltQmF0U0lFWEZKWFZMbS1JMnJjcmlsMkhPQ2pFckJGWmRHMk5jQzR3RDUyUmlsUnFMMVBLVQ?oc=5",
-          "source": "WAFA News",
+          "title": "Iran, Oman FMs discuss Strait of Hormuz, regional issues",
+          "url": "https://en.irna.ir/news/86192670/Iran-Oman-FMs-discuss-Strait-of-Hormuz-regional-issues",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Marco",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Rubio: Gulf countries don’t support Strait of Hormuz tolls",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rubio-gulf-countries-dont-support-strait-of-hormuz-tolls?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
+          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
+          "source": "Egypt Independent",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "Nabatieh",
+      "term": "oil prices",
       "count": 2,
       "headlines": [
         {
-          "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-          "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Gulf stock markets fall as oil prices return to pre-war levels",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-stock-markets-fall-oil-prices-return-pre-war-levels",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Three killed in Israeli strike on southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-israeli-strike-southern-lebanon-0",
+          "title": "How Trump caused the biggest oil shock in history and got away with it – for now",
+          "url": "https://www.egyptindependent.com/how-trump-caused-the-biggest-oil-shock-in-history-and-got-away-with-it-for-now/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "US-Israeli",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Gulf stock markets fall as oil prices return to pre-war levels",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-stock-markets-fall-oil-prices-return-pre-war-levels",
           "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "What kind of Iran will emerge from the US-Israeli war?",
+          "url": "https://www.newarab.com/analysis/what-kind-iran-will-emerge-us-israeli-war",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         }
       ]
@@ -1203,37 +1173,19 @@
       ]
     },
     {
-      "term": "Abbas",
+      "term": "Washington",
       "count": 2,
       "headlines": [
         {
-          "title": "Italy denies authorising use of airbases for US attacks on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
+          "title": "Vance says US and Iran to establish direct military channel with IRGC",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iran-establish-direct-military-channel-irgc",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran, Oman FMs discuss Strait of Hormuz developments",
-          "url": "https://en.mehrnews.com/news/245595/Iran-Oman-FMs-discuss-Strait-of-Hormuz-developments",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Araghchi",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Italy denies authorising use of airbases for US attacks on Iran",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran, Oman FMs discuss Strait of Hormuz developments",
-          "url": "https://en.mehrnews.com/news/245595/Iran-Oman-FMs-discuss-Strait-of-Hormuz-developments",
-          "source": "Mehr News",
+          "title": "Ghalibaf rejects US claims on Iran’s unfrozen assets",
+          "url": "https://en.irna.ir/news/86192733/Ghalibaf-rejects-US-claims-on-Iran-s-unfrozen-assets",
+          "source": "IRNA",
           "region": "Iran"
         }
       ]
@@ -1293,20 +1245,20 @@
       ]
     },
     {
-      "term": "Saudi Arabia",
+      "term": "Lebanese",
       "count": 2,
       "headlines": [
         {
-          "title": "What did the first half of 2026 reveal about Saudi Arabia’s tourism sector?",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaXp5RFZXTTlQSV9lcGVqZWZYbEdBME03QlFXaFFZWWx3NTVRb2JpSU1xTGdBY2lIOGtVM29IQzhmUFNHcUVCRkpteG11S0EtZWVVMklrdERYVDJmNWdEbWM5Q1kxMFZENjFQaXp0UVR2V295SXdJX2k0ZEtYbmFHajR0N2dJRkRFQ1JERk5nUHA5S0VyOUc3RXNldFd2R1FkdU1kNmk1ekRwMUlSNENNNlprQkxmaDNLMWVWRlJlYzdqd0Qxd1p2QXI3YXlVYXNQSnVXLVBSNGxKbG8w0gHcAUFVX3lxTE5penlEVldNOVBJX2VwZWplZlhsR0EwTTdCUVdoUVlZbHc1NVFvYmlJTXFMZ0FjaUg4a1Uzb0hDOGZQU0dxRUJGSm14bXVLQS1lZVUySWt0RFhUMmY1Z0RtYzlDWTEwVkQ2MVBpenRRVHZXb3lJd0lfaTRkS1huYUdqNHQ3Z0lGREVDUkRGTmdQcDlLRXI5RzdFc2V0V3ZHUWR1TWQ2aTV6RHAxSVI0Q002WmtCTGZoM0sxZVZGUmVjN2p3RDF3WnZBcjdheVVhc1BKdVctUFI0bEpsbzA?oc=5",
-          "source": "Al Arabiya",
+          "title": "Three killed in Israeli strike on southern Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-israeli-strike-southern-lebanon-0",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Reporter for Saudi Arabia's Al Arabiya TV killed by car bomb in Yemen",
-          "url": "https://www.jpost.com/middle-east/article-900550",
-          "source": "Jerusalem Post",
-          "region": "Israel"
+          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
         }
       ]
     },
@@ -1329,7 +1281,7 @@
       ]
     },
     {
-      "term": "Gaza",
+      "term": "talks",
       "count": 2,
       "headlines": [
         {
@@ -1339,10 +1291,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "خلال يوم واحد: شهيدان و15 إصابة برصاص الاحتلال بغزة",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOUxhY1dJeTBUcklrX21RbUN5dmY4bmdOYjUxaDhSUEdWVVR6M3FDRW1NMDZfdUxTOEVvMzZPZlBGOU1pV2tUeXZldkRTSXZMUkllWDBXUWxEbFRDejlOWkozMkZoa0Rsem9tVkhfZGxCMV9Memt2RTJhN3FhUkR2VF8zTV9jOVpGaTBQejFZc0lWaW0tM1Rqa1RSS0VJamwtX1lTOUNiMnpJaXV4cG5TUUxCaFluakRLTTFlT0MwN1plVHd2T0lkQy1QYnhNVFU5cU0wenJBbVNoUlZHR0d1bVAxNnJKWGMwaEVTb245TUIzYm9na2VDWGVMZ3ZiRnlDVkVVbDIxVXpreEND?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
+          "title": "Rubio praises progress in Israel-Lebanon talks",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pZW5hY0x2VTFGNVNCS1d5X0x0Tmt3a1VaSVh0ZVNhQzVSY2dVQlp6MENjUFdWUGYwRWc5MUNGam1wTEpEZHVCRGdPck1EOElGY2pN?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -1375,10 +1327,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Assad’s ‘barrel bomb Mufti’ stands trial in Syria over war crimes",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tUkJSRVFVS2syTVpnc01UWk9wclVPdDZJUXZId21TaGpoMDgxcUNuVUtCZHhacGpkSzBkM182TlR6Z2ZIdEZLRExJVllsdFJWZWVZ?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "Syria’s missing women: What really happened to Batoul Alloush? - exclusive",
+          "url": "https://www.jpost.com/middle-east/article-900551",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     },
@@ -1396,6 +1348,24 @@
           "title": "Israel Police Raid Northern Community Over Suspected Illegal Child Marriages",
           "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPcHlhSzZfYkZMeFZlYm05NmVqVVh2MnktN1h6S0I2VF93aW0wVTVCaVdfUlo3RVhFTV9MRWkya2JncDQyMHh3QV9oSDRVWlh1YUU5VFQ4bGdNUnhrcTl5MWZtZkxXdU9VYUYzdXJ3R3VZWnR2d1RYT0NXNHVIN2VLYUIya29aVW8tbVluczhYSjJNSExLS0FUbEIwOEZxYjdSNXpuaWVURUNmU0VqOVdHNDRJMVAxZmI1elAzMXg1SHQ5NXJXa3FfSDc1SU5UTTR4WlNPbDkyTVdueTFnd0o1TjVXLXd2Z1NWa1I4bmhhYXpxWXh1TEhDVFBmSEVuQkhQbVJNSXNQOWstQ3hKdGpxYjZ3M2RoTklYclcydGlR?oc=5",
           "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Hormuz",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Rubio warns of 'chaos' from Hormuz tolls as Oman opposes fees",
+          "url": "https://www.newarab.com/news/rubio-warns-chaos-hormuz-tolls-oman-opposes-fees",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hormuz traffic rebound returns oil to prewar rates, as US reassures wary Gulf allies",
+          "url": "https://www.timesofisrael.com/hormuz-traffic-rebound-returns-oil-to-prewar-rates-as-us-reassures-wary-gulf-allies/",
+          "source": "Times of Israel",
           "region": "Israel"
         }
       ]
@@ -1437,6 +1407,24 @@
       ]
     },
     {
+      "term": "Syrian",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Syria’s missing women: What really happened to Batoul Alloush? - exclusive",
+          "url": "https://www.jpost.com/middle-east/article-900551",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "OPEC",
       "count": 2,
       "headlines": [
@@ -1469,42 +1457,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNEYwS3R5WklEX0d3ZTA5M3dfX2ZaOTF5NlRGaW51bjhxV1FfRXJKa0huMC13d1FOMDF5TjFvX25jV3dVM1FvZmhqdnFTMFJCZlVV?oc=5",
           "source": "Arab News",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Netanyahu",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Netanyahu snubbed again by Trump as Rubio skips Israel on regional visit",
-          "url": "https://www.egyptindependent.com/netanyahu-snubbed-again-by-trump-as-rubio-skips-israel-on-regional-visit/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Court rules Netanyahu aide can return to work despite indictment over leaked documents",
-          "url": "https://www.timesofisrael.com/court-rules-netanyahu-aide-can-return-to-work-despite-indictment-over-leaked-documents/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Hezbollah",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "«يديعوت أحرونوت»: الساعات الأخيرة قبل وقف النار... كمين حزب الله أربك «الكتيبة 52» - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xY2xWaU9BSjAyYTZFeUVFeDBqS0hnam8zMVAzVHVUVmR0MzJyVkQ5NGsyNFNzUHdkTXJiSjJycnRfNTIwVmx5dDN6NjlSMTk3Xy0tVExVREo?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "CENTCOM chief Cooper to visit Zamir as Lebanon ceasefire, withdrawal terms in play",
-          "url": "https://www.jpost.com/international/article-900548",
-          "source": "Jerusalem Post",
-          "region": "Israel"
         }
       ]
     }
