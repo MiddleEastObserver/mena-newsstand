@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T12:17:33.147282+00:00",
+  "updated": "2026-06-25T12:46:46.614609+00:00",
   "total_headlines": 684,
   "has_trend": true,
   "topics": [
@@ -7,65 +7,65 @@
       "id": "other",
       "label": "Other",
       "color": "#9AA3B2",
-      "count": 187,
-      "share": 27.3,
-      "delta": 2.2
+      "count": 179,
+      "share": 26.2,
+      "delta": 0.8
     },
     {
       "id": "iran",
       "label": "Iran & Nuclear",
       "color": "#1F7A6E",
-      "count": 123,
-      "share": 18.0,
-      "delta": -2.4
+      "count": 126,
+      "share": 18.4,
+      "delta": -1.7
     },
     {
       "id": "israel_pal",
       "label": "Israel–Palestine",
       "color": "#2F4B7C",
-      "count": 98,
-      "share": 14.3,
-      "delta": 1.7
+      "count": 96,
+      "share": 14.0,
+      "delta": 1.2
     },
     {
       "id": "lebanon",
       "label": "Lebanon & Hezbollah",
       "color": "#9C6B2E",
-      "count": 67,
-      "share": 9.8,
-      "delta": -0.9
+      "count": 72,
+      "share": 10.5,
+      "delta": 0.0
     },
     {
       "id": "gulf",
       "label": "Gulf & Normalization",
       "color": "#3E7C59",
-      "count": 65,
-      "share": 9.5,
-      "delta": -0.5
+      "count": 68,
+      "share": 9.9,
+      "delta": -0.1
     },
     {
       "id": "us_west",
       "label": "US & the West",
       "color": "#4A6FA5",
-      "count": 46,
-      "share": 6.7,
+      "count": 47,
+      "share": 6.9,
       "delta": 0.7
     },
     {
       "id": "gaza",
       "label": "Gaza & Hamas",
       "color": "#B0413E",
-      "count": 35,
-      "share": 5.1,
-      "delta": -1.1
+      "count": 34,
+      "share": 5.0,
+      "delta": -1.0
     },
     {
       "id": "egypt_naf",
       "label": "Egypt & N. Africa",
       "color": "#B08A3E",
-      "count": 20,
-      "share": 2.9,
-      "delta": 0.6
+      "count": 19,
+      "share": 2.8,
+      "delta": 0.3
     },
     {
       "id": "econ",
@@ -105,7 +105,7 @@
       "color": "#C77D34",
       "count": 5,
       "share": 0.7,
-      "delta": 0.3
+      "delta": 0.4
     }
   ],
   "outlets": [
@@ -118,8 +118,8 @@
           "id": "iran",
           "label": "Iran & Nuclear",
           "color": "#1F7A6E",
-          "count": 11,
-          "share": 28
+          "count": 14,
+          "share": 35
         },
         {
           "id": "lebanon",
@@ -132,15 +132,15 @@
           "id": "us_west",
           "label": "US & the West",
           "color": "#4A6FA5",
-          "count": 7,
-          "share": 18
+          "count": 6,
+          "share": 15
         },
         {
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
-          "count": 7,
-          "share": 18
+          "count": 6,
+          "share": 15
         },
         {
           "id": "gaza",
@@ -148,13 +148,6 @@
           "color": "#B0413E",
           "count": 2,
           "share": 5
-        },
-        {
-          "id": "gulf",
-          "label": "Gulf & Normalization",
-          "color": "#3E7C59",
-          "count": 1,
-          "share": 2
         },
         {
           "id": "econ",
@@ -342,15 +335,15 @@
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
-          "count": 13,
-          "share": 32
+          "count": 12,
+          "share": 30
         },
         {
           "id": "lebanon",
           "label": "Lebanon & Hezbollah",
           "color": "#9C6B2E",
-          "count": 9,
-          "share": 22
+          "count": 10,
+          "share": 25
         },
         {
           "id": "israel_pal",
@@ -419,8 +412,8 @@
           "id": "israel_pal",
           "label": "Israel–Palestine",
           "color": "#2F4B7C",
-          "count": 31,
-          "share": 78
+          "count": 32,
+          "share": 80
         },
         {
           "id": "other",
@@ -433,8 +426,8 @@
           "id": "gaza",
           "label": "Gaza & Hamas",
           "color": "#B0413E",
-          "count": 3,
-          "share": 8
+          "count": 2,
+          "share": 5
         },
         {
           "id": "us_west",
@@ -454,8 +447,8 @@
           "id": "gaza",
           "label": "Gaza & Hamas",
           "color": "#B0413E",
-          "count": 15,
-          "share": 38
+          "count": 14,
+          "share": 35
         },
         {
           "id": "israel_pal",
@@ -468,8 +461,8 @@
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
-          "count": 6,
-          "share": 15
+          "count": 7,
+          "share": 18
         },
         {
           "id": "egypt_naf",
@@ -521,18 +514,18 @@
           "share": 22
         },
         {
-          "id": "other",
-          "label": "Other",
-          "color": "#9AA3B2",
-          "count": 7,
-          "share": 18
-        },
-        {
           "id": "us_west",
           "label": "US & the West",
           "color": "#4A6FA5",
-          "count": 7,
-          "share": 18
+          "count": 8,
+          "share": 20
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 6,
+          "share": 15
         },
         {
           "id": "gulf",
@@ -594,8 +587,8 @@
           "id": "gulf",
           "label": "Gulf & Normalization",
           "color": "#3E7C59",
-          "count": 11,
-          "share": 28
+          "count": 12,
+          "share": 30
         },
         {
           "id": "other",
@@ -608,8 +601,8 @@
           "id": "iran",
           "label": "Iran & Nuclear",
           "color": "#1F7A6E",
-          "count": 7,
-          "share": 18
+          "count": 6,
+          "share": 15
         },
         {
           "id": "lebanon",
@@ -675,18 +668,18 @@
       "total": 40,
       "mix": [
         {
-          "id": "other",
-          "label": "Other",
-          "color": "#9AA3B2",
-          "count": 18,
-          "share": 45
-        },
-        {
           "id": "gulf",
           "label": "Gulf & Normalization",
           "color": "#3E7C59",
-          "count": 14,
-          "share": 35
+          "count": 19,
+          "share": 48
+        },
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 15,
+          "share": 38
         },
         {
           "id": "iran",
@@ -699,20 +692,13 @@
           "id": "us_west",
           "label": "US & the West",
           "color": "#4A6FA5",
-          "count": 2,
-          "share": 5
+          "count": 1,
+          "share": 2
         },
         {
           "id": "econ",
           "label": "Economy & Energy",
           "color": "#6E7B3D",
-          "count": 1,
-          "share": 2
-        },
-        {
-          "id": "egypt_naf",
-          "label": "Egypt & N. Africa",
-          "color": "#B08A3E",
           "count": 1,
           "share": 2
         }
@@ -724,18 +710,18 @@
       "total": 40,
       "mix": [
         {
-          "id": "gulf",
-          "label": "Gulf & Normalization",
-          "color": "#3E7C59",
-          "count": 15,
-          "share": 38
-        },
-        {
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
-          "count": 13,
-          "share": 32
+          "count": 14,
+          "share": 35
+        },
+        {
+          "id": "gulf",
+          "label": "Gulf & Normalization",
+          "color": "#3E7C59",
+          "count": 14,
+          "share": 35
         },
         {
           "id": "syria",
@@ -783,8 +769,8 @@
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
-          "count": 21,
-          "share": 52
+          "count": 20,
+          "share": 50
         },
         {
           "id": "gulf",
@@ -797,8 +783,8 @@
           "id": "iran",
           "label": "Iran & Nuclear",
           "color": "#1F7A6E",
-          "count": 4,
-          "share": 10
+          "count": 5,
+          "share": 12
         },
         {
           "id": "us_west",
@@ -825,8 +811,8 @@
           "id": "israel_pal",
           "label": "Israel–Palestine",
           "color": "#2F4B7C",
-          "count": 23,
-          "share": 58
+          "count": 24,
+          "share": 60
         },
         {
           "id": "other",
@@ -834,13 +820,6 @@
           "color": "#9AA3B2",
           "count": 7,
           "share": 18
-        },
-        {
-          "id": "lebanon",
-          "label": "Lebanon & Hezbollah",
-          "color": "#9C6B2E",
-          "count": 4,
-          "share": 10
         },
         {
           "id": "iran",
@@ -855,6 +834,13 @@
           "color": "#B0413E",
           "count": 3,
           "share": 8
+        },
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 3,
+          "share": 8
         }
       ]
     },
@@ -867,8 +853,8 @@
           "id": "iran",
           "label": "Iran & Nuclear",
           "color": "#1F7A6E",
-          "count": 22,
-          "share": 73
+          "count": 21,
+          "share": 70
         },
         {
           "id": "other",
@@ -883,6 +869,13 @@
           "color": "#4A6FA5",
           "count": 3,
           "share": 10
+        },
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 1,
+          "share": 3
         },
         {
           "id": "turkey",
@@ -909,22 +902,22 @@
           "id": "iran",
           "label": "Iran & Nuclear",
           "color": "#1F7A6E",
-          "count": 12,
-          "share": 40
+          "count": 13,
+          "share": 43
         },
         {
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
-          "count": 11,
-          "share": 37
+          "count": 9,
+          "share": 30
         },
         {
           "id": "lebanon",
           "label": "Lebanon & Hezbollah",
           "color": "#9C6B2E",
-          "count": 4,
-          "share": 13
+          "count": 5,
+          "share": 17
         },
         {
           "id": "us_west",
@@ -955,16 +948,16 @@
           "share": 50
         },
         {
-          "id": "iran",
-          "label": "Iran & Nuclear",
-          "color": "#1F7A6E",
-          "count": 4,
-          "share": 14
-        },
-        {
           "id": "econ",
           "label": "Economy & Energy",
           "color": "#6E7B3D",
+          "count": 3,
+          "share": 11
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
           "count": 3,
           "share": 11
         },
@@ -979,8 +972,8 @@
           "id": "lebanon",
           "label": "Lebanon & Hezbollah",
           "color": "#9C6B2E",
-          "count": 1,
-          "share": 4
+          "count": 2,
+          "share": 7
         },
         {
           "id": "gaza",
@@ -1008,28 +1001,28 @@
     {
       "source": "L'Orient Today",
       "country": "Lebanon",
-      "total": 24,
+      "total": 25,
       "mix": [
         {
           "id": "lebanon",
           "label": "Lebanon & Hezbollah",
           "color": "#9C6B2E",
-          "count": 13,
-          "share": 54
+          "count": 14,
+          "share": 56
         },
         {
           "id": "iran",
           "label": "Iran & Nuclear",
           "color": "#1F7A6E",
           "count": 4,
-          "share": 17
+          "share": 16
         },
         {
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
           "count": 4,
-          "share": 17
+          "share": 16
         },
         {
           "id": "econ",
@@ -1051,90 +1044,6 @@
           "color": "#2F4B7C",
           "count": 1,
           "share": 4
-        }
-      ]
-    },
-    {
-      "source": "Jerusalem Post",
-      "country": "Israel",
-      "total": 21,
-      "mix": [
-        {
-          "id": "israel_pal",
-          "label": "Israel–Palestine",
-          "color": "#2F4B7C",
-          "count": 10,
-          "share": 48
-        },
-        {
-          "id": "other",
-          "label": "Other",
-          "color": "#9AA3B2",
-          "count": 4,
-          "share": 19
-        },
-        {
-          "id": "turkey",
-          "label": "Turkey",
-          "color": "#A4434B",
-          "count": 3,
-          "share": 14
-        },
-        {
-          "id": "lebanon",
-          "label": "Lebanon & Hezbollah",
-          "color": "#9C6B2E",
-          "count": 3,
-          "share": 14
-        },
-        {
-          "id": "iran",
-          "label": "Iran & Nuclear",
-          "color": "#1F7A6E",
-          "count": 1,
-          "share": 5
-        }
-      ]
-    },
-    {
-      "source": "Al Jazeera",
-      "country": "Qatar",
-      "total": 20,
-      "mix": [
-        {
-          "id": "other",
-          "label": "Other",
-          "color": "#9AA3B2",
-          "count": 11,
-          "share": 55
-        },
-        {
-          "id": "iran",
-          "label": "Iran & Nuclear",
-          "color": "#1F7A6E",
-          "count": 4,
-          "share": 20
-        },
-        {
-          "id": "us_west",
-          "label": "US & the West",
-          "color": "#4A6FA5",
-          "count": 3,
-          "share": 15
-        },
-        {
-          "id": "israel_pal",
-          "label": "Israel–Palestine",
-          "color": "#2F4B7C",
-          "count": 1,
-          "share": 5
-        },
-        {
-          "id": "econ",
-          "label": "Economy & Energy",
-          "color": "#6E7B3D",
-          "count": 1,
-          "share": 5
         }
       ]
     },
@@ -1147,15 +1056,22 @@
           "id": "israel_pal",
           "label": "Israel–Palestine",
           "color": "#2F4B7C",
-          "count": 7,
-          "share": 35
+          "count": 8,
+          "share": 40
         },
         {
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
-          "count": 4,
-          "share": 20
+          "count": 3,
+          "share": 15
+        },
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 2,
+          "share": 10
         },
         {
           "id": "us_west",
@@ -1172,11 +1088,53 @@
           "share": 10
         },
         {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 2,
+          "share": 10
+        },
+        {
           "id": "gulf",
           "label": "Gulf & Normalization",
           "color": "#3E7C59",
-          "count": 2,
-          "share": 10
+          "count": 1,
+          "share": 5
+        }
+      ]
+    },
+    {
+      "source": "Jerusalem Post",
+      "country": "Israel",
+      "total": 20,
+      "mix": [
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 6,
+          "share": 30
+        },
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 4,
+          "share": 20
+        },
+        {
+          "id": "turkey",
+          "label": "Turkey",
+          "color": "#A4434B",
+          "count": 3,
+          "share": 15
+        },
+        {
+          "id": "lebanon",
+          "label": "Lebanon & Hezbollah",
+          "color": "#9C6B2E",
+          "count": 3,
+          "share": 15
         },
         {
           "id": "iran",
@@ -1186,9 +1144,65 @@
           "share": 10
         },
         {
-          "id": "lebanon",
-          "label": "Lebanon & Hezbollah",
-          "color": "#9C6B2E",
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 1,
+          "share": 5
+        },
+        {
+          "id": "gaza",
+          "label": "Gaza & Hamas",
+          "color": "#B0413E",
+          "count": 1,
+          "share": 5
+        }
+      ]
+    },
+    {
+      "source": "Al Jazeera",
+      "country": "Qatar",
+      "total": 19,
+      "mix": [
+        {
+          "id": "other",
+          "label": "Other",
+          "color": "#9AA3B2",
+          "count": 9,
+          "share": 47
+        },
+        {
+          "id": "iran",
+          "label": "Iran & Nuclear",
+          "color": "#1F7A6E",
+          "count": 4,
+          "share": 21
+        },
+        {
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 3,
+          "share": 16
+        },
+        {
+          "id": "egypt_naf",
+          "label": "Egypt & N. Africa",
+          "color": "#B08A3E",
+          "count": 1,
+          "share": 5
+        },
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 1,
+          "share": 5
+        },
+        {
+          "id": "econ",
+          "label": "Economy & Energy",
+          "color": "#6E7B3D",
           "count": 1,
           "share": 5
         }
@@ -1274,35 +1288,49 @@
     {
       "source": "Egypt Independent",
       "country": "Egypt",
-      "total": 8,
+      "total": 9,
       "mix": [
         {
           "id": "egypt_naf",
           "label": "Egypt & N. Africa",
           "color": "#B08A3E",
-          "count": 4,
-          "share": 50
+          "count": 3,
+          "share": 33
         },
         {
           "id": "other",
           "label": "Other",
           "color": "#9AA3B2",
           "count": 2,
-          "share": 25
+          "share": 22
+        },
+        {
+          "id": "israel_pal",
+          "label": "Israel–Palestine",
+          "color": "#2F4B7C",
+          "count": 1,
+          "share": 11
+        },
+        {
+          "id": "us_west",
+          "label": "US & the West",
+          "color": "#4A6FA5",
+          "count": 1,
+          "share": 11
         },
         {
           "id": "iran",
           "label": "Iran & Nuclear",
           "color": "#1F7A6E",
           "count": 1,
-          "share": 12
+          "share": 11
         },
         {
           "id": "syria",
           "label": "Syria",
           "color": "#7D6BA6",
           "count": 1,
-          "share": 12
+          "share": 11
         }
       ]
     }
@@ -1312,23 +1340,23 @@
       "id": "israel_pal",
       "label": "Israel–Palestine",
       "color": "#2F4B7C",
-      "spread": 76,
+      "spread": 78,
       "top": [
         {
           "source": "WAFA News",
-          "share": 78
+          "share": 80
         },
         {
           "source": "Haaretz",
-          "share": 58
-        },
-        {
-          "source": "Jerusalem Post",
-          "share": 48
+          "share": 60
         },
         {
           "source": "Middle East Eye",
-          "share": 35
+          "share": 40
+        },
+        {
+          "source": "Times of Israel",
+          "share": 31
         }
       ],
       "bottom": [
@@ -1341,11 +1369,11 @@
           "share": 0
         },
         {
-          "source": "Egypt Independent",
+          "source": "Al Manar",
           "share": 0
         },
         {
-          "source": "Al Manar",
+          "source": "Gulf News",
           "share": 0
         }
       ]
@@ -1354,23 +1382,23 @@
       "id": "iran",
       "label": "Iran & Nuclear",
       "color": "#1F7A6E",
-      "spread": 68,
+      "spread": 62,
       "top": [
         {
           "source": "IRNA",
-          "share": 73
+          "share": 70
         },
         {
           "source": "Mehr News",
-          "share": 40
+          "share": 43
+        },
+        {
+          "source": "Al Arabiya",
+          "share": 35
         },
         {
           "source": "Al Mayadeen",
           "share": 35
-        },
-        {
-          "source": "Al Arabiya",
-          "share": 28
         }
       ],
       "bottom": [
@@ -1388,15 +1416,15 @@
       "id": "lebanon",
       "label": "Lebanon & Hezbollah",
       "color": "#9C6B2E",
-      "spread": 52,
+      "spread": 54,
       "top": [
         {
           "source": "L'Orient Today",
-          "share": 54
+          "share": 56
         },
         {
           "source": "Al-Akhbar",
-          "share": 22
+          "share": 25
         },
         {
           "source": "Al Arabiya",
@@ -1430,19 +1458,19 @@
       "id": "gulf",
       "label": "Gulf & Normalization",
       "color": "#3E7C59",
-      "spread": 36,
+      "spread": 46,
       "top": [
         {
-          "source": "Gulf Times",
-          "share": 38
+          "source": "Gulf News",
+          "share": 48
         },
         {
-          "source": "Gulf News",
+          "source": "Gulf Times",
           "share": 35
         },
         {
           "source": "The National",
-          "share": 28
+          "share": 30
         },
         {
           "source": "Times of Oman",
@@ -1455,15 +1483,15 @@
           "share": 0
         },
         {
+          "source": "Al Arabiya",
+          "share": 0
+        },
+        {
           "source": "Al Mayadeen",
           "share": 0
         },
         {
           "source": "L'Orient Today",
-          "share": 0
-        },
-        {
-          "source": "Egypt Independent",
           "share": 0
         }
       ]
@@ -1472,18 +1500,18 @@
       "id": "us_west",
       "label": "US & the West",
       "color": "#4A6FA5",
-      "spread": 16,
+      "spread": 18,
       "top": [
         {
-          "source": "Al Arabiya",
-          "share": 18
-        },
-        {
           "source": "Arab News",
-          "share": 18
+          "share": 20
         },
         {
           "source": "Al Jazeera",
+          "share": 16
+        },
+        {
+          "source": "Al Arabiya",
           "share": 15
         },
         {
@@ -1493,19 +1521,15 @@
       ],
       "bottom": [
         {
-          "source": "Egypt Independent",
-          "share": 0
-        },
-        {
           "source": "Falastin al-Youm",
           "share": 0
         },
         {
-          "source": "Jerusalem Post",
+          "source": "Times of Israel",
           "share": 0
         },
         {
-          "source": "Times of Israel",
+          "source": "Haaretz",
           "share": 0
         }
       ]
