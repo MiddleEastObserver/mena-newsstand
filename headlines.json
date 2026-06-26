@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T01:55:05.974307+00:00",
+  "updated": "2026-06-26T02:24:05.091677+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Hundreds trapped beneath buildings a day after Venezuela’s twin earthquakes",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/hundreds-trapped-beneath-buildings-a-day-after-venezuelas-twin-earthquakes?traffic_source=rss",
+            "published": "2026-06-26T02:13:54+00:00",
+            "snippet": "Emergency crews are racing to rescue hundreds trapped under collapsed buildings after earthquakes struck Venezuela."
+          },
           {
             "title": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/plan-intl-mental-health-impact-of-venezuelan-quakes-can-last-for-years?traffic_source=rss",
             "published": "2026-06-26T00:36:08+00:00",
             "snippet": "Plan International emphasized that children and young people must be central to Venezuela's earthquake response. The organization stated that the mental health impact of the quakes on young individuals could persist for years."
-          },
-          {
-            "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
-            "published": "2026-06-26T00:00:09+00:00",
-            "snippet": "Israel's leader announced that troops would remain in occupied southern Lebanon for an indefinite period, stating they would stay 'as long as necessary.' This decision was made despite a reported deal between the US and Iran."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Germany holds naval exercise with Israel amid Gaza war",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/german-and-israeli-navies-conduct-joint-haifa-drill",
+            "published": "2026-06-26T02:07:48+00:00",
+            "snippet": "Germany holds naval exercise with Israel amid Gaza war Germany and Israel held a joint naval exercise off the coast of Haifa on Thursday, with the Israeli military describing the drill as a step toward strengthening operational cooperation between the two navies."
+          },
           {
             "title": "Report: Wars in Middle East cost Israel $205 billion since 7 Oct",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wars-middle-east-cost-israel-205-billion-7-oct-report",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-released-iran-funds-be-spent-us-crops",
             "published": "2026-06-26T01:05:51+00:00",
             "snippet": "Trump says released Iran funds to be spent on US crops US President Donald Trump said unfrozen Iranian assets will be used to purchase American agricultural products, including wheat, soybeans and corn, under the framework of the recent agreement with Tehran."
-          },
-          {
-            "title": "Israel-Lebanon talks extended for another day",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-talks-extended-another-day",
-            "published": "2026-06-26T00:48:32+00:00",
-            "snippet": "Negotiations between Lebanese and Israeli delegations have been extended for an additional day in Washington. A US State Department official confirmed the talks are ongoing, with discussions set to resume on Friday."
           }
         ],
         "error": null
@@ -112,7 +112,7 @@
           },
           {
             "title": "Israel must withdraw entirely from Lebanon, Iran’s IRGC says",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlVPcWQxZmVSODVESFdzbFgtSDVaWmpEbWJrN2NrX19YLV9OSjRqZDlMdjdLT1ZzdzV1cTk5WGVkVEZacGFwWHFDLUxlN0J6c3ZCVXpnSnhSblQ1UzNiQUFiSzQxZVVLYk9iVENqOVZuQnhLWTlJaDUwbHQxa05xTW1DMzJPSS1xV0lWeDZadE93OWctbEY5a3JqWV9zRGpEZ3RMNWo0bDBHWTJhZ1FFZzVtc3Z2YkxhVFhWZC00Y9IBvwFBVV95cUxNTlVPcWQxZmVSODVESFdzbFgtSDVaWmpEbWJrN2NrX19YLV9OSjRqZDlMdjdLT1ZzdzV1cTk5WGVkVEZacGFwWHFDLUxlN0J6c3ZCVXpnSnhSblQ1UzNiQUFiSzQxZVVLYk9iVENqOVZuQnhLWTlJaDUwbHQxa05xTW1DMzJPSS1xV0lWeDZadE93OWctbEY5a3JqWV9zRGpEZ3RMNWo0bDBHWTJhZ1FFZzVtc3Z2YkxhVFhWZC00Yw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTRCLVFKT2NKaDBMREhlSWpfaVZmdVBNbS1oWENTSEltb0UwWTk0VDVIWHd3Y2szOVZTNk53ZnFHZmFSRnFjSGFhMzRZbHBvcHdDVmpuNVd5Yml6VFZRYmRZTjZlcUVMS2d0dTliVUVlMV9famZYUVk3R0VEdEtoNGNoN0pzMUxidFBpT1lBdUpPT1ZMMnY1U0xJN081YXNhYjRIeXlFTVo3ajlZeGhybW56ZlNMNjVmX3fSAb8BQVVfeXFMTU5VT3FkMWZlUjg1REhXc2xYLUg1WlpqRG1iazdja19fWC1fTko0amQ5THY3S09Wc3c1dXE5OVhlZFRGWnBhcFhxQy1MZTdCenN2QlV6Z0p4Um5UNVMzYkFBYks0MWVVS2JPYlRDajlWbkJ4S1k5SWg1MGx0MWtOcU1tQzMyT0ktcVdJVng2WnRPdzlnLWxGOWtyallfc0RqRGd0TDVqNGwwR1kyYWdRRWc1bXN2dmJMYVRYVmQtNGM?oc=5",
             "published": "2026-06-25T12:16:00+00:00",
             "snippet": "Iran's IRGC has stated that Israel must withdraw entirely from Lebanon. This demand comes amid ongoing tensions and military presence in the region."
           }
@@ -362,6 +362,12 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "الدفاع الجوي الروسي يسقط 23 طائرة مسيرة كانت متجهة نحو موسكو",
+            "url": "https://www.almanar.com.lb/article/977872/",
+            "published": "2026-06-26T01:58:06+00:00",
+            "snippet": "أعلن عمدة العاصمة الروسية سيرغي سوبيانين، اليوم الجمعة، أن أنظمة الدفاع الجوي أسقطت 23 طائرة مسيرة كانت متجهة نحو موسكو. وقال سوبيانين عبر منصة “ماكس”: “أسقطت أنظمة الدفاع الجوي الروسية 10 طائرات مسيرة كانت متجهة نحو موسكو."
+          },
+          {
             "title": "وزارة الصحة الفنزويلية: ارتفاع عدد القتلى جراء الزلزال الذي ضرب البلاد إلى 235",
             "url": "https://www.almanar.com.lb/article/977862/",
             "published": "2026-06-26T01:29:55+00:00",
@@ -384,12 +390,6 @@
             "url": "https://www.almanar.com.lb/article/977832/",
             "published": "2026-06-26T01:13:29+00:00",
             "snippet": ""
-          },
-          {
-            "title": "في توقيت حساس.. بيونغ يانغ تختبر منظومة صواريخ متطورة وأنظار الزعيم تراقب",
-            "url": "https://www.almanar.com.lb/article/977817/",
-            "published": "2026-06-26T00:58:51+00:00",
-            "snippet": "أشرف الزعيم الكوري الشمالي كيم جونغ أون، يوم الخميس، على سلسلة من التجارب العسكرية الحيوية لأنظمة مدفعية وصواريخ حديثة."
           }
         ],
         "error": null
@@ -487,6 +487,12 @@
             "snippet": "Hattan Al-Saif and Malik Basahel are set to headline the return of PFL Mena to Riyadh. This event marks a significant moment for mixed martial arts in the region."
           },
           {
+            "title": "Russia's expulsion of Romanian general consul \"predictable\", foreign ministry says",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM1ZDdWRIZGtjVmg3VUE4NG1MY1lCN2Y5ZW9NZkJabzE5dDBJU0VoZmlNdVBnSEdTb2NCckd5elA4VkdTbTFrNUJXOVNKNTd0U0R3?oc=5",
+            "published": "2026-06-25T14:57:52+00:00",
+            "snippet": "Russia's expulsion of Romanian general consul \"predictable\", foreign ministry says Arab News"
+          },
+          {
             "title": "Assad’s ‘barrel bomb Mufti’ stands trial in Syria over war crimes",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tUkJSRVFVS2syTVpnc01UWk9wclVPdDZJUXZId21TaGpoMDgxcUNuVUtCZHhacGpkSzBkM182TlR6Z2ZIdEZLRExJVllsdFJWZWVZ?oc=5",
             "published": "2026-06-25T14:45:06+00:00",
@@ -503,12 +509,6 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcDhOQVRNQk9MMnlRcl9RcnJab28yR0N6UXVzTnRiR2ZxdnJsS3NBTEd6MDRDQTNWTWo2WnpBSnR0TXBrbXpobzJ4cHMtVVFjeVdZ?oc=5",
             "published": "2026-06-25T12:52:56+00:00",
             "snippet": "Two people were killed in an Israeli drone strike on a vehicle in southern Lebanon, according to sources. The incident underscores the ongoing tensions in the region."
-          },
-          {
-            "title": "KSrelief signs agreement to boost medical infrastructure in Sudan",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNEYwS3R5WklEX0d3ZTA5M3dfX2ZaOTF5NlRGaW51bjhxV1FfRXJKa0huMC13d1FOMDF5TjFvX25jV3dVM1FvZmhqdnFTMFJCZlVV?oc=5",
-            "published": "2026-06-25T12:35:57+00:00",
-            "snippet": "KSrelief has signed an agreement to bolster medical infrastructure in Sudan. This initiative aims to improve healthcare services in the country."
           }
         ],
         "error": null
@@ -598,6 +598,12 @@
         "url": "https://www.gulf-times.com",
         "headlines": [
           {
+            "title": "'95% of CMU-Q grads stay behind to build Qatar's knowledge economy'",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUtxSjNGaTVLcjRLbktaeUpxaHVlNk00c3NUR1A0Wnh6WUlpYTljRmFmOWFVYzRQTHNERjRBYy1ydHJsa2lacHJwaHJGVV9XSmlIQWJGLTFhbzVwdmd5WWhlTURzWnd5Wk5PUU1WTGVwWnFfNDFfRmxnVEtOVnpxNjF3Y0k1UVFyejRJSUU0U1liemk5TzRBUnF2RXdOX2RtNWpNdklRMjNzVVEyZlpkV9IBtgFBVV95cUxQclJBOEpUM3Q5UWgxYzZpMWVXRHNwckN6TVdXLUxDTTIxZWRhRURNNUt0MXZRLVlmY05LY3pfSmRWX29TamVla3hCMXBMX0VmT1owc2h6c1VkdkZ3VmZ0TUt4UEU1bGlMUkJYZ2ZzNzV4LVYtVHd2UkUxN256emNfQVZMTVNocUJSUWxtc1I4NjYxZnJaQjFNdjNJZjhuZHNpb0pobHRhNnJKSU5NWk5wVmlZYTFQZw?oc=5",
+            "published": "2026-06-25T21:00:00+00:00",
+            "snippet": "'95% of CMU-Q grads stay behind to build Qatar's knowledge economy' | Gulf Times Gulf Times"
+          },
+          {
             "title": "Qatar takes part in 56th OAS General Assembly",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmp2dUpTU2M1aHVuaVpRTkEtSGVVenBQR1hNdm44VHlmdkRtam94RjJjTmZIU0ZQY3N1bF9RQ254VHF5YnV3Mng1VVFoQ1pOT1ptSEhTM0ZoanlqaWZZYTVDYm0wNzBQUDFpMFJZemVaWmhpdGxFSzhndHpZZlJhM3pYVGIzS0kyTDA1elFqRDFEUU81bDJENtIBngFBVV95cUxOaXF3QWVKNUx1NElZYXk4RFZrQzYtNnhQa3dITl82TW1ncy15WG8tTmNVUnhOOGlmaWd2OC1EVWctT2VYY2xfNWxmd2tlVDhwZlA2NmlXUTRncHVjbnQzTE5yU3pSYkh6amg0ajdLLU1aTzI4eVFjd3gwQTRDcVRyY0xfcHRjZ2NyWlVPQ1BxU3ZDa09JeFpmSUxRUXZvUQ?oc=5",
             "published": "2026-06-25T21:00:00+00:00",
@@ -620,12 +626,6 @@
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdTNjcDlnd0VYR000Qy1Md2NteXRlb0VsekMzLUd6bFEtS2RMOTZNMXlRelVYbnhLaTBaZHlSckZZWS04S3JrdFFqdjNLcDA5UEREWl9sWk5nam5ZVkhnRjhYNm1vbHhIZHBjWWs3cVdIOHpaandqWWRfRWYxeVZ6akFmMENGQ0JTeDJGdlQ4UEU1QzBmbmxnWFk3SktMS2txc2pKRDk0TDJfMVhxOGJGWDMwdkhDd2NBdkZkTVF5MHlBcFZBRm9SWGh6VTdZMXF4VHZF0gHYAUFVX3lxTE9ZV0JmemhjTzgtc2t3Y3UzSzQ4YThJUFJhUmlLNWlxUDZBeWtDV1NDa205ZC16RVdTNEJOM3RLdFk3NTJhMTZ0VUo3OEt2Y2JkdjNDZzliNmdwQTZHaXNMVjhTallQN0FtYlVlNzFZQ2FRN3ZfSkVodWFjcGpXLVN4SS1wWEE2ZWpNeFZWakctRk5KMUgyWU9QNHlfLVJoTTBKVjRDeEpSdzRpTkpGd0QxWm9SdV9UWjFqNUJ5ZVRMMm9USkRFbEtPY0xWcno4aml5bTBtQjlwMQ?oc=5",
             "published": "2026-06-25T11:40:00+00:00",
             "snippet": "MOCI, QFIU sign mechanism to strengthen electronic reporting of suspicious transactions | Gulf Times Gulf Times"
-          },
-          {
-            "title": "Prime Minister and Minister of Foreign Affairs participates in GCC-US joint ministerial meeting",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX0xJQ2tweGJCc1pVZTRVbVItTHFFcUU4OTNWQlhSb1dKaUNWanhObDlyVUZxdkRTTUdtU3h0RjVlZkhVNXNRdUMxY3h4b1hmcVRwbzdwLUY3NUVNUzdJNDBYSGZSMWc3NXZYSk04SEpYV3pyb3BFQzZqaWtkVUJvNmlOeWlvRUU0anJwMFU0RExwOE5iNWozdjNGV2FBQkZLX2tKY3dhRWdmN2tKUnpGSGw2RHhaVVJuZDE2MVBremxrTFlvS2JkTjZnaTNla1pPbHpJTlJzckRmYmPSAeABQVVfeXFMTjVBNUJoSl83a2pNcGZucnoxMENLTE5CY0FmOWdNUUdLV3ZrVFhTQUw3YWN4RnlnaUp1Rko3SWdUREw3cG0zMlhxei0yeDR2WTdncUdqdTktcUtFSG1kU29PN05YbHp1bHVzakZKclZXY2VQYnBWdmNDeHZHZmg5Mi1icmVYVlBaMVppRGNqbUtMa2hoZk9INzdvTUxPWkpqSHBZSzJ2bFIzSDVyZjNIWWZjNDAyYS1lem5hbm9fbmdWTDZtYkZNX3RmY0pHclNjTVlzVGV2ODVzNjhOM0RKenI?oc=5",
-            "published": "2026-06-25T11:17:00+00:00",
-            "snippet": "Prime Minister and Minister of Foreign Affairs participates in GCC-US joint ministerial meeting | Gulf Times Gulf Times"
           }
         ],
         "error": null
@@ -636,6 +636,12 @@
         "lang": "en",
         "url": "https://timesofoman.com",
         "headlines": [
+          {
+            "title": "US pursuing measured approach on Anthropic AI models, in talks with India: Jacob Helberg",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkd5VjBFWDNGR1lKeXp0Q3ZFVFNrYlZzbTFyUWpBSFZmWlU0ekcyOWhnemNpSG5GQ3VSS3lYR3F5eXVVRUdaNW9hczNVTndsOHJqQ3ZKYkdxTFRaUzNKYnBaRmhNWERuZ0ZGa2Z6Yld0bEpuSjVRMjFuTHpEWExINGNSSVZCUXdnaDBWQzk2NVpMNFFoRjRJekdiRHlVdW9Gb3hsTnNaT1JnNHhMQkRBdXctcF9pQ1dMZFlzSkxBaWJPXzg?oc=5",
+            "published": "2026-06-26T02:14:00+00:00",
+            "snippet": "US pursuing measured approach on Anthropic AI models, in talks with India: Jacob Helberg Times of Oman"
+          },
           {
             "title": "Foreign Minister holds phone call with Iranian counterpart",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa21KNEpXcXpkM2RPRzZQQk5yVS16RGRqRHBVNlc5TFJjLVM5UHloZDV1dzc2STl5SVBVQ1lQRGxUdm85bVc3TS1telN0RWhZbGpodFpWNzRfZEhHSjhITEwwRmJrVkpTOFlOV295Zk54WmFQNmhUNGVhQ2JrXzhYdV9HdjVKQmMtMDVhMkt0Ri0tSGZTZm9vaDI0RUtodw?oc=5",
@@ -659,12 +665,6 @@
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmcyV3BlSWhQVHgxNy1mZ1M1TEFLTzNZd0hqNGRJMDNkR2p2UWVteVdVcGVPdnRKc0VHeXJrTzI4Y0FURDZ2VzU2MzJ5T3pHZ0tqcnlNRW02THBQaE9fREpReG9IdDhILWx4OW1qczJDbEppTGkyZHloektsU2xPMlo1enFfdFdVbDJRYk1zRVc4VVFRb21XYk5lRnZ6ZmNHS0tRdndzOXg?oc=5",
             "published": "2026-06-25T12:28:00+00:00",
             "snippet": "Oman supports diplomatic progress between the US and Iran to ensure regional peace. This stance indicates Oman's commitment to de-escalation and stability."
-          },
-          {
-            "title": "At least 164 dead, 971 injured as quakes rock Venezuela",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDYwa3pteS1OQ1dhRFpTc1lhSERqV2Q4eExLN0VLQ0hMRWRDM204dVpkLWpTb1lVcFF2NWtWMVowU2Juc2RjcDNRWHRCejJYNW5vUTltREdqaWg2LXFRVVBRYXM2YzdWUGhrOTBkY0gzZDdhdFJzUG92WmdSQ0pIVTVRZDdMYUI5NndzY0c0eVRJQ2xsS2laeA?oc=5",
-            "published": "2026-06-25T11:35:00+00:00",
-            "snippet": "At least 164 people died and 971 were injured as earthquakes struck Venezuela. Rescue operations are ongoing to find survivors."
           }
         ],
         "error": null
@@ -717,6 +717,12 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
+            "title": "Rare works by Israeli artists Rubin, Gutman head to auction valued at $300,000",
+            "url": "https://www.timesofisrael.com/rare-works-by-israeli-artists-rubin-gutman-head-to-auction-valued-at-300000/",
+            "published": "2026-06-26T01:53:28+00:00",
+            "snippet": "Tiroche auction house aims high, with sale of long-awaited museum-grade pieces from private collections overseas returning home to a surprisingly bullish local market The post Rare works by Israeli artists Rubin, Gutman head to auction valued at $300,000 appeared first on The Times of Israel ."
+          },
+          {
             "title": "FM to propose cabinet resolution to officially recognize Ottoman genocide of Armenians",
             "url": "https://www.timesofisrael.com/fm-to-propose-cabinet-resolution-to-officially-recognize-ottoman-genocide-of-armenians/",
             "published": "2026-06-26T01:13:51+00:00",
@@ -739,12 +745,6 @@
             "url": "https://www.timesofisrael.com/idf-chief-says-military-needs-every-male-and-female-combat-soldier/",
             "published": "2026-06-25T21:56:41+00:00",
             "snippet": "The IDF chief stated the military requires 'every male and female combat soldier.' During a military ceremony, Netanyahu emphasized troops would remain in southern Lebanon 'for as long as necessary.'"
-          },
-          {
-            "title": "Teenage boy shot dead, second injured, in Jaffa shooting",
-            "url": "https://www.timesofisrael.com/teenage-boy-shot-dead-second-injured-in-jaffa-shooting/",
-            "published": "2026-06-25T20:43:37+00:00",
-            "snippet": "A teenage boy was fatally shot, and a second individual injured, in Jaffa. Media identified the victim as 17-year-old Imad Jabari, with a Tel Aviv deputy mayor blaming government policy."
           }
         ],
         "error": null
