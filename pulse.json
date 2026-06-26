@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T15:59:33.949450+00:00",
+  "updated": "2026-06-26T16:28:35.515281+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 23,
+      "count": 24,
       "headlines": [
         {
           "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
@@ -22,12 +22,6 @@
           "title": "US considering moving Gulf bases damaged by Iran to Israel",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-considering-moving-gulf-bases-damaged-iran-israel",
           "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel expands Lebanon occupation as Hormuz tensions continue",
-          "url": "https://www.newarab.com/news/israel-expands-lebanon-occupation-hormuz-tensions-continue",
-          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -67,6 +61,12 @@
           "region": "Gulf"
         },
         {
+          "title": "Pakistan could save up to $340 million on oil imports if Iran sanctions lifted — report",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MUS1HMk9qdDdXNjd1YlkxbXAwbEJ0ckRaSmRsSkE5SVdheW9EUnhubURRZWFTMENWTDNkUG1tUXdfUUxDRWswSE41bjdSR25xTVFj?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
           "title": "Iran 'responsible' for attack on ship in Gulf of Oman: US officials",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjNqMmY4VXBCbFhpQmZwSFZRV1E5Y25CQlJ0Njh3MlRWZ3dCdTNIZW5PR3ZiLUY4b29oY1d3cXVsVmtaTWdJcVZSMFRqMXY1Wks3MEVrbmNnSjJDaW0zY3BpNFRlR2pvV1NPdEpiV2RncUNjekNMMDAzcDhUTEdHbFRlRWx5MXdGWUJ1ZlpGN040amU2b3FnU0VMMjZLLVkyLXlhMDVMNVJBTXRY?oc=5",
           "source": "Gulf News",
@@ -89,6 +89,12 @@
           "url": "https://www.jpost.com/opinion/article-900490",
           "source": "Jerusalem Post",
           "region": "Israel"
+        },
+        {
+          "title": "Iran, Romania FMs review mutual ties, regional developments",
+          "url": "https://en.irna.ir/news/86193347/Iran-Romania-FMs-review-mutual-ties-regional-developments",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
           "title": "Crew of tanker illegally seized by US released to Iran consulate in Karachi",
@@ -115,12 +121,6 @@
           "region": "Iran"
         },
         {
-          "title": "Iran, Uzbekistan FMs discuss bilateral ties, regional issues",
-          "url": "https://en.irna.ir/news/86193205/Iran-Uzbekistan-FMs-discuss-bilateral-ties-regional-issues",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
           "title": "Safe pass guarantee in Hormuz Strait with Iran's coordination",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWtGWUlNb2hVWTRPSVNaMG9kSkR1R1hvM25Cb1FjWmhSOG9HQ2xwaG9zS1VoS1NDZnB1d09YbkJQYk1UQkpfa3hnMlJBYVFONmZFU0NsZXVacWQ0MXZwQkthU1JVWEx4ZEZKRXU4dlVxSlRWLUtMZm14T1RZcmpQUTk0dm9aNEJfaG1nbFFxTi1lX1dXTXhiWmUxUU9UQQ?oc=5",
           "source": "Mehr News",
@@ -129,8 +129,128 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
+      "term": "Israeli",
+      "count": 10,
+      "headlines": [
+        {
+          "title": "Israeli army says it killed seven Hezbollah operatives in south Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUdIBzgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Houthis threaten Israel over plans to build base in Somaliland",
+          "url": "https://www.newarab.com/news/houthis-threaten-israel-over-plans-build-base-somaliland",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel drops evacuation leaflets over south Lebanon",
+          "url": "https://www.newarab.com/news/israel-drops-evacuation-leaflets-over-south-lebanon",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "«سلطة الوصاية» تكرر جريمة نيسان وتعلن الاستسلام: تأبيد الاحتلال الإسرائيلي حتى نزع السلاح في كل لبنان - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6NnM0TUlDdWZEb0ZVM0xKSF9iR2xfQ0gtNy1adDVlcnBMamVKTkdnUXdTVEJZZU92OGRCdm5sclF4eng4Rm12bU5oZkJISXk3NlYtNjBPZjNrVEZTWEJoY2VISDZlanlJRUE?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli strike kills three civilians, injures others in central Strip - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YLWNNLWl2QnVrVFczWU1JMl9sNng0U0MtMGlKX2ZtNVJLRENGWnZoSmYzeFVPQnJQUUJEMGZvdlZDd2ZPazQ0eC1sVWtSa2VzMjIyV09XQQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Palestinian prisoner institutions: Thousands of detainees subjected daily to torture and inhumane treatment in Israeli prisons - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6Q0dWN2xSaE94Q2tBRDZGcmhjdHg5dW5LdmY1VThXQUdPTlpJNVNkOXNfQ190QWNSNDdCX1A1QmlhanR6NUh4QnFPcE13VEc5Nk9sSGJVNA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "مقر خاتم الأنبياء للدفاع الجوي: تحركات الطيران الإسرائيلي في أجواء دول الجوار تهديد لإيران",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNE1PNGpwY1NOYjM4OHJKNTI4RHFSTHhINGUycElMUmxtNEpVYkJkbUVIVzFTRWNTVmR1ZW1OSjVTcF8zbGtaV2pTZ1hDcFNRemxIQmY2dUhWT0pfVk9lQTBIS1JkdUI1WXpPeGRaX0xrbC1nOEJ0TjUxV3ZxVjV4c0ZZc3lTS3c1SElySUlNUlUwWXFrLXhCVTVZZG5iVDVWUU5kVmtRTTMtb2NHdm5VMEcwZHU1c25DWUlyanlLTkhwdGJMWkE4OFpzbDY4cE1QNklJaGZ3UTFUUVRVQlY3cWl2YndFdzNUWEtuemp4dkRfal9wWFlodTlqSC0xcDktWlpuVDNNLTZGRjhNQWtzVUdveWRaNGJ3ZmF4MUdwSmI?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Lebanon",
       "count": 8,
+      "headlines": [
+        {
+          "title": "Israeli army says it killed seven Hezbollah operatives in south Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUdIBzgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel drops leaflets over south Lebanon town ordering residents to leave",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOW5oRDhySVBXWmlkVEE3bzVXdG1XY2U5NW1oclJkRE9wRV80THB4aHlmTVdSSGpUZHRCUW8xUkNhQVJxanRoNGRraTBjb3YyRzVaYVQ2a1gxdEF2Wnp4UnNTNFYyMl82eHNpeXo0SUxXSTJHbHZvdGwzTVFrNDE4ZEZYSEJnMG1OTHctNGczbEFxRV9YclRsbkJDOVNYX1Z4VFNaRnhmZ3lfRFBEd0NkWDZMWFloVG1zejQ5clNwZjJEeFR2N3JnZjZQSVdwS1BI0gHQAUFVX3lxTE05bmhEOHJJUFdaaWRUQTdvNVd0bVdjZTk1bWhyUmRET3BFXzRMcHhoeWZNV1JIalRkdEJRbzFSQ2FBUnFqdGg0ZGtpMGNvdjJHNVphVDZrWDF0QXZaenhSc1M0VjIyXzZ4c2l5ejRJTFdJMkdsdm90bDNNUWs0MThkRlhIQmcwbU5Mdy00ZzNsQXFFX1hyVGxuQkM5U1hfVnhUU1pGeGZneV9EUER3Q2RYNkxYWWhUbXN6NDlyU3BmMkR4VHY3cmdmNlBJV3BLUEg?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel drops evacuation leaflets over south Lebanon",
+          "url": "https://www.newarab.com/news/israel-drops-evacuation-leaflets-over-south-lebanon",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQktxYVJzVTJHLU9ZaU9GQ2RLUXpUMVRHRk9QZ3VMV0ZjRXh5UWU2QkpjaklLdWtHWjVRZ2JmazZnVkZzdEk3Si1NMUpZakRIV25nRWlJRWtFSy02enV0MHFXZDkyM0FvSGJkRVlEUllZbmx0alFKXzdXQlBpUGN5aVZUX20xSVlPZnpoYm54ZTQyOUVyVjk5YjMwdkRWaTZvak03VDU5ekZySkFlVlkyZkJhMi1PV1I4d0J4TTV3?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "«سلطة الوصاية» تكرر جريمة نيسان وتعلن الاستسلام: تأبيد الاحتلال الإسرائيلي حتى نزع السلاح في كل لبنان - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6NnM0TUlDdWZEb0ZVM0xKSF9iR2xfQ0gtNy1adDVlcnBMamVKTkdnUXdTVEJZZU92OGRCdm5sclF4eng4Rm12bU5oZkJISXk3NlYtNjBPZjNrVEZTWEJoY2VISDZlanlJRUE?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Analysis • Netanyahu's claims of free rein in Lebanon crumble under Trump's pressure",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOX0RpenFWWkRBY1ZOWndsYmxuZ1RZRkJETS1QblFiTW83d2FmQmlTR3lyY1Z2VmpXb29HVUNXT0JPcFAzN1J4RXBJc3IzMnRnVXN1RUJCanAtTWtqd1pnSWNDemNLY3ptU2VtSVA4akZNcF9lLTZvSUtuVTd4ZHlCN2V3NEFOMXJaT2tVbE50WmpCYnBLaEFRSEh0b3czRkhxZktyb1Vmc3JfbUxzS0oydXBaZFRhWDBQUUFVbHJMeC1ZaWJoa1F4MGYtN2lnZmhsQlVHNktma1ZsZ2w3N1B2NWswZ1JLbm1KSllsWV84bWFwNjREdVZXRUN2R0IxNzktSnFYeS1mMmZ0OVJvc3h4T2hrMUpFaGJNajZTcA?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Strait of Hormuz",
+      "count": 7,
       "headlines": [
         {
           "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
@@ -148,12 +268,6 @@
           "title": "UN says 115 vessels, 2,500 seafarers evacuated from Strait of Hormuz since Tuesday",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-115-vessels-2500-seafarers-evacuated-strait-hormuz-tuesday",
           "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel expands Lebanon occupation as Hormuz tensions continue",
-          "url": "https://www.newarab.com/news/israel-expands-lebanon-occupation-hormuz-tensions-continue",
-          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -179,102 +293,6 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWtGWUlNb2hVWTRPSVNaMG9kSkR1R1hvM25Cb1FjWmhSOG9HQ2xwaG9zS1VoS1NDZnB1d09YbkJQYk1UQkpfa3hnMlJBYVFONmZFU0NsZXVacWQ0MXZwQkthU1JVWEx4ZEZKRXU4dlVxSlRWLUtMZm14T1RZcmpQUTk0dm9aNEJfaG1nbFFxTi1lX1dXTXhiWmUxUU9UQQ?oc=5",
           "source": "Mehr News",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Lebanon",
-      "count": 8,
-      "headlines": [
-        {
-          "title": "Israel drops leaflets over south Lebanon town ordering residents to leave",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOW5oRDhySVBXWmlkVEE3bzVXdG1XY2U5NW1oclJkRE9wRV80THB4aHlmTVdSSGpUZHRCUW8xUkNhQVJxanRoNGRraTBjb3YyRzVaYVQ2a1gxdEF2Wnp4UnNTNFYyMl82eHNpeXo0SUxXSTJHbHZvdGwzTVFrNDE4ZEZYSEJnMG1OTHctNGczbEFxRV9YclRsbkJDOVNYX1Z4VFNaRnhmZ3lfRFBEd0NkWDZMWFloVG1zejQ5clNwZjJEeFR2N3JnZjZQSVdwS1BI0gHQAUFVX3lxTE05bmhEOHJJUFdaaWRUQTdvNVd0bVdjZTk1bWhyUmRET3BFXzRMcHhoeWZNV1JIalRkdEJRbzFSQ2FBUnFqdGg0ZGtpMGNvdjJHNVphVDZrWDF0QXZaenhSc1M0VjIyXzZ4c2l5ejRJTFdJMkdsdm90bDNNUWs0MThkRlhIQmcwbU5Mdy00ZzNsQXFFX1hyVGxuQkM5U1hfVnhUU1pGeGZneV9EUER3Q2RYNkxYWWhUbXN6NDlyU3BmMkR4VHY3cmdmNlBJV3BLUEg?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Will Israel ever leave Lebanon, and is Netanyahu heading for an election defeat?",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHBGMGJPYnpVOENnVTduT0xVV3F6TWFDaENDbXNPOV82QUdyRVhweEVNYTkxQ2FLd1NKdGU4RTBNdFFZVUtTU2NNa05Nd3NLR19yUXhmNHctMHZ1WmZsa2tDQzRUc0hySURGSUk3TGJrbF94QzM2MXVXdHNQX3EzbkRPeVJYc2FWckVHa0dfRzNjVmU1cnMxMkw1RjJTRksxUGxhbTdlSGRXR0hyVWFRMi0xLU0xSllLU3E5b0VYUlBjM1BtbS1YTUtoU3JuMTktYURHVms0TExvQdIB2gFBVV95cUxNMHBGMGJPYnpVOENnVTduT0xVV3F6TWFDaENDbXNPOV82QUdyRVhweEVNYTkxQ2FLd1NKdGU4RTBNdFFZVUtTU2NNa05Nd3NLR19yUXhmNHctMHZ1WmZsa2tDQzRUc0hySURGSUk3TGJrbF94QzM2MXVXdHNQX3EzbkRPeVJYc2FWckVHa0dfRzNjVmU1cnMxMkw1RjJTRksxUGxhbTdlSGRXR0hyVWFRMi0xLU0xSllLU3E5b0VYUlBjM1BtbS1YTUtoU3JuMTktYURHVms0TExvQQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel expands Lebanon occupation as Hormuz tensions continue",
-          "url": "https://www.newarab.com/news/israel-expands-lebanon-occupation-hormuz-tensions-continue",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQktxYVJzVTJHLU9ZaU9GQ2RLUXpUMVRHRk9QZ3VMV0ZjRXh5UWU2QkpjaklLdWtHWjVRZ2JmazZnVkZzdEk3Si1NMUpZakRIV25nRWlJRWtFSy02enV0MHFXZDkyM0FvSGJkRVlEUllZbmx0alFKXzdXQlBpUGN5aVZUX20xSVlPZnpoYm54ZTQyOUVyVjk5YjMwdkRWaTZvak03VDU5ekZySkFlVlkyZkJhMi1PV1I4d0J4TTV3?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "«سلطة الوصاية» تكرر جريمة نيسان وتعلن الاستسلام: تأبيد الاحتلال الإسرائيلي حتى نزع السلاح في كل لبنان - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNb3ZkQjAxYmkzbjRmdWVhVzVZNkZXZEJCd2g0Z1BQbFJyT1BOcW1MNzNSaEVSeFdrN015T2dkVVlmRS1TQlJ2LThGWnRlN2FiWWZHUy1NSDd1Q2xaR1Y4cmtUWkJlTW5LUjJ5dlBwRnNVaGpUN0gyYlBUWnBPUG50UEZxbjlsMHpBalQ4Yk1XYWRuOWNIZXBzUzlSZTFmbFFFNzVfVU5GUVZkb1FQTXhDZUZkbXgyOUdaSW8tUlBTX1FyUkI3YkNydXM5ay1DWUVHTWVPTWd2MFNvVlJUMHk2NFRodW9CaXEzTnNFTndmVmppQkh2LTBVQ2FGZTktbklVUlpic25hb2ZmeThuWGRwUXVpMzd2emplUGdCWnVyajBCLTlGaGpBWGdxRDRrU2sxMlBNck5CQWp0RThhU25UYjg5bnMtZDlKcXN1MEZtVVowSno1TzV5Y2lFVjhqVVJYWGU1eDY3U3daQXpqQ2NVYS1nbmt4eWxEVnVLeHphcXV2SnlYcHBINlQzN2w0UXhRbkdvR3Q1NlprUV9IdUpVY3BVUnNjTkZfcHJDZnl3dEpGRU02Sk40T3M0cVJwcFZhUlVValRWd0VGUzZsaXpadDNNQ2NNOFJCTVFFU0hRWTdGODQyREYzUjZQdl9LbS0xYmg1ZjJtb24wNXY1VUJsMXRn?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Analysis • Netanyahu's claims of free rein in Lebanon crumble under Trump's pressure",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOX0RpenFWWkRBY1ZOWndsYmxuZ1RZRkJETS1QblFiTW83d2FmQmlTR3lyY1Z2VmpXb29HVUNXT0JPcFAzN1J4RXBJc3IzMnRnVXN1RUJCanAtTWtqd1pnSWNDemNLY3ptU2VtSVA4akZNcF9lLTZvSUtuVTd4ZHlCN2V3NEFOMXJaT2tVbE50WmpCYnBLaEFRSEh0b3czRkhxZktyb1Vmc3JfbUxzS0oydXBaZFRhWDBQUUFVbHJMeC1ZaWJoa1F4MGYtN2lnZmhsQlVHNktma1ZsZ2w3N1B2NWswZ1JLbm1KSllsWV84bWFwNjREdVZXRUN2R0IxNzktSnFYeS1mMmZ0OVJvc3h4T2hrMUpFaGJNajZTcA?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Israeli",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "«سلطة الوصاية» تكرر جريمة نيسان وتعلن الاستسلام: تأبيد الاحتلال الإسرائيلي حتى نزع السلاح في كل لبنان - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNb3ZkQjAxYmkzbjRmdWVhVzVZNkZXZEJCd2g0Z1BQbFJyT1BOcW1MNzNSaEVSeFdrN015T2dkVVlmRS1TQlJ2LThGWnRlN2FiWWZHUy1NSDd1Q2xaR1Y4cmtUWkJlTW5LUjJ5dlBwRnNVaGpUN0gyYlBUWnBPUG50UEZxbjlsMHpBalQ4Yk1XYWRuOWNIZXBzUzlSZTFmbFFFNzVfVU5GUVZkb1FQTXhDZUZkbXgyOUdaSW8tUlBTX1FyUkI3YkNydXM5ay1DWUVHTWVPTWd2MFNvVlJUMHk2NFRodW9CaXEzTnNFTndmVmppQkh2LTBVQ2FGZTktbklVUlpic25hb2ZmeThuWGRwUXVpMzd2emplUGdCWnVyajBCLTlGaGpBWGdxRDRrU2sxMlBNck5CQWp0RThhU25UYjg5bnMtZDlKcXN1MEZtVVowSno1TzV5Y2lFVjhqVVJYWGU1eDY3U3daQXpqQ2NVYS1nbmt4eWxEVnVLeHphcXV2SnlYcHBINlQzN2w0UXhRbkdvR3Q1NlprUV9IdUpVY3BVUnNjTkZfcHJDZnl3dEpGRU02Sk40T3M0cVJwcFZhUlVValRWd0VGUzZsaXpadDNNQ2NNOFJCTVFFU0hRWTdGODQyREYzUjZQdl9LbS0xYmg1ZjJtb24wNXY1VUJsMXRn?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli strike kills three civilians, injures others in central Strip - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YLWNNLWl2QnVrVFczWU1JMl9sNng0U0MtMGlKX2ZtNVJLRENGWnZoSmYzeFVPQnJQUUJEMGZvdlZDd2ZPazQ0eC1sVWtSa2VzMjIyV09XQQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "مقر خاتم الأنبياء للدفاع الجوي: تحركات الطيران الإسرائيلي في أجواء دول الجوار تهديد لإيران",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNE1PNGpwY1NOYjM4OHJKNTI4RHFSTHhINGUycElMUmxtNEpVYkJkbUVIVzFTRWNTVmR1ZW1OSjVTcF8zbGtaV2pTZ1hDcFNRemxIQmY2dUhWT0pfVk9lQTBIS1JkdUI1WXpPeGRaX0xrbC1nOEJ0TjUxV3ZxVjV4c0ZZc3lTS3c1SElySUlNUlUwWXFrLXhCVTVZZG5iVDVWUU5kVmtRTTMtb2NHdm5VMEcwZHU1c25DWUlyanlLTkhwdGJMWkE4OFpzbDY4cE1QNklJaGZ3UTFUUVRVQlY3cWl2YndFdzNUWEtuemp4dkRfal9wWFlodTlqSC0xcDktWlpuVDNNLTZGRjhNQWtzVUdveWRaNGJ3ZmF4MUdwSmI?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
         }
       ]
     },
@@ -315,61 +333,61 @@
       ]
     },
     {
-      "term": "attack",
+      "term": "Gaza",
       "count": 4,
       "headlines": [
         {
-          "title": "Sanctioned ICC judges sue Trump in US over 'attack on judicial independence'",
-          "url": "https://www.middleeasteye.net/news/sanctioned-icc-judges-sue-trump-us-over-attack-judicial-independence",
+          "title": "Rights groups file complaint against Polish TNT producer over Gaza war crimes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-groups-file-complaint-against-polish-tnt-producer-over-gaza-war",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
+          "title": "Israel to recognise Armenian genocide amid Turkey tensions",
+          "url": "https://www.newarab.com/news/israel-recognise-armenian-genocide-amid-turkey-tensions",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Colonists attack Palestinian vehicles northwest of Ramallah - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zRGhsUGVuYjgxcVZvTHJFQ3hYRXNEWXlTN3dRaUJuT0MtYmIyQjEtczJPRWptYnlRa2cza0JPbVdPZk1KWDd4TE1TREs4aDRuWDN3dTBTZw?oc=5",
+          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
           "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "Iran 'responsible' for attack on ship in Gulf of Oman: US officials",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjNqMmY4VXBCbFhpQmZwSFZRV1E5Y25CQlJ0Njh3MlRWZ3dCdTNIZW5PR3ZiLUY4b29oY1d3cXVsVmtaTWdJcVZSMFRqMXY1Wks3MEVrbmNnSjJDaW0zY3BpNFRlR2pvV1NPdEpiV2RncUNjekNMMDAzcDhUTEdHbFRlRWx5MXdGWUJ1ZlpGN040amU2b3FnU0VMMjZLLVkyLXlhMDVMNVJBTXRY?oc=5",
+          "title": "GCC, US reaffirm alliance after Iran deal, back Syria and Gaza plan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXNhYmdYb3hpRU5SUU8wOHhJVWY1THVTcmUxZHVKSG1aczN5Q0h6cXFVMlZ1U3F6NTR3TTVVYlFFRHJNcDJPcXpCcFRmQTgzdUxnNTl1eUNhN2RzdENNS3dhUUM1WUZTeU1mTnZvUzZYaUlsTy02RGxfTTZocTQxS1pjU212YkVXd1ZMdXBLUnpXMG05OGVjaHdRUEkweV9sT1g4M0hVU2s3b3NXaGfSAcABQVVfeXFMTlRmOVpzU1BvSVpoTzFobHlWdVZsbDZNaHFoQzVrOXBqMWN5dEk5a2dBUlItd2tCMUR6Q2dLSGcweWFmTnFOTlVsYjFaNDdnRGtQbXU5RjFpMWsyNlZ4MWc1LWZpRERtNjRHcnlfbjhFck93ekt4LWRyc0dXOG9aQjBTRk10RWJ4Qi1QbFZRSXA0YTc3bmk1R3M0WnlPYU81ZTlySnI4UlBmVTJndWstZmRkSVRMVkM3RXZPNkF4bmR2?oc=5",
           "source": "Gulf News",
           "region": "Gulf"
         }
       ]
     },
     {
-      "term": "Hormuz",
+      "term": "Pakistan",
       "count": 4,
       "headlines": [
         {
-          "title": "Israel expands Lebanon occupation as Hormuz tensions continue",
-          "url": "https://www.newarab.com/news/israel-expands-lebanon-occupation-hormuz-tensions-continue",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran, US set up \"communication line\" to avert military incidents in Hormuz as per MoU",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzdSZktnV0NPYXdRTVFJWFZZbEx3dUFaVGxHSlVMQkxCOTNrdldxVm5vMEFucFR3S2RlaGtSVzlnNVg0VUI0VGN1OWJNMW55RVRFSWpfemh1SlBvZnR1b3F0eVp6SjdmUi1GRVVXVDJCYTJQSi0wdHpVN2hTQlRSTWZOWjRWZkdqN2Zkc3k5bUNybzZ0WEdYRU1SM2psblhaQkNWc0ZSN1oxX1Fydk85QXg1VE5DN21PYjNBZU9n?oc=5",
-          "source": "Times of Oman",
+          "title": "Pakistan could save up to $340 million on oil imports if Iran sanctions lifted — report",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MUS1HMk9qdDdXNjd1YlkxbXAwbEJ0ckRaSmRsSkE5SVdheW9EUnhubURRZWFTMENWTDNkUG1tUXdfUUxDRWswSE41bjdSR25xTVFj?oc=5",
+          "source": "Arab News",
           "region": "Gulf"
         },
         {
-          "title": "Safe pass guarantee in Hormuz Strait with Iran's coordination",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWtGWUlNb2hVWTRPSVNaMG9kSkR1R1hvM25Cb1FjWmhSOG9HQ2xwaG9zS1VoS1NDZnB1d09YbkJQYk1UQkpfa3hnMlJBYVFONmZFU0NsZXVacWQ0MXZwQkthU1JVWEx4ZEZKRXU4dlVxSlRWLUtMZm14T1RZcmpQUTk0dm9aNEJfaG1nbFFxTi1lX1dXTXhiWmUxUU9UQQ?oc=5",
-          "source": "Mehr News",
+          "title": "Pakistan busts human placenta smuggling ring, arrests Chinese nationals among five suspects",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TlB0NHNtM3YyMnJSM283VlhEU1A4Y2ZfU0dHMjV3bEk3bzlCODY3ejZIWkMtdFQxZlYwbEdSTHVRWEV0N2lHQ3JWMTdaRW5Vb0hN?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Pakistan deploys thousands of security personnel to guard Ashura processions",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sWE8wZXFWS0pKOTlTbTgyQ0poN3ZRTzdJOTdkMGJIay1INEFaakhUcmtpdTdNcGJjYmpNV1FRc2lmcnFXREdYRnIwQXBDamZVRXhN?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Crew of tanker illegally seized by US released to Iran consulate in Karachi",
+          "url": "https://en.irna.ir/news/86193302/Crew-of-tanker-illegally-seized-by-US-released-to-Iran-consulate",
+          "source": "IRNA",
           "region": "Iran"
         }
       ]
@@ -399,24 +417,48 @@
       ]
     },
     {
-      "term": "Gaza",
+      "term": "missile",
       "count": 3,
       "headlines": [
         {
-          "title": "Rights groups file complaint against Polish TNT producer over Gaza war crimes",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-groups-file-complaint-against-polish-tnt-producer-over-gaza-war",
+          "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
+          "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "UAE declares ‘potential missile alert,’ warning now lifted",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1hHX2hlT1lCbVhrQnFIaU1BVHBOZXZzMDZ6ajEwbU50QWtoZDVJQ2VHQjlyTGtEak4wTVFmbVJ5a3pTZ2xXVUNYazBGd2VjQVdSSmNGbVo3d1hscnkzd2Z3eWZNRjVTaHBSUmhqaXhtbWYzNW1XZzNQaG1fa19qTzgwc2FlTmN5ZUhITHVjWkZxZU5KWWpZcllFSkVsU3k3emxycWZJMGUzRm4xRWJN0gGvAUFVX3lxTE9jWEdfaGVPWUJtWGtCcUhpTUFUcE5ldnMwNnpqMTBtTnRBa2hkNUlDZUdCOXJMa0RqTjBNUWZtUnlrelNnbFdVQ1hrMEZ3ZWNBV1JKY0ZtWjd3WGxyeTN3Znd5Zk1GNVNocFJSaGppeG1tZjM1bVdnM1BobV9rX2pPODBzYWVOY3llSEhMdWNaRnFlTkpZallyWUVKRWxTeTd6bHJxZkkwZTNGbjFFYk0?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Authorities sound an incoming missile alert in Dubai",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0SVA1S0ZMRmVBM1lvN2ZQZFdUdVZkSWxVbFF0N2NlQnBoVFh1dHZ4UTVieDdUUUF1aXpZTkV1T0ZyRnVDLUtDM0lDMVloUjZyMjJR?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "attack",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Sanctioned ICC judges sue Trump in US over 'attack on judicial independence'",
+          "url": "https://www.middleeasteye.net/news/sanctioned-icc-judges-sue-trump-us-over-attack-judicial-independence",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
-          "source": "WAFA News",
+          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
+          "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "GCC, US reaffirm alliance after Iran deal, back Syria and Gaza plan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXNhYmdYb3hpRU5SUU8wOHhJVWY1THVTcmUxZHVKSG1aczN5Q0h6cXFVMlZ1U3F6NTR3TTVVYlFFRHJNcDJPcXpCcFRmQTgzdUxnNTl1eUNhN2RzdENNS3dhUUM1WUZTeU1mTnZvUzZYaUlsTy02RGxfTTZocTQxS1pjU212YkVXd1ZMdXBLUnpXMG05OGVjaHdRUEkweV9sT1g4M0hVU2s3b3NXaGfSAcABQVVfeXFMTlRmOVpzU1BvSVpoTzFobHlWdVZsbDZNaHFoQzVrOXBqMWN5dEk5a2dBUlItd2tCMUR6Q2dLSGcweWFmTnFOTlVsYjFaNDdnRGtQbXU5RjFpMWsyNlZ4MWc1LWZpRERtNjRHcnlfbjhFck93ekt4LWRyc0dXOG9aQjBTRk10RWJ4Qi1QbFZRSXA0YTc3bmk1R3M0WnlPYU81ZTlySnI4UlBmVTJndWstZmRkSVRMVkM3RXZPNkF4bmR2?oc=5",
+          "title": "Iran 'responsible' for attack on ship in Gulf of Oman: US officials",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjNqMmY4VXBCbFhpQmZwSFZRV1E5Y25CQlJ0Njh3MlRWZ3dCdTNIZW5PR3ZiLUY4b29oY1d3cXVsVmtaTWdJcVZSMFRqMXY1Wks3MEVrbmNnSjJDaW0zY3BpNFRlR2pvV1NPdEpiV2RncUNjekNMMDAzcDhUTEdHbFRlRWx5MXdGWUJ1ZlpGN040amU2b3FnU0VMMjZLLVkyLXlhMDVMNVJBTXRY?oc=5",
           "source": "Gulf News",
           "region": "Gulf"
         }
@@ -447,54 +489,6 @@
       ]
     },
     {
-      "term": "Netanyahu",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Will Israel ever leave Lebanon, and is Netanyahu heading for an election defeat?",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHBGMGJPYnpVOENnVTduT0xVV3F6TWFDaENDbXNPOV82QUdyRVhweEVNYTkxQ2FLd1NKdGU4RTBNdFFZVUtTU2NNa05Nd3NLR19yUXhmNHctMHZ1WmZsa2tDQzRUc0hySURGSUk3TGJrbF94QzM2MXVXdHNQX3EzbkRPeVJYc2FWckVHa0dfRzNjVmU1cnMxMkw1RjJTRksxUGxhbTdlSGRXR0hyVWFRMi0xLU0xSllLU3E5b0VYUlBjM1BtbS1YTUtoU3JuMTktYURHVms0TExvQdIB2gFBVV95cUxNMHBGMGJPYnpVOENnVTduT0xVV3F6TWFDaENDbXNPOV82QUdyRVhweEVNYTkxQ2FLd1NKdGU4RTBNdFFZVUtTU2NNa05Nd3NLR19yUXhmNHctMHZ1WmZsa2tDQzRUc0hySURGSUk3TGJrbF94QzM2MXVXdHNQX3EzbkRPeVJYc2FWckVHa0dfRzNjVmU1cnMxMkw1RjJTRksxUGxhbTdlSGRXR0hyVWFRMi0xLU0xSllLU3E5b0VYUlBjM1BtbS1YTUtoU3JuMTktYURHVms0TExvQQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Analysis • In Netanyahu's twisted political logic, only electoral deadlock is victory",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNS1VlVlhhT25LbFF2TXB5bUtyOWFoellGS3pqa21WN1RfcFcycVhzWHk4V0RKSWR5TGg5a0pjOXB3SDVTRDJib0RWYnFiODh4RFhkVUdrZ290WG9mdDVGMXZ4TjFGVFRtVmFHRVQwM1JGcHNxNXFMWWxoemtvLTE5T0RFeEhyTVNUUVhDVHVKTGhrY3B2OHlaTnBhSC1JdXhtbWdDeGwtWEpsWEJWeUNCSVA5TkVIUl9uNU5ubzk1OXdEYzdTbzVHS2U3TkEwZEd3cFJRRWZEVGE2Qzl2N0VuY3VsU2k5aWlGN011aXgtS3liUnN2QngxakxRTWZsQVBSUWM0SUNEb2pEMVpDY1pmSTJHS0dZYVBVVUdndU5WSFMxQQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Analysis • Netanyahu's claims of free rein in Lebanon crumble under Trump's pressure",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOX0RpenFWWkRBY1ZOWndsYmxuZ1RZRkJETS1QblFiTW83d2FmQmlTR3lyY1Z2VmpXb29HVUNXT0JPcFAzN1J4RXBJc3IzMnRnVXN1RUJCanAtTWtqd1pnSWNDemNLY3ptU2VtSVA4akZNcF9lLTZvSUtuVTd4ZHlCN2V3NEFOMXJaT2tVbE50WmpCYnBLaEFRSEh0b3czRkhxZktyb1Vmc3JfbUxzS0oydXBaZFRhWDBQUUFVbHJMeC1ZaWJoa1F4MGYtN2lnZmhsQlVHNktma1ZsZ2w3N1B2NWswZ1JLbm1KSllsWV84bWFwNjREdVZXRUN2R0IxNzktSnFYeS1mMmZ0OVJvc3h4T2hrMUpFaGJNajZTcA?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Damascus",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Sweden appoints ambassador to Syria ahead of embassy reopening",
-          "url": "https://www.newarab.com/news/sweden-appoints-ambassador-syria-ahead-embassy-reopening",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Work started to restore historic Jewish cemetery in Damascus, heritage group says",
-          "url": "https://www.timesofisrael.com/work-started-to-restore-historic-jewish-cemetery-in-damascus-heritage-group-says/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "Iranian",
       "count": 3,
       "headlines": [
@@ -514,6 +508,30 @@
           "title": "Crew of tanker illegally seized by US released to Iran consulate in Karachi",
           "url": "https://en.irna.ir/news/86193302/Crew-of-tanker-illegally-seized-by-US-released-to-Iran-consulate",
           "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Hormuz",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran, US set up \"communication line\" to avert military incidents in Hormuz as per MoU",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzdSZktnV0NPYXdRTVFJWFZZbEx3dUFaVGxHSlVMQkxCOTNrdldxVm5vMEFucFR3S2RlaGtSVzlnNVg0VUI0VGN1OWJNMW55RVRFSWpfemh1SlBvZnR1b3F0eVp6SjdmUi1GRVVXVDJCYTJQSi0wdHpVN2hTQlRSTWZOWjRWZkdqN2Zkc3k5bUNybzZ0WEdYRU1SM2psblhaQkNWc0ZSN1oxX1Fydk85QXg1VE5DN21PYjNBZU9n?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "Safe pass guarantee in Hormuz Strait with Iran's coordination",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWtGWUlNb2hVWTRPSVNaMG9kSkR1R1hvM25Cb1FjWmhSOG9HQ2xwaG9zS1VoS1NDZnB1d09YbkJQYk1UQkpfa3hnMlJBYVFONmZFU0NsZXVacWQ0MXZwQkthU1JVWEx4ZEZKRXU4dlVxSlRWLUtMZm14T1RZcmpQUTk0dm9aNEJfaG1nbFFxTi1lX1dXTXhiWmUxUU9UQQ?oc=5",
+          "source": "Mehr News",
           "region": "Iran"
         }
       ]
@@ -567,30 +585,6 @@
       ]
     },
     {
-      "term": "Pakistan",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Pakistan president gives assent to Finance Bill 2026-27",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nLUprQW9ubEJ0NnNFOG8xdkRPQ211NjNZZTZxcHFUR3d5QmpjZ1ZqekhmTnVYS1lySGtsZVB0RDNvV1ZvM19Vckl3UUx5N3E2M3Vn?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Kidnapped Airport Security Force officer found dead in Pakistan’s Balochistan",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UUTh3bi03NkhrVWI1aUloVDMyb3Rwbnk0d0NtVWZ1U3QtOWszWm11UHp3VTBIR1hWNDZuZUJiRGctOVp0aXM2NlVMaEkzTEl0SmxR?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Crew of tanker illegally seized by US released to Iran consulate in Karachi",
-          "url": "https://en.irna.ir/news/86193302/Crew-of-tanker-illegally-seized-by-US-released-to-Iran-consulate",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Qatar",
       "count": 3,
       "headlines": [
@@ -615,48 +609,6 @@
       ]
     },
     {
-      "term": "Jewish",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "US Jewish day school enrollment rising across denominations for 1st time, report shows",
-          "url": "https://www.timesofisrael.com/us-jewish-day-school-enrollment-rising-across-denominations-for-1st-time-report-shows/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Work started to restore historic Jewish cemetery in Damascus, heritage group says",
-          "url": "https://www.timesofisrael.com/work-started-to-restore-historic-jewish-cemetery-in-damascus-heritage-group-says/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Opinion • The burden of being Jewish in America's race war",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTU1VaGQzVDhwcWU4VjlzZE5qcWxWdTE4TG9zZ0g0cHJWYU5XNmZBUlJielhQcVVNY053OWo5bDFmbGl6QlR5VEt0eDVYMzJfN3lSb3IxbXBya0doY3ZWX0dFRUdnUTREbUJpOWU0Q25zbFBOZUZNQmVZRzlyZC1xdkNtT056UDlodklrTXNLX1JNSXNVNnFOaFlWM2s0MGYxbUlEU3laMzhCa2JVV0YtVjRBSmdxMVlaVWZleVpzSDFrOV80Vnk5clBuOUFEMXNpNV81WWJuSjlRdXVyMmpZUGs1UGllTDVpRXo2Vmd3?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "missile",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
-          "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "UAE declares ‘potential missile alert,’ warning now lifted",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1hHX2hlT1lCbVhrQnFIaU1BVHBOZXZzMDZ6ajEwbU50QWtoZDVJQ2VHQjlyTGtEak4wTVFmbVJ5a3pTZ2xXVUNYazBGd2VjQVdSSmNGbVo3d1hscnkzd2Z3eWZNRjVTaHBSUmhqaXhtbWYzNW1XZzNQaG1fa19qTzgwc2FlTmN5ZUhITHVjWkZxZU5KWWpZcllFSkVsU3k3emxycWZJMGUzRm4xRWJN0gGvAUFVX3lxTE9jWEdfaGVPWUJtWGtCcUhpTUFUcE5ldnMwNnpqMTBtTnRBa2hkNUlDZUdCOXJMa0RqTjBNUWZtUnlrelNnbFdVQ1hrMEZ3ZWNBV1JKY0ZtWjd3WGxyeTN3Znd5Zk1GNVNocFJSaGppeG1tZjM1bVdnM1BobV9rX2pPODBzYWVOY3llSEhMdWNaRnFlTkpZallyWUVKRWxTeTd6bHJxZkkwZTNGbjFFYk0?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
       "term": "Donald",
       "count": 2,
       "headlines": [
@@ -671,6 +623,24 @@
           "url": "https://www.egyptindependent.com/one-week-in-what-exactly-are-america-and-iran-getting-from-their-agreement/",
           "source": "Egypt Independent",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Hezbollah",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli army says it killed seven Hezbollah operatives in south Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUdIBzgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel-Lebanon Talks in Washington Extended to Fourth Day Amid Deadlock on Hezbollah Cease-fire, IDF Withdrawal",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQY0REb2dEeG0xR1lTTGZKTFdkSk5nNDVzVWtkcEgxZVB6UVZoMXhGWkFOSHhqbmx3SGtrVUkwRXJQbmx3blJ1WVREZlV2eVN5RjNHTnR4R0NGd2VMZXYxNVdIM3ZTUW5tMzFkeDJUcWx6c2s5azNhNDN4WmxqbHd1REdtN1UyRE5idWpEWHRoVXN1WmYtTXR5VWp6VThSeTV4Yk1ac0dfNkJxVUNmLXd6ajlSRkJHT3RMYnpmUVUtMkZMZEhZZGtGb2VRQXYtTUtILUdBOWZHWDdEcGF1QU1sejQxZHJ1Vy05TXhpdkY3SnNMcXJ4RkJ4YmtrRjN1a2I3X0x3MHRWN0xNT0pRWVM1YUd6NDk2bWpNMTZN?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
         }
       ]
     },
@@ -707,42 +677,6 @@
           "url": "https://en.irna.ir/news/86193264/Iran-mocks-US-style-solution-to-hunger-crisis",
           "source": "IRNA",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Syria",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Sweden appoints ambassador to Syria ahead of embassy reopening",
-          "url": "https://www.newarab.com/news/sweden-appoints-ambassador-syria-ahead-embassy-reopening",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "GCC, US reaffirm alliance after Iran deal, back Syria and Gaza plan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXNhYmdYb3hpRU5SUU8wOHhJVWY1THVTcmUxZHVKSG1aczN5Q0h6cXFVMlZ1U3F6NTR3TTVVYlFFRHJNcDJPcXpCcFRmQTgzdUxnNTl1eUNhN2RzdENNS3dhUUM1WUZTeU1mTnZvUzZYaUlsTy02RGxfTTZocTQxS1pjU212YkVXd1ZMdXBLUnpXMG05OGVjaHdRUEkweV9sT1g4M0hVU2s3b3NXaGfSAcABQVVfeXFMTlRmOVpzU1BvSVpoTzFobHlWdVZsbDZNaHFoQzVrOXBqMWN5dEk5a2dBUlItd2tCMUR6Q2dLSGcweWFmTnFOTlVsYjFaNDdnRGtQbXU5RjFpMWsyNlZ4MWc1LWZpRERtNjRHcnlfbjhFck93ekt4LWRyc0dXOG9aQjBTRk10RWJ4Qi1QbFZRSXA0YTc3bmk1R3M0WnlPYU81ZTlySnI4UlBmVTJndWstZmRkSVRMVkM3RXZPNkF4bmR2?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "occupation",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israel expands Lebanon occupation as Hormuz tensions continue",
-          "url": "https://www.newarab.com/news/israel-expands-lebanon-occupation-hormuz-tensions-continue",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "«سلطة الوصاية» تكرر جريمة نيسان وتعلن الاستسلام: تأبيد الاحتلال الإسرائيلي حتى نزع السلاح في كل لبنان - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNb3ZkQjAxYmkzbjRmdWVhVzVZNkZXZEJCd2g0Z1BQbFJyT1BOcW1MNzNSaEVSeFdrN015T2dkVVlmRS1TQlJ2LThGWnRlN2FiWWZHUy1NSDd1Q2xaR1Y4cmtUWkJlTW5LUjJ5dlBwRnNVaGpUN0gyYlBUWnBPUG50UEZxbjlsMHpBalQ4Yk1XYWRuOWNIZXBzUzlSZTFmbFFFNzVfVU5GUVZkb1FQTXhDZUZkbXgyOUdaSW8tUlBTX1FyUkI3YkNydXM5ay1DWUVHTWVPTWd2MFNvVlJUMHk2NFRodW9CaXEzTnNFTndmVmppQkh2LTBVQ2FGZTktbklVUlpic25hb2ZmeThuWGRwUXVpMzd2emplUGdCWnVyajBCLTlGaGpBWGdxRDRrU2sxMlBNck5CQWp0RThhU25UYjg5bnMtZDlKcXN1MEZtVVowSno1TzV5Y2lFVjhqVVJYWGU1eDY3U3daQXpqQ2NVYS1nbmt4eWxEVnVLeHphcXV2SnlYcHBINlQzN2w0UXhRbkdvR3Q1NlprUV9IdUpVY3BVUnNjTkZfcHJDZnl3dEpGRU02Sk40T3M0cVJwcFZhUlVValRWd0VGUzZsaXpadDNNQ2NNOFJCTVFFU0hRWTdGODQyREYzUjZQdl9LbS0xYmg1ZjJtb24wNXY1VUJsMXRn?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
         }
       ]
     },
@@ -877,16 +811,34 @@
       "count": 2,
       "headlines": [
         {
-          "title": "Colonists attack Palestinian vehicles northwest of Ramallah - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zRGhsUGVuYjgxcVZvTHJFQ3hYRXNEWXlTN3dRaUJuT0MtYmIyQjEtczJPRWptYnlRa2cza0JPbVdPZk1KWDd4TE1TREs4aDRuWDN3dTBTZw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
           "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
           "source": "WAFA News",
           "region": "Levant"
+        },
+        {
+          "title": "Palestinian prisoner institutions: Thousands of detainees subjected daily to torture and inhumane treatment in Israeli prisons - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6Q0dWN2xSaE94Q2tBRDZGcmhjdHg5dW5LdmY1VThXQUdPTlpJNVNkOXNfQ190QWNSNDdCX1A1QmlhanR6NUh4QnFPcE13VEc5Nk9sSGJVNA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "oil",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Pakistan could save up to $340 million on oil imports if Iran sanctions lifted — report",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MUS1HMk9qdDdXNjd1YlkxbXAwbEJ0ckRaSmRsSkE5SVdheW9EUnhubURRZWFTMENWTDNkUG1tUXdfUUxDRWswSE41bjdSR25xTVFj?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Oil slide softens dollar's inflationary bite",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYU1QWGtPRlNOdGFSSGdvOHpMSjA3RzRRLS1ZNFlxZHVlaERyTTVtaHBaSTJhYmFkR3Y5YWo1TlNfc25jaWllMkJPM3NHTzAwQ2hPZ1l5RjQwcHhuWVUxc3BMUUVzUW9BWVNfSi1iTHp3LVZHVV9OSGNHMVVLc0hkNmVfcEcxYl91Q05qeEMzNmk1NW1aWlhqMGNn?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
@@ -1013,6 +965,60 @@
           "url": "https://www.timesofisrael.com/dozens-of-protesters-block-road-in-bnei-brak-in-demand-for-ultra-orthodox-military-draft/",
           "source": "Times of Israel",
           "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Jewish",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "US Jewish day school enrollment rising across denominations for 1st time, report shows",
+          "url": "https://www.timesofisrael.com/us-jewish-day-school-enrollment-rising-across-denominations-for-1st-time-report-shows/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Opinion • The burden of being Jewish in America's race war",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTU1VaGQzVDhwcWU4VjlzZE5qcWxWdTE4TG9zZ0g0cHJWYU5XNmZBUlJielhQcVVNY053OWo5bDFmbGl6QlR5VEt0eDVYMzJfN3lSb3IxbXBya0doY3ZWX0dFRUdnUTREbUJpOWU0Q25zbFBOZUZNQmVZRzlyZC1xdkNtT056UDlodklrTXNLX1JNSXNVNnFOaFlWM2s0MGYxbUlEU3laMzhCa2JVV0YtVjRBSmdxMVlaVWZleVpzSDFrOV80Vnk5clBuOUFEMXNpNV81WWJuSjlRdXVyMmpZUGs1UGllTDVpRXo2Vmd3?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Netanyahu",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Analysis • In Netanyahu's twisted political logic, only electoral deadlock is victory",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNS1VlVlhhT25LbFF2TXB5bUtyOWFoellGS3pqa21WN1RfcFcycVhzWHk4V0RKSWR5TGg5a0pjOXB3SDVTRDJib0RWYnFiODh4RFhkVUdrZ290WG9mdDVGMXZ4TjFGVFRtVmFHRVQwM1JGcHNxNXFMWWxoemtvLTE5T0RFeEhyTVNUUVhDVHVKTGhrY3B2OHlaTnBhSC1JdXhtbWdDeGwtWEpsWEJWeUNCSVA5TkVIUl9uNU5ubzk1OXdEYzdTbzVHS2U3TkEwZEd3cFJRRWZEVGE2Qzl2N0VuY3VsU2k5aWlGN011aXgtS3liUnN2QngxakxRTWZsQVBSUWM0SUNEb2pEMVpDY1pmSTJHS0dZYVBVVUdndU5WSFMxQQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Analysis • Netanyahu's claims of free rein in Lebanon crumble under Trump's pressure",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOX0RpenFWWkRBY1ZOWndsYmxuZ1RZRkJETS1QblFiTW83d2FmQmlTR3lyY1Z2VmpXb29HVUNXT0JPcFAzN1J4RXBJc3IzMnRnVXN1RUJCanAtTWtqd1pnSWNDemNLY3ptU2VtSVA4akZNcF9lLTZvSUtuVTd4ZHlCN2V3NEFOMXJaT2tVbE50WmpCYnBLaEFRSEh0b3czRkhxZktyb1Vmc3JfbUxzS0oydXBaZFRhWDBQUUFVbHJMeC1ZaWJoa1F4MGYtN2lnZmhsQlVHNktma1ZsZ2w3N1B2NWswZ1JLbm1KSllsWV84bWFwNjREdVZXRUN2R0IxNzktSnFYeS1mMmZ0OVJvc3h4T2hrMUpFaGJNajZTcA?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Tehran",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran, Romania FMs review mutual ties, regional developments",
+          "url": "https://en.irna.ir/news/86193347/Iran-Romania-FMs-review-mutual-ties-regional-developments",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran slams joint US-PGCC statement as ‘distortion of truth’",
+          "url": "https://en.irna.ir/news/86193312/Iran-slams-joint-US-PGCC-statement-as-distortion-of-truth",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     }
