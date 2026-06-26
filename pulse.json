@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T21:40:39.569031+00:00",
+  "updated": "2026-06-26T21:51:50.692313+00:00",
   "total_headlines": 110,
   "terms": [
     {
@@ -213,85 +213,19 @@
       ]
     },
     {
-      "term": "Israeli",
-      "count": 11,
-      "headlines": [
-        {
-          "title": "Israeli army says it killed seven Hezbollah operatives in south Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUdIBzgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "إيران تحذر من التحركات الجوية الإسرائيلية في دول الجوار",
-          "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxQak53bnFZeVBGV1lHRXl3dG1WREZzUzB1VE9XUjExUnFQSVhCUVRfZTA1WGhtN3YySXd4WnVVSE9uRGZwOTNoaDdrSEQwbWpHc2VoSFlHdnNCbG5WWVliVmg2VlZYaFdrZUVDYVR3cC1CeWZoRldlSkcwYm12RnNscTlLd1lqMnVqWHAxZElsOFhMUTlhbHJEV2ZDQ2hXTUFUeUZReGNKNWhsbW1zQmx5cUxVR1k4ZjFUMWNzbmc0OGtNVXA3NTBvelJkel9JS3FKb0p4SkNKeS1jNVlwX050cTZKTEphSTU5d1RDdGtKc1pvcU1ReXJFS2U3R1dBTnVRREozRTBlUlpyNXpaTk80a3NPU2NrbW9OdW5VNGpiUERFUVNGSTgxcV9BeUVJTFJtaDFLOGpYTzhFWDFkanVuTkhkQTlrVDR6bGxyaE5rWlRoc2dZcURkdmg3RHg5MHJSN3VqMjRIQjJzb3pETGRGdFphOGQxX044V21NaFpmR29nd0k2akFIZ0lqRFFTSWY1bE13SF9FSkw1TkNuUkl0RGQ4RTgwY2VEaTBpVUd5X0V1dTFIZzV0STBlb04zS2FBbmpBdEFLWmFOWGdMRHJjYWYzQ1FzZ3g3SjhMSm9DY0dyUDJJU0FlTFkwWVpZeENFay1sLVpKTUo1WEI1Sk9HY3pvMHN5SHZJVUQ5VFJ2R0s3ZHVjSXpUWnZ0dW94SDdCeVVvU0xyMDRXREE?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli strike kills three civilians, injures others in central Strip - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YLWNNLWl2QnVrVFczWU1JMl9sNng0U0MtMGlKX2ZtNVJLRENGWnZoSmYzeFVPQnJQUUJEMGZvdlZDd2ZPazQ0eC1sVWtSa2VzMjIyV09XQQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces detain two children in East Jerusalem town of Silwan - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96ZFBVMDljaFVpUjU3TTJSeEJicXMzcWs5VkZObE51MlZjcnlXUTBldkpmSEtNZ0FIcmRZNDktbzFuSXEtOGVFYUFDejFYNmpzSXhRTHNBaw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces assault Palestinians at archeological landmark near Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tWTdqblYtRUZZcE5Ob040Ul9aQXZ6TzZTWGdWbnZpOWFDZV9kclAwcktvNVdHTy15bzEyTUlhNDcyLVZoSHlQLThUaldpVUdGSVJrSlRLcw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Music's hidden message: Israeli drag queen and exiled Iranian singer send a message of freedom",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900481",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Israeli Settler Indicted Over West Bank Rampage That Left Eight Palestinians Wounded",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMUs5YnpXX2wyRTgtb0doWXVDRENUaHBVZzdiS0VlZWR2dWtQRmxVWHVhMjBSX3RXbGxBTVZ2TDVFX0VGYVJjTUx2WGR0YjZsenU2aXpvZmxwNUFsN3BFSEtYdDdDTnVqNTNZVG9ZRk95VzQxMF83ZG1IV3lJMjhOcWNudk1HaHZtaFFUcEp4Sml2d1I3eDlBVk1GN2RYekMtYUQtVW1wYzJFZ2FvRmxTbjZHUWVwczl1VjVnVmNyX0JtaWVFRHlSNExNOWl6bkZObk5rM2VqQkNIdDFrSHZHTU9QZzZBNEVJaWgtd2h2THdKT1YwTVdDakxVelZCOFV6M2VPNzBYWUlVcDh4REVURDFTRkVuS2VTbGk0dy1B?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Israeli FM Pushes Armenian Genocide Recognition as Tensions With Turkey Escalate",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYzdYUWxJYjZfNWRkRmFkZ3RQU3VYWUNoN0V1V0VFdzdHNFpRQnBkUGVyWDJNTmVKcGtpSXR6S1NfTjNmdFlxdmRzUEF0enRFbUlwT243UDBCcWlxTmNvSzRldEMtejB3V3Z5T2wxbVhVbEhLNXZsR080ODFhbGF3M3p6UmhWZGNHRDU5V3ZrV3l2MXRILXdaVjNmbmpLTHF2a1M5T1h4bEJWdDZDV3BmdXVSWlZkLW1YdW5ZUWNHdlRGelhGVjk0MkN6elJ5MmM4cDdCZTFOYkplQnNhUVNKTXR1WDlzVmxnMVBoLTNR?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "Trump",
-      "count": 10,
+      "count": 11,
       "headlines": [
         {
           "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
           "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon and Israel sign 'framework agreement' to end war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -352,8 +286,14 @@
     },
     {
       "term": "Lebanon",
-      "count": 10,
+      "count": 11,
       "headlines": [
+        {
+          "title": "Lebanon and Israel sign 'framework agreement' to end war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Lebanon president says Israel deal first step to restoring sovereignty",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-israel-deal-first-step-restoring-sovereignty",
@@ -417,6 +357,78 @@
       ]
     },
     {
+      "term": "Israeli",
+      "count": 11,
+      "headlines": [
+        {
+          "title": "Israeli army says it killed seven Hezbollah operatives in south Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUdIBzgFBVV95cUxPX19EanMzRjdlc1FtVG81endGd20yakpWUGI5X3NrQjVpeVV5M1dFTWZ3aFlRaHNzVXhHd2xmMmFVUV9zd3RXLVk0TDBSTVlvYlF4OWhlRjZJdHA3aFAwMGlBWTBIeW00VUlXeC1nT0F3VWQ5UGdwdFZXcXo2LXFEU19Zd0M0dU1OQVdmN2ZkWTNHdFZmRXBqazF6OTk5bWd6YnRqSFBxVkxaT0FHZ05zLWlaWUMwTFl4WHpGTWhab0EzakpLZXJaajE4UHFmUQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "إيران تحذر من التحركات الجوية الإسرائيلية في دول الجوار",
+          "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxQak53bnFZeVBGV1lHRXl3dG1WREZzUzB1VE9XUjExUnFQSVhCUVRfZTA1WGhtN3YySXd4WnVVSE9uRGZwOTNoaDdrSEQwbWpHc2VoSFlHdnNCbG5WWVliVmg2VlZYaFdrZUVDYVR3cC1CeWZoRldlSkcwYm12RnNscTlLd1lqMnVqWHAxZElsOFhMUTlhbHJEV2ZDQ2hXTUFUeUZReGNKNWhsbW1zQmx5cUxVR1k4ZjFUMWNzbmc0OGtNVXA3NTBvelJkel9JS3FKb0p4SkNKeS1jNVlwX050cTZKTEphSTU5d1RDdGtKc1pvcU1ReXJFS2U3R1dBTnVRREozRTBlUlpyNXpaTk80a3NPU2NrbW9OdW5VNGpiUERFUVNGSTgxcV9BeUVJTFJtaDFLOGpYTzhFWDFkanVuTkhkQTlrVDR6bGxyaE5rWlRoc2dZcURkdmg3RHg5MHJSN3VqMjRIQjJzb3pETGRGdFphOGQxX044V21NaFpmR29nd0k2akFIZ0lqRFFTSWY1bE13SF9FSkw1TkNuUkl0RGQ4RTgwY2VEaTBpVUd5X0V1dTFIZzV0STBlb04zS2FBbmpBdEFLWmFOWGdMRHJjYWYzQ1FzZ3g3SjhMSm9DY0dyUDJJU0FlTFkwWVpZeENFay1sLVpKTUo1WEI1Sk9HY3pvMHN5SHZJVUQ5VFJ2R0s3ZHVjSXpUWnZ0dW94SDdCeVVvU0xyMDRXREE?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli strike kills three civilians, injures others in central Strip - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YLWNNLWl2QnVrVFczWU1JMl9sNng0U0MtMGlKX2ZtNVJLRENGWnZoSmYzeFVPQnJQUUJEMGZvdlZDd2ZPazQ0eC1sVWtSa2VzMjIyV09XQQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces detain two children in East Jerusalem town of Silwan - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96ZFBVMDljaFVpUjU3TTJSeEJicXMzcWs5VkZObE51MlZjcnlXUTBldkpmSEtNZ0FIcmRZNDktbzFuSXEtOGVFYUFDejFYNmpzSXhRTHNBaw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces assault Palestinians at archeological landmark near Bethlehem - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tWTdqblYtRUZZcE5Ob040Ul9aQXZ6TzZTWGdWbnZpOWFDZV9kclAwcktvNVdHTy15bzEyTUlhNDcyLVZoSHlQLThUaldpVUdGSVJrSlRLcw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "UPDATE: Infant succumbs to wounds after Israeli forces open fire on family’s vehicle south of Hebron - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDlrSHV0cW51TkNGa05YWHBKQllzREJfWWFxTlRWVk54Rm1TVUZlVHR5bU5ITm9janFXWXVYQ2J3ejVsckhFMkVmX3AxVXZVeHd5T29wMUdET1pIY2p4M1NCVEpVaWU1akV0bkF3S2Nmb2EtQVpQR0k0dHNWR1dFMExXZ190NkRkVjBpeVgwNA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Music's hidden message: Israeli drag queen and exiled Iranian singer send a message of freedom",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900481",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Israeli Settler Indicted Over West Bank Rampage That Left Eight Palestinians Wounded",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMUs5YnpXX2wyRTgtb0doWXVDRENUaHBVZzdiS0VlZWR2dWtQRmxVWHVhMjBSX3RXbGxBTVZ2TDVFX0VGYVJjTUx2WGR0YjZsenU2aXpvZmxwNUFsN3BFSEtYdDdDTnVqNTNZVG9ZRk95VzQxMF83ZG1IV3lJMjhOcWNudk1HaHZtaFFUcEp4Sml2d1I3eDlBVk1GN2RYekMtYUQtVW1wYzJFZ2FvRmxTbjZHUWVwczl1VjVnVmNyX0JtaWVFRHlSNExNOWl6bkZObk5rM2VqQkNIdDFrSHZHTU9QZzZBNEVJaWgtd2h2THdKT1YwTVdDakxVelZCOFV6M2VPNzBYWUlVcDh4REVURDFTRkVuS2VTbGk0dy1B?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Israeli FM Pushes Armenian Genocide Recognition as Tensions With Turkey Escalate",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYzdYUWxJYjZfNWRkRmFkZ3RQU3VYWUNoN0V1V0VFdzdHNFpRQnBkUGVyWDJNTmVKcGtpSXR6S1NfTjNmdFlxdmRzUEF0enRFbUlwT243UDBCcWlxTmNvSzRldEMtejB3V3Z5T2wxbVhVbEhLNXZsR080ODFhbGF3M3p6UmhWZGNHRDU5V3ZrV3l2MXRILXdaVjNmbmpLTHF2a1M5T1h4bEJWdDZDV3BmdXVSWlZkLW1YdW5ZUWNHdlRGelhGVjk0MkN6elJ5MmM4cDdCZTFOYkplQnNhUVNKTXR1WDlzVmxnMVBoLTNR?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "attack",
       "count": 8,
       "headlines": [
@@ -466,6 +478,60 @@
           "title": "6 settlers indicted on terror charges for arson attack on West Bank mosque with people inside",
           "url": "https://www.timesofisrael.com/6-settlers-indicted-on-terror-charges-for-arson-attack-on-west-bank-mosque-with-people-inside/",
           "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "agreement",
+      "count": 8,
+      "headlines": [
+        {
+          "title": "Lebanon and Israel sign 'framework agreement' to end war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon, Israel, US sign trilateral framework agreement in Washington",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTNwZUxqenFRWnVmVVlMLUZjWi1TVml1NWJGcFg1bHZZdng5VE5PdjhpRnI3QTNJeWNSMF80dDRzdEZqOE0yT01kbGQ5eTRlbjNhSlQ5bjBPOUwtcF9ZNllFejhUQkcyZ0U2bkRXdGljMEF1MUZyUlkwaXpndXN3YjB2RGpLc0tORXJuemEza3YzclQtLXFlQ0xYazk4bFBlc1RVM1o0Y0gyN2FhenU5NGRkU1VGSHVWSDg3bEMtRTlGOVI3Y0FPM9IByAFBVV95cUxPLTNwZUxqenFRWnVmVVlMLUZjWi1TVml1NWJGcFg1bHZZdng5VE5PdjhpRnI3QTNJeWNSMF80dDRzdEZqOE0yT01kbGQ5eTRlbjNhSlQ5bjBPOUwtcF9ZNllFejhUQkcyZ0U2bkRXdGljMEF1MUZyUlkwaXpndXN3YjB2RGpLc0tORXJuemEza3YzclQtLXFlQ0xYazk4bFBlc1RVM1o0Y0gyN2FhenU5NGRkU1VGSHVWSDg3bEMtRTlGOVI3Y0FPMw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hezbollah rejects Lebanon-Israel deal, warns of civil war",
+          "url": "https://www.newarab.com/news/hezbollah-rejects-lebanon-israel-deal-warns-civil-war",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Rubio on tour says any Iran deal will ensure security of Gulf allies",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "One week in, what exactly are America and Iran getting from their agreement?",
+          "url": "https://www.egyptindependent.com/one-week-in-what-exactly-are-america-and-iran-getting-from-their-agreement/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Framework agreement signed between Lebanon and Israel in Washington - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZDVwS3JaZnJkZTVIcFVRMDdwNzFoX3pDTWZ6RmxpMEZPMk1VMzE1allZSFFheTBtZTNiWHJJdTFPTWNlLUt2eDBPVEIxam1jemFOWG1lQQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel and Lebanon expected to sign framework agreement - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DM081MzVQTFgyNDFjVUxBVzlEbjFrU2ExRFRMRmhIOXlWaE9SRzJuWnBZU3BaQmN4SFh5WVJlRExzN0t2VnFmX21SaTIzSEJVZzQw?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "US-Israel-Lebanon sign trilateral framework agreement aimed at dismantling Hezbollah",
+          "url": "https://www.jpost.com/international/article-900621",
+          "source": "Jerusalem Post",
           "region": "Israel"
         }
       ]
@@ -521,54 +587,6 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmhwY1lGWExMNFR3TG1WWTk2NXZKTjQ0WjY0cEEyQk50czhWSmdINGNhMVdDaUlWcXhjZmVZdEYwczFFR3VLdmVJSTdPV0p1RHhlVTA0NVFXYXIyUVZyZFFBRW50dTRNU2g3T285dHVSc3djR0lRM1FTUVNVUXFTT25oNmU0U0RmSFdfcjV5dXZnckljbEdya3VzbUY?oc=5",
           "source": "Mehr News",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "agreement",
-      "count": 7,
-      "headlines": [
-        {
-          "title": "Lebanon, Israel, US sign trilateral framework agreement in Washington",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTNwZUxqenFRWnVmVVlMLUZjWi1TVml1NWJGcFg1bHZZdng5VE5PdjhpRnI3QTNJeWNSMF80dDRzdEZqOE0yT01kbGQ5eTRlbjNhSlQ5bjBPOUwtcF9ZNllFejhUQkcyZ0U2bkRXdGljMEF1MUZyUlkwaXpndXN3YjB2RGpLc0tORXJuemEza3YzclQtLXFlQ0xYazk4bFBlc1RVM1o0Y0gyN2FhenU5NGRkU1VGSHVWSDg3bEMtRTlGOVI3Y0FPM9IByAFBVV95cUxPLTNwZUxqenFRWnVmVVlMLUZjWi1TVml1NWJGcFg1bHZZdng5VE5PdjhpRnI3QTNJeWNSMF80dDRzdEZqOE0yT01kbGQ5eTRlbjNhSlQ5bjBPOUwtcF9ZNllFejhUQkcyZ0U2bkRXdGljMEF1MUZyUlkwaXpndXN3YjB2RGpLc0tORXJuemEza3YzclQtLXFlQ0xYazk4bFBlc1RVM1o0Y0gyN2FhenU5NGRkU1VGSHVWSDg3bEMtRTlGOVI3Y0FPMw?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Hezbollah rejects Lebanon-Israel deal, warns of civil war",
-          "url": "https://www.newarab.com/news/hezbollah-rejects-lebanon-israel-deal-warns-civil-war",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Rubio on tour says any Iran deal will ensure security of Gulf allies",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "One week in, what exactly are America and Iran getting from their agreement?",
-          "url": "https://www.egyptindependent.com/one-week-in-what-exactly-are-america-and-iran-getting-from-their-agreement/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Framework agreement signed between Lebanon and Israel in Washington - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZDVwS3JaZnJkZTVIcFVRMDdwNzFoX3pDTWZ6RmxpMEZPMk1VMzE1allZSFFheTBtZTNiWHJJdTFPTWNlLUt2eDBPVEIxam1jemFOWG1lQQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel and Lebanon expected to sign framework agreement - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DM081MzVQTFgyNDFjVUxBVzlEbjFrU2ExRFRMRmhIOXlWaE9SRzJuWnBZU3BaQmN4SFh5WVJlRExzN0t2VnFmX21SaTIzSEJVZzQw?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "US-Israel-Lebanon sign trilateral framework agreement aimed at dismantling Hezbollah",
-          "url": "https://www.jpost.com/international/article-900621",
-          "source": "Jerusalem Post",
-          "region": "Israel"
         }
       ]
     },
@@ -694,8 +712,14 @@
     },
     {
       "term": "war",
-      "count": 4,
+      "count": 5,
       "headlines": [
+        {
+          "title": "Lebanon and Israel sign 'framework agreement' to end war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Lebanon president says Israel deal first step to restoring sovereignty",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-israel-deal-first-step-restoring-sovereignty",
@@ -719,6 +743,36 @@
           "url": "https://www.newarab.com/news/hezbollah-rejects-lebanon-israel-deal-warns-civil-war",
           "source": "The New Arab",
           "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Washington",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Lebanon and Israel sign 'framework agreement' to end war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon, Israel, US sign trilateral framework agreement in Washington",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTNwZUxqenFRWnVmVVlMLUZjWi1TVml1NWJGcFg1bHZZdng5VE5PdjhpRnI3QTNJeWNSMF80dDRzdEZqOE0yT01kbGQ5eTRlbjNhSlQ5bjBPOUwtcF9ZNllFejhUQkcyZ0U2bkRXdGljMEF1MUZyUlkwaXpndXN3YjB2RGpLc0tORXJuemEza3YzclQtLXFlQ0xYazk4bFBlc1RVM1o0Y0gyN2FhenU5NGRkU1VGSHVWSDg3bEMtRTlGOVI3Y0FPM9IByAFBVV95cUxPLTNwZUxqenFRWnVmVVlMLUZjWi1TVml1NWJGcFg1bHZZdng5VE5PdjhpRnI3QTNJeWNSMF80dDRzdEZqOE0yT01kbGQ5eTRlbjNhSlQ5bjBPOUwtcF9ZNllFejhUQkcyZ0U2bkRXdGljMEF1MUZyUlkwaXpndXN3YjB2RGpLc0tORXJuemEza3YzclQtLXFlQ0xYazk4bFBlc1RVM1o0Y0gyN2FhenU5NGRkU1VGSHVWSDg3bEMtRTlGOVI3Y0FPMw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Framework agreement signed between Lebanon and Israel in Washington - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZDVwS3JaZnJkZTVIcFVRMDdwNzFoX3pDTWZ6RmxpMEZPMk1VMzE1allZSFFheTBtZTNiWHJJdTFPTWNlLUt2eDBPVEIxam1jemFOWG1lQQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         }
       ]
     },
@@ -753,26 +807,50 @@
       ]
     },
     {
-      "term": "Washington",
+      "term": "Donald",
       "count": 3,
       "headlines": [
         {
-          "title": "Lebanon, Israel, US sign trilateral framework agreement in Washington",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTNwZUxqenFRWnVmVVlMLUZjWi1TVml1NWJGcFg1bHZZdng5VE5PdjhpRnI3QTNJeWNSMF80dDRzdEZqOE0yT01kbGQ5eTRlbjNhSlQ5bjBPOUwtcF9ZNllFejhUQkcyZ0U2bkRXdGljMEF1MUZyUlkwaXpndXN3YjB2RGpLc0tORXJuemEza3YzclQtLXFlQ0xYazk4bFBlc1RVM1o0Y0gyN2FhenU5NGRkU1VGSHVWSDg3bEMtRTlGOVI3Y0FPM9IByAFBVV95cUxPLTNwZUxqenFRWnVmVVlMLUZjWi1TVml1NWJGcFg1bHZZdng5VE5PdjhpRnI3QTNJeWNSMF80dDRzdEZqOE0yT01kbGQ5eTRlbjNhSlQ5bjBPOUwtcF9ZNllFejhUQkcyZ0U2bkRXdGljMEF1MUZyUlkwaXpndXN3YjB2RGpLc0tORXJuemEza3YzclQtLXFlQ0xYazk4bFBlc1RVM1o0Y0gyN2FhenU5NGRkU1VGSHVWSDg3bEMtRTlGOVI3Y0FPMw?oc=5",
-          "source": "Al Arabiya",
+          "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
+          "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
+          "title": "Lebanon and Israel sign 'framework agreement' to end war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Framework agreement signed between Lebanon and Israel in Washington - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZDVwS3JaZnJkZTVIcFVRMDdwNzFoX3pDTWZ6RmxpMEZPMk1VMzE1allZSFFheTBtZTNiWHJJdTFPTWNlLUt2eDBPVEIxam1jemFOWG1lQQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "Sanctioned ICC judges sue Trump in US over 'attack on judicial independence'",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sanctioned-icc-judges-sue-trump-us-over-attack-judicial-independence",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "United",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Lebanon and Israel sign 'framework agreement' to end war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Crew of tanker illegally seized by US released to Iran consulate in Karachi",
+          "url": "https://en.irna.ir/news/86193302/Crew-of-tanker-illegally-seized-by-US-released-to-Iran-consulate",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran slams joint US-PGCC statement as ‘distortion of truth’",
+          "url": "https://en.irna.ir/news/86193312/Iran-slams-joint-US-PGCC-statement-as-distortion-of-truth",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -845,30 +923,6 @@
           "url": "https://en.irna.ir/news/86193302/Crew-of-tanker-illegally-seized-by-US-released-to-Iran-consulate",
           "source": "IRNA",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Palestinian",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Ms Rachel says world has failed Palestinian children at briefing",
-          "url": "https://www.newarab.com/news/ms-rachel-says-world-has-failed-palestinian-children-briefing",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Settlers Tried to Torch Palestinian Homes. They Messed With the Wrong Village",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdC0zSnZJUDFyNjE3amYtMkdXM3ZJamhRM3FBa19nRlowcHFvMC1PWExDWFZnOWhTRnhTc010MVFocHhPZTdsS1pRSHh0RnFKcmRwVDhOeGhWMUI1cDJ2NEw2c2VUenhSTkVJeUtpeE9zNUYxZ3hKMy1HdDFLc3FHd1hGVnVBZG5vZndlRWE2TDE5dmZ1eXVtekVud0lNUlVveldLUFBkb29ram9HT0ZqZVI0WklqMXFtbzM0MmtnS1Y2dTFQd3lwVXdqd2lWdnF3SXRHeTBUYjdjSmRQWU9fdGc4UXU2WmVQOVV4QXpEZ0twc2tMb0tyZG5reXh2YzlpYTJ4S1lwX2pxTkdJbjJXdTg1aVdmSnprWnlWSjlCcl9QTEpjWE1sQ3VucEZCZw?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
         }
       ]
     },
@@ -987,24 +1041,6 @@
       ]
     },
     {
-      "term": "drone strike",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US strikes Iran in response to drone strike on commercial ship",
-          "url": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "strikes",
       "count": 2,
       "headlines": [
@@ -1017,42 +1053,6 @@
         {
           "title": "US confirms strikes on Iran, Tehran vows swift response",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-confirms-strikes-against-iran-tehran-vows-swift-response",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Donald",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
-          "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Sanctioned ICC judges sue Trump in US over 'attack on judicial independence'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sanctioned-icc-judges-sue-trump-us-over-attack-judicial-independence",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "York",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Sanctioned ICC judges sue Trump in US over 'attack on judicial independence'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sanctioned-icc-judges-sue-trump-us-over-attack-judicial-independence",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Pro-Israel rabbis demand Mamdani apologise for likening Aipac to 'monsters'",
-          "url": "https://www.middleeasteye.net/news/pro-israel-rabbis-demand-mamdani-apologise-likening-aipac-monsters",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         }
@@ -1073,42 +1073,6 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "City",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Pro-Israel rabbis demand Mamdani apologise for likening Aipac to 'monsters'",
-          "url": "https://www.middleeasteye.net/news/pro-israel-rabbis-demand-mamdani-apologise-likening-aipac-monsters",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Palestine",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Pro-Israel rabbis demand Mamdani apologise for likening Aipac to 'monsters'",
-          "url": "https://www.middleeasteye.net/news/pro-israel-rabbis-demand-mamdani-apologise-likening-aipac-monsters",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "France’s terrorism apology law faces test in pro-Palestine case",
-          "url": "https://www.newarab.com/news/frances-terrorism-apology-law-faces-test-pro-palestine-case",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
         }
       ]
     },
@@ -1145,6 +1109,24 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3pHZERwbldOLUdQSm4yRmQ0LWhHV3FENDhkNkRYUWhrbmh4dWJteURpWnZhejRnem1EWDBlQTRfSFBpYjd5eGlkaEQwSlVfYmJqUEpDb29uVk1UYWc3Q2t2MF9jZ1l2Mk9tRmJDRFp2OF96bUV4MzZVaUd3bm14ZkNzZmthNUNEZDhEVl9hQTdzdFU0d2REejVUYVhVZw?oc=5",
           "source": "Mehr News",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Palestinian",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Ms Rachel says world has failed Palestinian children at briefing",
+          "url": "https://www.newarab.com/news/ms-rachel-says-world-has-failed-palestinian-children-briefing",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Settlers Tried to Torch Palestinian Homes. They Messed With the Wrong Village",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdC0zSnZJUDFyNjE3amYtMkdXM3ZJamhRM3FBa19nRlowcHFvMC1PWExDWFZnOWhTRnhTc010MVFocHhPZTdsS1pRSHh0RnFKcmRwVDhOeGhWMUI1cDJ2NEw2c2VUenhSTkVJeUtpeE9zNUYxZ3hKMy1HdDFLc3FHd1hGVnVBZG5vZndlRWE2TDE5dmZ1eXVtekVud0lNUlVveldLUFBkb29ram9HT0ZqZVI0WklqMXFtbzM0MmtnS1Y2dTFQd3lwVXdqd2lWdnF3SXRHeTBUYjdjSmRQWU9fdGc4UXU2WmVQOVV4QXpEZ0twc2tMb0tyZG5reXh2YzlpYTJ4S1lwX2pxTkdJbjJXdTg1aVdmSnprWnlWSjlCcl9QTEpjWE1sQ3VucEZCZw?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
         }
       ]
     },
@@ -1252,24 +1234,6 @@
           "title": "Israeli Settler Indicted Over West Bank Rampage That Left Eight Palestinians Wounded",
           "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMUs5YnpXX2wyRTgtb0doWXVDRENUaHBVZzdiS0VlZWR2dWtQRmxVWHVhMjBSX3RXbGxBTVZ2TDVFX0VGYVJjTUx2WGR0YjZsenU2aXpvZmxwNUFsN3BFSEtYdDdDTnVqNTNZVG9ZRk95VzQxMF83ZG1IV3lJMjhOcWNudk1HaHZtaFFUcEp4Sml2d1I3eDlBVk1GN2RYekMtYUQtVW1wYzJFZ2FvRmxTbjZHUWVwczl1VjVnVmNyX0JtaWVFRHlSNExNOWl6bkZObk5rM2VqQkNIdDFrSHZHTU9QZzZBNEVJaWgtd2h2THdKT1YwTVdDakxVelZCOFV6M2VPNzBYWUlVcDh4REVURDFTRkVuS2VTbGk0dy1B?oc=5",
           "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Bucking threats, hundreds in Gaza seen protesting Hamas for first time in a year",
-          "url": "https://www.timesofisrael.com/bucking-threats-hundreds-in-gaza-seen-protesting-hamas-for-first-time-in-a-year/",
-          "source": "Times of Israel",
           "region": "Israel"
         }
       ]
@@ -1432,6 +1396,24 @@
           "title": "Crew of tanker illegally seized by US released to Iran consulate in Karachi",
           "url": "https://en.irna.ir/news/86193302/Crew-of-tanker-illegally-seized-by-US-released-to-Iran-consulate",
           "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Strait",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Hormuz Strait safe passage conditional on Iran's coordination",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWtGWUlNb2hVWTRPSVNaMG9kSkR1R1hvM25Cb1FjWmhSOG9HQ2xwaG9zS1VoS1NDZnB1d09YbkJQYk1UQkpfa3hnMlJBYVFONmZFU0NsZXVacWQ0MXZwQkthU1JVWEx4ZEZKRXU4dlVxSlRWLUtMZm14T1RZcmpQUTk0dm9aNEJfaG1nbFFxTi1lX1dXTXhiWmUxUU9UQQ?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Persian Gulf states owed to Iran' management of Hormuz Strait",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmhwY1lGWExMNFR3TG1WWTk2NXZKTjQ0WjY0cEEyQk50czhWSmdINGNhMVdDaUlWcXhjZmVZdEYwczFFR3VLdmVJSTdPV0p1RHhlVTA0NVFXYXIyUVZyZFFBRW50dTRNU2g3T285dHVSc3djR0lRM1FTUVNVUXFTT25oNmU0U0RmSFdfcjV5dXZnckljbEdya3VzbUY?oc=5",
+          "source": "Mehr News",
           "region": "Iran"
         }
       ]
