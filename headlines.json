@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T15:30:23.555630+00:00",
+  "updated": "2026-06-26T15:59:09.422388+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "EU targets Somalia with visa curbs as president pushes back on returns",
+            "url": "https://www.aljazeera.com/news/2026/6/26/eu-targets-somalia-with-visa-curbs-as-president-pushes-back-on-returns?traffic_source=rss",
+            "published": "2026-06-26T15:18:02+00:00",
+            "snippet": "President says his country will readmit genuine nationals but insists Europe must first verify deportees' identities."
+          },
           {
             "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
             "url": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
             "published": "2026-06-26T14:04:34+00:00",
             "snippet": "Iran has rejected a statement by the GCC and the US regarding its missile program, the Strait of Hormuz, and regional armed groups."
-          },
-          {
-            "title": "South Korean court jails former first lady for seven years in bribery case",
-            "url": "https://www.aljazeera.com/news/2026/6/26/south-korean-court-jails-former-first-lady-for-seven-years-in-bribery-case?traffic_source=rss",
-            "published": "2026-06-26T14:01:38+00:00",
-            "snippet": "A South Korean court has sentenced Kim Keon Hee to seven years in prison for accepting bribes, including luxury items, in exchange for political favors."
           }
         ],
         "error": null
@@ -47,6 +47,18 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "US considering moving Gulf bases damaged by Iran to Israel",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-considering-moving-gulf-bases-damaged-iran-israel",
+            "published": "2026-06-26T15:49:18+00:00",
+            "snippet": "US considering moving Gulf bases damaged by Iran to Israel The US is considering moving some of its Gulf bases to Israel after they were attacked by Iran earlier this year."
+          },
+          {
+            "title": "Rights groups file complaint against Polish TNT producer over Gaza war crimes",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-groups-file-complaint-against-polish-tnt-producer-over-gaza-war",
+            "published": "2026-06-26T15:41:42+00:00",
+            "snippet": "Rights groups file complaint against Polish TNT producer over Gaza war crimes Three international organisations have filed a criminal complaint against Polish state-owned company Nitro-Chem, accusing representatives of the Nato alliance’s largest TNT producer of alleged involvement in international"
+          },
           {
             "title": "UN says 115 vessels, 2,500 seafarers evacuated from Strait of Hormuz since Tuesday",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-115-vessels-2500-seafarers-evacuated-strait-hormuz-tuesday",
@@ -64,18 +76,6 @@
             "url": "https://www.middleeasteye.net/news/sanctioned-icc-judges-sue-trump-us-over-attack-judicial-independence",
             "published": "2026-06-26T14:21:42+00:00",
             "snippet": "Three serving International Criminal Court (ICC) judges are suing Donald Trump in the US, alleging that asset freezes and travel bans constitute an attack on judicial independence."
-          },
-          {
-            "title": "UAE and Iranian foreign ministers discuss Hormuz and MOU",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-and-iranian-foreign-ministers-discuss-hormuz-and-mou",
-            "published": "2026-06-26T13:56:27+00:00",
-            "snippet": "The UAE and Iranian foreign ministers discussed maritime security in the Strait of Hormuz and a Memorandum of Understanding (MOU). The UAE minister emphasized adherence to the MOU and the importance of diplomacy."
-          },
-          {
-            "title": "Israel bans call to prayer at Hebron's Ibrahimi Mosque for fifth day",
-            "url": "https://www.middleeasteye.net/news/israel-bans-call-prayer-hebrons-ibrahimi-mosque-fifth-day",
-            "published": "2026-06-26T13:39:19+00:00",
-            "snippet": "Israeli forces have banned the call to prayer at Hebron's Ibrahimi Mosque for the fifth consecutive day, which Palestinians view as an escalation of Israeli control over the West Bank site."
           }
         ],
         "error": null
@@ -126,6 +126,24 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "Tunisian rights activist sentenced to 25 years in prison",
+            "url": "https://www.newarab.com/news/tunisian-rights-activist-sentenced-25-years-prison-0",
+            "published": "2026-06-26T15:41:21+00:00",
+            "snippet": "Tunisian rights activist Sihem Bensedrine is sentenced to 25 years in prison after convictions linked to a transitional justice report."
+          },
+          {
+            "title": "NGOs demand int'l action to avert 'atrocities' in Sudan's Obeid",
+            "url": "https://www.newarab.com/news/ngos-demand-intl-action-avert-atrocities-sudans-obeid",
+            "published": "2026-06-26T15:31:55+00:00",
+            "snippet": "NGOs urge UN action to prevent atrocities in Sudan's El-Obeid as fears grow of an imminent RSF offensive and worsening humanitarian crisis."
+          },
+          {
+            "title": "Sweden appoints ambassador to Syria ahead of embassy reopening",
+            "url": "https://www.newarab.com/news/sweden-appoints-ambassador-syria-ahead-embassy-reopening",
+            "published": "2026-06-26T15:27:33+00:00",
+            "snippet": "Sweden is preparing to open its embassy in Damascus after more than 14 years, as relations between the two countries improve."
+          },
+          {
             "title": "Israel expands Lebanon occupation as Hormuz tensions continue",
             "url": "https://www.newarab.com/news/israel-expands-lebanon-occupation-hormuz-tensions-continue",
             "published": "2026-06-26T14:53:32+00:00",
@@ -136,24 +154,6 @@
             "url": "https://www.newarab.com/news/loved-ones-ulm-5-speak-out-inhumane-prison-conditions",
             "published": "2026-06-26T14:07:37+00:00",
             "snippet": "Loved ones of the Ulm Five activists, detained in Berlin for allegedly breaking into a factory, have spoken out about their harsh prison conditions."
-          },
-          {
-            "title": "UpScrolled: How Issam Hijazi is challenging Big Tech censorship",
-            "url": "https://www.newarab.com/features/upscrolled-how-issam-hijazi-challenging-big-tech-censorship",
-            "published": "2026-06-26T13:48:52+00:00",
-            "snippet": "Issam Hijazi, founder of UpScrolled, is discussed for creating a platform to challenge Big Tech censorship."
-          },
-          {
-            "title": "Activist group vows more pressure on Amazon over Israel tries",
-            "url": "https://www.newarab.com/news/activist-group-vows-more-pressure-amazon-over-israel-tries",
-            "published": "2026-06-26T13:01:38+00:00",
-            "snippet": "The activist group Amazon Worker Intifada plans further action against Amazon for its contracts with Israel, alleging complicity in the Gaza conflict."
-          },
-          {
-            "title": "Syrian media restrictions raise new fears for freedom of speech",
-            "url": "https://www.newarab.com/news/syrian-media-restrictions-raise-new-fears-freedom-speech",
-            "published": "2026-06-26T12:29:06+00:00",
-            "snippet": "New media restrictions in Syria, announced by the Information Ministry, are raising concerns about freedom of speech."
           }
         ],
         "error": null
@@ -164,6 +164,12 @@
         "lang": "ar",
         "url": "https://www.almayadeen.net",
         "headlines": [
+          {
+            "title": "إيران تحذر من أي تدخل خارجي وتؤكد تمسكها بخطوطها الحمراء",
+            "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxPX3hkZ1daWjhQTkNDTS1kTGk2YmV6Rnk4LW0xU3hCTmJVVGlvZG0wWHR2YllqQlZlMlU5UnFERkpmREtKSm5qSXRyZWNqeGdNSThsdm01dXNkTEtsN1h5X1ZhMDBEWmNfTEItMlVzazJTQ05hbkRDb2NwUFR0dXprRG8xM0pBckRiZkhHdm9UOERLTTlPbXpmajh5OGRidUJaSVZzemQxM3NaVkJ1T0s0aDBtNi15Qlg4WEpFejNWcUJVeW9sUHNaS05UNGZGM1VQd0xMZ043Smx4Xy1fZDVmSmlUVFJMeDFyQ0kzdWF2Z3dsNUJfOW1VdHN4cWJkcGNqbXVPSFdMNnNXci1VWmpYcXNDeHVjWmVYQ2NJaVNRZkpEMnNnUk0wa3M4UXBvc3JwSTJBbmtYb3FCV1k4eDBFMXlySU1kOFU3bUt5QUR5RUwxaUs2ZkprM1o2ZnJDVHRURl9uYmR5RzRtNzZzQW90YnlvQUpfZmFwZGxCbHczTjc5NlY3Y0JkZzZKVDUyVF9CWUxmZG9ZV0g2XzBEanpUcXNLMTJISkMwQVAxLURFZjNhTWIyZy1zVFkxWlc1WVFmM0plMnE5QXlOdW5yTGVyeWdxZzJvWWRocVJDeEZTNVpYRXhJcERPOG5sQWdmcUxMU2FncG1iWnpCQWd0bzEtVTY5UGdnOFRWQ3RoT3RpZ3U5T2pBa1lGRTJiWWdTX2xHV3hLNVZTclNRSm85?oc=5",
+            "published": "2026-06-26T15:41:20+00:00",
+            "snippet": "إيران تحذر من أي تدخل خارجي وتؤكد تمسكها بخطوطها الحمراء almayadeen.net"
+          },
           {
             "title": "فلسطين المحتلة: مراسل الميادين في غزة: غارة وسط القطاع وأنباء عن إصابات",
             "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNZ0otdml3dUJlcmdBd1VqX2llTEd4UEI4TmY1SWFTdmEtU3JqT3lPdHVoaVJIZVo2TnhXejl5S29vam9jZ0tsRDdpUWR2cHhRYUh4aWZQRTVjd3F3aFBfeDEtX3pCR04teXRxY291bWh1Uml6eEhHVjhBbGxkUktyM2E0ZTdONl9LNHpaNmxSY3ZMQ0dCT0hjWjFiNF9ma3NCWlpraTlvTUpuTUE1aXdsX0lpdjNNWm0yeFRYa1Q3ek1XZERVeHhXWFQ2QVVHVFFoaFpTSGJMMXhKZFFKWU54bjNicm91VmdzeWZpTllHcTRRYTJLWk5nbFZSZ3NWc2pjRVdRbzhUMG90U0lGaXRQRzZ0ZXctWHV6X25KOUtlZUFucEpRQ2REOTgybGwybEh3T2tPVFMwbUhsYTNrMHFDTTQ3Z3V6N1dJUjF3YUdjRXBVZjROY3B2MzlFem1LRHZMdmpqNHRoeElRMWdmTEc2TUJ2dmVHTnhxNW8tVGJRdU9BWFZzdk5LdnIzS3hKRjdMTkY4WWtCbHNNZXlLM2t2RXVobXFRX1RBZ3E2UHFYdlVLNGhHRE9uRjNDbTVLcVp1RENmNWQ0X2RvQzJPU0VNUWlFcVFhR2ZBNzU1WlB3dkNZWDJTblB1M2ZRa2xoOVhadm9B?oc=5",
@@ -187,12 +193,6 @@
             "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd2pReGk0QUxOWW53NGRGVWx3M1V3TUF6YU1FN0JzT01BeGoyVzBnbkQ5R3FyR2hIbXBwS1AyeFlNaDdOUDBCU21HbmVERmRHem1NU2NmbWtHUkhoVmIyYVBaaUZSZEJkM2RJaTBqSHp5Ymo2RXNrQmMtWXV6MXpQUkhIOUtYcWM5enVsWHUtVm04bnlQQlgybmJ3bGFkcVNPdDl2U2x1WGU2Ry1JRGxUM0w0c3V5U2h6QjMzSlljNFFYTHhYSGpURXNmcmdBRUJub2dYc21oUHRFbFBV?oc=5",
             "published": "2026-06-26T03:00:00+00:00",
             "snippet": "A morning news bulletin was provided."
-          },
-          {
-            "title": "إيران تثبت معادلات ما بعد الحرب.. مضيق هرمز وحركة الملاحة في قلب التوازنات الجديدة",
-            "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQUklXbS1CeHFWMjRHX0NlRnotV0g3VDU3NHZDQ1dXb0loVmxuM3UzTVE2WXVHUHdTOWZzcHlmajBsa29NREthY0Nocm96aFN2RFpaWXZVczRtLWZzSHNjU1hJOHM1ZHJ0dk1CQ3gxVTBPX0R1YWR6N2hMVzY3SVpidGhLdWNqS2tFUklfaENUM3BfTnM5YUJzOEJkckxEZmFPVm5fNXNWMVJudl91UlNBazI4ZFRKNGpYTnVGQWtRWVl1cU4wdnc4SnUxeHhZelk2ZXpRclJkNGJkanc5dGsyWEpkMmVBQ2ctZDFzbXVjZUxYODljOFZrV0xOTjM2TWRnUGd2SUdoZEowM25kbHdWWTZDS1RFc3hnUURfZkxzNmdBNS1DSjE5OWRuUV84cG5oenNfSS02VHowNVNLNWJnbVROY212aHRTTDdDTmNhRVJNbGJWeEhrVFJiUTNBbjBfeGNJdGMzM013NnM1R0pUOUpIQUVOX3BnLXBHOTVJaGVZRDk0aUlSV0czUV9XRDVVdVk1eWl1X0NsbW13MEFScFVaSEFJSG5mZERpcFNERzBZaVU4YXJQb0lVZ1RtWDZhVC1HTW9rS2ZrSVMtTVdBVmIyLWw1U2xYbDg3RVo3ZzVMdXVNYWVLV0pFZlFXX1FOQVk0M3NyVGdidHIwLW96bFQ3RFFJa0tCZzJwS1NYaU9sQ29kMW1weDk4VHlwS29BUUNjNWFXVzJGMjZSOENqLXVseW9SYlU5?oc=5",
-            "published": "2026-06-26T00:53:20+00:00",
-            "snippet": "Al Mayadeen reports that Iran is establishing post-war equations, with the Strait of Hormuz and maritime navigation at the center of new balances."
           }
         ],
         "error": null
@@ -362,6 +362,12 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "وزارة الداخلية في غزة: 3 شهداء من الشرطة في قصف الاحتلال لمركبتهم في مخيم المغازي وسط القطاع",
+            "url": "https://www.almanar.com.lb/article/979647/",
+            "published": "2026-06-26T15:55:44+00:00",
+            "snippet": ""
+          },
+          {
             "title": "مراسل المنار: قوات الاحتلال الاسرائيلي تنفذ حملة تمشيط بالاسلحة الرشاشة باتجاه بلدة عين عرب",
             "url": "https://www.almanar.com.lb/article/979602/",
             "published": "2026-06-26T15:27:08+00:00",
@@ -384,12 +390,6 @@
             "url": "https://www.almanar.com.lb/article/979577/",
             "published": "2026-06-26T15:17:32+00:00",
             "snippet": ""
-          },
-          {
-            "title": "الناطق باسم حركة حماس حازم قاسم: نضع مطالب شعبنا في صلب حراكنا السياسي والدبلوماسي",
-            "url": "https://www.almanar.com.lb/article/979562/",
-            "published": "2026-06-26T15:16:23+00:00",
-            "snippet": ""
           }
         ],
         "error": null
@@ -400,6 +400,12 @@
         "lang": "en",
         "url": "https://english.wafa.ps",
         "headlines": [
+          {
+            "title": "Israeli strike kills three civilians, injures others in central Strip - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YLWNNLWl2QnVrVFczWU1JMl9sNng0U0MtMGlKX2ZtNVJLRENGWnZoSmYzeFVPQnJQUUJEMGZvdlZDd2ZPazQ0eC1sVWtSa2VzMjIyV09XQQ?oc=5",
+            "published": "2026-06-26T15:35:56+00:00",
+            "snippet": "Israeli strike kills three civilians, injures others in central Strip WAFA Agency"
+          },
           {
             "title": "Colonists attack Palestinian vehicles northwest of Ramallah - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zRGhsUGVuYjgxcVZvTHJFQ3hYRXNEWXlTN3dRaUJuT0MtYmIyQjEtczJPRWptYnlRa2cza0JPbVdPZk1KWDd4TE1TREs4aDRuWDN3dTBTZw?oc=5",
@@ -423,12 +429,6 @@
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiTHR6dW9DZWtuYjdCZnRPcXpfT1NhbzhobkVhbDF3RHVZWUU5V1V3NnExYXJWOUx3ZkZkb3M3T3QwSnNrZEZEZ0ZkdHJoNnNXNTdWWjA5QQ?oc=5",
             "published": "2026-06-26T11:57:20+00:00",
             "snippet": "Gold prices have increased as concerns over US interest rates ease, impacting the dollar."
-          },
-          {
-            "title": "Palestinian prisoner institutions: Thousands of detainees subjected daily to torture and inhumane treatment in Israeli prisons - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6Q0dWN2xSaE94Q2tBRDZGcmhjdHg5dW5LdmY1VThXQUdPTlpJNVNkOXNfQ190QWNSNDdCX1A1QmlhanR6NUh4QnFPcE13VEc5Nk9sSGJVNA?oc=5",
-            "published": "2026-06-26T11:57:20+00:00",
-            "snippet": "Palestinian prisoner institutions: Thousands of detainees subjected daily to torture and inhumane treatment in Israeli prisons WAFA Agency"
           }
         ],
         "error": null
@@ -446,10 +446,10 @@
             "snippet": "الاحتلال يغلق مسجد الرأس أمام المصلين في الخليل paltoday.ps"
           },
           {
-            "title": "الاحتلال يطلق النار اتجاه مراكب الصيادين في بحر خانيونس",
-            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQSkNid0ZwREtfX2V4ZmtISG9sLXdHakpGY0FLUjQxZTFXZXcySFBXcUZmWWJJZTlEbFp6dzdmejFsbG1KTXJsOUd3OE5FNHVnM3R4UEI2WkZpZTB3YUVhN3ZZaGtzbFloYTI1NllkbVA1Wkt5OW9xRXZnemZ0WmtZcWRSR1gxeEZHa2RuRzRpQlNIYk5qUmVBMjVlMEZVdHNIaUVNcGxfLVM3MFFFWGVMQU9MRmt5N2VZOTd3YVdZTnZHbU5WOWRobmh0UWFnZVd5N0c1OS1hbW1mYjdkVjIxS3dhZl9EclpqbEhhVGFoODVjVHhkSHNiTHU0Sy1lYzV5TzdXMDdhZ0RrbWI1b3dTSFN1QWx6bFJMNVdMVGZReUI?oc=5",
-            "published": "2026-06-26T10:21:00+00:00",
-            "snippet": "Israeli forces fired at fishing boats in the waters off Khan Younis."
+            "title": "حماس تدعو لمحاكمة مجرمي الحرب الاسرائيليين على جرائم التعذيب بحق الأسرى",
+            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPcmxQZFlXaHRpNzNURnFCaDBTVmhDX3dTMWFIUHhIaXEydlRLeEhveFdEMmlaZzNTN0t0aFc2ekZEeDVqb2FEOXR0LWllaXZhYzRoMG96Nk0tTFhXYlZTSG9Lb3J0djk4SDUyaURDcDNYbUpvLWVwYnJTUjJvclgyQzk0MkZGQUJ1S3Z0SjVNbEVtUnJqUThaVlNUNTJVYWlSa2FOM0VRVHNOajhybUh5UzlpRHRsZUt2dXI0R1JoODVmYms2dkpTOXhlOS1CbXlpYmFVNGYtZ1FhNkdwbjhJTV9LdThtTDR5WEh3T2F6OGktRmFDTHFCY3dxUVlhX1Z2Y0dsSHlrMEdKd2FwdEIyZzluS2RBNlds?oc=5",
+            "published": "2026-06-26T10:55:00+00:00",
+            "snippet": "حماس تدعو لمحاكمة مجرمي الحرب الاسرائيليين على جرائم التعذيب بحق الأسرى paltoday.ps"
           },
           {
             "title": "صيدلية طبيعية بمظهر شائك.. خبراء تغذية يكشفون الفوائد المذهلة لـ \"الخرشوف\"",
@@ -684,6 +684,12 @@
             "snippet": "A small aircraft reportedly hit Beijing's tallest building, with witnesses describing a loud crash as police blocked access and removed onlookers."
           },
           {
+            "title": "Russia, Ukraine confirm exchange of 160 prisoners of war",
+            "url": "https://www.jpost.com/international/article-900616",
+            "published": "2026-06-26T15:49:34+00:00",
+            "snippet": "Official Russian and Ukrainian sources have confirmed an exchange of 160 prisoners of war each on Friday."
+          },
+          {
             "title": "Counterprotest begins in Bnei Brak after mass traffic disruption from ultra-orthodox draft protest",
             "url": "https://www.jpost.com/israel-news/article-900613",
             "published": "2026-06-26T14:39:46+00:00",
@@ -700,12 +706,6 @@
             "url": "https://www.jpost.com/israel-news/article-900610",
             "published": "2026-06-26T14:29:58+00:00",
             "snippet": "Magen David Adom honored a Druze paramedic, Ghadir Saleh, on National Paramedic Day for her service."
-          },
-          {
-            "title": "Middle Israel: Starmer’s exit highlights instability in British politics - opinion",
-            "url": "https://www.jpost.com/opinion/article-900572",
-            "published": "2026-06-26T14:12:28+00:00",
-            "snippet": "An opinion piece discusses instability in British politics following the exit of Prime Minister Starmer."
           }
         ],
         "error": null
@@ -762,6 +762,12 @@
             "snippet": "An opinion piece discusses the significance of a rally in New York as a warning sign."
           },
           {
+            "title": "Israel-Lebanon Talks in Washington Extended to Fourth Day Amid Deadlock on Hezbollah Cease-fire, IDF Withdrawal",
+            "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQY0REb2dEeG0xR1lTTGZKTFdkSk5nNDVzVWtkcEgxZVB6UVZoMXhGWkFOSHhqbmx3SGtrVUkwRXJQbmx3blJ1WVREZlV2eVN5RjNHTnR4R0NGd2VMZXYxNVdIM3ZTUW5tMzFkeDJUcWx6c2s5azNhNDN4WmxqbHd1REdtN1UyRE5idWpEWHRoVXN1WmYtTXR5VWp6VThSeTV4Yk1ac0dfNkJxVUNmLXd6ajlSRkJHT3RMYnpmUVUtMkZMZEhZZGtGb2VRQXYtTUtILUdBOWZHWDdEcGF1QU1sejQxZHJ1Vy05TXhpdkY3SnNMcXJ4RkJ4YmtrRjN1a2I3X0x3MHRWN0xNT0pRWVM1YUd6NDk2bWpNMTZN?oc=5",
+            "published": "2026-06-26T08:15:00+00:00",
+            "snippet": "Israel-Lebanon Talks in Washington Extended to Fourth Day Amid Deadlock on Hezbollah Cease-fire, IDF Withdrawal Haaretz"
+          },
+          {
             "title": "Opinion • The burden of being Jewish in America's race war",
             "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTU1VaGQzVDhwcWU4VjlzZE5qcWxWdTE4TG9zZ0g0cHJWYU5XNmZBUlJielhQcVVNY053OWo5bDFmbGl6QlR5VEt0eDVYMzJfN3lSb3IxbXBya0doY3ZWX0dFRUdnUTREbUJpOWU0Q25zbFBOZUZNQmVZRzlyZC1xdkNtT056UDlodklrTXNLX1JNSXNVNnFOaFlWM2s0MGYxbUlEU3laMzhCa2JVV0YtVjRBSmdxMVlaVWZleVpzSDFrOV80Vnk5clBuOUFEMXNpNV81WWJuSjlRdXVyMmpZUGs1UGllTDVpRXo2Vmd3?oc=5",
             "published": "2026-06-26T05:35:00+00:00",
@@ -778,12 +784,6 @@
             "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOX0RpenFWWkRBY1ZOWndsYmxuZ1RZRkJETS1QblFiTW83d2FmQmlTR3lyY1Z2VmpXb29HVUNXT0JPcFAzN1J4RXBJc3IzMnRnVXN1RUJCanAtTWtqd1pnSWNDemNLY3ptU2VtSVA4akZNcF9lLTZvSUtuVTd4ZHlCN2V3NEFOMXJaT2tVbE50WmpCYnBLaEFRSEh0b3czRkhxZktyb1Vmc3JfbUxzS0oydXBaZFRhWDBQUUFVbHJMeC1ZaWJoa1F4MGYtN2lnZmhsQlVHNktma1ZsZ2w3N1B2NWswZ1JLbm1KSllsWV84bWFwNjREdVZXRUN2R0IxNzktSnFYeS1mMmZ0OVJvc3h4T2hrMUpFaGJNajZTcA?oc=5",
             "published": "2026-06-26T03:02:00+00:00",
             "snippet": "An analysis argues that Netanyahu's claims of autonomy in Lebanon are undermined by Trump's pressure."
-          },
-          {
-            "title": "'Enough Time Has Passed' Since October 7, Shin Bet Chief Reportedly Tells Bereaved Families",
-            "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWmFDVEtERXRPNS1KYXhGdjlyTUw2ZGxMRGZ6Y2JoTkF5RUhVdURhX09sVnJyaVE4X01RQ3JPT05oeWNkZHBnR3BIUkNXU0pNQ2lwUGI3U1VEWV9wWmNpdXhkcFJhS3ZBZlBGS1MyQW5LU09zMzhQUFdMcnhOUFhCVXZCcExSa2dxM3M2Uy1zd1dVc3JmWnY2TjlGNHZNa1dYZHFXX2U1Wk9MTFpLQ29qc2dkNzV3MFJYam9paGFudXQtQ195Zm82Znotc0NaUFZCRzZ1aFhIOGR3T3B2OTdTV1ppX2F2dEs4S19OazJxWXVuOEdzOEQteHh0TWtuQVp2M0RDLUFWc3pJYy0xcDR3Y2NESHBiVkhqcEM0?oc=5",
-            "published": "2026-06-25T21:18:00+00:00",
-            "snippet": "The Shin Bet Chief has reportedly told bereaved families that 'Enough Time Has Passed' since October 7."
           }
         ],
         "error": null
@@ -796,6 +796,18 @@
         "lang": "en",
         "url": "https://en.irna.ir",
         "headlines": [
+          {
+            "title": "Crew of tanker illegally seized by US released to Iran consulate in Karachi",
+            "url": "https://en.irna.ir/news/86193302/Crew-of-tanker-illegally-seized-by-US-released-to-Iran-consulate",
+            "published": "2026-06-26T15:44:51+00:00",
+            "snippet": "Islamabad, IRNA — Following extensive diplomatic efforts, 22 Iranian crew members from a tanker illegally seized by the United States in international waters were handed over to Iran’s consulate in Pakistan's Karachi on June 26."
+          },
+          {
+            "title": "Iran slams joint US-PGCC statement as ‘distortion of truth’",
+            "url": "https://en.irna.ir/news/86193312/Iran-slams-joint-US-PGCC-statement-as-distortion-of-truth",
+            "published": "2026-06-26T15:30:09+00:00",
+            "snippet": "Tehran, IRNA — Iran's Foreign Ministry spokesperson criticized the recent joint statement issued by the United States and the Persian Gulf Cooperation Council, describing it as a “distortion of truth” and a stubborn persistence in repeating past mistakes."
+          },
           {
             "title": "Iran mocks US-style ‘solution’ to hunger crisis",
             "url": "https://en.irna.ir/news/86193264/Iran-mocks-US-style-solution-to-hunger-crisis",
@@ -813,18 +825,6 @@
             "url": "https://en.irna.ir/news/86193205/Iran-Uzbekistan-FMs-discuss-bilateral-ties-regional-issues",
             "published": "2026-06-26T11:16:21+00:00",
             "snippet": "The foreign ministers of Iran and Uzbekistan discussed bilateral relations and regional developments in a phone call."
-          },
-          {
-            "title": "Hezbollah chief hails Islamabad MoU as defeat for US, Israeli regime",
-            "url": "https://en.irna.ir/news/86193140/Hezbollah-chief-hails-Islamabad-MoU-as-defeat-for-US-Israeli",
-            "published": "2026-06-26T10:42:37+00:00",
-            "snippet": "Hezbollah Secretary-General Sheikh Naim Qassem hailed the Islamabad MoU as a defeat for the US and the Israeli regime, signaling a failure of their regional projects."
-          },
-          {
-            "title": "South Korean FM voices support for diplomatic efforts in West Asia",
-            "url": "https://en.irna.ir/news/86193114/South-Korean-FM-voices-support-for-diplomatic-efforts-in-West",
-            "published": "2026-06-26T09:53:18+00:00",
-            "snippet": "South Korean Foreign Minister Cho Hyun expressed support for diplomatic efforts aimed at maintaining peace and stability in West Asia."
           }
         ],
         "error": null
