@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:24:05.091677+00:00",
+  "updated": "2026-06-26T02:53:13.912325+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
+            "url": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
+            "published": "2026-06-26T02:35:10+00:00",
+            "snippet": "Brent crude rises after cargo ship comes under attack in key waterway."
+          },
           {
             "title": "Hundreds trapped beneath buildings a day after Venezuela’s twin earthquakes",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/hundreds-trapped-beneath-buildings-a-day-after-venezuelas-twin-earthquakes?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/shia-pilgrims-gather-in-iraqs-holy-city-of-karbala-to-mark-ashura?traffic_source=rss",
             "published": "2026-06-26T00:53:30+00:00",
             "snippet": "Shia Muslims gathered in the Iraqi city of Karbala to mark Ashura"
-          },
-          {
-            "title": "Plan Intl: ‘Mental health impact of Venezuelan quakes can last for years’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/plan-intl-mental-health-impact-of-venezuelan-quakes-can-last-for-years?traffic_source=rss",
-            "published": "2026-06-26T00:36:08+00:00",
-            "snippet": "Plan International emphasized that children and young people must be central to Venezuela's earthquake response. The organization stated that the mental health impact of the quakes on young individuals could persist for years."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Israel vows to maintain military presence in Lebanon, Gaza and Syria",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-vows-maintain-military-presence-lebanon-gaza-and-syria",
+            "published": "2026-06-26T02:51:17+00:00",
+            "snippet": "Israel vows to maintain military presence in Lebanon, Gaza and Syria Israeli Prime Minister Benjamin Netanyahu and defence minister Israel Katz said Israeli forces will remain in parts of southern Lebanon, Syria and Gaza for as long as the government considers necessary, reaffirming Israel's intenti"
+          },
           {
             "title": "Germany holds naval exercise with Israel amid Gaza war",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/german-and-israeli-navies-conduct-joint-haifa-drill",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-more-south-korean-ships-exit-hormuz-ministry-says",
             "published": "2026-06-26T01:31:31+00:00",
             "snippet": "Eight more South Korean ships exit Hormuz, ministry says Eight additional South Korean vessels have departed the Strait of Hormuz as security concerns persist in the strategic waterway, Reuters, citing South Korea's oceans ministry, reported."
-          },
-          {
-            "title": "Trump says released Iran funds to be spent on US crops",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-released-iran-funds-be-spent-us-crops",
-            "published": "2026-06-26T01:05:51+00:00",
-            "snippet": "Trump says released Iran funds to be spent on US crops US President Donald Trump said unfrozen Iranian assets will be used to purchase American agricultural products, including wheat, soybeans and corn, under the framework of the recent agreement with Tehran."
           }
         ],
         "error": null
@@ -112,7 +112,7 @@
           },
           {
             "title": "Israel must withdraw entirely from Lebanon, Iran’s IRGC says",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTRCLVFKT2NKaDBMREhlSWpfaVZmdVBNbS1oWENTSEltb0UwWTk0VDVIWHd3Y2szOVZTNk53ZnFHZmFSRnFjSGFhMzRZbHBvcHdDVmpuNVd5Yml6VFZRYmRZTjZlcUVMS2d0dTliVUVlMV9famZYUVk3R0VEdEtoNGNoN0pzMUxidFBpT1lBdUpPT1ZMMnY1U0xJN081YXNhYjRIeXlFTVo3ajlZeGhybW56ZlNMNjVmX3fSAb8BQVVfeXFMTU5VT3FkMWZlUjg1REhXc2xYLUg1WlpqRG1iazdja19fWC1fTko0amQ5THY3S09Wc3c1dXE5OVhlZFRGWnBhcFhxQy1MZTdCenN2QlV6Z0p4Um5UNVMzYkFBYks0MWVVS2JPYlRDajlWbkJ4S1k5SWg1MGx0MWtOcU1tQzMyT0ktcVdJVng2WnRPdzlnLWxGOWtyallfc0RqRGd0TDVqNGwwR1kyYWdRRWc1bXN2dmJMYVRYVmQtNGM?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlVPcWQxZmVSODVESFdzbFgtSDVaWmpEbWJrN2NrX19YLV9OSjRqZDlMdjdLT1ZzdzV1cTk5WGVkVEZacGFwWHFDLUxlN0J6c3ZCVXpnSnhSblQ1UzNiQUFiSzQxZVVLYk9iVENqOVZuQnhLWTlJaDUwbHQxa05xTW1DMzJPSS1xV0lWeDZadE93OWctbEY5a3JqWV9zRGpEZ3RMNWo0bDBHWTJhZ1FFZzVtc3Z2YkxhVFhWZC00Y9IBvwFBVV95cUxNTlVPcWQxZmVSODVESFdzbFgtSDVaWmpEbWJrN2NrX19YLV9OSjRqZDlMdjdLT1ZzdzV1cTk5WGVkVEZacGFwWHFDLUxlN0J6c3ZCVXpnSnhSblQ1UzNiQUFiSzQxZVVLYk9iVENqOVZuQnhLWTlJaDUwbHQxa05xTW1DMzJPSS1xV0lWeDZadE93OWctbEY5a3JqWV9zRGpEZ3RMNWo0bDBHWTJhZ1FFZzVtc3Z2YkxhVFhWZC00Yw?oc=5",
             "published": "2026-06-25T12:16:00+00:00",
             "snippet": "Iran's IRGC has stated that Israel must withdraw entirely from Lebanon. This demand comes amid ongoing tensions and military presence in the region."
           }
@@ -165,34 +165,34 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
-            "title": "إيران تثبت معادلات ما بعد الحرب.. مضيق هرمز وحركة الملاحة في قلب التوازنات الجديدة",
-            "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQUklXbS1CeHFWMjRHX0NlRnotV0g3VDU3NHZDQ1dXb0loVmxuM3UzTVE2WXVHUHdTOWZzcHlmajBsa29NREthY0Nocm96aFN2RFpaWXZVczRtLWZzSHNjU1hJOHM1ZHJ0dk1CQ3gxVTBPX0R1YWR6N2hMVzY3SVpidGhLdWNqS2tFUklfaENUM3BfTnM5YUJzOEJkckxEZmFPVm5fNXNWMVJudl91UlNBazI4ZFRKNGpYTnVGQWtRWVl1cU4wdnc4SnUxeHhZelk2ZXpRclJkNGJkanc5dGsyWEpkMmVBQ2ctZDFzbXVjZUxYODljOFZrV0xOTjM2TWRnUGd2SUdoZEowM25kbHdWWTZDS1RFc3hnUURfZkxzNmdBNS1DSjE5OWRuUV84cG5oenNfSS02VHowNVNLNWJnbVROY212aHRTTDdDTmNhRVJNbGJWeEhrVFJiUTNBbjBfeGNJdGMzM013NnM1R0pUOUpIQUVOX3BnLXBHOTVJaGVZRDk0aUlSV0czUV9XRDVVdVk1eWl1X0NsbW13MEFScFVaSEFJSG5mZERpcFNERzBZaVU4YXJQb0lVZ1RtWDZhVC1HTW9rS2ZrSVMtTVdBVmIyLWw1U2xYbDg3RVo3ZzVMdXVNYWVLV0pFZlFXX1FOQVk0M3NyVGdidHIwLW96bFQ3RFFJa0tCZzJwS1NYaU9sQ29kMW1weDk4VHlwS29BUUNjNWFXVzJGMjZSOENqLXVseW9SYlU5?oc=5",
-            "published": "2026-06-26T00:53:20+00:00",
-            "snippet": "Iran is reportedly establishing new post-war dynamics concerning the Strait of Hormuz and maritime navigation. These developments are central to the emerging regional balances."
+            "title": "الإمارات: روبيو يناقش مع ابن زايد أمن مضيق هرمز والتفاهم مع إيران",
+            "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQcjRqN1NBbjl5dVk0UEd2dmZIZ2JxUmpWeDVGR2luUUdGaU1UNVJuN0VsOUJNZ21Kb25vbXdtMzB3MEtyMC1mOHhNaGZNMlhlSGhSazg0S1liSFVNWWxqTFVTbG1CYVh0YVh1clVDOTA2VVdRTFY4YXY4ZEpDNEhkSFF3em02UWZjdWFtbmZFTkktemp4ZzZoNlUxa3c0VmZFUXNzY0l3cnVlcDVPSzVRaVluNno0LVNheEVqMVdmTGpkWV84MnVFX1czUzZrXzBuZktaV2V2SW9mWks3V2NFTlpQZEpvalY5dGh3N3NRVjdGUGZ3clRaTGg4VnBMc1BjejYzSnVCb2M4b3YxWFVCWHZqS1N1UTRrTWlpeU51c2pyTXBqQXA3Zjcxdk1oRkpjVkdycHhVN01rdVBsXzlITEl3cDVkbnBOQkNXOElOTFUwaHh2OXI0MWRULUxBVWotUDJTRmRMMTd2dDFrQ3VaeFQwWURsbVB2VXJ3QVotcU4wdVQ4VnFyNzJCcHpvcnRuamJUOHhJTTVyeWdab3Qyc3F6S2k4ZXNGTFltVVdUNGZvWVdhVDJsb2F4Z2E1VEJTX0xqRDBONmlCSTJYMEJOTnZpQzZFS2tQQkE4SUlKeGhtYlltb2fSAeYDQVVfeXFMUHI0ajdTQW45eXVZNFBHdnZmSGdicVJqVng1RkdpblFHRmlNVDVSbjdFbDlCTWdtSm9ub213bTMwdzBLcjAtZjh4TWhmTTJYZUhoUms4NEtZYkhVTVlsakxVU2xtQmFYdGFYdXJVQzkwNlVXUUxWOGF2OGRKQzRIZEhRd3ptNlFmY3VhbW5mRU5JLXpqeGc2aDZVMWt3NFZmRVFzc2NJd3J1ZXA1T0s1UWlZbjZ6NC1TYXhFajFXZkxqZFlfODJ1RV9XM1M2a18wbmZLWldldklvZlpLN1djRU5aUGRKb2pWOXRodzdzUVY3RlBmd3JUWkxoOFZwTHNQY3o2M0p1Qm9jOG92MVhVQlh2aktTdVE0a01paXlOdXNqck1wakFwN2Y3MXZNaEZKY1ZHcnB4VTdNa3VQbF85SExJd3A1ZG5wTkJDVzhJTkxVMGh4djlyNDFkVC1MQVVqLVAyU0ZkTDE3dnQxa0N1WnhUMFlEbG1QdlVyd0FaLXFOMHVUOFZxcjcyQnB6b3J0bmpiVDh4SU01cnlnWm90MnNxektpOGVzRkxZbVVXVDRmb1lXYVQybG9heGdhNVRCU19MakQwTjZpQkkyWDBCTk52aUM2RUtrUEJBOElJSnhobWJZbW9n?oc=5",
+            "published": "2026-06-24T17:41:00+00:00",
+            "snippet": "الإمارات: روبيو يناقش مع ابن زايد أمن مضيق هرمز والتفاهم مع إيران almayadeen.net"
           },
           {
-            "title": "الاحتلال الإسرائيلي يوسع سيطرته على المواقع الأثرية في الضفة الغربية",
-            "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQUWpZRmowLTJPY21NWUNVdzA5dzdWRjBlaVg5WDZ2cExUWWJmb3RuOEtiRDVZZEdzNW9LM0RaMjhfQzN0Y2kzei1kRlphQktlYVdGRWdXZy1tSWl3RWE3Q2tILUxtS2pzaEtwdzZueVp5R0l0b1Nyem1NT2tDc2d2aEpPRGNaY0JhOFFzb2tDTzhNRlFidk0zRlBTdVdUUVQxR3hCMUJPenlCUnYwUjRGRUhma1o2dWRBaE9JUGhVLTJvdlpPaXZhRzdndHJTbXBPVFBaR1lfelMtUlctZWRHQzZjX3V1Y3NEeF9tZllUdGpKcFU5N2lVUUFiVzhKWVBqak1QdXFDRjFOQTVEWVhGekJJU05FTDBKMGxteVZMMlR3eHJuZldNN0g4bjc5WlFzN3RNWElWX2w2aERjSExhc3hlUjdaNTh3ZzJmd2RJbG1yVzl2YWwyU1FuYUh2NG93NXY2aUtBRVBJaWJDVEJyTkR5RFlsUm5HOEJRcFdINFBUMWZ1eGdsRDJFWTFtSl9WRFBwZEJmTGtscWdUamlkeDhod0NhVTJfZ0lWZXpNTGEtNDBrcVZkSnBFQVBCUV9JUUdaLW5Gb0hmUXVFcjdseHpQeGM4Z3d3RzlUQ0xaMjBER0tCeXhvVWx6eDVJLUlTTm5PR1MtVk9ZZw?oc=5",
-            "published": "2026-06-25T23:27:59+00:00",
-            "snippet": "الاحتلال الإسرائيلي يوسع سيطرته على المواقع الأثرية في الضفة الغربية almayadeen.net"
+            "title": "لبنان: الشيخ نعيم قاسم: دخلنا القتال بالاستناد إلى إيران فأضفنا قوة إلى قوتنا الموجودة لدينا.. \"هذه شطارة\"",
+            "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQMjk3bDRjcDFsekdVRy1KS1psNzBFalJXYWtSUFdVODNKNVNhWC1XVHhVaGUtd3ZHODVRdmhFTTBWQkx5aEFQWEZYLUtNbDhHckVEQUU0dXdXVDIxRnNQaVU4SWNLNWo4UGxRMHdrempTYU95RktaNnlabDN6VTlaSXdCVWg2cHY1RmZNd2F1ay1rbGIzVVRjc3pqSHFTeHpnNnJmbUp5YS1YemE4T0VMLThpendkb21fVFhtT1g3YWxvaXFsTGVYVHdLcHlhc0pxeEZwb0NSUlBYOTJCeUlWYk10TU5aUFdYUUZMQmdEOWc2eGZQc3g0QXJJNTF6VzFVVzRzd2R0Sk5oMHFabl9JdHU3S0haSTJuNVQxcF9XTk9NbmVFVEVUMzgtTkxKY3hzWnh1aV9tem5HSm04NGNwVEliQ0xhY01PaUtpM0ozVlBjakRWZzJ3bU9IT3kxQ0pneEJPemZWVEFPcTZydDBSb0ZOMFpOY1VHUnN6QkdvWkZydjRwS0xNUThwYmV2M1BFendzbmdrMkJpUl9EUzdobTNHTDBTd1k3dnlEOUYxd1VTYlRVWmxXaTB3Vm9TYUNsaWFzeldBaEl6b2pDNVplYzVQckFncC1YSEFKaTU4SU41RHk2NEJveXp2T3pKcTdKeGJR?oc=5",
+            "published": "2026-06-23T16:06:56+00:00",
+            "snippet": "لبنان: الشيخ نعيم قاسم: دخلنا القتال بالاستناد إلى إيران فأضفنا قوة إلى قوتنا الموجودة لدينا.. \"هذه شطارة\" almayadeen.net"
           },
           {
-            "title": "عاشوراء في طهران.. كربلاء حاضرة في ثقافة المقاومة والكرامة",
-            "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPdzY3UUxtd0lMY00zZFl2bnNPT24xelJpV3NVa3hFT1JyOXByTVh3QUVBd2lKUS0wTVk3M1ZhZTEzUkJBWXVGTklXbGp1R0toSE10QWQxWnFWMHlKaFFnTUVHUllOZHVfVTlQOFRlOTRZbUFKdDVtWHN1LVBwdGpiX3lFVU00RjlpeDVCN0tORzhYY3NqemNaZFc0c0VHYXFfanRsQXhMV09lWUpWZl9RblhNVFUwY2tTUkFOX0VpSU9ZYWMwU2x0c1BVdXhyOFJudlQ5VHJKZmhFRzFEb1dMeXB3MkUtMDdrYlJ3YXl2a2Y5WS1Ock1lc0dzSVdIWkt6SVNTbWhTeFV5U3cza2VXS0lEWHVtN3AzZkdES1cwZjhMeG5NT2RMMjA5RDlxR2ktQjVkY3h4V1FHMmM1Y3o0aWQ3eWlaYkE0MnJ6ZnNYMFBpM1FCYkZmUDQ3RUtnN2MwWTF5RGJNcDh2VFJwS0FCSDk5MUpxZ2N5MS1qR3NEYXNxME1kMVRnM2lHSnd4VnlDb1Iyc0JGVE9QQW03UU1Bc3FSdXk0Qi1QdnRuQWVLOHJMdDNBcUtfelo0Sk5qdDZuSy1MQzV2V1NaRFJteDIzVGNkNHVCbHpxWmF4QQ?oc=5",
-            "published": "2026-06-25T23:20:17+00:00",
-            "snippet": "عاشوراء في طهران.. كربلاء حاضرة في ثقافة المقاومة والكرامة almayadeen.net"
+            "title": "لبنان: الشيخ نعيم قاسم: تبين أن هناك اتفاقاً بين أميركا و\"إسرائيل\" أن أكملوا عليهم... أميركا ليست ضامناً",
+            "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQLW9oZnViT3ZYejNJOTduRGJ1T2dISW5pUlhyUXVqX0hCcE1PNjZCR21oY1pCcElNMnRCdTI4LVhoTGtwdXMxRF9YMFphUzZVMzludWkzV2p0NzR2elhJbGcwSWo4TmVPQkVzY2h5NVE2NU0zb1dnVmV1bUF4TFFKNlhQWmZFSFBIRTN1NG1GZ0RaeEh0MGt6Zy1wMko1S2ZTU09PRGJtWlM0bVlsT2k0amd3c1Brekx4MFhoVmM3dXZ0eWZJdEpURnlKOW9IN1FpRDExbU5IQWdGS3EwQ0hlMmxoNmVfUXpubkxnU0VFbEFZeVlYaGwxQ09jUmhDVGpGQ3U1ZUlUNV8wRnlEVzBUWjFqUzdzd1U3TEtqMG1qS2tSeGZFLS1TRlNJNWZLZGFRd3FSdGY3V3NqVGxGdzFSMlBVMTBXci1BUl9jcHRTWGF6eE9LVHpERmZxZnFLMGFyNmU0WHRmVXhiUlpTZ2hERmFwZy1CSFZHTGJmZk1aaFF1X3MtanlMVnBfYlJPSUVILVhCd2cxNl9JblZENXR0SHhXYWQ5STJyQ2E4VExlSEtueGlkQ3hrbmQ1VFZmZ1B4NDFNLXRGY1dTc0Nkb2J0YTFvcWozQ0RqX1l2NHllZmZQOHFDbmc?oc=5",
+            "published": "2026-06-23T15:50:52+00:00",
+            "snippet": "لبنان: الشيخ نعيم قاسم: تبين أن هناك اتفاقاً بين أميركا و\"إسرائيل\" أن أكملوا عليهم... أميركا ليست ضامناً almayadeen.net"
           },
           {
-            "title": "من الناتو إلى غزة.. ملفات ساخنة ترسم ملامح المرحلة المقبلة",
-            "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxQQkV5QmdndF9veGVSOWZfeGVReTRMMEloV2pQNXJESF9mVTBDSENjVjRhOE85S0VvQWJFcV9WeVFRQWxIckpOZnF2QlNUaG5obHN6SHdudGZQeC1YQ2dCUGZWTjJSMEVTYlBObkRUZUZqdVlhMDM1YUZwanF1OG84dEsyRmZpWWo0R09IbEh0Y0o1SkplZ1hHRUhpeGJ4a1VaU2RzdVZza2diRzhvNFVHSGJmbWhGTnRHWGdGWUdjSW96TlpwTGZWU2RLQ0VkYl9XRGtLbEljbmphM2pKSXJDNTVfZWFfdWdRcVNodmdhb1RyLTRfTmMtenpDeEs0ZXBZNFk3dDFnZ2lNZ0R0S0RJVWgtblZ5WThOcXZ6NklyTnB1czBtSmdUc3dseUVmVUIxOEN2WEc0OThhalF3NmN4aG4xaGgxSGgybVBLWXFJeW1nYVJKVUFVZTU5VV80T2RzaWlZcjJzQ3VsMHV0ejBkZF96VUp5QXVNS3dFWElBdHhzUDVyUnl5SjUzZU8xb2wwOWd1cWQ5Mzd1WVBQNEJKQl9VRXpRbF9SY1UtRDduc0NWaV9RQnk0dUxkbmlVWEw3TVpBX2R4Vk9MZ3AzamNQMGtDa3lyVXAwS0s4bWp5WFV0cTJIUVV3Y3pPZWRHVzJMS1lvMmFrZzJ4UGtwT1ljMmtsbzRTMVZ4MTZlQ2thelF5Wmsxb3dodUxTZ25XVXNqTHRUYXZTYjVJS0Q5MElET3JaZVk5STM2al9FRTZDaXFJT3I1UFh6ckRIRHRKSEk?oc=5",
-            "published": "2026-06-25T22:23:31+00:00",
-            "snippet": "Various critical issues, ranging from NATO to Gaza, are shaping the upcoming phase. These topics are considered significant in the current geopolitical landscape."
+            "title": "الفاتيكان: البابا ليو الثالث عشر منتقداً قادة العالم لدعمهم الحروب بدلا من إطعام الجياع: يعكس خللاً جوهرياً في الأولويات السياسية والأخلاقية",
+            "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPR1FaeklrRFVzSlpCN0czeHlaMFVHWGRpZHQ2MlBPZVJ4UWFfNmhSZzBsVU0tS1FFYUNrVnQtRDJQazBrMnhNdEd0U0hmYTYtQXhRM2NxNjdQTHpQZVJoNHcyMllhcHh0Q2dOTGp0VzVSLTVUOHItbEhTcGZQSUtMQVdKZEdjRHczWkZodTJrcTdsRk5KY1pBekw4aldPcUs1cndmSlVTT1ZqRVpkSEhSOEFlTzdPaWVPRTJpS0otT2RQbUZhazRURmc1U08wSXZLNzhaS1Z3dmRwdnNtbVhmTW8yUWxKeWk1d2dzbGp4cklaN0hTRzdDd2tFcUxqcG05akNxYkFaUVBrQ0V1X21yekFMTXYxbFhsVFF2cHkwSXQwVzZmX0k1cFdCblFlQV92cHNXc0d3UWZNdGFKQ1plbUVwTEEtdnJrc3FYRUZka2lpZE51Ymw4eUVVNFZWTHNuS2MyVGRtQW5QYlMzdENOcENsYTIwaFZ5QTlwRF9EMzZxNkhJSXJCMmotNWRWY0h0R1FTR0xINHJFMVh4b2wtMEFoS2gwSFdlcUZ4WU9rOF9WX2hqR0ZHUFBmTjdrZ3ktTnpYWVRBMFhjVXdnZzgwSzk4TGg1aVJ6bkY2dzhPZ3BGREJyOFFmN3N6OVVHLUFVTWZwVGZyQU01Zw?oc=5",
+            "published": "2026-06-23T09:50:30+00:00",
+            "snippet": "الفاتيكان: البابا ليو الثالث عشر منتقداً قادة العالم لدعمهم الحروب بدلا من إطعام الجياع: يعكس خللاً جوهرياً في الأولويات السياسية والأخلاقية almayadeen.net"
           },
           {
-            "title": "رحيمي للميادين: إيران لم ولن توافق على شراء مواد غذائية من واشنطن",
-            "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOSUhCVXJJVGpiTGJGekNnbEk1TzZSbllDcFpwVUc2eXZPdnkwS1d2M1VPcW9Yck10TjIzd1JOMWhvSFFSbTVmTEx4eGZrcl9VQTdVUEh5ck1kTGdHSTJGZzM4dlNpTnBaX0dYOE1pZl9Td1VwY1lWUGNESmctVVdvRDI1OENLWWNfQUpRSzQtdGtTS0VINXF4WGJ6MjR6WXpac2gyZENKdDl0d3ROWV9mYmZ3Q3R5QU92YXZPY19wNTFPck5hcHdrMUxNel9rYlV1NDNGUDVEbXhqQXNKNHpDS0h5Zm1PNERZbTFkWlRRanBZNXlBMlppaFlqblZEc1VaSzNiX25zbWNLUWNfZFJNQUIzMU45enBqd0VkRnBLbTRPaXpkcnZsSTlZdllSbXZPVFpWaEN2S3FJSmc2dzRZaHU1bVlFVlRHTE8zVDEzTFJVMEk5SEJycFdmUGNrOWd1U2syZDh6OWNTYmRkVEFEWDBrTUZTUzZwT0NsLXpySkdsckd3dUQwUEg4WDFvcG1oNUM3RmlmQWxmd0V6OWQ4ZElKd1NRcTdSR1VfNjNkdUZPV3BLNGVtZGhUUGMxd2dnTkZLOFZINVBBeU1UY3JTaGRqem9DQl82ZHd3YnFLVnZ1VWFRSVNUUFFMRmdXeWFIazAzOWV0TkZWUkp2aGdUVVoxS1kwWkUwWGEzeEJqbHljYVFaYk1wbGFNVFB4eVQzR1pNYnozODRnSnBKUkVQSjY3aUFwNjY3?oc=5",
-            "published": "2026-06-25T20:23:00+00:00",
-            "snippet": "An Iranian official stated that Iran will not agree to purchase food from Washington. This position was reiterated, emphasizing Iran's stance on the matter."
+            "title": "مندوب إيران لدى الأمم المتحدة في جنيف: تعليقات ترامب تعرّض محادثات سويسرا لخطر جسيم للغاية",
+            "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxOdzZ2WWxaRGFxY2RWUUdDdGU2M1hiNnl1Sjg0NXV6UENIWlVWbW9aYmdqZTVoaS1JdnV6MzhDeml6alRMNHhjUmcyQlVtUXVFNzdTX1ZmRDQ4c1VmSXhZWUhfZDY2SGprMDlhbVhja0V6MG1CSW5POFJzSUhmdFZYTUNsRXdFMzI5TXRzc3lza2lUM1JsSUFQVzVaX3Q2VFREdHczY0RCaU5TamMwMy1lWVYxOEkwdkM4aHBmQ2R6bDNYMjlnUDh0TF9WbXg1WHp4WkE0U0tvRTNkdTNkOEtYVzRlSmdFYk9GZFJjdXpUOFRQam8yejR1MnJlOUwyMjYwZFdiRUVqdDcxaDhhVXpQZTJUUFpFTTJlUTZ1TE9RQXU3UHlweVpiY0JubWE5LU1pMkVEMHo1NGxSOVl6LTZfSkhReEswY0FlVEpXeVNaTzNDVnQ0R25CTG1qbzhmQXdIT0ZlMjIzaXRaVDlMdlFQeGZ5d1M5SHE1LTV5el9paHV2d2JtVEtfYjFSdDlqd3hvbGxPdjFQN2VGbGNyUzdHckJpZUJSTXJCcGRUbDJ1Z3pJTS1hR25MeU1YRGZMWGVtWlE2VVdnU0xWUm40UERCQ0Z1MnlhSkloa2xTZHpyS2RzNTZOTTdDazljRllMRmV1N3NB?oc=5",
+            "published": "2026-06-23T09:10:34+00:00",
+            "snippet": "مندوب إيران لدى الأمم المتحدة في جنيف: تعليقات ترامب تعرّض محادثات سويسرا لخطر جسيم للغاية almayadeen.net"
           }
         ],
         "error": null
@@ -362,33 +362,33 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "الدفاع الجوي الروسي يسقط 23 طائرة مسيرة كانت متجهة نحو موسكو",
-            "url": "https://www.almanar.com.lb/article/977872/",
-            "published": "2026-06-26T01:58:06+00:00",
-            "snippet": "أعلن عمدة العاصمة الروسية سيرغي سوبيانين، اليوم الجمعة، أن أنظمة الدفاع الجوي أسقطت 23 طائرة مسيرة كانت متجهة نحو موسكو. وقال سوبيانين عبر منصة “ماكس”: “أسقطت أنظمة الدفاع الجوي الروسية 10 طائرات مسيرة كانت متجهة نحو موسكو."
-          },
-          {
-            "title": "وزارة الصحة الفنزويلية: ارتفاع عدد القتلى جراء الزلزال الذي ضرب البلاد إلى 235",
-            "url": "https://www.almanar.com.lb/article/977862/",
-            "published": "2026-06-26T01:29:55+00:00",
+            "title": "قوات الاحتلال تداهم المنازل خلال اقتحامها المتواصل لبلدة اليامون غرب جنين",
+            "url": "https://www.almanar.com.lb/article/977942/",
+            "published": "2026-06-26T02:51:13+00:00",
             "snippet": ""
           },
           {
-            "title": "ترامب: مضيق هرمز مفتوح وشهد بالأمس خروج 19 مليون برميل نفط وهو الرقم الأعلى في تاريخه",
-            "url": "https://www.almanar.com.lb/article/977852/",
-            "published": "2026-06-26T01:28:07+00:00",
+            "title": "إصابة شاب فلسطيني برصاص جنود الاحتلال في محيط مقابر النمساوي غربي خانيونس جنوبي قطاع غزة",
+            "url": "https://www.almanar.com.lb/article/977932/",
+            "published": "2026-06-26T02:49:59+00:00",
             "snippet": ""
           },
           {
-            "title": "قوات الاحتلال تقتحم بلدة اليامون غربي جنين شمالي الضفة الغربية",
-            "url": "https://www.almanar.com.lb/article/977842/",
-            "published": "2026-06-26T01:14:13+00:00",
+            "title": "فنزويلا | صور الأقمار الاصطناعية تُظهر حجم الدمار الذي خلّفه زلزالان قويان ضربا منطقة لا غوايرا الساحلية",
+            "url": "https://www.almanar.com.lb/article/977917/",
+            "published": "2026-06-26T02:41:10+00:00",
+            "snippet": "كشفت صور أقمار اصطناعية جديدة عن حجم الخراب الذي خلّفه زلزالان قويان ضربا شمال فنزويلا، حيث تظهر مشاهد “قبل وبعد” دماراً واسعاً في منطقة لا غوايرا الساحلية التي تُعدّ الأكثر تضرراً."
+          },
+          {
+            "title": "متظاهرون في العاصمة الإيطالية يطالبون بلدية روما بإنهاء تعاونها مع كيان الاحتلال الصهيوني",
+            "url": "https://www.almanar.com.lb/article/977907/",
+            "published": "2026-06-26T02:36:30+00:00",
             "snippet": ""
           },
           {
-            "title": "قوات الاحتلال تداهم منزل الأسير خليل عماد العمور ومنزلي والده وشقيقه خلال اقتحام بلدة تقوع جنوب شرقي بيت لحم جنوبي الضفة الغربية",
-            "url": "https://www.almanar.com.lb/article/977832/",
-            "published": "2026-06-26T01:13:29+00:00",
+            "title": "تواصل إطلاق النار المكثف من الدبابات الإسرائيلية جنوبي وشرقي خانيونس جنوبي قطاع غزة",
+            "url": "https://www.almanar.com.lb/article/977897/",
+            "published": "2026-06-26T02:35:49+00:00",
             "snippet": ""
           }
         ],
@@ -487,12 +487,6 @@
             "snippet": "Hattan Al-Saif and Malik Basahel are set to headline the return of PFL Mena to Riyadh. This event marks a significant moment for mixed martial arts in the region."
           },
           {
-            "title": "Russia's expulsion of Romanian general consul \"predictable\", foreign ministry says",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM1ZDdWRIZGtjVmg3VUE4NG1MY1lCN2Y5ZW9NZkJabzE5dDBJU0VoZmlNdVBnSEdTb2NCckd5elA4VkdTbTFrNUJXOVNKNTd0U0R3?oc=5",
-            "published": "2026-06-25T14:57:52+00:00",
-            "snippet": "Russia's expulsion of Romanian general consul \"predictable\", foreign ministry says Arab News"
-          },
-          {
             "title": "Assad’s ‘barrel bomb Mufti’ stands trial in Syria over war crimes",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tUkJSRVFVS2syTVpnc01UWk9wclVPdDZJUXZId21TaGpoMDgxcUNuVUtCZHhacGpkSzBkM182TlR6Z2ZIdEZLRExJVllsdFJWZWVZ?oc=5",
             "published": "2026-06-25T14:45:06+00:00",
@@ -509,6 +503,12 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcDhOQVRNQk9MMnlRcl9RcnJab28yR0N6UXVzTnRiR2ZxdnJsS3NBTEd6MDRDQTNWTWo2WnpBSnR0TXBrbXpobzJ4cHMtVVFjeVdZ?oc=5",
             "published": "2026-06-25T12:52:56+00:00",
             "snippet": "Two people were killed in an Israeli drone strike on a vehicle in southern Lebanon, according to sources. The incident underscores the ongoing tensions in the region."
+          },
+          {
+            "title": "KSrelief signs agreement to boost medical infrastructure in Sudan",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNEYwS3R5WklEX0d3ZTA5M3dfX2ZaOTF5NlRGaW51bjhxV1FfRXJKa0huMC13d1FOMDF5TjFvX25jV3dVM1FvZmhqdnFTMFJCZlVV?oc=5",
+            "published": "2026-06-25T12:35:57+00:00",
+            "snippet": "KSrelief signs agreement to boost medical infrastructure in Sudan Arab News"
           }
         ],
         "error": null
@@ -717,6 +717,12 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
+            "title": "Israel-Lebanon talks extended an extra day as deal on IDF withdrawal remains elusive",
+            "url": "https://www.timesofisrael.com/israel-lebanon-talks-extended-an-extra-day-as-deal-on-idf-withdrawal-remains-elusive/",
+            "published": "2026-06-26T02:15:14+00:00",
+            "snippet": "Israel-Lebanon talks have been extended by an extra day as a deal on IDF withdrawal remains elusive. Washington is reportedly pressuring both sides to reach an agreement."
+          },
+          {
             "title": "Rare works by Israeli artists Rubin, Gutman head to auction valued at $300,000",
             "url": "https://www.timesofisrael.com/rare-works-by-israeli-artists-rubin-gutman-head-to-auction-valued-at-300000/",
             "published": "2026-06-26T01:53:28+00:00",
@@ -739,12 +745,6 @@
             "url": "https://www.timesofisrael.com/un-says-hormuz-evacuation-halted-after-ship-struck-in-iranian-attack/",
             "published": "2026-06-25T23:58:20+00:00",
             "snippet": "The UN has halted the Hormuz evacuation after a ship was struck in what a US official described as an Iranian drone attack. Iran had previously warned ships against using unapproved routes."
-          },
-          {
-            "title": "IDF chief says military needs ‘every male and female combat soldier’",
-            "url": "https://www.timesofisrael.com/idf-chief-says-military-needs-every-male-and-female-combat-soldier/",
-            "published": "2026-06-25T21:56:41+00:00",
-            "snippet": "The IDF chief stated the military requires 'every male and female combat soldier.' During a military ceremony, Netanyahu emphasized troops would remain in southern Lebanon 'for as long as necessary.'"
           }
         ],
         "error": null
@@ -760,12 +760,6 @@
             "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT3dUMmZaMVhhLXFUTDBXYzlhRVhSUTQxNXp5UUFBeWQtRnM2N2F6QzlfdGtBSlJqZE12ZkI3c0VhU1l2Sm9IWjRNbERwbWJKNzB5NVJVUXJaVlotNW4waHQtVHdKQVJXSC1FOGEzbDd5R2E3M19ZZ2pnenZIb3lCeDBsQVVGY1k4bk1ybS1FU1NHcVNsM3dOOURMeU1sTnBpdmpDNHNkRDg2NW45UERqdGQtdU5UQzctdUdINWVHVkUxZXVmTHBoRExmQUd0TERIMVRWUXZ5eFQxVGlJb3ZnMmZhRTRJVkFQRzEwM0dOUQ?oc=5",
             "published": "2026-06-25T19:32:00+00:00",
             "snippet": "Socialism Is Back in Vogue Everywhere Except in Israel Haaretz"
-          },
-          {
-            "title": "Vance says U.S., Iran agreed on direct channel with IRGC 'to settle disputes'",
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbDRTdGJzTDZFa3NKZ1J6VVhtNGtwNmxzbl96cm1qbW04MlM1OTNuUU5iay1FcWhhSXowNjZycWQwTzdiSnVPU1VYZl9jUE9IeUFFUTkwUVVLVkZIV1ZYUjZmUTA2OEJDMXJfYl9RTUh3RlZGY3VtaXN4TkdrMFpLM1B5VWJmdWlUWG5telBwN2tfdWFRTDdzSGdiRWNqQWpXN3g3NUVKcTB4ZHBIcHFBdWhDQUpiV0g2UGZYdC1fa1JCN09YTGtzcXgxRmNEdndrTnBxMklPajhPYUxIS29qNTB6d3lPcGFkNHY5aVl4cF95Vk10Mk5tTTN5aVhCckYxUWg0?oc=5",
-            "published": "2026-06-25T19:30:00+00:00",
-            "snippet": "Vance says U.S., Iran agreed on direct channel with IRGC 'to settle disputes' Haaretz"
           },
           {
             "title": "A Collapsing Society: Israel Suffers a National Mental Crisis Due to the War",
@@ -784,6 +778,12 @@
             "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOY0JMUnUtWUdQcU53SGk4cTB1bDB5cHBxUFYzRHZfY25RZFhuTDhzcXF1d1NNMUhkWHdLM0tuREJ4NGJ1SzZRRHFUU0hUcndkM0hfdXlFV0VQb2FVV3MxM2dSYll2dEZ3R0Q1dVkzcnQxWjZTRzVCQXhKTGM4QUNGS2VDNlktMHY2T3MxbGpJVkc0ZlMzT1hzX3AxdUlKS0JlUUdNZ0dydXNUTlo3Z1NRWmRYSEl4QnZiOVViQjV5OG1zR3ZSQU9mcjZvY3JEU1kyYktabUFoMTFJOUJaSmZQWjdaM3ZqTDJyVl8xNjdTQmxNVU1GZHVlX29TZXFuNGY3UEp5RDQ4Sy05REZ3R3BLUkVUaDBxdXVN?oc=5",
             "published": "2026-06-25T16:09:00+00:00",
             "snippet": "Latest polls suggest gains for Likud and Smotrich, while Bennett experiences a decline in support. These projections indicate shifts in the political landscape."
+          },
+          {
+            "title": "Court bars video in case of Australian nurses accused of threatening Israelis",
+            "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTjNzbVBweTVSbWtONmszZzNmY0tLZkhaRTFZOFRRejR5a2Y4RlQ0VzczOE00TXZSSTV5QlZVRTdDVTJaeU9pdXlubEVDYktsMU9xUmp3a0duclg0WW5rY1MzM2sxLXQ3cWcwNHRmZ1pVa3JBY2lneTI3QVBIR3FrNEVRbDVPa05ZTVNiVEN3alZNWUhRRmNnaTl2b1NENFZMZDkycnViQXRNNHRJbGE3YkVjZ3BNdFdIbTNKRWtOS3Z4aFR4S25SRXZQQVhvQzAzcERsUmNiN0hpWHhfRmF5NzRXSnM4STYxSzgzZWRQdlBTLVQwd0hRcEFzV3FqN3l1N0JSUzNLVnJZYVVDQUNsdGNQQWJUTnpNNlI5LWdFVlJZXzhvd0E?oc=5",
+            "published": "2026-06-25T15:50:00+00:00",
+            "snippet": "Court bars video in case of Australian nurses accused of threatening Israelis Haaretz"
           }
         ],
         "error": null
