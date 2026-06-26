@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T22:49:44.908809+00:00",
+  "updated": "2026-06-26T23:18:44.807990+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,18 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "What is the framework agreement signed by Israel and Lebanon?",
+            "url": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon?traffic_source=rss",
+            "published": "2026-06-26T22:56:01+00:00",
+            "snippet": "Deal comes after months of US-brokered direct talks, but Israel continues to occupy Lebanese land."
+          },
+          {
+            "title": "Desperate families search for missing loved ones in Venezuela",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/desperate-families-search-for-missing-loved-ones-in-venezuela?traffic_source=rss",
+            "published": "2026-06-26T22:44:00+00:00",
+            "snippet": "Families are sharing details about their loved ones online as more than 50,000 people remain missing in Venezuela."
+          },
           {
             "title": "Thousands of migrants flee South Africa ahead of anti-immigrant protests",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/thousands-of-migrants-flee-south-africa-ahead-of-anti-immigrant-protests?traffic_source=rss",
@@ -25,18 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
             "published": "2026-06-26T21:08:01+00:00",
             "snippet": "The US conducted strikes against Iran in response to a drone attack on the commercial ship Ever Lovely in the Strait of Hormuz."
-          },
-          {
-            "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
-            "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
-            "published": "2026-06-26T20:58:19+00:00",
-            "snippet": "The UN's rights chief is calling for an investigation into a surge of migrant deaths in US detention centers during Donald Trump's second term."
-          },
-          {
-            "title": "Mistrial declared in federal arson case related to California wildfires",
-            "url": "https://www.aljazeera.com/news/2026/6/26/mistrial-declared-in-federal-arson-case-related-to-california-wildfires?traffic_source=rss",
-            "published": "2026-06-26T20:51:08+00:00",
-            "snippet": "A mistrial has been declared in a federal arson case connected to the Palisades Fire in California, with a new trial scheduled for October."
           }
         ],
         "error": null
@@ -171,6 +171,12 @@
             "snippet": "إيران: التلفزيون الإيراني عن مصدر عسكري مطلع: سبب الانفجارات يعود إلى سقوط مقذوف في محيط رصيف طاهروئي بسيريك almayadeen.net"
           },
           {
+            "title": "مضيق هرمز في صدارة معادلات الردع الإيرانية... رسائل سياسية وعسكرية",
+            "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOREFKcUpKbHA1NVBodldLR0pBWl9IcHpWLWZmY1JYNmpCQVhua1ZNVVdjRFQ4OGlaV1Vnd3ZPcTRETDlSRVJqSDVMeDhNM09XVkpZSjM1ZnJIZEpSMWJYOHlKZ253OVNla1pJLVM0SndUZ2ZiVEJJSXFLeTZqTHRVUEtSVlIxYzhPWHRab3VxUndqZVdsVHJ0bzQ2TDg4TDV1NTZyTjU4WEZfRHpXRWRUbDdtSWNOV1VPNE5MTTB5VWQ0ZURhc2ppRTF3WUpVTGR0N2xGUms1bVdhVDFSTURFNWVCY3pHeUtfa2UtZkZJS2ladVdrNWlJRGR1bDdXUmUxRzRBZ2d1ZUs4VVhfaGdmNFQtano1bjBYY05mM3MtQnczamtiMkUwSk5FcmZZNEhEakRwaWhMQVowQ1VwT1kxbEFJZlJBUTV0c3FCS0JadzFYVmNXb0ktZFFQZjRWei10b3VDZDhnZlBXeW8ydjFGUGMwZDNHNmozWktSLURGZjlqaUhubDBPYVFid2JoTlN3dU5zbGFKQUNkS2NnbWFmRTNhV1BJbEVLWWdjMzFGLWVSeU0tNE1PMnBQSmV6WFdqV2VnOG4ySk1BN003M1pJSkNKZFI1ZnZfUVl1UElvRQ?oc=5",
+            "published": "2026-06-26T20:40:53+00:00",
+            "snippet": "مضيق هرمز في صدارة معادلات الردع الإيرانية... رسائل سياسية وعسكرية almayadeen.net"
+          },
+          {
             "title": "مخبر: بيان مجلس التعاون خطأ جديد يتماهى مع من ضحّى بأمن المنطقة",
             "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQR0o4R29NTmFtaXVXX2dvRklyQ0VMOVZscGl6RXRxUi1oTXI3eWpDcVdLOWN2TjVYQkVGUmQ3U3dsZmxtZnhNa0JXTVdOLWpZZGJSNlJhbzdBT2xDN0hJanR5LUJkSWpLUWJzVTJmYlc4OUczMThxM05HSFIzbzF5dFBWWHhJbENIanIyY1BkTmJobGMtclhzR1M5S0paSVNpdk5FVW1oMEg4NTVKSXZUQVdOSDd4X1lIWldRdzExUFJjYVYxYUhXRFlhbjdnRHdvLWJ3YW96RlhqdGNJUjBjcm9vTXdVUF9wX0V2TTRwamNDRjZpUXBhLTYwSGlwbm44UnM0eTljZXhncUZXcW1ERVFjYmo1YXZCazBhZDZrbzhUajQ5aS0tMkRrbzRVRDlkOG8zcWwyZ2pQTGwwYWZlVmZ2QkRrYzY4X2M2ZlF4SFJtUFFYQUZwMXlRWHhoLUVmVUVZYUU4aVd3NEt1LVIwSG1TY3o4TTI1ajdoRmZSa0tsVzZVQjRnRnBtZVRVWVN4ZUFSeVZVektBV050Y3ZGRGFyWVVZZEptdHhhTFhwSkpsTnEyRjhnZ0tBVEZ3eDJMMUtNRzVBaWp4RlNpRUlob0cteXZ3cnRmQS1hZ0JrcGRSVUtOSXhZRUpSZl9LZ24wYV9xRkpzYm5NNWlTaWd1NXJmczJ1Ulpjb1RJeUh6RDVTeXZ3eG4yVUVyNmQ5bXlLUmJGdHBKOVgzOFoyYUZtSFpSMmQyMThp?oc=5",
             "published": "2026-06-26T20:03:53+00:00",
@@ -187,12 +193,6 @@
             "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPLUtrMmNNWllzQ2N5cFF4WWdLM2RPTThIcUpqSEFDVHZYSDlvSmc4Z3FjV09vcjJDeng2UWl4V20wU0Q4QjdoNVJhVjdRMG5ZMUhPWnN3SlZia09LNTlCci1uNHZzRjAyem1BOW5fenlIR3k1RUlPM3VNSFlaQ2FzX1lxOHZnZVNSeXlZcXFqc05ETExJZlcxeW9QalBrNlBfa2hMbkpCWnh4T2F6WTFMaUVWY1FLeXlQTzZ3cnFsYnFpV1FLMWFrV09FMktWVTEzVkU1OE5NSjNnQUhPaFVreHdlZFBGQWxtbV8tZEsxOXdfSjVHR04zRUFSTE44RWVqMXNGNnNJeFBhU2l2aTRyYzNNeVBQSjNLV0xRcVVEWXdjS0Rsc3dxeHBiczZTbUJudGhaNVpHRU1fYkhjY3YzaHdjb1lwWlkwR1phQ2ZNU2ptRXlSY2JpZmVSS0F5MVgwcUx5U2U0UUNOZ1lZNHpwYnZEZjVxTEo1THY0bC1hdGVKazZmMXJIN2EtY0Y3enBHc0ZtajFxMENwazRMV0lsTUt3OFNWU0YwX2FhVVB6UUtXM2JoSlBNVVh4ODdidGcxZnh0TlU4bk5FZnI5M1dxYkx6SUc2Z2tZd1oybVBTZS13ZDFXNDcyVTVtR3BoaHhmRWxJRXNncVBRUQ?oc=5",
             "published": "2026-06-26T17:05:36+00:00",
             "snippet": "Iranian media reports that the Iranian national team faces systematic US restrictions despite limited visa relaxations."
-          },
-          {
-            "title": "إيران تحذر من التحركات الجوية الإسرائيلية في دول الجوار",
-            "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxQak53bnFZeVBGV1lHRXl3dG1WREZzUzB1VE9XUjExUnFQSVhCUVRfZTA1WGhtN3YySXd4WnVVSE9uRGZwOTNoaDdrSEQwbWpHc2VoSFlHdnNCbG5WWVliVmg2VlZYaFdrZUVDYVR3cC1CeWZoRldlSkcwYm12RnNscTlLd1lqMnVqWHAxZElsOFhMUTlhbHJEV2ZDQ2hXTUFUeUZReGNKNWhsbW1zQmx5cUxVR1k4ZjFUMWNzbmc0OGtNVXA3NTBvelJkel9JS3FKb0p4SkNKeS1jNVlwX050cTZKTEphSTU5d1RDdGtKc1pvcU1ReXJFS2U3R1dBTnVRREozRTBlUlpyNXpaTk80a3NPU2NrbW9OdW5VNGpiUERFUVNGSTgxcV9BeUVJTFJtaDFLOGpYTzhFWDFkanVuTkhkQTlrVDR6bGxyaE5rWlRoc2dZcURkdmg3RHg5MHJSN3VqMjRIQjJzb3pETGRGdFphOGQxX044V21NaFpmR29nd0k2akFIZ0lqRFFTSWY1bE13SF9FSkw1TkNuUkl0RGQ4RTgwY2VEaTBpVUd5X0V1dTFIZzV0STBlb04zS2FBbmpBdEFLWmFOWGdMRHJjYWYzQ1FzZ3g3SjhMSm9DY0dyUDJJU0FlTFkwWVpZeENFay1sLVpKTUo1WEI1Sk9HY3pvMHN5SHZJVUQ5VFJ2R0s3ZHVjSXpUWnZ0dW94SDdCeVVvU0xyMDRXREE?oc=5",
-            "published": "2026-06-26T17:00:45+00:00",
-            "snippet": "Iran has issued a warning regarding Israeli air movements in neighboring countries, as reported by Al Mayadeen."
           }
         ],
         "error": null
@@ -362,34 +362,34 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "عزيزي: أثبت الرئيس الأمريكي المهزوم مرة أخرى أنه لا يلتزم بأي من مبادئ التفاوض أو وقف إطلاق النار",
-            "url": "https://www.almanar.com.lb/article/980657/",
-            "published": "2026-06-26T22:33:39+00:00",
-            "snippet": "كتب رئيس لجنة الامن القومي في البرلمان الايراني ابراهيم عزيزي على حسابه على منصة اكس “مرة أخرى شنت الولايات المتحدة هجومًا على إيران في خضم المفاوضات”."
+            "title": "لبنان | احتجاجات في بيروت والضاحية الجنوبية رفضًا للاتفاق الإطاري بين لبنان وكيان العدو",
+            "url": "https://www.almanar.com.lb/article/980732/",
+            "published": "2026-06-26T23:16:42+00:00",
+            "snippet": "شهدت الضاحية الجنوبية لبيروت، مساء الجمعة، احتجاجات شعبية رفضًا للاتفاق الإطاري الذي وقعته السلطات اللبنانية مع كيان العدو في العاصمة الأمريكية واشنطن، حيث عمد محتجون إلى قطع طريق سليم سلام بالإطارات المشتعلة، فيما نُظمت تظاهرة في منطقة الطيونة تنديدًا بالاتفاق."
           },
           {
-            "title": "عزيزي: هذا الانتهاك الأحمق لوقف إطلاق النار من جانب الولايات المتحدة سيؤدي كما حدث دائمًا إلى تراجعها وندمها",
-            "url": "https://www.almanar.com.lb/article/980647/",
-            "published": "2026-06-26T22:27:12+00:00",
+            "title": "الحرس الثوري: سيكون هذا النهج هو المعتمد مستقبلًا وفي حال تكرار أي اعتداء سيكون ردنا أوسع نطاقًا من هذا",
+            "url": "https://www.almanar.com.lb/article/980722/",
+            "published": "2026-06-26T23:06:07+00:00",
             "snippet": ""
           },
           {
-            "title": "عزيزي: لقد أثبت الرئيس الأمريكي المهزوم مرة أخرى أنه لا يلتزم بأي من مبادئ التفاوض أو وقف إطلاق النار",
-            "url": "https://www.almanar.com.lb/article/980637/",
-            "published": "2026-06-26T22:26:31+00:00",
+            "title": "الحرس الثوري: الولايات المتحدة سعت عبر تحريض جهات مختلفة إلى الإخلال بهذا الالتزام وقد تلقت الرد المناسب",
+            "url": "https://www.almanar.com.lb/article/980712/",
+            "published": "2026-06-26T23:05:30+00:00",
             "snippet": ""
           },
           {
-            "title": "رئيس لجنة الامن القومي في البرلمان الايراني ابراهيم عزيزي: مرة أخرى شنت الولايات المتحدة هجومًا على إيران في خضم المفاوضات",
-            "url": "https://www.almanar.com.lb/article/980627/",
-            "published": "2026-06-26T22:24:27+00:00",
+            "title": "الحرس الثوري: وفقًا للبند الخامس من تفاهم إسلام آباد فإن ترتيبات الرقابة على حركة الملاحة وعبور مضيق هرمز تتم بالتنسيق مع إيران",
+            "url": "https://www.almanar.com.lb/article/980702/",
+            "published": "2026-06-26T23:04:56+00:00",
             "snippet": ""
           },
           {
-            "title": "(مصحح) | وكالة “فارس” عن العلاقات العامة في حرس الثورة : البيانات المنسوبة إلى الحرس بشأن حدوث مواجهة مع الولايات المتحدة مزيفة ولم تصدر عنه",
-            "url": "https://www.almanar.com.lb/article/980617/",
-            "published": "2026-06-26T22:16:15+00:00",
-            "snippet": "A corrected statement from the Public Relations of the Islamic Revolution Guards Corps denies reports of a confrontation with the United States."
+            "title": "الحرس الثوري: ردًا على هذا العدوان استهدفت القوة البحرية التابعة لحرس الثورة مواقع تمركز الجيش الأميركي في المنطقة وأصابتها",
+            "url": "https://www.almanar.com.lb/article/980692/",
+            "published": "2026-06-26T23:04:18+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -425,10 +425,10 @@
             "snippet": "Israeli forces assaulted Palestinians at an archaeological landmark near Bethlehem, reported WAFA Agency."
           },
           {
-            "title": "One Palestinian killed, several injured in Israeli drone strike north of Gaza City - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9haTZyOHBuMGRfT3VObms2ME9uY0VCQUJCazkwU2NjOFc0a1RTUjNkT0dMWkJSX2xxQVRrMkgtZ1NzcEVodWZfQ2xCY2ZYV3NYbW1uMk5SRQ?oc=5",
-            "published": "2026-06-26T13:51:06+00:00",
-            "snippet": "One Palestinian was killed and several were injured in an Israeli drone strike north of Gaza City, according to WAFA Agency."
+            "title": "UPDATE: Infant succumbs to wounds after Israeli forces open fire on family’s vehicle south of Hebron - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDlrSHV0cW51TkNGa05YWHBKQllzREJfWWFxTlRWVk54Rm1TVUZlVHR5bU5ITm9janFXWXVYQ2J3ejVsckhFMkVmX3AxVXZVeHd5T29wMUdET1pIY2p4M1NCVEpVaWU1akV0bkF3S2Nmb2EtQVpQR0k0dHNWR1dFMExXZ190NkRkVjBpeVgwNA?oc=5",
+            "published": "2026-06-26T16:49:37+00:00",
+            "snippet": "UPDATE: Infant succumbs to wounds after Israeli forces open fire on family’s vehicle south of Hebron WAFA Agency"
           }
         ],
         "error": null
@@ -493,10 +493,10 @@
             "snippet": "Iranian sailors seized by the US have been handed over in Pakistan."
           },
           {
-            "title": "Trump slams Iran drone attack on cargo ship as ‘foolish’ ceasefire violation",
+            "title": "US aircraft bomb targets in Iran after ‘foolish’ shipping attack",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
             "published": "2026-06-26T16:11:46+00:00",
-            "snippet": "Trump has called the Iranian drone attack on a cargo ship a 'foolish' violation of a ceasefire."
+            "snippet": "US aircraft bomb targets in Iran after ‘foolish’ shipping attack Arab News"
           },
           {
             "title": "UAE foreign minister tells Iran shipping must pass freely through Hormuz",
@@ -571,22 +571,22 @@
             "snippet": "False emergency alerts in the UAE were traced to a technical malfunction, according to the NCEMA."
           },
           {
-            "title": "Ajman Free Zone to convene leaders on business set-up and market access in the UAE",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZW9uSjRYTW5lU2dBa1BKalVDQmtDUVEzYUsyUm9RQzFXOWpPeWJUWnI3TVlRQ2N3WEJZbkRLUjhQSmNacUVMZ2toM3duNjlVVWlYeF93OVhXSWFNTVplOTM4NGlnSmFBOUtVb2w3Y3FXckZxdFY0V0FuS3RtZzdxdURraVNYODFHUUlXZGZuRTNsTm5HXzNMaHNfXzh3ZXRiOVVLVXo3V0NselpGWEg1LWd1bDNJWHUtNWlKQkQ1RzNyeXhkT2IzbXczXzIyYkHSAd8BQVVfeXFMTVZCV1ZhTUpGMWktclF3VVhYVkN3SVc3Tnc3eUg1QmtneXRSeVo5WF9SV2I1WG9Ldlg4TGFoTG1TNzBobmEzLTJydGp5RjMtVjZDUmtabDBrX2Q2OWp6ejhzTExOb2lkM0JDZlBCN2VOSlZ1cVpoTzB5TmZycUI3bV9sX183b3N3UWU1aExkOFk1cnF3ZEI1RDVBTlNleUp6LURXOHJ6VENvbldtbUE2MmItWUxQaFllNElXaXJUUW9ScEwxb0xObzlPR29QOHlGdjVEUGgzNkNrV3h0NnJFMA?oc=5",
-            "published": "2026-06-26T11:08:51+00:00",
-            "snippet": "Ajman Free Zone to convene leaders on business set-up and market access in the UAE Gulf News"
+            "title": "Brad Pitt wins key court ruling in Château Miraval dispute with Angelina Jolie",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjdWc0ZBNzRtTVR1LW1XWklMUkZXZ19DYkRsVXZCVjlmUVh3dWNkczRKOWZkNWJVVU9KRlRWLUQxeDZoZEtTanFEeXNGVTFRdjJKdjJMNGktTURUZjc5MUY0dnJVblN5c0ZEaVgxRE8xbGFqdjcwSkt4OXlHVGRfUWNfQnNXUm1peEtxMVk1eVFiZkRmdE5KWnh1el91VENMVG00SVdsRFdzRU9qRjYzekdHUFZuSUpZWENOYlM4VkNsN2ZYX1RsMHZ30gHaAUFVX3lxTE5SMGt3d0w2Si1pMjZFZE1NcE5UN1pnOXBiNmR5bkV1MHBHQ1VPUl9od2FGZExsS1FfQ3U5UDlxalBaZ1hOMnZObHNZZVR6XzY5ZTROekJHdEJUaGExSE42ejBHaXNzVC1MaHc4SVR5QnQ5bUlwd0wyWUlMZjNwek82SGV6UVd0YVhwRVRoTFBKbU5PR0tRQlQ4U1dhdndtbkxsamY1dE44QXdNSEZrazhHOXB5cXRHblh2TjB5OEhza3gyaEtvX0VLcnplTWtzLXFneU04bzFFcDNB?oc=5",
+            "published": "2026-06-26T12:36:36+00:00",
+            "snippet": "Brad Pitt wins key court ruling in Château Miraval dispute with Angelina Jolie Gulf News"
+          },
+          {
+            "title": "Natural Gas Analyzer Supplier UAE",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaZTJ1RXhMSTB3NWZPZmZyUFdnUV9vSTBjTzJmSXFLa2pzbVJPZ2Myc0pEYnRiRXkxTERXT0pXdlRISHp3NHl2VkNCY2JHYWZOZ2FxN0FMVHd3XzJJeTdYOE5vZlcyRkdmeEdLS1BHVlZPWU05X0c1V1V3?oc=5",
+            "published": "2026-06-26T07:57:09+00:00",
+            "snippet": "Natural Gas Analyzer Supplier UAE Gulf News"
           },
           {
             "title": "Fire reported at carpet market near Zayed Port in Abu Dhabi",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlFCTG9QMnlpN0w0XzQ4RkNNUk9NendfaFhvYnJqTVR2YzZMcmZ0NG5mMmV6ejRtelNZTm9rRmEtVlVaV3hJWXlFZV9uVkZwa3B3OG1wcUU0bDEyNXVnX1A4YndLSnVFeVA4RlllbEp1NTRZSnRrYktiTVpJbE9ZVkg2MzJrNHNNTGFhU3VqSExmcGs1LUljZU5EZW5VRXpWeEptSnd2SU45S0QwZUowZQ?oc=5",
             "published": "2026-06-26T07:27:05+00:00",
             "snippet": "A fire has been reported at a carpet market near Zayed Port in Abu Dhabi."
-          },
-          {
-            "title": "'People gave us belief': Dubai family thanks UAE community after new cancer treatment begins",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM0Ixa3VpSVFjOUJabk11WVpMYWNKeHlMWkpfc0hqWUhfaTVlelVDR2VfV3Iwd0pwbEN5Wkw1RnktRm9ONVNuakNuMVVLbzFYek5ZLWpMbEg2ZzdMMktVTk14Rk5Xeml5YTAzSmZSc3d0V1pmSHZMM0hvcDRXSnJQNzB4b2NHVngtdEllM0pSTy1yLVRobFJTZElIMFduQjdZOTV0dHJ4Q2FSVWR5RGZwZEhkc19MS0ZZVGowZ253emxzTk15NTRQaDJUNWhwQdIB4AFBVV95cUxQVkhLSXFPdUJVazdmREppZmNnY29JUnMtcHBKakNzRG9rZFZ0MnoyVVlDYlhPcHJKYkVsWHY5eEh4bFZDaWdLT1VpWnR3NjRLbFBpaGM1YnFvOWZJNXhMa1ltTEE4djJ5VmNVOGtwMk56RGNXamJWMVB5NmNVcElicy1jdDM5ZDcwRHUzT0thYkNLRGREZnVvbVhLT3RYMlR5OE1sdl92SlJ2Zmxhc1VMc1NWd0dMWldCQ0MySElNcXE5aEZqMndJaHZiU0xxczFSaGw1YVhlLU5VOWZPeDBENw?oc=5",
-            "published": "2026-06-26T04:12:43+00:00",
-            "snippet": "'People gave us belief': Dubai family thanks UAE community after new cancer treatment begins Gulf News"
           }
         ],
         "error": null
@@ -655,16 +655,16 @@
             "snippet": "Weather alerts indicate heavy rain and thunderstorms are expected in parts of Oman."
           },
           {
-            "title": "Weather alert: Rainfall and thunderstorms expected in parts of Oman",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXNINW13SHRTek1BM1BiU2FQSWUyaHM3ajRTNm9fTml5WFRKczNzSmE4aDhxWG5DaFdhS21FSVF1MDBla1NyNTZPQnJpS1ZhdDNfdDhrX0RMcDBWZ3o1WXVJWEZfTUNGdG1DQWtHWnZCRnlVSnIyWm9zWUlQQ0ZfTFpUUE9pTWpBTm1GanNlSnlDYkhrLXJzcXAzWTdPeFVwX2x3THJ0RDU?oc=5",
-            "published": "2026-06-26T14:23:00+00:00",
-            "snippet": "Weather alerts indicate rainfall and thunderstorms are expected in parts of Oman."
-          },
-          {
             "title": "Fantastic Fourth Fastest in Spa 24hrs qualifying for Oman Racing by Century Motorsport",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQk45bGJ5OXRzMFVSdXRFdTU0NUp1b3V3NmhxNFdIVEZSMU45V0VFV2FBbU01cGI5YlVjLWl3QXhURFdtVTNfQWF0cXowQ3NHQ2F3WDhkZUhLaHBUM3RTbkRnNlVVWUFRYXRNcC1NTGJVaUpSUlFPc0VkQXhZaFViMkp5d0dxQmtvbzhONHZkbmtmOGxBdzRYd1FVYzRLLUVPYXduVWctSWFEWEE3RWNaV0J5UmE3SDRwV25fS29sTkE3Nkk?oc=5",
             "published": "2026-06-26T10:02:00+00:00",
             "snippet": "Oman Racing by Century Motorsport secured fourth fastest in Spa 24 Hours qualifying."
+          },
+          {
+            "title": "Travel update for UAE-India flights as new digital health form becomes mandatory",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenBMRW53Sm9tZ05vNnljbnFIVVV0OHBVNzVhaUNlWEF2WHRLejFobXpDd3NzckJtVE1QTmpaVGtMakxlQ0dLS044VzRpYzNXNVNJbzlyVEYtMkxrWWY0UFFSVVU0bHNqclkzMVM2b0p2Y042R19Cb2lwd1g1SFZfLW5RQWVVeDBvRUxzUklHRkdNUTNFem5veHZ2LUFjWTBkMVkybTR3VkdiUEFBaG9WSkFKLXB2VmxIMU84?oc=5",
+            "published": "2026-06-26T07:11:00+00:00",
+            "snippet": "Travel update for UAE-India flights as new digital health form becomes mandatory Times of Oman"
           }
         ],
         "error": null
@@ -717,6 +717,12 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
+            "title": "US strikes in Iran after attack on cargo ship; Revolutionary Guards threaten response",
+            "url": "https://www.timesofisrael.com/liveblog-june-27-2026/",
+            "published": "2026-06-26T22:47:32+00:00",
+            "snippet": "Vance tells Tehran to ‘pick up the phone’ if there is a disagreement on MOU, warns ‘violence will be met with violence’ * Hezbollah supporters ride motorcycles through Beirut to protest Israel-Lebanon deal The post US strikes in Iran after attack on cargo ship; Revolutionary Guards threaten response"
+          },
+          {
             "title": "Israel and Lebanon ink framework deal for minor IDF withdrawal, after 4 days of DC talks",
             "url": "https://www.timesofisrael.com/israel-and-lebanon-ink-framework-deal-for-minor-idf-withdrawal-after-4-days-of-dc-talks/",
             "published": "2026-06-26T22:14:09+00:00",
@@ -739,12 +745,6 @@
             "url": "https://www.timesofisrael.com/6-settlers-indicted-on-terror-charges-for-arson-attack-on-west-bank-mosque-with-people-inside/",
             "published": "2026-06-26T18:08:58+00:00",
             "snippet": "Six settlers have been indicted on terror charges for an arson attack on a West Bank mosque with people inside."
-          },
-          {
-            "title": "Bucking threats, hundreds in Gaza seen protesting Hamas for first time in a year",
-            "url": "https://www.timesofisrael.com/bucking-threats-hundreds-in-gaza-seen-protesting-hamas-for-first-time-in-a-year/",
-            "published": "2026-06-26T17:37:07+00:00",
-            "snippet": "Hundreds in Gaza are protesting Hamas for the first time in a year, with signs demanding Hamas's removal."
           }
         ],
         "error": null
@@ -755,6 +755,12 @@
         "lang": "en",
         "url": "https://www.haaretz.com",
         "headlines": [
+          {
+            "title": "Opinion • The U.S. and Israel, both backsliding democracies, may already be beyond repair",
+            "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUzNmRkVQUFdtOUowWVlVNXlZMnBjNXM3VWxzWkY1VlQ2MXM5MmhQVS1FUzJEWndvbS1aRFd3bFE5Rjg0cWw3MS00eVVmWXpCaC01eUpXSV83NjF2djEzbDhlMnExLU1jMURWbThoVTNoRzhmSE5oY3ZMTnM3dVVrTFlJQzFDd2pFb0xnUG55NFViSXNFbnNuTy05NVFuX1Q0Qm5KU0dyV0JEQ29IbUhnUjBKSnZWeHhsUG1KVHdGY0tucGNQX29XRWlBMEZVTFgzT1NrdFM0NHl4NGo0YjNYVWRwa1B3N1Q1VTdZN2t1YTVWY1d2Rjk1dkZHVlVNc3QxLXczdTZEcGp6THM1ZGU1eU1sNDB4dw?oc=5",
+            "published": "2026-06-26T18:40:00+00:00",
+            "snippet": "Opinion • The U.S. and Israel, both backsliding democracies, may already be beyond repair Haaretz"
+          },
           {
             "title": "Settlers Tried to Torch Palestinian Homes. They Messed With the Wrong Village",
             "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdC0zSnZJUDFyNjE3amYtMkdXM3ZJamhRM3FBa19nRlowcHFvMC1PWExDWFZnOWhTRnhTc010MVFocHhPZTdsS1pRSHh0RnFKcmRwVDhOeGhWMUI1cDJ2NEw2c2VUenhSTkVJeUtpeE9zNUYxZ3hKMy1HdDFLc3FHd1hGVnVBZG5vZndlRWE2TDE5dmZ1eXVtekVud0lNUlVveldLUFBkb29ram9HT0ZqZVI0WklqMXFtbzM0MmtnS1Y2dTFQd3lwVXdqd2lWdnF3SXRHeTBUYjdjSmRQWU9fdGc4UXU2WmVQOVV4QXpEZ0twc2tMb0tyZG5reXh2YzlpYTJ4S1lwX2pxTkdJbjJXdTg1aVdmSnprWnlWSjlCcl9QTEpjWE1sQ3VucEZCZw?oc=5",
@@ -778,12 +784,6 @@
             "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOd0JPVFc0aEhIWWxRVVl1SjhlSktYNjlrN2t6TjNDNUxKUzBIUm45OEtHQXhhWGZFQ3RSZnNtSEpxWkFlSzg5RUlGZTVBaGpaWFg1SzBFM0J2dG9TTDVRTTdqdi0tRHJTc095aFkxUmxfOFVhaE5FN2dsQXBEdmxPb0wtNVFBc2phYWh5YmJqd19OcmFaTzhUSERWTHlzZXl6MnZUdHRHa3kwUUN0NFU0RkFVM3pDblpENFhhcTJtcDJIRVBUaEw1VkZQV0d5c19sVjkyY1dNaHY0WTRLOHY0bXFXbUo3NGxqdFB4Y1g0Q3BYaXBmdTVQMzNxVENnQ2ozVEk2bFFkZVZkWkp2a2IwV1NuUDNMQldPZmVIYzFKaWxlTVNtWHEzbEp5TQ?oc=5",
             "published": "2026-06-26T09:33:00+00:00",
             "snippet": "Declassified records reveal details about Israel's 'boldest operation ever'."
-          },
-          {
-            "title": "Israeli FM Pushes Armenian Genocide Recognition as Tensions With Turkey Escalate",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYzdYUWxJYjZfNWRkRmFkZ3RQU3VYWUNoN0V1V0VFdzdHNFpRQnBkUGVyWDJNTmVKcGtpSXR6S1NfTjNmdFlxdmRzUEF0enRFbUlwT243UDBCcWlxTmNvSzRldEMtejB3V3Z5T2wxbVhVbEhLNXZsR080ODFhbGF3M3p6UmhWZGNHRDU5V3ZrV3l2MXRILXdaVjNmbmpLTHF2a1M5T1h4bEJWdDZDV3BmdXVSWlZkLW1YdW5ZUWNHdlRGelhGVjk0MkN6elJ5MmM4cDdCZTFOYkplQnNhUVNKTXR1WDlzVmxnMVBoLTNR?oc=5",
-            "published": "2026-06-26T09:00:00+00:00",
-            "snippet": "The Israeli Foreign Minister is pushing for Armenian Genocide recognition amid escalating tensions with Turkey."
           }
         ],
         "error": null
