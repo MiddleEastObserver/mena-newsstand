@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T08:02:19.396008+00:00",
+  "updated": "2026-06-27T08:11:02.227581+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 17,
+      "count": 15,
       "headlines": [
         {
           "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
@@ -55,20 +55,8 @@
           "region": "Levant"
         },
         {
-          "title": "Rubio’s spin on the Iran MOU sounds different from Trump and Vance",
-          "url": "https://www.egyptindependent.com/rubios-spin-on-the-iran-mou-sounds-different-from-trump-and-vance/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
           "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "UAE foreign minister tells Iran shipping must pass freely through Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpck1JcHRnc01DNzN6aVlQc3dURUhxbDBCZEZGSUM2MkMxUFlkektONkQ0ZUJtczN5dlQwNU9CSjJ1N0F5dThnNldSMF9WeVduUllj?oc=5",
           "source": "Arab News",
           "region": "Gulf"
         },
@@ -369,54 +357,6 @@
       ]
     },
     {
-      "term": "Iranian",
-      "count": 7,
-      "headlines": [
-        {
-          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Morning update",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-571",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US strikes Iran sites after cargo ship attack, Tehran retaliates",
-          "url": "https://www.newarab.com/news/us-strikes-iran-sites-after-cargo-ship-attack-tehran-retaliates",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iranian sailors seized by US handed over in Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kRXdzOFBWbkVZWmRqejNpZTE3YmhvYWowUFMtNUpQdFpUNWl3NVJfYUxLMTBNVjFqeGlsQkYxTjJZTldlMjJxRjVON1UyNmh2cFpj?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "‘Failed US president’ has shown he’s not committed to principles of negotiation: Iranian MP",
-          "url": "https://en.irna.ir/news/86193632/Failed-US-president-has-shown-he-s-not-committed-to-principles",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran, Egypt foreign ministers discuss regional developments over phone",
-          "url": "https://en.irna.ir/news/86193531/Iran-Egypt-foreign-ministers-discuss-regional-developments-over",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iranian, Pakistani foreign ministers discuss bilateral ties  over phone",
-          "url": "https://en.irna.ir/news/86193417/Iranian-Pakistani-foreign-ministers-discuss-bilateral-ties",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "strikes",
       "count": 6,
       "headlines": [
@@ -453,6 +393,48 @@
         {
           "title": "IRGC Navy strikes US military positions after American aggression",
           "url": "https://en.irna.ir/news/86193537/IRGC-Navy-strikes-US-military-positions-after-American-aggression",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Iranian",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Morning update",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-571",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US strikes Iran sites after cargo ship attack, Tehran retaliates",
+          "url": "https://www.newarab.com/news/us-strikes-iran-sites-after-cargo-ship-attack-tehran-retaliates",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "‘Failed US president’ has shown he’s not committed to principles of negotiation: Iranian MP",
+          "url": "https://en.irna.ir/news/86193632/Failed-US-president-has-shown-he-s-not-committed-to-principles",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran, Egypt foreign ministers discuss regional developments over phone",
+          "url": "https://en.irna.ir/news/86193531/Iran-Egypt-foreign-ministers-discuss-regional-developments-over",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iranian, Pakistani foreign ministers discuss bilateral ties  over phone",
+          "url": "https://en.irna.ir/news/86193417/Iranian-Pakistani-foreign-ministers-discuss-bilateral-ties",
           "source": "IRNA",
           "region": "Iran"
         }
@@ -533,42 +515,6 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWEkzZnZLbnNRQlBxM1lnd1F1TllzTElBT0FQQUNlcWdvME5SZFZNTUM1Umx2S1EtODU5ODZDaEFVVDZhc0JsbWJ0SDgxX0QyTnI0TXc5VzZTNUNPNXZNQXZVRlBQSFB0TW1mZFRDNktRcjFnWjRwS0VNQnY4YjNVc1p1a2FBbFBZMkpPSWRzY0ZGUFdjNTlqTlFKTkhKc0VBWDJGcXlwYjN1MHFaTnVZa1otMmhWTDh5dG1tbkZ0amtLdlJWU3A2VFNnWEJlajR0QVFPaTdzS293OEJBc3VPcjlB0gHnAUFVX3lxTE81Ykx5WWQxb3BPQjJ1X05sVUlGWlVUbVJYaE5rS3BmVklGYVBQVGgyRjBJLTFZcVp2bFZ2SHVsbGJiSjZDdXpVa3A2Qk90VVVjUWJ4ZXQwdDRoQkdMRVV4T2Y2Q0t0a0VCSm5SdDgwOTdld0h2RUo1ZjVFS1U4YnAwRVRCczB5UnprUndLSlA0OXlJZ0M4ZnFfVno0OVJMdEhXVXU1M29aTEs5LVN6NkJEVVIwb1U4S210TmVRTHFEMXM4NDN0ZVJka0M2VFdjWVhEbXBDWWlMRm9zZEg5emNJekJXZEQ4MA?oc=5",
           "source": "Gulf Times",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Strait of Hormuz",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "US strikes Iran in response to attack on cargo ship in Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzUzajdiN3JxZ2pSbFBNSWNTVlU3SjEzYXJZaFpFaVRjSnNCb3l3TU96QVVaTzNvWkJLSEtsZlZLaFpPVjRZR3NRaXYxNnVFWTlVYUZRM3RpV2lObTYwN1BxcnV6NmFhMUZTaFJldWh4NEVnenZiallkbFZDdGdOOFNfNGlUb2NXcjZsLXAtSTJsQ3pTTmFoalRxdmVLSkt3ZUVqVTFGUmt0NS1zODJzTTBYcEN3d19fUVNzWjNVZEgya2RUTjNWTNIBzgFBVV95cUxObUQ2eFlOLVlIaEFzcUcwaHFua0hWbEFkN21WXzI5Zzl4d293cTFvcE9rNzFBWGtCdm5XVFJKMUlQenlwalpvM1NQMGx0RTJ1b2wxWEZGOHdWVjR3c044MFd2VlVtb3FDa1Vlc2szMVZzcGsyZE16cHRraXkxSFlDUWlxOVIyWlN3NHBzS2dyUW9Rc25MX2xCZjdWem10djdpWU40OWZMV2YtazFyQ3pOLTVjdG5fWmFoVHRGRDRKSzBlSjU2aDVHUUJFNTE4UQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US strikes Iran sites after cargo ship attack, Tehran retaliates",
-          "url": "https://www.newarab.com/news/us-strikes-iran-sites-after-cargo-ship-attack-tehran-retaliates",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "UAE foreign minister tells Iran shipping must pass freely through Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpck1JcHRnc01DNzN6aVlQc3dURUhxbDBCZEZGSUM2MkMxUFlkektONkQ0ZUJtczN5dlQwNU9CSjJ1N0F5dThnNldSMF9WeVduUllj?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "\"They shouldn't be doing that,\" Trump on Iran's attack on commercial ship transiting Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkVqU1JoYmsxVGJRSEFrakpIbW5wOFE3TGd6bFpHTFlTUUVWX3BwbFVCZi1rNlVFSjdMbVUzQWpWa3U5eU9sQjN4SG1VZDlkWGJmbmdzTjRmNjRhY0dwXzBhYWFWenZITGRQRXVCNHJqQW9nRVVFVExIbkc5VXYyUjZVZ1U0bDFTYWItOUN1czdmaS1jVk5qRnV4amk4ZFdsaGg1eE8za2pIVnNTN29ibG1lbXdSSG1VYlFzU1VsanlpYVBXREYzLXQxZGpJanRDT0E?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "Oman says Hormuz Strait not to return to its pre-war status",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlA2YzRhNUpuUmVlVTdPRk42UDhMVzJyNnZyVE9WRmRTVVZCUWN4em1MN1VDZlotR3FTMU9sZTE1eldCRUtpcGdqX3RVNzlPcy1LWXlobU1NUXlWX3RUazNCNDVHZHgwUEFoOThiMjI4cXpTSTdJTzVkcFZKbVhaZGdhdURXelV0bVY5TXh6bTJIVVFWSUJhcFRzaw?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
@@ -663,55 +609,25 @@
       ]
     },
     {
-      "term": "Trump",
+      "term": "Strait of Hormuz",
       "count": 4,
       "headlines": [
         {
-          "title": "Trump unveils new US passport – with picture of himself",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3lnbWJIOEJra3VPQ2xuMjBpS3NkLUotZHR4SjVtYmJjdWN3Z2pnSzhQRTJmNEhGOS16NDQ0cFlpNmEybURkSGhHY0ttalRzcC1iWjJ6NEVkcGpQUXR0RmljWWctVlRrM3JjMUZoZmpfRHpmRWh5SHdVM0k0TUQ0YXR1Y2poSU5JZDR5UWE1Z19WMF9rYUlPZjUzY2h6eWNiVGZmeG1uTXJvc2FoTjB5bVUwRUZkVzhX0gG4AUFVX3lxTE5zeWdtYkg4QmtrdU9DbG4yMGlLc2QtSi1kdHhKNW1iYmN1Y3dnamdLOFBFMmY0SEY5LXo0NDRwWWk2YTJtRGRIaEdjS21qVHNwLWJaMno0RWRwalBRdHRGaWNZZy1WVGszcmMxRmhmal9EemZFaHlId1UzSTRNRDRhdHVjamhJTklkNHlRYTVnX1YwX2thSU9mNTNjaHp5Y2JUZmZ4bW5Ncm9zYWhOMHltVTBFRmRXOFc?oc=5",
+          "title": "US strikes Iran in response to attack on cargo ship in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzUzajdiN3JxZ2pSbFBNSWNTVlU3SjEzYXJZaFpFaVRjSnNCb3l3TU96QVVaTzNvWkJLSEtsZlZLaFpPVjRZR3NRaXYxNnVFWTlVYUZRM3RpV2lObTYwN1BxcnV6NmFhMUZTaFJldWh4NEVnenZiallkbFZDdGdOOFNfNGlUb2NXcjZsLXAtSTJsQ3pTTmFoalRxdmVLSkt3ZUVqVTFGUmt0NS1zODJzTTBYcEN3d19fUVNzWjNVZEgya2RUTjNWTNIBzgFBVV95cUxObUQ2eFlOLVlIaEFzcUcwaHFua0hWbEFkN21WXzI5Zzl4d293cTFvcE9rNzFBWGtCdm5XVFJKMUlQenlwalpvM1NQMGx0RTJ1b2wxWEZGOHdWVjR3c044MFd2VlVtb3FDa1Vlc2szMVZzcGsyZE16cHRraXkxSFlDUWlxOVIyWlN3NHBzS2dyUW9Rc25MX2xCZjdWem10djdpWU40OWZMV2YtazFyQ3pOLTVjdG5fWmFoVHRGRDRKSzBlSjU2aDVHUUJFNTE4UQ?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Rubio’s spin on the Iran MOU sounds different from Trump and Vance",
-          "url": "https://www.egyptindependent.com/rubios-spin-on-the-iran-mou-sounds-different-from-trump-and-vance/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump threatens 100 per cent tariff on EU countries over digital services tax",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1ZmY0dvZTliZm01QVR2ME12S1RHcWVqZ1dUaGxsaXQ4RFR0VlNHMjRWeWFIaktvZ3RDRDd0NVpGT1N1M3o2NXFadU1ZY19vVlhKckZ1ZUNLY0JuSVZBRVVtSTBRX1RDamdXczBRQnduQ0Q0WjhxZWlfRHdMbVFkNnFmZFZ5ZW1Uc0RYVXpmZG9TTzRkTTVJOVlNeWlvbXNlZVhHeWttOHZidHVWdjZtTWp3QW16aktDNVItSk9TTXVoX2PSAdYBQVVfeXFMTzJkdWRGcnlyTUpoaEVfZVUtNGdiYTNwOW5zek4tUGdFMnlLZW92RVlWWWNyVDZYUG9lZFhyamRIYkIyc1BZYk9LZkx1SldSbTY1OWFWb19SYnhoVWhOMGh3aVJEaDRGLTVuSE41QW1rakxXY1NwaW53eG4yWFV5TGZzdkMwMzlpNG1WcXlGX3dDWVZKeXFBMHRqQkdwS0p0RklGLUZZRU1vQUFSdVQyTFRkdGxRMVFtVmNZS1lfWEd4dWpFa2dmUW9jX29NSVJaSHktUDZBZw?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "US strikes Iran sites after cargo ship attack, Tehran retaliates",
+          "url": "https://www.newarab.com/news/us-strikes-iran-sites-after-cargo-ship-attack-tehran-retaliates",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
           "title": "\"They shouldn't be doing that,\" Trump on Iran's attack on commercial ship transiting Strait of Hormuz",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkVqU1JoYmsxVGJRSEFrakpIbW5wOFE3TGd6bFpHTFlTUUVWX3BwbFVCZi1rNlVFSjdMbVUzQWpWa3U5eU9sQjN4SG1VZDlkWGJmbmdzTjRmNjRhY0dwXzBhYWFWenZITGRQRXVCNHJqQW9nRVVFVExIbkc5VXYyUjZVZ1U0bDFTYWItOUN1czdmaS1jVk5qRnV4amk4ZFdsaGg1eE8za2pIVnNTN29ibG1lbXdSSG1VYlFzU1VsanlpYVBXREYzLXQxZGpJanRDT0E?oc=5",
           "source": "Times of Oman",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Hormuz",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "UAE foreign minister tells Iran shipping must pass freely through Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpck1JcHRnc01DNzN6aVlQc3dURUhxbDBCZEZGSUM2MkMxUFlkektONkQ0ZUJtczN5dlQwNU9CSjJ1N0F5dThnNldSMF9WeVduUllj?oc=5",
-          "source": "Arab News",
           "region": "Gulf"
         },
         {
@@ -819,6 +735,30 @@
       ]
     },
     {
+      "term": "Trump",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Trump unveils new US passport – with picture of himself",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3lnbWJIOEJra3VPQ2xuMjBpS3NkLUotZHR4SjVtYmJjdWN3Z2pnSzhQRTJmNEhGOS16NDQ0cFlpNmEybURkSGhHY0ttalRzcC1iWjJ6NEVkcGpQUXR0RmljWWctVlRrM3JjMUZoZmpfRHpmRWh5SHdVM0k0TUQ0YXR1Y2poSU5JZDR5UWE1Z19WMF9rYUlPZjUzY2h6eWNiVGZmeG1uTXJvc2FoTjB5bVUwRUZkVzhX0gG4AUFVX3lxTE5zeWdtYkg4QmtrdU9DbG4yMGlLc2QtSi1kdHhKNW1iYmN1Y3dnamdLOFBFMmY0SEY5LXo0NDRwWWk2YTJtRGRIaEdjS21qVHNwLWJaMno0RWRwalBRdHRGaWNZZy1WVGszcmMxRmhmal9EemZFaHlId1UzSTRNRDRhdHVjamhJTklkNHlRYTVnX1YwX2thSU9mNTNjaHp5Y2JUZmZ4bW5Ncm9zYWhOMHltVTBFRmRXOFc?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump threatens 100 per cent tariff on EU countries over digital services tax",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1ZmY0dvZTliZm01QVR2ME12S1RHcWVqZ1dUaGxsaXQ4RFR0VlNHMjRWeWFIaktvZ3RDRDd0NVpGT1N1M3o2NXFadU1ZY19vVlhKckZ1ZUNLY0JuSVZBRVVtSTBRX1RDamdXczBRQnduQ0Q0WjhxZWlfRHdMbVFkNnFmZFZ5ZW1Uc0RYVXpmZG9TTzRkTTVJOVlNeWlvbXNlZVhHeWttOHZidHVWdjZtTWp3QW16aktDNVItSk9TTXVoX2PSAdYBQVVfeXFMTzJkdWRGcnlyTUpoaEVfZVUtNGdiYTNwOW5zek4tUGdFMnlLZW92RVlWWWNyVDZYUG9lZFhyamRIYkIyc1BZYk9LZkx1SldSbTY1OWFWb19SYnhoVWhOMGh3aVJEaDRGLTVuSE41QW1rakxXY1NwaW53eG4yWFV5TGZzdkMwMzlpNG1WcXlGX3dDWVZKeXFBMHRqQkdwS0p0RklGLUZZRU1vQUFSdVQyTFRkdGxRMVFtVmNZS1lfWEd4dWpFa2dmUW9jX29NSVJaSHktUDZBZw?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "\"They shouldn't be doing that,\" Trump on Iran's attack on commercial ship transiting Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkVqU1JoYmsxVGJRSEFrakpIbW5wOFE3TGd6bFpHTFlTUUVWX3BwbFVCZi1rNlVFSjdMbVUzQWpWa3U5eU9sQjN4SG1VZDlkWGJmbmdzTjRmNjRhY0dwXzBhYWFWenZITGRQRXVCNHJqQW9nRVVFVExIbkc5VXYyUjZVZ1U0bDFTYWItOUN1czdmaS1jVk5qRnV4amk4ZFdsaGg1eE8za2pIVnNTN29ibG1lbXdSSG1VYlFzU1VsanlpYVBXREYzLXQxZGpJanRDT0E?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
       "term": "Palestinian",
       "count": 3,
       "headlines": [
@@ -839,6 +779,30 @@
           "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdC0zSnZJUDFyNjE3amYtMkdXM3ZJamhRM3FBa19nRlowcHFvMC1PWExDWFZnOWhTRnhTc010MVFocHhPZTdsS1pRSHh0RnFKcmRwVDhOeGhWMUI1cDJ2NEw2c2VUenhSTkVJeUtpeE9zNUYxZ3hKMy1HdDFLc3FHd1hGVnVBZG5vZndlRWE2TDE5dmZ1eXVtekVud0lNUlVveldLUFBkb29ram9HT0ZqZVI0WklqMXFtbzM0MmtnS1Y2dTFQd3lwVXdqd2lWdnF3SXRHeTBUYjdjSmRQWU9fdGc4UXU2WmVQOVV4QXpEZ0twc2tMb0tyZG5reXh2YzlpYTJ4S1lwX2pxTkdJbjJXdTg1aVdmSnprWnlWSjlCcl9QTEpjWE1sQ3VucEZCZw?oc=5",
           "source": "Haaretz",
           "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Hormuz",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Oman says Hormuz Strait not to return to its pre-war status",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlA2YzRhNUpuUmVlVTdPRk42UDhMVzJyNnZyVE9WRmRTVVZCUWN4em1MN1VDZlotR3FTMU9sZTE1eldCRUtpcGdqX3RVNzlPcy1LWXlobU1NUXlWX3RUazNCNDVHZHgwUEFoOThiMjI4cXpTSTdJTzVkcFZKbVhaZGdhdURXelV0bVY5TXh6bTJIVVFWSUJhcFRzaw?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -867,30 +831,6 @@
       ]
     },
     {
-      "term": "UAE",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "UAE foreign minister tells Iran shipping must pass freely through Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpck1JcHRnc01DNzN6aVlQc3dURUhxbDBCZEZGSUM2MkMxUFlkektONkQ0ZUJtczN5dlQwNU9CSjJ1N0F5dThnNldSMF9WeVduUllj?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "False emergency alerts in UAE traced to technical malfunction: NCEMA",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFkzRHRldmhINVZjSWZGdU53ZDBOQld6UFZ1Qmkyd1Y2ZTBpVS1sR2ItRzVfYmhPYVVTQjRsV0hZMWdYQ1o1NkJ6R1J4OERKbHhFTUpnaGlvSlhVZVptQ0stSFBSWnRsTmhNallJZjRfVVAxb29LUnlVYzgzZTBMT2plZEhYSWl0cFBSOGdoU2liZVRYSll5RnVtT3JfTXo4SXNIam9KWEVaV3IyX0tFT1d4aGxlQQ?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Iran, UAE discuss latest regional developments",
-          "url": "https://en.irna.ir/news/86193551/Iran-UAE-discuss-latest-regional-developments",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "drone",
       "count": 2,
       "headlines": [
@@ -905,24 +845,6 @@
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-571",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Vance",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-          "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Rubio’s spin on the Iran MOU sounds different from Trump and Vance",
-          "url": "https://www.egyptindependent.com/rubios-spin-on-the-iran-mou-sounds-different-from-trump-and-vance/",
-          "source": "Egypt Independent",
-          "region": "Levant"
         }
       ]
     },
@@ -991,8 +913,8 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iranian sailors seized by US handed over in Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kRXdzOFBWbkVZWmRqejNpZTE3YmhvYWowUFMtNUpQdFpUNWl3NVJfYUxLMTBNVjFqeGlsQkYxTjJZTldlMjJxRjVON1UyNmh2cFpj?oc=5",
+          "title": "Pakistan says Hajj 2027 registrations top 100,000 in first five days of sign-ups",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOTlPY293WTQ0TXRVV3BVLUx4VUR3Mmp3RER4MjJ0NVlUbGFGT0dPZE5fYkxSeFJLd1otTlJ2SlBKRTJQaWVleU1SVjd2cXo3QVZz?oc=5",
           "source": "Arab News",
           "region": "Gulf"
         }
@@ -1107,24 +1029,6 @@
       ]
     },
     {
-      "term": "Rubio",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Rubio on tour says any Iran deal will ensure security of Gulf allies",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VudDBPLXJ2S2VMTFJfdzJVemtmS1JFX2VVTlA3Z183SWU2SlhKN0ROUjJTbEFqU0NsdUNhcXBQYTQxSU9IY0N4a1M3Snd1QWNFemFNM2xJVDJXUlJja25oX3RyNl9nODVMWllSNUpGZTZHQUVNb2pwQ2RrOFQ0WXh6dmh0cWZtV0UwVmEzSXVadW9BUmNrT3dSWDYwYmtBb1NQbEk0TTd5MVpYUDRHRVZtakxibFZxZGZXSS04WTFGdTJITHFqTFpvZ3VPZw?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Rubio’s spin on the Iran MOU sounds different from Trump and Vance",
-          "url": "https://www.egyptindependent.com/rubios-spin-on-the-iran-mou-sounds-different-from-trump-and-vance/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Interior",
       "count": 2,
       "headlines": [
@@ -1186,6 +1090,24 @@
           "title": "Fire crews respond to blaze at carpet market in Abu Dhabi's Mina Zayed",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2lkMktOTG5iZmVweGZ1cWlhV2VJdEhOQTF3WXROV1FZalV6WGVMMDZHY2VIUGdaZEk2T25XNzUxMHFLOEF4NWlrUkVKaHFWUzN6UXIwWVNTbE9WSWg4dEcwMllCUmhOTmpUTzdpSmRyVHRfemlyc0l1V1pnXy1rNU9oU25aOG5wXzFOa0VWcHN4d05udjdyYw?oc=5",
           "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iran, UAE discuss latest regional developments",
+          "url": "https://en.irna.ir/news/86193551/Iran-UAE-discuss-latest-regional-developments",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "UAE",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "False emergency alerts in UAE traced to technical malfunction: NCEMA",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFkzRHRldmhINVZjSWZGdU53ZDBOQld6UFZ1Qmkyd1Y2ZTBpVS1sR2ItRzVfYmhPYVVTQjRsV0hZMWdYQ1o1NkJ6R1J4OERKbHhFTUpnaGlvSlhVZVptQ0stSFBSWnRsTmhNallJZjRfVVAxb29LUnlVYzgzZTBMT2plZEhYSWl0cFBSOGdoU2liZVRYSll5RnVtT3JfTXo4SXNIam9KWEVaV3IyX0tFT1d4aGxlQQ?oc=5",
+          "source": "Gulf News",
           "region": "Gulf"
         },
         {
