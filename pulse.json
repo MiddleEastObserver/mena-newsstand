@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:09:03.400400+00:00",
+  "updated": "2026-06-27T22:38:09.187118+00:00",
   "total_headlines": 110,
   "terms": [
     {
@@ -15,12 +15,6 @@
         {
           "title": "Israel’s far-right finance minister boasts of army’s destruction of Lebanese infrastructure",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-far-right-finance-minister-boasts-armys-destruction-lebanese",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Racist far-right Israeli lawmaker’s visit sparks school strike in Palestinian city",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/racist-far-right-israeli-lawmakers-visit-sparks-school-strike",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -73,6 +67,12 @@
           "region": "Levant"
         },
         {
+          "title": "Israeli politicians lash out after Netanyahu announces intention of 'broad national government'",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900654",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
           "title": "IDF says strike killed Oct. 7 terrorist commander, nephew of ex-Hamas chief Haniyeh",
           "url": "https://www.timesofisrael.com/idf-says-strike-killed-oct-7-terrorist-commander-nephew-of-ex-hamas-chief-haniyeh/",
           "source": "Times of Israel",
@@ -93,8 +93,92 @@
       ]
     },
     {
-      "term": "Lebanon",
+      "term": "Iran",
       "count": 13,
+      "headlines": [
+        {
+          "title": "US launches second night of strikes against Iran after ship struck by drone",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Explosions reported near Strait of Hormuz after US strikes Iran",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-near-strait-hormuz-after-us-strikes-iran",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel will use ‘force’ against Iran if it prevents Lebanon deal implementation: Katz",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUWtHcXBIRHlKbDFMR3JFZFJsaDE4QzJCR0R3b2tEOVBmcDFoTGZUVlhMazlXWGFLRGhndmNvVWZITENzV0pTT3dtZm5NMkUzS2p6eV93VWlXSDV4MlRTSFlyV2Z6QUU5cDNJZ3F3RXJmcmhnUDl1ZUlIZEtEMFdIeG5jdS1IclRHRFBZYW5kLWF2WFdrdDRSdHJrRXpIdHNLQS1zUXltamdLV3l6OE05VEIwUGNVd1dmYTJrUTVmYjhCR2ZtZjAtYW05ZnNBOHBFTTBhTFVHdTF5ekhs0gHcAUFVX3lxTE1Ra0dxcEhEeUpsMUxHckVkUmxoMThDMkJHRHdva0Q5UGZwMWhMZlRWWExrOVdYYUtEaGd2Y29VZkhMQ3NXSlNPd21mbk0yRTNLanp5X3dVaVdINXgyVFNIWXJXZnpBRTlwM0lncXdFcmZyaGdQOXVlSUhkS0QwV0h4bmN1LUhyVEdEUFlhbmQtYXZYV2t0NFJ0cmtFekh0c0tBLXNReW1qZ0tXeXo4TTlUQjBQY1V3V2ZhMmtRNWZiOEJHZm1mMC1hbTlmc0E4cEVNMGFMVUd1MXl6SGw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says US violated peace deal as both sides trade fire",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNalk5NDhtS2RkYmhwWGZwVE14elRfX3ZibG91b1psdkR1VGM2TUNXUmZVd2Y0R2NNQlk0MC02OWRDbVJXZnAzdEtZNEVIY2Fka2xtV0xZQ3Y2ZGVfbmJGM0hkRXA5SmxnbHBrNDZXUEFxRmM1cmtoaU0zVmhjeHNMZktIWXNFa1UwQksxUXN5MWFDV3dKQWxnUg?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "UN says Iran nuclear pledge needs 'very strong' verification",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpSV3NjaVBNSEtrWksxdEczVThTbk5lRlRLbHM5SkdQOGZ6OW11UjhaQ3BtQXRyYUVuUVRqb2tkSG9CQlc1U05jR2xYODdVWnlNMHJnRHcwX2pnOHFuWnlRZG5UelpRLWN1d0lnYUN2YUhkZFhKMXRwVGRmaktvR3I0ZGlEdjF5bXBDZmlma2xNbWZQc1g4OUtWbTJrN1JKUUpXZEVCNzRGNFEtR1o5QQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "The US and Iran have a deal on paper. At sea, the Strait of Hormuz is ‘chaotic’",
+          "url": "https://www.egyptindependent.com/the-us-and-iran-have-a-deal-on-paper-at-sea-the-strait-of-hormuz-is-chaotic/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "القوة أولاً والقانون لاحقاً: ماذا تكشف المفاوضات الأميركية - الإيرانية؟ - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOREZ1TlF2ZlgxYi1vckpTWGV3ZGhYRnl0RHRRdmpRelZFd2FyZWh3cEVOWmkwa2RTNVJTLXN2VDZOeHE0SXpEZ29kdU45akpyczBzUEMwXzhxYVFIXzJ5Q3c3ajY2enQwV01zREJoNy1ma3o4Nk9iZDhKZzNKZEw2Q3RvbUs2WkhCMUxVcjNVT2Jnc1NLT3k3Wm5HZGFVMFlGMHNiRmpPYzdrWmNKZkhIOFdxMjhQQWdKbzdWSDViWFlqZDJxdEZYdDVpWUlsYngtT0Q1MjRpcmxNTU5nUjFhMzhHMTAyNW1kQW1SeVRUU3BGeUlSM0FqSHBLODl3Z0RUaWg4OVZUeEtobTgxb3RTZjc5VTNKX2pucGJ6cDZ0MDcwTWdXZFMyUDV1QTRYQ1R1V0lENEgzMk9JYjNqNjZjZGs2SkxFWVBTN0JxTHVRcGY2VzNSY3JqOWJEc3V6Um5Mb3RhRnozQktNWlBfRWxyNGNJSEV4ZjFpTF9pVkhfMS1VRmVkdFh2WHpMTnhfXzVGb1RkMFlfbmhUMllHYTdmWWNkSDA3MmhXcHdpc2FEWEJFWllieU1aWjE3c0lrQ0YyeHdhUDE4Y05qR29GWmp3OW4tb3VvcmJMczNhOVlYVGgzTUh4b3FUT3lTRy1pQQ?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Qatar strongly condemns Iran's attacks on Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSldDOUEwNlBwZmRvWXE3UHUtUjNIb3NqUGhzeFUteW1feVM4SnZVbVRJZDRzRkJXcjFldG1wUkcyYjUzVDZhR2xTQlJCVWMwai05OC12ejNQWG9lRjFwd2JOZncwZThiblJzak1JM0tWUzhFaUw3M3dQZnRUV2o3R2ZXSGU1ZFFhSlFvaks2UGlzWUFiVDZXdmdUY3PSAaIBQVVfeXFMTmxVSXBhaV9LLUs5c3FiSlRWT2lraG5rNS16WVNqUjVkb1p0ZmplVGN4OUVqUERJdjRONGk3VHV2ZXZZUW1sZGpZNlkyZjY5eEQwbktYSENoekJudmdXWjQwX0RzQzdnWEhMUlBQQjU1Q0dMempvbGtuOEtmSmc1WjROUjVMTDc1T2ZPS2R0c09PY09MREk2a0ViMTNqMFduYm1n?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iran seeks \"insurance mechanism\" to reduce risks for ships transiting through Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnc2eFo5Z0FkejY5ZzlvWVBlaTBqY0pPTktOWEhGRXV2MlU4T1lvUTBRNUQ4cEpYUlRDZHJyekQyUDNuOU81OGktVGpzc0QxZlF2QWhxVmxFMmZUb2pzaThHUDFFbFlhNVhVa3F3WFZBN0F2ZXBoQWxaNDQ4Tkg0dkF2cGRBbUNrbU80TmQ2MEdtRC1JaDhBcHNFYXZraVhFX3N3Z2hpRHlGc21CVzBnNWZmRGdXMkNYbkxKdEE1d2NoVkJjem1TTjlB?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "US strikes Iran, as tit-for-tat attacks dramatically reignite tensions",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900656",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Iran announces details for funeral ceremonies as nation prepares to bid farewell to martyred Leader",
+          "url": "https://en.irna.ir/news/86194435/Iran-announces-details-for-funeral-ceremonies-as-nation-prepares",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran says it remains ‘standard-bearer’ in global fight against WMDs",
+          "url": "https://en.irna.ir/news/86194308/Iran-says-it-remains-standard-bearer-in-global-fight-against",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Lebanon",
+      "count": 11,
       "headlines": [
         {
           "title": "Lebanon says Trump backed ceasefire deal in call with Lebanese president",
@@ -145,20 +229,8 @@
           "region": "Gulf"
         },
         {
-          "title": "Netanyahu hails trilateral agreement with Lebanon, says it weakens Hezbollah, Iran",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900651",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
           "title": "In direct attack on key election rival, Netanyahu brands Eisenkot as too cautious",
           "url": "https://www.timesofisrael.com/netanyahu-brands-eisenkot-as-too-cautious-in-direct-attack-on-key-election-rival/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "IDF says it struck terror operatives in south Lebanon, after framework deal announced",
-          "url": "https://www.timesofisrael.com/idf-says-it-struck-terror-operatives-in-south-lebanon-after-framework-deal-announced/",
           "source": "Times of Israel",
           "region": "Israel"
         },
@@ -177,38 +249,32 @@
       ]
     },
     {
-      "term": "Iran",
-      "count": 12,
+      "term": "Strait of Hormuz",
+      "count": 8,
       "headlines": [
         {
-          "title": "Israel will use ‘force’ against Iran if it prevents Lebanon deal implementation: Katz",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUWtHcXBIRHlKbDFMR3JFZFJsaDE4QzJCR0R3b2tEOVBmcDFoTGZUVlhMazlXWGFLRGhndmNvVWZITENzV0pTT3dtZm5NMkUzS2p6eV93VWlXSDV4MlRTSFlyV2Z6QUU5cDNJZ3F3RXJmcmhnUDl1ZUlIZEtEMFdIeG5jdS1IclRHRFBZYW5kLWF2WFdrdDRSdHJrRXpIdHNLQS1zUXltamdLV3l6OE05VEIwUGNVd1dmYTJrUTVmYjhCR2ZtZjAtYW05ZnNBOHBFTTBhTFVHdTF5ekhs0gHcAUFVX3lxTE1Ra0dxcEhEeUpsMUxHckVkUmxoMThDMkJHRHdva0Q5UGZwMWhMZlRWWExrOVdYYUtEaGd2Y29VZkhMQ3NXSlNPd21mbk0yRTNLanp5X3dVaVdINXgyVFNIWXJXZnpBRTlwM0lncXdFcmZyaGdQOXVlSUhkS0QwV0h4bmN1LUhyVEdEUFlhbmQtYXZYV2t0NFJ0cmtFekh0c0tBLXNReW1qZ0tXeXo4TTlUQjBQY1V3V2ZhMmtRNWZiOEJHZm1mMC1hbTlmc0E4cEVNMGFMVUd1MXl6SGw?oc=5",
-          "source": "Al Arabiya",
+          "title": "US launches second night of strikes against Iran after ship struck by drone",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Trump Says Iran Has ‘Some Military Capability, Not Much’",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUNIBsAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUA?oc=5",
-          "source": "Al Arabiya",
+          "title": "Explosions reported near Strait of Hormuz after US strikes Iran",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-near-strait-hormuz-after-us-strikes-iran",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran says US violated peace deal as both sides trade fire",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNalk5NDhtS2RkYmhwWGZwVE14elRfX3ZibG91b1psdkR1VGM2TUNXUmZVd2Y0R2NNQlk0MC02OWRDbVJXZnAzdEtZNEVIY2Fka2xtV0xZQ3Y2ZGVfbmJGM0hkRXA5SmxnbHBrNDZXUEFxRmM1cmtoaU0zVmhjeHNMZktIWXNFa1UwQksxUXN5MWFDV3dKQWxnUg?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
+          "title": "Oman weighs Strait of Hormuz fees after war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-weighs-strait-hormuz-fees-after-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "UN says Iran nuclear pledge needs 'very strong' verification",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpSV3NjaVBNSEtrWksxdEczVThTbk5lRlRLbHM5SkdQOGZ6OW11UjhaQ3BtQXRyYUVuUVRqb2tkSG9CQlc1U05jR2xYODdVWnlNMHJnRHcwX2pnOHFuWnlRZG5UelpRLWN1d0lnYUN2YUhkZFhKMXRwVGRmaktvR3I0ZGlEdjF5bXBDZmlma2xNbWZQc1g4OUtWbTJrN1JKUUpXZEVCNzRGNFEtR1o5QQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Tanker reports strike by unidentified projectile in Strait of Hormuz, UKMTO says",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3N3cFU2TnZ6dmpMYm9SYmdtenNJcmMzSkh4ZVQ2NVpxYW5wYVdmSk1kX0RvMEpqY3pEYl9INlppZW9YaGppQ2NrZTJ6UFlFU0d0UEJWZ2hJeEh6cGQ3YUNUbkQzYVJSWFNMV0ZhQy1WR2tEZmdzd1FQZVZZRFNWaVl5NXhuUlJQZjI4dTNfTkZDbmFNVVliVVROcGlJbkdCUWNlWTlDcWk1Zi1HNWstS2lRQ2t2RENZQ0xMMEU1dmdlUldQSW1mWTBjT2FsYUEtRE5nOWhSMy3SAdgBQVVfeXFMTm9zd3BVNk52enZqTGJvUmJnbXpzSXJjM0pIeGVUNjVacWFucGFXZkpNZF9EbzBKamN6RGJfSDZaaWVvWGhqaUNja2UyelBZRVNHdFBCVmdoSXhIenBkN2FDVG5EM2FSUlhTTFdGYUMtVkdrRGZnc3dRUGVWWURTVmlZeTV4blJSUGYyOHUzX05GQ25hTVVZYlVUTnBpSW5HQlFjZVk5Q3FpNWYtRzVrLUtpUUNrdkRDWUNMTDBFNXZnZVJXUEltZlkwY09hbGFBLUROZzloUjMt?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
         },
         {
           "title": "The US and Iran have a deal on paper. At sea, the Strait of Hormuz is ‘chaotic’",
@@ -217,15 +283,9 @@
           "region": "Levant"
         },
         {
-          "title": "القوة أولاً والقانون لاحقاً: ماذا تكشف المفاوضات الأميركية - الإيرانية؟ - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOREZ1TlF2ZlgxYi1vckpTWGV3ZGhYRnl0RHRRdmpRelZFd2FyZWh3cEVOWmkwa2RTNVJTLXN2VDZOeHE0SXpEZ29kdU45akpyczBzUEMwXzhxYVFIXzJ5Q3c3ajY2enQwV01zREJoNy1ma3o4Nk9iZDhKZzNKZEw2Q3RvbUs2WkhCMUxVcjNVT2Jnc1NLT3k3Wm5HZGFVMFlGMHNiRmpPYzdrWmNKZkhIOFdxMjhQQWdKbzdWSDViWFlqZDJxdEZYdDVpWUlsYngtT0Q1MjRpcmxNTU5nUjFhMzhHMTAyNW1kQW1SeVRUU3BGeUlSM0FqSHBLODl3Z0RUaWg4OVZUeEtobTgxb3RTZjc5VTNKX2pucGJ6cDZ0MDcwTWdXZFMyUDV1QTRYQ1R1V0lENEgzMk9JYjNqNjZjZGs2SkxFWVBTN0JxTHVRcGY2VzNSY3JqOWJEc3V6Um5Mb3RhRnozQktNWlBfRWxyNGNJSEV4ZjFpTF9pVkhfMS1VRmVkdFh2WHpMTnhfXzVGb1RkMFlfbmhUMllHYTdmWWNkSDA3MmhXcHdpc2FEWEJFWllieU1aWjE3c0lrQ0YyeHdhUDE4Y05qR29GWmp3OW4tb3VvcmJMczNhOVlYVGgzTUh4b3FUT3lTRy1pQQ?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Qatar strongly condemns Iran's attacks on Bahrain",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSldDOUEwNlBwZmRvWXE3UHUtUjNIb3NqUGhzeFUteW1feVM4SnZVbVRJZDRzRkJXcjFldG1wUkcyYjUzVDZhR2xTQlJCVWMwai05OC12ejNQWG9lRjFwd2JOZncwZThiblJzak1JM0tWUzhFaUw3M3dQZnRUV2o3R2ZXSGU1ZFFhSlFvaks2UGlzWUFiVDZXdmdUY3PSAaIBQVVfeXFMTmxVSXBhaV9LLUs5c3FiSlRWT2lraG5rNS16WVNqUjVkb1p0ZmplVGN4OUVqUERJdjRONGk3VHV2ZXZZUW1sZGpZNlkyZjY5eEQwbktYSENoekJudmdXWjQwX0RzQzdnWEhMUlBQQjU1Q0dMempvbGtuOEtmSmc1WjROUjVMTDc1T2ZPS2R0c09PY09MREk2a0ViMTNqMFduYm1n?oc=5",
-          "source": "Gulf Times",
+          "title": "More than 100 vessels evacuated from Strait of Hormuz as Gulf of Oman attack halts wider rescue mission",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ1RqRmx6VjVZQ1owYWtxdXFZbVJPUE9pZUFvcDVmQnpOZmIyMXplb1dTamlWUUwxcVE2YjFtSVE5S21BYVpzYkJUSGdrcHlENlMwQ1dtdkJBbzRsek16NmZNTHloenlzMHhJaW9ZLTFMZmFMeGlWTEdXZnVsdldaUlRsYUw2RTNEZUZpUTdpOVlDU3ZjcFBWaEpsdFNFNlZyYkNUNHRvUDBFbUwweTR6WWxJTl9oUGRsN3ZFUDRIbFo4dTRJc1A2S1J1WXJTa25TMlBLdldtdGU3elRQYXVrUVVrUFlyN3RPSEJaSG1B?oc=5",
+          "source": "The National",
           "region": "Gulf"
         },
         {
@@ -235,28 +295,16 @@
           "region": "Gulf"
         },
         {
-          "title": "Netanyahu hails trilateral agreement with Lebanon, says it weakens Hezbollah, Iran",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900651",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Iran says it remains ‘standard-bearer’ in global fight against WMDs",
-          "url": "https://en.irna.ir/news/86194308/Iran-says-it-remains-standard-bearer-in-global-fight-against",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran offers condolences, aid to Venezuela following deadly earthquakes",
-          "url": "https://en.irna.ir/news/86194290/Iran-offers-condolences-aid-to-Venezuela-following-deadly-earthquakes",
-          "source": "IRNA",
+          "title": "UKMTO reports new ship attack in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
+          "source": "Mehr News",
           "region": "Iran"
         }
       ]
     },
     {
       "term": "agreement",
-      "count": 9,
+      "count": 8,
       "headlines": [
         {
           "title": "Lebanon says Trump backed ceasefire deal in call with Lebanese president",
@@ -301,12 +349,6 @@
           "region": "Gulf"
         },
         {
-          "title": "Netanyahu hails trilateral agreement with Lebanon, says it weakens Hezbollah, Iran",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900651",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
           "title": "Hezbollah says Israel-Lebanon agreement ‘null and void’; Israel said bracing for attack",
           "url": "https://www.timesofisrael.com/hezbollah-says-israel-lebanon-agreement-null-and-void-as-its-allies-threaten-civil-war/",
           "source": "Times of Israel",
@@ -315,44 +357,50 @@
       ]
     },
     {
-      "term": "war",
-      "count": 6,
+      "term": "strikes",
+      "count": 7,
       "headlines": [
         {
-          "title": "Why is Crimea critical to the Russia–Ukraine war?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
+          "title": "US launches second night of strikes against Iran after ship struck by drone",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Oman weighs Strait of Hormuz fees after war",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-weighs-strait-hormuz-fees-after-war",
+          "title": "Explosions reported near Strait of Hormuz after US strikes Iran",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-near-strait-hormuz-after-us-strikes-iran",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "UN: Israeli war on Gaza leaves tens of thousands with hearing impairments - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vcDY2MDZtZ0NEaFM5bngyTjdPeTNObEN2TTFldU5pMTFGcnRZQjV0dVpOc2h0WkhmYnhTZ0xvQlBRdVVrTHZSdHBfYnpJWm55dnZSVU1ISQ?oc=5",
-          "source": "WAFA News",
+          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
+          "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "In direct attack on key election rival, Netanyahu brands Eisenkot as too cautious",
-          "url": "https://www.timesofisrael.com/netanyahu-brands-eisenkot-as-too-cautious-in-direct-attack-on-key-election-rival/",
+          "title": "Israel strikes South for first time since Saturday, abducts 8 farmers in Ain Arab",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamx0ODdPM2JoMGJxbFdIRW1UbnZLN21FWVdpSG5KY1QtU3RIZllqWS0xcVVWcWRvcWFuYnpiODNoOGN1bkl2NmEzTG5EemtxS0xUZk9sYWRTUXVUbTdLci1SdUNMbHdMNjJzYVFjNmhiUjFNMHB6RGNhNEJOM0pROEVMUlRNWWJLSFZZeWpRSUJrOUxld3pPU0JyZXpFMWhXRGpCWUIwMFpDRWpOM2l0TkJQWmcyR3ZJLUhscHhCa3dvQQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "US strikes Iran, as tit-for-tat attacks dramatically reignite tensions",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900656",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "IDF says strike killed Oct. 7 terrorist commander, nephew of ex-Hamas chief Haniyeh",
+          "url": "https://www.timesofisrael.com/idf-says-strike-killed-oct-7-terrorist-commander-nephew-of-ex-hamas-chief-haniyeh/",
           "source": "Times of Israel",
           "region": "Israel"
         },
         {
-          "title": "Hezbollah says Israel-Lebanon agreement ‘null and void’; Israel said bracing for attack",
-          "url": "https://www.timesofisrael.com/hezbollah-says-israel-lebanon-agreement-null-and-void-as-its-allies-threaten-civil-war/",
-          "source": "Times of Israel",
+          "title": "Israel Strikes Southern Lebanon Day After U.S.-brokered Deal, Report Says",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVXlRbEh1Q2ZZSl92NjZfSVdBejB2YWY0MEhFVHA4amFnTWxlQ1o0RlZtQ2FpWDZmXzhMdWJVaFk1NzhzcE1PdVAyaDZGUXhnbkp6V1p4WlFvc0hIa3lNeFk1eEVPQWp4RmlSWXpzUDRBZWxrb1pyWHJCcE9uTFFlc2IzR0JIY1loOHpFcGNQOWVNazhmZkZMQndvT3lUalZ6RWU1UXJlMzJUY1dxWmNPZXlSWGl1LWpqVGJUZTRXWmRGYlRxM3JlUmFVcUpKSkktc3MtdjlHNGNzMXBFTjZycDBDaVI4OEtZdkhRRW1nWDJWeXJIVmQ1cm9vOGdpcWZuT1lQNE10WGNRUHVXZTItXw?oc=5",
+          "source": "Haaretz",
           "region": "Israel"
-        },
-        {
-          "title": "Baqaei: Providing technical support and assistance to aggressors is tantamount to complicity in aggression",
-          "url": "https://en.irna.ir/news/86194388/Baqaei-Providing-technical-support-and-assistance-to-aggressors",
-          "source": "IRNA",
-          "region": "Iran"
         }
       ]
     },
@@ -441,7 +489,7 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
+      "term": "war",
       "count": 5,
       "headlines": [
         {
@@ -451,41 +499,35 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "The US and Iran have a deal on paper. At sea, the Strait of Hormuz is ‘chaotic’",
-          "url": "https://www.egyptindependent.com/the-us-and-iran-have-a-deal-on-paper-at-sea-the-strait-of-hormuz-is-chaotic/",
-          "source": "Egypt Independent",
+          "title": "UN: Israeli war on Gaza leaves tens of thousands with hearing impairments - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vcDY2MDZtZ0NEaFM5bngyTjdPeTNObEN2TTFldU5pMTFGcnRZQjV0dVpOc2h0WkhmYnhTZ0xvQlBRdVVrTHZSdHBfYnpJWm55dnZSVU1ISQ?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "More than 100 vessels evacuated from Strait of Hormuz as Gulf of Oman attack halts wider rescue mission",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ1RqRmx6VjVZQ1owYWtxdXFZbVJPUE9pZUFvcDVmQnpOZmIyMXplb1dTamlWUUwxcVE2YjFtSVE5S21BYVpzYkJUSGdrcHlENlMwQ1dtdkJBbzRsek16NmZNTHloenlzMHhJaW9ZLTFMZmFMeGlWTEdXZnVsdldaUlRsYUw2RTNEZUZpUTdpOVlDU3ZjcFBWaEpsdFNFNlZyYkNUNHRvUDBFbUwweTR6WWxJTl9oUGRsN3ZFUDRIbFo4dTRJc1A2S1J1WXJTa25TMlBLdldtdGU3elRQYXVrUVVrUFlyN3RPSEJaSG1B?oc=5",
-          "source": "The National",
-          "region": "Gulf"
+          "title": "In direct attack on key election rival, Netanyahu brands Eisenkot as too cautious",
+          "url": "https://www.timesofisrael.com/netanyahu-brands-eisenkot-as-too-cautious-in-direct-attack-on-key-election-rival/",
+          "source": "Times of Israel",
+          "region": "Israel"
         },
         {
-          "title": "Iran seeks \"insurance mechanism\" to reduce risks for ships transiting through Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnc2eFo5Z0FkejY5ZzlvWVBlaTBqY0pPTktOWEhGRXV2MlU4T1lvUTBRNUQ4cEpYUlRDZHJyekQyUDNuOU81OGktVGpzc0QxZlF2QWhxVmxFMmZUb2pzaThHUDFFbFlhNVhVa3F3WFZBN0F2ZXBoQWxaNDQ4Tkg0dkF2cGRBbUNrbU80TmQ2MEdtRC1JaDhBcHNFYXZraVhFX3N3Z2hpRHlGc21CVzBnNWZmRGdXMkNYbkxKdEE1d2NoVkJjem1TTjlB?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
+          "title": "Hezbollah says Israel-Lebanon agreement ‘null and void’; Israel said bracing for attack",
+          "url": "https://www.timesofisrael.com/hezbollah-says-israel-lebanon-agreement-null-and-void-as-its-allies-threaten-civil-war/",
+          "source": "Times of Israel",
+          "region": "Israel"
         },
         {
-          "title": "UKMTO reports new ship attack in Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
-          "source": "Mehr News",
+          "title": "Baqaei: Providing technical support and assistance to aggressors is tantamount to complicity in aggression",
+          "url": "https://en.irna.ir/news/86194388/Baqaei-Providing-technical-support-and-assistance-to-aggressors",
+          "source": "IRNA",
           "region": "Iran"
         }
       ]
     },
     {
       "term": "Palestinian",
-      "count": 5,
+      "count": 4,
       "headlines": [
-        {
-          "title": "Racist far-right Israeli lawmaker’s visit sparks school strike in Palestinian city",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/racist-far-right-israeli-lawmakers-visit-sparks-school-strike",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
         {
           "title": "Israel settlers seizing Palestinian land to open 'tourist' sites",
           "url": "https://www.newarab.com/news/israel-settlers-seizing-palestinian-land-open-tourist-sites",
@@ -513,108 +555,6 @@
       ]
     },
     {
-      "term": "strikes",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel strikes South for first time since Saturday, abducts 8 farmers in Ain Arab",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamx0ODdPM2JoMGJxbFdIRW1UbnZLN21FWVdpSG5KY1QtU3RIZllqWS0xcVVWcWRvcWFuYnpiODNoOGN1bkl2NmEzTG5EemtxS0xUZk9sYWRTUXVUbTdLci1SdUNMbHdMNjJzYVFjNmhiUjFNMHB6RGNhNEJOM0pROEVMUlRNWWJLSFZZeWpRSUJrOUxld3pPU0JyZXpFMWhXRGpCWUIwMFpDRWpOM2l0TkJQWmcyR3ZJLUhscHhCa3dvQQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "IDF says strike killed Oct. 7 terrorist commander, nephew of ex-Hamas chief Haniyeh",
-          "url": "https://www.timesofisrael.com/idf-says-strike-killed-oct-7-terrorist-commander-nephew-of-ex-hamas-chief-haniyeh/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "IDF says it struck terror operatives in south Lebanon, after framework deal announced",
-          "url": "https://www.timesofisrael.com/idf-says-it-struck-terror-operatives-in-south-lebanon-after-framework-deal-announced/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Israel Strikes Southern Lebanon Day After U.S.-brokered Deal, Report Says",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVXlRbEh1Q2ZZSl92NjZfSVdBejB2YWY0MEhFVHA4amFnTWxlQ1o0RlZtQ2FpWDZmXzhMdWJVaFk1NzhzcE1PdVAyaDZGUXhnbkp6V1p4WlFvc0hIa3lNeFk1eEVPQWp4RmlSWXpzUDRBZWxrb1pyWHJCcE9uTFFlc2IzR0JIY1loOHpFcGNQOWVNazhmZkZMQndvT3lUalZ6RWU1UXJlMzJUY1dxWmNPZXlSWGl1LWpqVGJUZTRXWmRGYlRxM3JlUmFVcUpKSkktc3MtdjlHNGNzMXBFTjZycDBDaVI4OEtZdkhRRW1nWDJWeXJIVmQ1cm9vOGdpcWZuT1lQNE10WGNRUHVXZTItXw?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "IDF",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "‘I was low-hanging fruit’: IDF reservist targeted by UK legal group sees case collapse in court",
-          "url": "https://www.jpost.com/diaspora/article-900568",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "WATCH: IDF killed Walid Haniyeh, nephew of former Hamas leader Ismail Haniyeh, military says",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900650",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "IDF says strike killed Oct. 7 terrorist commander, nephew of ex-Hamas chief Haniyeh",
-          "url": "https://www.timesofisrael.com/idf-says-strike-killed-oct-7-terrorist-commander-nephew-of-ex-hamas-chief-haniyeh/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "IDF says it struck terror operatives in south Lebanon, after framework deal announced",
-          "url": "https://www.timesofisrael.com/idf-says-it-struck-terror-operatives-in-south-lebanon-after-framework-deal-announced/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Hezbollah Chief Rejects Israel-Lebanon Deal, Pushes for Full IDF Withdrawal",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQnUwLVBmeWZ6azVxNWtxcDdrRWgyVFEtRGtmWXRsX2NwZlNVX3dhNW96TmNtMEpoNWVnSS16QzlSelY5Z0NlT3JqUFpKUm9BSzZuT0hKdnVGdVY5UGk5MlJRYnA3WTdhb1lCTEg2QmJuUHlfWFZnb0J4eUxZN0ItbXlBcWcza2Vhcy03b1NBcHkwSVpLUzZDOUNIaUNBd21ZeDRlRG5wckdPSEhXbnBLd1pBR0NDTDdueUFiODNZQjNaeWstalhqVlN6emsyNWw1bkE2bktYZ0czYWNzYmFQLXlNTEYweVlJcm95T3JUVkR1WXE1aXR0T2EzRzU4RXV0RkZBN2FsS0lDSjBKRzNLMkdrMm1tVm5QR1dITUdJTQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
-          "url": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon says Trump backed ceasefire deal in call with Lebanese president",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-trump-backed-ceasefire-deal-call-lebanese-president",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump congratulates Lebanese president on Israel framework deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-congratulates-lebanese-president-israel-framework-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump Says Iran Has ‘Some Military Capability, Not Much’",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUNIBsAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUA?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
       "term": "Netanyahu",
       "count": 4,
       "headlines": [
@@ -631,8 +571,8 @@
           "region": "Gulf"
         },
         {
-          "title": "Netanyahu hails trilateral agreement with Lebanon, says it weakens Hezbollah, Iran",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900651",
+          "title": "Israeli politicians lash out after Netanyahu announces intention of 'broad national government'",
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900654",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
@@ -675,32 +615,56 @@
       ]
     },
     {
-      "term": "Hezbollah",
+      "term": "Tehran",
       "count": 4,
       "headlines": [
         {
-          "title": "Netanyahu hails trilateral agreement with Lebanon, says it weakens Hezbollah, Iran",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900651",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Hezbollah says Israel-Lebanon agreement ‘null and void’; Israel said bracing for attack",
-          "url": "https://www.timesofisrael.com/hezbollah-says-israel-lebanon-agreement-null-and-void-as-its-allies-threaten-civil-war/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Hezbollah Chief Rejects Israel-Lebanon Deal, Pushes for Full IDF Withdrawal",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQnUwLVBmeWZ6azVxNWtxcDdrRWgyVFEtRGtmWXRsX2NwZlNVX3dhNW96TmNtMEpoNWVnSS16QzlSelY5Z0NlT3JqUFpKUm9BSzZuT0hKdnVGdVY5UGk5MlJRYnA3WTdhb1lCTEg2QmJuUHlfWFZnb0J4eUxZN0ItbXlBcWcza2Vhcy03b1NBcHkwSVpLUzZDOUNIaUNBd21ZeDRlRG5wckdPSEhXbnBLd1pBR0NDTDdueUFiODNZQjNaeWstalhqVlN6emsyNWw1bkE2bktYZ0czYWNzYmFQLXlNTEYweVlJcm95T3JUVkR1WXE1aXR0T2EzRzU4RXV0RkZBN2FsS0lDSjBKRzNLMkdrMm1tVm5QR1dITUdJTQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Hezbollah leader rejects US-brokered Lebanon deal",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1gxRGJiVjFDU0hXdVVpZW9INzU1ZVJjQmZzM1hxdF92S1hKWmN5MlBPZkt3YnRWZWVpOWgxeWF1MXhvS2l0OGs3ZDYzN2tOT2NiZWE0X216QUVHMUo5QzNlTXdvaUVWQ1lRWHhYdjFXTFVhMDRuZDQzdGp1Q3pkeEVRV28yMTZNUThRZGRB?oc=5",
-          "source": "Mehr News",
+          "title": "Iran announces details for funeral ceremonies as nation prepares to bid farewell to martyred Leader",
+          "url": "https://en.irna.ir/news/86194435/Iran-announces-details-for-funeral-ceremonies-as-nation-prepares",
+          "source": "IRNA",
           "region": "Iran"
+        },
+        {
+          "title": "Baqaei: Providing technical support and assistance to aggressors is tantamount to complicity in aggression",
+          "url": "https://en.irna.ir/news/86194388/Baqaei-Providing-technical-support-and-assistance-to-aggressors",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "VP Aref: Narrative and documentation of funeral ceremony of Leader should be carried out for world people",
+          "url": "https://en.irna.ir/news/86194377/VP-Aref-Narrative-and-documentation-of-funeral-ceremony-of-Leader",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Tehran is preparing to host a worthy farewell ceremony for martyred Leader",
+          "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Iranian",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "US launches second night of strikes against Iran after ship struck by drone",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Explosions reported near Strait of Hormuz after US strikes Iran",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-near-strait-hormuz-after-us-strikes-iran",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US will not ignore Iranian attacks on commercial shipping, CENTCOM tells Al Arabiya",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1VaakRMTEp3RlJ5LWFyakl0UHc4c2pLbWNOSm1YendWZ01iVkoxTnJrOXc0aTBtTWxTWWR6bnlCdWtJTzcxUWtsTTBCTmgzQmJwMEllMHRmbTRrbndzdVJXOVY3R1poSTd6NDEzX1lUZ0h6eFh1cm9qSTJXbnE5Nk1LUURtQi1IRnRnbjFNSlNmMkNPOGR5d1ljYm9OWWhyanc4Wi12cFhjZUQ1UXg0U3FHT3BPSWQ4ZDVlZXB0N0F4c1R4aUtHT0JhMk9OTnMySWpCOUVkOGQ0Q05i0gHcAUFVX3lxTE1LVVpqRExMSndGUnktYXJqSXRQdzhzakttY05KbVh6d1ZnTWJWSjFOcms5dzRpMG1NbFNZZHpueUJ1a0lPNzFRa2xNMEJOaDNCYnAwSWUwdGZtNGtud3N1Ulc5VjdHWmhJN3o0MTNfWVRnSHp4WHVyb2pJMlducTk2TUtRRG1CLUhGdGduMU1KU2YyQ084ZHl3WWNib05ZaHJqdzhaLXZwWGNlRDVReDRTcUdPcE9JZDhkNWVlcHQ3QXhzVHhpS0dPQmEyT05OczJJakI5RWQ4ZDRDTmI?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -729,11 +693,35 @@
       ]
     },
     {
+      "term": "Trump",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
+          "url": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon says Trump backed ceasefire deal in call with Lebanese president",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-trump-backed-ceasefire-deal-call-lebanese-president",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump congratulates Lebanese president on Israel framework deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-congratulates-lebanese-president-israel-framework-deal",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
       "term": "Venezuela",
       "count": 3,
       "headlines": [
         {
-          "title": "Another powerful 4.8 magnitude earthquake hits near Venezuela",
+          "title": "Another powerful magnitude 4.8 earthquake hits near Venezuela",
           "url": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -745,10 +733,10 @@
           "region": "Levant"
         },
         {
-          "title": "Iran offers condolences, aid to Venezuela following deadly earthquakes",
-          "url": "https://en.irna.ir/news/86194290/Iran-offers-condolences-aid-to-Venezuela-following-deadly-earthquakes",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Qatar joins global rescue mission in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelBZcjRMQ2VVUUJRdEFHNkJwM0hIX2VVYldsdXRmZFNvbGtncFkyX0ZSLWdkSHZHa3FRMndkaFA2ZFZFcFhCcnBEcUNTNVFJSXlULXNQTDdIaUpwdVY4eV9WbXFwMlRPQzZRNmZGUGtVeFVwTjZIVGtpN2xEdkNaMDBoakkzMzEtcDI0R2NFTWxsSGxrZVQ1bm5R0gGfAUFVX3lxTE85dlZoVmpMSmlrU0lTOHFDYjdTdUJEc004a3J2bWxTYXJMNlgtejVoS3hZT0ZBQXpfUlp3NnhOc3FieGxnTzhfN1hFUGlGeklCU2hHRC16b2lINVRna2N4OHNTeDdlZ1ZValBnR2ZhUkJtUWJXZHA0azVyM3ZCUkR0cVU0ZlkyTno2MWRzMy1sM2h1SEZmY0ljVXI5QkYxWQ?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
@@ -781,9 +769,9 @@
       "count": 3,
       "headlines": [
         {
-          "title": "Racist far-right Israeli lawmaker’s visit sparks school strike in Palestinian city",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/racist-far-right-israeli-lawmakers-visit-sparks-school-strike",
-          "source": "Middle East Eye",
+          "title": "Tanker reports strike by unidentified projectile in Strait of Hormuz, UKMTO says",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3N3cFU2TnZ6dmpMYm9SYmdtenNJcmMzSkh4ZVQ2NVpxYW5wYVdmSk1kX0RvMEpqY3pEYl9INlppZW9YaGppQ2NrZTJ6UFlFU0d0UEJWZ2hJeEh6cGQ3YUNUbkQzYVJSWFNMV0ZhQy1WR2tEZmdzd1FQZVZZRFNWaVl5NXhuUlJQZjI4dTNfTkZDbmFNVVliVVROcGlJbkdCUWNlWTlDcWk1Zi1HNWstS2lRQ2t2RENZQ0xMMEU1dmdlUldQSW1mWTBjT2FsYUEtRE5nOWhSMy3SAdgBQVVfeXFMTm9zd3BVNk52enZqTGJvUmJnbXpzSXJjM0pIeGVUNjVacWFucGFXZkpNZF9EbzBKamN6RGJfSDZaaWVvWGhqaUNja2UyelBZRVNHdFBCVmdoSXhIenBkN2FDVG5EM2FSUlhTTFdGYUMtVkdrRGZnc3dRUGVWWURTVmlZeTV4blJSUGYyOHUzX05GQ25hTVVZYlVUTnBpSW5HQlFjZVk5Q3FpNWYtRzVrLUtpUUNrdkRDWUNMTDBFNXZnZVJXUEltZlkwY09hbGFBLUROZzloUjMt?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -797,6 +785,30 @@
           "url": "https://www.timesofisrael.com/idf-says-strike-killed-oct-7-terrorist-commander-nephew-of-ex-hamas-chief-haniyeh/",
           "source": "Times of Israel",
           "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Health",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "احذروا.. أدوية تسبب أضراراً صحية خطيرة خلال شدة الحر",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOd25nWXczMHlFVTNnd0RrbE5EcnZaRjB4N0RPNkNaNU0wc1hfZDg3dTdsT2VuWXVwMW1mTTFOVkxSblVKLUFBTHR3UDlFc1JkMjg0SDZNQW9FbDFjWEFuZVUyTEo4VW51LXoyYmFvaXRNb0x6eU5wTE14dWRlcXpKRjUwbnJ4eUNoRjFJbHpCX1NCc0JVczBUNzVIODZodnFYamhpM3JWZ0FWYmd1SUk2M0NSRTREbTl5TE04NDBsTnA5cmtRSG5YNWhlUFVmejIzNkl3S2p3aFhfQlFuXy1NS0xhdXhMMVJ6dEU2NWE3RENORnlWQnp0SVd3SmVkc0NHX0pDcEhzQ2xTbGZHRzQ4X1ZBLU9NU3BW?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "WISH summit set for Nov with ‘New Health Span’ as theme",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX25VZEJ5R0RNZURma29mTm5hRlBEMVU2a2VBQmpHRVZyWFZYaUIydTNmWmc2czNiSnZQU3hadFU0YWJIcXJBa1pnYVVtT3RhdEFqeUZtNVh1OXNHdlFUMlVSNzNaSk9JS2RPZ1pFY3F0cjF2QkJVbHZYWnBXZ0puaDg4bTVmY3pvdDExVjhGUmJFdHZ2QWlZNXNGV0c0c0RkOU1Z0gGoAUFVX3lxTE4wVFdUX1hXa0E2ZF82eHEyWHYtVFdrSWdvaVdHV1JmZlJfTzJaemRpVmlKSktJdGZBNjFPU0hocURKSHo4TXhaQTMxdVJvZ1hTOU1mZ3pCTmEyVkVSc25IQkw5RFdENHY1TUdlWmo0Z1F1MXBPVGdsc2dLVlY3M3R6cG81Z0hQTkhsRVZVRzRvR3VRLTdZNDU0U0pXUDZiRTNET29ub1hveA?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "MOPH launches Mental Health promotion program for senior citizens",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VSdEs5QndoYmNHM2p0TUgySVFIcC1MeDA5Vk9KYzhvemxTTGtiNDkxS2hZcDd6N0cyWDRJZERVTElsSVphN0RlX3pCZlZNaGcwNVhyeDFzTUlQMTg0d1JkYWdjSlptV3gwbW1hcDJYaEZKOEJtZU1UZjlsa0ZIWDQxakRieHdWR2h4cFpUcWsydVowSXhwV3BzVmhZMFdUb0NnLXdwa0FmMGpyWUEwOFZ2SdIBuAFBVV95cUxQVDREQ0RiMmJYZ04wdnB4YXJKMThLUlVsaWRzTk9vSmtRQkFMVi0zY0NVT1JjUzM1eE1FVTNHZ3VjeWQtRWhMUUxtTG5jS3BTVVdMTG1IVmxvdkRvWWVJV1NwNHJzeXlJVXM3Si1PYVVtdDRNT0dNcUhEajhVbThMNEkxZWhDZ3BDRjJnZnduWUU0aXZOOE1Yb3lKZGtnVkNFelByZGc2aXRNOXNvUk5FTmhQYUF4OFRE?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
@@ -825,15 +837,33 @@
       ]
     },
     {
-      "term": "Israel-Lebanon",
+      "term": "Jews",
       "count": 3,
       "headlines": [
         {
-          "title": "Netanyahu hails trilateral agreement with Lebanon, says it weakens Hezbollah, Iran",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900651",
+          "title": "There is no distinction between Jews and Zionists - ask Jews from Arab countries - opinion",
+          "url": "https://www.jpost.com/opinion/article-900404",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
+        {
+          "title": "The irony behind telling Jews to 'go back where they belong' - opinion",
+          "url": "https://www.jpost.com/opinion/article-900259",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "‘Born to make people laugh’: Comedy legend and Jewish icon Mel Brooks turns 100",
+          "url": "https://www.timesofisrael.com/born-to-make-people-laugh-comedy-legend-and-jewish-icon-mel-brooks-turns-100/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Hezbollah",
+      "count": 3,
+      "headlines": [
         {
           "title": "Hezbollah says Israel-Lebanon agreement ‘null and void’; Israel said bracing for attack",
           "url": "https://www.timesofisrael.com/hezbollah-says-israel-lebanon-agreement-null-and-void-as-its-allies-threaten-civil-war/",
@@ -845,30 +875,30 @@
           "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQnUwLVBmeWZ6azVxNWtxcDdrRWgyVFEtRGtmWXRsX2NwZlNVX3dhNW96TmNtMEpoNWVnSS16QzlSelY5Z0NlT3JqUFpKUm9BSzZuT0hKdnVGdVY5UGk5MlJRYnA3WTdhb1lCTEg2QmJuUHlfWFZnb0J4eUxZN0ItbXlBcWcza2Vhcy03b1NBcHkwSVpLUzZDOUNIaUNBd21ZeDRlRG5wckdPSEhXbnBLd1pBR0NDTDdueUFiODNZQjNaeWstalhqVlN6emsyNWw1bkE2bktYZ0czYWNzYmFQLXlNTEYweVlJcm95T3JUVkR1WXE1aXR0T2EzRzU4RXV0RkZBN2FsS0lDSjBKRzNLMkdrMm1tVm5QR1dITUdJTQ?oc=5",
           "source": "Haaretz",
           "region": "Israel"
+        },
+        {
+          "title": "Hezbollah leader rejects US-brokered Lebanon deal",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1gxRGJiVjFDU0hXdVVpZW9INzU1ZVJjQmZzM1hxdF92S1hKWmN5MlBPZkt3YnRWZWVpOWgxeWF1MXhvS2l0OGs3ZDYzN2tOT2NiZWE0X216QUVHMUo5QzNlTXdvaUVWQ1lRWHhYdjFXTFVhMDRuZDQzdGp1Q3pkeEVRV28yMTZNUThRZGRB?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
     {
-      "term": "Tehran",
-      "count": 3,
+      "term": "drone",
+      "count": 2,
       "headlines": [
         {
-          "title": "Baqaei: Providing technical support and assistance to aggressors is tantamount to complicity in aggression",
-          "url": "https://en.irna.ir/news/86194388/Baqaei-Providing-technical-support-and-assistance-to-aggressors",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "US launches second night of strikes against Iran after ship struck by drone",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
         },
         {
-          "title": "VP Aref: Narrative and documentation of funeral ceremony of Leader should be carried out for world people",
-          "url": "https://en.irna.ir/news/86194377/VP-Aref-Narrative-and-documentation-of-funeral-ceremony-of-Leader",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Tehran is preparing to host a worthy farewell ceremony for martyred Leader",
-          "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON3BObXhNa3pXeVI0STRxWGNLTER6RTNJMGVIS21XSEwtY2w4emZYNElXdUZJRjhEaHA2dVc3XzNfeV9uMDBHMUE3Q3B6cGRMYWpJVWFqMmx2aXVhSzJtR1Rjei1scmJKNGRaZl90czRxbWpwRkpBeUFSbFpvSU1VaDJ1R1NVaGYzVVNSZkcxMFdXLWhHVXE5QkxfM0psSWRBUUdwRUd6c0RNMnRaTXROUWFUUzFBQTN6YURrd1pFSS1WakNSSWJmMl9pSnlTOGNxRGFtRzRjblFnYkRMRGxqTEt4SzQzeThiZl9pY29EdGRUR1NWLVRxbm10V19LeW50X3NxU0NYTVc5MjlzWDV2Y1dYckxvRmszblE?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         }
       ]
     },
@@ -1017,6 +1047,24 @@
       ]
     },
     {
+      "term": "UKMTO",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Tanker reports strike by unidentified projectile in Strait of Hormuz, UKMTO says",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3N3cFU2TnZ6dmpMYm9SYmdtenNJcmMzSkh4ZVQ2NVpxYW5wYVdmSk1kX0RvMEpqY3pEYl9INlppZW9YaGppQ2NrZTJ6UFlFU0d0UEJWZ2hJeEh6cGQ3YUNUbkQzYVJSWFNMV0ZhQy1WR2tEZmdzd1FQZVZZRFNWaVl5NXhuUlJQZjI4dTNfTkZDbmFNVVliVVROcGlJbkdCUWNlWTlDcWk1Zi1HNWstS2lRQ2t2RENZQ0xMMEU1dmdlUldQSW1mWTBjT2FsYUEtRE5nOWhSMy3SAdgBQVVfeXFMTm9zd3BVNk52enZqTGJvUmJnbXpzSXJjM0pIeGVUNjVacWFucGFXZkpNZF9EbzBKamN6RGJfSDZaaWVvWGhqaUNja2UyelBZRVNHdFBCVmdoSXhIenBkN2FDVG5EM2FSUlhTTFdGYUMtVkdrRGZnc3dRUGVWWURTVmlZeTV4blJSUGYyOHUzX05GQ25hTVVZYlVUTnBpSW5HQlFjZVk5Q3FpNWYtRzVrLUtpUUNrdkRDWUNMTDBFNXZnZVJXUEltZlkwY09hbGFBLUROZzloUjMt?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "UKMTO reports new ship attack in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Iraq",
       "count": 2,
       "headlines": [
@@ -1071,18 +1119,18 @@
       ]
     },
     {
-      "term": "Abbas",
+      "term": "Guards",
       "count": 2,
       "headlines": [
         {
-          "title": "President Abbas congratulates Nabil Fahmy on appointment as Arab League secretary-general - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ISVpmcWo5RWdnZnRnS2d1dUZ6RW45eVpxd1JsRTNQV3BUVG1RYk9CS21YaTUxMUNYNGRra3Atdl9WSmtpTjZOUm1Vb18zeWIzNmhQSzAtaw?oc=5",
-          "source": "WAFA News",
+          "title": "The US and Iran have a deal on paper. At sea, the Strait of Hormuz is ‘chaotic’",
+          "url": "https://www.egyptindependent.com/the-us-and-iran-have-a-deal-on-paper-at-sea-the-strait-of-hormuz-is-chaotic/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Iran offers condolences, aid to Venezuela following deadly earthquakes",
-          "url": "https://en.irna.ir/news/86194290/Iran-offers-condolences-aid-to-Venezuela-following-deadly-earthquakes",
+          "title": "Iran announces details for funeral ceremonies as nation prepares to bid farewell to martyred Leader",
+          "url": "https://en.irna.ir/news/86194435/Iran-announces-details-for-funeral-ceremonies-as-nation-prepares",
           "source": "IRNA",
           "region": "Iran"
         }
@@ -1215,128 +1263,74 @@
       ]
     },
     {
-      "term": "Jews",
+      "term": "Qatar",
       "count": 2,
       "headlines": [
         {
-          "title": "There is no distinction between Jews and Zionists - ask Jews from Arab countries - opinion",
-          "url": "https://www.jpost.com/opinion/article-900404",
-          "source": "Jerusalem Post",
-          "region": "Israel"
+          "title": "Qatar joins global rescue mission in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelBZcjRMQ2VVUUJRdEFHNkJwM0hIX2VVYldsdXRmZFNvbGtncFkyX0ZSLWdkSHZHa3FRMndkaFA2ZFZFcFhCcnBEcUNTNVFJSXlULXNQTDdIaUpwdVY4eV9WbXFwMlRPQzZRNmZGUGtVeFVwTjZIVGtpN2xEdkNaMDBoakkzMzEtcDI0R2NFTWxsSGxrZVQ1bm5R0gGfAUFVX3lxTE85dlZoVmpMSmlrU0lTOHFDYjdTdUJEc004a3J2bWxTYXJMNlgtejVoS3hZT0ZBQXpfUlp3NnhOc3FieGxnTzhfN1hFUGlGeklCU2hHRC16b2lINVRna2N4OHNTeDdlZ1ZValBnR2ZhUkJtUWJXZHA0azVyM3ZCUkR0cVU0ZlkyTno2MWRzMy1sM2h1SEZmY0ljVXI5QkYxWQ?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         },
+        {
+          "title": "Qatar strongly condemns Iran's attacks on Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSldDOUEwNlBwZmRvWXE3UHUtUjNIb3NqUGhzeFUteW1feVM4SnZVbVRJZDRzRkJXcjFldG1wUkcyYjUzVDZhR2xTQlJCVWMwai05OC12ejNQWG9lRjFwd2JOZncwZThiblJzak1JM0tWUzhFaUw3M3dQZnRUV2o3R2ZXSGU1ZFFhSlFvaks2UGlzWUFiVDZXdmdUY3PSAaIBQVVfeXFMTmxVSXBhaV9LLUs5c3FiSlRWT2lraG5rNS16WVNqUjVkb1p0ZmplVGN4OUVqUERJdjRONGk3VHV2ZXZZUW1sZGpZNlkyZjY5eEQwbktYSENoekJudmdXWjQwX0RzQzdnWEhMUlBQQjU1Q0dMempvbGtuOEtmSmc1WjROUjVMTDc1T2ZPS2R0c09PY09MREk2a0ViMTNqMFduYm1n?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Jewish",
+      "count": 2,
+      "headlines": [
         {
           "title": "The irony behind telling Jews to 'go back where they belong' - opinion",
           "url": "https://www.jpost.com/opinion/article-900259",
           "source": "Jerusalem Post",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Walid",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "WATCH: IDF killed Walid Haniyeh, nephew of former Hamas leader Ismail Haniyeh, military says",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900650",
-          "source": "Jerusalem Post",
-          "region": "Israel"
         },
         {
-          "title": "IDF says strike killed Oct. 7 terrorist commander, nephew of ex-Hamas chief Haniyeh",
-          "url": "https://www.timesofisrael.com/idf-says-strike-killed-oct-7-terrorist-commander-nephew-of-ex-hamas-chief-haniyeh/",
+          "title": "‘Born to make people laugh’: Comedy legend and Jewish icon Mel Brooks turns 100",
+          "url": "https://www.timesofisrael.com/born-to-make-people-laugh-comedy-legend-and-jewish-icon-mel-brooks-turns-100/",
           "source": "Times of Israel",
           "region": "Israel"
         }
       ]
     },
     {
-      "term": "Haniyeh",
+      "term": "Brooks",
       "count": 2,
       "headlines": [
         {
-          "title": "WATCH: IDF killed Walid Haniyeh, nephew of former Hamas leader Ismail Haniyeh, military says",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900650",
+          "title": "Mazal tov to Mel Brooks: The 100-year-old man",
+          "url": "https://www.jpost.com/diaspora/article-900655",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
         {
-          "title": "IDF says strike killed Oct. 7 terrorist commander, nephew of ex-Hamas chief Haniyeh",
-          "url": "https://www.timesofisrael.com/idf-says-strike-killed-oct-7-terrorist-commander-nephew-of-ex-hamas-chief-haniyeh/",
+          "title": "‘Born to make people laugh’: Comedy legend and Jewish icon Mel Brooks turns 100",
+          "url": "https://www.timesofisrael.com/born-to-make-people-laugh-comedy-legend-and-jewish-icon-mel-brooks-turns-100/",
           "source": "Times of Israel",
           "region": "Israel"
         }
       ]
     },
     {
-      "term": "Hamas",
+      "term": "Blazing",
       "count": 2,
       "headlines": [
         {
-          "title": "WATCH: IDF killed Walid Haniyeh, nephew of former Hamas leader Ismail Haniyeh, military says",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-900650",
+          "title": "Mazal tov to Mel Brooks: The 100-year-old man",
+          "url": "https://www.jpost.com/diaspora/article-900655",
           "source": "Jerusalem Post",
           "region": "Israel"
         },
         {
-          "title": "In direct attack on key election rival, Netanyahu brands Eisenkot as too cautious",
-          "url": "https://www.timesofisrael.com/netanyahu-brands-eisenkot-as-too-cautious-in-direct-attack-on-key-election-rival/",
+          "title": "‘Born to make people laugh’: Comedy legend and Jewish icon Mel Brooks turns 100",
+          "url": "https://www.timesofisrael.com/born-to-make-people-laugh-comedy-legend-and-jewish-icon-mel-brooks-turns-100/",
           "source": "Times of Israel",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Ayatollah",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "VP Aref: Narrative and documentation of funeral ceremony of Leader should be carried out for world people",
-          "url": "https://en.irna.ir/news/86194377/VP-Aref-Narrative-and-documentation-of-funeral-ceremony-of-Leader",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Tehran is preparing to host a worthy farewell ceremony for martyred Leader",
-          "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Seyyed",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "VP Aref: Narrative and documentation of funeral ceremony of Leader should be carried out for world people",
-          "url": "https://en.irna.ir/news/86194377/VP-Aref-Narrative-and-documentation-of-funeral-ceremony-of-Leader",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Tehran is preparing to host a worthy farewell ceremony for martyred Leader",
-          "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Khamenei",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "VP Aref: Narrative and documentation of funeral ceremony of Leader should be carried out for world people",
-          "url": "https://en.irna.ir/news/86194377/VP-Aref-Narrative-and-documentation-of-funeral-ceremony-of-Leader",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Tehran is preparing to host a worthy farewell ceremony for martyred Leader",
-          "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
-          "source": "IRNA",
-          "region": "Iran"
         }
       ]
     }
