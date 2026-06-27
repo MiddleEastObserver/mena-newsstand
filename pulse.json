@@ -1,17 +1,11 @@
 {
-  "updated": "2026-06-27T12:03:16.814317+00:00",
+  "updated": "2026-06-27T12:17:01.639594+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 22,
+      "count": 21,
       "headlines": [
-        {
-          "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-          "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
         {
           "title": "Kuwait condemns Iranian attack on Bahrain",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-iranian-attack-bahrain",
@@ -97,9 +91,15 @@
           "region": "Levant"
         },
         {
-          "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
+          "title": "Tanker struck in the Strait of Hormuz as Iran and US launch attacks in region",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UOHRjTGpMNmREQlp6Xy1hTVdGY2dWci15a29fMXVaOVg4dVloZ2RKdUYzR0M2aEU5a200SzJjYlVHODlWMlRXSEZLQ1ZVTklUbDg0?oc=5",
           "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "We don't know anything about $300bn Iran reconstruction fund, says GCC Secretary General",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUEVTUUV5UjFUVEYwd1dSX3podjJFdkFjeTQtVlcwM1B1WnVTUHJ4Nl9iUk4wUS1RS292OUVzQlVzZXNaRk8xVDlBd2NUTFJnSkVmZGszM3BMbFFlZ01YWWlUd096RjhDU1Bzb0xQWnh6cU9Ic01iSmVNMDZBa3Rvd09nalZfZkZBVmFCWWYwMjdER2ZXdU1mUU1kUWZYeW9mOEhtQ0ZDMV9obUFZdzNfZVBZdy0yQzR3eWxIWlg3VkVlbHk5a3p4Yzk4eFRlZEZGOFpLWkpB?oc=5",
+          "source": "The National",
           "region": "Gulf"
         },
         {
@@ -109,28 +109,28 @@
           "region": "Israel"
         },
         {
+          "title": "Iran says scheduled flights with UAE to resume this week",
+          "url": "https://en.irna.ir/news/86194094/Iran-says-scheduled-flights-with-UAE-to-resume-this-week",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
           "title": "Top official conveys President Pezeshkian’s greetings to Armenian PM",
           "url": "https://en.irna.ir/news/86194007/Top-official-conveys-President-Pezeshkian-s-greetings-to-Armenian",
           "source": "IRNA",
           "region": "Iran"
         },
         {
-          "title": "Official: Iran, UAE resume trade exchanges",
-          "url": "https://en.irna.ir/news/86193870/Official-Iran-UAE-resume-trade-exchanges",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Ali Larijani’s martyrdom major loss for Iran: Judiciary chief",
-          "url": "https://en.irna.ir/news/86193897/Ali-Larijani-s-martyrdom-major-loss-for-Iran-Judiciary-chief",
-          "source": "IRNA",
+          "title": "Iran Armed Forces prepared to bolster natl. security, justice",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3V1X3JuaXR5WWNDcHJLdEFid0VFYndNR2h0dS11aTZSOWt0aVdfR21jRjRxN2E5VnZKSWxYY21vR1ZEa0hnRmVoVnVzbVJUempNOGl6QUN0ZmUzQTc4UVUtR2NKYnRNTjF6MGdwTzQyZ2tmVnRMbXN6OTZwV0NJWl8waFg4RGNvWnFxMmh3R2haMWhQU3I4X29jaw?oc=5",
+          "source": "Mehr News",
           "region": "Iran"
         }
       ]
     },
     {
       "term": "Israeli",
-      "count": 11,
+      "count": 12,
       "headlines": [
         {
           "title": "Israeli media: Israel’s ‘goal from the start’ was leading Lebanon into civil war",
@@ -181,6 +181,12 @@
           "region": "Levant"
         },
         {
+          "title": "Israeli drone strike hits southern Lebanon day after security deal",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VbkE2akxkZTRxYVVwS0pucFRhQ0hOeUhYcGhnWVlqNFB1R09sM0VUbVVqSnlRYjBkbS02RkxSRV9NOVl5Z2lQSWV4alRzRkVqX0Jn?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
           "title": "'A living system': Skopje mayor looks to Israeli cities for lessons in handling crises",
           "url": "https://www.jpost.com/international/article-900579",
           "source": "Jerusalem Post",
@@ -201,8 +207,68 @@
       ]
     },
     {
-      "term": "Iranian",
+      "term": "Lebanon",
       "count": 9,
+      "headlines": [
+        {
+          "title": "Hezbollah supporters protest in Beirut against Israel deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-protest-beirut-against-israel-deal",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hezbollah supporters protest in Beirut against Israel deal",
+          "url": "https://www.middleeasteye.net/news/hezbollah-supporters-protest-beirut-against-israel-deal",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli media: Israel’s ‘goal from the start’ was leading Lebanon into civil war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-leading-lebanon-civil-war-israels-goal-start",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQktxYVJzVTJHLU9ZaU9GQ2RLUXpUMVRHRk9QZ3VMV0ZjRXh5UWU2QkpjaklLdWtHWjVRZ2JmazZnVkZzdEk3Si1NMUpZakRIV25nRWlJRWtFSy02enV0MHFXZDkyM0FvSGJkRVlEUllZbmx0alFKXzdXQlBpUGN5aVZUX20xSVlPZnpoYm54ZTQyOUVyVjk5YjMwdkRWaTZvak03VDU5ekZySkFlVlkyZkJhMi1PV1I4d0J4TTV3?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "لبنان يوقع اتفاق العار... نتنياهو: إنجاز كبير لإسرائيل! - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOY20yYXV1SDA4LXJjb1lRQWNlVGFOcXZneVpScFowV1hGbzhwSXR1V2FWWE5GamY4ZXJlQ3ZQVTczcnMzdkVOTW0zeC05dUkxY2NQU3BKcDlOeEFYSHJ1N0tVZVVUZjBtbHE1c1BvdHI1VVBnU1ZrSDV1OUptTDhJUXBpdDZRaWVxOC1MTDhSby1tak8tcmtyWk96QTJNN3JtZkdrRl8xYm5WeGY4QkJUSVp6OV9VclQxZmxWWE9pZE1iU25qQTQ0VmRqRTlhUklwN05NNjhhekViaF9lOEw5bWtrM2dta3FsV280XzdPUnJDLVYzS0tRYlR2dHBqUzN0WVBnY0E3N2NwVURjZjhDWFhaRGFfZDdvOXhEM0RBTlJnUEt2LWc5eUVnRG1TSm8wM29scXZ5b1dMUjk2VzV4bWMxTWRpVFNGOEtzT0g3cVFwOVY0dHBaSXR5S3pLcExJaHlUYXU3NnBMS1dBSTBwNUVtbkEzLU9FOWRrX1ptZTZWcjlqWXRyU2FqWEd4cVU5LURPRl9ENHQ4dEttVFFCQk1vWm1GQTFRLVMtOThhdkhGblRPSnBFZ2pibW9ZSncw?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli drone strike hits southern Lebanon day after security deal",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VbkE2akxkZTRxYVVwS0pucFRhQ0hOeUhYcGhnWVlqNFB1R09sM0VUbVVqSnlRYjBkbS02RkxSRV9NOVl5Z2lQSWV4alRzRkVqX0Jn?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Israel to Withdraw From Lebanon Only After Hezbollah Disarmed, Deal Says",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdnBsT0FSajRJa3FGY0RyX2pVZEZ6NVVLN0JDWDdPUGFoTnFlU21PMEtLXzVNd1dkRTd1Y2tLZ2VhbXlxZEJvc0VyM0VrUjk1Nm5JWjVzenZFLVZWS1FuZ0M2Z25OeWtoMmtSS1hRaU5xd0ZuakF3cms1YXlIdGlkLUpvRkw5OW1WUkswM0xYRzhNSzh6LXlHOU94Sm1sTTNyNmt2SlhLdENsdEFsS0NyaEJpNUQ4VmFEZnB5YUxpV0h3UHNaYWFqYzlhbmZyVkdCT3FIWWxLSkJoczBKc2xadWlReXN6aUxPMWt2ejZ6bnJ6QkVxZTZWNVltUnl0dVR0d0d4MHVtaU82M3RoTXdXbG1FTXBzSVlmYjlycA?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "With IDF Drones Circling Overhead, Lebanon's Shi'ites Celebrate the Ashura Holiday",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbGVEWkxvT280YWdKbG12Tm8wbHNyTXI5QzZhSjl4SjljQ0V1YnFkdndhbDAyZU5RR1I2U0JYb0dCd0o5djZUM0FZZjFKYXRJLWtfbkhLT2dRa0RERmhJT0FEVFo4NFQ5QU9Uak9DUkREVHNPRExPMlhOUXNYQ25WYURwRDJRNUVZcTdKRmpHN29JV3NlMUNpMVg0c1RxODRRTk4wS0w0Qm9zR1VRb015d211dDBvVXN6dk0xcUhGWTNhdk10TTl4dkJPQmpMQ2dSdTdyVHJFWklYUGw5M0hTdUM3OVhUSHNVbl91V2FJOHdlZGlELXRnMk53YzZfZktkODhzXy10SUR5c2JoQ0ZlN0Z3dHdGOHRBLThwb3VteWlQQQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Iranian",
+      "count": 8,
       "headlines": [
         {
           "title": "Kuwait condemns Iranian attack on Bahrain",
@@ -250,72 +316,6 @@
           "title": "Top official conveys President Pezeshkian’s greetings to Armenian PM",
           "url": "https://en.irna.ir/news/86194007/Top-official-conveys-President-Pezeshkian-s-greetings-to-Armenian",
           "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Pakistani PM: Pezeshkian’s visit achievements will strengthen bilateral ties",
-          "url": "https://en.irna.ir/news/86193921/Pakistani-PM-Pezeshkian-s-visit-achievements-will-strengthen",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Lebanon",
-      "count": 9,
-      "headlines": [
-        {
-          "title": "Hezbollah supporters protest in Beirut against Israel deal",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-protest-beirut-against-israel-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Hezbollah supporters protest in Beirut against Israel deal",
-          "url": "https://www.middleeasteye.net/news/hezbollah-supporters-protest-beirut-against-israel-deal",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli media: Israel’s ‘goal from the start’ was leading Lebanon into civil war",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-leading-lebanon-civil-war-israels-goal-start",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQktxYVJzVTJHLU9ZaU9GQ2RLUXpUMVRHRk9QZ3VMV0ZjRXh5UWU2QkpjaklLdWtHWjVRZ2JmazZnVkZzdEk3Si1NMUpZakRIV25nRWlJRWtFSy02enV0MHFXZDkyM0FvSGJkRVlEUllZbmx0alFKXzdXQlBpUGN5aVZUX20xSVlPZnpoYm54ZTQyOUVyVjk5YjMwdkRWaTZvak03VDU5ekZySkFlVlkyZkJhMi1PV1I4d0J4TTV3?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "لبنان يوقع اتفاق العار... نتنياهو: إنجاز كبير لإسرائيل! - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOY20yYXV1SDA4LXJjb1lRQWNlVGFOcXZneVpScFowV1hGbzhwSXR1V2FWWE5GamY4ZXJlQ3ZQVTczcnMzdkVOTW0zeC05dUkxY2NQU3BKcDlOeEFYSHJ1N0tVZVVUZjBtbHE1c1BvdHI1VVBnU1ZrSDV1OUptTDhJUXBpdDZRaWVxOC1MTDhSby1tak8tcmtyWk96QTJNN3JtZkdrRl8xYm5WeGY4QkJUSVp6OV9VclQxZmxWWE9pZE1iU25qQTQ0VmRqRTlhUklwN05NNjhhekViaF9lOEw5bWtrM2dta3FsV280XzdPUnJDLVYzS0tRYlR2dHBqUzN0WVBnY0E3N2NwVURjZjhDWFhaRGFfZDdvOXhEM0RBTlJnUEt2LWc5eUVnRG1TSm8wM29scXZ5b1dMUjk2VzV4bWMxTWRpVFNGOEtzT0g3cVFwOVY0dHBaSXR5S3pLcExJaHlUYXU3NnBMS1dBSTBwNUVtbkEzLU9FOWRrX1ptZTZWcjlqWXRyU2FqWEd4cVU5LURPRl9ENHQ4dEttVFFCQk1vWm1GQTFRLVMtOThhdkhGblRPSnBFZ2pibW9ZSncw?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel to Withdraw From Lebanon Only After Hezbollah Disarmed, Deal Says",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdnBsT0FSajRJa3FGY0RyX2pVZEZ6NVVLN0JDWDdPUGFoTnFlU21PMEtLXzVNd1dkRTd1Y2tLZ2VhbXlxZEJvc0VyM0VrUjk1Nm5JWjVzenZFLVZWS1FuZ0M2Z25OeWtoMmtSS1hRaU5xd0ZuakF3cms1YXlIdGlkLUpvRkw5OW1WUkswM0xYRzhNSzh6LXlHOU94Sm1sTTNyNmt2SlhLdENsdEFsS0NyaEJpNUQ4VmFEZnB5YUxpV0h3UHNaYWFqYzlhbmZyVkdCT3FIWWxLSkJoczBKc2xadWlReXN6aUxPMWt2ejZ6bnJ6QkVxZTZWNVltUnl0dVR0d0d4MHVtaU82M3RoTXdXbG1FTXBzSVlmYjlycA?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "With IDF Drones Circling Overhead, Lebanon's Shi'ites Celebrate the Ashura Holiday",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbGVEWkxvT280YWdKbG12Tm8wbHNyTXI5QzZhSjl4SjljQ0V1YnFkdndhbDAyZU5RR1I2U0JYb0dCd0o5djZUM0FZZjFKYXRJLWtfbkhLT2dRa0RERmhJT0FEVFo4NFQ5QU9Uak9DUkREVHNPRExPMlhOUXNYQ25WYURwRDJRNUVZcTdKRmpHN29JV3NlMUNpMVg0c1RxODRRTk4wS0w0Qm9zR1VRb015d211dDBvVXN6dk0xcUhGWTNhdk10TTl4dkJPQmpMQ2dSdTdyVHJFWklYUGw5M0hTdUM3OVhUSHNVbl91V2FJOHdlZGlELXRnMk53YzZfZktkODhzXy10SUR5c2JoQ0ZlN0Z3dHdGOHRBLThwb3VteWlQQQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Mass protests hit across Lebanon over deal with Israel",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzF0aFN0RjhKWEFWV01IdTkxVExmRHVYRl9uekFIcUEwb1hEZUhPaTJiOGpvZnRZOXcycEJ4UUoxX2dnOTVxTmd1WVZXVVg4NDl0WV84THQzQnVwNDRRMnBTN1RkUDVibklXUHBoSWkzRVNYVnRkazlEWmxQaEZFbjVpb19PVTAtN2sza0VNV2N0ZllP?oc=5",
-          "source": "Mehr News",
           "region": "Iran"
         }
       ]
@@ -369,6 +369,48 @@
       ]
     },
     {
+      "term": "attack",
+      "count": 6,
+      "headlines": [
+        {
+          "title": "Kuwait condemns Iranian attack on Bahrain",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-iranian-attack-bahrain",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran claims retaliatory strikes as Bahrain reports drone attack",
+          "url": "https://www.newarab.com/news/iran-claims-retaliatory-strikes-bahrain-reports-drone-attack",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
+          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Veteran Tamil filmmaker K Bhagyaraj dies after heart attack",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTNQV1g1MnQzTnltUXE4em13c0hkZkFwcXpWOXdXLXVGVnEyQVg4ZjBERzhoaGNuNGlZcDJkOS0tU2F1bllxelBwal90TmkzU2pEQnpzdDhLYkdZUUY1VDRDUEU4RXdBVHZwTFEzRFBVRXZfenNGZ00tOWY0LW5nekZBUksyM0RteUxNdUdyZ281QlhjOWpEQ254ZU5RQXgtRGNOQlc5dzd1Y3NDbHZfWDA0WUEwYUplRGtn0gHOAUFVX3lxTE92SkgzMkx3VENMSmFmaWlyYnhBX2E4T2U5QlNLcVVDTVJpRWpNdnZrVUF3WEItcUEwb3BPRkVRMlJLN0ZtbnVFU01UNTRWN1pkdVdfRjFMWVl2Rmd6SUpQVGFtS21Za2tGZGlobS1zdlZIdno0TjFFOGw5Ym5ZSVpnRUE4SU9CaEtQdEV3WEZCb0x5TGlDcjEzMlhmNFEwSDdzUVpSOEkxSlBTZWpkSUxGbUlWb3NncGdoM0NXWlMtRUpoQVY0U01QQWtCcHZ3?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "UKMTO reports new ship attack in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "agreement",
       "count": 6,
       "headlines": [
@@ -407,78 +449,6 @@
           "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdG1FN1g5akhJYmo2Z1JmVkdYSERhU1ZRYS1KbG5aLU8xaWxsb2R5VGozZXpYeWdJb3dTUHk0WV80X0dlS1RwOEViOG5ySzlWX0xEVDF1YkNRR1hXMzdCc1JrSTlURFhMY0FldHRjVy1ZWnJKVXlySkFoWDRBTjdwU2UyNVZZVXl4UFJjcE9mYVM4RjNveTVFT1B0YTNtcl96Zi12Ml8xRFhGa3FjYjdoa1pvd0w0OXlmSmFTZG5RTC14UGh0VThZTzBpTjNTSEZBaFpEN0FMZVJQWUt6dUE4eGRqN2Zsb0JBWUEtWlZTdUc1eXRsZk1rNmN2LWJCQVZ2VDB3UDNTdUM5eW52QkF2d3dNdXZPY3F0Nmc3ZV9QYTRrVmM?oc=5",
           "source": "Haaretz",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "strikes",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-          "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran claims retaliatory strikes as Bahrain reports drone attack",
-          "url": "https://www.newarab.com/news/iran-claims-retaliatory-strikes-bahrain-reports-drone-attack",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US and Iran trade strikes putting new strain on Mideast ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFMwOHZsS3NMYUhBZjFSVldlSW04bGRPcnpsTXE2WFhRcy1Qb2xvTzAyMmNDei01YzB3RHpqVVNic3ZEZS1BWXFFUzBkWnBURVJFSHpZTVl4OFFvRmNMYzh5NHZRSXdsUml0MzdDRVhrUTZfTHFrT0ptdjBaS1FGNDAwMUl5M2RlTkFwVTNHVW1iZnBFY3JyN1BleEVXM2VRaHNv?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "attack",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Kuwait condemns Iranian attack on Bahrain",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-iranian-attack-bahrain",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran claims retaliatory strikes as Bahrain reports drone attack",
-          "url": "https://www.newarab.com/news/iran-claims-retaliatory-strikes-bahrain-reports-drone-attack",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
-          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Veteran Tamil filmmaker K Bhagyaraj dies after heart attack",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTNQV1g1MnQzTnltUXE4em13c0hkZkFwcXpWOXdXLXVGVnEyQVg4ZjBERzhoaGNuNGlZcDJkOS0tU2F1bllxelBwal90TmkzU2pEQnpzdDhLYkdZUUY1VDRDUEU4RXdBVHZwTFEzRFBVRXZfenNGZ00tOWY0LW5nekZBUksyM0RteUxNdUdyZ281QlhjOWpEQ254ZU5RQXgtRGNOQlc5dzd1Y3NDbHZfWDA0WUEwYUplRGtn0gHOAUFVX3lxTE92SkgzMkx3VENMSmFmaWlyYnhBX2E4T2U5QlNLcVVDTVJpRWpNdnZrVUF3WEItcUEwb3BPRkVRMlJLN0ZtbnVFU01UNTRWN1pkdVdfRjFMWVl2Rmd6SUpQVGFtS21Za2tGZGlobS1zdlZIdno0TjFFOGw5Ym5ZSVpnRUE4SU9CaEtQdEV3WEZCb0x5TGlDcjEzMlhmNFEwSDdzUVpSOEkxSlBTZWpkSUxGbUlWb3NncGdoM0NXWlMtRUpoQVY0U01QQWtCcHZ3?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
         }
       ]
     },
@@ -591,32 +561,32 @@
       ]
     },
     {
-      "term": "ceasefire",
+      "term": "Strait of Hormuz",
       "count": 4,
       "headlines": [
         {
-          "title": "Iran claims retaliatory strikes as Bahrain reports drone attack",
-          "url": "https://www.newarab.com/news/iran-claims-retaliatory-strikes-bahrain-reports-drone-attack",
-          "source": "The New Arab",
+          "title": "Iran says more ships seek Hormuz transit permits after warning shots fired",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-more-ships-seek-hormuz-transit-permits-after-warning-shots",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
-          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US and Iran trade strikes putting new strain on Mideast ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFMwOHZsS3NMYUhBZjFSVldlSW04bGRPcnpsTXE2WFhRcy1Qb2xvTzAyMmNDei01YzB3RHpqVVNic3ZEZS1BWXFFUzBkWnBURVJFSHpZTVl4OFFvRmNMYzh5NHZRSXdsUml0MzdDRVhrUTZfTHFrT0ptdjBaS1FGNDAwMUl5M2RlTkFwVTNHVW1iZnBFY3JyN1BleEVXM2VRaHNv?oc=5",
+          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
           "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
+          "title": "Tanker struck in the Strait of Hormuz as Iran and US launch attacks in region",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UOHRjTGpMNmREQlp6Xy1hTVdGY2dWci15a29fMXVaOVg4dVloZ2RKdUYzR0M2aEU5a200SzJjYlVHODlWMlRXSEZLQ1ZVTklUbDg0?oc=5",
           "source": "Arab News",
           "region": "Gulf"
+        },
+        {
+          "title": "UKMTO reports new ship attack in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -681,36 +651,6 @@
       ]
     },
     {
-      "term": "Tehran",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Eight more Palestinians killed in Gaza; death toll rises to 73,051",
-          "url": "https://en.irna.ir/news/86194012/Eight-more-Palestinians-killed-in-Gaza-death-toll-rises-to-73-051",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Top official conveys President Pezeshkian’s greetings to Armenian PM",
-          "url": "https://en.irna.ir/news/86194007/Top-official-conveys-President-Pezeshkian-s-greetings-to-Armenian",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Official: Iran, UAE resume trade exchanges",
-          "url": "https://en.irna.ir/news/86193870/Official-Iran-UAE-resume-trade-exchanges",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Ali Larijani’s martyrdom major loss for Iran: Judiciary chief",
-          "url": "https://en.irna.ir/news/86193897/Ali-Larijani-s-martyrdom-major-loss-for-Iran-Judiciary-chief",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Gaza",
       "count": 3,
       "headlines": [
@@ -759,54 +699,6 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-          "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran says more ships seek Hormuz transit permits after warning shots fired",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-more-ships-seek-hormuz-transit-permits-after-warning-shots",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Hormuz",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iran says more ships seek Hormuz transit permits after warning shots fired",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-more-ships-seek-hormuz-transit-permits-after-warning-shots",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Iraq",
       "count": 3,
       "headlines": [
@@ -827,6 +719,30 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2FfcEh1eXRfUjc5bEl5dnhaUXNLeEtDMkdWUVdnNV9YZHBvM2lIR0JvcktCMG4xQ2tFYXlxR2tSc1kxa3luMkUtbWRVUU1iM1NvQzQ0Rk45Zzh6Sk5wS0Rvd2lkMWlPUkRrU1hCV1J4ZnNXRHNlVWdjNU1BbVNXX1FnUHNEOXc4ZmVQZkln?oc=5",
           "source": "The National",
           "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "strikes",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran claims retaliatory strikes as Bahrain reports drone attack",
+          "url": "https://www.newarab.com/news/iran-claims-retaliatory-strikes-bahrain-reports-drone-attack",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US and Iran trade strikes putting new strain on Mideast ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFMwOHZsS3NMYUhBZjFSVldlSW04bGRPcnpsTXE2WFhRcy1Qb2xvTzAyMmNDei01YzB3RHpqVVNic3ZEZS1BWXFFUzBkWnBURVJFSHpZTVl4OFFvRmNMYzh5NHZRSXdsUml0MzdDRVhrUTZfTHFrT0ptdjBaS1FGNDAwMUl5M2RlTkFwVTNHVW1iZnBFY3JyN1BleEVXM2VRaHNv?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
         }
       ]
     },
@@ -855,6 +771,30 @@
       ]
     },
     {
+      "term": "ceasefire",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran claims retaliatory strikes as Bahrain reports drone attack",
+          "url": "https://www.newarab.com/news/iran-claims-retaliatory-strikes-bahrain-reports-drone-attack",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
+          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US and Iran trade strikes putting new strain on Mideast ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFMwOHZsS3NMYUhBZjFSVldlSW04bGRPcnpsTXE2WFhRcy1Qb2xvTzAyMmNDei01YzB3RHpqVVNic3ZEZS1BWXFFUzBkWnBURVJFSHpZTVl4OFFvRmNMYzh5NHZRSXdsUml0MzdDRVhrUTZfTHFrT0ptdjBaS1FGNDAwMUl5M2RlTkFwVTNHVW1iZnBFY3JyN1BleEVXM2VRaHNv?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "Palestinian",
       "count": 3,
       "headlines": [
@@ -875,6 +815,84 @@
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fdU93ZzlveGxCU3pUNXd4R1U1QzB2Mkk4dUJvREd3aDVlelN4TzNDQlloSFlOaEl6SWZ6VHZMOUJHVVZQenY4VGxaZWxtV3VteFdsOG5hdw?oc=5",
           "source": "WAFA News",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Tehran",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran says scheduled flights with UAE to resume this week",
+          "url": "https://en.irna.ir/news/86194094/Iran-says-scheduled-flights-with-UAE-to-resume-this-week",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Eight more Palestinians killed in Gaza; death toll rises to 73,051",
+          "url": "https://en.irna.ir/news/86194012/Eight-more-Palestinians-killed-in-Gaza-death-toll-rises-to-73-051",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Top official conveys President Pezeshkian’s greetings to Armenian PM",
+          "url": "https://en.irna.ir/news/86194007/Top-official-conveys-President-Pezeshkian-s-greetings-to-Armenian",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Three",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Three killed as Ukraine and Russia trade attacks overnight",
+          "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Panama vs. England: Injuries, predicted lineup & how to watch",
+          "url": "https://en.irna.ir/news/86194081/Panama-vs-England-Injuries-predicted-lineup-how-to-watch",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Ukraine",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Three killed as Ukraine and Russia trade attacks overnight",
+          "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Ukraine hits defense plant in Russia’s Volgograd region, Zelenskyy says",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0pxcjNOSy1IZkdLSTliNnk4WW1WaVpUSDhkQWVieHR1SUJUdG1hRGFFYWoyUUZYTjRHV2pFZWJDQTBOOG14MDBKejdIaHRoSG85VmFQX0E4bkE3c0xkWUFkYm44SURVWjlrTi1fZ0Nvdmx5OFpTby12cUg0QjR6cDd3MWxwS2RQTkN5dDF0LVVxc1VCNVVoT0hhV2NsR255Z1pDajc1cndJN2xnWHZYVENfYVp2M1RQTUYzbXJucjA5SmhE0gHEAUFVX3lxTE9nSnFyM05LLUhmR0tJOWI2eThZbVZpWlRIOGRBZWJ4dHVJQlR0bWFEYUVhajJRRlhONEdXakVlYkNBME44bXgwMEp6N0hodGhIbzlWYVBfQThuQTdzTGRZQWRibjhJRFVaOWtOLV9nQ292bHk4WlNvLXZxSDRCNHpwN3cxbHBLZFBOQ3l0MXQtVXFzVUI1VWhPSGFXY2xHbnlnWkNqNzVyd0k3bGdYdlhUQ19hWnYzVFBNRjNtcm5yMDlKaEQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Russia",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Three killed as Ukraine and Russia trade attacks overnight",
+          "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Ukraine hits defense plant in Russia’s Volgograd region, Zelenskyy says",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0pxcjNOSy1IZkdLSTliNnk4WW1WaVpUSDhkQWVieHR1SUJUdG1hRGFFYWoyUUZYTjRHV2pFZWJDQTBOOG14MDBKejdIaHRoSG85VmFQX0E4bkE3c0xkWUFkYm44SURVWjlrTi1fZ0Nvdmx5OFpTby12cUg0QjR6cDd3MWxwS2RQTkN5dDF0LVVxc1VCNVVoT0hhV2NsR255Z1pDajc1cndJN2xnWHZYVENfYVp2M1RQTUYzbXJucjA5SmhE0gHEAUFVX3lxTE9nSnFyM05LLUhmR0tJOWI2eThZbVZpWlRIOGRBZWJ4dHVJQlR0bWFEYUVhajJRRlhONEdXakVlYkNBME44bXgwMEp6N0hodGhIbzlWYVBfQThuQTdzTGRZQWRibjhJRFVaOWtOLV9nQ292bHk4WlNvLXZxSDRCNHpwN3cxbHBLZFBOQ3l0MXQtVXFzVUI1VWhPSGFXY2xHbnlnWkNqNzVyd0k3bGdYdlhUQ19hWnYzVFBNRjNtcm5yMDlKaEQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -965,6 +983,24 @@
           "url": "https://www.middleeasteye.net/news/hezbollah-supporters-protest-beirut-against-israel-deal",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Hormuz",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran says more ships seek Hormuz transit permits after warning shots fired",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-more-ships-seek-hormuz-transit-permits-after-warning-shots",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         }
       ]
     },
@@ -1095,42 +1131,6 @@
       ]
     },
     {
-      "term": "conflict",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "تصريحات روته تفتح ملف الدور الأوروبي في الحرب على إيران",
-          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPMXlTWUhCbUVsa05IVWVUVXVteGpMa1VBelJpcnNpZjh3cElSaUUzUXJQVzZ0Yi1ubF9GZVhpUXZXXzJZdVBBbS1ySFk0dWQtUEJXNkNwNnpWM1ExSFhoR1JJQ1hkNGFYcWx1QWViV3I4ZlVLUGd4ZVV5SU8zRlhGZEJFU0JQb1ZaTmdSZnZxWlZtZnNBSl83V0k0RDhxeVhQWlNSUlpFdVJhbmJKWHpLUGlOaVhlaFJGWll1YVRLWUFmaUxtdmoyNlV4cnFpSUZiZklGQ3BOUWNJOGR3TXBFNWVkRmdmT3gxdTFpM3lpYnk5c052WWo4ZnhZeS01bzUyU2c0N3VHWldINWRFVkhsaTYzVnhiNnZVN1JlaGZCNnNoS3NrVDJzelMtT21Bd1g4QWF6MGdGSGZJUTNWYk1haTMzSUhqNUY2Zm5MSlhvS0xta0VwZEVycC1NQ1ZpVWhvQTViTVU4WGdwcWw1RWJLVG5pRUQ1RUV4NXpTYWlVS3U5d0h6X043alVZczE3S2pUZS1PZ0owT29oTmVhcHkxSGlDNmNYN2luNkpCOXZ1VHJLbzJ5YXVDX0dvcUFpRV9YcWpXeS1WZkF2ODA?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "ISIS attacks against Syrian forces rising sharply, warns conflict monitor",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWE5cGxwa2ZoLTA0bmdyQW8zRXEzYWkwWlBzOXZmWGlhX01XakdCRE9zTEFMZVdxVzFyRzNwYlBFcG5YM3hmXzFEMjhieTJyM2x3QWpJT3lrT1dxYk1BUmNpMWN4THZ4bDZIYzlzS0VGWUVoRnBTenBjNzI0SnNnV3A1cjJhNTBkMnRQblg3cE5BdEZLUVYyek9VM2N0eGFZSGthZ0ZmY1d1SHhVVHZMOWlIdVVZaDNyUHlmMEZ4RlNxX09K?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Syrian",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "ISIS attacks against Syrian forces rising sharply, warns conflict monitor",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWE5cGxwa2ZoLTA0bmdyQW8zRXEzYWkwWlBzOXZmWGlhX01XakdCRE9zTEFMZVdxVzFyRzNwYlBFcG5YM3hmXzFEMjhieTJyM2x3QWpJT3lrT1dxYk1BUmNpMWN4THZ4bDZIYzlzS0VGWUVoRnBTenBjNzI0SnNnV3A1cjJhNTBkMnRQblg3cE5BdEZLUVYyek9VM2N0eGFZSGthZ0ZmY1d1SHhVVHZMOWlIdVVZaDNyUHlmMEZ4RlNxX09K?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Affairs",
       "count": 2,
       "headlines": [
@@ -1185,6 +1185,24 @@
       ]
     },
     {
+      "term": "Secretary",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "NATO chief declines to comment on Iran having ballistic missiles",
+          "url": "https://www.egyptindependent.com/nato-chief-declines-to-comment-on-iran-having-ballistic-missiles/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "We don't know anything about $300bn Iran reconstruction fund, says GCC Secretary General",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUEVTUUV5UjFUVEYwd1dSX3podjJFdkFjeTQtVlcwM1B1WnVTUHJ4Nl9iUk4wUS1RS292OUVzQlVzZXNaRk8xVDlBd2NUTFJnSkVmZGszM3BMbFFlZ01YWWlUd096RjhDU1Bzb0xQWnh6cU9Ic01iSmVNMDZBa3Rvd09nalZfZkZBVmFCWWYwMjdER2ZXdU1mUU1kUWZYeW9mOEhtQ0ZDMV9obUFZdzNfZVBZdy0yQzR3eWxIWlg3VkVlbHk5a3p4Yzk4eFRlZEZGOFpLWkpB?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
       "term": "occupation",
       "count": 2,
       "headlines": [
@@ -1221,37 +1239,19 @@
       ]
     },
     {
-      "term": "Pakistan",
+      "term": "Lions",
       "count": 2,
       "headlines": [
         {
-          "title": "Pakistan says Hajj 2027 registrations top 100,000 in first five days of sign-ups",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOTlPY293WTQ0TXRVV3BVLUx4VUR3Mmp3RER4MjJ0NVlUbGFGT0dPZE5fYkxSeFJLd1otTlJ2SlBKRTJQaWVleU1SVjd2cXo3QVZz?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Pakistani PM: Pezeshkian’s visit achievements will strengthen bilateral ties",
-          "url": "https://en.irna.ir/news/86193921/Pakistani-PM-Pezeshkian-s-visit-achievements-will-strengthen",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "protests",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Poor response to call for mass protests in Gaza over living conditions",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU9HSGRnRFo2R19nQl81ZzVfY3dIVEV2SWRESXRiZzRLZFlqTDJDX1FWRURQbF9VbDlTNTFDUUlRYjhPa09manA3dXppakNzdTYyVjZiQXJPSjh5N19VVHJRbkltbl9jOG5fNy1kNUs5Qjl2UFpGNXBhcTNWU0xLVjRhMG02SjI4QTV5U1dab3FMT3hIR0NzaUR2SGVNRjVjdGYwSXl5aDZ5Q204Tmx6MXJPamhKQVBUVzhYT2JRbUdzZw?oc=5",
+          "title": "Senegal's Lions of Teranga maul Iraq's Lions of Mesopotamia",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2FfcEh1eXRfUjc5bEl5dnhaUXNLeEtDMkdWUVdnNV9YZHBvM2lIR0JvcktCMG4xQ2tFYXlxR2tSc1kxa3luMkUtbWRVUU1iM1NvQzQ0Rk45Zzh6Sk5wS0Rvd2lkMWlPUkRrU1hCV1J4ZnNXRHNlVWdjNU1BbVNXX1FnUHNEOXc4ZmVQZkln?oc=5",
           "source": "The National",
           "region": "Gulf"
         },
         {
-          "title": "Mass protests hit across Lebanon over deal with Israel",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzF0aFN0RjhKWEFWV01IdTkxVExmRHVYRl9uekFIcUEwb1hEZUhPaTJiOGpvZnRZOXcycEJ4UUoxX2dnOTVxTmd1WVZXVVg4NDl0WV84THQzQnVwNDRRMnBTN1RkUDVibklXUHBoSWkzRVNYVnRkazlEWmxQaEZFbjVpb19PVTAtN2sza0VNV2N0ZllP?oc=5",
-          "source": "Mehr News",
+          "title": "Panama vs. England: Injuries, predicted lineup & how to watch",
+          "url": "https://en.irna.ir/news/86194081/Panama-vs-England-Injuries-predicted-lineup-how-to-watch",
+          "source": "IRNA",
           "region": "Iran"
         }
       ]
@@ -1270,6 +1270,24 @@
           "title": "Upon HH the Amir's directives.. Qatar operates assistance air bridge to Venezuela following earthquakes",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWEkzZnZLbnNRQlBxM1lnd1F1TllzTElBT0FQQUNlcWdvME5SZFZNTUM1Umx2S1EtODU5ODZDaEFVVDZhc0JsbWJ0SDgxX0QyTnI0TXc5VzZTNUNPNXZNQXZVRlBQSFB0TW1mZFRDNktRcjFnWjRwS0VNQnY4YjNVc1p1a2FBbFBZMkpPSWRzY0ZGUFdjNTlqTlFKTkhKc0VBWDJGcXlwYjN1MHFaTnVZa1otMmhWTDh5dG1tbkZ0amtLdlJWU3A2VFNnWEJlajR0QVFPaTdzS293OEJBc3VPcjlB0gHnAUFVX3lxTE81Ykx5WWQxb3BPQjJ1X05sVUlGWlVUbVJYaE5rS3BmVklGYVBQVGgyRjBJLTFZcVp2bFZ2SHVsbGJiSjZDdXpVa3A2Qk90VVVjUWJ4ZXQwdDRoQkdMRVV4T2Y2Q0t0a0VCSm5SdDgwOTdld0h2RUo1ZjVFS1U4YnAwRVRCczB5UnprUndLSlA0OXlJZ0M4ZnFfVno0OVJMdEhXVXU1M29aTEs5LVN6NkJEVVIwb1U4S210TmVRTHFEMXM4NDN0ZVJka0M2VFdjWVhEbXBDWWlMRm9zZEg5emNJekJXZEQ4MA?oc=5",
           "source": "Gulf Times",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "OMR",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Oman capital market provides over OMR7 billion in financing during 2021–2025",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWVwdWwtbFRIeFJCelhLRXRqMk92UXVOVC1SeFlTQkY2bWNJTldDUE9BbEE1NlUxQW9Rczk4WlhqcnhjWThRcVZhZkR2LUxoOVh5OGFqa0tBajM4c1FMTXoweDZxUWYwMzV2akd2eTF2UnVhUGNuVU03NHRRTzVnZmFHUWRXZHA1R1RGU3NFcmFuZVdhTk5sdUNqMlhyNVhUZXlvYWhSVVp5RG9za0lJTUxBajg?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "Oman’s non-oil exports rise to OMR1.61 billion in Q1 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON21ULVZiaU56MVlXU1ktTUstdHNjbWZaMFR0aFkzcWJabkU5TUhNcm9XcTUyYkhBZTNzb0c4OEdEUUtsNFJVbHpTWmtXVGR3UlpZc3EwdE5Rc2REOE9jdUt2bXZDMmNubk9rLTJYT05ONjQ3WmEwZHhqUE1NeFpGaElpNExMSDBVeHpCbGl6c3BqVGNBTUIxQTBn?oc=5",
+          "source": "Times of Oman",
           "region": "Gulf"
         }
       ]
@@ -1305,42 +1323,6 @@
         {
           "title": "Eight more Palestinians killed in Gaza; death toll rises to 73,051",
           "url": "https://en.irna.ir/news/86194012/Eight-more-Palestinians-killed-in-Gaza-death-toll-rises-to-73-051",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "IDF",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "‘Operation Thunderbolt’: 50 years to the heroic raid on Entebbe",
-          "url": "https://www.timesofisrael.com/operation-thunderbolt-50-years-to-the-heroic-raid-on-entebbe/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "With IDF Drones Circling Overhead, Lebanon's Shi'ites Celebrate the Ashura Holiday",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbGVEWkxvT280YWdKbG12Tm8wbHNyTXI5QzZhSjl4SjljQ0V1YnFkdndhbDAyZU5RR1I2U0JYb0dCd0o5djZUM0FZZjFKYXRJLWtfbkhLT2dRa0RERmhJT0FEVFo4NFQ5QU9Uak9DUkREVHNPRExPMlhOUXNYQ25WYURwRDJRNUVZcTdKRmpHN29JV3NlMUNpMVg0c1RxODRRTk4wS0w0Qm9zR1VRb015d211dDBvVXN6dk0xcUhGWTNhdk10TTl4dkJPQmpMQ2dSdTdyVHJFWklYUGw5M0hTdUM3OVhUSHNVbl91V2FJOHdlZGlELXRnMk53YzZfZktkODhzXy10SUR5c2JoQ0ZlN0Z3dHdGOHRBLThwb3VteWlQQQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Pezeshkian",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Top official conveys President Pezeshkian’s greetings to Armenian PM",
-          "url": "https://en.irna.ir/news/86194007/Top-official-conveys-President-Pezeshkian-s-greetings-to-Armenian",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Pakistani PM: Pezeshkian’s visit achievements will strengthen bilateral ties",
-          "url": "https://en.irna.ir/news/86193921/Pakistani-PM-Pezeshkian-s-visit-achievements-will-strengthen",
           "source": "IRNA",
           "region": "Iran"
         }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T12:02:56.239586+00:00",
+  "updated": "2026-06-27T12:16:33.807043+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Three killed as Ukraine and Russia trade attacks overnight",
+            "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+            "published": "2026-06-27T11:58:54+00:00",
+            "snippet": "Moscow's attacks are reported to have killed two, while Kyiv's attacks on Russia killed one."
+          },
           {
             "title": "Childhood interrupted: Family awaits justice 8 years after baby was raped",
             "url": "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss",
             "published": "2026-06-27T10:35:08+00:00",
             "snippet": "Israel's Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections."
-          },
-          {
-            "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-            "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
-            "published": "2026-06-27T10:32:24+00:00",
-            "snippet": "As the latest confrontations are aimed at control of the Strait of Hormuz, analysts say the deal is at risk of collapse."
           }
         ],
         "error": null
@@ -87,12 +87,6 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
-            "title": "Rare light aircraft crash in Beijing kills pilot, injures 13 people",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzRKN0dIanE5TndUN0IyOG1QME56REF4eEdONmtoTUNzOEVRTGRYRVJCd0RiRGFZR1l6aEFqMDE5UWpKbWZENVM2bFNDN0Exc25RNUtSdllsWXdCc2dkTWNEelRIdFJISy1sTDVVSk9iX0UtRFlyU2taNVlVTlVCMjhxZUxVbnE0d0U5RjF5M19VZ3J2dzk5ZV96TmZsZGhaY0xYRXMwNjktTEpCT3I3QlJicno4cE1LX0VhZGdhVdIBvwFBVV95cUxORzRKN0dIanE5TndUN0IyOG1QME56REF4eEdONmtoTUNzOEVRTGRYRVJCd0RiRGFZR1l6aEFqMDE5UWpKbWZENVM2bFNDN0Exc25RNUtSdllsWXdCc2dkTWNEelRIdFJISy1sTDVVSk9iX0UtRFlyU2taNVlVTlVCMjhxZUxVbnE0d0U5RjF5M19VZ3J2dzk5ZV96TmZsZGhaY0xYRXMwNjktTEpCT3I3QlJicno4cE1LX0VhZGdhVQ?oc=5",
-            "published": "2026-06-27T10:13:00+00:00",
-            "snippet": "Rare light aircraft crash in Beijing kills pilot, injures 13 people Al Arabiya English"
-          },
-          {
             "title": "Bahrain condemns Iranian drone attacks on its territory",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVJCOF9nX1N3bC11VGhNZjU5b0hWTXI5YndNcnlWVWs2WF9TeHJJZ2xjem5SMXd4M1ZmWlB2RVJ5RVRaeWFhQ3JtT21hd2NvRmF2REk4cGRZdGdJT21LWHhOY2l3ZFJnQl9qLVA5VHNjQ016OVFEcVdCM1FnY0FLMjdObU1Yb3NBTjltSy1WaS1SUkM1UHpQN20xcmR5TmROeGxTOGRKdE5wZTBVRWww0gGvAUFVX3lxTFBVUkI4X2dfU3dsLXVUaE1mNTlvSFZNcjlid01yeVZVazZYX1N4cklnbGN6blIxd3gzVmZaUHZFUnlFVFp5YWFDcm1PbWF3Y29GYXZESThwZFl0Z0lPbUtYeE5jaXdkUmdCX2otUDlUc2NDTXo5UURxV0IzUWdjQUsyN05tTVhvc0FOOW1LLVZpLVJSQzVQelA3bTFyZHlOZE54bFM4ZEp0TnBlMFVFbDA?oc=5",
             "published": "2026-06-27T09:03:00+00:00",
@@ -115,6 +109,12 @@
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0pxcjNOSy1IZkdLSTliNnk4WW1WaVpUSDhkQWVieHR1SUJUdG1hRGFFYWoyUUZYTjRHV2pFZWJDQTBOOG14MDBKejdIaHRoSG85VmFQX0E4bkE3c0xkWUFkYm44SURVWjlrTi1fZ0Nvdmx5OFpTby12cUg0QjR6cDd3MWxwS2RQTkN5dDF0LVVxc1VCNVVoT0hhV2NsR255Z1pDajc1cndJN2xnWHZYVENfYVp2M1RQTUYzbXJucjA5SmhE0gHEAUFVX3lxTE9nSnFyM05LLUhmR0tJOWI2eThZbVZpWlRIOGRBZWJ4dHVJQlR0bWFEYUVhajJRRlhONEdXakVlYkNBME44bXgwMEp6N0hodGhIbzlWYVBfQThuQTdzTGRZQWRibjhJRFVaOWtOLV9nQ292bHk4WlNvLXZxSDRCNHpwN3cxbHBLZFBOQ3l0MXQtVXFzVUI1VWhPSGFXY2xHbnlnWkNqNzVyd0k3bGdYdlhUQ19hWnYzVFBNRjNtcm5yMDlKaEQ?oc=5",
             "published": "2026-06-27T08:05:00+00:00",
             "snippet": "Ukraine hits defense plant in Russia’s Volgograd region, Zelenskyy says Al Arabiya English"
+          },
+          {
+            "title": "Seoul says Chinese, Russian military aircraft enter its air defense zone",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNllXdy1iM2pRdFJxTHNqVERZQlBVMFI0ci03WHpRVXVPbWdYR0RBSEIwajBDNmlJUzFMUkhTVmNsakxxeWpkWXFreDg2ZHJxTnFNdTRBMjN6V1VUcWlLTUg3YVd5VWtLeURRaHktV1JQdndDY1VTOERvcnN4RWlQTmtzZXpNZXNrMnQtVTVDdEpYRG9KQUdhbjNJVWRHNlpqQTIweUdrSmFoX1pWb2YyV25NWEdDY2ZPbXVsMG5sQ3hHNDdCdHfSAcYBQVVfeXFMTTZZV3ctYjNqUXRScUxzalREWUJQVTBSNHItN1h6UVV1T21nWEdEQUhCMGowQzZpSVMxTFJIU1ZjbGpMcXlqZFlxa3g4NmRycU5xTXU0QTIzeldVVHFpS01IN2FXeVVrS3lEUWh5LVdSUHZ3Q2NVUzhEb3JzeEVpUE5rc2V6TWVzazJ0LVU1Q3RKWERvSkFHYW4zSVVkRzZaakEyMHlHa0phaF9aVm9mMlduTVhHQ2NmT211bDBubEN4RzQ3QnR3?oc=5",
+            "published": "2026-06-27T06:04:00+00:00",
+            "snippet": "Seoul says Chinese, Russian military aircraft enter its air defense zone Al Arabiya English"
           }
         ],
         "error": null
@@ -362,6 +362,18 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "النائب حسن عز الدين: لبنان لن يكون مستوطنة إسرائيلية ولا محمية أميركية",
+            "url": "https://www.almanar.com.lb/article/981717/",
+            "published": "2026-06-27T12:13:39+00:00",
+            "snippet": "شدد عضو كتلة الوفاء للمقاومة النائب عز الدين على أنه إذا لم يتمكّن الأميركي من لجم العدو الإسرائيلي ومن تلفته وتجاوزه لقواعد التفاهم لناحية الاعتداءات المتكررة على لبنان، فإنه وبكل صراحة، سيضع المنطقة بأكملها على صفيح ساخن لا يعرف أحد ما الذي سيحصل حينها، مع العلم أن إيران والمحور على جهوزية تامة لأ"
+          },
+          {
+            "title": "قوات الاحتلال الإسرائيلي تقحم محيط المجلس التشريعي وسط مدينة رام الله",
+            "url": "https://www.almanar.com.lb/article/981697/",
+            "published": "2026-06-27T12:03:30+00:00",
+            "snippet": ""
+          },
+          {
             "title": "عضو كتلة الوفاء للمقاومة النائب حسن عز الدين: المقاومة ملتزمة بوقف إطلاق النار إلّا أن لصبرها حدود ولبنان لن يكون مستوطنة إسرائيلية ولن يكون محمية أميركية",
             "url": "https://www.almanar.com.lb/article/981687/",
             "published": "2026-06-27T11:59:37+00:00",
@@ -378,18 +390,6 @@
             "url": "https://www.almanar.com.lb/article/981657/",
             "published": "2026-06-27T11:50:07+00:00",
             "snippet": "سألت النائب حليمة قعقور في منشور على مواقع التواصل رئيس الجمهورية ورئيس الحكومة: كيف توافقون على هذا البند الذي يتحدث عن “الوقف عن اتخاذ أي إجراءات عدائية أو مناوئة في المحافل السياسية أو القانونية الدولية”؟ أي عدم الذهاب لمقاضاة “العدو” على جرائم الحرب وجرائمه ضد الإنسانية؟ أي تكرسون الإفلات من الع"
-          },
-          {
-            "title": "تقرير مصور | مسيرات حسينية حاشدة في عدد من قرى جبل لبنان",
-            "url": "https://www.almanar.com.lb/article/981607/",
-            "published": "2026-06-27T11:46:59+00:00",
-            "snippet": "مسيرات حسينية حاشدة في عدد من قرى جبل لبنان، تجدد التمسك بالمقاومة والنهج الحسيني. تقرير: رجاء عوض"
-          },
-          {
-            "title": "حنا غريب: لتتوحد الجهود لإسقاط اتفاق العار",
-            "url": "https://www.almanar.com.lb/article/981632/",
-            "published": "2026-06-27T11:46:21+00:00",
-            "snippet": "كتب الامين العام للحزب الشيوعي اللبناني حنا غريب : منذ البداية رفضنا اتفاقية التطبيع في ترسيم الحدود البحرية مع العدو الإسرائيلي، فكيف لنا ان نخضع لاتفاقية الخضوع والإستسلام معه الآن. لا سلام مع كيان الفصل العنصري والابادة الجماعية."
           }
         ],
         "error": null
@@ -481,6 +481,18 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
+            "title": "Israeli drone strike hits southern Lebanon day after security deal",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VbkE2akxkZTRxYVVwS0pucFRhQ0hOeUhYcGhnWVlqNFB1R09sM0VUbVVqSnlRYjBkbS02RkxSRV9NOVl5Z2lQSWV4alRzRkVqX0Jn?oc=5",
+            "published": "2026-06-27T11:01:48+00:00",
+            "snippet": "Israeli drone strike hits southern Lebanon day after security deal Arab News"
+          },
+          {
+            "title": "Tanker struck in the Strait of Hormuz as Iran and US launch attacks in region",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UOHRjTGpMNmREQlp6Xy1hTVdGY2dWci15a29fMXVaOVg4dVloZ2RKdUYzR0M2aEU5a200SzJjYlVHODlWMlRXSEZLQ1ZVTklUbDg0?oc=5",
+            "published": "2026-06-27T10:09:39+00:00",
+            "snippet": "Tanker struck in the Strait of Hormuz as Iran and US launch attacks in region Arab News"
+          },
+          {
             "title": "Bahrain condemns Iranian drone attacks on its territory",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ydGJ1czJwTFRmMkMxSm5oLVNhanRZdlo1LUdyTHNtdXlBc3pxd0o1RnpQSldaX2xVSFJXV3MwbU1lNnZQSXIwZVE2VjEyYWpFXzBz?oc=5",
             "published": "2026-06-27T09:17:40+00:00",
@@ -497,18 +509,6 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwWi1fQzZHaVhEV0dEWlNKa1FDMnN0c3RqZ2lPNFRTT3dpRmpCUU5Wb3BNSDVRQU9GdEVxcWhUMVlvUl96NXMxLWs4ZHZaMUF4d3d3?oc=5",
             "published": "2026-06-27T06:30:21+00:00",
             "snippet": "Egypt to assess Salah after he asked to be substituted, says coach Arab News"
-          },
-          {
-            "title": "Pakistan says Hajj 2027 registrations top 100,000 in first five days of sign-ups",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EOTlPY293WTQ0TXRVV3BVLUx4VUR3Mmp3RER4MjJ0NVlUbGFGT0dPZE5fYkxSeFJLd1otTlJ2SlBKRTJQaWVleU1SVjd2cXo3QVZz?oc=5",
-            "published": "2026-06-27T06:09:15+00:00",
-            "snippet": "Pakistan says Hajj 2027 registrations top 100,000 in first five days of sign-ups Arab News"
-          },
-          {
-            "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
-            "published": "2026-06-27T02:10:40+00:00",
-            "snippet": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire Arab News"
           }
         ],
         "error": null
@@ -532,6 +532,12 @@
             "snippet": "Poor response to call for mass protests in Gaza over living conditions The National"
           },
           {
+            "title": "We don't know anything about $300bn Iran reconstruction fund, says GCC Secretary General",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUEVTUUV5UjFUVEYwd1dSX3podjJFdkFjeTQtVlcwM1B1WnVTUHJ4Nl9iUk4wUS1RS292OUVzQlVzZXNaRk8xVDlBd2NUTFJnSkVmZGszM3BMbFFlZ01YWWlUd096RjhDU1Bzb0xQWnh6cU9Ic01iSmVNMDZBa3Rvd09nalZfZkZBVmFCWWYwMjdER2ZXdU1mUU1kUWZYeW9mOEhtQ0ZDMV9obUFZdzNfZVBZdy0yQzR3eWxIWlg3VkVlbHk5a3p4Yzk4eFRlZEZGOFpLWkpB?oc=5",
+            "published": "2026-06-26T16:14:33+00:00",
+            "snippet": "We don't know anything about $300bn Iran reconstruction fund, says GCC Secretary General The National"
+          },
+          {
             "title": "John Bolton pleads guilty to mishandling sensitive documents",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTTZienJhV2U2MDBlQm8tRGYtRU1mSF9RX25tRWFNUUtxTXZxenN5Z3J1ZjRSNDRJZ2djRWZEbjhqdVAtUmFLWld6cDg1OHBMdUFrakMyR254cldwTXltejBqX1A5M3VEcjk5T0o4VDVuQXU1bk5zMS1iUzhEdDdpVzI3OTdZT084ZkRqUWJtQ0k0S2QyWk1ORGRkUUdoYmxUQlhfYVg2bzZpZDVHcHlNSVNn?oc=5",
             "published": "2026-06-26T15:48:08+00:00",
@@ -542,12 +548,6 @@
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXVwbEtQa2dNMW44RklkUllCcFpVOWNfQW1ZaVFXTFZTQlFoaU9xaE4zWXJlN2xORHpSUlJwTmFtNV9TWmZqOWMybWhsdll6RkloZWNjOEUwU3llanctM0lYc2JXaFFVeE9LcGhqd25aZ2xXNXp3Wk1RXy1vLU9icEtkYmU?oc=5",
             "published": "2026-06-26T12:07:34+00:00",
             "snippet": "Quiz of the week: June 26, 2026 The National"
-          },
-          {
-            "title": "ISIS attacks against Syrian forces rising sharply, warns conflict monitor",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWE5cGxwa2ZoLTA0bmdyQW8zRXEzYWkwWlBzOXZmWGlhX01XakdCRE9zTEFMZVdxVzFyRzNwYlBFcG5YM3hmXzFEMjhieTJyM2x3QWpJT3lrT1dxYk1BUmNpMWN4THZ4bDZIYzlzS0VGWUVoRnBTenBjNzI0SnNnV3A1cjJhNTBkMnRQblg3cE5BdEZLUVYyek9VM2N0eGFZSGthZ0ZmY1d1SHhVVHZMOWlIdVVZaDNyUHlmMEZ4RlNxX09K?oc=5",
-            "published": "2026-06-26T11:21:50+00:00",
-            "snippet": "ISIS attacks against Syrian forces rising sharply, warns conflict monitor The National"
           }
         ],
         "error": null
@@ -637,6 +637,12 @@
         "url": "https://timesofoman.com",
         "headlines": [
           {
+            "title": "Oman capital market provides over OMR7 billion in financing during 2021–2025",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWVwdWwtbFRIeFJCelhLRXRqMk92UXVOVC1SeFlTQkY2bWNJTldDUE9BbEE1NlUxQW9Rczk4WlhqcnhjWThRcVZhZkR2LUxoOVh5OGFqa0tBajM4c1FMTXoweDZxUWYwMzV2akd2eTF2UnVhUGNuVU03NHRRTzVnZmFHUWRXZHA1R1RGU3NFcmFuZVdhTk5sdUNqMlhyNVhUZXlvYWhSVVp5RG9za0lJTUxBajg?oc=5",
+            "published": "2026-06-27T10:51:00+00:00",
+            "snippet": "Oman capital market provides over OMR7 billion in financing during 2021–2025 Times of Oman"
+          },
+          {
             "title": "Oman’s non-oil exports rise to OMR1.61 billion in Q1 2026",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON21ULVZiaU56MVlXU1ktTUstdHNjbWZaMFR0aFkzcWJabkU5TUhNcm9XcTUyYkhBZTNzb0c4OEdEUUtsNFJVbHpTWmtXVGR3UlpZc3EwdE5Rc2REOE9jdUt2bXZDMmNubk9rLTJYT05ONjQ3WmEwZHhqUE1NeFpGaElpNExMSDBVeHpCbGl6c3BqVGNBTUIxQTBn?oc=5",
             "published": "2026-06-27T10:43:00+00:00",
@@ -659,12 +665,6 @@
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDFKRkcyQ0E4dDZVamxfNWxZaHpicHYwak9QOEdQZmhtYmNRYS1vQ21PcGJadkllbUtRUVhoQ0d3d2xpRmloazMwNHlGTjA3eFlRMHFodV9US2E4MWRsa21laEdkbFFuX3VGX3lMR2tDODRDc1NpdjFTc0NzVDhEcDRPT2o1TmNLOVAyc3ZkT29QWUJhQzNyVWtqNXo5OC1p?oc=5",
             "published": "2026-06-27T04:24:00+00:00",
             "snippet": "Sayyid Badr holds a telephone call with Egyptian counterpart Times of Oman"
-          },
-          {
-            "title": "\"You can't take anything for granted\": Skipper Iyer after India's loss to Ireland in 1st T20I",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEhTV2V0YUdfb2dsMFpuWGx5X0pEVjRWYXhtUTJ5UXVXUGJmc2VURkw1RFFVaW1ESWlrUTdYd1lENjdYelFhZkpuRkozNll4dFF2enhaLXMxYWpLaDdjNWNIblllb0JFMVJtOEwwbkhRcUdxTlFrMXc0NWw2SFpTcWNPRnZMbEFnTTZ4N3JnTmtseVJCNGlTR2lpbXZESmZvRTBvdEJodkRrb0hEb01EMXVsVjhsemQ1eGhuTmxrTVo5QXg0TFE?oc=5",
-            "published": "2026-06-27T04:12:00+00:00",
-            "snippet": "\"You can't take anything for granted\": Skipper Iyer after India's loss to Ireland in 1st T20I Times of Oman"
           }
         ],
         "error": null
@@ -797,6 +797,24 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
+            "title": "Colombia vs. Portugal: Injuries, predicted lineups & how to watch",
+            "url": "https://en.irna.ir/news/86194104/Colombia-vs-Portugal-Injuries-predicted-lineups-how-to-watch",
+            "published": "2026-06-27T12:08:14+00:00",
+            "snippet": "Get ready for Colombia vs Portugal in the 2026 World Cup! Discover the predicted lineup, injury news, and how to watch this Group K decider."
+          },
+          {
+            "title": "Iran says scheduled flights with UAE to resume this week",
+            "url": "https://en.irna.ir/news/86194094/Iran-says-scheduled-flights-with-UAE-to-resume-this-week",
+            "published": "2026-06-27T12:07:16+00:00",
+            "snippet": "Tehran, IRNA – Scheduled flights between Iran and the United Arab Emirates will resume this week, the spokesperson for the Civil Aviation Organization of Iran has announced."
+          },
+          {
+            "title": "Panama vs. England: Injuries, predicted lineup & how to watch",
+            "url": "https://en.irna.ir/news/86194081/Panama-vs-England-Injuries-predicted-lineup-how-to-watch",
+            "published": "2026-06-27T12:03:47+00:00",
+            "snippet": "Panama vs. England match preview: Predicted lineup, injury news, and how to watch as the Three Lions aim to clinch Group L at the World Cup."
+          },
+          {
             "title": "Eight more Palestinians killed in Gaza; death toll rises to 73,051",
             "url": "https://en.irna.ir/news/86194012/Eight-more-Palestinians-killed-in-Gaza-death-toll-rises-to-73-051",
             "published": "2026-06-27T10:47:39+00:00",
@@ -807,24 +825,6 @@
             "url": "https://en.irna.ir/news/86194007/Top-official-conveys-President-Pezeshkian-s-greetings-to-Armenian",
             "published": "2026-06-27T10:39:52+00:00",
             "snippet": "Tehran, IRNA — Senior Iranian and Armenian officials have reaffirmed their commitment to expanding cooperation and advancing regional stability during talks in Yerevan, where Iran’s top planning official conveyed President Masoud Pezeshkian’s greetings to Prime Minister Nikol Pashinyan."
-          },
-          {
-            "title": "Official: Iran, UAE resume trade exchanges",
-            "url": "https://en.irna.ir/news/86193870/Official-Iran-UAE-resume-trade-exchanges",
-            "published": "2026-06-27T10:38:02+00:00",
-            "snippet": "Tehran, IRNA — The trade exchanges between Iran and the UAE via the Port of Jebel Ali, one of the most important ports in the southern Persian Gulf, have been resumed, an official in Iran’s Trade Promotion Organization says."
-          },
-          {
-            "title": "Ali Larijani’s martyrdom major loss for Iran: Judiciary chief",
-            "url": "https://en.irna.ir/news/86193897/Ali-Larijani-s-martyrdom-major-loss-for-Iran-Judiciary-chief",
-            "published": "2026-06-27T09:54:45+00:00",
-            "snippet": "Tehran, IRNA – Iran’s Judiciary Chief, Gholam-Hossein Mohseni Eje’i, has paid tribute to Ali Larijani, describing his martyrdom as a major loss for the Islamic Republic and praising his contributions to national security and public service."
-          },
-          {
-            "title": "Pakistani PM: Pezeshkian’s visit achievements will strengthen bilateral ties",
-            "url": "https://en.irna.ir/news/86193921/Pakistani-PM-Pezeshkian-s-visit-achievements-will-strengthen",
-            "published": "2026-06-27T09:53:20+00:00",
-            "snippet": "Islamabad, IRNA – Pakistani Prime Minister Shehbaz Sharif has expressed satisfaction with the recent visit of Iranian President Masoud Pezeshkian to Pakistan, saying the outcomes of the trip will help strengthen bilateral relations between the two countries."
           }
         ],
         "error": null
@@ -836,6 +836,12 @@
         "url": "https://en.mehrnews.com",
         "headlines": [
           {
+            "title": "UKMTO reports new ship attack in Strait of Hormuz",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
+            "published": "2026-06-27T12:06:00+00:00",
+            "snippet": "UKMTO reports new ship attack in Strait of Hormuz Mehr News Agency"
+          },
+          {
             "title": "5 killed in rain-related incidents in Afghanistan",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkdGalJDd09SSThyTGNhRmtiR2k5Qm1ZRmM4Mnl6bVJUbzkza3R3RkJKclBhZm9IWm1UTFM1OU5KV2V1emJ1cEJkbmk2MUx0YmpVdm04S3VIYzVYMV92TnVMYjV3LTZTR0dVSXRDaEl2ZmJaSWpvbFF2NkJweHU0TEJBQmttZy1YQ3NOdEFB?oc=5",
             "published": "2026-06-27T11:58:00+00:00",
@@ -846,12 +852,6 @@
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3V1X3JuaXR5WWNDcHJLdEFid0VFYndNR2h0dS11aTZSOWt0aVdfR21jRjRxN2E5VnZKSWxYY21vR1ZEa0hnRmVoVnVzbVJUempNOGl6QUN0ZmUzQTc4UVUtR2NKYnRNTjF6MGdwTzQyZ2tmVnRMbXN6OTZwV0NJWl8waFg4RGNvWnFxMmh3R2haMWhQU3I4X29jaw?oc=5",
             "published": "2026-06-27T09:24:00+00:00",
             "snippet": "Iran Armed Forces prepared to bolster natl. security, justice Mehr News Agency"
-          },
-          {
-            "title": "Mass protests hit across Lebanon over deal with Israel",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzF0aFN0RjhKWEFWV01IdTkxVExmRHVYRl9uekFIcUEwb1hEZUhPaTJiOGpvZnRZOXcycEJ4UUoxX2dnOTVxTmd1WVZXVVg4NDl0WV84THQzQnVwNDRRMnBTN1RkUDVibklXUHBoSWkzRVNYVnRkazlEWmxQaEZFbjVpb19PVTAtN2sza0VNV2N0ZllP?oc=5",
-            "published": "2026-06-27T08:56:00+00:00",
-            "snippet": "Mass protests hit across Lebanon over deal with Israel Mehr News Agency"
           },
           {
             "title": "Death toll from Venezuela quake exceeds 900",
