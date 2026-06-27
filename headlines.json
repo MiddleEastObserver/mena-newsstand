@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T05:36:08.529129+00:00",
+  "updated": "2026-06-27T06:05:15.634312+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Fishermen capture the moment earthquake hits Venezuelan coast",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/fishermen-capture-the-moment-earthquake-hits-venezuelan-coast?traffic_source=rss",
+            "published": "2026-06-27T05:41:06+00:00",
+            "snippet": "Fishermen have captured the moment twin earthquakes hit Venezuela’s La Guaira coastline on Wednesday."
+          },
           {
             "title": "US strikes on Iran test fragile ceasefire",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
             "published": "2026-06-27T00:16:58+00:00",
             "snippet": "The US struck Iran in retaliation for an alleged Iranian attack on a ship in the Strait of Hormuz."
-          },
-          {
-            "title": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
-            "url": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
-            "published": "2026-06-27T00:00:04+00:00",
-            "snippet": "Iran's IRGC stated it targeted US military assets in the region after the Trump administration initiated an attack on the country."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "What the 14-point Lebanon-Israel framework agreement actually says",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/what-the14-point-lebanon-israel-framework-agreement-actually-says",
+            "published": "2026-06-27T05:53:10+00:00",
+            "snippet": "What the 14-point Lebanon-Israel framework agreement actually says Israel and Lebanon signed a 14-point framework agreement at the US State Department on Friday."
+          },
           {
             "title": "‘Financial death penalty’: How US sanctions are upending the lives of ICC judges",
             "url": "https://www.middleeasteye.net/news/financial-death-penalty-icc-judges-cant-walk-work-use-google-or-get-health-insurance-under-us",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-aid-chief-outlines-six-asks-after-israel-lebanon-deal",
             "published": "2026-06-27T01:50:30+00:00",
             "snippet": "The UN aid chief welcomed a trilateral agreement between Israel and Lebanon as a moment of hope, while acknowledging Lebanon's ongoing grave humanitarian crisis. The UN has outlined 'six asks' to translate momentum into real change."
-          },
-          {
-            "title": "Kpler: Qatar-Energy LNG tanker latest to reverse course near Hormuz",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kpler-qatar-energy-lng-tanker-reversed-course-near-hormuz",
-            "published": "2026-06-27T01:19:03+00:00",
-            "snippet": "A QatarEnergy-chartered LNG tanker reversed course near the Strait of Hormuz, following a similar incident with another tanker. This move added uncertainty to LNG shipping through the Gulf amid warnings from Iran's IRGC."
           }
         ],
         "error": null
@@ -323,16 +323,34 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
-            "title": "مروان عبد العال",
-            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wbnpkTVNZc3gtOFZzcEtBZ2RVdDlOZ3dDbm4yQW5ZaUJOZ1BIa21NNURjY29fSnhZRGlEQ2JOdHpsZEZPeURV?oc=5",
-            "published": "2026-06-23T00:15:19+00:00",
-            "snippet": "No description available for this item."
+            "title": "لبنان يوقع اتفاق العار... نتنياهو: إنجاز كبير لإسرائيل! - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOY20yYXV1SDA4LXJjb1lRQWNlVGFOcXZneVpScFowV1hGbzhwSXR1V2FWWE5GamY4ZXJlQ3ZQVTczcnMzdkVOTW0zeC05dUkxY2NQU3BKcDlOeEFYSHJ1N0tVZVVUZjBtbHE1c1BvdHI1VVBnU1ZrSDV1OUptTDhJUXBpdDZRaWVxOC1MTDhSby1tak8tcmtyWk96QTJNN3JtZkdrRl8xYm5WeGY4QkJUSVp6OV9VclQxZmxWWE9pZE1iU25qQTQ0VmRqRTlhUklwN05NNjhhekViaF9lOEw5bWtrM2dta3FsV280XzdPUnJDLVYzS0tRYlR2dHBqUzN0WVBnY0E3N2NwVURjZjhDWFhaRGFfZDdvOXhEM0RBTlJnUEt2LWc5eUVnRG1TSm8wM29scXZ5b1dMUjk2VzV4bWMxTWRpVFNGOEtzT0g3cVFwOVY0dHBaSXR5S3pLcExJaHlUYXU3NnBMS1dBSTBwNUVtbkEzLU9FOWRrX1ptZTZWcjlqWXRyU2FqWEd4cVU5LURPRl9ENHQ4dEttVFFCQk1vWm1GQTFRLVMtOThhdkhGblRPSnBFZ2pibW9ZSncw?oc=5",
+            "published": "2026-06-26T19:13:00+00:00",
+            "snippet": "لبنان يوقع اتفاق العار... نتنياهو: إنجاز كبير لإسرائيل! Al Akhbar"
           },
           {
-            "title": "«هآرتس»: مصر ترفض تجديد مفاوضات إطلاق شاليط",
-            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11Q1dobjhmcWpoRkdoVmZEUTY1SVJJTTZCTGtUUzZLWDRORXh0VHprbVQ4M25uVEMxaVhJWU5rakNyQmdjSWc?oc=5",
-            "published": "2026-06-22T14:00:13+00:00",
-            "snippet": "Haaretz reports that Egypt refuses to renew negotiations for Shalit's release."
+            "title": "أعضاء في اتحاد الكتّاب اللبنانيين: زيارة رئيس الاتحاد إلى القصر الجمهوري تمت بقرار منفرد - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOVk1ZSlFqV1E1VDJwMk1ZdTBkT2xzeEVrWkZYX296WUJNT3lGOHpPR2FsSTV2cjZOdU83VW5GWEliRFBCd3BXcWJaM2dVeHBFdFJPV1hsamk5R0hMaVFHeEJLTmVudjkwZUJlSEZUUDQ4OGdVYXJCYVN3ZFlmWkE1bGRXZEd0cVc5MUpsM2ZkTjE1VTVOa3NpWTdyNjVRYlE3Q3hfNzlvYk5PbDJTWlE5VzgwdktoSVM4S2xQUkxBQXpkS3RDZF94MUNUN2ptWHNUbFJUVWo3NElueEtvcFZZeHd6UFo2YW1nMlNkTWEzOTRCNW5sMDZrdTNVUVp0eXNvbURaZUkzSGJUdVNNU2RYS2tsSXV0Z0ZNaTNEUERDQjlsQVF1cUxXcEJ5TUUzblRNeTd3SEZjRHZlQUJBcGFpM0wtcUtmZFhKZHpSamUzVG03ZE9fUkluSERBbW9kWExtQzlpQ2xtM1g5X1dBUHpNbUpwSkg5dzRzZVJtRzNXQzlucE9ZQWUwUTV6TWI4cEU4RzV3T1FZcnRxNFBqVTRwZFk0X2RWRGpLZlI5T0YybW5sa0NNVy1MQzF4SGN4eG9IbkpsdzNleWhNTG5PMmhhUDlPdHdUaEY2Vmlob19idFU4MG5CQTJ5TXBtc3lnNm9idFNRaGxNZw?oc=5",
+            "published": "2026-06-26T11:23:53+00:00",
+            "snippet": "أعضاء في اتحاد الكتّاب اللبنانيين: زيارة رئيس الاتحاد إلى القصر الجمهوري تمت بقرار منفرد Al Akhbar"
+          },
+          {
+            "title": "قاسم يعلن الدخول في «مرحلة جديدة»: على إسرائيل أن تخرج «ذليلة» وهذا ما سيحصل - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPYUxGNmcxR1I0alFHQlBXTGJScEhDdWxNX2FGd2NmdzJ0dlVnOU9pQTRDaFBVTElCMzFDSmNYZ3dVMmZ4VkJIUURVckhqakpkdDJwMFc5VmY5Nkp4UXVTX19mbnZqaU5ncmo4cjllbWF0Q0pBaDdlOXB3NFNTc2IzdWtyVVlYb08waVFsb2VEamJqSUp5M1BzaElGdjJ1VWZUdTBTLUtmX281ZGpJS244LUNkcm9JRVA4bGluOTh5Zm5SRUtTVWpoTjJTaEFJYjBLVFlEQ3lSUUxaTlpWZTRHend2YkJTa1pSUEk5M2VjQTB5c2NNd2U3dXBpbUtlRWk0dzIxamxHXzFXWUctYVE4ejBLSGtDeVlMLUE5b1QwMXBnR1djRkdfeXRmTnZ4a2c4Tllkb0dNLTU4T1htSm9TMm9URWVFTXVWTGMwOWFNaGdMbG1nTGx2N1pQbUVxTHJfTFI2Q0l4TkxNNUV6aUxwZU54a01zVjNaLUlvaFVmc0hieEZYY1o2ZXplQWtnS2k2dDh0ODdORDVBUlVmMDVITFhIejNnT0U1YzM4ZWxQbmRTUjlWSzRaTnJ0dTR3aUlIX1d2YXktMlZwZERFekwxNXRIYWhmUXNnVnh0aQ?oc=5",
+            "published": "2026-06-26T08:31:00+00:00",
+            "snippet": "قاسم يعلن الدخول في «مرحلة جديدة»: على إسرائيل أن تخرج «ذليلة» وهذا ما سيحصل Al Akhbar"
+          },
+          {
+            "title": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPSkViRFJQaFdsQnEtYlBHUk1HZm9VeElFWldFOGR6MGpwRUZySDR3Q0pVMnNHbWp2Tl96MTNiWWtHTEd1bUZMVGVlVGN0Ym8zNHV1VFVNQTlsZTUyYnZoUUFPWEpxZ1ZkaFB2UkNLclNvMVlzZ2Nkdmg5MU1OU0hFWUZlNFlORlNuY09iRW93WURDeVRYVzNsRUxTSnJiSG81RF9RM0V2TVlXV3FNNUkwS2xFaExyZk0xcmdhRmpZRkd0Y1hkck1IeXNnazhQNkFCVDRTVm1FcHpCb3FlLW44Ym1CQWg2akdpblI3RUhXaXhhX2s3eS1NeDI0YkNyWmdvZ0pfZzYzczBSVTZUWGhNT0ZLMFE4Z0xEdnM1OEEtRXNiUW53UTlHNHN1ZVFYeGhBbkV0dFJPOFIzcjI3Zmg0UDVFOENIa3h2SVZ0M1FWM2Z4MEFQSFMtNUFuOXRBTUFQS2EzYkl2dWQ4a2tHS2I4eEFKczkxaTJxTjdqNW5NTVRhWFc4NURNd096THhNZmljb0I0eGdua2ZJTGlKc0RBeFVXRzRIeGFiRElEc0J5WjU5SDJ2cHFrVUZBTUprbnJGTE5GYlpacHlUTjRKU014R1hEUFNTdjBkZ3BLSDZ1UHVJUHczbklBczBKUkRZWDJr?oc=5",
+            "published": "2026-06-26T08:28:42+00:00",
+            "snippet": "على وقع المفاوضات في واشنطن... العدوان الإسرائيلي يتواصل على جنوب لبنان Al Akhbar"
+          },
+          {
+            "title": "«وول ستريت جورنال»: البنتاغون يدرس نقل قواعده العسكرية من السعودية والكويت - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPYWo3VjB6VTEzVEt6dnVaX1RXemxKQ2pOR29ZUnZMejFibFloX3NWWGo2S1NnbEV1LU9rUEg2ZGQ4V1Y0cUdGVy1sakpLN0dMcHJjRFpMRGVkN056cUZmTmRKWDNIem1RX0NEZDUxV2hsQVFSRGpPVVFHNGZ3SGFBejhDWnMwWWw1LUdnSHdfbkdTZ1ZCZ3UwdTdFVFpKYVQtd0QyZC1VMFZiQzZINEo2bF9BemNTejRoei1ZNnZfTkhHNThfVEdwZm5xWW9WN0lDUmRrYzFHUWYxS3RpTU5sYXFCemQyVzRXLVF2UkNoYWRVb05YY0pZa3NRZWhxRHlwTnU5bWRBaklqZU4xNXFnbVJaLXQ2NlJNUmxlWFJ2OHljbEtIQ3pYNmtHRDhENDUxdDEzb1ktRFVlUl8zWWMzM1dhNlFnOWJFa1ZwMVBkR2xsRWl3NVZCRGFKSWpXalVDU2V0aV90cFFnQzlONTk2a2diMDdoRFBwcHhGM2c5TldYclZ6elZwbXBTTDNFWGE0UVFra2NQZV91Snc0amZQYlh4SjdJbFBSUGl6dzBXZHJuWEJwNUM3eUc1aWI3UnlfaE5RdEg5azBqR3pNaUdBenhuVU5leWZYdVJpOUpQNG4xRFZvOHVZ?oc=5",
+            "published": "2026-06-26T08:13:40+00:00",
+            "snippet": "«وول ستريت جورنال»: البنتاغون يدرس نقل قواعده العسكرية من السعودية والكويت Al Akhbar"
           }
         ],
         "error": null
@@ -383,6 +401,12 @@
         "url": "https://english.wafa.ps",
         "headlines": [
           {
+            "title": "Israeli forces close entrances to several towns and villages northwest of Ramallah - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VdGtYaXhWWllpS3BTeV9pa09RVGVlLXVuaDR1ZHUzTnI0T2RybmxNVUZvdEFnODRGVk1FY200U2R0c3U3amtUYUZhYXJha1FLQ2dBdDRYMA?oc=5",
+            "published": "2026-06-27T05:53:36+00:00",
+            "snippet": "Israeli forces close entrances to several towns and villages northwest of Ramallah WAFA Agency"
+          },
+          {
             "title": "Israeli strike kills three civilians, injures others in central Strip - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YLWNNLWl2QnVrVFczWU1JMl9sNng0U0MtMGlKX2ZtNVJLRENGWnZoSmYzeFVPQnJQUUJEMGZvdlZDd2ZPazQ0eC1sVWtSa2VzMjIyV09XQQ?oc=5",
             "published": "2026-06-26T21:31:36+00:00",
@@ -405,12 +429,6 @@
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tWTdqblYtRUZZcE5Ob040Ul9aQXZ6TzZTWGdWbnZpOWFDZV9kclAwcktvNVdHTy15bzEyTUlhNDcyLVZoSHlQLThUaldpVUdGSVJrSlRLcw?oc=5",
             "published": "2026-06-26T16:51:06+00:00",
             "snippet": "Israeli forces assaulted Palestinians at an archaeological landmark near Bethlehem."
-          },
-          {
-            "title": "UPDATE: Infant succumbs to wounds after Israeli forces open fire on family’s vehicle south of Hebron - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDlrSHV0cW51TkNGa05YWHBKQllzREJfWWFxTlRWVk54Rm1TVUZlVHR5bU5ITm9janFXWXVYQ2J3ejVsckhFMkVmX3AxVXZVeHd5T29wMUdET1pIY2p4M1NCVEpVaWU1akV0bkF3S2Nmb2EtQVpQR0k0dHNWR1dFMExXZ190NkRkVjBpeVgwNA?oc=5",
-            "published": "2026-06-26T16:49:37+00:00",
-            "snippet": "An infant has died from wounds sustained after Israeli forces opened fire on a family's vehicle south of Hebron."
           }
         ],
         "error": null
@@ -779,34 +797,34 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
-            "title": "Iran mocks US-style ‘solution’ to hunger crisis",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWNjdEJhUHRTWVpuSmtkWU1wdkk1X242LTBkZE93OTZjM1o2UGJDMG5OYzlsRDgwZU9lSXNDeUQ0dnRqN1FWU0RWeWRPVl9xSXZPV1RsS1dHUlI0WVlVdWRfR3I3NFAxb3lZTnVhSm1GbTQ1QVE1NFp4bm1UMGtSNU1DdEnSAUdBVV95cUxQTTdlZmJNaGMxOG5leTA2N2ltUm9zdmNYVWxvSjgwTGxlekJEZWowd3o2ckVDRGp5Q2lWSFJJLWZmbjU2QzBvMA?oc=5",
-            "published": "2026-06-26T13:08:06+00:00",
-            "snippet": "Iran criticized a US-style 'solution' to the hunger crisis."
+            "title": "Iran, UAE discuss latest regional developments",
+            "url": "https://en.irna.ir/news/86193551/Iran-UAE-discuss-latest-regional-developments",
+            "published": "2026-06-27T06:02:19+00:00",
+            "snippet": "Tehran, IRNA — Foreign Minister Abbas Araghchi and his Emirati counterpart, Abdullah bin Zayed Al Nahyan, have, in a phone conversation, reviewed the latest developments in the region."
           },
           {
-            "title": "Iran warns: Strait of Hormuz safety hinges on addressing its concerns",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2ZKQXFUN243Y25FNklnRlJySFRNWFc0M054eGdLWDZpaHRJTlVRRHVnTl85aVUyckhHZWJORHpyeFFPZ3E5UnQxblNRV0FQTEF0VGJOdDFuQVlCeUhSdE45a19hakZSUGMzVkFqZVBPX2JIRURXNHhvc21OVXA2eHdpZjMyeDd4X0RibnpPV1VGM0l3WHQ40gFHQVVfeXFMTkdqNXktLUNIdUNmSzNIWU1namUzU0ZmTGdrNm5DZHd2Z3pVU1dBZktaYlhrb3RJeUlPdDg1LVJOWTB2Zl9xODg?oc=5",
-            "published": "2026-06-26T12:08:35+00:00",
-            "snippet": "Iran warned that the safety of the Strait of Hormuz depends on addressing its concerns."
+            "title": "IRGC Navy strikes US military positions after American aggression",
+            "url": "https://en.irna.ir/news/86193537/IRGC-Navy-strikes-US-military-positions-after-American-aggression",
+            "published": "2026-06-27T05:56:39+00:00",
+            "snippet": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy says it has targeted several US military positions in the region in retaliation for an American act of aggression against Iran’s southern coast."
           },
           {
-            "title": "South Korean FM voices support for diplomatic efforts in West Asia",
-            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqbWNfbThKd1oxeTQwa3RNX2RMVkJ1TzZOdTNEanJyRFlYQ0hLRGNfYktEQW5mZEdsVzRvNGhnMkd0TXladHZN0gFHQVVfeXFMUGptY19tOEp3WjF5NDBrdE1fZExWQnVPNk51M0RqcnJEWVhDSEtEY19iS0RBbmZkR2xXNG80aGcyR3RNeVp0dk0?oc=5",
-            "published": "2026-06-26T10:12:42+00:00",
-            "snippet": "South Korea's Foreign Minister expressed support for diplomatic efforts in West Asia."
+            "title": "Iran, Egypt foreign ministers discuss regional developments over phone",
+            "url": "https://en.irna.ir/news/86193531/Iran-Egypt-foreign-ministers-discuss-regional-developments-over",
+            "published": "2026-06-27T05:47:56+00:00",
+            "snippet": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi has held a telephone conversation with his Egyptian counterpart, Badr Abdelatty, as part of the diplomatic engagements of the Islamic Republic in the region."
           },
           {
-            "title": "Iran slams US-PGCC statement as ‘interventionist, irresponsible, provocative’",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWng2UHB1eVQ2cmRKTkhBV3d2Z0t0V0lQdXo2bXFkUWxpNXlfRVhkQTdTWGR0VV94RG01amppN3V1cmhha0p6X0p6Smd4NFA2cnVzTFQ2ak4wQ1ZuTDI2azRWa0RrSWRld0tSVk9fNWsyTGxmQXlfU2hGbkUwMW9XZV9QU2pnZ0JJUmh3ZW5MSTRoUmZXZzVmOGNB0gFHQVVfeXFMTXlSX2VkclhnSlFLMkRUSFRCSm84UWJfdHRqUlYyQXUtMUcteWpxNGt6ZWZGU3FBVE9nNDczcTFibnhVNUdLcVE?oc=5",
-            "published": "2026-06-26T09:52:03+00:00",
-            "snippet": "Iran condemned a US-PGCC statement as interventionist, irresponsible, and provocative."
+            "title": "Iranian, Pakistani foreign ministers discuss bilateral ties  over phone",
+            "url": "https://en.irna.ir/news/86193417/Iranian-Pakistani-foreign-ministers-discuss-bilateral-ties",
+            "published": "2026-06-26T19:47:37+00:00",
+            "snippet": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi and his Pakistani counterpart, Senator Mohammad Ishaq Dar, in a telephone conversation on Friday evening discussed bilateral ties and regional developments."
           },
           {
-            "title": "Iran’s Armed Forces issue warning over Israeli aircraft movements in region",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkxIOW5NeDk5cWxDMjYwTzlDTGxjZXRVOU1XazdFcFBkV0h5VTM1clRDbFhnY0x1aGZncG9CenJDdDkzNGx3MmNULWxtXzVYZUtpZUc4VTBvU1NnMnRZNVoya0VyLXBNRXBmMjg4NGNoeXBHU1FUYVRmaVpwQVJOQWFvb2FxZnpFaTJuRldjdDRfcXF1STNKdTBVbV9mZUHSAUdBVV95cUxPOGJXUFMxOU9YVlk2bzI0eWpoTHEyU1NUVFN1elJXMlVtMnowZ2FVaWVlWDRrX3ZRY3lUTnJSYk1uamRPWjhwSQ?oc=5",
-            "published": "2026-06-26T08:26:16+00:00",
-            "snippet": "Iran's Armed Forces issued a warning regarding Israeli aircraft movements in the region."
+            "title": "Iran, UK top diplomats discuss implementation of Islamabad MoU",
+            "url": "https://en.irna.ir/news/86193360/Iran-UK-top-diplomats-discuss-implementation-of-Islamabad-MoU",
+            "published": "2026-06-26T16:57:02+00:00",
+            "snippet": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi has briefed his UK counterpart on the latest status of negotiations, progress in implementing agreements, and the consultations held regarding the Islamabad Memorandum of Understanding."
           }
         ],
         "error": null
@@ -817,6 +835,12 @@
         "lang": "en",
         "url": "https://en.mehrnews.com",
         "headlines": [
+          {
+            "title": "Gambling on US to cost Persian Gulf states security",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWM1ejA3c3F2SjNob3JmYjl3b1prd2dIQ1pVNXR6RFFNaXpSelJfVFVzXzMyYTA2MXc1Y2p4LXotamg2UmNXMDQxRGlHTV9BNkM1b0NRUUlSOHk4Slhsci1yY3FNdThGVjZlbnVOQUtJUlRnbnNnejR1bHUzbmtxYk10NFhzUFlRSjhnYmJaaW9nelk?oc=5",
+            "published": "2026-06-27T05:53:00+00:00",
+            "snippet": "Gambling on US to cost Persian Gulf states security Mehr News Agency"
+          },
           {
             "title": "Oman says Hormuz Strait not to return to its pre-war status",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlA2YzRhNUpuUmVlVTdPRk42UDhMVzJyNnZyVE9WRmRTVVZCUWN4em1MN1VDZlotR3FTMU9sZTE1eldCRUtpcGdqX3RVNzlPcy1LWXlobU1NUXlWX3RUazNCNDVHZHgwUEFoOThiMjI4cXpTSTdJTzVkcFZKbVhaZGdhdURXelV0bVY5TXh6bTJIVVFWSUJhcFRzaw?oc=5",
@@ -840,17 +864,10 @@
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUEwY2YyUjJERUlGemdCcHZnaFlUUVFJRV9JczhISXota1o0RmxSUmJsc3FCc2cxV0t6ci15bFJBa1NfOVRkQ0xqb2tuTVR3Zl9yaW8xMEVfVzBQUm14VE9mUFExTm94TDVwQTdWVWt2UzBCc2ZlZFpzUFZCYzBUNU5pZHlJaGc?oc=5",
             "published": "2026-06-26T14:03:00+00:00",
             "snippet": "The Iran war has challenged the global standing of the US."
-          },
-          {
-            "title": "Hormuz Strait safe passage conditional on Iran's coordination",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWtGWUlNb2hVWTRPSVNaMG9kSkR1R1hvM25Cb1FjWmhSOG9HQ2xwaG9zS1VoS1NDZnB1d09YbkJQYk1UQkpfa3hnMlJBYVFONmZFU0NsZXVacWQ0MXZwQkthU1JVWEx4ZEZKRXU4dlVxSlRWLUtMZm14T1RZcmpQUTk0dm9aNEJfaG1nbFFxTi1lX1dXTXhiWmUxUU9UQQ?oc=5",
-            "published": "2026-06-26T12:16:00+00:00",
-            "snippet": "Safe passage through the Strait of Hormuz is conditional on Iran's coordination."
           }
         ],
         "error": null
       }
     ]
-  },
-  "titles_hash": "0140f2f196368453"
+  }
 }
