@@ -1,15 +1,27 @@
 {
-  "updated": "2026-06-27T10:07:39.641654+00:00",
+  "updated": "2026-06-27T10:36:27.544244+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 21,
+      "count": 23,
       "headlines": [
         {
           "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
           "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran advisor says US violation of MoU will be met with swift and decisive response",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-advisor-says-us-violation-mou-will-be-met-swift-and-decisive",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iranian official says cargo clearance from UAE port resumes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -19,20 +31,14 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran says any violation of shipping instructions through strait will be met decisively",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-any-violation-shipping-instructions-through-strait-will-be-met",
-          "source": "Middle East Eye",
+          "title": "Iran says it struck US-linked targets in response to US attacks",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmI3aF83dW8teFhPam5vYlpXV1FGcllkZHA1NTdnZHAtYnZzajJLY01vVGYwckJZbkRWNFlHWDR0QkF6Q2xVZlFoNGFYeEVOcVVBZl9aT0dFNDVsUWJ0X0gzcTNVRnY3TjliYzJ2TVllSUhueS1JanNqcUxpWWdSQlNGRl9JNF80N09pMkJTZTVMa29FRmpOaDBwWml5aXI5Slg2TVF3U0steG9yVjBZUnBpRk9LTFpPaEFjZnEweHdBQdIBwgFBVV95cUxQSmI3aF83dW8teFhPam5vYlpXV1FGcllkZHA1NTdnZHAtYnZzajJLY01vVGYwckJZbkRWNFlHWDR0QkF6Q2xVZlFoNGFYeEVOcVVBZl9aT0dFNDVsUWJ0X0gzcTNVRnY3TjliYzJ2TVllSUhueS1JanNqcUxpWWdSQlNGRl9JNF80N09pMkJTZTVMa29FRmpOaDBwWml5aXI5Slg2TVF3U0steG9yVjBZUnBpRk9LTFpPaEFjZnEweHdBQQ?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran says it struck US-linked targets after US attacks",
-          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-after-us-attacks",
+          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
+          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
@@ -119,11 +125,77 @@
           "url": "https://en.irna.ir/photo/86193900/Ta-zieh-performance-on-Ashura-Day-in-Nushabad",
           "source": "IRNA",
           "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Lebanon",
+      "count": 11,
+      "headlines": [
+        {
+          "title": "Israeli drone strikes southern Lebanon day after security deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-southern-lebanon-day-after-security-deal",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
         },
         {
-          "title": "US assaults on Iranian coastal facilities violate war-end MoU: Tehran",
-          "url": "https://en.irna.ir/news/86193875/US-assaults-on-Iranian-coastal-facilities-violate-war-end-MoU",
-          "source": "IRNA",
+          "title": "Lebanon orders measures to prevent riots after deal with Israel",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-orders-measures-prevent-riots-after-deal-israel",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Shia Muslims mark their holiest day in war-battered Lebanon",
+          "url": "https://www.newarab.com/news/shia-muslims-mark-their-holiest-day-war-battered-lebanon",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQktxYVJzVTJHLU9ZaU9GQ2RLUXpUMVRHRk9QZ3VMV0ZjRXh5UWU2QkpjaklLdWtHWjVRZ2JmazZnVkZzdEk3Si1NMUpZakRIV25nRWlJRWtFSy02enV0MHFXZDkyM0FvSGJkRVlEUllZbmx0alFKXzdXQlBpUGN5aVZUX20xSVlPZnpoYm54ZTQyOUVyVjk5YjMwdkRWaTZvak03VDU5ekZySkFlVlkyZkJhMi1PV1I4d0J4TTV3?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "لبنان يوقع اتفاق العار... نتنياهو: إنجاز كبير لإسرائيل! - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOY20yYXV1SDA4LXJjb1lRQWNlVGFOcXZneVpScFowV1hGbzhwSXR1V2FWWE5GamY4ZXJlQ3ZQVTczcnMzdkVOTW0zeC05dUkxY2NQU3BKcDlOeEFYSHJ1N0tVZVVUZjBtbHE1c1BvdHI1VVBnU1ZrSDV1OUptTDhJUXBpdDZRaWVxOC1MTDhSby1tak8tcmtyWk96QTJNN3JtZkdrRl8xYm5WeGY4QkJUSVp6OV9VclQxZmxWWE9pZE1iU25qQTQ0VmRqRTlhUklwN05NNjhhekViaF9lOEw5bWtrM2dta3FsV280XzdPUnJDLVYzS0tRYlR2dHBqUzN0WVBnY0E3N2NwVURjZjhDWFhaRGFfZDdvOXhEM0RBTlJnUEt2LWc5eUVnRG1TSm8wM29scXZ5b1dMUjk2VzV4bWMxTWRpVFNGOEtzT0g3cVFwOVY0dHBaSXR5S3pLcExJaHlUYXU3NnBMS1dBSTBwNUVtbkEzLU9FOWRrX1ptZTZWcjlqWXRyU2FqWEd4cVU5LURPRl9ENHQ4dEttVFFCQk1vWm1GQTFRLVMtOThhdkhGblRPSnBFZ2pibW9ZSncw?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900639",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Israel to Withdraw From Lebanon Only After Hezbollah Disarmed, Deal Says",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdnBsT0FSajRJa3FGY0RyX2pVZEZ6NVVLN0JDWDdPUGFoTnFlU21PMEtLXzVNd1dkRTd1Y2tLZ2VhbXlxZEJvc0VyM0VrUjk1Nm5JWjVzenZFLVZWS1FuZ0M2Z25OeWtoMmtSS1hRaU5xd0ZuakF3cms1YXlIdGlkLUpvRkw5OW1WUkswM0xYRzhNSzh6LXlHOU94Sm1sTTNyNmt2SlhLdENsdEFsS0NyaEJpNUQ4VmFEZnB5YUxpV0h3UHNaYWFqYzlhbmZyVkdCT3FIWWxLSkJoczBKc2xadWlReXN6aUxPMWt2ejZ6bnJ6QkVxZTZWNVltUnl0dVR0d0d4MHVtaU82M3RoTXdXbG1FTXBzSVlmYjlycA?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "With IDF Drones Circling Overhead, Lebanon's Shi'ites Celebrate the Ashura Holiday",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbGVEWkxvT280YWdKbG12Tm8wbHNyTXI5QzZhSjl4SjljQ0V1YnFkdndhbDAyZU5RR1I2U0JYb0dCd0o5djZUM0FZZjFKYXRJLWtfbkhLT2dRa0RERmhJT0FEVFo4NFQ5QU9Uak9DUkREVHNPRExPMlhOUXNYQ25WYURwRDJRNUVZcTdKRmpHN29JV3NlMUNpMVg0c1RxODRRTk4wS0w0Qm9zR1VRb015d211dDBvVXN6dk0xcUhGWTNhdk10TTl4dkJPQmpMQ2dSdTdyVHJFWklYUGw5M0hTdUM3OVhUSHNVbl91V2FJOHdlZGlELXRnMk53YzZfZktkODhzXy10SUR5c2JoQ0ZlN0Z3dHdGOHRBLThwb3VteWlQQQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Mass protests hit across Lebanon over deal with Israel",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzF0aFN0RjhKWEFWV01IdTkxVExmRHVYRl9uekFIcUEwb1hEZUhPaTJiOGpvZnRZOXcycEJ4UUoxX2dnOTVxTmd1WVZXVVg4NDl0WV84THQzQnVwNDRRMnBTN1RkUDVibklXUHBoSWkzRVNYVnRkazlEWmxQaEZFbjVpb19PVTAtN2sza0VNV2N0ZllP?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Israeli forces kidnap 6 farmers in southern Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa01TS3hBX0ZUZ3RDa21ycEN3eldCWjNjbVNPNzZmZkhmTmJ0RlBZZ2lkNHd5TnZ1dXR4Uy0xYjI5dGJxdFlSLVZleFRGdElaVm9sSHlnVi1TaERjaTNyQU5sZUlIdnI5OXczbXNyc0szNEVsaUNDWWJHZHlOcFlEX0dScFhpRUVWR3U2TjA3ODY?oc=5",
+          "source": "Mehr News",
           "region": "Iran"
         }
       ]
@@ -133,8 +205,8 @@
       "count": 10,
       "headlines": [
         {
-          "title": "Child succumbs to injuries from Israeli attack on Gaza as death toll rises to 73,043",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-succumbs-injuries-israeli-attack-gaza-death-toll-rises-73043",
+          "title": "Israeli drone strikes southern Lebanon day after security deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-southern-lebanon-day-after-security-deal",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -142,6 +214,12 @@
           "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
           "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces raid Aboud village, seize surveillance camera recordings - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBRThjN0dhd00xZVB6cVJYWjF5NWhwZDMxVXdvSlJ0ZWktdzhvZlRTNFRnSld1ZWpLWGxuVzRUbjUtMi13aGdycGxHN01wVUpHOHZyZ1Q3MA?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
@@ -169,12 +247,6 @@
           "region": "Levant"
         },
         {
-          "title": "Israeli strike kills three civilians, injures others in central Strip - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YLWNNLWl2QnVrVFczWU1JMl9sNng0U0MtMGlKX2ZtNVJLRENGWnZoSmYzeFVPQnJQUUJEMGZvdlZDd2ZPazQ0eC1sVWtSa2VzMjIyV09XQQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
           "title": "مقر خاتم الأنبياء للدفاع الجوي: تحركات الطيران الإسرائيلي في أجواء دول الجوار تهديد لإيران",
           "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNE1PNGpwY1NOYjM4OHJKNTI4RHFSTHhINGUycElMUmxtNEpVYkJkbUVIVzFTRWNTVmR1ZW1OSjVTcF8zbGtaV2pTZ1hDcFNRemxIQmY2dUhWT0pfVk9lQTBIS1JkdUI1WXpPeGRaX0xrbC1nOEJ0TjUxV3ZxVjV4c0ZZc3lTS3c1SElySUlNUlUwWXFrLXhCVTVZZG5iVDVWUU5kVmtRTTMtb2NHdm5VMEcwZHU1c25DWUlyanlLTkhwdGJMWkE4OFpzbDY4cE1QNklJaGZ3UTFUUVRVQlY3cWl2YndFdzNUWEtuemp4dkRfal9wWFlodTlqSC0xcDktWlpuVDNNLTZGRjhNQWtzVUdveWRaNGJ3ZmF4MUdwSmI?oc=5",
           "source": "Falastin al-Youm",
@@ -195,61 +267,49 @@
       ]
     },
     {
-      "term": "Lebanon",
-      "count": 9,
+      "term": "Iranian",
+      "count": 7,
       "headlines": [
         {
-          "title": "Shia Muslims mark their holiest day in war-battered Lebanon",
-          "url": "https://www.newarab.com/news/shia-muslims-mark-their-holiest-day-war-battered-lebanon",
+          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iranian official says cargo clearance from UAE port resumes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Drone targets Iranian Kurdish opposition camp north of Iraq’s Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2x0RUpvNE94VzkyNE5yMHRDdmNoTy11MHZTcnlEVVdxVFQ1NXItTHFLeF9kZi1QSksxMmpjTkZRb25iWHBwS1lpTTVMejhpV3ltUVA5X2Y5SnAzeHhXbXZpRm11U3ZfSWx0SnZ2N1AwcmFGRDU3Tk5pejVNaUNtaVZvQ291aWN4bHBlOUp1YnlVTEZSSnZza3JTUnloeDVmM09PTFB2amR2X0loSXU0QjJIX1BZZlgxeDFUdkx3dVBLMEsxdXh3b0Z2YlhueGJLam1aSFM1ZG1xSlc2UlZfQmJpQlPSAeQBQVVfeXFMT2NsdEVKbzRPeFc5MjROcjB0Q3ZjaE8tdTB2U3J5RFVXcVRUNTVyLUxxS3hfZGYtUEpLMTJqY05GUW9uYlhwcEtZaU01THo4aVd5bVFQOV9mOUpwM3h4V212aUZtdVN2X0lsdEp2djdQMHJhRkQ1N05OaXo1TWlDbWlWb0NvdWljeGxwZTlKdWJ5VUxGUkp2c2tyU1J5aHg1ZjNPT0xQdmpkdl9JaEl1NEIySF9QWWZYMXgxVHZMd3VQSzBLMXV4d29GdmJYbnhiS2ptWkhTNWRtcUpXNlJWX0JiaUJT?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US strikes Iran sites after cargo ship attack, Tehran retaliates",
+          "url": "https://www.newarab.com/news/us-strikes-iran-sites-after-cargo-ship-attack-tehran-retaliates",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQktxYVJzVTJHLU9ZaU9GQ2RLUXpUMVRHRk9QZ3VMV0ZjRXh5UWU2QkpjaklLdWtHWjVRZ2JmazZnVkZzdEk3Si1NMUpZakRIV25nRWlJRWtFSy02enV0MHFXZDkyM0FvSGJkRVlEUllZbmx0alFKXzdXQlBpUGN5aVZUX20xSVlPZnpoYm54ZTQyOUVyVjk5YjMwdkRWaTZvak03VDU5ekZySkFlVlkyZkJhMi1PV1I4d0J4TTV3?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "لبنان يوقع اتفاق العار... نتنياهو: إنجاز كبير لإسرائيل! - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOY20yYXV1SDA4LXJjb1lRQWNlVGFOcXZneVpScFowV1hGbzhwSXR1V2FWWE5GamY4ZXJlQ3ZQVTczcnMzdkVOTW0zeC05dUkxY2NQU3BKcDlOeEFYSHJ1N0tVZVVUZjBtbHE1c1BvdHI1VVBnU1ZrSDV1OUptTDhJUXBpdDZRaWVxOC1MTDhSby1tak8tcmtyWk96QTJNN3JtZkdrRl8xYm5WeGY4QkJUSVp6OV9VclQxZmxWWE9pZE1iU25qQTQ0VmRqRTlhUklwN05NNjhhekViaF9lOEw5bWtrM2dta3FsV280XzdPUnJDLVYzS0tRYlR2dHBqUzN0WVBnY0E3N2NwVURjZjhDWFhaRGFfZDdvOXhEM0RBTlJnUEt2LWc5eUVnRG1TSm8wM29scXZ5b1dMUjk2VzV4bWMxTWRpVFNGOEtzT0g3cVFwOVY0dHBaSXR5S3pLcExJaHlUYXU3NnBMS1dBSTBwNUVtbkEzLU9FOWRrX1ptZTZWcjlqWXRyU2FqWEd4cVU5LURPRl9ENHQ4dEttVFFCQk1vWm1GQTFRLVMtOThhdkhGblRPSnBFZ2pibW9ZSncw?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel and Lebanon expected to sign framework agreement - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DM081MzVQTFgyNDFjVUxBVzlEbjFrU2ExRFRMRmhIOXlWaE9SRzJuWnBZU3BaQmN4SFh5WVJlRExzN0t2VnFmX21SaTIzSEJVZzQw?oc=5",
+          "title": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TVJZWGtTdnBaUnFiTFFyNW5ZRUxoRzZ2UWduTUs5YW94SnJVejIycHhsb3RvWDBvQVJ5Tzk4a2Y5NG0zN00zRVdORG9uLVlHTVdv?oc=5",
           "source": "Arab News",
           "region": "Gulf"
         },
         {
-          "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900639",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "With IDF Drones Circling Overhead, Lebanon's Shi'ites Celebrate the Ashura Holiday",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbGVEWkxvT280YWdKbG12Tm8wbHNyTXI5QzZhSjl4SjljQ0V1YnFkdndhbDAyZU5RR1I2U0JYb0dCd0o5djZUM0FZZjFKYXRJLWtfbkhLT2dRa0RERmhJT0FEVFo4NFQ5QU9Uak9DUkREVHNPRExPMlhOUXNYQ25WYURwRDJRNUVZcTdKRmpHN29JV3NlMUNpMVg0c1RxODRRTk4wS0w0Qm9zR1VRb015d211dDBvVXN6dk0xcUhGWTNhdk10TTl4dkJPQmpMQ2dSdTdyVHJFWklYUGw5M0hTdUM3OVhUSHNVbl91V2FJOHdlZGlELXRnMk53YzZfZktkODhzXy10SUR5c2JoQ0ZlN0Z3dHdGOHRBLThwb3VteWlQQQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Mass protests hit across Lebanon over deal with Israel",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzF0aFN0RjhKWEFWV01IdTkxVExmRHVYRl9uekFIcUEwb1hEZUhPaTJiOGpvZnRZOXcycEJ4UUoxX2dnOTVxTmd1WVZXVVg4NDl0WV84THQzQnVwNDRRMnBTN1RkUDVibklXUHBoSWkzRVNYVnRkazlEWmxQaEZFbjVpb19PVTAtN2sza0VNV2N0ZllP?oc=5",
-          "source": "Mehr News",
+          "title": "Pakistani PM: Pezeshkian’s visit achievements will strengthen bilateral ties",
+          "url": "https://en.irna.ir/news/86193921/Pakistani-PM-Pezeshkian-s-visit-achievements-will-strengthen",
+          "source": "IRNA",
           "region": "Iran"
         },
         {
-          "title": "Israeli forces kidnap 6 farmers in southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa01TS3hBX0ZUZ3RDa21ycEN3eldCWjNjbVNPNzZmZkhmTmJ0RlBZZ2lkNHd5TnZ1dXR4Uy0xYjI5dGJxdFlSLVZleFRGdElaVm9sSHlnVi1TaERjaTNyQU5sZUlIdnI5OXczbXNyc0szNEVsaUNDWWJHZHlOcFlEX0dScFhpRUVWR3U2TjA3ODY?oc=5",
-          "source": "Mehr News",
+          "title": "US assaults on Iranian coastal facilities violate war-end MoU: Tehran",
+          "url": "https://en.irna.ir/news/86193875/US-assaults-on-Iranian-coastal-facilities-violate-war-end-MoU",
+          "source": "IRNA",
           "region": "Iran"
         }
       ]
@@ -297,55 +357,19 @@
       ]
     },
     {
-      "term": "agreement",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "لبنان يوقع اتفاق العار... نتنياهو: إنجاز كبير لإسرائيل! - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOY20yYXV1SDA4LXJjb1lRQWNlVGFOcXZneVpScFowV1hGbzhwSXR1V2FWWE5GamY4ZXJlQ3ZQVTczcnMzdkVOTW0zeC05dUkxY2NQU3BKcDlOeEFYSHJ1N0tVZVVUZjBtbHE1c1BvdHI1VVBnU1ZrSDV1OUptTDhJUXBpdDZRaWVxOC1MTDhSby1tak8tcmtyWk96QTJNN3JtZkdrRl8xYm5WeGY4QkJUSVp6OV9VclQxZmxWWE9pZE1iU25qQTQ0VmRqRTlhUklwN05NNjhhekViaF9lOEw5bWtrM2dta3FsV280XzdPUnJDLVYzS0tRYlR2dHBqUzN0WVBnY0E3N2NwVURjZjhDWFhaRGFfZDdvOXhEM0RBTlJnUEt2LWc5eUVnRG1TSm8wM29scXZ5b1dMUjk2VzV4bWMxTWRpVFNGOEtzT0g3cVFwOVY0dHBaSXR5S3pLcExJaHlUYXU3NnBMS1dBSTBwNUVtbkEzLU9FOWRrX1ptZTZWcjlqWXRyU2FqWEd4cVU5LURPRl9ENHQ4dEttVFFCQk1vWm1GQTFRLVMtOThhdkhGblRPSnBFZ2pibW9ZSncw?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel and Lebanon expected to sign framework agreement - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DM081MzVQTFgyNDFjVUxBVzlEbjFrU2ExRFRMRmhIOXlWaE9SRzJuWnBZU3BaQmN4SFh5WVJlRExzN0t2VnFmX21SaTIzSEJVZzQw?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900639",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "Transportation Ministry says it reached deal to clear US jets clogging up Tel Aviv airport",
-          "url": "https://www.timesofisrael.com/transportation-ministry-says-it-reached-deal-to-clear-us-jets-clogging-up-tel-aviv-airport/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Hezbollah slams Israel-Lebanon agreement as 'gift to enemy,' warns of civil war",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdG1FN1g5akhJYmo2Z1JmVkdYSERhU1ZRYS1KbG5aLU8xaWxsb2R5VGozZXpYeWdJb3dTUHk0WV80X0dlS1RwOEViOG5ySzlWX0xEVDF1YkNRR1hXMzdCc1JrSTlURFhMY0FldHRjVy1ZWnJKVXlySkFoWDRBTjdwU2UyNVZZVXl4UFJjcE9mYVM4RjNveTVFT1B0YTNtcl96Zi12Ml8xRFhGa3FjYjdoa1pvd0w0OXlmSmFTZG5RTC14UGh0VThZTzBpTjNTSEZBaFpEN0FMZVJQWUt6dUE4eGRqN2Zsb0JBWUEtWlZTdUc1eXRsZk1rNmN2LWJCQVZ2VDB3UDNTdUM5eW52QkF2d3dNdXZPY3F0Nmc3ZV9QYTRrVmM?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "Tehran",
-      "count": 5,
+      "count": 6,
       "headlines": [
         {
           "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
           "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iranian official says cargo clearance from UAE port resumes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -375,49 +399,61 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
-      "count": 5,
+      "term": "drone",
+      "count": 6,
       "headlines": [
         {
-          "title": "Tanker hit by unidentified projectile in Strait of Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unidentified-projectile-strait-hormuz",
+          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli drone strikes southern Lebanon day after security deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-southern-lebanon-day-after-security-deal",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran says any violation of shipping instructions through strait will be met decisively",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-any-violation-shipping-instructions-through-strait-will-be-met",
+          "title": "Iranian official says cargo clearance from UAE port resumes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "US strikes Iran sites after cargo ship attack, Tehran retaliates",
-          "url": "https://www.newarab.com/news/us-strikes-iran-sites-after-cargo-ship-attack-tehran-retaliates",
+          "title": "Drone targets Iranian Kurdish opposition camp north of Iraq’s Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2x0RUpvNE94VzkyNE5yMHRDdmNoTy11MHZTcnlEVVdxVFQ1NXItTHFLeF9kZi1QSksxMmpjTkZRb25iWHBwS1lpTTVMejhpV3ltUVA5X2Y5SnAzeHhXbXZpRm11U3ZfSWx0SnZ2N1AwcmFGRDU3Tk5pejVNaUNtaVZvQ291aWN4bHBlOUp1YnlVTEZSSnZza3JTUnloeDVmM09PTFB2amR2X0loSXU0QjJIX1BZZlgxeDFUdkx3dVBLMEsxdXh3b0Z2YlhueGJLam1aSFM1ZG1xSlc2UlZfQmJpQlPSAeQBQVVfeXFMT2NsdEVKbzRPeFc5MjROcjB0Q3ZjaE8tdTB2U3J5RFVXcVRUNTVyLUxxS3hfZGYtUEpLMTJqY05GUW9uYlhwcEtZaU01THo4aVd5bVFQOV9mOUpwM3h4V212aUZtdVN2X0lsdEp2djdQMHJhRkQ1N05OaXo1TWlDbWlWb0NvdWljeGxwZTlKdWJ5VUxGUkp2c2tyU1J5aHg1ZjNPT0xQdmpkdl9JaEl1NEIySF9QWWZYMXgxVHZMd3VQSzBLMXV4d29GdmJYbnhiS2ptWkhTNWRtcUpXNlJWX0JiaUJT?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
+          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "\"They shouldn't be doing that,\" Trump on Iran's attack on commercial ship transiting Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkVqU1JoYmsxVGJRSEFrakpIbW5wOFE3TGd6bFpHTFlTUUVWX3BwbFVCZi1rNlVFSjdMbVUzQWpWa3U5eU9sQjN4SG1VZDlkWGJmbmdzTjRmNjRhY0dwXzBhYWFWenZITGRQRXVCNHJqQW9nRVVFVExIbkc5VXYyUjZVZ1U0bDFTYWItOUN1czdmaS1jVk5qRnV4amk4ZFdsaGg1eE8za2pIVnNTN29ibG1lbXdSSG1VYlFzU1VsanlpYVBXREYzLXQxZGpJanRDT0E?oc=5",
-          "source": "Times of Oman",
+          "title": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TVJZWGtTdnBaUnFiTFFyNW5ZRUxoRzZ2UWduTUs5YW94SnJVejIycHhsb3RvWDBvQVJ5Tzk4a2Y5NG0zN00zRVdORG9uLVlHTVdv?oc=5",
+          "source": "Arab News",
           "region": "Gulf"
         }
       ]
     },
     {
       "term": "attack",
-      "count": 5,
+      "count": 6,
       "headlines": [
         {
-          "title": "Child succumbs to injuries from Israeli attack on Gaza as death toll rises to 73,043",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-succumbs-injuries-israeli-attack-gaza-death-toll-rises-73043",
+          "title": "Iranian official says cargo clearance from UAE port resumes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
           "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
+          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -447,38 +483,38 @@
       ]
     },
     {
-      "term": "Palestinian",
+      "term": "Strait of Hormuz",
       "count": 5,
       "headlines": [
         {
-          "title": "Child succumbs to injuries from Israeli attack on Gaza as death toll rises to 73,043",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-succumbs-injuries-israeli-attack-gaza-death-toll-rises-73043",
+          "title": "Iran advisor says US violation of MoU will be met with swift and decisive response",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-advisor-says-us-violation-mou-will-be-met-swift-and-decisive",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Ms Rachel says world has failed Palestinian children at briefing",
-          "url": "https://www.newarab.com/news/ms-rachel-says-world-has-failed-palestinian-children-briefing",
+          "title": "Iranian official says cargo clearance from UAE port resumes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US strikes Iran sites after cargo ship attack, Tehran retaliates",
+          "url": "https://www.newarab.com/news/us-strikes-iran-sites-after-cargo-ship-attack-tehran-retaliates",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli forces detain Palestinian during raid near Balata refugee camp, teen injured - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uRjRCaFRGY2tTOHdKSjNvSmxqdldNcDkzdjhLbVVZSGtleHI1WHB6RWk0LWNxQjY5WDdGWV9HaHE0VFFiME9VVUw4OG5FS1JPTEFVOGxKdw?oc=5",
-          "source": "WAFA News",
+          "title": "Attack on ship in Hormuz leads UN to halt evacuation plan for trapped sailors",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
+          "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "Israeli colonists graze their sheep on Palestinian residents' lands near Ramallah - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QbFJtM2ZWLVJoUDNGc2pRZU1sTzhJaDRtSUtwbEJOMFNFN2Ywa1BYa0pjRHNtQ3pDQVd2eWFab2F0RXVtSDQwdmhRRXkxVGxHdTNWRFU2WQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Palestinian man injured as Israeli forces raid wedding celebration near Jerusalem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fdU93ZzlveGxCU3pUNXd4R1U1QzB2Mkk4dUJvREd3aDVlelN4TzNDQlloSFlOaEl6SWZ6VHZMOUJHVVZQenY4VGxaZWxtV3VteFdsOG5hdw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "\"They shouldn't be doing that,\" Trump on Iran's attack on commercial ship transiting Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUkVqU1JoYmsxVGJRSEFrakpIbW5wOFE3TGd6bFpHTFlTUUVWX3BwbFVCZi1rNlVFSjdMbVUzQWpWa3U5eU9sQjN4SG1VZDlkWGJmbmdzTjRmNjRhY0dwXzBhYWFWenZITGRQRXVCNHJqQW9nRVVFVExIbkc5VXYyUjZVZ1U0bDFTYWItOUN1czdmaS1jVk5qRnV4amk4ZFdsaGg1eE8za2pIVnNTN29ibG1lbXdSSG1VYlFzU1VsanlpYVBXREYzLXQxZGpJanRDT0E?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
         }
       ]
     },
@@ -519,6 +555,42 @@
       ]
     },
     {
+      "term": "agreement",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "لبنان يوقع اتفاق العار... نتنياهو: إنجاز كبير لإسرائيل! - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOY20yYXV1SDA4LXJjb1lRQWNlVGFOcXZneVpScFowV1hGbzhwSXR1V2FWWE5GamY4ZXJlQ3ZQVTczcnMzdkVOTW0zeC05dUkxY2NQU3BKcDlOeEFYSHJ1N0tVZVVUZjBtbHE1c1BvdHI1VVBnU1ZrSDV1OUptTDhJUXBpdDZRaWVxOC1MTDhSby1tak8tcmtyWk96QTJNN3JtZkdrRl8xYm5WeGY4QkJUSVp6OV9VclQxZmxWWE9pZE1iU25qQTQ0VmRqRTlhUklwN05NNjhhekViaF9lOEw5bWtrM2dta3FsV280XzdPUnJDLVYzS0tRYlR2dHBqUzN0WVBnY0E3N2NwVURjZjhDWFhaRGFfZDdvOXhEM0RBTlJnUEt2LWc5eUVnRG1TSm8wM29scXZ5b1dMUjk2VzV4bWMxTWRpVFNGOEtzT0g3cVFwOVY0dHBaSXR5S3pLcExJaHlUYXU3NnBMS1dBSTBwNUVtbkEzLU9FOWRrX1ptZTZWcjlqWXRyU2FqWEd4cVU5LURPRl9ENHQ4dEttVFFCQk1vWm1GQTFRLVMtOThhdkhGblRPSnBFZ2pibW9ZSncw?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900639",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "Transportation Ministry says it reached deal to clear US jets clogging up Tel Aviv airport",
+          "url": "https://www.timesofisrael.com/transportation-ministry-says-it-reached-deal-to-clear-us-jets-clogging-up-tel-aviv-airport/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Hezbollah slams Israel-Lebanon agreement as 'gift to enemy,' warns of civil war",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdG1FN1g5akhJYmo2Z1JmVkdYSERhU1ZRYS1KbG5aLU8xaWxsb2R5VGozZXpYeWdJb3dTUHk0WV80X0dlS1RwOEViOG5ySzlWX0xEVDF1YkNRR1hXMzdCc1JrSTlURFhMY0FldHRjVy1ZWnJKVXlySkFoWDRBTjdwU2UyNVZZVXl4UFJjcE9mYVM4RjNveTVFT1B0YTNtcl96Zi12Ml8xRFhGa3FjYjdoa1pvd0w0OXlmSmFTZG5RTC14UGh0VThZTzBpTjNTSEZBaFpEN0FMZVJQWUt6dUE4eGRqN2Zsb0JBWUEtWlZTdUc1eXRsZk1rNmN2LWJCQVZ2VDB3UDNTdUM5eW52QkF2d3dNdXZPY3F0Nmc3ZV9QYTRrVmM?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "strikes",
       "count": 4,
       "headlines": [
@@ -549,13 +621,13 @@
       ]
     },
     {
-      "term": "Iranian",
+      "term": "ceasefire",
       "count": 4,
       "headlines": [
         {
-          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
+          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -565,16 +637,46 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Pakistani PM: Pezeshkian’s visit achievements will strengthen bilateral ties",
-          "url": "https://en.irna.ir/news/86193921/Pakistani-PM-Pezeshkian-s-visit-achievements-will-strengthen",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         },
         {
-          "title": "US assaults on Iranian coastal facilities violate war-end MoU: Tehran",
-          "url": "https://en.irna.ir/news/86193875/US-assaults-on-Iranian-coastal-facilities-violate-war-end-MoU",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900639",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Palestinian",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Ms Rachel says world has failed Palestinian children at briefing",
+          "url": "https://www.newarab.com/news/ms-rachel-says-world-has-failed-palestinian-children-briefing",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli forces detain Palestinian during raid near Balata refugee camp, teen injured - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uRjRCaFRGY2tTOHdKSjNvSmxqdldNcDkzdjhLbVVZSGtleHI1WHB6RWk0LWNxQjY5WDdGWV9HaHE0VFFiME9VVUw4OG5FS1JPTEFVOGxKdw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli colonists graze their sheep on Palestinian residents' lands near Ramallah - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QbFJtM2ZWLVJoUDNGc2pRZU1sTzhJaDRtSUtwbEJOMFNFN2Ywa1BYa0pjRHNtQ3pDQVd2eWFab2F0RXVtSDQwdmhRRXkxVGxHdTNWRFU2WQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Palestinian man injured as Israeli forces raid wedding celebration near Jerusalem - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fdU93ZzlveGxCU3pUNXd4R1U1QzB2Mkk4dUJvREd3aDVlelN4TzNDQlloSFlOaEl6SWZ6VHZMOUJHVVZQenY4VGxaZWxtV3VteFdsOG5hdw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         }
       ]
     },
@@ -609,26 +711,32 @@
       ]
     },
     {
-      "term": "Inside",
-      "count": 3,
+      "term": "raid",
+      "count": 4,
       "headlines": [
         {
-          "title": "Thai police arrest Australian over killing of teenager found in suitcase",
-          "url": "https://www.aljazeera.com/news/2026/6/27/thai-police-arrest-australian-over-killing-of-teenager-found-in-suitcase?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
+          "title": "Israeli forces raid Aboud village, seize surveillance camera recordings - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBRThjN0dhd00xZVB6cVJYWjF5NWhwZDMxVXdvSlJ0ZWktdzhvZlRTNFRnSld1ZWpLWGxuVzRUbjUtMi13aGdycGxHN01wVUpHOHZyZ1Q3MA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         },
         {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Israeli forces detain Palestinian during raid near Balata refugee camp, teen injured - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uRjRCaFRGY2tTOHdKSjNvSmxqdldNcDkzdjhLbVVZSGtleHI1WHB6RWk0LWNxQjY5WDdGWV9HaHE0VFFiME9VVUw4OG5FS1JPTEFVOGxKdw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         },
         {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Palestinian man injured as Israeli forces raid wedding celebration near Jerusalem - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fdU93ZzlveGxCU3pUNXd4R1U1QzB2Mkk4dUJvREd3aDVlelN4TzNDQlloSFlOaEl6SWZ6VHZMOUJHVVZQenY4VGxaZWxtV3VteFdsOG5hdw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "‘Operation Thunderbolt’: 50 years to the heroic raid on Entebbe",
+          "url": "https://www.timesofisrael.com/operation-thunderbolt-50-years-to-the-heroic-raid-on-entebbe/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -705,92 +813,116 @@
       ]
     },
     {
-      "term": "Residents",
+      "term": "Memorandum",
       "count": 3,
       "headlines": [
         {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
+          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran advisor says US violation of MoU will be met with swift and decisive response",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-advisor-says-us-violation-mou-will-be-met-swift-and-decisive",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli colonists graze their sheep on Palestinian residents' lands near Ramallah - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QbFJtM2ZWLVJoUDNGc2pRZU1sTzhJaDRtSUtwbEJOMFNFN2Ywa1BYa0pjRHNtQ3pDQVd2eWFab2F0RXVtSDQwdmhRRXkxVGxHdTNWRFU2WQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Trade",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Tanker hit by unidentified projectile in Strait of Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unidentified-projectile-strait-hormuz",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Investment min: Faster customs clearance key to improving business climate, economic competitiveness",
-          "url": "https://www.egyptindependent.com/investment-min-faster-customs-clearance-key-to-improving-business-climate-economic-competitiveness/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran, Pakistan move to boost bilateral trade as Taftan railway becomes customs station",
-          "url": "https://en.irna.ir/news/86193959/Iran-Pakistan-move-to-boost-bilateral-trade-as-Taftan-railway",
+          "title": "US assaults on Iranian coastal facilities violate war-end MoU: Tehran",
+          "url": "https://en.irna.ir/news/86193875/US-assaults-on-Iranian-coastal-facilities-violate-war-end-MoU",
           "source": "IRNA",
           "region": "Iran"
         }
       ]
     },
     {
-      "term": "strike",
+      "term": "Understanding",
       "count": 3,
       "headlines": [
         {
-          "title": "Child succumbs to injuries from Israeli attack on Gaza as death toll rises to 73,043",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-succumbs-injuries-israeli-attack-gaza-death-toll-rises-73043",
+          "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+          "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran advisor says US violation of MoU will be met with swift and decisive response",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-advisor-says-us-violation-mou-will-be-met-swift-and-decisive",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli strike kills three civilians, injures others in central Strip - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YLWNNLWl2QnVrVFczWU1JMl9sNng0U0MtMGlKX2ZtNVJLRENGWnZoSmYzeFVPQnJQUUJEMGZvdlZDd2ZPazQ0eC1sVWtSa2VzMjIyV09XQQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900639",
-          "source": "Jerusalem Post",
-          "region": "Israel"
+          "title": "US assaults on Iranian coastal facilities violate war-end MoU: Tehran",
+          "url": "https://en.irna.ir/news/86193875/US-assaults-on-Iranian-coastal-facilities-violate-war-end-MoU",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
     {
-      "term": "ceasefire",
+      "term": "Lebanese",
       "count": 3,
       "headlines": [
         {
-          "title": "US strikes Iran sites after cargo ship attack, Tehran retaliates",
-          "url": "https://www.newarab.com/news/us-strikes-iran-sites-after-cargo-ship-attack-tehran-retaliates",
-          "source": "The New Arab",
+          "title": "Lebanon orders measures to prevent riots after deal with Israel",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-orders-measures-prevent-riots-after-deal-israel",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "US, Iran exchange fresh strikes, raising fears over fragile Hormuz ceasefire",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcTFGRDNaUmFNQ0JiUG1PZ254X0tPSDZKNnJRazJ2LWNLZ3NuMHk0MWE2QlZVY3FqaWxlVVNhY1FyczRDTFUzQWxXNDRWQU0wRW15Y1d1ZkJITmZJQ0E?oc=5",
+          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "أعضاء في اتحاد الكتّاب اللبنانيين: زيارة رئيس الاتحاد إلى القصر الجمهوري تمت بقرار منفرد - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOVk1ZSlFqV1E1VDJwMk1ZdTBkT2xzeEVrWkZYX296WUJNT3lGOHpPR2FsSTV2cjZOdU83VW5GWEliRFBCd3BXcWJaM2dVeHBFdFJPV1hsamk5R0hMaVFHeEJLTmVudjkwZUJlSEZUUDQ4OGdVYXJCYVN3ZFlmWkE1bGRXZEd0cVc5MUpsM2ZkTjE1VTVOa3NpWTdyNjVRYlE3Q3hfNzlvYk5PbDJTWlE5VzgwdktoSVM4S2xQUkxBQXpkS3RDZF94MUNUN2ptWHNUbFJUVWo3NElueEtvcFZZeHd6UFo2YW1nMlNkTWEzOTRCNW5sMDZrdTNVUVp0eXNvbURaZUkzSGJUdVNNU2RYS2tsSXV0Z0ZNaTNEUERDQjlsQVF1cUxXcEJ5TUUzblRNeTd3SEZjRHZlQUJBcGFpM0wtcUtmZFhKZHpSamUzVG03ZE9fUkluSERBbW9kWExtQzlpQ2xtM1g5X1dBUHpNbUpwSkg5dzRzZVJtRzNXQzlucE9ZQWUwUTV6TWI4cEU4RzV3T1FZcnRxNFBqVTRwZFk0X2RWRGpLZlI5T0YybW5sa0NNVy1MQzF4SGN4eG9IbkpsdzNleWhNTG5PMmhhUDlPdHdUaEY2Vmlob19idFU4MG5CQTJ5TXBtc3lnNm9idFNRaGxNZw?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Iraq",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Drone targets Iranian Kurdish opposition camp north of Iraq’s Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2x0RUpvNE94VzkyNE5yMHRDdmNoTy11MHZTcnlEVVdxVFQ1NXItTHFLeF9kZi1QSksxMmpjTkZRb25iWHBwS1lpTTVMejhpV3ltUVA5X2Y5SnAzeHhXbXZpRm11U3ZfSWx0SnZ2N1AwcmFGRDU3Tk5pejVNaUNtaVZvQ291aWN4bHBlOUp1YnlVTEZSSnZza3JTUnloeDVmM09PTFB2amR2X0loSXU0QjJIX1BZZlgxeDFUdkx3dVBLMEsxdXh3b0Z2YlhueGJLam1aSFM1ZG1xSlc2UlZfQmJpQlPSAeQBQVVfeXFMT2NsdEVKbzRPeFc5MjROcjB0Q3ZjaE8tdTB2U3J5RFVXcVRUNTVyLUxxS3hfZGYtUEpLMTJqY05GUW9uYlhwcEtZaU01THo4aVd5bVFQOV9mOUpwM3h4V212aUZtdVN2X0lsdEp2djdQMHJhRkQ1N05OaXo1TWlDbWlWb0NvdWljeGxwZTlKdWJ5VUxGUkp2c2tyU1J5aHg1ZjNPT0xQdmpkdl9JaEl1NEIySF9QWWZYMXgxVHZMd3VQSzBLMXV4d29GdmJYbnhiS2ptWkhTNWRtcUpXNlJWX0JiaUJT?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TVJZWGtTdnBaUnFiTFFyNW5ZRUxoRzZ2UWduTUs5YW94SnJVejIycHhsb3RvWDBvQVJ5Tzk4a2Y5NG0zN00zRVdORG9uLVlHTVdv?oc=5",
           "source": "Arab News",
           "region": "Gulf"
+        },
+        {
+          "title": "Senegal's Lions of Teranga maul Iraq's Lions of Mesopotamia",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2FfcEh1eXRfUjc5bEl5dnhaUXNLeEtDMkdWUVdnNV9YZHBvM2lIR0JvcktCMG4xQ2tFYXlxR2tSc1kxa3luMkUtbWRVUU1iM1NvQzQ0Rk45Zzh6Sk5wS0Rvd2lkMWlPUkRrU1hCV1J4ZnNXRHNlVWdjNU1BbVNXX1FnUHNEOXc4ZmVQZkln?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "US-linked",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran says it struck US-linked targets in response to US attacks",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmI3aF83dW8teFhPam5vYlpXV1FGcllkZHA1NTdnZHAtYnZzajJLY01vVGYwckJZbkRWNFlHWDR0QkF6Q2xVZlFoNGFYeEVOcVVBZl9aT0dFNDVsUWJ0X0gzcTNVRnY3TjliYzJ2TVllSUhueS1JanNqcUxpWWdSQlNGRl9JNF80N09pMkJTZTVMa29FRmpOaDBwWml5aXI5Slg2TVF3U0steG9yVjBZUnBpRk9LTFpPaEFjZnEweHdBQdIBwgFBVV95cUxQSmI3aF83dW8teFhPam5vYlpXV1FGcllkZHA1NTdnZHAtYnZzajJLY01vVGYwckJZbkRWNFlHWDR0QkF6Q2xVZlFoNGFYeEVOcVVBZl9aT0dFNDVsUWJ0X0gzcTNVRnY3TjliYzJ2TVllSUhueS1JanNqcUxpWWdSQlNGRl9JNF80N09pMkJTZTVMa29FRmpOaDBwWml5aXI5Slg2TVF3U0steG9yVjBZUnBpRk9LTFpPaEFjZnEweHdBQQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says it struck US-linked targets as Bahrain reports attack",
+          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-bahrain-reports-attack",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
           "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
@@ -849,25 +981,25 @@
       ]
     },
     {
-      "term": "raid",
+      "term": "Hezbollah",
       "count": 3,
       "headlines": [
         {
-          "title": "Israeli forces detain Palestinian during raid near Balata refugee camp, teen injured - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uRjRCaFRGY2tTOHdKSjNvSmxqdldNcDkzdjhLbVVZSGtleHI1WHB6RWk0LWNxQjY5WDdGWV9HaHE0VFFiME9VVUw4OG5FS1JPTEFVOGxKdw?oc=5",
-          "source": "WAFA News",
+          "title": "أمين عام حزب الله: لا خيار أمام الاحتلال سوى الانسحاب الكامل من أرضنا",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTFFxNzM5bmN6YVFyYzJtSFpJa2V3eTZGa3JVN1p1bzJEU0hzaDBNMkM5eWl0SWlmYkRfTTZtVXFCa2J6YU1hM3Nac0tQamllOWRIbnhJeG03TWxvbjJPQmZDeUk1a1B0ejdkNHhmT09IOFdubkl0Y3VxRWl4TGxFOXM5WkhvbklhNWNzSUNZVkhfZTV5U0ZDSjRTb0Y2aWZtY1FRaUlvdzNsNXpWYzVPSlFfV3QzRTZKX0dFRlkxajNPU05YMXFwSm1fcmpwdkNwYmNJcm5ORW1MSHdqY0F4Vkp6czJwT2FqX0hoMzE0WURRRnBueU5DNU5BN21WWl9uRTZtUEd2UTR1d196UkxDei04SQ?oc=5",
+          "source": "Falastin al-Youm",
           "region": "Levant"
         },
         {
-          "title": "Palestinian man injured as Israeli forces raid wedding celebration near Jerusalem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fdU93ZzlveGxCU3pUNXd4R1U1QzB2Mkk4dUJvREd3aDVlelN4TzNDQlloSFlOaEl6SWZ6VHZMOUJHVVZQenY4VGxaZWxtV3VteFdsOG5hdw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "Israel to Withdraw From Lebanon Only After Hezbollah Disarmed, Deal Says",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdnBsT0FSajRJa3FGY0RyX2pVZEZ6NVVLN0JDWDdPUGFoTnFlU21PMEtLXzVNd1dkRTd1Y2tLZ2VhbXlxZEJvc0VyM0VrUjk1Nm5JWjVzenZFLVZWS1FuZ0M2Z25OeWtoMmtSS1hRaU5xd0ZuakF3cms1YXlIdGlkLUpvRkw5OW1WUkswM0xYRzhNSzh6LXlHOU94Sm1sTTNyNmt2SlhLdENsdEFsS0NyaEJpNUQ4VmFEZnB5YUxpV0h3UHNaYWFqYzlhbmZyVkdCT3FIWWxLSkJoczBKc2xadWlReXN6aUxPMWt2ejZ6bnJ6QkVxZTZWNVltUnl0dVR0d0d4MHVtaU82M3RoTXdXbG1FTXBzSVlmYjlycA?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
         },
         {
-          "title": "‘Operation Thunderbolt’: 50 years to the heroic raid on Entebbe",
-          "url": "https://www.timesofisrael.com/operation-thunderbolt-50-years-to-the-heroic-raid-on-entebbe/",
-          "source": "Times of Israel",
+          "title": "Hezbollah slams Israel-Lebanon agreement as 'gift to enemy,' warns of civil war",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdG1FN1g5akhJYmo2Z1JmVkdYSERhU1ZRYS1KbG5aLU8xaWxsb2R5VGozZXpYeWdJb3dTUHk0WV80X0dlS1RwOEViOG5ySzlWX0xEVDF1YkNRR1hXMzdCc1JrSTlURFhMY0FldHRjVy1ZWnJKVXlySkFoWDRBTjdwU2UyNVZZVXl4UFJjcE9mYVM4RjNveTVFT1B0YTNtcl96Zi12Ml8xRFhGa3FjYjdoa1pvd0w0OXlmSmFTZG5RTC14UGh0VThZTzBpTjNTSEZBaFpEN0FMZVJQWUt6dUE4eGRqN2Zsb0JBWUEtWlZTdUc1eXRsZk1rNmN2LWJCQVZ2VDB3UDNTdUM5eW52QkF2d3dNdXZPY3F0Nmc3ZV9QYTRrVmM?oc=5",
+          "source": "Haaretz",
           "region": "Israel"
         }
       ]
@@ -897,24 +1029,6 @@
       ]
     },
     {
-      "term": "Australian",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Thai police arrest Australian over killing of teenager found in suitcase",
-          "url": "https://www.aljazeera.com/news/2026/6/27/thai-police-arrest-australian-over-killing-of-teenager-found-in-suitcase?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "'December 14 was our October 7' • How the Bondi massacre destroyed the Australian safe haven for Jews",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaTFheXhOSUl3Q3dDYUFYZ1dzOWllNWxRd1cxVHhCdXhRcHVMTHpsNDNuNjBfcnZrZG9kX0sxcE9RamtsWG5pSUVPeFZIbTJaZjl3QmtGTXRuZEpMWTJaSy1odHB1a2Q3TnNNTFlHcnF5dUdqTFJvVGtLOWlYMktpMWQ3MVBBNkVDTTd5Y1VkYzZLNVdPOXIxYVctcmhMUEZlVjZwdFpMaWFqcERBU2VtVHE0djF3NTcxRFlULWlYTnp5ODVTU1prWFJCaU1UZ2NZam1GajBzMUdEek44X05XREs4Z0FLSDZ0NmJCS0RSY29hQksxUFEtTnBjSXdMWEJDMkZPSGZfRnJtUEE?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "Germany",
       "count": 2,
       "headlines": [
@@ -929,24 +1043,6 @@
           "url": "https://www.timesofisrael.com/germany-hit-by-record-temperatures-as-deadly-european-heatwave-moves-east/",
           "source": "Times of Israel",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Switzerland",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Germany braces for record-breaking temperatures as heatwave moves east",
-          "url": "https://www.aljazeera.com/news/2026/6/27/germany-braces-for-record-breaking-temperatures-as-heatwave-moves-east?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Switzerland, Canada advance as Brazil eye last 32",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGFPa3lEcXlrc25kOS1meW5odDhOcXk5ZGRnMVh5dmREUEphcEpRa3BSSktOWVpDOW1pWFRNUVJ4ZGJxU2JsLVNxaHVUUFFlczVjUXFVVnM1REUyMjNEVUVtNG91d3lzWHVqMXhidExwVHdrcVRXLTFaYmt2M0gwcmZ5eDNQSVVXcTJBMTU1bWtOYTBiYWpv?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
         }
       ]
     },
@@ -969,200 +1065,56 @@
       ]
     },
     {
-      "term": "Minab",
+      "term": "UAE",
       "count": 2,
       "headlines": [
         {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
+          "title": "Iranian official says cargo clearance from UAE port resumes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "missiles",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Lamerd",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Submitted",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Julia",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Kassem",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Ilya",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Khatami",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-          "url": "https://www.middleeasteye.net/news/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Child succumbs to injuries from Israeli attack on Gaza as death toll rises to 73,043",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-succumbs-injuries-israeli-attack-gaza-death-toll-rises-73043",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Poor response to call for mass protests in Gaza over living conditions",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU9HSGRnRFo2R19nQl81ZzVfY3dIVEV2SWRESXRiZzRLZFlqTDJDX1FWRURQbF9VbDlTNTFDUUlRYjhPa09manA3dXppakNzdTYyVjZiQXJPSjh5N19VVHJRbkltbl9jOG5fNy1kNUs5Qjl2UFpGNXBhcTNWU0xLVjRhMG02SjI4QTV5U1dab3FMT3hIR0NzaUR2SGVNRjVjdGYwSXl5aDZ5Q204Tmx6MXJPamhKQVBUVzhYT2JRbUdzZw?oc=5",
-          "source": "The National",
+          "title": "False emergency alerts in UAE traced to technical malfunction: NCEMA",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFkzRHRldmhINVZjSWZGdU53ZDBOQld6UFZ1Qmkyd1Y2ZTBpVS1sR2ItRzVfYmhPYVVTQjRsV0hZMWdYQ1o1NkJ6R1J4OERKbHhFTUpnaGlvSlhVZVptQ0stSFBSWnRsTmhNallJZjRfVVAxb29LUnlVYzgzZTBMT2plZEhYSWl0cFBSOGdoU2liZVRYSll5RnVtT3JfTXo4SXNIam9KWEVaV3IyX0tFT1d4aGxlQQ?oc=5",
+          "source": "Gulf News",
           "region": "Gulf"
         }
       ]
     },
     {
-      "term": "Russian",
+      "term": "Kurdish",
       "count": 2,
       "headlines": [
         {
-          "title": "Seoul says Chinese, Russian military aircraft enter its air defense zone",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNllXdy1iM2pRdFJxTHNqVERZQlBVMFI0ci03WHpRVXVPbWdYR0RBSEIwajBDNmlJUzFMUkhTVmNsakxxeWpkWXFreDg2ZHJxTnFNdTRBMjN6V1VUcWlLTUg3YVd5VWtLeURRaHktV1JQdndDY1VTOERvcnN4RWlQTmtzZXpNZXNrMnQtVTVDdEpYRG9KQUdhbjNJVWRHNlpqQTIweUdrSmFoX1pWb2YyV25NWEdDY2ZPbXVsMG5sQ3hHNDdCdHfSAcYBQVVfeXFMTTZZV3ctYjNqUXRScUxzalREWUJQVTBSNHItN1h6UVV1T21nWEdEQUhCMGowQzZpSVMxTFJIU1ZjbGpMcXlqZFlxa3g4NmRycU5xTXU0QTIzeldVVHFpS01IN2FXeVVrS3lEUWh5LVdSUHZ3Q2NVUzhEb3JzeEVpUE5rc2V6TWVzazJ0LVU1Q3RKWERvSkFHYW4zSVVkRzZaakEyMHlHa0phaF9aVm9mMlduTVhHQ2NmT211bDBubEN4RzQ3QnR3?oc=5",
+          "title": "Drone targets Iranian Kurdish opposition camp north of Iraq’s Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2x0RUpvNE94VzkyNE5yMHRDdmNoTy11MHZTcnlEVVdxVFQ1NXItTHFLeF9kZi1QSksxMmpjTkZRb25iWHBwS1lpTTVMejhpV3ltUVA5X2Y5SnAzeHhXbXZpRm11U3ZfSWx0SnZ2N1AwcmFGRDU3Tk5pejVNaUNtaVZvQ291aWN4bHBlOUp1YnlVTEZSSnZza3JTUnloeDVmM09PTFB2amR2X0loSXU0QjJIX1BZZlgxeDFUdkx3dVBLMEsxdXh3b0Z2YlhueGJLam1aSFM1ZG1xSlc2UlZfQmJpQlPSAeQBQVVfeXFMT2NsdEVKbzRPeFc5MjROcjB0Q3ZjaE8tdTB2U3J5RFVXcVRUNTVyLUxxS3hfZGYtUEpLMTJqY05GUW9uYlhwcEtZaU01THo4aVd5bVFQOV9mOUpwM3h4V212aUZtdVN2X0lsdEp2djdQMHJhRkQ1N05OaXo1TWlDbWlWb0NvdWljeGxwZTlKdWJ5VUxGUkp2c2tyU1J5aHg1ZjNPT0xQdmpkdl9JaEl1NEIySF9QWWZYMXgxVHZMd3VQSzBLMXV4d29GdmJYbnhiS2ptWkhTNWRtcUpXNlJWX0JiaUJT?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Russian drone strikes kill two in Ukraine’s Dnipropetrovsk region, one in Sumy region",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjRyYzloTWlwQ0NiSWxGbWYxemdKbVAzeUpOcVJ6VEhhbWNYSEdUZkFVbG1Ba2RVSmpkV2RxdFV3bVctcW9rX0lsTUl1RWpqRUszX0IzT3NkZk91ZUx0MnRqdHgtRnJwSUhwWE8yR05wTXhFaWJ1TVBwaFBIdEdHaUFYMWNpWl9COFhqTkRkM3pndGRIbHpVanFNZTVqc0gwZFAzc3NtRV84SGV3cUk5NXkwZVFCRG5NbFpEOS1GeHk4TFgxWTh4QmdycEZCcXhoRjMtOWtHMNIB1wFBVV95cUxOUjRyYzloTWlwQ0NiSWxGbWYxemdKbVAzeUpOcVJ6VEhhbWNYSEdUZkFVbG1Ba2RVSmpkV2RxdFV3bVctcW9rX0lsTUl1RWpqRUszX0IzT3NkZk91ZUx0MnRqdHgtRnJwSUhwWE8yR05wTXhFaWJ1TVBwaFBIdEdHaUFYMWNpWl9COFhqTkRkM3pndGRIbHpVanFNZTVqc0gwZFAzc3NtRV84SGV3cUk5NXkwZVFCRG5NbFpEOS1GeHk4TFgxWTh4QmdycEZCcXhoRjMtOWtHMA?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
+          "title": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TVJZWGtTdnBaUnFiTFFyNW5ZRUxoRzZ2UWduTUs5YW94SnJVejIycHhsb3RvWDBvQVJ5Tzk4a2Y5NG0zN00zRVdORG9uLVlHTVdv?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
     {
-      "term": "US-linked",
+      "term": "Erbil",
       "count": 2,
       "headlines": [
         {
-          "title": "Iran says it struck US-linked targets after US attacks",
-          "url": "https://www.newarab.com/news/iran-says-it-struck-us-linked-targets-after-us-attacks",
-          "source": "The New Arab",
+          "title": "Drone targets Iranian Kurdish opposition camp north of Iraq’s Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2x0RUpvNE94VzkyNE5yMHRDdmNoTy11MHZTcnlEVVdxVFQ1NXItTHFLeF9kZi1QSksxMmpjTkZRb25iWHBwS1lpTTVMejhpV3ltUVA5X2Y5SnAzeHhXbXZpRm11U3ZfSWx0SnZ2N1AwcmFGRDU3Tk5pejVNaUNtaVZvQ291aWN4bHBlOUp1YnlVTEZSSnZza3JTUnloeDVmM09PTFB2amR2X0loSXU0QjJIX1BZZlgxeDFUdkx3dVBLMEsxdXh3b0Z2YlhueGJLam1aSFM1ZG1xSlc2UlZfQmJpQlPSAeQBQVVfeXFMT2NsdEVKbzRPeFc5MjROcjB0Q3ZjaE8tdTB2U3J5RFVXcVRUNTVyLUxxS3hfZGYtUEpLMTJqY05GUW9uYlhwcEtZaU01THo4aVd5bVFQOV9mOUpwM3h4V212aUZtdVN2X0lsdEp2djdQMHJhRkQ1N05OaXo1TWlDbWlWb0NvdWljeGxwZTlKdWJ5VUxGUkp2c2tyU1J5aHg1ZjNPT0xQdmpkdl9JaEl1NEIySF9QWWZYMXgxVHZMd3VQSzBLMXV4d29GdmJYbnhiS2ptWkhTNWRtcUpXNlJWX0JiaUJT?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900639",
-          "source": "Jerusalem Post",
-          "region": "Israel"
+          "title": "Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TVJZWGtTdnBaUnFiTFFyNW5ZRUxoRzZ2UWduTUs5YW94SnJVejIycHhsb3RvWDBvQVJ5Tzk4a2Y5NG0zN00zRVdORG9uLVlHTVdv?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -1217,24 +1169,6 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWE5cGxwa2ZoLTA0bmdyQW8zRXEzYWkwWlBzOXZmWGlhX01XakdCRE9zTEFMZVdxVzFyRzNwYlBFcG5YM3hmXzFEMjhieTJyM2x3QWpJT3lrT1dxYk1BUmNpMWN4THZ4bDZIYzlzS0VGWUVoRnBTenBjNzI0SnNnV3A1cjJhNTBkMnRQblg3cE5BdEZLUVYyek9VM2N0eGFZSGthZ0ZmY1d1SHhVVHZMOWlIdVVZaDNyUHlmMEZ4RlNxX09K?oc=5",
           "source": "The National",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Lebanese",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "أعضاء في اتحاد الكتّاب اللبنانيين: زيارة رئيس الاتحاد إلى القصر الجمهوري تمت بقرار منفرد - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOVk1ZSlFqV1E1VDJwMk1ZdTBkT2xzeEVrWkZYX296WUJNT3lGOHpPR2FsSTV2cjZOdU83VW5GWEliRFBCd3BXcWJaM2dVeHBFdFJPV1hsamk5R0hMaVFHeEJLTmVudjkwZUJlSEZUUDQ4OGdVYXJCYVN3ZFlmWkE1bGRXZEd0cVc5MUpsM2ZkTjE1VTVOa3NpWTdyNjVRYlE3Q3hfNzlvYk5PbDJTWlE5VzgwdktoSVM4S2xQUkxBQXpkS3RDZF94MUNUN2ptWHNUbFJUVWo3NElueEtvcFZZeHd6UFo2YW1nMlNkTWEzOTRCNW5sMDZrdTNVUVp0eXNvbURaZUkzSGJUdVNNU2RYS2tsSXV0Z0ZNaTNEUERDQjlsQVF1cUxXcEJ5TUUzblRNeTd3SEZjRHZlQUJBcGFpM0wtcUtmZFhKZHpSamUzVG03ZE9fUkluSERBbW9kWExtQzlpQ2xtM1g5X1dBUHpNbUpwSkg5dzRzZVJtRzNXQzlucE9ZQWUwUTV6TWI4cEU4RzV3T1FZcnRxNFBqVTRwZFk0X2RWRGpLZlI5T0YybW5sa0NNVy1MQzF4SGN4eG9IbkpsdzNleWhNTG5PMmhhUDlPdHdUaEY2Vmlob19idFU4MG5CQTJ5TXBtc3lnNm9idFNRaGxNZw?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
         }
       ]
     },
@@ -1307,6 +1241,132 @@
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VdGtYaXhWWllpS3BTeV9pa09RVGVlLXVuaDR1ZHUzTnI0T2RybmxNVUZvdEFnODRGVk1FY200U2R0c3U3amtUYUZhYXJha1FLQ2dBdDRYMA?oc=5",
           "source": "WAFA News",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "occupation",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "أمين عام حزب الله: لا خيار أمام الاحتلال سوى الانسحاب الكامل من أرضنا",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTFFxNzM5bmN6YVFyYzJtSFpJa2V3eTZGa3JVN1p1bzJEU0hzaDBNMkM5eWl0SWlmYkRfTTZtVXFCa2J6YU1hM3Nac0tQamllOWRIbnhJeG03TWxvbjJPQmZDeUk1a1B0ejdkNHhmT09IOFdubkl0Y3VxRWl4TGxFOXM5WkhvbklhNWNzSUNZVkhfZTV5U0ZDSjRTb0Y2aWZtY1FRaUlvdzNsNXpWYzVPSlFfV3QzRTZKX0dFRlkxajNPU05YMXFwSm1fcmpwdkNwYmNJcm5ORW1MSHdqY0F4Vkp6czJwT2FqX0hoMzE0WURRRnBueU5DNU5BN21WWl9uRTZtUEd2UTR1d196UkxDei04SQ?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "الاحتلال يعتقل مواطناً من يطا ويداهم منازل ويعبث بمحتوياتها في محافظة الخليل",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPU25wTmlxajgtdWI4cWZBWHliSUphem1kUU1jYldpSWpwZTMxMHdueDRjbTBWekhaRUFNZnJDRFF5N1hGU3NwWWNObnhFU2dZZ29SOXNGa1BVVkdoYVJvbUZnTGZEMUhaeEd0c1JrclV6a3JYQ2hVdy1FblpJS3RYeGV2aVVzT0ltLXhXQ044ODNvMHJuSUZMdHZ2OFFsXzV2aW50a1ZHem1GcVRtanRxZHlzTVBvYTFQQmFxVUdUeVF1TFViUzdTcWg0dEF2QnI2NExDUVpvX0NGcXVtYXd5V2VpXzV0aHRmdzZLVWpKODg1M0FFQjRTMUh0cjFrTGlYRmVseGtubGpNVDVESlR6X2ppZXVHcWZfZHc?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "protests",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Poor response to call for mass protests in Gaza over living conditions",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU9HSGRnRFo2R19nQl81ZzVfY3dIVEV2SWRESXRiZzRLZFlqTDJDX1FWRURQbF9VbDlTNTFDUUlRYjhPa09manA3dXppakNzdTYyVjZiQXJPSjh5N19VVHJRbkltbl9jOG5fNy1kNUs5Qjl2UFpGNXBhcTNWU0xLVjRhMG02SjI4QTV5U1dab3FMT3hIR0NzaUR2SGVNRjVjdGYwSXl5aDZ5Q204Tmx6MXJPamhKQVBUVzhYT2JRbUdzZw?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Mass protests hit across Lebanon over deal with Israel",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzF0aFN0RjhKWEFWV01IdTkxVExmRHVYRl9uekFIcUEwb1hEZUhPaTJiOGpvZnRZOXcycEJ4UUoxX2dnOTVxTmd1WVZXVVg4NDl0WV84THQzQnVwNDRRMnBTN1RkUDVibklXUHBoSWkzRVNYVnRkazlEWmxQaEZFbjVpb19PVTAtN2sza0VNV2N0ZllP?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Qatar",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Qatar study highlights AI’s great potential for diagnostic precision in women’s health",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSzdTNEhMWm1OanR6Q0diNW5NSXpabTVHQ1hVNDlHc25wZUt5S0h4M3h3c1dyYWtwYzE4Yk8xMTZxZ20xZGpqcVZ0Uzc2REpKWXI0NUd5QmRpUjc0Y25SX0tiMjE3YkhMUHBBOFBUaGlWb09SaGE0a09jNlBjZEt4b005aEJyUnVKbEFHcmFLVEVIWUpKTjgwY2dJUkNMQzBFT1JmOVNTZHdvUWR5VjVoS0padDNwaHh3a3lmVS1vRXZlQ0xpeUlINDZsWDfSAdIBQVVfeXFMTkVOUnJHMGNhOW45UzNob1JxcUpJbV9UaTNLVlJOaGdkWHBtU0pGTUp4d0laeGlfT25Ic293ZHRicTdOQkt4RWNfa2ZyaE5WQ0lHWlNkcG5UYlBxQWxNNFhZMW80ZFo3RlR4SUFmUklQZE9GZmRDMGhlOUxpd0d0ZXNpNlJYX0owdzh6OGhsd1BXejg1cHhKYmx6ZjJ2d2lKMEFhWGFnbG9VeEZLcFgtY2JUd2lvOEJoY24weUx1YnN2Z29RcE1fVjNLWmRBdlRuMWRB?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Upon HH the Amir's directives.. Qatar operates assistance air bridge to Venezuela following earthquakes",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWEkzZnZLbnNRQlBxM1lnd1F1TllzTElBT0FQQUNlcWdvME5SZFZNTUM1Umx2S1EtODU5ODZDaEFVVDZhc0JsbWJ0SDgxX0QyTnI0TXc5VzZTNUNPNXZNQXZVRlBQSFB0TW1mZFRDNktRcjFnWjRwS0VNQnY4YjNVc1p1a2FBbFBZMkpPSWRzY0ZGUFdjNTlqTlFKTkhKc0VBWDJGcXlwYjN1MHFaTnVZa1otMmhWTDh5dG1tbkZ0amtLdlJWU3A2VFNnWEJlajR0QVFPaTdzS293OEJBc3VPcjlB0gHnAUFVX3lxTE81Ykx5WWQxb3BPQjJ1X05sVUlGWlVUbVJYaE5rS3BmVklGYVBQVGgyRjBJLTFZcVp2bFZ2SHVsbGJiSjZDdXpVa3A2Qk90VVVjUWJ4ZXQwdDRoQkdMRVV4T2Y2Q0t0a0VCSm5SdDgwOTdld0h2RUo1ZjVFS1U4YnAwRVRCczB5UnprUndLSlA0OXlJZ0M4ZnFfVno0OVJMdEhXVXU1M29aTEs5LVN6NkJEVVIwb1U4S210TmVRTHFEMXM4NDN0ZVJka0M2VFdjWVhEbXBDWWlMRm9zZEg5emNJekJXZEQ4MA?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "aid",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Upon HH the Amir's directives.. Qatar operates assistance air bridge to Venezuela following earthquakes",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWEkzZnZLbnNRQlBxM1lnd1F1TllzTElBT0FQQUNlcWdvME5SZFZNTUM1Umx2S1EtODU5ODZDaEFVVDZhc0JsbWJ0SDgxX0QyTnI0TXc5VzZTNUNPNXZNQXZVRlBQSFB0TW1mZFRDNktRcjFnWjRwS0VNQnY4YjNVc1p1a2FBbFBZMkpPSWRzY0ZGUFdjNTlqTlFKTkhKc0VBWDJGcXlwYjN1MHFaTnVZa1otMmhWTDh5dG1tbkZ0amtLdlJWU3A2VFNnWEJlajR0QVFPaTdzS293OEJBc3VPcjlB0gHnAUFVX3lxTE81Ykx5WWQxb3BPQjJ1X05sVUlGWlVUbVJYaE5rS3BmVklGYVBQVGgyRjBJLTFZcVp2bFZ2SHVsbGJiSjZDdXpVa3A2Qk90VVVjUWJ4ZXQwdDRoQkdMRVV4T2Y2Q0t0a0VCSm5SdDgwOTdld0h2RUo1ZjVFS1U4YnAwRVRCczB5UnprUndLSlA0OXlJZ0M4ZnFfVno0OVJMdEhXVXU1M29aTEs5LVN6NkJEVVIwb1U4S210TmVRTHFEMXM4NDN0ZVJka0M2VFdjWVhEbXBDWWlMRm9zZEg5emNJekJXZEQ4MA?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900639",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Jewish",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "GOP NY governor candidate says fellow Jewish politician Lander would have helped Nazis",
+          "url": "https://www.timesofisrael.com/gop-ny-governor-candidate-says-fellow-jewish-politician-lander-would-have-helped-nazis/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Texas creates required reading list that includes Anne Frank and the Bible",
+          "url": "https://www.timesofisrael.com/texas-creates-required-reading-list-that-includes-anne-frank-and-the-bible/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "IDF",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "‘Operation Thunderbolt’: 50 years to the heroic raid on Entebbe",
+          "url": "https://www.timesofisrael.com/operation-thunderbolt-50-years-to-the-heroic-raid-on-entebbe/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "With IDF Drones Circling Overhead, Lebanon's Shi'ites Celebrate the Ashura Holiday",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbGVEWkxvT280YWdKbG12Tm8wbHNyTXI5QzZhSjl4SjljQ0V1YnFkdndhbDAyZU5RR1I2U0JYb0dCd0o5djZUM0FZZjFKYXRJLWtfbkhLT2dRa0RERmhJT0FEVFo4NFQ5QU9Uak9DUkREVHNPRExPMlhOUXNYQ25WYURwRDJRNUVZcTdKRmpHN29JV3NlMUNpMVg0c1RxODRRTk4wS0w0Qm9zR1VRb015d211dDBvVXN6dk0xcUhGWTNhdk10TTl4dkJPQmpMQ2dSdTdyVHJFWklYUGw5M0hTdUM3OVhUSHNVbl91V2FJOHdlZGlELXRnMk53YzZfZktkODhzXy10SUR5c2JoQ0ZlN0Z3dHdGOHRBLThwb3VteWlQQQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Islamic",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Ali Larijani’s martyrdom major loss for Iran: Judiciary chief",
+          "url": "https://en.irna.ir/news/86193897/Ali-Larijani-s-martyrdom-major-loss-for-Iran-Judiciary-chief",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Ta’zieh performance on Ashura Day in Nushabad",
+          "url": "https://en.irna.ir/photo/86193900/Ta-zieh-performance-on-Ashura-Day-in-Nushabad",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     }
