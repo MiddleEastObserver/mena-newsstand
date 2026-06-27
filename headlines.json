@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T20:04:02.619739+00:00",
+  "updated": "2026-06-27T20:32:54.418974+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Another powerful 4.8 magnitude earthquake hits near Venezuela",
+            "url": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
+            "published": "2026-06-27T19:38:14+00:00",
+            "snippet": "Latest quake comes as rescuers still searching for survivors from twin 7.2 and 7.5 quakes on Wednesday."
+          },
           {
             "title": "Why is Crimea critical to the Russia–Ukraine war?",
             "url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
             "published": "2026-06-27T18:50:59+00:00",
             "snippet": "Two individuals were killed and dozens more were injured when an Israeli strike hit displacement tents in Gaza. The description states that the attack occurred in Gaza and resulted in casualties."
-          },
-          {
-            "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
-            "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
-            "published": "2026-06-27T18:46:23+00:00",
-            "snippet": "Kenyan human rights groups reported that protesters were found dumped and tortured after their arrests. NGOs stated that six people were found and one remains missing following arrests at memorial gatherings for protesters killed in 2024."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Racist far-right Israeli lawmaker’s visit sparks school strike in Palestinian city",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/racist-far-right-israeli-lawmakers-visit-sparks-school-strike",
+            "published": "2026-06-27T20:14:27+00:00",
+            "snippet": "Racist far-right Israeli lawmaker’s visit sparks school strike in Palestinian city Parents and community leaders in Umm al-Fahm, a major Palestinian city inside Israel, have announced a general strike across all schools over a planned visit by far-right Israeli lawmaker Zvi Succot."
+          },
           {
             "title": "Netanyahu says he wants broad coalition after Israel election",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-wants-broad-coalition-after-israel-election",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-urges-calm-protests-grow-over-israel-deal",
             "published": "2026-06-27T18:13:51+00:00",
             "snippet": "Lebanon's army urged citizens to exercise calm and responsibility amidst growing protests over the Israel deal. The military stated it respects freedom of expression while warning against actions that could breach security or civil peace."
-          },
-          {
-            "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-army-chief-holds-uk-talks-ceasefire-and-border-security",
-            "published": "2026-06-27T17:25:07+00:00",
-            "snippet": "In Iran's Lamerd, previously untested missiles struck a school, sports grounds, and nearby neighborhoods. This attack occurred six hours after strikes on a school in Minab, which resulted in numerous casualties, including children."
           }
         ],
         "error": null
@@ -87,16 +87,34 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
-            "title": "Al Arabiya Correspondent Killed in Blast in Yemen",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVTZlNnVabTJrWERacDUxYXpqNS1pSkw2ZXVpQ0JIdVNVOFladXVxOFVRbExQZGJhMEc1ZjFhYXk4YWptbzUyWXU4Vkw3QmlZY3JDY2NqZ0h3R0FBbVE1Wjg5bjNKbU5PMHIwY1R1TDRQSlJ6SkI0MDcxam83SURDQzF4SGdiRmZQYjFPdlNvWVFuUVpOT2dvT1dDVzloSXNqTkxlS9IBqgFBVV95cUxPckNNdW5UMUJDZmtIOFo5LXk5YWM4VHFkcVpQeDZQaFlMZ0duamhTZHQ3d2VRcGJocmVLZ0szclM0QTQ5dGZKdVNqclJUcHUwU2s4eXF3NlFMZVUtSTRMbjNhY2I0bjVvSjZmTTBQeGpRV1ZHeHdaZ1U1TXZGQm9HSGlXNThJZXFyLTVQS0lTQXlvTGVaQmk1RktEZnpEWVhMN3Eta2RpczV1UQ?oc=5",
-            "published": "2026-06-24T20:47:19+00:00",
-            "snippet": "Al Arabiya Correspondent Killed in Blast in Yemen Al Arabiya English"
+            "title": "Israel will use ‘force’ against Iran if it prevents Lebanon deal implementation: Katz",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUWtHcXBIRHlKbDFMR3JFZFJsaDE4QzJCR0R3b2tEOVBmcDFoTGZUVlhMazlXWGFLRGhndmNvVWZITENzV0pTT3dtZm5NMkUzS2p6eV93VWlXSDV4MlRTSFlyV2Z6QUU5cDNJZ3F3RXJmcmhnUDl1ZUlIZEtEMFdIeG5jdS1IclRHRFBZYW5kLWF2WFdrdDRSdHJrRXpIdHNLQS1zUXltamdLV3l6OE05VEIwUGNVd1dmYTJrUTVmYjhCR2ZtZjAtYW05ZnNBOHBFTTBhTFVHdTF5ekhs0gHcAUFVX3lxTE1Ra0dxcEhEeUpsMUxHckVkUmxoMThDMkJHRHdva0Q5UGZwMWhMZlRWWExrOVdYYUtEaGd2Y29VZkhMQ3NXSlNPd21mbk0yRTNLanp5X3dVaVdINXgyVFNIWXJXZnpBRTlwM0lncXdFcmZyaGdQOXVlSUhkS0QwV0h4bmN1LUhyVEdEUFlhbmQtYXZYV2t0NFJ0cmtFekh0c0tBLXNReW1qZ0tXeXo4TTlUQjBQY1V3V2ZhMmtRNWZiOEJHZm1mMC1hbTlmc0E4cEVNMGFMVUd1MXl6SGw?oc=5",
+            "published": "2026-06-27T16:29:00+00:00",
+            "snippet": "Israel will use ‘force’ against Iran if it prevents Lebanon deal implementation: Katz Al Arabiya English"
           },
           {
-            "title": "Property and International Real Estate News",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YeXoxdWJhRXNBMmN4NzVFY3RPMmtXcGVERXJJOE1ZUlExX0cwNl9uUlNlenBwRHFyZHQxRlVTdUlPemxYMHc3WEpnV0gtQ0pacXVMTEtxN2RiV0E?oc=5",
-            "published": "2026-06-24T14:33:51+00:00",
-            "snippet": "Property and International Real Estate News Al Arabiya English"
+            "title": "US will not ignore Iranian attacks on commercial shipping, CENTCOM tells Al Arabiya",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1VaakRMTEp3RlJ5LWFyakl0UHc4c2pLbWNOSm1YendWZ01iVkoxTnJrOXc0aTBtTWxTWWR6bnlCdWtJTzcxUWtsTTBCTmgzQmJwMEllMHRmbTRrbndzdVJXOVY3R1poSTd6NDEzX1lUZ0h6eFh1cm9qSTJXbnE5Nk1LUURtQi1IRnRnbjFNSlNmMkNPOGR5d1ljYm9OWWhyanc4Wi12cFhjZUQ1UXg0U3FHT3BPSWQ4ZDVlZXB0N0F4c1R4aUtHT0JhMk9OTnMySWpCOUVkOGQ0Q05i0gHcAUFVX3lxTE1LVVpqRExMSndGUnktYXJqSXRQdzhzakttY05KbVh6d1ZnTWJWSjFOcms5dzRpMG1NbFNZZHpueUJ1a0lPNzFRa2xNMEJOaDNCYnAwSWUwdGZtNGtud3N1Ulc5VjdHWmhJN3o0MTNfWVRnSHp4WHVyb2pJMlducTk2TUtRRG1CLUhGdGduMU1KU2YyQ084ZHl3WWNib05ZaHJqdzhaLXZwWGNlRDVReDRTcUdPcE9JZDhkNWVlcHQ3QXhzVHhpS0dPQmEyT05OczJJakI5RWQ4ZDRDTmI?oc=5",
+            "published": "2026-06-27T13:20:00+00:00",
+            "snippet": "US will not ignore Iranian attacks on commercial shipping, CENTCOM tells Al Arabiya Al Arabiya English"
+          },
+          {
+            "title": "Israeli drone strike hits southern Lebanon day after security deal",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFS2ZWN2prS0NhS1h0Wk00QkxBRVJFTXhNUzZuVlRQOE45M29TX19YNnV5YmpvSVFNUzBtOWwwNjkzakdsY2c1NjZjWVowYkZNX09RZTQ0OEtYNjFwODd6cU1RQ1hkRHVkQ3JMRnpOUzhjM1NVTWhpUFk4VGlJbWc0MXJVbjlFMXZ6NnJpT0o4dF83eGpldGxkbGUzWlJ4UkpKVGd2dFJoX3FUb0lBQTQ5STZfS2ZDZ1lib3FsR3NZcFc3cmlF0gHHAUFVX3lxTE80SEVLZlY3amtLQ2FLWHRaTTRCTEFFUkVNeE1TNm5WVFA4Tjkzb1NfX1g2dXliam9JUU1TMG05bDA2OTNqR2xjZzU2NmNZWjBiRk1fT1FlNDQ4S1g2MXA4N3pxTVFDWGREdWRDckxGek5TOGMzU1VNaGlQWThUaUltZzQxclVuOUUxdno2cmlPSjh0Xzd4amV0bGRsZTNaUnhSSkpUZ3Z0UmhfcVRvSUFBNDlJNl9LZkNnWWJvcWxHc1lwVzdyaUU?oc=5",
+            "published": "2026-06-27T10:44:00+00:00",
+            "snippet": "An Israeli drone strike hit southern Lebanon the day after a security deal was announced. Arab News reported on the incident."
+          },
+          {
+            "title": "Rare light aircraft crash in Beijing kills pilot, injures 13 people",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzRKN0dIanE5TndUN0IyOG1QME56REF4eEdONmtoTUNzOEVRTGRYRVJCd0RiRGFZR1l6aEFqMDE5UWpKbWZENVM2bFNDN0Exc25RNUtSdllsWXdCc2dkTWNEelRIdFJISy1sTDVVSk9iX0UtRFlyU2taNVlVTlVCMjhxZUxVbnE0d0U5RjF5M19VZ3J2dzk5ZV96TmZsZGhaY0xYRXMwNjktTEpCT3I3QlJicno4cE1LX0VhZGdhVdIBvwFBVV95cUxORzRKN0dIanE5TndUN0IyOG1QME56REF4eEdONmtoTUNzOEVRTGRYRVJCd0RiRGFZR1l6aEFqMDE5UWpKbWZENVM2bFNDN0Exc25RNUtSdllsWXdCc2dkTWNEelRIdFJISy1sTDVVSk9iX0UtRFlyU2taNVlVTlVCMjhxZUxVbnE0d0U5RjF5M19VZ3J2dzk5ZV96TmZsZGhaY0xYRXMwNjktTEpCT3I3QlJicno4cE1LX0VhZGdhVQ?oc=5",
+            "published": "2026-06-27T10:13:00+00:00",
+            "snippet": "Rare light aircraft crash in Beijing kills pilot, injures 13 people Al Arabiya English"
+          },
+          {
+            "title": "Tanker reports strike by unidentified projectile in Strait of Hormuz, UKMTO says",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3N3cFU2TnZ6dmpMYm9SYmdtenNJcmMzSkh4ZVQ2NVpxYW5wYVdmSk1kX0RvMEpqY3pEYl9INlppZW9YaGppQ2NrZTJ6UFlFU0d0UEJWZ2hJeEh6cGQ3YUNUbkQzYVJSWFNMV0ZhQy1WR2tEZmdzd1FQZVZZRFNWaVl5NXhuUlJQZjI4dTNfTkZDbmFNVVliVVROcGlJbkdCUWNlWTlDcWk1Zi1HNWstS2lRQ2t2RENZQ0xMMEU1dmdlUldQSW1mWTBjT2FsYUEtRE5nOWhSMy3SAdgBQVVfeXFMTm9zd3BVNk52enZqTGJvUmJnbXpzSXJjM0pIeGVUNjVacWFucGFXZkpNZF9EbzBKamN6RGJfSDZaaWVvWGhqaUNja2UyelBZRVNHdFBCVmdoSXhIenBkN2FDVG5EM2FSUlhTTFdGYUMtVkdrRGZnc3dRUGVWWURTVmlZeTV4blJSUGYyOHUzX05GQ25hTVVZYlVUTnBpSW5HQlFjZVk5Q3FpNWYtRzVrLUtpUUNrdkRDWUNMTDBFNXZnZVJXUEltZlkwY09hbGFBLUROZzloUjMt?oc=5",
+            "published": "2026-06-27T09:54:00+00:00",
+            "snippet": "Tanker reports strike by unidentified projectile in Strait of Hormuz, UKMTO says Al Arabiya English"
           }
         ],
         "error": null
@@ -188,6 +206,12 @@
         "url": "https://www.jordantimes.com",
         "headlines": [
           {
+            "title": "Iran says US violated peace deal as both sides trade fire",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNalk5NDhtS2RkYmhwWGZwVE14elRfX3ZibG91b1psdkR1VGM2TUNXUmZVd2Y0R2NNQlk0MC02OWRDbVJXZnAzdEtZNEVIY2Fka2xtV0xZQ3Y2ZGVfbmJGM0hkRXA5SmxnbHBrNDZXUEFxRmM1cmtoaU0zVmhjeHNMZktIWXNFa1UwQksxUXN5MWFDV3dKQWxnUg?oc=5",
+            "published": "2026-06-27T18:05:35+00:00",
+            "snippet": "Iran says US violated peace deal as both sides trade fire Jordan Times"
+          },
+          {
             "title": "Crown Prince marks 32nd birthday",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FU3FkVTJaNVl2NlA3TG1nVXpYSG01YUk2TjJJYTgwbF9VREpySGZmQ0xFQXl4VVcycmYxZ1lDQUFzdUNMdUtpR3NXSzRVN0wzNk1MWW9hOWtKSnFxaXQzSGVhYkRuR2pNck8yWG1Sa1NSbUhJeHc?oc=5",
             "published": "2026-06-27T14:56:02+00:00",
@@ -210,12 +234,6 @@
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFMwOHZsS3NMYUhBZjFSVldlSW04bGRPcnpsTXE2WFhRcy1Qb2xvTzAyMmNDei01YzB3RHpqVVNic3ZEZS1BWXFFUzBkWnBURVJFSHpZTVl4OFFvRmNMYzh5NHZRSXdsUml0MzdDRVhrUTZfTHFrT0ptdjBaS1FGNDAwMUl5M2RlTkFwVTNHVW1iZnBFY3JyN1BleEVXM2VRaHNv?oc=5",
             "published": "2026-06-27T10:06:12+00:00",
             "snippet": "Strikes exchanged between the US and Iran are escalating tensions and putting new strain on the ceasefire in the Middle East. This development was reported by the Jordan Times."
-          },
-          {
-            "title": "Jordan sends rescue teams, medical staff to Venezuela following devastating earthquakes",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbERsVUpPWUFuUnJqcUNsMUVvdjBWLTVmOTdXOGlxM0h4cUotLVBzZmNSR21EcU5HQ0NpSnNFRzc4RXhJbDZJR2pQUUE3T05KN1YzZ2VaNm1yYUxHWjVRMkp5dHJubHVMRExsMUlOY2wycjJLc19fYlVMbXFITll2S0dKY0h4M3c1Tnl5SWh3YWltZ0ppenRjb184ajBkaVl6RldWYmdyOFFzYVlkNEZOaG1oMkNtRkZVRDBrT1VMN05OQVdNVk5wWjVxbkM?oc=5",
-            "published": "2026-06-26T14:57:29+00:00",
-            "snippet": "Jordan sends rescue teams, medical staff to Venezuela following devastating earthquakes Jordan Times"
           }
         ],
         "error": null
@@ -239,6 +257,12 @@
             "snippet": "Iran has denounced the US strikes as a 'flagrant violation' of an agreement. This stance was reported by L'Orient Today."
           },
           {
+            "title": "Israel strikes South for first time since Saturday, abducts 8 farmers in Ain Arab",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamx0ODdPM2JoMGJxbFdIRW1UbnZLN21FWVdpSG5KY1QtU3RIZllqWS0xcVVWcWRvcWFuYnpiODNoOGN1bkl2NmEzTG5EemtxS0xUZk9sYWRTUXVUbTdLci1SdUNMbHdMNjJzYVFjNmhiUjFNMHB6RGNhNEJOM0pROEVMUlRNWWJLSFZZeWpRSUJrOUxld3pPU0JyZXpFMWhXRGpCWUIwMFpDRWpOM2l0TkJQWmcyR3ZJLUhscHhCa3dvQQ?oc=5",
+            "published": "2026-06-26T10:18:41+00:00",
+            "snippet": "Israel strikes South for first time since Saturday, abducts 8 farmers in Ain Arab L'Orient Today"
+          },
+          {
             "title": "UN says Iran nuclear pledge needs 'very strong' verification",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpSV3NjaVBNSEtrWksxdEczVThTbk5lRlRLbHM5SkdQOGZ6OW11UjhaQ3BtQXRyYUVuUVRqb2tkSG9CQlc1U05jR2xYODdVWnlNMHJnRHcwX2pnOHFuWnlRZG5UelpRLWN1d0lnYUN2YUhkZFhKMXRwVGRmaktvR3I0ZGlEdjF5bXBDZmlma2xNbWZQc1g4OUtWbTJrN1JKUUpXZEVCNzRGNFEtR1o5QQ?oc=5",
             "published": "2026-06-26T09:57:31+00:00",
@@ -249,12 +273,6 @@
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
             "published": "2026-06-25T12:50:05+00:00",
             "snippet": "The idea of a Syrian solution for Lebanon is presented as a delusion. This analysis was published by L'Orient Today."
-          },
-          {
-            "title": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone'",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDVSeFRQQ2ZHRV9SR1pQcWpINFFkcnJ0emZDSlVNYUNaWUNwbllHT1BYNE5sRjYwUDA4YlJtTHptbGpSS1BqMFFDUlJPQVBKUkhndzhITFppLVZQZC1kbHJYRmpFWTM3ZGRSSGZjbDlxbDVCVG1vbzRXUXBmM254QWF5NmJaTHpxcHcyeElTbTlnN1JabUlBUWw4RmtlZlVUQ3VLc1dPbm9LZk9reDRQaFFvMk5pcjhHTWZqb25NZWRMWjBMcmRR?oc=5",
-            "published": "2026-06-25T10:11:16+00:00",
-            "snippet": "Israeli and Lebanese officials deny any partial Israeli withdrawal from 'buffer zone' L'Orient Today"
           }
         ],
         "error": null
@@ -311,6 +329,12 @@
             "snippet": "The political authority has signed a paper of surrender and sold the South, according to Al Akhbar."
           },
           {
+            "title": "بري: إنّها الفتنة! - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91dDBlRnZaVnozUURRbVZrVGlGaTF5aFFyZEdMZDBubjlMSk14cmJJWHU4VVNrUWFpc0IzUmhtVGxWVDR3ZWxfVUtyMk9NVDlTcW9WTFJlc1c?oc=5",
+            "published": "2026-06-27T11:03:00+00:00",
+            "snippet": ""
+          },
+          {
             "title": "القوة أولاً والقانون لاحقاً: ماذا تكشف المفاوضات الأميركية - الإيرانية؟ - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOREZ1TlF2ZlgxYi1vckpTWGV3ZGhYRnl0RHRRdmpRelZFd2FyZWh3cEVOWmkwa2RTNVJTLXN2VDZOeHE0SXpEZ29kdU45akpyczBzUEMwXzhxYVFIXzJ5Q3c3ajY2enQwV01zREJoNy1ma3o4Nk9iZDhKZzNKZEw2Q3RvbUs2WkhCMUxVcjNVT2Jnc1NLT3k3Wm5HZGFVMFlGMHNiRmpPYzdrWmNKZkhIOFdxMjhQQWdKbzdWSDViWFlqZDJxdEZYdDVpWUlsYngtT0Q1MjRpcmxNTU5nUjFhMzhHMTAyNW1kQW1SeVRUU3BGeUlSM0FqSHBLODl3Z0RUaWg4OVZUeEtobTgxb3RTZjc5VTNKX2pucGJ6cDZ0MDcwTWdXZFMyUDV1QTRYQ1R1V0lENEgzMk9JYjNqNjZjZGs2SkxFWVBTN0JxTHVRcGY2VzNSY3JqOWJEc3V6Um5Mb3RhRnozQktNWlBfRWxyNGNJSEV4ZjFpTF9pVkhfMS1VRmVkdFh2WHpMTnhfXzVGb1RkMFlfbmhUMllHYTdmWWNkSDA3MmhXcHdpc2FEWEJFWllieU1aWjE3c0lrQ0YyeHdhUDE4Y05qR29GWmp3OW4tb3VvcmJMczNhOVlYVGgzTUh4b3FUT3lTRy1pQQ?oc=5",
             "published": "2026-06-27T07:19:21+00:00",
@@ -327,12 +351,6 @@
             "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOY20yYXV1SDA4LXJjb1lRQWNlVGFOcXZneVpScFowV1hGbzhwSXR1V2FWWE5GamY4ZXJlQ3ZQVTczcnMzdkVOTW0zeC05dUkxY2NQU3BKcDlOeEFYSHJ1N0tVZVVUZjBtbHE1c1BvdHI1VVBnU1ZrSDV1OUptTDhJUXBpdDZRaWVxOC1MTDhSby1tak8tcmtyWk96QTJNN3JtZkdrRl8xYm5WeGY4QkJUSVp6OV9VclQxZmxWWE9pZE1iU25qQTQ0VmRqRTlhUklwN05NNjhhekViaF9lOEw5bWtrM2dta3FsV280XzdPUnJDLVYzS0tRYlR2dHBqUzN0WVBnY0E3N2NwVURjZjhDWFhaRGFfZDdvOXhEM0RBTlJnUEt2LWc5eUVnRG1TSm8wM29scXZ5b1dMUjk2VzV4bWMxTWRpVFNGOEtzT0g3cVFwOVY0dHBaSXR5S3pLcExJaHlUYXU3NnBMS1dBSTBwNUVtbkEzLU9FOWRrX1ptZTZWcjlqWXRyU2FqWEd4cVU5LURPRl9ENHQ4dEttVFFCQk1vWm1GQTFRLVMtOThhdkhGblRPSnBFZ2pibW9ZSncw?oc=5",
             "published": "2026-06-26T19:13:00+00:00",
             "snippet": "Lebanon signed the 'shameful' agreement, while Netanyahu called it a great achievement for Israel. This sentiment was expressed by Al Akhbar."
-          },
-          {
-            "title": "أعضاء في اتحاد الكتّاب اللبنانيين: زيارة رئيس الاتحاد إلى القصر الجمهوري تمت بقرار منفرد - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOVk1ZSlFqV1E1VDJwMk1ZdTBkT2xzeEVrWkZYX296WUJNT3lGOHpPR2FsSTV2cjZOdU83VW5GWEliRFBCd3BXcWJaM2dVeHBFdFJPV1hsamk5R0hMaVFHeEJLTmVudjkwZUJlSEZUUDQ4OGdVYXJCYVN3ZFlmWkE1bGRXZEd0cVc5MUpsM2ZkTjE1VTVOa3NpWTdyNjVRYlE3Q3hfNzlvYk5PbDJTWlE5VzgwdktoSVM4S2xQUkxBQXpkS3RDZF94MUNUN2ptWHNUbFJUVWo3NElueEtvcFZZeHd6UFo2YW1nMlNkTWEzOTRCNW5sMDZrdTNVUVp0eXNvbURaZUkzSGJUdVNNU2RYS2tsSXV0Z0ZNaTNEUERDQjlsQVF1cUxXcEJ5TUUzblRNeTd3SEZjRHZlQUJBcGFpM0wtcUtmZFhKZHpSamUzVG03ZE9fUkluSERBbW9kWExtQzlpQ2xtM1g5X1dBUHpNbUpwSkg5dzRzZVJtRzNXQzlucE9ZQWUwUTV6TWI4cEU4RzV3T1FZcnRxNFBqVTRwZFk0X2RWRGpLZlI5T0YybW5sa0NNVy1MQzF4SGN4eG9IbkpsdzNleWhNTG5PMmhhUDlPdHdUaEY2Vmlob19idFU4MG5CQTJ5TXBtc3lnNm9idFNRaGxNZw?oc=5",
-            "published": "2026-06-26T11:23:53+00:00",
-            "snippet": "أعضاء في اتحاد الكتّاب اللبنانيين: زيارة رئيس الاتحاد إلى القصر الجمهوري تمت بقرار منفرد Al Akhbar"
           }
         ],
         "error": null
@@ -343,6 +361,12 @@
         "lang": "ar",
         "url": "https://www.almanar.com.lb",
         "headlines": [
+          {
+            "title": "جيش العدو الاسرائيلي ينفذ عملية نسف شمال قطاع غزة",
+            "url": "https://www.almanar.com.lb/article/982927/",
+            "published": "2026-06-27T20:10:01+00:00",
+            "snippet": ""
+          },
           {
             "title": "مراسل المنار: مدفعية العدو الاسرائيلي تستهدف اطراف بلدة كونين في جنوب لبنان",
             "url": "https://www.almanar.com.lb/article/982917/",
@@ -366,12 +390,6 @@
             "url": "https://www.almanar.com.lb/article/982887/",
             "published": "2026-06-27T19:04:52+00:00",
             "snippet": "The Free Patriotic Movement reaffirmed its commitment to a comprehensive and lasting peace agreement, contingent on justice and national rights. The movement noted that the framework agreement signed in Washington requires specific clarifications."
-          },
-          {
-            "title": "“التيار الوطني” عن “اتفاق الإطار”: لم يذكُر الإنسحاب الإسرائيلي من الأراضي اللبنانية المحتلة بشكل واضح وصريح",
-            "url": "https://www.almanar.com.lb/article/982877/",
-            "published": "2026-06-27T19:02:12+00:00",
-            "snippet": "The Free Patriotic Movement reaffirmed its commitment to a comprehensive and lasting peace agreement, contingent on justice and national rights. The movement noted that the framework agreement signed in Washington requires specific clarifications."
           }
         ],
         "error": null
@@ -391,7 +409,7 @@
           {
             "title": "President Abbas congratulates Nabil Fahmy on appointment as Arab League secretary-general - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ISVpmcWo5RWdnZnRnS2d1dUZ6RW45eVpxd1JsRTNQV3BUVG1RYk9CS21YaTUxMUNYNGRra3Atdl9WSmtpTjZOUm1Vb18zeWIzNmhQSzAtaw?oc=5",
-            "published": "2026-06-27T19:16:21+00:00",
+            "published": "2026-06-27T19:16:11+00:00",
             "snippet": "President Abbas congratulates Nabil Fahmy on appointment as Arab League secretary-general WAFA Agency"
           },
           {
@@ -547,28 +565,28 @@
             "snippet": "Safety Training Institute in Chennai | Certified Safety Courses - Gulf News Jobs Gulf News"
           },
           {
+            "title": "Associate positions",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTaW42TTVGMDE4aUplU2lNRzVUcE9RTE1wOEJpaW5NRWFfQ0NvUy13MG1zVGhqcGFEOWhjQWF2TFFPSTV4ckhraldtU1U0OWVNYUIzbTNkRlMtQnViLS15cVhXbzFJNmNZ?oc=5",
+            "published": "2026-06-27T19:20:38+00:00",
+            "snippet": ""
+          },
+          {
             "title": "Civil Engineer (1 no.)",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tckFqREhZWWNkcHFjenpxd3V2cXYxdWQxSFd6d1lGaUlzYlo4WXhyRld3UXBCeVlCRWJCOWZZWHhhZm1qM2lFZHR0MWVsWWdSeEJsSlB6UDNxWXA5UGRYcnQ2d3VHcjg2?oc=5",
             "published": "2026-06-27T17:48:30+00:00",
             "snippet": ""
           },
           {
+            "title": "Female Accountant / Accounts Assistant",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mWk5tT2RNaVY1SDM0bHhRRzN6R1ZXWGdIWmpQbUdrcTZXSFBMNVYyNDlCcFlMLUJ0cXE4TVV4eVRWSTZGcmZ2aUphQko2QS1vSXRPZHBaSkRpMkZkVS1tSXowaU1DSHEzOGtfYzZKVjBRMVJvV0xoUm9ubml1azA?oc=5",
+            "published": "2026-06-27T17:32:25+00:00",
+            "snippet": "Female Accountant / Accounts Assistant Gulf News"
+          },
+          {
             "title": "Aluminium Tig Welder / Fabricator",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMeUJSVDg4YW5yc2RMNURIRG9kQlR1NTNOVHNxV3MtaXZ0VDhONmZheWJrbzdxc1BXTnloU0dkcmdGYkktRGJUSC1XT2dWZFZwM2ZET3E0bC1ERFBqelNCSkpES0dxTmZsN3FhVDVabjRCX21Xd2taZg?oc=5",
             "published": "2026-06-27T17:32:24+00:00",
             "snippet": "Aluminium Tig Welder / Fabricator Gulf News"
-          },
-          {
-            "title": "Safety Engineer (1 no.)",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MM3BESF9fNWtvQ2RLMWpTLUVMQkFUTmp4UGE2YUxNWUc4d21pUE80aGI4ZnQ5UEhmOTd0Ymd6SHJpLUFlNWxEME5kX2duXzNIVWlHcnJXaU5lOFAySHByR1o4M21kNHpSOUE?oc=5",
-            "published": "2026-06-27T17:32:24+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Strong 6.1 earthquake hits Afghanistan, tremors felt in India and Pakistan",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTdQdUVsZDNiMkVRSU1TRll0S01fRG1vQjNxMldFV0JQNnpLVjVpSlBFVVZqUUhZclRaSFhTZXd5SDR4bnJKZ0F5eTIxTV9mWGhVcUZwWVNXQlUwdkVkOFIySW1HZEVPRDFTWEJzRnUtdFZBWE42RWhHY2VfTE9YQ254aGxXSktQRENERHphRDZpcldCUm9rbElzOWk3eDFHVGphcWM5RV83OUNEU282RHluUWtOajDSAcoBQVVfeXFMTmhPR3RVS3lxZE9aUHk2OTU1a0RyV2pVclpWbnl6dTZFb1k3cTR3TnVib0NRRndRU3FXeWVzQTJzcHBKeHlDaE9sRVJwQ2JLSTdlTFlTNk0xZGJrUTZSQU55ZG1IeHNfZ3B0dl9hcm5wMmR0WkNPOHZFc0FzM0VRYU1xSFgxeHRmX3ZOWlp3V1ZnM3pwRzNYMWdhWkNvdFBfUkZreXFBVDFmcXNTQVJfMlNocDBoX2UteHRwazlaUE5NRzFhdlEzYWZ0UQ?oc=5",
-            "published": "2026-06-27T14:02:53+00:00",
-            "snippet": "Strong 6.1 earthquake hits Afghanistan, tremors felt in India and Pakistan Gulf News"
           }
         ],
         "error": null
@@ -678,10 +696,10 @@
             "snippet": "LEGAL AFFAIRS: A British-Israeli reservist shares how an attempted prosecution was meant to create a legal precedent against Britons serving in the IDF, but ended in humiliation for the petitioners."
           },
           {
-            "title": "Netanyahu: 'The agreement strengthens Israel and Lebanon, weakens Iran and Hezbollah'",
+            "title": "Netanyahu hails trilateral agreement with Lebanon, says it weakens Hezbollah, Iran",
             "url": "https://www.jpost.com/israel-news/defense-news/article-900651",
             "published": "2026-06-27T21:01:07+00:00",
-            "snippet": "Netanyahu stated that 'The agreement strengthens Israel and Lebanon, weakens Iran and Hezbollah.' He hailed the Israel-Lebanon agreement as a step forward and vowed continued operations to secure the north."
+            "snippet": "Netanyahu hails Israel-Lebanon agreement as a step forward, while vowing continued operations to secure the north and counter Hezbollah threats."
           },
           {
             "title": "WATCH: IDF killed Walid Haniyeh, nephew of former Hamas leader Ismail Haniyeh, military says",
