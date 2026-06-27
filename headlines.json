@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T16:08:05.876213+00:00",
+  "updated": "2026-06-27T16:37:16.250935+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,18 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Israeli drone attack kills young girl in Gaza safe zone",
+            "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
+            "published": "2026-06-27T15:53:41+00:00",
+            "snippet": "Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others."
+          },
+          {
+            "title": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
+            "url": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
+            "published": "2026-06-27T15:40:47+00:00",
+            "snippet": "Hezbollah supporters and many others in Lebanon view latest agreement with Israel as a 'surrender of sovereignty'."
+          },
           {
             "title": "With water cuts looming in Arizona in US, locals fight data centres",
             "url": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
@@ -25,18 +37,6 @@
             "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
             "published": "2026-06-27T13:54:14+00:00",
             "snippet": "Hezbollah's leader has declared a deal aimed at peace between Israel and Lebanon 'null and void,' casting doubt on its potential to bring stability to the region."
-          },
-          {
-            "title": "Venezuela leader jeered as rescue efforts hampered",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/venezuela-leader-jeered-as-rescue-efforts-hampered?traffic_source=rss",
-            "published": "2026-06-27T13:43:37+00:00",
-            "snippet": "Venezuela's acting President Delcy Rodriguez faced jeers from residents affected by earthquakes, as rescue efforts were reportedly hampered."
-          },
-          {
-            "title": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
-            "url": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss",
-            "published": "2026-06-27T13:26:56+00:00",
-            "snippet": "Iran's IRGC has seemingly rejected U.S. claims regarding the operation of a military hotline between the two countries, questioning its functionality."
           }
         ],
         "error": null
@@ -87,6 +87,12 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
+            "title": "US will not ignore Iranian attacks on commercial shipping, CENTCOM tells Al Arabiya",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1VaakRMTEp3RlJ5LWFyakl0UHc4c2pLbWNOSm1YendWZ01iVkoxTnJrOXc0aTBtTWxTWWR6bnlCdWtJTzcxUWtsTTBCTmgzQmJwMEllMHRmbTRrbndzdVJXOVY3R1poSTd6NDEzX1lUZ0h6eFh1cm9qSTJXbnE5Nk1LUURtQi1IRnRnbjFNSlNmMkNPOGR5d1ljYm9OWWhyanc4Wi12cFhjZUQ1UXg0U3FHT3BPSWQ4ZDVlZXB0N0F4c1R4aUtHT0JhMk9OTnMySWpCOUVkOGQ0Q05i0gHcAUFVX3lxTE1LVVpqRExMSndGUnktYXJqSXRQdzhzakttY05KbVh6d1ZnTWJWSjFOcms5dzRpMG1NbFNZZHpueUJ1a0lPNzFRa2xNMEJOaDNCYnAwSWUwdGZtNGtud3N1Ulc5VjdHWmhJN3o0MTNfWVRnSHp4WHVyb2pJMlducTk2TUtRRG1CLUhGdGduMU1KU2YyQ084ZHl3WWNib05ZaHJqdzhaLXZwWGNlRDVReDRTcUdPcE9JZDhkNWVlcHQ3QXhzVHhpS0dPQmEyT05OczJJakI5RWQ4ZDRDTmI?oc=5",
+            "published": "2026-06-27T13:20:00+00:00",
+            "snippet": "US will not ignore Iranian attacks on commercial shipping, CENTCOM tells Al Arabiya Al Arabiya English"
+          },
+          {
             "title": "Israeli drone strike hits southern Lebanon day after security deal",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFS2ZWN2prS0NhS1h0Wk00QkxBRVJFTXhNUzZuVlRQOE45M29TX19YNnV5YmpvSVFNUzBtOWwwNjkzakdsY2c1NjZjWVowYkZNX09RZTQ0OEtYNjFwODd6cU1RQ1hkRHVkQ3JMRnpOUzhjM1NVTWhpUFk4VGlJbWc0MXJVbjlFMXZ6NnJpT0o4dF83eGpldGxkbGUzWlJ4UkpKVGd2dFJoX3FUb0lBQTQ5STZfS2ZDZ1lib3FsR3NZcFc3cmlF0gHHAUFVX3lxTE80SEVLZlY3amtLQ2FLWHRaTTRCTEFFUkVNeE1TNm5WVFA4Tjkzb1NfX1g2dXliam9JUU1TMG05bDA2OTNqR2xjZzU2NmNZWjBiRk1fT1FlNDQ4S1g2MXA4N3pxTVFDWGREdWRDckxGek5TOGMzU1VNaGlQWThUaUltZzQxclVuOUUxdno2cmlPSjh0Xzd4amV0bGRsZTNaUnhSSkpUZ3Z0UmhfcVRvSUFBNDlJNl9LZkNnWWJvcWxHc1lwVzdyaUU?oc=5",
             "published": "2026-06-27T10:44:00+00:00",
@@ -109,12 +115,6 @@
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVJCOF9nX1N3bC11VGhNZjU5b0hWTXI5YndNcnlWVWs2WF9TeHJJZ2xjem5SMXd4M1ZmWlB2RVJ5RVRaeWFhQ3JtT21hd2NvRmF2REk4cGRZdGdJT21LWHhOY2l3ZFJnQl9qLVA5VHNjQ016OVFEcVdCM1FnY0FLMjdObU1Yb3NBTjltSy1WaS1SUkM1UHpQN20xcmR5TmROeGxTOGRKdE5wZTBVRWww0gGvAUFVX3lxTFBVUkI4X2dfU3dsLXVUaE1mNTlvSFZNcjlid01yeVZVazZYX1N4cklnbGN6blIxd3gzVmZaUHZFUnlFVFp5YWFDcm1PbWF3Y29GYXZESThwZFl0Z0lPbUtYeE5jaXdkUmdCX2otUDlUc2NDTXo5UURxV0IzUWdjQUsyN05tTVhvc0FOOW1LLVZpLVJSQzVQelA3bTFyZHlOZE54bFM4ZEp0TnBlMFVFbDA?oc=5",
             "published": "2026-06-27T09:03:00+00:00",
             "snippet": "Bahrain has condemned Iranian drone attacks on its territory, as reported by Arab News."
-          },
-          {
-            "title": "Drone targets Iranian Kurdish opposition camp north of Iraq’s Erbil, security sources say",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2x0RUpvNE94VzkyNE5yMHRDdmNoTy11MHZTcnlEVVdxVFQ1NXItTHFLeF9kZi1QSksxMmpjTkZRb25iWHBwS1lpTTVMejhpV3ltUVA5X2Y5SnAzeHhXbXZpRm11U3ZfSWx0SnZ2N1AwcmFGRDU3Tk5pejVNaUNtaVZvQ291aWN4bHBlOUp1YnlVTEZSSnZza3JTUnloeDVmM09PTFB2amR2X0loSXU0QjJIX1BZZlgxeDFUdkx3dVBLMEsxdXh3b0Z2YlhueGJLam1aSFM1ZG1xSlc2UlZfQmJpQlPSAeQBQVVfeXFMT2NsdEVKbzRPeFc5MjROcjB0Q3ZjaE8tdTB2U3J5RFVXcVRUNTVyLUxxS3hfZGYtUEpLMTJqY05GUW9uYlhwcEtZaU01THo4aVd5bVFQOV9mOUpwM3h4V212aUZtdVN2X0lsdEp2djdQMHJhRkQ1N05OaXo1TWlDbWlWb0NvdWljeGxwZTlKdWJ5VUxGUkp2c2tyU1J5aHg1ZjNPT0xQdmpkdl9JaEl1NEIySF9QWWZYMXgxVHZMd3VQSzBLMXV4d29GdmJYbnhiS2ptWkhTNWRtcUpXNlJWX0JiaUJT?oc=5",
-            "published": "2026-06-27T08:32:00+00:00",
-            "snippet": "A drone has targeted an Iranian Kurdish opposition camp north of Iraq’s Erbil, according to security sources."
           }
         ],
         "error": null
@@ -125,6 +125,18 @@
         "lang": "en",
         "url": "https://www.newarab.com",
         "headlines": [
+          {
+            "title": "Palestinian parties could hold key to Israel's next government",
+            "url": "https://www.newarab.com/news/palestinian-parties-could-hold-key-israels-next-government",
+            "published": "2026-06-27T16:31:05+00:00",
+            "snippet": "New polling suggests neither Netanyahu's coalition nor the Zionist opposition can form a government without Arab party support."
+          },
+          {
+            "title": "Maritime body overseen by US Navy says route near Oman for ships",
+            "url": "https://www.newarab.com/news/maritime-body-overseen-us-navy-says-route-near-oman-ships",
+            "published": "2026-06-27T16:12:46+00:00",
+            "snippet": "A maritime body overseen by the US Navy says a shipping route near Oman is being expanded to allow both inbound and outbound traffic."
+          },
           {
             "title": "Trial begins of Syria’s 'barrel bomb mufti' Ahmed Hassoun",
             "url": "https://www.newarab.com/news/trial-begins-syrias-barrel-bomb-mufti-ahmed-hassoun",
@@ -142,18 +154,6 @@
             "url": "https://www.newarab.com/news/hathaways-modest-swimwear-france-highlights-anti-muslim-bias",
             "published": "2026-06-27T14:50:19+00:00",
             "snippet": "The double standard in France regarding clothing worn by celebrities versus Muslim women has been highlighted, with praise for one and exclusion for the other."
-          },
-          {
-            "title": "Hezbollah chief calls US-Israel-Lebanon deal 'grave blunder",
-            "url": "https://www.newarab.com/news/hezbollah-chief-calls-us-israel-lebanon-deal-grave-blunder",
-            "published": "2026-06-27T14:47:14+00:00",
-            "snippet": "Hezbollah's leader, Naim Qassem, has characterized the US-Israel-Lebanon framework agreement as a grave blunder that is null and void and undermines sovereignty."
-          },
-          {
-            "title": "UK says will open new sponsorship routes for eligible refugees",
-            "url": "https://www.newarab.com/news/uk-says-will-open-new-sponsorship-routes-eligible-refugees",
-            "published": "2026-06-27T14:00:04+00:00",
-            "snippet": "Britain is introducing new legal routes for refugees while simultaneously strengthening immigration laws to facilitate the deportation of individuals residing illegally in the UK."
           }
         ],
         "error": null
@@ -189,10 +189,10 @@
             "snippet": "Queues have become a daily feature of life for residents in Gaza."
           },
           {
-            "title": "الخارجية الأميركية تنشر بنود اتفاق \"الإطار الثلاثي\" بين الولايات المتحدة و لبنان و\"إسرائيل\"",
-            "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQaGRhNjhKSmJudkRHdUE3YU96VHhlcVAzU2lTcUhlSXFKWVFka2RUaVJjdmpDRlp5blJ5SEJjanAxVk9aVlJZRGZPeXRleEl6Ni1TMy03WE85Z1dPWFNhQkxzcl92Qmdva1lQQkNmdUZqc1ZoQzZDb1BzM1FHeXVJSnd1Q0stX1p5WHZVZHRGaXNEUlFjMC00all5VUhmNHJfUFE3QTZRUDR0eUtUVUhJNFNNcnJKZm81cWMtVWZTRWZ2d3lmWjVDZXFFRjQ5X09vUGEyOHg0bENZZVhuaTRBN1RXNHNhRlJmczJkRk10VkJVN2xjU2ltQVJtazFILXBCUjgySk0zVFFzSHBLZDhRSjc4R280TklVMWhFNFMxWlU5MzZ0V3RtSUJWb09NV2tKblZuTkhHWlpsSnhVeTkxMjNVazNoUlhzUEhSdWdXODI1VThHcXlkZ285eHJKczQ0QlJ0WTlGUzM0cURuNWZ0YWhmYlJDSHE3U3pRV3FmWll0T0hXRkN1Vy1KU2xCWTJJQl8zcGZRMm55amhpN0UtMU04QTZBTlBqUkdybXRjaHRDaTUwel9HTzAwUW1pTFVpYmZMTmMtZ21oOU0xTjFuNEZlUlU3aGRMd3ZMMVMycmw1N0thMmFPZTNCMThldFhr0gH0A0FVX3lxTE5Zd1lxUDZfYnN4eUdVNVE3aDI5OTZKclRUUlZxdEpuRjdsSEpqZXNCWmVWSkdBWllTNmp1b2FUVDJNOWtSRU9nVFZTU0JHRGdjOVFsbng2UEF0NTJaX3UxSVM5MnRaTmNHdVlMVExuNVR4RW1qRkxCX2I4UnFJdnlGLWtZS3B1c19JNldHZ2ViU0RSS2hiYmcyOXB4Qi1sUVVLekEzQkZYQzlYYWtyd0QwMWZ2Q1o4MTFSaWtlV2M0TWR0QktQeHZ0cFdJeUY2YjhXT2cxS1ljTFJjbDJMcEd4ODQ5c2JtU3RnakhUQXhhVDc0MDdVLUZpU1d0blp4THhqTTFuSGpvSFNaOVRxZ0hYQVhwY25PRy1peHZGVXNHTDQ1VzRYRU1fUVN4QUw0SXNFLUNuZVVfYXM0U3Zsc3BjdllmLTBTeWZHTXd0WmxWN2xSQkZYS0t0YzFBSzkxSnlXXzV3SkZNTjk5cnBkZVVUY3B6Q1RpVWlQeHFvaWRBLTJFRFlsXzh4R0pqYkhFcmdsM0pZMGk0dExTWWdVLWsxelJ3R3Y4T1dKTVd2cWkzZUNyNEFkT1lzMVQ4YnBtUUJ0emFJRkRoblR1djh5bUpPcExDeFVycHkzQ3o4T2VLRlg3b0RjNWFsM3VvVHF4clA1MWlM?oc=5",
-            "published": "2026-06-27T05:20:18+00:00",
-            "snippet": "الخارجية الأميركية تنشر بنود اتفاق \"الإطار الثلاثي\" بين الولايات المتحدة و لبنان و\"إسرائيل\" almayadeen.net"
+            "title": "نشرة الظهيرة",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2VZLTA3RGZ5VW5CdHVLcXdhbFBWWWJTWHh5STM4eDNmRUtOY2tzT09fOFRCbkRSRjdJeVBaZ2NBdDVFQWowaVNmMHNEV01iSjVpUmpLdVZuUnowX005UWxkeVUxWWp6OThxWWI2ckVsNnJESko0MmJmaHNNOTQ2MmMtV2xhaVlBcEZWLTJJbjF6b3VOMk0xNUdfMERrRjljOWl0VnpVLVZSejRRWkUxZlVqVQ?oc=5",
+            "published": "2026-06-27T10:00:00+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -205,6 +205,12 @@
         "lang": "en",
         "url": "https://www.jordantimes.com",
         "headlines": [
+          {
+            "title": "Crown Prince marks 32nd birthday",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FU3FkVTJaNVl2NlA3TG1nVXpYSG01YUk2TjJJYTgwbF9VREpySGZmQ0xFQXl4VVcycmYxZ1lDQUFzdUNMdUtpR3NXSzRVN0wzNk1MWW9hOWtKSnFxaXQzSGVhYkRuR2pNck8yWG1Sa1NSbUhJeHc?oc=5",
+            "published": "2026-06-27T14:56:02+00:00",
+            "snippet": "Crown Prince marks 32nd birthday Jordan Times"
+          },
           {
             "title": "US and Iran trade strikes putting new strain on Mideast ceasefire",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFMwOHZsS3NMYUhBZjFSVldlSW04bGRPcnpsTXE2WFhRcy1Qb2xvTzAyMmNDei01YzB3RHpqVVNic3ZEZS1BWXFFUzBkWnBURVJFSHpZTVl4OFFvRmNMYzh5NHZRSXdsUml0MzdDRVhrUTZfTHFrT0ptdjBaS1FGNDAwMUl5M2RlTkFwVTNHVW1iZnBFY3JyN1BleEVXM2VRaHNv?oc=5",
@@ -228,12 +234,6 @@
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlZWldVVXh4R2hBY09TY0w5Z3RGX1ByYklEMmhDWDhSVVFiTGEzakZQSURtcEdiQ196LTZsUWhCQU10LU9aMk1YZmczOWVhQVd0ZFdYOEdZS1gzZXZCR0ZwQXBWcC14cUlvdkZTdFJQUnVYMEpGbldmLURGcWQ1MEZsMm5sbG9hUllncGgta3FTd1dOSzdQX1lGSkVwOW5jdFRtVGlTeFZIUGpGNVdQWXN6Yw?oc=5",
             "published": "2026-06-26T10:08:21+00:00",
             "snippet": "An attack on a ship in the Strait of Hormuz has prompted the UN to suspend an evacuation plan for sailors who were trapped."
-          },
-          {
-            "title": "Lebanon president welcomes French, Italian efforts to form coalition to succeed UNIFIL",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQktxYVJzVTJHLU9ZaU9GQ2RLUXpUMVRHRk9QZ3VMV0ZjRXh5UWU2QkpjaklLdWtHWjVRZ2JmazZnVkZzdEk3Si1NMUpZakRIV25nRWlJRWtFSy02enV0MHFXZDkyM0FvSGJkRVlEUllZbmx0alFKXzdXQlBpUGN5aVZUX20xSVlPZnpoYm54ZTQyOUVyVjk5YjMwdkRWaTZvak03VDU5ekZySkFlVlkyZkJhMi1PV1I4d0J4TTV3?oc=5",
-            "published": "2026-06-26T10:08:21+00:00",
-            "snippet": "Lebanon's president has welcomed efforts by France and Italy to establish a coalition that would succeed UNIFIL. The Jordan Times provided this news."
           }
         ],
         "error": null
@@ -362,6 +362,24 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "كاتس: يأتي الاتفاق بعد أن حاولت إيران فرض انسحاب “إسرائيل” من لبنان من خلال التهديدات والضغط على الولايات المتحدة الأميركية",
+            "url": "https://www.almanar.com.lb/article/982577/",
+            "published": "2026-06-27T16:26:54+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "وزير حرب العدو يسرائيل كاتس: الاتفاق مع لبنان يمنحنا حق البقاء في الأرض اللبنانية ما دام سلاح حزب الله لم يُنزع",
+            "url": "https://www.almanar.com.lb/article/982547/",
+            "published": "2026-06-27T16:25:47+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "الرئيس بري لـ”الشرق الأوسط”: اطلعت على مضمون اتفاق الإطار وقرأته ورأيت فيه الفتنة",
+            "url": "https://www.almanar.com.lb/article/982567/",
+            "published": "2026-06-27T16:08:07+00:00",
+            "snippet": ""
+          },
+          {
             "title": "كاتس: الاتفاق مع لبنان يمثل ضربة استراتيجية لايران وسنبقى في جنوب لبنان لفترة دائمة",
             "url": "https://www.almanar.com.lb/article/982557/",
             "published": "2026-06-27T16:05:43+00:00",
@@ -371,24 +389,6 @@
             "title": "حركة أمل: ندعو جميع اللبنانيين إلى أعلى درجات الوعي والوحدة الوطنية وعدم الانجرار إلى ما يريده العدو من مشاريع فتنة داخلية لأن وحدة اللبنانيين تبقى السد المنيع في وجه أي مخاطر تهدد الوطن",
             "url": "https://www.almanar.com.lb/article/982537/",
             "published": "2026-06-27T16:04:12+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "حركة أمل: لمتابعة المفاوضات غير المباشرة لحل القضايا العالقة وتثبيت الحدود الدولية المعترف بها وعودة الأسرى واعتماد الآلية المقررة في اتفاق تشرين الثاني 2024",
-            "url": "https://www.almanar.com.lb/article/982527/",
-            "published": "2026-06-27T16:02:52+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "حركة أمل: يجب عودة الأهالي إلى قراهم وبلداتهم جميعها والمباشرة في خطة إعادة الإعمار وتأمين البنى التحتية",
-            "url": "https://www.almanar.com.lb/article/982502/",
-            "published": "2026-06-27T16:02:10+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "حركة أمل: لانتشار الجيش اللبناني وممارسة سلطته ودوره كاملا بما يعزز سلطة الدولة ومرجعيتها",
-            "url": "https://www.almanar.com.lb/article/982517/",
-            "published": "2026-06-27T16:01:36+00:00",
             "snippet": ""
           }
         ],
@@ -421,7 +421,7 @@
           {
             "title": "Israeli colonists graze their sheep on Palestinian residents' lands near Ramallah - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QbFJtM2ZWLVJoUDNGc2pRZU1sTzhJaDRtSUtwbEJOMFNFN2Ywa1BYa0pjRHNtQ3pDQVd2eWFab2F0RXVtSDQwdmhRRXkxVGxHdTNWRFU2WQ?oc=5",
-            "published": "2026-06-27T08:24:06+00:00",
+            "published": "2026-06-27T08:24:21+00:00",
             "snippet": "Israeli colonists have been grazing their sheep on Palestinian residents' lands near Ramallah, according to the WAFA Agency."
           },
           {
@@ -446,10 +446,16 @@
             "snippet": "احذروا.. أدوية تسبب أضراراً صحية خطيرة خلال شدة الحر paltoday.ps"
           },
           {
-            "title": "إصابة برصاص الاحتلال في خانيونس",
-            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRURXdG1sM1dHS09IcGNXbmFvemVabDFoMXozbFc2bXg1bTR4ZkFQMVo0SXg0cG5PUWpGenJIaGw2SkpIMTJXMUxack1LZmViU2c0UWdJWl9mUU05MnpZSWhxS0JiblpwY1dVTWxJdDR3aWg0V0N2S3FneTVMUUczX2l0ZTNOQ0NzRnVsVW42WHVqQzBBUjdYbW5nbVdXLU9UZm1GbjktakZWRnBCNW5oeHBydm5JQ1ZiTjhCdVlzY2JHR0xBRzN5UUZaT2VLcHNweW9wRENDV3lHLU1OWTNVMjNvcGZZMmNHa2gwQWFoMTZrUm5scm5SVy1fUnFZdm5ySl85SXJ0bXI1NFhnZy1YMDFWdk9NVWZKTlhmU1hlNkg?oc=5",
-            "published": "2026-06-26T12:16:00+00:00",
-            "snippet": "إصابة برصاص الاحتلال في خانيونس paltoday.ps"
+            "title": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON3BObXhNa3pXeVI0STRxWGNLTER6RTNJMGVIS21XSEwtY2w4emZYNElXdUZJRjhEaHA2dVc3XzNfeV9uMDBHMUE3Q3B6cGRMYWpJVWFqMmx2aXVhSzJtR1Rjei1scmJKNGRaZl90czRxbWpwRkpBeUFSbFpvSU1VaDJ1R1NVaGYzVVNSZkcxMFdXLWhHVXE5QkxfM0psSWRBUUdwRUd6c0RNMnRaTXROUWFUUzFBQTN6YURrd1pFSS1WakNSSWJmMl9pSnlTOGNxRGFtRzRjblFnYkRMRGxqTEt4SzQzeThiZl9pY29EdGRUR1NWLVRxbm10V19LeW50X3NxU0NYTVc5MjlzWDV2Y1dYckxvRmszblE?oc=5",
+            "published": "2026-06-26T12:47:00+00:00",
+            "snippet": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا paltoday.ps"
+          },
+          {
+            "title": "الاحتلال يغلق مسجد الرأس أمام المصلين في الخليل",
+            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSi1Ka2xYTVIwSWRzbUNiTERQS1JocnpRcG1ZMmdpS0R0VUVhZmJhZlpIUWVfSFpEcUtMRVZaNThxOVE2RVlFNGpRb0FRRWZyZ1FucEViOFhKcTdlQmNUeXZSUWZLR3BoM1FKY285Ujk3QWVwbUdwcHVRaTNTMWFYRmsxUW00Zk9mUEVXMXFBbkV1NkdwOHpadmZQZC1XS1ViSmMtdFZweHhuUW1BRDBycDlhZ2UxMG95WnZteGJrV016dUxNZGtaNUF1Wm52cHFRSzJrbzJYb2RZWnFXWFdVRlVVZktrZ3lwb0lkUlUzR0ZLVHJGX1hnaDVFZlpKWEpod18yUFBraDAwVTV6MFdrSDE3amlTLVVV?oc=5",
+            "published": "2026-06-26T11:14:00+00:00",
+            "snippet": "الاحتلال يغلق مسجد الرأس أمام المصلين في الخليل paltoday.ps"
           },
           {
             "title": "حماس تدعو لمحاكمة مجرمي الحرب الاسرائيليين على جرائم التعذيب بحق الأسرى",
@@ -462,12 +468,6 @@
             "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQSkNid0ZwREtfX2V4ZmtISG9sLXdHakpGY0FLUjQxZTFXZXcySFBXcUZmWWJJZTlEbFp6dzdmejFsbG1KTXJsOUd3OE5FNHVnM3R4UEI2WkZpZTB3YUVhN3ZZaGtzbFloYTI1NllkbVA1Wkt5OW9xRXZnemZ0WmtZcWRSR1gxeEZHa2RuRzRpQlNIYk5qUmVBMjVlMEZVdHNIaUVNcGxfLVM3MFFFWGVMQU9MRmt5N2VZOTd3YVdZTnZHbU5WOWRobmh0UWFnZVd5N0c1OS1hbW1mYjdkVjIxS3dhZl9EclpqbEhhVGFoODVjVHhkSHNiTHU0Sy1lYzV5TzdXMDdhZ0RrbWI1b3dTSFN1QWx6bFJMNVdMVGZReUI?oc=5",
             "published": "2026-06-26T10:21:00+00:00",
             "snippet": "الاحتلال يطلق النار اتجاه مراكب الصيادين في بحر خانيونس paltoday.ps"
-          },
-          {
-            "title": "صيدلية طبيعية بمظهر شائك.. خبراء تغذية يكشفون الفوائد المذهلة لـ \"الخرشوف\"",
-            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVGcyUEVNRHdWaTZlWjlaV0Rkc1gxRzVuNllPTEEwQlVMa3owQkh3bmpCbUo1bjFhVXVrNHJ4Skpja29tVThPLW9Ub2VqdHRjM1ItbnZmVEFZaWMtSXM0akVOV1VDdXg1OGQ4SHVndld5NGpyMXJENnVwLS1LeVJJRzkyc2NJNVpqb1hqSVppZ1l4aVJYeDFKQjJJM2gxbWFTcWpoRFFDMDFyV1IyMEJjb3VBUFY3Q1JZZGJsd0g5SGNYNWJJZnVsNTg5MnQ0cU9SbHhHZDVuM0FTbldBUk1uMVQ0UTB6VFQ3UTY4SWRwdlV2b0dBcERkVTVET2lxclQ1Q2xKX0lYVFl3X2JJX2w3OFRfaGlvWkRHUVI3d1ZTdjA?oc=5",
-            "published": "2026-06-26T08:59:00+00:00",
-            "snippet": "صيدلية طبيعية بمظهر شائك.. خبراء تغذية يكشفون الفوائد المذهلة لـ \"الخرشوف\" paltoday.ps"
           }
         ],
         "error": null
@@ -559,12 +559,6 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "Strong 6.0 earthquake hits Afghanistan, tremors felt in India and Pakistan",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTdQdUVsZDNiMkVRSU1TRll0S01fRG1vQjNxMldFV0JQNnpLVjVpSlBFVVZqUUhZclRaSFhTZXd5SDR4bnJKZ0F5eTIxTV9mWGhVcUZwWVNXQlUwdkVkOFIySW1HZEVPRDFTWEJzRnUtdFZBWE42RWhHY2VfTE9YQ254aGxXSktQRENERHphRDZpcldCUm9rbElzOWk3eDFHVGphcWM5RV83OUNEU282RHluUWtOajDSAcoBQVVfeXFMTmhPR3RVS3lxZE9aUHk2OTU1a0RyV2pVclpWbnl6dTZFb1k3cTR3TnVib0NRRndRU3FXeWVzQTJzcHBKeHlDaE9sRVJwQ2JLSTdlTFlTNk0xZGJrUTZSQU55ZG1IeHNfZ3B0dl9hcm5wMmR0WkNPOHZFc0FzM0VRYU1xSFgxeHRmX3ZOWlp3V1ZnM3pwRzNYMWdhWkNvdFBfUkZreXFBVDFmcXNTQVJfMlNocDBoX2UteHRwazlaUE5NRzFhdlEzYWZ0UQ?oc=5",
-            "published": "2026-06-27T14:02:53+00:00",
-            "snippet": "Strong 6.0 earthquake hits Afghanistan, tremors felt in India and Pakistan Gulf News"
-          },
-          {
             "title": "Photos: Over 10,000 Vespas take over Rome as iconic scooter turns 80",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmVJVDc4TDBYTDdRTExveS1raEJkN3o1MjItMnBlUXVrTXJ4b291MWE1b3RfcFUtbEhKTVJLMWxqOVotTzBOSEhxUHd6NXp1UHJfSURacFBhWmpBckltRWpQU01kLWZkTEVha1lJVlBlUXBoUjRFYWVpZ2diVUY4WlliZ2xkRXlTSWY5UXJ3c0pUNUxWOHNnbzlmbWZCV2VJU3lFLWpHaEg4Q3Q2YVk5U3FR0gHEAUFVX3lxTE5IR2dHVDdRUTMzdjZieHpuNDdiNG1tYklYYXZCc1Z2OVo1dnV2eHBaZHFJV25SV29oMFRiLXlBTjV4ODlSUi1WZU5iZ3BzZHNoaHdvVlpHWTVueFAyS1VnWkZDR2hBdmVmbDZjRHRVVXcxcnRhZGlTWTk2dXUtVEJkWkV2YUtiNUlRR1JmVFhzM2g4U2Q1blVpUXcwdUxMUnF5MzduVUgzSERjMlBYeDBpd2MwUnk2bU1YUWNKSFNhcnotQlM?oc=5",
             "published": "2026-06-27T12:11:20+00:00",
@@ -587,6 +581,12 @@
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFRRMFBCTVA1Q2FtbDBfUWJURWt4eTg3dENuUUVNR0Z3aHRhaUFCOFVDTDlJd3BaTlByZ05MM3E5bmlmMWpvNnEzWkhfckNvZ0VyZGNtdzlZZjJ1cEw2QV9hUHBLN1ZRa3ZaZUZqc1VwTjc5T09KZU9TcF9kTXJCVmtYanAtZFhRSlJtbVhiYUhDc1I3S0hwZ194V0pCQTZaNzM1TlF0UFZGUzRwVHF6TFEtY252T0lTUFdlY05BYTI5QU1Wd1VMS01KSdIB3gFBVV95cUxOQ2t3UE5QNENoM3ppd1oxcW15elBZWjBpSUFyRW5ITFlOMGxwSUlnbk1La2xFRFhQTmFyZlVIYW5uc25nTElCU2ZQODNmdGNkb1FGNHhlS2Z0Wkp1NDdEVkxxWl85WDI1c0xjQ0d4NWJhSnI0SWc2ZlJOQ1JQWHBnTzVGQW9PbXN2b3RHdy03YTN1dDVyTmFkY09iWDZUWVNSY3RHY1J3aHVRQlY4NjBCV0t1aXVZbzdUUGxIaTRnN2x5VDJBOHVPVjg2a1lZMnZjOEZVZDl1ZTU5WFpxSVE?oc=5",
             "published": "2026-06-27T07:03:38+00:00",
             "snippet": "Trump has unveiled a US passport featuring his own portrait for America's 250th anniversary, according to Gulf News."
+          },
+          {
+            "title": "Veteran Tamil filmmaker K Bhagyaraj dies after heart attack",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTNQV1g1MnQzTnltUXE4em13c0hkZkFwcXpWOXdXLXVGVnEyQVg4ZjBERzhoaGNuNGlZcDJkOS0tU2F1bllxelBwal90TmkzU2pEQnpzdDhLYkdZUUY1VDRDUEU4RXdBVHZwTFEzRFBVRXZfenNGZ00tOWY0LW5nekZBUksyM0RteUxNdUdyZ281QlhjOWpEQ254ZU5RQXgtRGNOQlc5dzd1Y3NDbHZfWDA0WUEwYUplRGtn0gHOAUFVX3lxTE92SkgzMkx3VENMSmFmaWlyYnhBX2E4T2U5QlNLcVVDTVJpRWpNdnZrVUF3WEItcUEwb3BPRkVRMlJLN0ZtbnVFU01UNTRWN1pkdVdfRjFMWVl2Rmd6SUpQVGFtS21Za2tGZGlobS1zdlZIdno0TjFFOGw5Ym5ZSVpnRUE4SU9CaEtQdEV3WEZCb0x5TGlDcjEzMlhmNFEwSDdzUVpSOEkxSlBTZWpkSUxGbUlWb3NncGdoM0NXWlMtRUpoQVY0U01QQWtCcHZ3?oc=5",
+            "published": "2026-06-27T05:27:51+00:00",
+            "snippet": "Veteran Tamil filmmaker K Bhagyaraj dies after heart attack Gulf News"
           }
         ],
         "error": null
@@ -797,6 +797,12 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
+            "title": "Iran offers condolences, aid to Venezuela following deadly earthquakes",
+            "url": "https://en.irna.ir/news/86194290/Iran-offers-condolences-aid-to-Venezuela-following-deadly-earthquakes",
+            "published": "2026-06-27T16:08:11+00:00",
+            "snippet": "Tehran, IRNA – Iran’s Foreign Minister Abbas Araghchi contacted his Venezuelan counterpart on Saturday to convey condolences over two deadly earthquakes and to offer Tehran's readiness to assist in relief and rescue operations."
+          },
+          {
             "title": "Army to assist institutions overseeing Ayatollah Khamenei’s funeral ceremonies",
             "url": "https://en.irna.ir/news/86194279/Army-to-assist-institutions-overseeing-Ayatollah-Khamenei-s-funeral",
             "published": "2026-06-27T16:04:11+00:00",
@@ -819,12 +825,6 @@
             "url": "https://en.irna.ir/news/86194218/Hezbollah-chief-rejects-framework-agreement-as-surrender-of",
             "published": "2026-06-27T14:49:08+00:00",
             "snippet": "Hezbollah Secretary-General Sheikh Naim Qassem rejected a US-brokered framework agreement, calling it a capitulation of Lebanese sovereignty and a legitimization of Israeli occupation."
-          },
-          {
-            "title": "Lebanese speaker warns of ‘sedition’ after framework agreement with Israeli regime",
-            "url": "https://en.irna.ir/news/86194135/Lebanese-speaker-warns-of-sedition-after-framework-agreement",
-            "published": "2026-06-27T12:55:14+00:00",
-            "snippet": "Lebanese Parliament Speaker Nabih Berri issued a statement warning the nation against falling into \"Fitna\" following the framework agreement signed under US mediation."
           }
         ],
         "error": null
