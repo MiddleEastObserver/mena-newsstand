@@ -94,12 +94,12 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
   .hero{padding:31px 0 34px}
   .hero .copy{padding:0 20px}
   .hero .kicker{font-size:14px;letter-spacing:.2em;margin-bottom:12px}
-  .hero .title .l1{font-size:39px}
+  .hero .title .l1{font-size:clamp(28px,9vw,39px);white-space:nowrap}
   .hero .title .l2{font-size:27px}
   .hero .rule{margin:17px 0;width:182px}
   .hero .tag{font-size:19px;max-width:34ch}
   .hero .chips{margin-top:20px}
-  .hero .stage{min-height:200px;height:50vw;max-height:250px}
+  .hero .stage{min-height:215px;height:60vw;max-height:270px}
 }
 @media (prefers-reduced-motion:reduce){.hero .chip.live .dot{animation:none}}
 
@@ -299,7 +299,7 @@ footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-a
       <span class="l1">The Middle East <span class="scout">Scout</span></span>
     </h1>
     <div class="rule"></div>
-    <p class="tag">The One-Stop-Shop of Middle East Analysis and Regional Intelligence Hub</p>
+    <p class="tag">The One-Stop-Shop of Middle East Analysis | Regional Intelligence Hub</p>
     <div class="chips">
       <span class="chip live"><span class="dot"></span><b>LIVE</b><span class="sep"></span><span id="hdr-date">—</span></span>
     </div>
