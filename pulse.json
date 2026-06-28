@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T00:05:25.203705+00:00",
+  "updated": "2026-06-28T00:17:13.741927+00:00",
   "total_headlines": 110,
   "terms": [
     {
@@ -111,8 +111,80 @@
       ]
     },
     {
+      "term": "Israeli",
+      "count": 11,
+      "headlines": [
+        {
+          "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli drone strike hits southern Lebanon day after security deal",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFS2ZWN2prS0NhS1h0Wk00QkxBRVJFTXhNUzZuVlRQOE45M29TX19YNnV5YmpvSVFNUzBtOWwwNjkzakdsY2c1NjZjWVowYkZNX09RZTQ0OEtYNjFwODd6cU1RQ1hkRHVkQ3JMRnpOUzhjM1NVTWhpUFk4VGlJbWc0MXJVbjlFMXZ6NnJpT0o4dF83eGpldGxkbGUzWlJ4UkpKVGd2dFJoX3FUb0lBQTQ5STZfS2ZDZ1lib3FsR3NZcFc3cmlF0gHHAUFVX3lxTE80SEVLZlY3amtLQ2FLWHRaTTRCTEFFUkVNeE1TNm5WVFA4Tjkzb1NfX1g2dXliam9JUU1TMG05bDA2OTNqR2xjZzU2NmNZWjBiRk1fT1FlNDQ4S1g2MXA4N3pxTVFDWGREdWRDckxGek5TOGMzU1VNaGlQWThUaUltZzQxclVuOUUxdno2cmlPSjh0Xzd4amV0bGRsZTNaUnhSSkpUZ3Z0UmhfcVRvSUFBNDlJNl9LZkNnWWJvcWxHc1lwVzdyaUU?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel settlers seizing Palestinian land to open 'tourist' sites",
+          "url": "https://www.newarab.com/news/israel-settlers-seizing-palestinian-land-open-tourist-sites",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
+          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Jordan welcomes Lebanon–Israel framework agreement, calls for full Israeli withdrawal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemtnWmdSWmRLTzJfRDFSQlRPSFZlS19jVzdRYmxfVHN2ZkgwbXdzRlNCLWR1V2hGd3ZmWmRMMmtDaDJxNlhzS01tTEQyM190TU56Y3g3YlpLOGgxN3ZOc0picEpwNERkbEltd19JQUhzRXRCZEp0UnFVaGRDenlMTm53OXRrNWhOZWZiT2xaNFZNRDlyLVFFWDdCNFBfUWppbVVEY2Q1OEg0cUJ4QnJPQWtUeDg4Y2FhTUE?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "No confirmed reports of Israeli occupation claim that it 'took control' of Ali al-Taher",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVXZ6cGgxTTVLMG5XMUJSbEM4WUR0bUlhVnFSSzU3cWxYXzJUdzdHRjVHaTdCQVVyc0Z2Si1HSjJJTlNwMVZuN2lmT3VPTk5UTno2ZnhTbEFUcjFIWlpnTlpBM0FGT3EwWmRkbEd6RXVUZGRiRFVRMm5va1N3WnFnM0lMUDhtWTJUYmRQVFpRVVExak5jMXNfNHFuZ2dqNHhMVjYzUWxIR1pIbGEwSzBIMjVCR2VwaFh3MFloYlBlZnNUZDd4RGIwTnJ3NWtCRjdGQ1Jmbk9zcUg4X283b1NiLWFTZkVHazVhUEZyOWJn?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "UN: Israeli war on Gaza leaves tens of thousands with hearing impairments - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vcDY2MDZtZ0NEaFM5bngyTjdPeTNObEN2TTFldU5pMTFGcnRZQjV0dVpOc2h0WkhmYnhTZ0xvQlBRdVVrTHZSdHBfYnpJWm55dnZSVU1ISQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces detain former Palestinian detainee after surrounding his home north of Hebron - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MZlUtbndrVWF6TEttLWRfRk9mVUZabkZ5S1lvUVl4clNHYTVQbmdwakIxR1NNTm9BVUZDa1pOeUJDck1keGJyX0IzdTIwZzNXLUpMUmhDdw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli colonists attack Bedouin community near Khan al-Ahmar - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iX182UEVWOFpkem1seDJtZW15dUxfLS0xWEJfS1pUaGtTM0k1eVEtaWk2eEhleXJhQzNrQUFvZjVIMWZmbFZSSEUyZmt2S3VNSE1oWGdsTQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON3BObXhNa3pXeVI0STRxWGNLTER6RTNJMGVIS21XSEwtY2w4emZYNElXdUZJRjhEaHA2dVc3XzNfeV9uMDBHMUE3Q3B6cGRMYWpJVWFqMmx2aXVhSzJtR1Rjei1scmJKNGRaZl90czRxbWpwRkpBeUFSbFpvSU1VaDJ1R1NVaGYzVVNSZkcxMFdXLWhHVXE5QkxfM0psSWRBUUdwRUd6c0RNMnRaTXROUWFUUzFBQTN6YURrd1pFSS1WakNSSWJmMl9pSnlTOGNxRGFtRzRjblFnYkRMRGxqTEt4SzQzeThiZl9pY29EdGRUR1NWLVRxbm10V19LeW50X3NxU0NYTVc5MjlzWDV2Y1dYckxvRmszblE?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Board Member Says $26m in Donations Went Missing From Haredi Israeli Nonprofit",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOS0VwQUpzSFd2TGxCLXlDNjhRcGl4VWNXZzF2Qk9PV3RRSTh4WTJ6TlFwQXVsTjBpdmJQeXRORVdJSktSRjEzdHg0U3Z3MzJhaXhKMjZfemZCOXVpVi1TMkY4NTYxRlFwSG5fLVRXREpwQmNUV2NMQVIzbEpGdE80enFXRGZRY2x2XzZvU3FubXF1aml4S01qTWJaOGZiczhQc0NMMEJJSGFwRy1IMXdLSEZ1SmRYOU9jRkY5QjZtQ2lBSi1IdXd2NE14aVVIY1l4RXY3YVhEN1BHS3NEc3hOSkpXQWY0cWxsMzRxa2NCZmVzaU9WZHFDSjVvU3FqZDN5OFJ4cC0zTEFrM0ZDZnc?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "Lebanon",
-      "count": 12,
+      "count": 11,
       "headlines": [
         {
           "title": "Israel will use ‘force’ against Iran if it prevents Lebanon deal implementation: Katz",
@@ -151,12 +223,6 @@
           "region": "Levant"
         },
         {
-          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
           "title": "نتنياهو يكذب السلطة السياسية: لبنان وافق على بقائنا في الجنوب! - Al Akhbar",
           "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPXzJVT0lNSWh3UTdRX2xMQ0dCbG5FdEdUUmZ3ZHdPUkRsWFE0NVV6NHp2dE55bFNSMEpVc3BTa2dXYXpIOW5RRHRXMDZ2RGdPNXFwMURHNlNSOXFId3QzeFpWWVcyZkpyY2JzckNTenc5VjFZY0R4RDZGdlNLRXRKSFEtYjVvbE1lN0hpUVlCVmx3SVYyc0ZOdTYxZ1BJLTd4WUE2Ykk3YllDQWppbXBhdFhCb3FEQ1k2Yzg5RzZkSUdRR05tNzJ4bVpNNGJtdy1kU2lBY05lTVl2eWdSamg3ZWIxSl9rVEM1UEFOcHFtZUpuRjh4ZW13aWNDRUxnQjVKNGhTMXFEQVZicmhoaVoxM3k3Y21sSHFHeE5pdGc4amV0a016S21mM2RrQmlNSGd1Ym1mSTFrREF4UnYwSklNb2pqbVAtemtvN3l6bE54cU1MWnl5YWJmS2RYbmstUHV5cUZ0blVUcGdWcHJUZjRKdFVrWDh6b3Qxc04xMFFIRG9xZnBMcVpaT0kxVm5FbWFJYmhiYkpOS3E3ZHhmeHNta3NZNVFEMGFpNGxwZzluRjhFZVF4aUZHMkV0d08zZG9CNEJZczVpVllrZ3VDTGFpTE5IZkZNWWxKenFLdFZHaldGRE95TDdCY0tkYVNlWmkycFQ0SkdFTQ?oc=5",
           "source": "Al-Akhbar",
@@ -189,80 +255,8 @@
       ]
     },
     {
-      "term": "Israeli",
-      "count": 11,
-      "headlines": [
-        {
-          "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli drone strike hits southern Lebanon day after security deal",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFS2ZWN2prS0NhS1h0Wk00QkxBRVJFTXhNUzZuVlRQOE45M29TX19YNnV5YmpvSVFNUzBtOWwwNjkzakdsY2c1NjZjWVowYkZNX09RZTQ0OEtYNjFwODd6cU1RQ1hkRHVkQ3JMRnpOUzhjM1NVTWhpUFk4VGlJbWc0MXJVbjlFMXZ6NnJpT0o4dF83eGpldGxkbGUzWlJ4UkpKVGd2dFJoX3FUb0lBQTQ5STZfS2ZDZ1lib3FsR3NZcFc3cmlF0gHHAUFVX3lxTE80SEVLZlY3amtLQ2FLWHRaTTRCTEFFUkVNeE1TNm5WVFA4Tjkzb1NfX1g2dXliam9JUU1TMG05bDA2OTNqR2xjZzU2NmNZWjBiRk1fT1FlNDQ4S1g2MXA4N3pxTVFDWGREdWRDckxGek5TOGMzU1VNaGlQWThUaUltZzQxclVuOUUxdno2cmlPSjh0Xzd4amV0bGRsZTNaUnhSSkpUZ3Z0UmhfcVRvSUFBNDlJNl9LZkNnWWJvcWxHc1lwVzdyaUU?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel settlers seizing Palestinian land to open 'tourist' sites",
-          "url": "https://www.newarab.com/news/israel-settlers-seizing-palestinian-land-open-tourist-sites",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
-          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Jordan welcomes Lebanon–Israel framework agreement, calls for full Israeli withdrawal",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemtnWmdSWmRLTzJfRDFSQlRPSFZlS19jVzdRYmxfVHN2ZkgwbXdzRlNCLWR1V2hGd3ZmWmRMMmtDaDJxNlhzS01tTEQyM190TU56Y3g3YlpLOGgxN3ZOc0picEpwNERkbEltd19JQUhzRXRCZEp0UnFVaGRDenlMTm53OXRrNWhOZWZiT2xaNFZNRDlyLVFFWDdCNFBfUWppbVVEY2Q1OEg0cUJ4QnJPQWtUeDg4Y2FhTUE?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "جيش الاحتلال الصهيوني ينسف مباني سكنية شرق مدينة غزة",
-          "url": "https://www.almanar.com.lb/article/983152/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "UN: Israeli war on Gaza leaves tens of thousands with hearing impairments - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vcDY2MDZtZ0NEaFM5bngyTjdPeTNObEN2TTFldU5pMTFGcnRZQjV0dVpOc2h0WkhmYnhTZ0xvQlBRdVVrTHZSdHBfYnpJWm55dnZSVU1ISQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces detain former Palestinian detainee after surrounding his home north of Hebron - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MZlUtbndrVWF6TEttLWRfRk9mVUZabkZ5S1lvUVl4clNHYTVQbmdwakIxR1NNTm9BVUZDa1pOeUJDck1keGJyX0IzdTIwZzNXLUpMUmhDdw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli colonists attack Bedouin community near Khan al-Ahmar - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iX182UEVWOFpkem1seDJtZW15dUxfLS0xWEJfS1pUaGtTM0k1eVEtaWk2eEhleXJhQzNrQUFvZjVIMWZmbFZSSEUyZmt2S3VNSE1oWGdsTQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON3BObXhNa3pXeVI0STRxWGNLTER6RTNJMGVIS21XSEwtY2w4emZYNElXdUZJRjhEaHA2dVc3XzNfeV9uMDBHMUE3Q3B6cGRMYWpJVWFqMmx2aXVhSzJtR1Rjei1scmJKNGRaZl90czRxbWpwRkpBeUFSbFpvSU1VaDJ1R1NVaGYzVVNSZkcxMFdXLWhHVXE5QkxfM0psSWRBUUdwRUd6c0RNMnRaTXROUWFUUzFBQTN6YURrd1pFSS1WakNSSWJmMl9pSnlTOGNxRGFtRzRjblFnYkRMRGxqTEt4SzQzeThiZl9pY29EdGRUR1NWLVRxbm10V19LeW50X3NxU0NYTVc5MjlzWDV2Y1dYckxvRmszblE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Board Member Says $26m in Donations Went Missing From Haredi Israeli Nonprofit",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOS0VwQUpzSFd2TGxCLXlDNjhRcGl4VWNXZzF2Qk9PV3RRSTh4WTJ6TlFwQXVsTjBpdmJQeXRORVdJSktSRjEzdHg0U3Z3MzJhaXhKMjZfemZCOXVpVi1TMkY4NTYxRlFwSG5fLVRXREpwQmNUV2NMQVIzbEpGdE80enFXRGZRY2x2XzZvU3FubXF1aml4S01qTWJaOGZiczhQc0NMMEJJSGFwRy1IMXdLSEZ1SmRYOU9jRkY5QjZtQ2lBSi1IdXd2NE14aVVIY1l4RXY3YVhEN1BHS3NEc3hOSkpXQWY0cWxsMzRxa2NCZmVzaU9WZHFDSjVvU3FqZDN5OFJ4cC0zTEFrM0ZDZnc?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "Arabic",
-      "count": 10,
+      "count": 9,
       "headlines": [
         {
           "title": "طهران بين تثبيت الاتفاق مع واشنطن بالدبلوماسية أو بالقوّة",
@@ -285,12 +279,6 @@
         {
           "title": "كاتس: لن ننسحب من لبنان وسنحافظ على المنطقة الأمنية وحرية العمل",
           "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOLVhhVlQzVDZNSjBURGdIbDhaS2hxbXh1dzZidXBMS21FUDZac0V1aVkySEZSbmtiTlFuSDNIQ1Jqa09ZSm41Zk1lLWdDSDRGRkh2bG9HZUNCeUhHSml2enUxUlZNQktDZGJ2aXhBbTVYOXhWLU5qNnZlb2pDeEFRTFlnRUhORzdQeVFYUFhDXzlwQUZ2SWdrUlpfZXdBZ0xDSzFJSEpnUEN1WDNJOHFsVUJLdHhRa1FsVUxFTnJ6aUpyd3VXaGxweUdRS2Fka2x0X0VaT3ozYXJfQkd4cFd6dXpGb0lkeHNrTkMyeFZKbXluOElrVzFIcVN2Q25sYWdqMzI2WTQ4U21lUU9KMktpNUp2RXQyVURSQmhmWXgzeG1iWEVtb2V6QTYwVlJTV3o4dGpBS01RdmtaZlNaLVc2U0JCMmNkQmhqLW1YcVFSalZVM3pDa0gxczhqT0RoSW8zaUFIc3luS2U1ejdvdTI5cWlSYlRYNTFoUVRnSV9IRUI1YWpoaGs0MDRacnhxeDg2SnBIanJ1eG1YZERkQndkU2RxTlZiYVVvWG1mRzc5YlVUcURld29wODZ4M1o0SV9SRWNDV3Y3RUhJX0xmRm45Qmp4Vi1qalNqUW5hYlZiNnoyOGl1bHh2LXJn0gHuA0FVX3lxTFBYQWNWcmZzbjlvazlqREZ5LWdxWkRsb1FvT25QNDlXUlMzbDdUVFdYTmh0NVdxa1gwME1lSWZXZTZVeV9lc24xenlQRkk3aU12clFzMVlZYnhGekE3Q1NQNEZKUXo1alNpbXpyZW1hNUdPS192c01QYU5yQ296N0phM3BpUWdMWTRGQk5VRjU1dWpfNFlSeUloUFdqSkx1N2dDdVFuYXRkQkxVXzlkUk9PdUFvZ0wxSFNYOTBrc2xLaEZQRER5OG9FVEE0UGE4WWIwV3U0NnVYUWNvNXhkeDJlTjZzdmFZcUxvUG9ta2JjOFRsemI3OE5oUVpJcTJobVE4SUo3R0JMVUJMR213cmFrTnVTU3E5MVBQRFlfbXIwdlpWbVFaRFRSYTM4Z19sQUZwOU5JaVN5ZzBLenZqeWxPcnBLd3BOX2FNQkl2V2ZkWDlXQkRlRU1YQ3Q3M0RlUndMWEFweHpIcVQ5TDJZbU91UGtpV0d6TVNDN2xWbnl0V05ObzVzX1RydnFta2RzTUVIUmJWTW4wR1JGNUc3UzZNRmZWX0h2ajkxRXZfZlJLVURyR0xzZ1BNalliQzEtUk5PcGRhZFdpRk52bld2UWpQcFY2NUhjdzNmZjlhckU3dXNDWXJlRVBqNmowWjdn?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "إسدال الستار على زيارة عاشوراء وسط أجواء من الحزن والأسى",
-          "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPNF9oSmI2Sl9MaFppdkFid0h4Y3hRRTNDU0xTRXduNGQtSnJIeEtmUW5KNXlCTUF0eHRCZG1RbnRiaF9VQUlLTFRDbG84cXRsZkh3X05YblB5b3dyUGp4SDNBNEdmVnpTV2EtcFBEY2MwYzFaS1l3MFRNMTJpU2NFemVJbmlTOWFBcGVNajlWMXZLR0cxal8zOFNuSk93SHhtVl9SZnZ4cFYyNjV0TkFpUzVmaGlxazI1d21zVGEtQ2pNQ1hKNHVZSS1Gb183UUxCcS1BdXJoODBoTXc1Nm5yWTgwdEVmZ0hMNWRNaWt4QzhsdEttMWFhbWNUeDN0cWVEZHdMOXdPUHIyNjY3cW9jZFZldWhMMEhwQmNMcFBodjBxOXJuMGNMUWNUQ1RmOTlxaEhWVUk4QUhuWElzNF9RdTloU1U4RkZrWk9nVnRHTEpkUlFuckRGS081enBEMHJNNktkaVN3ZTVYWHktS3V1N2t1QmgxdDJGb1JJTzhjbXVQTExRck1kc2NkQzhHTHd4RjM4Q3FjeGM2bjZ2Z1ZCeGFoMmpYZk1Na1g3WC1VaEowbklDdmlUSGpxdVc0RVVvMlpZT1ZkMTgtUkNfTWtxUy11VUxzc2F1amc?oc=5",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
@@ -435,60 +423,6 @@
       ]
     },
     {
-      "term": "occupation",
-      "count": 8,
-      "headlines": [
-        {
-          "title": "سورية: قوات الاحتلال الصهيوني المتوغلة في تلة المغر بريف درعا ‏الغربي تطلق النيران باتجاه الأراضي الزراعية المحيطة بالمنطقة",
-          "url": "https://www.almanar.com.lb/article/983172/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "قوات الاحتلال تقتحم قرية برقة شمال غرب نابلس",
-          "url": "https://www.almanar.com.lb/article/983162/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "جيش الاحتلال الصهيوني ينسف مباني سكنية شرق مدينة غزة",
-          "url": "https://www.almanar.com.lb/article/983152/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "قوات الاحتلال تقتحم مخيم قلنديا شمال القدس المحتلة",
-          "url": "https://www.almanar.com.lb/article/983127/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Occupation forces fire tear gas into home in al-Mughayyir, suffocation cases reported - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52M0pqVlYwNzNia2lKLVY0ZVhHaHljQWZOOUFybm9uNk13NGUxTjBRSzZGZGUtbGNVTktIcTQtOHV3Ui10Q2FoRDRuRlFNSElucDcxSFJIYw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "إصابة برصاص الاحتلال في خانيونس",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRURXdG1sM1dHS09IcGNXbmFvemVabDFoMXozbFc2bXg1bTR4ZkFQMVo0SXg0cG5PUWpGenJIaGw2SkpIMTJXMUxack1LZmViU2c0UWdJWl9mUU05MnpZSWhxS0JiblpwY1dVTWxJdDR3aWg0V0N2S3FneTVMUUczX2l0ZTNOQ0NzRnVsVW42WHVqQzBBUjdYbW5nbVdXLU9UZm1GbjktakZWRnBCNW5oeHBydm5JQ1ZiTjhCdVlzY2JHR0xBRzN5UUZaT2VLcHNweW9wRENDV3lHLU1OWTNVMjNvcGZZMmNHa2gwQWFoMTZrUm5scm5SVy1fUnFZdm5ySl85SXJ0bXI1NFhnZy1YMDFWdk9NVWZKTlhmU1hlNkg?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "الاحتلال يحول السجون لمسرح دائم لجرائمه بحق الاسرى",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPREU0OTFRaWpWejNNN3E2MmFDYk5xblVxRm5UZDd0VnlkYWdGTkZzNXVqVzljWl9PQ1lkckVhTzZOcE4ya1h2RjI1Z1lsejE4OC0wTUhUWUFJenJZRDNnSHJ4WmhqU1c2Znh1Z3dISjNjZFFwVWRlVy1adWRfd29ZaFZsWlp3SnNsOVVWNEJSbHZMYUxEa0xCaTZ6RmhkdGR5RFlzZzh3WkFQTHhka1BwUE1aTlpUNWEzY083YmpGX2NZb2NrazRaSnZwa2NCa2tIZzJoZ3kza3pnZHRnMzcxNVIzVHVZWUV4cERfR1E5WkE4UGRHdHpLMmRMWFNXTFNNbkhFQm1kbk5qSkF6S1VNWDNJNHZ4YlFEZ1E0cDVVRFk?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "الاحتلال يغلق مسجد الرأس أمام المصلين في الخليل",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSi1Ka2xYTVIwSWRzbUNiTERQS1JocnpRcG1ZMmdpS0R0VUVhZmJhZlpIUWVfSFpEcUtMRVZaNThxOVE2RVlFNGpRb0FRRWZyZ1FucEViOFhKcTdlQmNUeXZSUWZLR3BoM1FKY285Ujk3QWVwbUdwcHVRaTNTMWFYRmsxUW00Zk9mUEVXMXFBbkV1NkdwOHpadmZQZC1XS1ViSmMtdFZweHhuUW1BRDBycDlhZ2UxMG95WnZteGJrV016dUxNZGtaNUF1Wm52cHFRSzJrbzJYb2RZWnFXWFdVRlVVZktrZ3lwb0lkUlUzR0ZLVHJGX1hnaDVFZlpKWEpod18yUFBraDAwVTV6MFdrSDE3amlTLVVV?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Strait of Hormuz",
       "count": 7,
       "headlines": [
@@ -585,6 +519,54 @@
       ]
     },
     {
+      "term": "occupation",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "No confirmed reports of Israeli occupation claim that it 'took control' of Ali al-Taher",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVXZ6cGgxTTVLMG5XMUJSbEM4WUR0bUlhVnFSSzU3cWxYXzJUdzdHRjVHaTdCQVVyc0Z2Si1HSjJJTlNwMVZuN2lmT3VPTk5UTno2ZnhTbEFUcjFIWlpnTlpBM0FGT3EwWmRkbEd6RXVUZGRiRFVRMm5va1N3WnFnM0lMUDhtWTJUYmRQVFpRVVExak5jMXNfNHFuZ2dqNHhMVjYzUWxIR1pIbGEwSzBIMjVCR2VwaFh3MFloYlBlZnNUZDd4RGIwTnJ3NWtCRjdGQ1Jmbk9zcUg4X283b1NiLWFTZkVHazVhUEZyOWJn?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "سورية: قوات الاحتلال الصهيوني المتوغلة في تلة المغر بريف درعا ‏الغربي تطلق النيران باتجاه الأراضي الزراعية المحيطة بالمنطقة",
+          "url": "https://www.almanar.com.lb/article/983172/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "قوات الاحتلال تقتحم قرية برقة شمال غرب نابلس",
+          "url": "https://www.almanar.com.lb/article/983162/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Occupation forces fire tear gas into home in al-Mughayyir, suffocation cases reported - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52M0pqVlYwNzNia2lKLVY0ZVhHaHljQWZOOUFybm9uNk13NGUxTjBRSzZGZGUtbGNVTktIcTQtOHV3Ui10Q2FoRDRuRlFNSElucDcxSFJIYw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "إصابة برصاص الاحتلال في خانيونس",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRURXdG1sM1dHS09IcGNXbmFvemVabDFoMXozbFc2bXg1bTR4ZkFQMVo0SXg0cG5PUWpGenJIaGw2SkpIMTJXMUxack1LZmViU2c0UWdJWl9mUU05MnpZSWhxS0JiblpwY1dVTWxJdDR3aWg0V0N2S3FneTVMUUczX2l0ZTNOQ0NzRnVsVW42WHVqQzBBUjdYbW5nbVdXLU9UZm1GbjktakZWRnBCNW5oeHBydm5JQ1ZiTjhCdVlzY2JHR0xBRzN5UUZaT2VLcHNweW9wRENDV3lHLU1OWTNVMjNvcGZZMmNHa2gwQWFoMTZrUm5scm5SVy1fUnFZdm5ySl85SXJ0bXI1NFhnZy1YMDFWdk9NVWZKTlhmU1hlNkg?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "الاحتلال يحول السجون لمسرح دائم لجرائمه بحق الاسرى",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPREU0OTFRaWpWejNNN3E2MmFDYk5xblVxRm5UZDd0VnlkYWdGTkZzNXVqVzljWl9PQ1lkckVhTzZOcE4ya1h2RjI1Z1lsejE4OC0wTUhUWUFJenJZRDNnSHJ4WmhqU1c2Znh1Z3dISjNjZFFwVWRlVy1adWRfd29ZaFZsWlp3SnNsOVVWNEJSbHZMYUxEa0xCaTZ6RmhkdGR5RFlzZzh3WkFQTHhka1BwUE1aTlpUNWEzY083YmpGX2NZb2NrazRaSnZwa2NCa2tIZzJoZ3kza3pnZHRnMzcxNVIzVHVZWUV4cERfR1E5WkE4UGRHdHpLMmRMWFNXTFNNbkhFQm1kbk5qSkF6S1VNWDNJNHZ4YlFEZ1E0cDVVRFk?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "الاحتلال يغلق مسجد الرأس أمام المصلين في الخليل",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSi1Ka2xYTVIwSWRzbUNiTERQS1JocnpRcG1ZMmdpS0R0VUVhZmJhZlpIUWVfSFpEcUtMRVZaNThxOVE2RVlFNGpRb0FRRWZyZ1FucEViOFhKcTdlQmNUeXZSUWZLR3BoM1FKY285Ujk3QWVwbUdwcHVRaTNTMWFYRmsxUW00Zk9mUEVXMXFBbkV1NkdwOHpadmZQZC1XS1ViSmMtdFZweHhuUW1BRDBycDlhZ2UxMG95WnZteGJrV016dUxNZGtaNUF1Wm52cHFRSzJrbzJYb2RZWnFXWFdVRlVVZktrZ3lwb0lkUlUzR0ZLVHJGX1hnaDVFZlpKWEpod18yUFBraDAwVTV6MFdrSDE3amlTLVVV?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "Iranian",
       "count": 6,
       "headlines": [
@@ -663,78 +645,6 @@
       ]
     },
     {
-      "term": "Venezuela",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Another powerful magnitude 4.8 earthquake hits near Venezuela",
-          "url": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Jordanian citizen killed in Venezuela earthquake – ministry",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0ZaeF9rNjh3MEdya2VxOThEWWdEaGViQ014RVlCVmxZTzNWZHY1YTB4T05GMWgweXNKS3Nzb2xEMHZhZWd1SW1rUVpuUnV4NmVHRVhFOW5PeTNYSjE1ekpyX1R1XzU5NF9nd1ZCeXl1cWd1OXhPdXk2eF85RHhBUkJwNnMzODJfckJ6a3dJMFVpUVdUY3Aw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "كوستاريكا | الحكومة ترسل 3.4 أطنان من المواد الغذائية لمتضرري زلزال فنزويلا المدمر",
-          "url": "https://www.almanar.com.lb/article/983137/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Qatar joins global rescue mission in Venezuela",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelBZcjRMQ2VVUUJRdEFHNkJwM0hIX2VVYldsdXRmZFNvbGtncFkyX0ZSLWdkSHZHa3FRMndkaFA2ZFZFcFhCcnBEcUNTNVFJSXlULXNQTDdIaUpwdVY4eV9WbXFwMlRPQzZRNmZGUGtVeFVwTjZIVGtpN2xEdkNaMDBoakkzMzEtcDI0R2NFTWxsSGxrZVQ1bm5R0gGfAUFVX3lxTE85dlZoVmpMSmlrU0lTOHFDYjdTdUJEc004a3J2bWxTYXJMNlgtejVoS3hZT0ZBQXpfUlp3NnhOc3FieGxnTzhfN1hFUGlGeklCU2hHRC16b2lINVRna2N4OHNTeDdlZ1ZValBnR2ZhUkJtUWJXZHA0azVyM3ZCUkR0cVU0ZlkyTno2MWRzMy1sM2h1SEZmY0ljVXI5QkYxWQ?oc=5",
-          "source": "Gulf Times",
-          "region": "Gulf"
-        },
-        {
-          "title": "Frustration mounts in Venezuela as earthquake death toll reaches 1,430",
-          "url": "https://www.timesofisrael.com/frustration-mounts-in-venezuela-as-earthquake-death-toll-reaches-1430/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Gaza rescue teams start new phase of operation to recover bodies",
-          "url": "https://www.newarab.com/news/gaza-rescue-teams-start-new-phase-operation-recover-bodies",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
-          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "جيش الاحتلال الصهيوني ينسف مباني سكنية شرق مدينة غزة",
-          "url": "https://www.almanar.com.lb/article/983152/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "UN: Israeli war on Gaza leaves tens of thousands with hearing impairments - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vcDY2MDZtZ0NEaFM5bngyTjdPeTNObEN2TTFldU5pMTFGcnRZQjV0dVpOc2h0WkhmYnhTZ0xvQlBRdVVrTHZSdHBfYnpJWm55dnZSVU1ISQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Poor response to call for mass protests in Gaza over living conditions",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU9HSGRnRFo2R19nQl81ZzVfY3dIVEV2SWRESXRiZzRLZFlqTDJDX1FWRURQbF9VbDlTNTFDUUlRYjhPa09manA3dXppakNzdTYyVjZiQXJPSjh5N19VVHJRbkltbl9jOG5fNy1kNUs5Qjl2UFpGNXBhcTNWU0xLVjRhMG02SjI4QTV5U1dab3FMT3hIR0NzaUR2SGVNRjVjdGYwSXl5aDZ5Q204Tmx6MXJPamhKQVBUVzhYT2JRbUdzZw?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Trump",
       "count": 4,
       "headlines": [
@@ -761,6 +671,66 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUNIBsAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUA?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Venezuela",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Another powerful magnitude 4.8 earthquake hits near Venezuela",
+          "url": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Jordanian citizen killed in Venezuela earthquake – ministry",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0ZaeF9rNjh3MEdya2VxOThEWWdEaGViQ014RVlCVmxZTzNWZHY1YTB4T05GMWgweXNKS3Nzb2xEMHZhZWd1SW1rUVpuUnV4NmVHRVhFOW5PeTNYSjE1ekpyX1R1XzU5NF9nd1ZCeXl1cWd1OXhPdXk2eF85RHhBUkJwNnMzODJfckJ6a3dJMFVpUVdUY3Aw?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Qatar joins global rescue mission in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelBZcjRMQ2VVUUJRdEFHNkJwM0hIX2VVYldsdXRmZFNvbGtncFkyX0ZSLWdkSHZHa3FRMndkaFA2ZFZFcFhCcnBEcUNTNVFJSXlULXNQTDdIaUpwdVY4eV9WbXFwMlRPQzZRNmZGUGtVeFVwTjZIVGtpN2xEdkNaMDBoakkzMzEtcDI0R2NFTWxsSGxrZVQ1bm5R0gGfAUFVX3lxTE85dlZoVmpMSmlrU0lTOHFDYjdTdUJEc004a3J2bWxTYXJMNlgtejVoS3hZT0ZBQXpfUlp3NnhOc3FieGxnTzhfN1hFUGlGeklCU2hHRC16b2lINVRna2N4OHNTeDdlZ1ZValBnR2ZhUkJtUWJXZHA0azVyM3ZCUkR0cVU0ZlkyTno2MWRzMy1sM2h1SEZmY0ljVXI5QkYxWQ?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Frustration mounts in Venezuela as earthquake death toll reaches 1,430",
+          "url": "https://www.timesofisrael.com/frustration-mounts-in-venezuela-as-earthquake-death-toll-reaches-1430/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "Gaza",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Gaza rescue teams start new phase of operation to recover bodies",
+          "url": "https://www.newarab.com/news/gaza-rescue-teams-start-new-phase-operation-recover-bodies",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
+          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "UN: Israeli war on Gaza leaves tens of thousands with hearing impairments - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vcDY2MDZtZ0NEaFM5bngyTjdPeTNObEN2TTFldU5pMTFGcnRZQjV0dVpOc2h0WkhmYnhTZ0xvQlBRdVVrTHZSdHBfYnpJWm55dnZSVU1ISQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Poor response to call for mass protests in Gaza over living conditions",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRU9HSGRnRFo2R19nQl81ZzVfY3dIVEV2SWRESXRiZzRLZFlqTDJDX1FWRURQbF9VbDlTNTFDUUlRYjhPa09manA3dXppakNzdTYyVjZiQXJPSjh5N19VVHJRbkltbl9jOG5fNy1kNUs5Qjl2UFpGNXBhcTNWU0xLVjRhMG02SjI4QTV5U1dab3FMT3hIR0NzaUR2SGVNRjVjdGYwSXl5aDZ5Q204Tmx6MXJPamhKQVBUVzhYT2JRbUdzZw?oc=5",
+          "source": "The National",
+          "region": "Gulf"
         }
       ]
     },
@@ -1187,24 +1157,6 @@
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
           "source": "The National",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Syrian",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "A Damascus delusion: The myth of a Syrian solution for Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUI4Vkszc0ItRkRBbmRzUks4TExIRE5xWFpmNVFSM1ZFQ0FrMWFfVXQtMEplQlU2dnhpbElycGxmeGNKOGpTem15c09XRG10b3FNdTI5ME9rX0JMTFJzNFlLaDR6d3U3S0Uxc0ZUZFp0dHM3MzFfYW1CWFZXTlJ1Nk1hYm13VERpUVBlS1lyZ29zbmtQTzhiVHpqVUZSMFRlYU1YUEhLWmxmbWpsNG5tZnZzLWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "سورية: قوات الاحتلال الصهيوني المتوغلة في تلة المغر بريف درعا ‏الغربي تطلق النيران باتجاه الأراضي الزراعية المحيطة بالمنطقة",
-          "url": "https://www.almanar.com.lb/article/983172/",
-          "source": "Al Manar",
-          "region": "Levant"
         }
       ]
     },
