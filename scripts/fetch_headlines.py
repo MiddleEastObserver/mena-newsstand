@@ -61,24 +61,9 @@ SOURCES = {
             "rss": "https://www.arabnews.com/cms/rss/section/1.xml",
         },
         {
-            "source": "The National", "country": "UAE", "lang": "en",
-            "url": "https://www.thenationalnews.com",
-            "rss": "https://www.thenationalnews.com/rss.xml",
-        },
-        {
             "source": "Gulf News", "country": "UAE", "lang": "en",
             "url": "https://gulfnews.com",
             "rss": "https://gulfnews.com/rss",
-        },
-        {
-            "source": "Gulf Times", "country": "Qatar", "lang": "en",
-            "url": "https://www.gulf-times.com",
-            "rss": "https://www.gulf-times.com/rss",
-        },
-        {
-            "source": "Times of Oman", "country": "Oman", "lang": "en",
-            "url": "https://timesofoman.com",
-            "rss": "https://timesofoman.com/rss",
         },
     ],
     "Levant": [
@@ -116,23 +101,6 @@ SOURCES = {
             "source": "Falastin al-Youm", "country": "Palestine", "lang": "ar",
             "url": "https://paltoday.ps",
             "rss": "https://paltoday.ps/feed",
-        },
-    ],
-    "Israel": [
-        {
-            "source": "Jerusalem Post", "country": "Israel", "lang": "en",
-            "url": "https://www.jpost.com",
-            "rss": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
-        },
-        {
-            "source": "Times of Israel", "country": "Israel", "lang": "en",
-            "url": "https://www.timesofisrael.com",
-            "rss": "https://www.timesofisrael.com/feed/",
-        },
-        {
-            "source": "Haaretz", "country": "Israel", "lang": "en",
-            "url": "https://www.haaretz.com",
-            "rss": "https://www.haaretz.com/srv/htz---all-articles",
         },
     ],
     "Pan-Arab": [
@@ -370,7 +338,7 @@ WEATHER_FILLER_RE = re.compile(
 
 # Order regions appear in the Headlines tab (the site renders them in the order
 # they're written to headlines.json).
-REGION_ORDER = ["Pan-Arab", "Levant", "Gulf", "Israel", "Iran", "Turkey"]
+REGION_ORDER = ["Pan-Arab", "Iran", "Levant", "Gulf", "Turkey"]
 
 GNEWS_LOCALE = {
     "en": ("en-US", "US", "US:en"),
