@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T10:47:22.445336+00:00",
+  "updated": "2026-06-28T10:55:19.694162+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,12 +8,6 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
-          {
-            "title": "‘US trying to find its way out of MoU with Iran’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
-            "published": "2026-06-28T10:30:45+00:00",
-            "snippet": "Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a second day of US strikes on Iran."
-          },
           {
             "title": "Iraq security forces arrest several officials in anticorruption crackdown",
             "url": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
@@ -37,6 +31,12 @@
             "url": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss",
             "published": "2026-06-28T07:12:10+00:00",
             "snippet": "New Caledonia is holding its first provincial elections since 2019, with approximately 2,500 police officers deployed to ensure security at polling stations."
+          },
+          {
+            "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
+            "url": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
+            "published": "2026-06-28T06:41:07+00:00",
+            "snippet": "Time is running out in Venezuela's race to locate survivors as experts highlight the crucial 72-hour rescue window."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Israeli soldier killed in southern Lebanon",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-southern-lebanon",
+            "published": "2026-06-28T10:51:23+00:00",
+            "snippet": "Israeli soldier killed in southern Lebanon The Israeli military has announced that an Israeli solider was killed on Saturday night in southern Lebanon. The military named the soldier as David Hazutt, aged 21."
+          },
           {
             "title": "IRGC says it will respond to US attacks 'more strongly than before'",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-will-respond-us-attacks-more-strongly",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-under-total-iranian-control-says-araghchi",
             "published": "2026-06-28T08:54:52+00:00",
             "snippet": "Iran's Foreign Minister Abbas Araghchi stated that the Strait of Hormuz is under Iran's complete control. He mentioned this during a press conference in Iran with his Iraqi counterpart."
-          },
-          {
-            "title": "Israel bombs southern Lebanon",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bombs-southern-lebanon",
-            "published": "2026-06-28T08:52:02+00:00",
-            "snippet": "The Israeli military bombed southern Lebanon on Sunday morning, with Lebanese media reporting strikes on the village of Deir Seryan and on homes in Khiam."
           }
         ],
         "error": null
@@ -165,16 +165,16 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
-            "title": "روسيا: إسقاط 213 مسيّرة أوكرانية.. وتصفية ضابط في استخبارات كييف",
-            "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNeTlDMEwxSDEtb0hqd0ZodnVac0dMTDV4ZW56dkd1WWFBR2VyVVlFcG9HWXlRbER6Q3htR3Vwbl81aVl1SktBSTlFQW9vNkxVNE52ZEtPdEVCV09Lem5oczQ2V25vWG94a0wwckVreG12QjhiN1AwWmpsUTYzMkZZd0h6Y0Y3Q3g2SHZsbWtEdi1TYkpqLVlXQ29VY1lTSGkyalNZT3ZSVkZORFlkcG9yNHdWWU56d3ZNQ1phRDJfanBxNXlvYlpCT2dQRW1OS3NKdU5jX3FmMWdTWkUzTXR5ZUlzam5iMzJ5cGcyQ211TzZDdkVDUG9za0RrYWlvN1hjVzJVTzl5UnlpblZBS1VfYzVlNzFHTExzODZrSklpQ25VUnktS3ZzUnRuai1WbThtZVdKdUFjaWw1TWtKOFNUeXNyTV8xY3VFLTdvcmtnYXBtSm50cDhJN2VhOGRDLWMydDUwNkE0a0R3SWh1OWNPVnBoc1JMMmdmcjNLXzVJQWNQRnZCNkVMaXVndURkYVlBbGN4X2o1a2FkUFNxN0hkMnZ2b0NsS3pFTmRsbDAzU3h0QjlUQ1dfTWtvN3ROM0o3elpFTVBmSXpBQklnQXcw0gHTA0FVX3lxTE1NYjkxdlJtWUVnUXUtWkJRd3FtQmI5LXg0SEN1ZjZibUEwRmRjT2dZbmpvZGdIVkF1MUh4cFJDQVIzU2lyaUZNZ21GYkxjUWo4WWU2WWpGbnh2VW9OLXNpRVZ5U2VvT1VLM0MyeHRkMjI4T1VjeElCajlHdmpyTzhGRjViNHlXVEFTSVNpTmo1OFFOVmhIN05zUDJlX09YNURxOGk5U2ZPdUI3RDhxRFcxYVRoMmlEUVZiQ0xPVjFOMjJveExpZ3JFQzc1ekhLLTAtR2o4UXBMZ1MxQ245QlVUNlpXbGFJRVRvZGJQdlZocl9tenhLVWhUNEJkMUk3RFFmTFZBaFBUUzFkSXJydDdRS3hIdXZrTVZUWnYxaV9TZV9lNnJLNEd2WW80NWhfYmc4TjAwQm00TlJmTkJfallvaFlVVWpuS3ZWYzF0ek9MUkNWNDhTM1FHOElSTk5VXzB4dmxFRE1ONUZlNG1KSmRjQzIxbnB3NDdhclZXdkppazNyTFJ0cnN5S19xTnN0eXRURHdJSkxXRUw0SkY2cEJpSlZsLXJWQ3E3bGNRdG9uaVNIUks1ZktLRTZITWdoaHZ2QXhtMGNqSFNUZmdjWGFVanZR?oc=5",
-            "published": "2026-06-28T06:49:44+00:00",
-            "snippet": "روسيا: إسقاط 213 مسيّرة أوكرانية.. وتصفية ضابط في استخبارات كييف almayadeen.net"
-          },
-          {
             "title": "وسائل إعلام إسرائيلية: \"إسرائيل هيوم\": في المؤسسة الأمنية يدعمون الاتفاق الذي وُقّع مع الحكومة في بيروت لكنهم يبدون شكوكاً بشأن نجاحه",
             "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQOTN3d3NiRGptQWlMeTI3RnFaa0dkY2MwZExrQlpJeWUxNDVTSGhmdWtFR2dOb0J5a2dlZVVUZDNuYnZQUDl2OWtlTk10c3Y0UC16Qk9neWxRd09jY05Gd0V2cTVrcWhlX1lSamNRZjJxcDJVMnhoeVpSWW9RQ25leGRqbXpoM2Mtclg4V2h6dWhhSVo4QnRsdnd2SEtLbWNxZXJ4SnY3Q1Z2b0t0dDVTU0tUSWhHbE95anhZNjdDMkY5TzVud25XTHRKOERUWFFCN01ScVpJc1QxZ2xhOExaX2xNN3RFMmtjOGxkY0VTT0ZXb2ZPM2dmbC1EUnBTSzYyX2YwMWVKWXE1eHNZMFBFMjZ6Ni1PeUhja2Nic1NvbnVLQXUwdFJaV0NHODFzMGQ2eHgwaDVCWTdTLWhMSkxNSjBKbzF6Z1V2ME1MVjFXakRjd2NtdlVHSkFpOXBEbGNZRHpOckdFSlhOZTh5TFhpZXFfZDllZlNXSVdyY0R4aWVUT1JmM1JhcUVjUnA4Uk1vcTRLNU1lVjlTMjhBVzZwN0NobVI1QmI5Wm9iNmQ1eGZ0UXQwNGhxSjdMMXFxOFBBOHZOZWF1Q0tvbUFLOWozN2w5TTFZVlA0eHlmYmtHQ0dpYWtSa0RncURRX1Y?oc=5",
             "published": "2026-06-28T06:38:02+00:00",
             "snippet": "Israeli media outlets report that within the security establishment, there is support for the agreement signed with the government in Beirut, though doubts exist about its success."
+          },
+          {
+            "title": "نشرة الثامنة صباحا",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQVVzcFFoTzF4Zl9GWHl5a19YX3hJVTZUd1FXYUxBVncxTXlHZTBibGtMMk1OWEpEdzFQRjkxdTZWbXZQYmJrLTRIQnI2ZEpDWWNKS3FWYXE5VkVVNzV4c3NrbW5yQlJDVUM0WjQ4TjdmWjByUEpleGotdGM5LUFsWnpxNTZFakZQbkU2QTRHLWZxMV9obVVVdkpyY1JoczRiTmxxaGloSGNqUmVQdFVkcWg5aElZSWlaS2xzbTVzemt5UUNIeXBUVHZsX09vRGpuT2w3OGphejFKVkpZ?oc=5",
+            "published": "2026-06-28T03:00:00+00:00",
+            "snippet": ""
           },
           {
             "title": "تصعيد في مضيق هرمز واتفاق واشنطن يوسع الجدل في لبنان",
@@ -362,6 +362,18 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "السيد خامنئي: إن الأمر المؤكد هو ملاحقة المجرمين ومحاسبتهم ومعاقبتهم على أعمالهم الإجرامية",
+            "url": "https://www.almanar.com.lb/article/984097/",
+            "published": "2026-06-28T10:49:24+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "السيد مجتبى خامنئي: إن من أهم المسائل القانونية والقضائية المتعلقة بكل شعب إيران في هذه المرحلة الزمنية، هو متابعة وإنصاف الحقوق المهدورة لهم نتيجة جرائم المجرمين الدوليين والمستكبرين والمعتدين العالميين",
+            "url": "https://www.almanar.com.lb/article/984087/",
+            "published": "2026-06-28T10:48:26+00:00",
+            "snippet": ""
+          },
+          {
             "title": "كلمة لقائد الثورة والجمهورية الاسلامية السيد مجتبى خامنئي في رسالة بمناسبة أسبوع السلطة القضائية في ايران",
             "url": "https://www.almanar.com.lb/article/984077/",
             "published": "2026-06-28T10:46:48+00:00",
@@ -378,18 +390,6 @@
             "url": "https://www.almanar.com.lb/article/984052/",
             "published": "2026-06-28T10:30:28+00:00",
             "snippet": "أعلنت وسائل إعلام العدو اليوم الأحد “مقتل ضابط برتبة نقيب في معركة في جنوب لبنان الليلة الفائتة”."
-          },
-          {
-            "title": "فيديو يوثّق لحظة إصابة عناصر من الجيش الإسرائيلي بنيران المقاومة الإسلامية",
-            "url": "https://www.almanar.com.lb/article/984037/",
-            "published": "2026-06-28T10:09:50+00:00",
-            "snippet": "عرضت قناة كان العبرية مقطع فيديو يوثّق لحظة إصابة عناصر من الجيش الإسرائيلي بنيران المقاومة الإسلامية في منطقة مارون الرأس بتاريخ 25/03/2026."
-          },
-          {
-            "title": "النائب ابراهيم الموسوي: اتفاق جوزاف عون ونتانياهو لا يعني لبنان ولا يعنينا أبداً ولا يعني كل مواطن لبناني حر شريف مستقل",
-            "url": "https://www.almanar.com.lb/article/984027/",
-            "published": "2026-06-28T10:00:40+00:00",
-            "snippet": "Member of Parliament Ibrahim Al Mousawi stated that the agreement between Joseph Aoun and Netanyahu does not represent Lebanon or any free, honorable, independent Lebanese citizen."
           }
         ],
         "error": null
@@ -400,6 +400,12 @@
         "lang": "en",
         "url": "https://english.wafa.ps",
         "headlines": [
+          {
+            "title": "Gaza death toll rises to 73,054 since October 2023, medical sources say - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CM1ViMkY5Vlh5Z0hWUXdhc19YdEZBcm4wRzJLT1puRzNxQmp6MmdiekJkSDlIdEs2aktHMFg1MUhHT19menV0UlktQlZmYWpzaFIwN1hiVQ?oc=5",
+            "published": "2026-06-28T10:49:40+00:00",
+            "snippet": "Gaza death toll rises to 73,054 since October 2023, medical sources say WAFA Agency"
+          },
           {
             "title": "Israeli colonists attack sheep herders in Al-Rashaydeh village, near Bethlehem - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNVhKNEg3aVotd3BFNXlRYV92X2dVN3BNQXlnLWJCVkhXcElJcGNyZEJEZnNpNGxEYjBMTXNQZHQ3b2pRaVFNSVItTE5lZjJZdkdFeTFOOA?oc=5",
@@ -423,12 +429,6 @@
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbjhFd212enhqYlhJUjRfVlJoMUtseGd6ZlNGbjE3WkM0RHVNVlU4dlY3MlpFUnF0bU9iZGN5NDVOQ1FxUTJZMS1JbDl2ZWFlNHBzNzRTaw?oc=5",
             "published": "2026-06-28T06:52:07+00:00",
             "snippet": "Israeli forces detained two Palestinians, including a journalist, during a raid in Sebastia."
-          },
-          {
-            "title": "Israeli settlers assault Palestinians in Masafer Yatta, raise Israeli flags in Umm al-Kheir - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TX195ZDJFSHptMnN0MlZjd1MyVHNaaUVvOUVneFlSbTNWdVVaUUJNWEdIdjl2eVU1LUJ5dW5qQmNxWEhkcG83ZW9jX3hFV1JUS0ZEUl9CWQ?oc=5",
-            "published": "2026-06-28T06:36:00+00:00",
-            "snippet": "Israeli settlers assaulted Palestinians in Masafer Yatta and raised Israeli flags in Umm al-Kheir."
           }
         ],
         "error": null
@@ -637,10 +637,10 @@
         "url": "https://timesofoman.com",
         "headlines": [
           {
-            "title": "Seychelles confers 'Guardian of the Blue Horizon' title on Indian PM Modi",
+            "title": "Seychelles confers 'Guardian of the Blue Horizon' title on cPM Modi",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGFzeDhEXzB2NlVXNERhVmI4QjlsNERHQ21RbzhMZmwzQnkxQTA1SWJQeEc3Y0wzSE1mVkJKUUtpT2ItdnhhRG1rSVJKelFLTmN0QTJzM1U1d0NNTkFnSnladFhzbG92enBtdU0ydVlveGc5bmRaM1VHdUMteUZtT1M5QkdXeXJxajhMeXhiT1ViY1FMcEZ4ZG1oYXBJd011S0lfTkNOSQ?oc=5",
             "published": "2026-06-28T10:29:00+00:00",
-            "snippet": "Seychelles confers 'Guardian of the Blue Horizon' title on Indian PM Modi Times of Oman"
+            "snippet": "Seychelles confers 'Guardian of the Blue Horizon' title on cPM Modi Times of Oman"
           },
           {
             "title": "Oman condemns military attacks on Kuwait",
@@ -678,34 +678,34 @@
         "url": "https://www.jpost.com",
         "headlines": [
           {
+            "title": "French authorities responding to incident involving civilian aircraft",
+            "url": "https://www.jpost.com/international/article-900709",
+            "published": "2026-06-28T13:44:30+00:00",
+            "snippet": "Newspaper L'Est Republicain reported that a plane that was transporting a group of people for a baptism had crashed."
+          },
+          {
+            "title": "As Supreme Court's term nears its end, three major Trump rulings are due",
+            "url": "https://www.jpost.com/american-politics/article-900708",
+            "published": "2026-06-28T13:31:46+00:00",
+            "snippet": "The court, which has a 6-3 conservative majority, has seven disputes still to be resolved, and has set Monday as its next day to issue rulings."
+          },
+          {
+            "title": "Israel damaged heritage sites during ops. against Hezbollah, Lebanese culture minister says",
+            "url": "https://www.jpost.com/middle-east/article-900707",
+            "published": "2026-06-28T13:03:31+00:00",
+            "snippet": "Israel's security zone in southern Lebanon includes the medieval Beaufort Castle as well as centuries-old villages that were home to Christians, Shi'ite Muslims, and Sunni Muslims."
+          },
+          {
+            "title": "Surge in Aliyah of young, skilled olim despite wartime challenges, 22,522 moved to Israel in 2025",
+            "url": "https://www.jpost.com/aliyah/article-900706",
+            "published": "2026-06-28T12:45:11+00:00",
+            "snippet": "The sharpest increase came from French Jewry, with a 51% rise in immigration, while immigration from the United States continued its upward trend, reaching 3,781 immigrants."
+          },
+          {
             "title": "France records 1,000 excess deaths during record-breaking heatwave",
             "url": "https://www.jpost.com/international/article-900705",
             "published": "2026-06-28T12:38:01+00:00",
             "snippet": "France recorded over 1,000 excess deaths during a record-breaking heatwave, described as the worst in Europe."
-          },
-          {
-            "title": "Hezbollah terrorist kills IDF officer, wounds another soldier, during southern Lebanon operation",
-            "url": "https://www.jpost.com/israel-news/defense-news/article-900702",
-            "published": "2026-06-28T12:36:21+00:00",
-            "snippet": "Cpt. David Hazutt, a platoon commander, was killed by Hezbollah during an operation in southern Lebanon."
-          },
-          {
-            "title": "Marco Rubio just got Lebanon to do something it hadn't done since 1983 - comment",
-            "url": "https://www.jpost.com/opinion/article-900704",
-            "published": "2026-06-28T12:35:34+00:00",
-            "snippet": "Marco Rubio facilitated an agreement with Lebanon that had not been achieved since 1983."
-          },
-          {
-            "title": "Middle East nears regional chaos again as Trump threatens Iran, Iraqi raids escalate tensions",
-            "url": "https://www.jpost.com/podcast/jpost-headlines/article-900703",
-            "published": "2026-06-28T12:32:21+00:00",
-            "snippet": "The Middle East is nearing regional chaos as Trump threatens Iran and Iraqi raids escalate tensions."
-          },
-          {
-            "title": "'Never too late': Israeli gov't unilaterally votes to recognize Armenian Genocide",
-            "url": "https://www.jpost.com/israel-news/article-900699",
-            "published": "2026-06-28T12:28:20+00:00",
-            "snippet": "The Israeli government has unilaterally voted to recognize the Armenian Genocide, an act previously avoided due to diplomatic sensitivities with Turkey."
           }
         ],
         "error": null
@@ -756,10 +756,10 @@
         "url": "https://www.haaretz.com",
         "headlines": [
           {
-            "title": "Analysis • Rejuvenated German Left party affirms: Gaza war is genocide, Israel should exist",
+            "title": "Rejuvenated German Party The Left Affirms: Gaza War Is a 'Genocide,' and Israel Has a Right to Exist",
             "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaEFQSDduYnJwRWk4NDV2aFRnSkx5VWxXZDk4VXdTY3RjV3VSeV9Ob0plRWJUVVdvbHRsbUpqMno0RVBveGhKMDZkTlFieTdXVjlJXy1DWm9mOFhic1BJRnJleW1oXy1sNURCTGNXU1JUZXNlbUU4d3doN0VFVlZhMzZHbTJKXzF2aDdwbFBnSHZzY25SVnJKd25UM3RJbUNpbXJEZFZaQVJHQVgyZ3VkZ3gzc3lob05IMWZwcGlxZEE5S3BRWHlDMFd4Z1VZTnl3VXlOeWNGY2hPbTRyb2RTZU5XMzlGem1DN002cVduX3dGaTZKdHdLd19tSFMxTzAzMlgyQTVJUzFsU3otX3pQZHBpNjFsUUdKUWloMTdmWkEtVTA?oc=5",
             "published": "2026-06-28T08:00:00+00:00",
-            "snippet": "Germany's Left party affirmed that the Gaza war is genocide, yet stated Israel should exist."
+            "snippet": "Rejuvenated German Party The Left Affirms: Gaza War Is a 'Genocide,' and Israel Has a Right to Exist Haaretz"
           },
           {
             "title": "Advanced Israeli systems sold to Qatar, Saudi Arabia, documents and images show",
@@ -877,34 +877,34 @@
         "url": "https://www.aa.com.tr/en",
         "headlines": [
           {
-            "title": "4 dead in US' Kentucky flooding as governor declares state of emergency",
-            "url": "https://www.aa.com.tr/en/americas/4-dead-in-us-kentucky-flooding-as-governor-declares-state-of-emergency/3980335",
-            "published": "2026-06-28T09:52:51+00:00",
-            "snippet": "More than 6 inches of rain inundated parts of state, prompting water rescues, flash flood warnings, media reports"
+            "title": "Turkish Stars aerobatic team draws thousands at Belgian Air Force Days",
+            "url": "https://www.aa.com.tr/en/turkiye/turkish-stars-aerobatic-team-draws-thousands-at-belgian-air-force-days/3980368",
+            "published": "2026-06-28T10:49:09+00:00",
+            "snippet": "Team of top-notch military pilots delivers event's longest flight with 7 NF-5 aircraft at Belgian Air Force Days"
           },
           {
-            "title": "Israeli forces injure Palestinian, detain 17 in West Bank raids",
-            "url": "https://www.aa.com.tr/en/middle-east/israeli-forces-injure-palestinian-detain-17-in-west-bank-raids/3980331",
-            "published": "2026-06-28T09:44:23+00:00",
-            "snippet": "Journalist among those detained in Israeli raids, mayor says"
+            "title": "Russia claims to have captured 2 more settlements in Ukraine",
+            "url": "https://www.aa.com.tr/en/eurasia/russia-claims-to-have-captured-2-more-settlements-in-ukraine/3980366",
+            "published": "2026-06-28T10:46:58+00:00",
+            "snippet": "Pysantsi in Ukraine's Dnipropetrovsk region and Novoselivka in Zaporizhzhia region under Russian forces control, according to Defense Ministry"
           },
           {
-            "title": "Turkish search and rescue teams begin work in Venezuela",
-            "url": "https://www.aa.com.tr/en/americas/turkish-search-and-rescue-teams-begin-work-in-venezuela/3980326",
-            "published": "2026-06-28T09:33:38+00:00",
-            "snippet": "AFAD, Turkish Armed Forces teams start rescue efforts at collapsed 14-story building in quake-hit La Guaira"
+            "title": "Israel confirms killing 3 Palestinian policemen in latest Gaza ceasefire violation",
+            "url": "https://www.aa.com.tr/en/middle-east/israel-confirms-killing-3-palestinian-policemen-in-latest-gaza-ceasefire-violation/3980365",
+            "published": "2026-06-28T10:45:14+00:00",
+            "snippet": "Gaza’s Interior Ministry says killings reflect ‘Israel’s insistence on spreading chaos’ in Gaza"
           },
           {
-            "title": "Iraq arrests officials, including lawmakers, on corruption charges",
-            "url": "https://www.aa.com.tr/en/middle-east/iraq-arrests-officials-including-lawmakers-on-corruption-charges/3980322",
-            "published": "2026-06-28T09:30:00+00:00",
-            "snippet": "Arrests based on 'confessions' made by former Deputy Oil Minister Adnan al-Jumaili, according to senior Iraqi source"
+            "title": "Iran says it is coordinating with Iraq on Khamenei’s funeral at Shia holy sites",
+            "url": "https://www.aa.com.tr/en/middle-east/iran-says-it-is-coordinating-with-iraq-on-khamenei-s-funeral-at-shia-holy-sites/3980362",
+            "published": "2026-06-28T10:43:31+00:00",
+            "snippet": "Iraq, Iranian foreign ministers gather in Baghdad; discuss escalation between Iran and the US, developments in Strait of Hormuz, Khamenei’s funeral"
           },
           {
-            "title": "Russia claims Ukrainian intelligence officer killed in Ukraine",
-            "url": "https://www.aa.com.tr/en/eurasia/russia-claims-ukrainian-intelligence-officer-killed-in-ukraine/3980306",
-            "published": "2026-06-28T09:05:03+00:00",
-            "snippet": "Moscow says Ukrainian colonel accused of organizing attack in Crimea was killed in Ukraine last month"
+            "title": "3 Bangladeshi police officers sentenced to death for killing protesters in 2024 uprising",
+            "url": "https://www.aa.com.tr/en/asia-pacific/3-bangladeshi-police-officers-sentenced-to-death-for-killing-protesters-in-2024-uprising/3980361",
+            "published": "2026-06-28T10:41:55+00:00",
+            "snippet": "Special tribunal in capital Dhaka hands down death penalty in absentia for crimes against humanity"
           }
         ],
         "error": null
@@ -994,34 +994,34 @@
         "url": "https://www.trtworld.com",
         "headlines": [
           {
+            "title": "Turkish rescue teams begin search operations in quake-hit Venezuela",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OSFUyYlJEM3RpbUlRSDJldUtlUHdsZVRNRTdfQjNzSzNSRWdPTkhvSUtmWjgyR0VYRFZTN3RWYktLa1F6MUlWN2g4WHVneHBqYnZYSDBiWm8?oc=5",
+            "published": "2026-06-28T10:10:14+00:00",
+            "snippet": "Turkish rescue teams begin search operations in quake-hit Venezuela TRT World"
+          },
+          {
             "title": "Live blog - US-Israeli war on Iran",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
             "published": "2026-06-28T08:00:14+00:00",
             "snippet": "Live blog - US-Israeli war on Iran TRT World"
           },
           {
+            "title": "Netanyahu declares intention to form 'broad national govt' after next election",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbjNtYWhMcjV0RE1qWWp4Z21sRkh2VjExWmFCaWdYYnI1WjUwZ0x4S3pWZkxqVHpZUGVRbDVBM1F6YVhmbTk1QmV4ZEJLdGFIZDlvSllNQ0M?oc=5",
+            "published": "2026-06-28T03:18:10+00:00",
+            "snippet": "Netanyahu declares intention to form 'broad national govt' after next election TRT World"
+          },
+          {
+            "title": "Israel kills 3, wounds 25 Palestinians in Gaza in strikes on displacement tents",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcE5qT0REdlV3QXJFak5CMG84U3dOU3NES2pCSHJ2TjRuRVlTVXRyZmI5cXNnN0hZdlJiaFlrNTZLeTlfU3hLMjJOcThxY1FObzlDYTFJM1hkUE5NWkhJRXRwTzdJS3VxNzluS243QkRYOVkwYkRNMEFmbkxhQWE4WTd6WWdFckJQcVlWaTM2djZyR2VxZ1pBNTZnNWdQeldRQ2cyZU02aUJJYXNrakxvMmw3eWxaTWZDQUdXc2VxSkhUVTIwZm5Lbkx2SGwzVmtNd0FoT3p0VXU2cWhXaU92YXBhbHhBUQ?oc=5",
+            "published": "2026-06-28T02:33:55+00:00",
+            "snippet": "Israel kills 3, wounds 25 Palestinians in Gaza in strikes on displacement tents TRT World"
+          },
+          {
             "title": "US forces launch fresh strikes against multiple targets in Iran",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mYlZwYXJmaXB1LVpuRTV4cHB2TWtLQzlEaHkzX0VlUE9wNTV4eGJtWUU5SWRRd0JKTFJDT2E1V1Rtd0VnMTBYTmhyalZiMzdPRzdZUTVmbjY?oc=5",
             "published": "2026-06-27T23:17:56+00:00",
             "snippet": "US forces launch fresh strikes against multiple targets in Iran TRT World"
-          },
-          {
-            "title": "The world after Hormuz: Can Türkiye become a trade bridge between Asia and Europe?",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QeTJWMDI3LXhBMDVxTTJIaGdvUGloa2dJTWloWGNpeTkyQlUwdTlwYjVEMGUzdXlrNjNQWmtvSVZ2ZnE3cWlkQlFGVmdFTURJTDlaenNZVVg?oc=5",
-            "published": "2026-06-27T20:59:50+00:00",
-            "snippet": "The world after Hormuz: Can Türkiye become a trade bridge between Asia and Europe? TRT World"
-          },
-          {
-            "title": "War on Iran",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aT1NUbUZxdVZaanV5MzN5Z1NEMVp5ODlhZF9zdHFaRXg3MkdZQWZYcVY0WjU2TUZIOTE5RHlQengwaFhVYlF6ZGF5Vkw?oc=5",
-            "published": "2026-06-27T19:32:45+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "Venezuela death toll rises as UN estimates twin quakes wiped 6% of GDP",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94R1h4ZmdtcXBBNFdfYlE2SFJBVWlWU1NNUmJUM1Buc3hSZjBCRTZPTHZNcldfTFJ5c0FSMEFwNk1mWnljWlNRS1ZKUVVGWEtlSVdNdnAxTnI?oc=5",
-            "published": "2026-06-27T19:19:19+00:00",
-            "snippet": "Venezuela death toll rises as UN estimates twin quakes wiped 6% of GDP TRT World"
           }
         ],
         "error": null
