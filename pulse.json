@@ -1,11 +1,17 @@
 {
-  "updated": "2026-06-28T14:25:16.193958+00:00",
+  "updated": "2026-06-28T14:54:02.767934+00:00",
   "total_headlines": 105,
   "terms": [
     {
       "term": "Israeli",
-      "count": 12,
+      "count": 10,
       "headlines": [
+        {
+          "title": "Israeli attacks kill three in Gaza over past 24 hours",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Israeli soldiers shoot at journalists in Syrian village",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-journalists-syrian-village",
@@ -15,12 +21,6 @@
         {
           "title": "Israeli extremists are terrorising Palestinian Christians and their holy sites",
           "url": "https://www.middleeasteye.net/opinion/israeli-extremists-are-terrorising-palestinian-christians-and-their-holy-sites",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli soldier killed in southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-southern-lebanon",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -37,15 +37,15 @@
           "region": "Iran"
         },
         {
-          "title": "Brother and sister killed in Israeli attack on Gaza safe zone",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJxclN6UmhTUG9KazFRMktKZjA1aElzcU1OTWJFeWxnbWRvWXVOa1YxZDgxRFd1a2tkZlZaV09UQ0k5TGd3UG1XeXlMdkJMT3pfNHRqZVpSUDd2SUFMM0FpOFBXQ3BqSkstaWRSLWtfRWpobngyZXBwbHRiV3ZTam42LXZieUlwXzN3LWxKS0xvdnFYU2dkV3pYMkdmUQ?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
           "title": "No confirmed reports of Israeli occupation claim that it 'took control' of Ali al-Taher",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVXZ6cGgxTTVLMG5XMUJSbEM4WUR0bUlhVnFSSzU3cWxYXzJUdzdHRjVHaTdCQVVyc0Z2Si1HSjJJTlNwMVZuN2lmT3VPTk5UTno2ZnhTbEFUcjFIWlpnTlpBM0FGT3EwWmRkbEd6RXVUZGRiRFVRMm5va1N3WnFnM0lMUDhtWTJUYmRQVFpRVVExak5jMXNfNHFuZ2dqNHhMVjYzUWxIR1pIbGEwSzBIMjVCR2VwaFh3MFloYlBlZnNUZDd4RGIwTnJ3NWtCRjdGQ1Jmbk9zcUg4X283b1NiLWFTZkVHazVhUEZyOWJn?oc=5",
           "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Several injured in Israeli airstrike targeting tent sheltering displaced people in Khan Younis - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WZHE2N2hyMXJmQkd2NThNdDFDOF9YNTR4eDY2OEk1QnpiZjVnaEt4Ylo5Q005TTRuTU1MaXVjNGN0RlhOaC1jZWVIbF94LVo4dnJ2LVJIYw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
@@ -61,18 +61,6 @@
           "region": "Levant"
         },
         {
-          "title": "Israeli forces begin construction of colonial road on Palestinian land west of Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FV1hsZHRVc2JaQ0RwYmV3cElyd0I3dm5RTmx6aWhaWERFN2dBZGZ4YlNGamVpSDBkOGRad1doN09xU3JNMmc0dUplM2QtZDg0aldvaVExWQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Two Palestinians killed in Israeli drone strike in northern Gaza - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUkhWYnNEb0N5c291NFA1ejJKV3dWdWh2dTZvNk9RaG5jaDQ0Q0dvZ3RwRWo3SW0xTlQtT2F5S1FSalRqRWs1enZwU3lXT21XeGtPR25IRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
           "title": "Israeli gov’t OKs recognition of 1915 events as genocide",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkhmbG5ZWUZhWkUzdVVvR1JVRWpPcHQwWjVKblQ0eWRQWmotTkhSSWw0Q2lSWld1dTduMldLNnVaN2o2M0pfWHZFazFCcFpTR21VVExNVUMxSnpLQXF5Z0dFQXFTRHlNcEJUdGNYZTJkX2xXMUJfOWVIRVZ2V0JjQ3lHSDhfamtkYWoxX1g3QUdvSVBCNG1sMGZpTnI?oc=5",
           "source": "Hürriyet Daily News",
@@ -82,7 +70,7 @@
     },
     {
       "term": "Iranian",
-      "count": 8,
+      "count": 7,
       "headlines": [
         {
           "title": "Iraq arrests 47 officials in anti-corruption crackdown",
@@ -115,12 +103,6 @@
           "region": "Iran"
         },
         {
-          "title": "Iran MP calls for release of people’s frozen funds inside country - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51V09LbURKRFpxa3ZpVUxWd3NDcUtIZjhYN2QtZHJ1Q1FFeG1pbll0Slp4ZVk1djBTMnItNnZJM0NtM0NrYjZEd1JqZU16T2ZmZEE?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
           "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
           "source": "Arab News",
@@ -135,49 +117,43 @@
       ]
     },
     {
-      "term": "Israel",
-      "count": 7,
+      "term": "strikes",
+      "count": 6,
       "headlines": [
         {
-          "title": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
-          "url": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss",
+          "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
+          "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli soldiers shoot at journalists in Syrian village",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-journalists-syrian-village",
+          "title": "Israeli attacks kill three in Gaza over past 24 hours",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "What challenges lie ahead for the US-Israel-Lebanon agreement?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUNfV0VDNS1VOGdwSmU4ZFRLbldIWnhaLTY4QnREQUc4dmlCdlNnLTUxTVhrbnZtcGh1ZllqcHF3RG9FT05PS2drblFDNVV1cE9HTDllaHhHWUxIWVBNY1ZrU2NYVldoMVFkTnZUMHI5VlRxZ0w5NDRLdGFWQzRlQ0tqandRN1BNejNtSmdNZmtsSkZodjNEbFFUQUpTUQ?oc=5",
-          "source": "Jordan Times",
+          "title": "UAE condemns Iranian strikes on Bahrain and Kuwait",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-strikes-bahrain-and-kuwait",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US forces carry out additional strikes in Iran after tanker attack - CENTCOM - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSHUweFd1UDhPcHpfQ2FGVTduX3VGY0pqTDF6cUdhLUpCcTlKQlJoc3hoWWFkUE1EWjlxRTIzeThGdHhFVTNUUjNVMTYwekg5R0E?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
+          "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
-          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Family informed of Palestinian's death a year and a half after Israel kept his fate secret - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3bWIyY1lHRndnekNTaXgyTUphbzNCcVNlaVJ6ZEtNNWtydUVoX0xwMEVIRzBGbkZteS1WSkdXN2R5VHdWeGNzTmVfNlRHcUNpN3FkSzVtRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel military says soldier killed in south Lebanon fighting",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pMUhBTWlCZ1hJLXNxREk5TGZxNFJzNXdSSUN4b0lOUWtiQUlScWFOOGp2MjRrTlpRWndZMk1pdVZxRkVuM3MzemJPZ3lWR1U3ckRB?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
-          "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
-          "source": "Anadolu Agency",
+          "title": "US forces launch fresh strikes against multiple targets in Iran",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mYlZwYXJmaXB1LVpuRTV4cHB2TWtLQzlEaHkzX0VlUE9wNTV4eGJtWUU5SWRRd0JKTFJDT2E1V1Rtd0VnMTBYTmhyalZiMzdPRzdZUTVmbjY?oc=5",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
@@ -225,91 +201,49 @@
       ]
     },
     {
-      "term": "Baghdad",
+      "term": "Israel",
       "count": 6,
       "headlines": [
         {
-          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
-          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
+          "title": "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
+          "url": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli soldiers shoot at journalists in Syrian village",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-journalists-syrian-village",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iraqi forces raid Baghdad's Green Zone, arrest 47 officials",
-          "url": "https://www.newarab.com/news/iraqi-forces-raid-baghdads-green-zone-arrest-47-officials",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "What challenges lie ahead for the US-Israel-Lebanon agreement?",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUNfV0VDNS1VOGdwSmU4ZFRLbldIWnhaLTY4QnREQUc4dmlCdlNnLTUxTVhrbnZtcGh1ZllqcHF3RG9FT05PS2drblFDNVV1cE9HTDllaHhHWUxIWVBNY1ZrU2NYVldoMVFkTnZUMHI5VlRxZ0w5NDRLdGFWQzRlQ0tqandRN1BNejNtSmdNZmtsSkZodjNEbFFUQUpTUQ?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         },
         {
-          "title": "Foreign Minister Araghchi meets Iraqi premier to discuss regional stability",
-          "url": "https://en.irna.ir/news/86195219/Foreign-Minister-Araghchi-meets-Iraqi-premier-to-discuss-regional",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraqi FM: Direct dialogue key to resolving regional challenges",
-          "url": "https://en.irna.ir/news/86195180/Iraqi-FM-Direct-dialogue-key-to-resolving-regional-challenges",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Araghchi meets Iraqi premier in Baghdad for talks",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjlvendzbmF4TTg4Rk0xWHJLUHNUTDBKZ3VKYTZiSGFqT01Rcm9UaEExZElfZF9qNVlBZ0VmMXFlT0MtR0E0MzBGOUlldzlabmNvN01DeXJERkpoY0RPcVNycHV3WVFBTmRDVkZHSlJsbWNRM2RyQzdDSi16b1pETnFtVy0ybHJLTGVOTlh3?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraq arrests officials tied to Iran-aligned parties in Baghdad raids, sources say - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NkhfN0JzN1licVNLd3lvX1FISDNXY1RQMkViZ2NBczdDek5jdmYzemQ1eWhTUjlyeDQtdzNBLW42VjJIT09sMnVteUFGSUMwQVE?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Iraqi",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
-          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraqi forces raid Baghdad's Green Zone, arrest 47 officials",
-          "url": "https://www.newarab.com/news/iraqi-forces-raid-baghdads-green-zone-arrest-47-officials",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Foreign Minister Araghchi meets Iraqi premier to discuss regional stability",
-          "url": "https://en.irna.ir/news/86195219/Foreign-Minister-Araghchi-meets-Iraqi-premier-to-discuss-regional",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraqi FM: Direct dialogue key to resolving regional challenges",
-          "url": "https://en.irna.ir/news/86195180/Iraqi-FM-Direct-dialogue-key-to-resolving-regional-challenges",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Araghchi meets Iraqi premier in Baghdad for talks",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjlvendzbmF4TTg4Rk0xWHJLUHNUTDBKZ3VKYTZiSGFqT01Rcm9UaEExZElfZF9qNVlBZ0VmMXFlT0MtR0E0MzBGOUlldzlabmNvN01DeXJERkpoY0RPcVNycHV3WVFBTmRDVkZHSlJsbWNRM2RyQzdDSi16b1pETnFtVy0ybHJLTGVOTlh3?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
-          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
+          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
+          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
           "source": "Egypt Independent",
           "region": "Levant"
+        },
+        {
+          "title": "Family informed of Palestinian's death a year and a half after Israel kept his fate secret - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3bWIyY1lHRndnekNTaXgyTUphbzNCcVNlaVJ6ZEtNNWtydUVoX0xwMEVIRzBGbkZteS1WSkdXN2R5VHdWeGNzTmVfNlRHcUNpN3FkSzVtRQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
+          "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "strikes",
+      "term": "Hormuz",
       "count": 5,
       "headlines": [
         {
@@ -319,26 +253,26 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "UAE condemns Iranian strikes on Bahrain and Kuwait",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-strikes-bahrain-and-kuwait",
-          "source": "Middle East Eye",
+          "title": "Iran FM: Any challenge to Hormuz routes will 'increase tensions'",
+          "url": "https://www.newarab.com/news/iran-fm-any-challenge-hormuz-routes-will-increase-tensions",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "US forces carry out additional strikes in Iran after tanker attack - CENTCOM - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSHUweFd1UDhPcHpfQ2FGVTduX3VGY0pqTDF6cUdhLUpCcTlKQlJoc3hoWWFkUE1EWjlxRTIzeThGdHhFVTNUUjNVMTYwekg5R0E?oc=5",
-          "source": "Iran International",
+          "title": "Interference to delay reopening of strategic Hormuz Strait",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFZGdGVtNlRocS1nRWtmTTd1VDdSOElaM21oN0lRR3ZnT1NaY0ZjQWxpM0JWTXRHX3ViWDUzdVJyVmd6NWlPN2dNb2NTcTJtUlR2WGNDbk1odWRxUldjYXBJRXQxT1l2Y09COW1PWVNWcl9iLURBbWdIdWlZMWNoWi00bTluTnJPWkp0VGxQeWhaVFFTZkk4dFdR?oc=5",
+          "source": "Mehr News",
           "region": "Iran"
         },
         {
-          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "US to continue targeting Iran if Hormuz shipping is threatened: Envoy to UN",
+          "url": "https://www.aa.com.tr/en/americas/us-to-continue-targeting-iran-if-hormuz-shipping-is-threatened-envoy-to-un/3980534",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         },
         {
-          "title": "US forces launch fresh strikes against multiple targets in Iran",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mYlZwYXJmaXB1LVpuRTV4cHB2TWtLQzlEaHkzX0VlUE9wNTV4eGJtWUU5SWRRd0JKTFJDT2E1V1Rtd0VnMTBYTmhyalZiMzdPRzdZUTVmbjY?oc=5",
+          "title": "The world after Hormuz: Can Türkiye become a trade bridge between Asia and Europe?",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QeTJWMDI3LXhBMDVxTTJIaGdvUGloa2dJTWloWGNpeTkyQlUwdTlwYjVEMGUzdXlrNjNQWmtvSVZ2ZnE3cWlkQlFGVmdFTURJTDlaenNZVVg?oc=5",
           "source": "TRT World",
           "region": "Turkey"
         }
@@ -391,20 +325,20 @@
           "region": "Pan-Arab"
         },
         {
+          "title": "Israeli attacks kill three in Gaza over past 24 hours",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
           "title": "Thousands in Gaza suffer hearing damage from Israeli attacks",
           "url": "https://www.newarab.com/news/thousands-gaza-suffer-hearing-damage-israeli-attacks",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Brother and sister killed in Israeli attack on Gaza safe zone",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJxclN6UmhTUG9KazFRMktKZjA1aElzcU1OTWJFeWxnbWRvWXVOa1YxZDgxRFd1a2tkZlZaV09UQ0k5TGd3UG1XeXlMdkJMT3pfNHRqZVpSUDd2SUFMM0FpOFBXQ3BqSkstaWRSLWtfRWpobngyZXBwbHRiV3ZTam42LXZieUlwXzN3LWxKS0xvdnFYU2dkV3pYMkdmUQ?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Two Palestinians killed in Israeli drone strike in northern Gaza - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUkhWYnNEb0N5c291NFA1ejJKV3dWdWh2dTZvNk9RaG5jaDQ0Q0dvZ3RwRWo3SW0xTlQtT2F5S1FSalRqRWs1enZwU3lXT21XeGtPR25IRQ?oc=5",
+          "title": "ICRC facilitates transfer of 14 released Gaza detainees to Al-Aqsa Martyrs Hospital - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OMWdyeVVfTzJPamRCalB3UXZoZl9ISHNTS3lMVFBvS1N4aEhDd1d0VDlQWTJOcU5qY0tSeVBacGVFUWdyRHgxOXgzaXhhY1V2cUxFdXBWUQ?oc=5",
           "source": "WAFA News",
           "region": "Levant"
         },
@@ -417,68 +351,104 @@
       ]
     },
     {
-      "term": "Lebanon",
+      "term": "Baghdad",
       "count": 5,
       "headlines": [
         {
-          "title": "Israeli soldier killed in southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-southern-lebanon",
+          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
+          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran calls for timetable for Israeli withdrawal from occupied Lebanese territories",
-          "url": "https://en.irna.ir/news/86195166/Iran-calls-for-timetable-for-Israeli-withdrawal-from-occupied",
+          "title": "Foreign Minister Araghchi meets Iraqi premier to discuss regional stability",
+          "url": "https://en.irna.ir/news/86195219/Foreign-Minister-Araghchi-meets-Iraqi-premier-to-discuss-regional",
           "source": "IRNA",
           "region": "Iran"
         },
         {
-          "title": "What challenges lie ahead for the US-Israel-Lebanon agreement?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUNfV0VDNS1VOGdwSmU4ZFRLbldIWnhaLTY4QnREQUc4dmlCdlNnLTUxTVhrbnZtcGh1ZllqcHF3RG9FT05PS2drblFDNVV1cE9HTDllaHhHWUxIWVBNY1ZrU2NYVldoMVFkTnZUMHI5VlRxZ0w5NDRLdGFWQzRlQ0tqandRN1BNejNtSmdNZmtsSkZodjNEbFFUQUpTUQ?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
+          "title": "Iraqi FM: Direct dialogue key to resolving regional challenges",
+          "url": "https://en.irna.ir/news/86195180/Iraqi-FM-Direct-dialogue-key-to-resolving-regional-challenges",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
-          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel military says soldier killed in south Lebanon fighting",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pMUhBTWlCZ1hJLXNxREk5TGZxNFJzNXdSSUN4b0lOUWtiQUlScWFOOGp2MjRrTlpRWndZMk1pdVZxRkVuM3MzemJPZ3lWR1U3ckRB?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Hormuz",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-          "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran FM: Any challenge to Hormuz routes will 'increase tensions'",
-          "url": "https://www.newarab.com/news/iran-fm-any-challenge-hormuz-routes-will-increase-tensions",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Interference to delay reopening of strategic Hormuz Strait",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFZGdGVtNlRocS1nRWtmTTd1VDdSOElaM21oN0lRR3ZnT1NaY0ZjQWxpM0JWTXRHX3ViWDUzdVJyVmd6NWlPN2dNb2NTcTJtUlR2WGNDbk1odWRxUldjYXBJRXQxT1l2Y09COW1PWVNWcl9iLURBbWdIdWlZMWNoWi00bTluTnJPWkp0VGxQeWhaVFFTZkk4dFdR?oc=5",
+          "title": "Araghchi meets Iraqi premier in Baghdad for talks",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjlvendzbmF4TTg4Rk0xWHJLUHNUTDBKZ3VKYTZiSGFqT01Rcm9UaEExZElfZF9qNVlBZ0VmMXFlT0MtR0E0MzBGOUlldzlabmNvN01DeXJERkpoY0RPcVNycHV3WVFBTmRDVkZHSlJsbWNRM2RyQzdDSi16b1pETnFtVy0ybHJLTGVOTlh3?oc=5",
           "source": "Mehr News",
           "region": "Iran"
         },
         {
-          "title": "The world after Hormuz: Can Türkiye become a trade bridge between Asia and Europe?",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QeTJWMDI3LXhBMDVxTTJIaGdvUGloa2dJTWloWGNpeTkyQlUwdTlwYjVEMGUzdXlrNjNQWmtvSVZ2ZnE3cWlkQlFGVmdFTURJTDlaenNZVVg?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "Iraq arrests officials tied to Iran-aligned parties in Baghdad raids, sources say - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NkhfN0JzN1licVNLd3lvX1FISDNXY1RQMkViZ2NBczdDek5jdmYzemQ1eWhTUjlyeDQtdzNBLW42VjJIT09sMnVteUFGSUMwQVE?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Iraqi",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
+          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Foreign Minister Araghchi meets Iraqi premier to discuss regional stability",
+          "url": "https://en.irna.ir/news/86195219/Foreign-Minister-Araghchi-meets-Iraqi-premier-to-discuss-regional",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iraqi FM: Direct dialogue key to resolving regional challenges",
+          "url": "https://en.irna.ir/news/86195180/Iraqi-FM-Direct-dialogue-key-to-resolving-regional-challenges",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Araghchi meets Iraqi premier in Baghdad for talks",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjlvendzbmF4TTg4Rk0xWHJLUHNUTDBKZ3VKYTZiSGFqT01Rcm9UaEExZElfZF9qNVlBZ0VmMXFlT0MtR0E0MzBGOUlldzlabmNvN01DeXJERkpoY0RPcVNycHV3WVFBTmRDVkZHSlJsbWNRM2RyQzdDSi16b1pETnFtVy0ybHJLTGVOTlh3?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
+          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "oil",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Ukraine says it attacked two Russian oil refineries",
+          "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Ukraine hits two Russian oil refineries overnight",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMU9vV2pKWVB3VWxXc0Q3V09TbXJfRmMta3dmdHNPNjRQUjFJTDhiWXJTNlAwZlRrc2hPNk5nSThVV0c4dU9ISC1jWWFqanNrMXN5LXd2elBqZDBWOHBsUVh3djVBbGlRNkF2ZEZKSnN3dGdSLXNuNEl0UTVEbFVlRDNmbHo5cHJfOG9BSGd2bUJ6M3lTbFdvQWtydE9Bd1NERVl4UGlMMC3SAagBQVVfeXFMTjFPb1dqSllQd1VsV3NEN1dPU21yX0ZjLWt3ZnRzTzY0UFIxSUw4YllyUzZQMGZUa3NoTzZOZ0k4VVdHOHVPSEgtY1lhampzazFzeS13dnpQamQwVjhwbFFYd3Y1QWxpUTZBdmRGSkpzd3RnUi1zbjRJdFE1RGxVZUQzZmx6OXByXzhvQUhndm1CejN5U2xXb0FrcnRPQXdTREVZeFBpTDAt?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Saudi Aramco helicopter crash kills 14 nationals",
+          "url": "https://www.newarab.com/news/saudi-aramco-helicopter-crash-kills-14-nationals",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
+          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         }
       ]
     },
@@ -513,39 +483,15 @@
       ]
     },
     {
-      "term": "Zone",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
-          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraqi forces raid Baghdad's Green Zone, arrest 47 officials",
-          "url": "https://www.newarab.com/news/iraqi-forces-raid-baghdads-green-zone-arrest-47-officials",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Brother and sister killed in Israeli attack on Gaza safe zone",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJxclN6UmhTUG9KazFRMktKZjA1aElzcU1OTWJFeWxnbWRvWXVOa1YxZDgxRFd1a2tkZlZaV09UQ0k5TGd3UG1XeXlMdkJMT3pfNHRqZVpSUDd2SUFMM0FpOFBXQ3BqSkstaWRSLWtfRWpobngyZXBwbHRiV3ZTam42LXZieUlwXzN3LWxKS0xvdnFYU2dkV3pYMkdmUQ?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
-          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Palestinian",
       "count": 4,
       "headlines": [
+        {
+          "title": "Israeli attacks kill three in Gaza over past 24 hours",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Israeli extremists are terrorising Palestinian Christians and their holy sites",
           "url": "https://www.middleeasteye.net/opinion/israeli-extremists-are-terrorising-palestinian-christians-and-their-holy-sites",
@@ -563,41 +509,11 @@
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3bWIyY1lHRndnekNTaXgyTUphbzNCcVNlaVJ6ZEtNNWtydUVoX0xwMEVIRzBGbkZteS1WSkdXN2R5VHdWeGNzTmVfNlRHcUNpN3FkSzVtRQ?oc=5",
           "source": "WAFA News",
           "region": "Levant"
-        },
-        {
-          "title": "Israeli forces begin construction of colonial road on Palestinian land west of Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FV1hsZHRVc2JaQ0RwYmV3cElyd0I3dm5RTmx6aWhaWERFN2dBZGZ4YlNGamVpSDBkOGRad1doN09xU3JNMmc0dUplM2QtZDg0aldvaVExWQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
         }
       ]
     },
     {
-      "term": "oil",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Ukraine says it attacked two Russian oil refineries",
-          "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Ukraine hits two Russian oil refineries overnight",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMU9vV2pKWVB3VWxXc0Q3V09TbXJfRmMta3dmdHNPNjRQUjFJTDhiWXJTNlAwZlRrc2hPNk5nSThVV0c4dU9ISC1jWWFqanNrMXN5LXd2elBqZDBWOHBsUVh3djVBbGlRNkF2ZEZKSnN3dGdSLXNuNEl0UTVEbFVlRDNmbHo5cHJfOG9BSGd2bUJ6M3lTbFdvQWtydE9Bd1NERVl4UGlMMC3SAagBQVVfeXFMTjFPb1dqSllQd1VsV3NEN1dPU21yX0ZjLWt3ZnRzTzY0UFIxSUw4YllyUzZQMGZUa3NoTzZOZ0k4VVdHOHVPSEgtY1lhampzazFzeS13dnpQamQwVjhwbFFYd3Y1QWxpUTZBdmRGSkpzd3RnUi1zbjRJdFE1RGxVZUQzZmx6OXByXzhvQUhndm1CejN5U2xXb0FrcnRPQXdTREVZeFBpTDAt?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
-          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Green",
+      "term": "Iraq",
       "count": 3,
       "headlines": [
         {
@@ -607,16 +523,16 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iraqi forces raid Baghdad's Green Zone, arrest 47 officials",
-          "url": "https://www.newarab.com/news/iraqi-forces-raid-baghdads-green-zone-arrest-47-officials",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "Enhancing ties with Iraq Iran’s top foreign policy priority",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVVZV014VFR5QzBoNjhaNVVXYzJJSHFPNmtzY0Rvb3JKVlVxbGdBeG56RHZTY1UwUnpoS19LLWRJRktaLVZJcWhlaWRoQ01DcGZlZ29NS3lUSVZGV1ZmamVtaWU2bklTMEhheW9xWWZKZXcxMk45M21yMWpDZ2NPenk3UW92NVlLZDFwbTVqX3BZcHhQal85Tlk0OA?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
         },
         {
-          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
-          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Iraq arrests officials tied to Iran-aligned parties in Baghdad raids, sources say - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NkhfN0JzN1licVNLd3lvX1FISDNXY1RQMkViZ2NBczdDek5jdmYzemQ1eWhTUjlyeDQtdzNBLW42VjJIT09sMnVteUFGSUMwQVE?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
         }
       ]
     },
@@ -669,26 +585,74 @@
       ]
     },
     {
-      "term": "raid",
+      "term": "Saudi",
       "count": 3,
       "headlines": [
         {
-          "title": "Iraqi forces raid Baghdad's Green Zone, arrest 47 officials",
-          "url": "https://www.newarab.com/news/iraqi-forces-raid-baghdads-green-zone-arrest-47-officials",
+          "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZ9IBtgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Saudi Aramco helicopter crash kills 14 nationals",
+          "url": "https://www.newarab.com/news/saudi-aramco-helicopter-crash-kills-14-nationals",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
-          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Aramco helicopter crashes in Ras Tanura, killing all 14 onboard -- Saudi ministry",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yRldqaUlGd0d3d3hrWV8xdmtDaVpHUFhRVFMtUG15dHBrMVlyZGJCdGdWRGozYUtMb1h0ZjBPVkhCdW96alNJeGFydi02Y3ZsSE5N?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Aramco",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZ9IBtgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Israeli forces detain two women during raid on village east of Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paXBUdFFpbURMX0E2ckwwM1J4ZEwtRTVraXdpMWsxXzlNVGVpSkxhTW53cVZsdFVNcTlvQ0xwYjdic2lfeU1lTVQ0NmR6eUZpdHRrZHlkdw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "Saudi Aramco helicopter crash kills 14 nationals",
+          "url": "https://www.newarab.com/news/saudi-aramco-helicopter-crash-kills-14-nationals",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Aramco helicopter crashes in Ras Tanura, killing all 14 onboard -- Saudi ministry",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yRldqaUlGd0d3d3hrWV8xdmtDaVpHUFhRVFMtUG15dHBrMVlyZGJCdGdWRGozYUtMb1h0ZjBPVkhCdW96alNJeGFydi02Y3ZsSE5N?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Tanura",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZ9IBtgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Saudi Aramco helicopter crash kills 14 nationals",
+          "url": "https://www.newarab.com/news/saudi-aramco-helicopter-crash-kills-14-nationals",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Aramco helicopter crashes in Ras Tanura, killing all 14 onboard -- Saudi ministry",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yRldqaUlGd0d3d3hrWV8xdmtDaVpHUFhRVFMtUG15dHBrMVlyZGJCdGdWRGozYUtMb1h0ZjBPVkhCdW96alNJeGFydi02Y3ZsSE5N?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -717,6 +681,30 @@
       ]
     },
     {
+      "term": "Lebanon",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran calls for timetable for Israeli withdrawal from occupied Lebanese territories",
+          "url": "https://en.irna.ir/news/86195166/Iran-calls-for-timetable-for-Israeli-withdrawal-from-occupied",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "What challenges lie ahead for the US-Israel-Lebanon agreement?",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUNfV0VDNS1VOGdwSmU4ZFRLbldIWnhaLTY4QnREQUc4dmlCdlNnLTUxTVhrbnZtcGh1ZllqcHF3RG9FT05PS2drblFDNVV1cE9HTDllaHhHWUxIWVBNY1ZrU2NYVldoMVFkTnZUMHI5VlRxZ0w5NDRLdGFWQzRlQ0tqandRN1BNejNtSmdNZmtsSkZodjNEbFFUQUpTUQ?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
+          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "war",
       "count": 3,
       "headlines": [
@@ -741,26 +729,26 @@
       ]
     },
     {
-      "term": "attack",
+      "term": "Trump",
       "count": 3,
       "headlines": [
         {
-          "title": "Brother and sister killed in Israeli attack on Gaza safe zone",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJxclN6UmhTUG9KazFRMktKZjA1aElzcU1OTWJFeWxnbWRvWXVOa1YxZDgxRFd1a2tkZlZaV09UQ0k5TGd3UG1XeXlMdkJMT3pfNHRqZVpSUDd2SUFMM0FpOFBXQ3BqSkstaWRSLWtfRWpobngyZXBwbHRiV3ZTam42LXZieUlwXzN3LWxKS0xvdnFYU2dkV3pYMkdmUQ?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "US forces carry out additional strikes in Iran after tanker attack - CENTCOM - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSHUweFd1UDhPcHpfQ2FGVTduX3VGY0pqTDF6cUdhLUpCcTlKQlJoc3hoWWFkUE1EWjlxRTIzeThGdHhFVTNUUjNVMTYwekg5R0E?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
+          "title": "Trump threatens to annihilate Iran after new exchange of attacks",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CWXNKN1lMY2psRVdUcU40Q0VkWHg2N095ajZZSW4waE9hOWRfU3YtNWpSM2FSR3Bpd1FkbGgybXVTcWJPVVlLT0hXMWhWWlJwZkVBay16ZnE4Yk5VekE?oc=5",
           "source": "Arab News",
           "region": "Gulf"
+        },
+        {
+          "title": "US to continue targeting Iran if Hormuz shipping is threatened: Envoy to UN",
+          "url": "https://www.aa.com.tr/en/americas/us-to-continue-targeting-iran-if-hormuz-shipping-is-threatened-envoy-to-un/3980534",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "‘What a loser:’ Former US President Biden slams Trump",
+          "url": "https://www.aa.com.tr/en/americas/-what-a-loser-former-us-president-biden-slams-trump/3980516",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -837,20 +825,20 @@
       ]
     },
     {
-      "term": "Iraq",
+      "term": "Palestinians",
       "count": 2,
       "headlines": [
         {
-          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
-          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
+          "title": "Israeli attacks kill three in Gaza over past 24 hours",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iraq arrests officials tied to Iran-aligned parties in Baghdad raids, sources say - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NkhfN0JzN1licVNLd3lvX1FISDNXY1RQMkViZ2NBczdDek5jdmYzemQ1eWhTUjlyeDQtdzNBLW42VjJIT09sMnVteUFGSUMwQVE?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
+          "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
+          "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -873,6 +861,42 @@
       ]
     },
     {
+      "term": "Green",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
+          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
+          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Zone",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
+          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
+          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "Kuwait",
       "count": 2,
       "headlines": [
@@ -887,114 +911,6 @@
           "url": "https://www.aa.com.tr/en/europe/italy-urges-restraint-after-iranian-attacks-on-bahrain-kuwait/3980507",
           "source": "Anadolu Agency",
           "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Lebanese",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israeli soldier killed in southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-southern-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran calls for timetable for Israeli withdrawal from occupied Lebanese territories",
-          "url": "https://en.irna.ir/news/86195166/Iran-calls-for-timetable-for-Israeli-withdrawal-from-occupied",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Hezbollah",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israeli soldier killed in southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-southern-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
-          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Saudi",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZ9IBtgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZw?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Aramco helicopter crashes in Ras Tanura, killing all 14 onboard -- Saudi ministry",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yRldqaUlGd0d3d3hrWV8xdmtDaVpHUFhRVFMtUG15dHBrMVlyZGJCdGdWRGozYUtMb1h0ZjBPVkhCdW96alNJeGFydi02Y3ZsSE5N?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Aramco",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZ9IBtgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZw?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Aramco helicopter crashes in Ras Tanura, killing all 14 onboard -- Saudi ministry",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yRldqaUlGd0d3d3hrWV8xdmtDaVpHUFhRVFMtUG15dHBrMVlyZGJCdGdWRGozYUtMb1h0ZjBPVkhCdW96alNJeGFydi02Y3ZsSE5N?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Tanura",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Saudi Aramco helicopter crash kills 14 in Ras Tanura",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZ9IBtgFBVV95cUxOSTk3WFFHNkRuSFc2SnhtZEM1ZGhLdTR0TUpGdlVtT0g2WTRpSnZqODlfODlfU2hUSVBTMnlha3A0dXJpWVJaZVBENHA3QzFRZVVFZmEwM1lsc29vWHNnS2M4UWpJdlVpeEczV2thMDZheWhQQkFSRGxnaHBSZ2hmQUdqSTQ4aVYyWmlVU0dLWXRySGctUlB2VnpFQlpZMHA4RGgzX2dQMHlNa05DeXhXTV9OWTFvZw?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Aramco helicopter crashes in Ras Tanura, killing all 14 onboard -- Saudi ministry",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yRldqaUlGd0d3d3hrWV8xdmtDaVpHUFhRVFMtUG15dHBrMVlyZGJCdGdWRGozYUtMb1h0ZjBPVkhCdW96alNJeGFydi02Y3ZsSE5N?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "drones",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "روسيا: إسقاط 213 مسيّرة أوكرانية.. وتصفية ضابط في استخبارات كييف",
-          "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNeTlDMEwxSDEtb0hqd0ZodnVac0dMTDV4ZW56dkd1WWFBR2VyVVlFcG9HWXlRbER6Q3htR3Vwbl81aVl1SktBSTlFQW9vNkxVNE52ZEtPdEVCV09Lem5oczQ2V25vWG94a0wwckVreG12QjhiN1AwWmpsUTYzMkZZd0h6Y0Y3Q3g2SHZsbWtEdi1TYkpqLVlXQ29VY1lTSGkyalNZT3ZSVkZORFlkcG9yNHdWWU56d3ZNQ1phRDJfanBxNXlvYlpCT2dQRW1OS3NKdU5jX3FmMWdTWkUzTXR5ZUlzam5iMzJ5cGcyQ211TzZDdkVDUG9za0RrYWlvN1hjVzJVTzl5UnlpblZBS1VfYzVlNzFHTExzODZrSklpQ25VUnktS3ZzUnRuai1WbThtZVdKdUFjaWw1TWtKOFNUeXNyTV8xY3VFLTdvcmtnYXBtSm50cDhJN2VhOGRDLWMydDUwNkE0a0R3SWh1OWNPVnBoc1JMMmdmcjNLXzVJQWNQRnZCNkVMaXVndURkYVlBbGN4X2o1a2FkUFNxN0hkMnZ2b0NsS3pFTmRsbDAzU3h0QjlUQ1dfTWtvN3ROM0o3elpFTVBmSXpBQklnQXcw0gHTA0FVX3lxTE1NYjkxdlJtWUVnUXUtWkJRd3FtQmI5LXg0SEN1ZjZibUEwRmRjT2dZbmpvZGdIVkF1MUh4cFJDQVIzU2lyaUZNZ21GYkxjUWo4WWU2WWpGbnh2VW9OLXNpRVZ5U2VvT1VLM0MyeHRkMjI4T1VjeElCajlHdmpyTzhGRjViNHlXVEFTSVNpTmo1OFFOVmhIN05zUDJlX09YNURxOGk5U2ZPdUI3RDhxRFcxYVRoMmlEUVZiQ0xPVjFOMjJveExpZ3JFQzc1ekhLLTAtR2o4UXBMZ1MxQ245QlVUNlpXbGFJRVRvZGJQdlZocl9tenhLVWhUNEJkMUk3RFFmTFZBaFBUUzFkSXJydDdRS3hIdXZrTVZUWnYxaV9TZV9lNnJLNEd2WW80NWhfYmc4TjAwQm00TlJmTkJfallvaFlVVWpuS3ZWYzF0ek9MUkNWNDhTM1FHOElSTk5VXzB4dmxFRE1ONUZlNG1KSmRjQzIxbnB3NDdhclZXdkppazNyTFJ0cnN5S19xTnN0eXRURHdJSkxXRUw0SkY2cEJpSlZsLXJWQ3E3bGNRdG9uaVNIUks1ZktLRTZITWdoaHZ2QXhtMGNqSFNUZmdjWGFVanZR?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
-          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
-          "source": "Egypt Independent",
-          "region": "Levant"
         }
       ]
     },
@@ -1035,20 +951,20 @@
       ]
     },
     {
-      "term": "Member",
+      "term": "attack",
       "count": 2,
       "headlines": [
         {
-          "title": "Iran MP criticizes GCC statement on regional security - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EdGU1RmIxUzJlNTQwS1VYaE5TNmdtcWVwekZYSlNmWVdvVGw0OWQtVzVMd1dYemRGb1VmR3Z4MkptX1VYN295cGdfdEJ4Q3dVU2c?oc=5",
+          "title": "US forces carry out additional strikes in Iran after tanker attack - CENTCOM - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSHUweFd1UDhPcHpfQ2FGVTduX3VGY0pqTDF6cUdhLUpCcTlKQlJoc3hoWWFkUE1EWjlxRTIzeThGdHhFVTNUUjNVMTYwekg5R0E?oc=5",
           "source": "Iran International",
           "region": "Iran"
         },
         {
-          "title": "Iran MP calls for release of people’s frozen funds inside country - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51V09LbURKRFpxa3ZpVUxWd3NDcUtIZjhYN2QtZHJ1Q1FFeG1pbll0Slp4ZVk1djBTMnItNnZJM0NtM0NrYjZEd1JqZU16T2ZmZEE?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
+          "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -1107,38 +1023,38 @@
       ]
     },
     {
-      "term": "Bethlehem",
+      "term": "raid",
       "count": 2,
       "headlines": [
         {
-          "title": "Israeli forces detain two women during raid on village east of Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paXBUdFFpbURMX0E2ckwwM1J4ZEwtRTVraXdpMWsxXzlNVGVpSkxhTW53cVZsdFVNcTlvQ0xwYjdic2lfeU1lTVQ0NmR6eUZpdHRrZHlkdw?oc=5",
-          "source": "WAFA News",
+          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
+          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Israeli forces begin construction of colonial road on Palestinian land west of Bethlehem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FV1hsZHRVc2JaQ0RwYmV3cElyd0I3dm5RTmx6aWhaWERFN2dBZGZ4YlNGamVpSDBkOGRad1doN09xU3JNMmc0dUplM2QtZDg0aldvaVExWQ?oc=5",
+          "title": "Israeli forces detain two women during raid on village east of Bethlehem - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paXBUdFFpbURMX0E2ckwwM1J4ZEwtRTVraXdpMWsxXzlNVGVpSkxhTW53cVZsdFVNcTlvQ0xwYjdic2lfeU1lTVQ0NmR6eUZpdHRrZHlkdw?oc=5",
           "source": "WAFA News",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "Palestinians",
+      "term": "Khan",
       "count": 2,
       "headlines": [
         {
-          "title": "Two Palestinians killed in Israeli drone strike in northern Gaza - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUkhWYnNEb0N5c291NFA1ejJKV3dWdWh2dTZvNk9RaG5jaDQ0Q0dvZ3RwRWo3SW0xTlQtT2F5S1FSalRqRWs1enZwU3lXT21XeGtPR25IRQ?oc=5",
+          "title": "Several injured in Israeli airstrike targeting tent sheltering displaced people in Khan Younis - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WZHE2N2hyMXJmQkd2NThNdDFDOF9YNTR4eDY2OEk1QnpiZjVnaEt4Ylo5Q005TTRuTU1MaXVjNGN0RlhOaC1jZWVIbF94LVo4dnJ2LVJIYw?oc=5",
           "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
-          "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Is Salman Khan leaving Galaxy Apartments after 52 years for a new 6-storey luxury home in Bandra?",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHlBRENuMEE1MGQ0dURWR211dEh5M01mcHpKREtyb0JpcW1EU3gzaTdvRWlBalBMSkdaY09CdWx6b3llWDBpb2l3MXdNZUloWXFtV0VfUzFFeW9odlVYSFpJanRBaDc1TEFpNy12S25EMmFCY0t2a0xENDB3Y2RmUTlnVW5Kb3BMNkdKWkhrSzlzX0hVMERTckgzclU4ZXNFaTQ3cmlXWEdsaERSQ0hXeU4xZXlSeGxqRGZaMEF3eTY4MkFJa1FaRDh1TTdoSWM?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
         }
       ]
     }
