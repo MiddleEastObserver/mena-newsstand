@@ -1,121 +1,7 @@
 {
-  "updated": "2026-06-28T08:07:40.265674+00:00",
-  "total_headlines": 106,
+  "updated": "2026-06-28T08:36:32.207471+00:00",
+  "total_headlines": 110,
   "terms": [
-    {
-      "term": "Israeli",
-      "count": 18,
-      "headlines": [
-        {
-          "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-          "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Palestinian injured by Israeli fire in Jerusalem camp, 13 detained during raids",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-injured-israeli-fire-jerusalem-camp-13-detained-during-raids",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel says troops killed armed fighters in southern Syria and Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-troops-killed-armed-fighters-southern-syria-and-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli drone strike hits southern Lebanon day after security deal",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFS2ZWN2prS0NhS1h0Wk00QkxBRVJFTXhNUzZuVlRQOE45M29TX19YNnV5YmpvSVFNUzBtOWwwNjkzakdsY2c1NjZjWVowYkZNX09RZTQ0OEtYNjFwODd6cU1RQ1hkRHVkQ3JMRnpOUzhjM1NVTWhpUFk4VGlJbWc0MXJVbjlFMXZ6NnJpT0o4dF83eGpldGxkbGUzWlJ4UkpKVGd2dFJoX3FUb0lBQTQ5STZfS2ZDZ1lib3FsR3NZcFc3cmlF0gHHAUFVX3lxTE80SEVLZlY3amtLQ2FLWHRaTTRCTEFFUkVNeE1TNm5WVFA4Tjkzb1NfX1g2dXliam9JUU1TMG05bDA2OTNqR2xjZzU2NmNZWjBiRk1fT1FlNDQ4S1g2MXA4N3pxTVFDWGREdWRDckxGek5TOGMzU1VNaGlQWThUaUltZzQxclVuOUUxdno2cmlPSjh0Xzd4amV0bGRsZTNaUnhSSkpUZ3Z0UmhfcVRvSUFBNDlJNl9LZkNnWWJvcWxHc1lwVzdyaUU?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel settlers seizing Palestinian land to open 'tourist' sites",
-          "url": "https://www.newarab.com/news/israel-settlers-seizing-palestinian-land-open-tourist-sites",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
-          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "صنعاء تصعّد موقفها تجاه الوجود الإسرائيلي في القرن الأفريقي",
-          "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNaHFOSmNQVmlEUUcycm5qdEh6bGg2OTFvWTVCZ0tDUmVESWx6MGhwWXBLdW01Qjg4NEc5OXRGa3llOG9jREo1LXRLb2ZDOWlLNzNieTBaa2NNWk1TNHJjSXdOSm9LQjFGc1hTRkQ3bXBRN0hycWRBdmpmSUFrN1hsaVJfbnhUbUdWU0N6SlliQkJtWWM0ZGc2VWxLRWlFOTVTdk1nQ01jd3lqREUwdnQ1T1h5MzFpSlJ4dHZQTmFjenNDZk1JVFVRQ2p5M1F2MnJVWkhhTkRDYU5mTVk5a1BGN2kyZjRoX29ZRFg4ZXZTbGd6Ty1XcnpYWVhmRGFyN0cxVVV1aXpPbnU5V0xDQVVrQUU0aDEwY3dkNlh4OU1TVHFxUlYzOEdaNGpMVU9NbmhDdjZhazNxbXN2Und5dDVOOUNzMnRkZi1ESUFBNW05UWptVy1Xcmh6X0RBWDFjdTItc25JZjY4Z1AxQmk0MnZHRkRGd1AtWV9ZQlhiSHlqY3VZQXJYTElEN2FkMEUzRjZmODd2aThlNXNhYVRMV0d5VHhLb2VFTDF4VnFqR3QxSmJpc2c0aUtNbWw5eDdGVmFXejFvYVNWeEhyb3dYTlNQZlZoQ2xsYy00TEFOTkZBRDh6TjZpV0tTVV93?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Jordan welcomes Lebanon–Israel framework agreement, calls for full Israeli withdrawal",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemtnWmdSWmRLTzJfRDFSQlRPSFZlS19jVzdRYmxfVHN2ZkgwbXdzRlNCLWR1V2hGd3ZmWmRMMmtDaDJxNlhzS01tTEQyM190TU56Y3g3YlpLOGgxN3ZOc0picEpwNERkbEltd19JQUhzRXRCZEp0UnFVaGRDenlMTm53OXRrNWhOZWZiT2xaNFZNRDlyLVFFWDdCNFBfUWppbVVEY2Q1OEg0cUJ4QnJPQWtUeDg4Y2FhTUE?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "No confirmed reports of Israeli occupation claim that it 'took control' of Ali al-Taher",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVXZ6cGgxTTVLMG5XMUJSbEM4WUR0bUlhVnFSSzU3cWxYXzJUdzdHRjVHaTdCQVVyc0Z2Si1HSjJJTlNwMVZuN2lmT3VPTk5UTno2ZnhTbEFUcjFIWlpnTlpBM0FGT3EwWmRkbEd6RXVUZGRiRFVRMm5va1N3WnFnM0lMUDhtWTJUYmRQVFpRVVExak5jMXNfNHFuZ2dqNHhMVjYzUWxIR1pIbGEwSzBIMjVCR2VwaFh3MFloYlBlZnNUZDd4RGIwTnJ3NWtCRjdGQ1Jmbk9zcUg4X283b1NiLWFTZkVHazVhUEZyOWJn?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "شهيد في غزة وتجدد خروقات الاحتلال لوقف النار",
-          "url": "https://www.almanar.com.lb/article/983762/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces detain two Palestinians, including journalist, during ongoing raid on Sebastia - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbjhFd212enhqYlhJUjRfVlJoMUtseGd6ZlNGbjE3WkM0RHVNVlU4dlY3MlpFUnF0bU9iZGN5NDVOQ1FxUTJZMS1JbDl2ZWFlNHBzNzRTaw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli settlers assault Palestinians in Masafer Yatta, raise Israeli flags in Umm al-Kheir - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TX195ZDJFSHptMnN0MlZjd1MyVHNaaUVvOUVneFlSbTNWdVVaUUJNWEdIdjl2eVU1LUJ5dW5qQmNxWEhkcG83ZW9jX3hFV1JUS0ZEUl9CWQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "11 Palestinians detained by Israeli occupation forces in Nablus - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTGhIV0ZFdnBMbjVPZVEydjVfY3pzdmpjMmx4ZF91YzJLeVhYLXNZTHNXVE5acW9PVUtEdUdhd1JzN3p0Y00zam1RR2s2Nlg2aDBlWTM3VQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli forces detain two Palestinians in Bethlehem governorate - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FalZiYi11dTJjRzZvaXhUb1M5Y0NiQlNmc3FmOXdaWnBCaTBEMjB3czc5bExpUHdMVkMxcWl3cEFjSFRPdTdsRFdEeGhkbWZoN0w3d3Axaw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON3BObXhNa3pXeVI0STRxWGNLTER6RTNJMGVIS21XSEwtY2w4emZYNElXdUZJRjhEaHA2dVc3XzNfeV9uMDBHMUE3Q3B6cGRMYWpJVWFqMmx2aXVhSzJtR1Rjei1scmJKNGRaZl90czRxbWpwRkpBeUFSbFpvSU1VaDJ1R1NVaGYzVVNSZkcxMFdXLWhHVXE5QkxfM0psSWRBUUdwRUd6c0RNMnRaTXROUWFUUzFBQTN6YURrd1pFSS1WakNSSWJmMl9pSnlTOGNxRGFtRzRjblFnYkRMRGxqTEt4SzQzeThiZl9pY29EdGRUR1NWLVRxbm10V19LeW50X3NxU0NYTVc5MjlzWDV2Y1dYckxvRmszblE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli drones strike south Lebanon hours after Washington deal",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Opinion | Opinion • Dear Israeli politicians: Instead of complaining, establish a Palestinian state",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZVhpSlllNVlDR1lnZU11SDd0N0RJLVpKLWk5R1hTWG1nYjZOYUxCM2M1QTBMSGxlTEJTUFkxTUJuUEhPalpsT2s1STlObGdjVGJHLTh3UFkzaU9NR0hUd2J3dWRBclJ0Wjd6RHY4SmpiRWVGcHZMNk1yTnk2WWJMZjdBM0txUWJzSTZLTm54Vm9FWHFkT05POENxZGphNzBOeC15Xy1NV04yWU93bHgyUkdLQURjZTFfZlBPWV9tXzRxaDgxalFNXzNPbWZNWE0yTU51dGhtUy1rMmNOQzAzbVZqS1BNcG96ZjVMR1FpLXM3MXVSdk9ERWRoXzNmVEc0dXFYeEdyeXJXWlZoN0FGaFV3VQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Armed Israeli Settlers Take Over Palestinian Home in PA-controlled Area B",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlYyZ09VaGt5dmdHSFBlN0hDREppZTRVRXRELXJLMF9iZkxOc2ZBWUdIWDhLaTN6NW5xeDE3RkdmN003ejRLenpJWWZDRjVQQjd1UTB5VUp3MExKdVZvbXpYT2Y3dmthbGtYOG9Za1FjWlgyZzBjZUl3ZFFXc1lVVTJEMXlsallxRG40UXZ1UFBVZkVGakxaZEt2c2E0b2pHeWxLWDlxOG5aSGVVVzcyNjRHUEUtN1ZON1ZubktFeHJVVmxTLXlqMWlJQ2pLQUoxcklXeE1YbWEwRXVsY3dtcnRkOVcxYTgyckhWYUM3QUtRVkdVUHJfb3ZZcw?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
     {
       "term": "Iran",
       "count": 18,
@@ -145,9 +31,9 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Trump Says Iran Has ‘Some Military Capability, Not Much’",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUNIBsAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUA?oc=5",
-          "source": "Al Arabiya",
+          "title": "Iran attacks Bahrain, Kuwait, after exchange of fire with US",
+          "url": "https://www.newarab.com/news/iran-attacks-bahrain-kuwait-after-exchange-fire-us",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -231,8 +117,110 @@
       ]
     },
     {
+      "term": "Israeli",
+      "count": 16,
+      "headlines": [
+        {
+          "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+          "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Palestinian injured by Israeli fire in Jerusalem camp, 13 detained during raids",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-injured-israeli-fire-jerusalem-camp-13-detained-during-raids",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel says troops killed armed fighters in southern Syria and Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-troops-killed-armed-fighters-southern-syria-and-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli drone strike hits southern Lebanon day after security deal",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFS2ZWN2prS0NhS1h0Wk00QkxBRVJFTXhNUzZuVlRQOE45M29TX19YNnV5YmpvSVFNUzBtOWwwNjkzakdsY2c1NjZjWVowYkZNX09RZTQ0OEtYNjFwODd6cU1RQ1hkRHVkQ3JMRnpOUzhjM1NVTWhpUFk4VGlJbWc0MXJVbjlFMXZ6NnJpT0o4dF83eGpldGxkbGUzWlJ4UkpKVGd2dFJoX3FUb0lBQTQ5STZfS2ZDZ1lib3FsR3NZcFc3cmlF0gHHAUFVX3lxTE80SEVLZlY3amtLQ2FLWHRaTTRCTEFFUkVNeE1TNm5WVFA4Tjkzb1NfX1g2dXliam9JUU1TMG05bDA2OTNqR2xjZzU2NmNZWjBiRk1fT1FlNDQ4S1g2MXA4N3pxTVFDWGREdWRDckxGek5TOGMzU1VNaGlQWThUaUltZzQxclVuOUUxdno2cmlPSjh0Xzd4amV0bGRsZTNaUnhSSkpUZ3Z0UmhfcVRvSUFBNDlJNl9LZkNnWWJvcWxHc1lwVzdyaUU?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel settlers seizing Palestinian land to open 'tourist' sites",
+          "url": "https://www.newarab.com/news/israel-settlers-seizing-palestinian-land-open-tourist-sites",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "صنعاء تصعّد موقفها تجاه الوجود الإسرائيلي في القرن الأفريقي",
+          "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNaHFOSmNQVmlEUUcycm5qdEh6bGg2OTFvWTVCZ0tDUmVESWx6MGhwWXBLdW01Qjg4NEc5OXRGa3llOG9jREo1LXRLb2ZDOWlLNzNieTBaa2NNWk1TNHJjSXdOSm9LQjFGc1hTRkQ3bXBRN0hycWRBdmpmSUFrN1hsaVJfbnhUbUdWU0N6SlliQkJtWWM0ZGc2VWxLRWlFOTVTdk1nQ01jd3lqREUwdnQ1T1h5MzFpSlJ4dHZQTmFjenNDZk1JVFVRQ2p5M1F2MnJVWkhhTkRDYU5mTVk5a1BGN2kyZjRoX29ZRFg4ZXZTbGd6Ty1XcnpYWVhmRGFyN0cxVVV1aXpPbnU5V0xDQVVrQUU0aDEwY3dkNlh4OU1TVHFxUlYzOEdaNGpMVU9NbmhDdjZhazNxbXN2Und5dDVOOUNzMnRkZi1ESUFBNW05UWptVy1Xcmh6X0RBWDFjdTItc25JZjY4Z1AxQmk0MnZHRkRGd1AtWV9ZQlhiSHlqY3VZQXJYTElEN2FkMEUzRjZmODd2aThlNXNhYVRMV0d5VHhLb2VFTDF4VnFqR3QxSmJpc2c0aUtNbWw5eDdGVmFXejFvYVNWeEhyb3dYTlNQZlZoQ2xsYy00TEFOTkZBRDh6TjZpV0tTVV93?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Jordan welcomes Lebanon–Israel framework agreement, calls for full Israeli withdrawal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemtnWmdSWmRLTzJfRDFSQlRPSFZlS19jVzdRYmxfVHN2ZkgwbXdzRlNCLWR1V2hGd3ZmWmRMMmtDaDJxNlhzS01tTEQyM190TU56Y3g3YlpLOGgxN3ZOc0picEpwNERkbEltd19JQUhzRXRCZEp0UnFVaGRDenlMTm53OXRrNWhOZWZiT2xaNFZNRDlyLVFFWDdCNFBfUWppbVVEY2Q1OEg0cUJ4QnJPQWtUeDg4Y2FhTUE?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "No confirmed reports of Israeli occupation claim that it 'took control' of Ali al-Taher",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVXZ6cGgxTTVLMG5XMUJSbEM4WUR0bUlhVnFSSzU3cWxYXzJUdzdHRjVHaTdCQVVyc0Z2Si1HSjJJTlNwMVZuN2lmT3VPTk5UTno2ZnhTbEFUcjFIWlpnTlpBM0FGT3EwWmRkbEd6RXVUZGRiRFVRMm5va1N3WnFnM0lMUDhtWTJUYmRQVFpRVVExak5jMXNfNHFuZ2dqNHhMVjYzUWxIR1pIbGEwSzBIMjVCR2VwaFh3MFloYlBlZnNUZDd4RGIwTnJ3NWtCRjdGQ1Jmbk9zcUg4X283b1NiLWFTZkVHazVhUEZyOWJn?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces detain two Palestinians, including journalist, during ongoing raid on Sebastia - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbjhFd212enhqYlhJUjRfVlJoMUtseGd6ZlNGbjE3WkM0RHVNVlU4dlY3MlpFUnF0bU9iZGN5NDVOQ1FxUTJZMS1JbDl2ZWFlNHBzNzRTaw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli settlers assault Palestinians in Masafer Yatta, raise Israeli flags in Umm al-Kheir - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TX195ZDJFSHptMnN0MlZjd1MyVHNaaUVvOUVneFlSbTNWdVVaUUJNWEdIdjl2eVU1LUJ5dW5qQmNxWEhkcG83ZW9jX3hFV1JUS0ZEUl9CWQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "11 Palestinians detained by Israeli occupation forces in Nablus - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTGhIV0ZFdnBMbjVPZVEydjVfY3pzdmpjMmx4ZF91YzJLeVhYLXNZTHNXVE5acW9PVUtEdUdhd1JzN3p0Y00zam1RR2s2Nlg2aDBlWTM3VQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces detain two Palestinians in Bethlehem governorate - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FalZiYi11dTJjRzZvaXhUb1M5Y0NiQlNmc3FmOXdaWnBCaTBEMjB3czc5bExpUHdMVkMxcWl3cEFjSFRPdTdsRFdEeGhkbWZoN0w3d3Axaw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON3BObXhNa3pXeVI0STRxWGNLTER6RTNJMGVIS21XSEwtY2w4emZYNElXdUZJRjhEaHA2dVc3XzNfeV9uMDBHMUE3Q3B6cGRMYWpJVWFqMmx2aXVhSzJtR1Rjei1scmJKNGRaZl90czRxbWpwRkpBeUFSbFpvSU1VaDJ1R1NVaGYzVVNSZkcxMFdXLWhHVXE5QkxfM0psSWRBUUdwRUd6c0RNMnRaTXROUWFUUzFBQTN6YURrd1pFSS1WakNSSWJmMl9pSnlTOGNxRGFtRzRjblFnYkRMRGxqTEt4SzQzeThiZl9pY29EdGRUR1NWLVRxbm10V19LeW50X3NxU0NYTVc5MjlzWDV2Y1dYckxvRmszblE?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli drones strike south Lebanon hours after Washington deal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Opinion | Opinion • Dear Israeli politicians: Instead of complaining, establish a Palestinian state",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZVhpSlllNVlDR1lnZU11SDd0N0RJLVpKLWk5R1hTWG1nYjZOYUxCM2M1QTBMSGxlTEJTUFkxTUJuUEhPalpsT2s1STlObGdjVGJHLTh3UFkzaU9NR0hUd2J3dWRBclJ0Wjd6RHY4SmpiRWVGcHZMNk1yTnk2WWJMZjdBM0txUWJzSTZLTm54Vm9FWHFkT05POENxZGphNzBOeC15Xy1NV04yWU93bHgyUkdLQURjZTFfZlBPWV9tXzRxaDgxalFNXzNPbWZNWE0yTU51dGhtUy1rMmNOQzAzbVZqS1BNcG96ZjVMR1FpLXM3MXVSdk9ERWRoXzNmVEc0dXFYeEdyeXJXWlZoN0FGaFV3VQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Armed Israeli Settlers Take Over Palestinian Home in PA-controlled Area B",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlYyZ09VaGt5dmdHSFBlN0hDREppZTRVRXRELXJLMF9iZkxOc2ZBWUdIWDhLaTN6NW5xeDE3RkdmN003ejRLenpJWWZDRjVQQjd1UTB5VUp3MExKdVZvbXpYT2Y3dmthbGtYOG9Za1FjWlgyZzBjZUl3ZFFXc1lVVTJEMXlsallxRG40UXZ1UFBVZkVGakxaZEt2c2E0b2pHeWxLWDlxOG5aSGVVVzcyNjRHUEUtN1ZON1ZubktFeHJVVmxTLXlqMWlJQ2pLQUoxcklXeE1YbWEwRXVsY3dtcnRkOVcxYTgyckhWYUM3QUtRVkdVUHJfb3ZZcw?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
       "term": "Lebanon",
-      "count": 12,
+      "count": 13,
       "headlines": [
         {
           "title": "Israel says troops killed armed fighters in southern Syria and Lebanon",
@@ -250,6 +238,12 @@
           "title": "Israeli drone strike hits southern Lebanon day after security deal",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFS2ZWN2prS0NhS1h0Wk00QkxBRVJFTXhNUzZuVlRQOE45M29TX19YNnV5YmpvSVFNUzBtOWwwNjkzakdsY2c1NjZjWVowYkZNX09RZTQ0OEtYNjFwODd6cU1RQ1hkRHVkQ3JMRnpOUzhjM1NVTWhpUFk4VGlJbWc0MXJVbjlFMXZ6NnJpT0o4dF83eGpldGxkbGUzWlJ4UkpKVGd2dFJoX3FUb0lBQTQ5STZfS2ZDZ1lib3FsR3NZcFc3cmlF0gHHAUFVX3lxTE80SEVLZlY3amtLQ2FLWHRaTTRCTEFFUkVNeE1TNm5WVFA4Tjkzb1NfX1g2dXliam9JUU1TMG05bDA2OTNqR2xjZzU2NmNZWjBiRk1fT1FlNDQ4S1g2MXA4N3pxTVFDWGREdWRDckxGek5TOGMzU1VNaGlQWThUaUltZzQxclVuOUUxdno2cmlPSjh0Xzd4amV0bGRsZTNaUnhSSkpUZ3Z0UmhfcVRvSUFBNDlJNl9LZkNnWWJvcWxHc1lwVzdyaUU?oc=5",
           "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon framework deal 'overwhelmingly in Israel's favour'",
+          "url": "https://www.newarab.com/news/lebanon-framework-deal-overwhelmingly-israels-favour",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -309,8 +303,122 @@
       ]
     },
     {
-      "term": "Iranian",
+      "term": "strikes",
       "count": 9,
+      "headlines": [
+        {
+          "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Morning update",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-572",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel says troops killed armed fighters in southern Syria and Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-troops-killed-armed-fighters-southern-syria-and-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran's Aragchi to 'discuss regional developments' with Iraqi officials",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-aragchi-discuss-regional-developments-iraqi-officials",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "5.2-magnitude earthquake strikes Southwestern Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDNvM0dMa2lMWXVxdkZDaGRNenhkenFFWnB1Q2JOWEY4OU9pZ3JTUkFBOFd3TW9jSHFNRUxkOTJuNC1xNldFRE1wWUVUQjhXaUplX3Q3UVNwQ0xhSi1ReHVDUmR6Q0c4MU8wd3FpNVg4WHc5ODZDY29HTUpTQ1lLa1kwdXI2REVFQlpXMUc5TXBrUTV1S1U1dzFCcTZWN05lM281N3lOaDZJNVFwd1HSAbMBQVVfeXFMUFlVTlpIVWxaUFhUWnc1SE1XUlFYMzdWbE1Xa0J4MnJqR01qZEVGY25JLXltTG5QdFkxaGthaWNEeFg5Ry0yZS1sRTNaMlNoZHdVUTBXM0JjcjBxejZ2aGJDOHVJTWpQaUZTMlFCemEwWjg5WWIzWDhmeUdsSXRDcVh1aHBhODFlTjd5NHdPLUdGVTVGMm1OSmp1Zk9MSnlXRXNDZHhKVnA3dEtoVVFsdEJpa3M?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Trump threatens to ‘complete the job’ in Iran as US military launches fresh strikes",
+          "url": "https://www.timesofisrael.com/trump-threatens-to-complete-the-job-in-iran-as-us-military-launches-fresh-strikes/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Iran targets Gulf after U.S. overnight strikes in response to Hormuz attack",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNTlpWC1oRmVCb3p1ZmFlVFdOWjF3a1NXUDlRT3RmclotaEpEVGhIWEhJZ3BMbFdXVXM1TUV0a3VYV0JQSG90SGdTRk1VQ0trdnpfa2UwUDE0VG5IeWkzSXZtbVJscXdyeHczbDhWbkQ3ZDZlbkNmMjZpMllMTDktNnU1RTYyRWhsMzNJR282SzI4ODRXSzF2a1FtWEtyNFpheXdJUXd0UHZxYlQzdmFRUEVHNHdrVFpveHBsNkxTVkxUdjRweVh6cjJDenVTLV9xbDZMTlFuNXhLdXNpZ0U3RWlaU0Z0enRwZzVGWmlPWExSLXVPVUhEWW1SMWF4M3hSSkU4SGl2MFVmZ1E?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Foreign Ministry: Latest strikes on southern Iran show US has no regard for its commitments",
+          "url": "https://en.irna.ir/news/86194685/Foreign-Ministry-Latest-strikes-on-southern-Iran-show-US-has",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Bahrain",
+      "count": 8,
+      "headlines": [
+        {
+          "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Residential building damaged in Iranian strike, says Bahrain ministry",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/residential-building-damaged-iranian-strike-says-bahrain-ministry",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran attacks Bahrain, Kuwait, after exchange of fire with US",
+          "url": "https://www.newarab.com/news/iran-attacks-bahrain-kuwait-after-exchange-fire-us",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Residential building badly damaged in Iranian attack, Bahrain government says",
+          "url": "https://www.egyptindependent.com/residential-building-badly-damaged-in-iranian-attack-bahrain-government-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Air raid siren sounded for a second time in Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Bahrain, Kuwait condemn ‘heinous, treacherous’ Iranian attacks on their territories",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "IRGC hits eight US targets in Kuwait, Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXBlcG5JX25kSjhfcXExSkx2YzlYZW9zVVZhTGpXbWtBUlZRMUgtelJqWGhfUDJPOVBxcDB2alBvaFpDZWxBeTlEUUtVbEJUY09tWFhUc3RnYVM1MzkwbkVGVU9zeHM2dXNzeU1naFNJWDN5OTZLZjBVYk0zOFctMWstWFNsWmM?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Iranian",
+      "count": 8,
       "headlines": [
         {
           "title": "Residential building damaged in Iranian strike, says Bahrain ministry",
@@ -349,12 +457,6 @@
           "region": "Levant"
         },
         {
-          "title": "الجيش الايراني: في الأيام الأخيرة من الحرب جرى استخدام طائرات مسيّرة جديدة وصواريخ مطورة",
-          "url": "https://www.almanar.com.lb/article/983742/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
           "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
           "source": "The National",
@@ -370,8 +472,14 @@
     },
     {
       "term": "agreement",
-      "count": 9,
+      "count": 8,
       "headlines": [
+        {
+          "title": "Lebanon framework deal 'overwhelmingly in Israel's favour'",
+          "url": "https://www.newarab.com/news/lebanon-framework-deal-overwhelmingly-israels-favour",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
         {
           "title": "تصعيد في مضيق هرمز واتفاق واشنطن يوسع الجدل في لبنان",
           "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOQWxKeFF5bnZJamRHLXd1M2RnNlFMV3E5MnpaVUUzOVhOTGt4TjRrWk5NOE1ZdXc5b1dPQXE0T2F6MmlpdnpPbGgtejJUNnk3RTB1Tk1JdXhVYU5RREFMVV9iY2dqTFFQT0VJN0JnVGtVVHd4LTlBc0hFNElxZGdzRk9EQXRNc0F6Y25KaS00SVBqdFRwS0FPTXpZd19qMnRXYkhfandreTd3ZjFMMzloNk5KVXVyT2dWQWdSdnhrb1FLOTlabk1fMHgtalZuTENGcmRVVTZQaTBJb3dhNmEzUEl1eFhkamZDelpud01peWRkVzFsV3pCTnMya29oYXhWVVFUcTF4WExjaVVseE1XVExkNUdxZWZhTFhSVUVXRlJTQXlzeVVyMUFxcVF4aXQ4WExrOEFsYU5yQk0xSkF3enYtdmQ2czlZalROUnVMSEs5bUZ2RVBGNGJPM1JEdzhPYTFneHlPMk9qa2Vib083Y1doN2F6b0dPWjJha3RBOVludzRaVnk3WTZUazZ0emx3WXJHeDR2NHB0TlhrcXZnMlQ5dHlFUDBIVTUxTVRXc1l4MFVtTmRGQjZ0SHFOeThvVUU4RURvOGVfS2dVSmtvNVVTMDJ3cUU0OXpBWWN2aHkyS2tWMUNQLUh0NWVWVGFPUDlkVWFwOUYzbmdmVmdSS3Q4YXp2RzFZemk4UQ?oc=5",
@@ -409,165 +517,9 @@
           "region": "Levant"
         },
         {
-          "title": "رابطة الشغيلة: كما سقط اتفاق 17 أيار يسقط اليوم هذا الاتفاق الإطاري تحت أقدام معادلات القوة لمقاومتنا الأسطورية والصمود الشعبي",
-          "url": "https://www.almanar.com.lb/article/983732/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "رابطة الشغيلة: اتفاق الإطار صك استسلام",
-          "url": "https://www.almanar.com.lb/article/983722/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
           "title": "A necessary Lebanon deal, undermined by Netanyahu’s delusions - opinion",
           "url": "https://www.jpost.com/opinion/article-900674",
           "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "strikes",
-      "count": 8,
-      "headlines": [
-        {
-          "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Morning update",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-572",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel says troops killed armed fighters in southern Syria and Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-troops-killed-armed-fighters-southern-syria-and-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran's Aragchi to 'discuss regional developments' with Iraqi officials",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-aragchi-discuss-regional-developments-iraqi-officials",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump threatens to ‘complete the job’ in Iran as US military launches fresh strikes",
-          "url": "https://www.timesofisrael.com/trump-threatens-to-complete-the-job-in-iran-as-us-military-launches-fresh-strikes/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Iran targets Gulf after U.S. overnight strikes in response to Hormuz attack",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNTlpWC1oRmVCb3p1ZmFlVFdOWjF3a1NXUDlRT3RmclotaEpEVGhIWEhJZ3BMbFdXVXM1TUV0a3VYV0JQSG90SGdTRk1VQ0trdnpfa2UwUDE0VG5IeWkzSXZtbVJscXdyeHczbDhWbkQ3ZDZlbkNmMjZpMllMTDktNnU1RTYyRWhsMzNJR282SzI4ODRXSzF2a1FtWEtyNFpheXdJUXd0UHZxYlQzdmFRUEVHNHdrVFpveHBsNkxTVkxUdjRweVh6cjJDenVTLV9xbDZMTlFuNXhLdXNpZ0U3RWlaU0Z0enRwZzVGWmlPWExSLXVPVUhEWW1SMWF4M3hSSkU4SGl2MFVmZ1E?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Foreign Ministry: Latest strikes on southern Iran show US has no regard for its commitments",
-          "url": "https://en.irna.ir/news/86194685/Foreign-Ministry-Latest-strikes-on-southern-Iran-show-US-has",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Bahrain",
-      "count": 7,
-      "headlines": [
-        {
-          "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Residential building damaged in Iranian strike, says Bahrain ministry",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/residential-building-damaged-iranian-strike-says-bahrain-ministry",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Residential building badly damaged in Iranian attack, Bahrain government says",
-          "url": "https://www.egyptindependent.com/residential-building-badly-damaged-in-iranian-attack-bahrain-government-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Air raid siren sounded for a second time in Bahrain",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Bahrain, Kuwait condemn ‘heinous, treacherous’ Iranian attacks on their territories",
-          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "IRGC hits eight US targets in Kuwait, Bahrain",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXBlcG5JX25kSjhfcXExSkx2YzlYZW9zVVZhTGpXbWtBUlZRMUgtelJqWGhfUDJPOVBxcDB2alBvaFpDZWxBeTlEUUtVbEJUY09tWFhUc3RnYVM1MzkwbkVGVU9zeHM2dXNzeU1naFNJWDN5OTZLZjBVYk0zOFctMWstWFNsWmM?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Palestinian",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Palestinian injured by Israeli fire in Jerusalem camp, 13 detained during raids",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-injured-israeli-fire-jerusalem-camp-13-detained-during-raids",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel settlers seizing Palestinian land to open 'tourist' sites",
-          "url": "https://www.newarab.com/news/israel-settlers-seizing-palestinian-land-open-tourist-sites",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
-          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Palestinian parties could hold key to Israel's next government",
-          "url": "https://www.newarab.com/news/palestinian-parties-could-hold-key-israels-next-government",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Opinion | Opinion • Dear Israeli politicians: Instead of complaining, establish a Palestinian state",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZVhpSlllNVlDR1lnZU11SDd0N0RJLVpKLWk5R1hTWG1nYjZOYUxCM2M1QTBMSGxlTEJTUFkxTUJuUEhPalpsT2s1STlObGdjVGJHLTh3UFkzaU9NR0hUd2J3dWRBclJ0Wjd6RHY4SmpiRWVGcHZMNk1yTnk2WWJMZjdBM0txUWJzSTZLTm54Vm9FWHFkT05POENxZGphNzBOeC15Xy1NV04yWU93bHgyUkdLQURjZTFfZlBPWV9tXzRxaDgxalFNXzNPbWZNWE0yTU51dGhtUy1rMmNOQzAzbVZqS1BNcG96ZjVMR1FpLXM3MXVSdk9ERWRoXzNmVEc0dXFYeEdyeXJXWlZoN0FGaFV3VQ?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        },
-        {
-          "title": "Armed Israeli Settlers Take Over Palestinian Home in PA-controlled Area B",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlYyZ09VaGt5dmdHSFBlN0hDREppZTRVRXRELXJLMF9iZkxOc2ZBWUdIWDhLaTN6NW5xeDE3RkdmN003ejRLenpJWWZDRjVQQjd1UTB5VUp3MExKdVZvbXpYT2Y3dmthbGtYOG9Za1FjWlgyZzBjZUl3ZFFXc1lVVTJEMXlsallxRG40UXZ1UFBVZkVGakxaZEt2c2E0b2pHeWxLWDlxOG5aSGVVVzcyNjRHUEUtN1ZON1ZubktFeHJVVmxTLXlqMWlJQ2pLQUoxcklXeE1YbWEwRXVsY3dtcnRkOVcxYTgyckhWYUM3QUtRVkdVUHJfb3ZZcw?oc=5",
-          "source": "Haaretz",
           "region": "Israel"
         }
       ]
@@ -615,38 +567,38 @@
       ]
     },
     {
-      "term": "Gaza",
+      "term": "Venezuela",
       "count": 5,
       "headlines": [
         {
-          "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-          "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
+          "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
+          "url": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Gaza rescue teams start new phase of operation to recover bodies",
-          "url": "https://www.newarab.com/news/gaza-rescue-teams-start-new-phase-operation-recover-bodies",
-          "source": "The New Arab",
+          "title": "Venezuelan earthquake death toll rises amid increasingly dire search",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/venezuelan-earthquake-death-toll-rises-amid-increasingly-dire-search?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
-          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "شهيد في غزة وتجدد خروقات الاحتلال لوقف النار",
-          "url": "https://www.almanar.com.lb/article/983762/",
-          "source": "Al Manar",
+          "title": "Venezuela quake death toll rises to 920, top lawmaker says",
+          "url": "https://www.egyptindependent.com/venezuela-quake-death-toll-rises-to-920-top-lawmaker-says/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Opinion | Opinion • 'No innocents in Gaza': Now, the IDF is applying that policy in the West Bank",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNFpielVUejd1c2NIUktJUFFfeXV5bDBfOEo1YkZ0VC1yZjYxYklPNFh3VWlLMFFveVluWUpyTnIxVFp1M053cXpmN2Z5dWoxOEVMVHJsV3ZyWHZwem0yaEctUUJmcS1FNThINU16a2VwVTRRdUVnVlJDcmNQM2ZpeHY0Si12aTVQTE5XUm9fTG52QjdLTjNtc2V6UlQyeFVLYXhrMXM1RnJJWWQweGV4NUVTVTdCSjJIRHFjUE5fVGZzNlRxV1VLdlZtZjR4bzN3RGlWa083YTJQeWlMSG45TTIxSllqaWswNnVKazUxRHFlaHVscGRGNHl5bG9DSU9yUk1kSWExdXphcTl6Y2c?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
+          "title": "Venezuela earthquake death toll rises to 1,430 as rescue efforts intensify",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkNqNjFvdkNTNXpkRFQ2UzZ3dTBTX3Z3SmwwSkJWV0duVEo1MjJTdTdUSnBpVGVyelI2alVMdVNUZk50T25uTUVWWmxnczFKMl9wTXpkMU1oSV9UTnZyeE9QU2tJbVIxTl9iWEVKYnZjVjR2aVpyRnlmam81R09fMi1fQ05YTWxycGx1OFpuVjNXQXVjR2d4QmFNMEpMX1NDdG50dy1zaG9qTDRhRzVVU2Z2dUtXUjFhYzkteDhn0gHQAUFVX3lxTE54Wlo5WEpCZVFxOXZYUU1YeVRqSXZGdHlFZWlXM2VZQV9TVWZKOW9RQ2lrWVVidUl0NUxGdHhLZUphUXk5bDY3bTFGWDJBMHZKVzhkUU1Wc29NcVVjWDdOMUI2SExabzVwSTAtX1JRNFVyQ1YtZDB0bTBkdkRWRmxlcWJCd0JZWTE0aWJ5VU5yQldEQW4xQjR5eWdlMzNjMkVMS1ZVeWRIY2EwSEUxalpJcUhqVGZtNjYwQk9jcmtlNFFGc1I5VWp1S2VERnFxUnM?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Qatar joins global rescue mission in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelBZcjRMQ2VVUUJRdEFHNkJwM0hIX2VVYldsdXRmZFNvbGtncFkyX0ZSLWdkSHZHa3FRMndkaFA2ZFZFcFhCcnBEcUNTNVFJSXlULXNQTDdIaUpwdVY4eV9WbXFwMlRPQzZRNmZGUGtVeFVwTjZIVGtpN2xEdkNaMDBoakkzMzEtcDI0R2NFTWxsSGxrZVQ1bm5R0gGfAUFVX3lxTE85dlZoVmpMSmlrU0lTOHFDYjdTdUJEc004a3J2bWxTYXJMNlgtejVoS3hZT0ZBQXpfUlp3NnhOc3FieGxnTzhfN1hFUGlGeklCU2hHRC16b2lINVRna2N4OHNTeDdlZ1ZValBnR2ZhUkJtUWJXZHA0azVyM3ZCUkR0cVU0ZlkyTno2MWRzMy1sM2h1SEZmY0ljVXI5QkYxWQ?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
         }
       ]
     },
@@ -759,32 +711,62 @@
       ]
     },
     {
-      "term": "Venezuela",
+      "term": "Kuwait",
       "count": 4,
       "headlines": [
         {
-          "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
-          "url": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
+          "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Venezuelan earthquake death toll rises amid increasingly dire search",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/venezuelan-earthquake-death-toll-rises-amid-increasingly-dire-search?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Iran attacks Bahrain, Kuwait, after exchange of fire with US",
+          "url": "https://www.newarab.com/news/iran-attacks-bahrain-kuwait-after-exchange-fire-us",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Venezuela quake death toll rises to 920, top lawmaker says",
-          "url": "https://www.egyptindependent.com/venezuela-quake-death-toll-rises-to-920-top-lawmaker-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Bahrain, Kuwait condemn ‘heinous, treacherous’ Iranian attacks on their territories",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
         },
         {
-          "title": "Venezuela earthquake death toll rises to 1,430 as rescue efforts intensify",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkNqNjFvdkNTNXpkRFQ2UzZ3dTBTX3Z3SmwwSkJWV0duVEo1MjJTdTdUSnBpVGVyelI2alVMdVNUZk50T25uTUVWWmxnczFKMl9wTXpkMU1oSV9UTnZyeE9QU2tJbVIxTl9iWEVKYnZjVjR2aVpyRnlmam81R09fMi1fQ05YTWxycGx1OFpuVjNXQXVjR2d4QmFNMEpMX1NDdG50dy1zaG9qTDRhRzVVU2Z2dUtXUjFhYzkteDhn0gHQAUFVX3lxTE54Wlo5WEpCZVFxOXZYUU1YeVRqSXZGdHlFZWlXM2VZQV9TVWZKOW9RQ2lrWVVidUl0NUxGdHhLZUphUXk5bDY3bTFGWDJBMHZKVzhkUU1Wc29NcVVjWDdOMUI2SExabzVwSTAtX1JRNFVyQ1YtZDB0bTBkdkRWRmxlcWJCd0JZWTE0aWJ5VU5yQldEQW4xQjR5eWdlMzNjMkVMS1ZVeWRIY2EwSEUxalpJcUhqVGZtNjYwQk9jcmtlNFFGc1I5VWp1S2VERnFxUnM?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "IRGC hits eight US targets in Kuwait, Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXBlcG5JX25kSjhfcXExSkx2YzlYZW9zVVZhTGpXbWtBUlZRMUgtelJqWGhfUDJPOVBxcDB2alBvaFpDZWxBeTlEUUtVbEJUY09tWFhUc3RnYVM1MzkwbkVGVU9zeHM2dXNzeU1naFNJWDN5OTZLZjBVYk0zOFctMWstWFNsWmM?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Palestinian",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Palestinian injured by Israeli fire in Jerusalem camp, 13 detained during raids",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-injured-israeli-fire-jerusalem-camp-13-detained-during-raids",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel settlers seizing Palestinian land to open 'tourist' sites",
+          "url": "https://www.newarab.com/news/israel-settlers-seizing-palestinian-land-open-tourist-sites",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Opinion | Opinion • Dear Israeli politicians: Instead of complaining, establish a Palestinian state",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZVhpSlllNVlDR1lnZU11SDd0N0RJLVpKLWk5R1hTWG1nYjZOYUxCM2M1QTBMSGxlTEJTUFkxTUJuUEhPalpsT2s1STlObGdjVGJHLTh3UFkzaU9NR0hUd2J3dWRBclJ0Wjd6RHY4SmpiRWVGcHZMNk1yTnk2WWJMZjdBM0txUWJzSTZLTm54Vm9FWHFkT05POENxZGphNzBOeC15Xy1NV04yWU93bHgyUkdLQURjZTFfZlBPWV9tXzRxaDgxalFNXzNPbWZNWE0yTU51dGhtUy1rMmNOQzAzbVZqS1BNcG96ZjVMR1FpLXM3MXVSdk9ERWRoXzNmVEc0dXFYeEdyeXJXWlZoN0FGaFV3VQ?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        },
+        {
+          "title": "Armed Israeli Settlers Take Over Palestinian Home in PA-controlled Area B",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVlYyZ09VaGt5dmdHSFBlN0hDREppZTRVRXRELXJLMF9iZkxOc2ZBWUdIWDhLaTN6NW5xeDE3RkdmN003ejRLenpJWWZDRjVQQjd1UTB5VUp3MExKdVZvbXpYT2Y3dmthbGtYOG9Za1FjWlgyZzBjZUl3ZFFXc1lVVTJEMXlsallxRG40UXZ1UFBVZkVGakxaZEt2c2E0b2pHeWxLWDlxOG5aSGVVVzcyNjRHUEUtN1ZON1ZubktFeHJVVmxTLXlqMWlJQ2pLQUoxcklXeE1YbWEwRXVsY3dtcnRkOVcxYTgyckhWYUM3QUtRVkdVUHJfb3ZZcw?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
         }
       ]
     },
@@ -819,86 +801,26 @@
       ]
     },
     {
-      "term": "Trump",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Trump Says Iran Has ‘Some Military Capability, Not Much’",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUNIBsAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUA?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "الولايات المتحدة الأميركية: الرئيس دونالد ترامب: الطائرات الأميركية ضربت مواقع تخزين الصواريخ والطائرات المسيرة الإيرانية ومواقع الرادار الساحلية",
-          "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQLV94VVZWb084YVllVVNDZk1BQkZkSE51a3NuS0Y5d3VzeGh0X2ppcGJ3RTJqOEFsanFoZUstMEh4ZGZQYUpsZDdSZUE2X3hUSk9qU2otOHdSVmhwUGlXREpLcFhuTmFZNkRTcHBHMk1PcTVuWktLUmJUUDVmd0h2T3FvZ290MDlUU2l1bzA0eTlVelI3aWlZa1ZaUEVVVWlhYkFwNTJCQng2TE5DOFlvX2phc3Y3TlY1NURWZ0FZMXBhZXdWWFIwdUxyYmp5d0hGS1ZmUWwycVVDaEhuVWZNUlJtaml1YXFveUxZU3AwOUt2eVpkQ1ZEZGtyellYeTlCUGZhT1VZYkdsSVdMOVkyVjFQbUFIeVRrQzVMY1llcTNhMTlnMW1iUkxKTG9qQ01IRi1VcDFVdzBNd0w5Y3JDcGNSaXNyM0RzaEhGT0xtUFdEc2FOZ1ZnM2hJbnZTcVpDODZSS2JfWjBHSExNS3BqbC01eUxieXNGVnJmZ2FDZkFfY09KMVRxd1VFSzZxR1pkU2FaZi0zeTdzelVBZ3hXT1o4cjgyYTB4eHhRNnlEV25CMWZDSnlxZWdMdXVpM0xBcnZYcWNkWG80aUFsNTlzQWxzeEFwZ042Y2FVcHpMcWR5Y1dZazlncHd5NmlYVlJPckxRWkhMaWFPYVlOUDRhNg?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump threatens to annihilate Iran after new exchange of attacks",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CWXNKN1lMY2psRVdUcU40Q0VkWHg2N095ajZZSW4waE9hOWRfU3YtNWpSM2FSR3Bpd1FkbGgybXVTcWJPVVlLT0hXMWhWWlJwZkVBay16ZnE4Yk5VekE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Trump threatens to ‘complete the job’ in Iran as US military launches fresh strikes",
-          "url": "https://www.timesofisrael.com/trump-threatens-to-complete-the-job-in-iran-as-us-military-launches-fresh-strikes/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "drones",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "الجيش الايراني: في الأيام الأخيرة من الحرب جرى استخدام طائرات مسيّرة جديدة وصواريخ مطورة",
-          "url": "https://www.almanar.com.lb/article/983742/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "حاكم مقاطعة كورسك الروسية ألكسندر خينشتين: الدفاعات الجوية الروسية أسقطت 117 مسيرة أوكرانية فوق المقاطعة خلال الـ24 ساعة الماضية",
-          "url": "https://www.almanar.com.lb/article/983747/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli drones strike south Lebanon hours after Washington deal",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Kuwait",
+      "term": "Gaza",
       "count": 3,
       "headlines": [
         {
-          "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+          "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+          "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Bahrain, Kuwait condemn ‘heinous, treacherous’ Iranian attacks on their territories",
-          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
-          "source": "Times of Israel",
-          "region": "Israel"
+          "title": "Gaza rescue teams start new phase of operation to recover bodies",
+          "url": "https://www.newarab.com/news/gaza-rescue-teams-start-new-phase-operation-recover-bodies",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "IRGC hits eight US targets in Kuwait, Bahrain",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXBlcG5JX25kSjhfcXExSkx2YzlYZW9zVVZhTGpXbWtBUlZRMUgtelJqWGhfUDJPOVBxcDB2alBvaFpDZWxBeTlEUUtVbEJUY09tWFhUc3RnYVM1MzkwbkVGVU9zeHM2dXNzeU1naFNJWDN5OTZLZjBVYk0zOFctMWstWFNsWmM?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Opinion | Opinion • 'No innocents in Gaza': Now, the IDF is applying that policy in the West Bank",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNFpielVUejd1c2NIUktJUFFfeXV5bDBfOEo1YkZ0VC1yZjYxYklPNFh3VWlLMFFveVluWUpyTnIxVFp1M053cXpmN2Z5dWoxOEVMVHJsV3ZyWHZwem0yaEctUUJmcS1FNThINU16a2VwVTRRdUVnVlJDcmNQM2ZpeHY0Si12aTVQTE5XUm9fTG52QjdLTjNtc2V6UlQyeFVLYXhrMXM1RnJJWWQweGV4NUVTVTdCSjJIRHFjUE5fVGZzNlRxV1VLdlZtZjR4bzN3RGlWa083YTJQeWlMSG45TTIxSllqaWswNnVKazUxRHFlaHVscGRGNHl5bG9DSU9yUk1kSWExdXphcTl6Y2c?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
         }
       ]
     },
@@ -923,30 +845,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNTlpWC1oRmVCb3p1ZmFlVFdOWjF3a1NXUDlRT3RmclotaEpEVGhIWEhJZ3BMbFdXVXM1TUV0a3VYV0JQSG90SGdTRk1VQ0trdnpfa2UwUDE0VG5IeWkzSXZtbVJscXdyeHczbDhWbkQ3ZDZlbkNmMjZpMllMTDktNnU1RTYyRWhsMzNJR282SzI4ODRXSzF2a1FtWEtyNFpheXdJUXd0UHZxYlQzdmFRUEVHNHdrVFpveHBsNkxTVkxUdjRweVh6cjJDenVTLV9xbDZMTlFuNXhLdXNpZ0U3RWlaU0Z0enRwZzVGWmlPWExSLXVPVUhEWW1SMWF4M3hSSkU4SGl2MFVmZ1E?oc=5",
           "source": "Haaretz",
           "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "strike",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Residential building damaged in Iranian strike, says Bahrain ministry",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/residential-building-damaged-iranian-strike-says-bahrain-ministry",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
-          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli drones strike south Lebanon hours after Washington deal",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
-          "source": "The National",
-          "region": "Gulf"
         }
       ]
     },
@@ -999,30 +897,6 @@
       ]
     },
     {
-      "term": "Netanyahu",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Palestinian parties could hold key to Israel's next government",
-          "url": "https://www.newarab.com/news/palestinian-parties-could-hold-key-israels-next-government",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "نتنياهو يكذب السلطة السياسية: لبنان وافق على بقائنا في الجنوب! - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPXzJVT0lNSWh3UTdRX2xMQ0dCbG5FdEdUUmZ3ZHdPUkRsWFE0NVV6NHp2dE55bFNSMEpVc3BTa2dXYXpIOW5RRHRXMDZ2RGdPNXFwMURHNlNSOXFId3QzeFpWWVcyZkpyY2JzckNTenc5VjFZY0R4RDZGdlNLRXRKSFEtYjVvbE1lN0hpUVlCVmx3SVYyc0ZOdTYxZ1BJLTd4WUE2Ykk3YllDQWppbXBhdFhCb3FEQ1k2Yzg5RzZkSUdRR05tNzJ4bVpNNGJtdy1kU2lBY05lTVl2eWdSamg3ZWIxSl9rVEM1UEFOcHFtZUpuRjh4ZW13aWNDRUxnQjVKNGhTMXFEQVZicmhoaVoxM3k3Y21sSHFHeE5pdGc4amV0a016S21mM2RrQmlNSGd1Ym1mSTFrREF4UnYwSklNb2pqbVAtemtvN3l6bE54cU1MWnl5YWJmS2RYbmstUHV5cUZ0blVUcGdWcHJUZjRKdFVrWDh6b3Qxc04xMFFIRG9xZnBMcVpaT0kxVm5FbWFJYmhiYkpOS3E3ZHhmeHNta3NZNVFEMGFpNGxwZzluRjhFZVF4aUZHMkV0d08zZG9CNEJZczVpVllrZ3VDTGFpTE5IZkZNWWxKenFLdFZHaldGRE95TDdCY0tkYVNlWmkycFQ0SkdFTQ?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "A necessary Lebanon deal, undermined by Netanyahu’s delusions - opinion",
-          "url": "https://www.jpost.com/opinion/article-900674",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "Washington",
       "count": 3,
       "headlines": [
@@ -1047,26 +921,26 @@
       ]
     },
     {
-      "term": "occupation",
+      "term": "Trump",
       "count": 3,
       "headlines": [
         {
-          "title": "No confirmed reports of Israeli occupation claim that it 'took control' of Ali al-Taher",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVXZ6cGgxTTVLMG5XMUJSbEM4WUR0bUlhVnFSSzU3cWxYXzJUdzdHRjVHaTdCQVVyc0Z2Si1HSjJJTlNwMVZuN2lmT3VPTk5UTno2ZnhTbEFUcjFIWlpnTlpBM0FGT3EwWmRkbEd6RXVUZGRiRFVRMm5va1N3WnFnM0lMUDhtWTJUYmRQVFpRVVExak5jMXNfNHFuZ2dqNHhMVjYzUWxIR1pIbGEwSzBIMjVCR2VwaFh3MFloYlBlZnNUZDd4RGIwTnJ3NWtCRjdGQ1Jmbk9zcUg4X283b1NiLWFTZkVHazVhUEZyOWJn?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "الولايات المتحدة الأميركية: الرئيس دونالد ترامب: الطائرات الأميركية ضربت مواقع تخزين الصواريخ والطائرات المسيرة الإيرانية ومواقع الرادار الساحلية",
+          "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQLV94VVZWb084YVllVVNDZk1BQkZkSE51a3NuS0Y5d3VzeGh0X2ppcGJ3RTJqOEFsanFoZUstMEh4ZGZQYUpsZDdSZUE2X3hUSk9qU2otOHdSVmhwUGlXREpLcFhuTmFZNkRTcHBHMk1PcTVuWktLUmJUUDVmd0h2T3FvZ290MDlUU2l1bzA0eTlVelI3aWlZa1ZaUEVVVWlhYkFwNTJCQng2TE5DOFlvX2phc3Y3TlY1NURWZ0FZMXBhZXdWWFIwdUxyYmp5d0hGS1ZmUWwycVVDaEhuVWZNUlJtaml1YXFveUxZU3AwOUt2eVpkQ1ZEZGtyellYeTlCUGZhT1VZYkdsSVdMOVkyVjFQbUFIeVRrQzVMY1llcTNhMTlnMW1iUkxKTG9qQ01IRi1VcDFVdzBNd0w5Y3JDcGNSaXNyM0RzaEhGT0xtUFdEc2FOZ1ZnM2hJbnZTcVpDODZSS2JfWjBHSExNS3BqbC01eUxieXNGVnJmZ2FDZkFfY09KMVRxd1VFSzZxR1pkU2FaZi0zeTdzelVBZ3hXT1o4cjgyYTB4eHhRNnlEV25CMWZDSnlxZWdMdXVpM0xBcnZYcWNkWG80aUFsNTlzQWxzeEFwZ042Y2FVcHpMcWR5Y1dZazlncHd5NmlYVlJPckxRWkhMaWFPYVlOUDRhNg?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
         },
         {
-          "title": "11 Palestinians detained by Israeli occupation forces in Nablus - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTGhIV0ZFdnBMbjVPZVEydjVfY3pzdmpjMmx4ZF91YzJLeVhYLXNZTHNXVE5acW9PVUtEdUdhd1JzN3p0Y00zam1RR2s2Nlg2aDBlWTM3VQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "Trump threatens to annihilate Iran after new exchange of attacks",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CWXNKN1lMY2psRVdUcU40Q0VkWHg2N095ajZZSW4waE9hOWRfU3YtNWpSM2FSR3Bpd1FkbGgybXVTcWJPVVlLT0hXMWhWWlJwZkVBay16ZnE4Yk5VekE?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         },
         {
-          "title": "الاحتلال يغلق مسجد الرأس أمام المصلين في الخليل",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSi1Ka2xYTVIwSWRzbUNiTERQS1JocnpRcG1ZMmdpS0R0VUVhZmJhZlpIUWVfSFpEcUtMRVZaNThxOVE2RVlFNGpRb0FRRWZyZ1FucEViOFhKcTdlQmNUeXZSUWZLR3BoM1FKY285Ujk3QWVwbUdwcHVRaTNTMWFYRmsxUW00Zk9mUEVXMXFBbkV1NkdwOHpadmZQZC1XS1ViSmMtdFZweHhuUW1BRDBycDlhZ2UxMG95WnZteGJrV016dUxNZGtaNUF1Wm52cHFRSzJrbzJYb2RZWnFXWFdVRlVVZktrZ3lwb0lkUlUzR0ZLVHJGX1hnaDVFZlpKWEpod18yUFBraDAwVTV6MFdrSDE3amlTLVVV?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
+          "title": "Trump threatens to ‘complete the job’ in Iran as US military launches fresh strikes",
+          "url": "https://www.timesofisrael.com/trump-threatens-to-complete-the-job-in-iran-as-us-military-launches-fresh-strikes/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -1119,20 +993,44 @@
       ]
     },
     {
-      "term": "conflict",
+      "term": "Qatar",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Viral low-pass plane video: Qatar Airways responds after Texas flight sparks debate",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnh2Ny0zWlNsbVJIdGM0cmFMbnNuVlJyQWxuZGtVZ1JiZDlheUxCTjdNUVM5SHhXNU9HVEtkdDJJd1I1WERkZGVaRFZrUGJFeXpYd0dVUnBscm9tZU5HcHJWUDI4WHhaWTFwODRUdU53M3VOdGs2WkZKLXd5ZDRjUklfUFBPUTZTa2JvcExHSEowOVEtUmNuREtCY0ZjZlVMV2tmZERuZlFVUU0tNFBRU3QyYjBTNmVMblpDVlU2V25rbGNQU2c?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Qatar joins global rescue mission in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelBZcjRMQ2VVUUJRdEFHNkJwM0hIX2VVYldsdXRmZFNvbGtncFkyX0ZSLWdkSHZHa3FRMndkaFA2ZFZFcFhCcnBEcUNTNVFJSXlULXNQTDdIaUpwdVY4eV9WbXFwMlRPQzZRNmZGUGtVeFVwTjZIVGtpN2xEdkNaMDBoakkzMzEtcDI0R2NFTWxsSGxrZVQ1bm5R0gGfAUFVX3lxTE85dlZoVmpMSmlrU0lTOHFDYjdTdUJEc004a3J2bWxTYXJMNlgtejVoS3hZT0ZBQXpfUlp3NnhOc3FieGxnTzhfN1hFUGlGeklCU2hHRC16b2lINVRna2N4OHNTeDdlZ1ZValBnR2ZhUkJtUWJXZHA0azVyM3ZCUkR0cVU0ZlkyTno2MWRzMy1sM2h1SEZmY0ljVXI5QkYxWQ?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        },
+        {
+          "title": "Expert: Cybersecurity key for Qatar’s digital growth",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjczUHViSEgtSlh6dFZIZ3RPeGVoRTJra3djelpOeFpvaXlFU083YUl2YnA4S3VDck0xak5fcVM1SzNfa0dlY1A1NXBvdjdhaDc1NzFYUkoxQmFpVG11d0p0Wl9PRktqcjJYRC0xb1NqYVZsTW1mNWE1Um9PNHlVMzItTjR2M3pibEpNbTh3T1Q4SFIxWkgxOVdsZ3hrSms?oc=5",
+          "source": "Gulf Times",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "ceasefire",
       "count": 2,
       "headlines": [
         {
-          "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-          "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+          "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+          "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "الجيش الايراني: في الأيام الأخيرة من الحرب جرى استخدام طائرات مسيّرة جديدة وصواريخ مطورة",
-          "url": "https://www.almanar.com.lb/article/983742/",
-          "source": "Al Manar",
-          "region": "Levant"
+          "title": "Lebanon framework deal 'overwhelmingly in Israel's favour'",
+          "url": "https://www.newarab.com/news/lebanon-framework-deal-overwhelmingly-israels-favour",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -1151,6 +1049,24 @@
           "url": "https://www.egyptindependent.com/residential-building-badly-damaged-in-iranian-attack-bahrain-government-says/",
           "source": "Egypt Independent",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "strike",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Residential building damaged in Iranian strike, says Bahrain ministry",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/residential-building-damaged-iranian-strike-says-bahrain-ministry",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli drones strike south Lebanon hours after Washington deal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
+          "source": "The National",
+          "region": "Gulf"
         }
       ]
     },
@@ -1245,24 +1161,6 @@
       ]
     },
     {
-      "term": "drone strike",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israeli drone strike hits southern Lebanon day after security deal",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFS2ZWN2prS0NhS1h0Wk00QkxBRVJFTXhNUzZuVlRQOE45M29TX19YNnV5YmpvSVFNUzBtOWwwNjkzakdsY2c1NjZjWVowYkZNX09RZTQ0OEtYNjFwODd6cU1RQ1hkRHVkQ3JMRnpOUzhjM1NVTWhpUFk4VGlJbWc0MXJVbjlFMXZ6NnJpT0o4dF83eGpldGxkbGUzWlJ4UkpKVGd2dFJoX3FUb0lBQTQ5STZfS2ZDZ1lib3FsR3NZcFc3cmlF0gHHAUFVX3lxTE80SEVLZlY3amtLQ2FLWHRaTTRCTEFFUkVNeE1TNm5WVFA4Tjkzb1NfX1g2dXliam9JUU1TMG05bDA2OTNqR2xjZzU2NmNZWjBiRk1fT1FlNDQ4S1g2MXA4N3pxTVFDWGREdWRDckxGek5TOGMzU1VNaGlQWThUaUltZzQxclVuOUUxdno2cmlPSjh0Xzd4amV0bGRsZTNaUnhSSkpUZ3Z0UmhfcVRvSUFBNDlJNl9LZkNnWWJvcWxHc1lwVzdyaUU?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli strike kills Palestinian siblings in Gaza tent camp",
-          "url": "https://www.newarab.com/news/israeli-strike-kills-palestinian-siblings-gaza-tent-camp",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
       "term": "European",
       "count": 2,
       "headlines": [
@@ -1317,6 +1215,24 @@
       ]
     },
     {
+      "term": "occupation",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "No confirmed reports of Israeli occupation claim that it 'took control' of Ali al-Taher",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVXZ6cGgxTTVLMG5XMUJSbEM4WUR0bUlhVnFSSzU3cWxYXzJUdzdHRjVHaTdCQVVyc0Z2Si1HSjJJTlNwMVZuN2lmT3VPTk5UTno2ZnhTbEFUcjFIWlpnTlpBM0FGT3EwWmRkbEd6RXVUZGRiRFVRMm5va1N3WnFnM0lMUDhtWTJUYmRQVFpRVVExak5jMXNfNHFuZ2dqNHhMVjYzUWxIR1pIbGEwSzBIMjVCR2VwaFh3MFloYlBlZnNUZDd4RGIwTnJ3NWtCRjdGQ1Jmbk9zcUg4X283b1NiLWFTZkVHazVhUEZyOWJn?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "11 Palestinians detained by Israeli occupation forces in Nablus - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTGhIV0ZFdnBMbjVPZVEydjVfY3pzdmpjMmx4ZF91YzJLeVhYLXNZTHNXVE5acW9PVUtEdUdhd1JzN3p0Y00zam1RR2s2Nlg2aDBlWTM3VQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "Ukraine",
       "count": 2,
       "headlines": [
@@ -1335,20 +1251,20 @@
       ]
     },
     {
-      "term": "Workers",
+      "term": "Netanyahu",
       "count": 2,
       "headlines": [
         {
-          "title": "رابطة الشغيلة: كما سقط اتفاق 17 أيار يسقط اليوم هذا الاتفاق الإطاري تحت أقدام معادلات القوة لمقاومتنا الأسطورية والصمود الشعبي",
-          "url": "https://www.almanar.com.lb/article/983732/",
-          "source": "Al Manar",
+          "title": "نتنياهو يكذب السلطة السياسية: لبنان وافق على بقائنا في الجنوب! - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPXzJVT0lNSWh3UTdRX2xMQ0dCbG5FdEdUUmZ3ZHdPUkRsWFE0NVV6NHp2dE55bFNSMEpVc3BTa2dXYXpIOW5RRHRXMDZ2RGdPNXFwMURHNlNSOXFId3QzeFpWWVcyZkpyY2JzckNTenc5VjFZY0R4RDZGdlNLRXRKSFEtYjVvbE1lN0hpUVlCVmx3SVYyc0ZOdTYxZ1BJLTd4WUE2Ykk3YllDQWppbXBhdFhCb3FEQ1k2Yzg5RzZkSUdRR05tNzJ4bVpNNGJtdy1kU2lBY05lTVl2eWdSamg3ZWIxSl9rVEM1UEFOcHFtZUpuRjh4ZW13aWNDRUxnQjVKNGhTMXFEQVZicmhoaVoxM3k3Y21sSHFHeE5pdGc4amV0a016S21mM2RrQmlNSGd1Ym1mSTFrREF4UnYwSklNb2pqbVAtemtvN3l6bE54cU1MWnl5YWJmS2RYbmstUHV5cUZ0blVUcGdWcHJUZjRKdFVrWDh6b3Qxc04xMFFIRG9xZnBMcVpaT0kxVm5FbWFJYmhiYkpOS3E3ZHhmeHNta3NZNVFEMGFpNGxwZzluRjhFZVF4aUZHMkV0d08zZG9CNEJZczVpVllrZ3VDTGFpTE5IZkZNWWxKenFLdFZHaldGRE95TDdCY0tkYVNlWmkycFQ0SkdFTQ?oc=5",
+          "source": "Al-Akhbar",
           "region": "Levant"
         },
         {
-          "title": "رابطة الشغيلة: اتفاق الإطار صك استسلام",
-          "url": "https://www.almanar.com.lb/article/983722/",
-          "source": "Al Manar",
-          "region": "Levant"
+          "title": "A necessary Lebanon deal, undermined by Netanyahu’s delusions - opinion",
+          "url": "https://www.jpost.com/opinion/article-900674",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     },
@@ -1385,6 +1301,24 @@
           "url": "https://www.jpost.com/middle-east/article-900676",
           "source": "Jerusalem Post",
           "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "drones",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli drones strike south Lebanon hours after Washington deal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
+          "source": "The National",
+          "region": "Gulf"
         }
       ]
     },
