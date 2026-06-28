@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T15:37:07.162791+00:00",
+  "updated": "2026-06-28T16:05:57.966188+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Israel strikes Lebanon, testing days-old peace deal",
+            "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
+            "published": "2026-06-28T15:53:07+00:00",
+            "snippet": "Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south."
+          },
           {
             "title": "Iraq arrests senior officials in anti-corruption raids",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
             "published": "2026-06-28T14:46:32+00:00",
             "snippet": "Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image."
-          },
-          {
-            "title": "European heatwave causes 1,000 excess deaths in France",
-            "url": "https://www.aljazeera.com/news/2026/6/28/european-heatwave-causes-1000-excess-deaths-in-france?traffic_source=rss",
-            "published": "2026-06-28T14:38:09+00:00",
-            "snippet": "AFP estimates that at least 191 million people are forecast to experience temperatures of at least 35C in Europe."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Iran and Lebanon speakers discuss Israel’s war",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-lebanon-speakers-discuss-israels-war",
+            "published": "2026-06-28T15:52:33+00:00",
+            "snippet": "Iran and Lebanon speakers discuss Israel’s war Iran’s Parliament Speaker Mohammad Bagher Ghalibaf has spoken by phone with Lebanese Parliament Speaker Nabih Berri to discuss the latest developments in the region, Iran’s semi-official Tasnim news agency reports."
+          },
           {
             "title": "Israeli army chief says 'we will honour' Lebanon agreement",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-says-we-will-honour-lebanon-agreement",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-journalists-syrian-village",
             "published": "2026-06-28T13:50:55+00:00",
             "snippet": "Israeli soldiers shoot at journalists in Syrian village Footage showed Israeli soldiers shooting at a Syrian news crew reporting on Israel’s incursion into a Syrian village."
-          },
-          {
-            "title": "Israeli extremists are terrorising Palestinian Christians and their holy sites",
-            "url": "https://www.middleeasteye.net/opinion/israeli-extremists-are-terrorising-palestinian-christians-and-their-holy-sites",
-            "published": "2026-06-28T13:49:17+00:00",
-            "snippet": "Israeli extremists are terrorising Palestinian Christians and their holy sites Submitted by Janan Abdu on Sun, 06/28/2026 - 11:27 With Religious Zionism dominating key institutions of the Israeli state, police and courts fail to hold its adherents accountable for attacks on Christian communities A w"
           }
         ],
         "error": null
@@ -99,10 +99,10 @@
             "snippet": "Saudi Aramco helicopter crash kills 14 in Ras Tanura Al Arabiya English"
           },
           {
-            "title": "Iran FM warns any challenge to Hormuz strait will ‘increase tensions’",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWRTTDktbjcyYzBZQm16RjU3Z3NKWnlzUkllTU9hMEZCa2k3SUtTeDAzUGZXMW14QjFMTjFzRzRwVG55TFhORWc2bEdPUjN0MlNCYmwyak1hd19GQWVXRTRQbHJSS2dFcC12NUFubmh6SGp2VHlsbVhNcHRZNU9zOWpKUHNoSld1QmhDZmhFcWREMl8tdjM4Y2ZIa1h5SUZyYW5mSUNBcTNETkVta21nTndjYkRlejFCRGJiYmVpcFhoWHItOVktUXZB0gHKAUFVX3lxTE95ZFNMOS1uNzJjMFlCbXpGNTdnc0paeXNSSWVNT2EwRkJraTdJS1N4MDNQZlcxbXhCMUxOMXNHNHBUbnlMWE5FZzZsR09SM3QyU0JibDJqTWF3X0ZBZVdFNFBsclJLZ0VwLXY1QW5uaHpIanZUeWxtWE1wdFk1T3M5akpQc2hKV3VCaENmaEVxZEQyXy12MzhjZkhrWHlJRnJhbmZJQ0FxM0RORW1rbWdOd2NiRGV6MUJEYmJiZWlwWGhYci05WS1RdkE?oc=5",
-            "published": "2026-06-28T10:04:00+00:00",
-            "snippet": "Iran FM warns any challenge to Hormuz strait will ‘increase tensions’ Al Arabiya English"
+            "title": "Only Tehran Will Restore Pre-War Hormuz Traffic: Araghchi",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjB5RktPNWg0Z0pycFFILWRyem5rOTU5YXowblBiU0NSX1loUVVZMXBGSTJwNXRycFoyTFhwZkFyX203bnRfSktmWmNIZDIyR0kyT2w3bEdIUjhqcEVnVEhDcTF1LWpzb2FSektTU3hYcDJ3VlI5bkd5NnI1Z3lNbURwbGlwTmJkbGZSU3BMU1Axbkl6T2xNbl81YXlRNUJFaFBOVGI1VzhRTERiTnI4NHRR0gGyAUFVX3lxTFBKMHlGS081aDRnSnJwUUgtZHJ6bms5NTlhejBuUGJTQ1JfWWhRVVkxcEZJMnA1dHJwWjJMWHBmQXJfbTdudF9KS2ZaY0hkMjJHSTJPbDdsR0hSOGpwRWdUSENxMXUtanNvYVJ6S1NTeFhwMndWUjluR3k2cjVneU1tRHBsaXBOYmRsZlJTcExTUDFuSXpPbE1uXzVheVE1QkVoUE5UYjVXOFFMRGJOcjg0dFE?oc=5",
+            "published": "2026-06-28T12:02:28+00:00",
+            "snippet": "Only Tehran Will Restore Pre-War Hormuz Traffic: Araghchi Al Arabiya English"
           },
           {
             "title": "Ukraine hits two Russian oil refineries overnight",
@@ -126,6 +126,12 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "Familiarity adds spice to Morocco-Netherlands last-32 clash",
+            "url": "https://www.newarab.com/news/familiarity-adds-spice-morocco-netherlands-last-32-clash",
+            "published": "2026-06-28T15:45:41+00:00",
+            "snippet": "Morocco have drawn extensively on Dutch expertise over the last decade to build a team which reached the semi-finals at the last World Cup"
+          },
+          {
             "title": "Saudi Aramco helicopter crash kills 14 nationals",
             "url": "https://www.newarab.com/news/saudi-aramco-helicopter-crash-kills-14-nationals",
             "published": "2026-06-28T14:30:00+00:00",
@@ -148,12 +154,6 @@
             "url": "https://www.newarab.com/news/thousands-gaza-suffer-hearing-damage-israeli-attacks",
             "published": "2026-06-28T11:37:35+00:00",
             "snippet": "Tens of thousands of people in Gaza have sustained significant hearing damage due to Israeli bombing since October 2023, according to UN reports."
-          },
-          {
-            "title": "Iran FM: Any challenge to Hormuz routes will 'increase tensions'",
-            "url": "https://www.newarab.com/news/iran-fm-any-challenge-hormuz-routes-will-increase-tensions",
-            "published": "2026-06-28T10:58:39+00:00",
-            "snippet": "Iran's Foreign Minister stated that any challenge to the routes in the Strait of Hormuz will escalate tensions. This comes amid recent clashes testing a peace negotiation process."
           }
         ],
         "error": null
@@ -290,6 +290,12 @@
             "snippet": "Live - Iran’s Supreme Leader urges judiciary to pursue war-related crimes | Iran International ایران اینترنشنال"
           },
           {
+            "title": "Iran has no choice but nuclear bomb - IRGC media - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NejZhT0ZmaGo3alhWNkRkWmZpcmdjWTlWMEduZ1N1Y1JnNmVNbnhnMzlrZEhlUmVlb2FWejBtQ05VN1ZBNTZKblJYNUtXYWtFS2c?oc=5",
+            "published": "2026-06-28T12:16:05+00:00",
+            "snippet": "Iran has no choice but nuclear bomb - IRGC media ایران اینترنشنال"
+          },
+          {
             "title": "Iraq arrests officials tied to Iran-aligned parties in Baghdad raids, sources say - ایران اینترنشنال",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NkhfN0JzN1licVNLd3lvX1FISDNXY1RQMkViZ2NBczdDek5jdmYzemQ1eWhTUjlyeDQtdzNBLW42VjJIT09sMnVteUFGSUMwQVE?oc=5",
             "published": "2026-06-28T11:03:44+00:00",
@@ -306,12 +312,6 @@
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSHUweFd1UDhPcHpfQ2FGVTduX3VGY0pqTDF6cUdhLUpCcTlKQlJoc3hoWWFkUE1EWjlxRTIzeThGdHhFVTNUUjNVMTYwekg5R0E?oc=5",
             "published": "2026-06-27T21:48:17+00:00",
             "snippet": "US forces conducted additional strikes in Iran subsequent to an attack on a tanker, according to CENTCOM."
-          },
-          {
-            "title": "Atlas of Iran’s Missile Cities - ایران اینترنشنال",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdXh2LU83TlJQSXlSdHRLYko0MjF5UzVpMG0wZWx6b2h2WGw4M3V3R2MySzhJc0Q3dVhBTk50WGNhSFBmd25GRjhXWjFmU045UHQ0OWFPNEpVS25Vd2d0T3A4MA?oc=5",
-            "published": "2026-06-27T20:32:58+00:00",
-            "snippet": "Atlas of Iran’s Missile Cities ایران اینترنشنال"
           }
         ],
         "error": null
@@ -481,6 +481,18 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "التجمع الإسلامي للمهندسين: “الإطار الثلاثي” تجاوز لحق اللبنانيين في تقرير مصيرهم بأنفسهم ومساس بالسيادة الوطنية",
+            "url": "https://www.almanar.com.lb/article/984782/",
+            "published": "2026-06-28T15:58:46+00:00",
+            "snippet": "اعلن التجمع الإسلامي للمهندسين انه ينظر ببالغ الخطورة إلى ما أُعلن أخيرًا تحت مسمى «الإطار الثلاثي» بين الولايات المتحدة الأميركية والعدو الإسرائيلي والجمهورية اللبنانية، لما ينطوي عليه من تجاوزٍ لحق اللبنانيين في تقرير مصيرهم بأنفسهم، ومن مساسٍ بمبدأ السيادة الوطنية الذي يشكل الركيزة الأساسية لأي م"
+          },
+          {
+            "title": "مراسل المنار: العدو الإسرائيلي يُلقي قنبلة صوتية على نبع إبل السقي بالقرب من مزارعين دون وقوع إصابات",
+            "url": "https://www.almanar.com.lb/article/984752/",
+            "published": "2026-06-28T15:47:12+00:00",
+            "snippet": ""
+          },
+          {
             "title": "قوات الاحتلال الاسرائيلي تقتحم بلدة عناتا شمال القدس المحتلة",
             "url": "https://www.almanar.com.lb/article/984737/",
             "published": "2026-06-28T15:24:04+00:00",
@@ -497,18 +509,6 @@
             "url": "https://www.almanar.com.lb/article/984672/",
             "published": "2026-06-28T15:04:50+00:00",
             "snippet": ""
-          },
-          {
-            "title": "معارضو اتفاق الإطار: البند 13 يوقف ملاحقة الاحتلال قانونيًا وسياسيًا",
-            "url": "https://www.almanar.com.lb/article/984702/",
-            "published": "2026-06-28T14:58:36+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "الشيخ ماهر حمود: اتفاق الاطار بين السلطة والكيان يمهد الطريق أمام التطبيع وفرض الهيمنة ويزرع بذور الفتنة",
-            "url": "https://www.almanar.com.lb/article/984687/",
-            "published": "2026-06-28T14:51:19+00:00",
-            "snippet": "رأى رئيس “الاتحاد العالمي لعلماء المقاومة” الشيخ ماهر حمود في بيان، أن “الاتفاق الإطاري يقوم على قلب الحقائق وعكس البديهيات، إذ يربط انسحاب العدو من الأرض المحتلة بنزع سلاح المقاومة التي حمت لبنان وردعت عدوانه”، معتبرا أنه “يندرج في سياق مشروع اميركي إسرائيلي أوسع، يستهدف إعادة رسم المنطقة بما يخدم"
           }
         ],
         "error": null
@@ -519,6 +519,18 @@
         "lang": "en",
         "url": "https://english.wafa.ps",
         "headlines": [
+          {
+            "title": "Occupation forces detain three young men from Ramallah-area village after colonists' assault - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hSVBYTHJCZ3ZMQnA0NlRnN1pqbGZuWFltRFdhNXI1Z1hMTmtnZ09iNE5xRTBjaGxaN0d4SUUtaHNuY3U2ZkpKcWRIS0hXVTg2OExYUDBjTQ?oc=5",
+            "published": "2026-06-28T15:47:08+00:00",
+            "snippet": "Occupation forces detain three young men from Ramallah-area village after colonists' assault WAFA Agency"
+          },
+          {
+            "title": "Israeli forces raid town near Jerusalem, assault several young men - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rYXJZbm9YNnAzVHR2SkRhV0xLUVFmcWdKOE81Rkd2ZG9DU1Zub05ZVzZwOGMyaXJWTFd5SDVHSHNyOWI0RHJWczh4ZnJERE1DTGtiN3dycw?oc=5",
+            "published": "2026-06-28T15:46:56+00:00",
+            "snippet": "Israeli forces raid town near Jerusalem, assault several young men WAFA Agency"
+          },
           {
             "title": "Several injured in Israeli airstrike targeting tent sheltering displaced people in Khan Younis - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WZHE2N2hyMXJmQkd2NThNdDFDOF9YNTR4eDY2OEk1QnpiZjVnaEt4Ylo5Q005TTRuTU1MaXVjNGN0RlhOaC1jZWVIbF94LVo4dnJ2LVJIYw?oc=5",
@@ -536,18 +548,6 @@
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tQkxRbUxJYk5DT21aTDE4SVItbkpDVmdmSWRWM1hGWDZfMFg1ZkdSTnVDTFNxd2NGaXczRDFjNHpiTFJza3puTGRuc1RpX3lQVklFODFtYw?oc=5",
             "published": "2026-06-28T12:04:31+00:00",
             "snippet": "Palestinian Monetary Authority says Israeli restrictions are driving shekel cash crisis WAFA Agency"
-          },
-          {
-            "title": "Israeli forces detain two women during raid on village east of Bethlehem - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paXBUdFFpbURMX0E2ckwwM1J4ZEwtRTVraXdpMWsxXzlNVGVpSkxhTW53cVZsdFVNcTlvQ0xwYjdic2lfeU1lTVQ0NmR6eUZpdHRrZHlkdw?oc=5",
-            "published": "2026-06-28T11:59:30+00:00",
-            "snippet": "Israeli forces detained two women during a raid on a village east of Bethlehem."
-          },
-          {
-            "title": "Family informed of Palestinian's death a year and a half after Israel kept his fate secret - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3bWIyY1lHRndnekNTaXgyTUphbzNCcVNlaVJ6ZEtNNWtydUVoX0xwMEVIRzBGbkZteS1WSkdXN2R5VHdWeGNzTmVfNlRHcUNpN3FkSzVtRQ?oc=5",
-            "published": "2026-06-28T11:49:59+00:00",
-            "snippet": "A Palestinian's family was informed of his death a year and a half after Israel kept his fate secret."
           }
         ],
         "error": null
@@ -600,6 +600,12 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
+            "title": "Closing Bell: Saudi main index closes in red; Nomu gains",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YNTU4dkFHOFprTmRiYzh5UmkzdkllRWpLZklJdVdUcDloM2RaMFAxM3lVRjd3aEMtc1NYaVd0NHVzUXctMjdBMW9mOV90ZXVFaVlr?oc=5",
+            "published": "2026-06-28T13:26:50+00:00",
+            "snippet": "Closing Bell: Saudi main index closes in red; Nomu gains Arab News"
+          },
+          {
             "title": "Saudi Aramco helicopter crash kills 14",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoNHJIelFHUkFvRzlmeHBmVTEzYVFKcXBtZWRWN0R0LW80MVhKRjRxVzV6LTZXRk5rVTJQanpCUm1UUm9CRG05bHJoYXBncWJtVDBzbXl1RTAyMHVCbXQ0?oc=5",
             "published": "2026-06-28T11:46:40+00:00",
@@ -622,12 +628,6 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
             "published": "2026-06-28T10:06:51+00:00",
             "snippet": "A residential building was damaged in the latest Iranian attack, according to Bahrain's interior ministry."
-          },
-          {
-            "title": "Jordan’s exports to EU markets surge 49.3% in first 4 months of 2026",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRUTh0ZHJCOGhpRHY2Zk9WZEw0dHh4UHFUd200azJpRm5jTVJfbUh1X1lWRzB4NDdURl85RHlPSDM0THJ3X3Blc2x5cjFCQWd0RWFB?oc=5",
-            "published": "2026-06-28T08:56:12+00:00",
-            "snippet": "Jordan's exports to EU markets saw a surge of 49.3% in the first four months of 2026."
           }
         ],
         "error": null
