@@ -40,6 +40,12 @@ MIN_OUTLET_HL   = 2           # ignore near-empty outlets in the mix view
 # English keywords carry word boundaries; Arabic terms are matched as substrings
 # (Arabic prefixes ال/و/ب/ل attach to words, so substrings catch inflections).
 TOPICS = [
+    # Tracked off-the-wall topic: World Cup coverage is kept off the Headlines
+    # wall but counted here (and in Pulse). Listed FIRST so a "… World Cup" item
+    # is bucketed as World Cup rather than absorbed by a country topic. Matches
+    # TRACKED_OFFTOPIC_RE in fetch_headlines.py (English + Arabic).
+    ("world_cup",  "World Cup",           "#3F8F4F",
+     r"world\s*cup|كأس العالم|المونديال"),
     ("gaza",       "Gaza & Hamas",        "#B0413E",
      r"gaza|hamas|rafah|khan younis|deir al-?balah|al-?shifa|nuseirat|jabalia"
      r"|غزة|حماس|رفح|خان يونس|النصيرات|جباليا"),

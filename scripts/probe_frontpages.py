@@ -9,8 +9,8 @@ Levantine / Iranian / Turkish papers, and records which ones genuinely return
 an image — together with the exact URL so the winner can be baked into
 scripts/fetch_frontpages.py.
 
-Israeli papers are intentionally excluded (we already carry Haaretz; the goal
-here is to broaden the *rest* of the region).
+Israeli papers are intentionally excluded; the goal here is to broaden the
+coverage of the *rest* of the region.
 
 Sources probed
 --------------

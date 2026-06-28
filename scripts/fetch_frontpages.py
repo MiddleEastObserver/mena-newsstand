@@ -32,9 +32,6 @@ import requests
 
 PAPERS = [
     # ——— Middle East ———
-    {"id": "haaretz", "name": "Haaretz", "loc": "Israel", "lang": "en",
-     "site": "https://www.haaretz.com",
-     "src": [("ff", "ISR_HA"), ("kiosko", "il", "haaretz")]},
     {"id": "the_national", "name": "The National", "loc": "UAE", "lang": "en",
      "site": "https://www.thenationalnews.com",
      "src": [("ff", "UAE_TN"), ("kiosko", "asi", "the_national")]},

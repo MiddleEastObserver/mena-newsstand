@@ -23,7 +23,14 @@ from pathlib import Path
 
 ROOT     = Path(__file__).parent.parent
 HL_PATH  = ROOT / "headlines.json"
+COV_PATH = ROOT / "coverage.json"
 OUT_PATH = ROOT / "pulse.json"
+
+# Topics kept OFF the Headlines wall but still counted here, so the Pulse reflects
+# what media is actually covering. These items don't appear in headlines.json, so
+# they're pulled from the broad coverage sample (coverage.json). Mirrors
+# TRACKED_OFFTOPIC_RE in fetch_headlines.py. Currently: the football World Cup.
+TRACKED_RE = re.compile(r"\bworld\s*cup\b|كأس العالم|المونديال", re.I)
 
 MIN_LEN          = 4    # ignore very short tokens
 MAX_TERMS        = 48   # cap the cloud size
@@ -44,6 +51,9 @@ PHRASES = [
     "drone strike", "drone strikes", "air strike", "air strikes",
     "ballistic missile", "ballistic missiles", "prisoner exchange",
     "peace deal", "two-state", "war crimes", "oil prices", "aid convoy",
+    # Tracked off-the-wall topic — kept as one phrase so it isn't lost to the
+    # "world"/"cup" stopwords (see TRACKED_RE / coverage merge in main()).
+    "World Cup",
 ]
 PHRASE_RES = sorted(
     ((re.compile(r"\b" + re.escape(p) + r"\b", re.I), p) for p in PHRASES),
@@ -140,11 +150,15 @@ STOPWORDS = {
 }
 
 
-def load_headlines() -> dict:
+def load_json(path) -> dict:
     try:
-        return json.loads(HL_PATH.read_text(encoding="utf-8"))
+        return json.loads(path.read_text(encoding="utf-8"))
     except Exception:
         return {}
+
+
+def load_headlines() -> dict:
+    return load_json(HL_PATH)
 
 
 def tokens(text: str):
@@ -162,23 +176,28 @@ EXTRA_OUTLET_WORDS = {
 def main():
     data = load_headlines()
     regions = data.get("regions", {})
+    # Broad coverage sample — used to pull in tracked off-the-wall topics (World
+    # Cup) that are deliberately absent from headlines.json (the displayed wall).
+    cov_regions = load_json(COV_PATH).get("regions", {})
 
     # Build a dynamic stopword set from the outlet names so words like "times",
     # "arabiya" or "akhbar" don't dominate the cloud as publisher artifacts.
     stop = set(STOPWORDS) | EXTRA_OUTLET_WORDS
-    for outlets in regions.values():
-        for outlet in outlets:
-            for w in tokens(outlet.get("source", "")):
-                # Add the whole token and its hyphen/apostrophe parts, so both
-                # "al-akhbar" and "akhbar" are treated as publisher artifacts.
-                for part in [w, *re.split(r"['’\-]", w)]:
-                    if len(part) >= MIN_LEN:
-                        stop.add(part)
+    for src in (regions, cov_regions):
+        for outlets in src.values():
+            for outlet in outlets:
+                for w in tokens(outlet.get("source", "")):
+                    # Add the whole token and its hyphen/apostrophe parts, so both
+                    # "al-akhbar" and "akhbar" are treated as publisher artifacts.
+                    for part in [w, *re.split(r"['’\-]", w)]:
+                        if len(part) >= MIN_LEN:
+                            stop.add(part)
 
     counts   = Counter()                 # term-key -> # headlines mentioning it
     term_hls = defaultdict(list)         # term-key -> [headline dicts]
     casing   = defaultdict(Counter)      # term-key -> Counter(original spelling)
     total    = 0
+    seen_urls = set()                    # dedupe wall vs. coverage by article URL
 
     def record(key, display, entry, seen):
         if key in seen:
@@ -189,36 +208,59 @@ def main():
         if len(term_hls[key]) < MAX_HL_PER_TERM:
             term_hls[key].append(entry)
 
+    def count_entry(title, snippet, url, source, region):
+        nonlocal total
+        title = (title or "").strip()
+        if not title:
+            return
+        total += 1
+        blob = f"{title} {snippet or ''}"
+        entry = {"title": title, "url": url or "", "source": source, "region": region}
+        seen = set()
+        # Multi-word phrases first; strip them so their component words aren't
+        # also counted as single tokens.
+        residual = blob
+        for pat, canon in PHRASE_RES:
+            if pat.search(residual):
+                record(canon.lower(), canon, entry, seen)
+                residual = pat.sub(" ", residual)
+        # Single tokens, keeping the original spelling for display.
+        for m in WORD_RE.finditer(residual):
+            orig = POSS_RE.sub("", m.group(0))     # drop possessive 's
+            tok = orig.lower()
+            if not tok or tok in stop or tok.isdigit():
+                continue
+            # Keep normal-length words, whitelisted short concepts (oil, gas,
+            # war…) and short all-caps acronyms (UAE, OPEC, IDF).
+            if (len(tok) >= MIN_LEN or tok in CONCEPTS
+                    or (orig.isupper() and len(orig) >= 3)):
+                record(tok, orig, entry, seen)
+
+    # 1) The geopolitics wall — the displayed headlines (5/outlet).
     for region, outlets in regions.items():
         for outlet in outlets:
             source = outlet.get("source", "")
             for h in outlet.get("headlines", []):
-                title = (h.get("title") or "").strip()
-                if not title:
+                url = h.get("url", "")
+                if url:
+                    seen_urls.add(url)
+                count_entry(h.get("title"), h.get("snippet", ""), url, source, region)
+
+    # 2) Tracked off-the-wall topics (World Cup) from the broad coverage sample,
+    #    so the Pulse counts them even though they never reach the wall.
+    for region, outlets in cov_regions.items():
+        for outlet in outlets:
+            source = outlet.get("source", "")
+            for c in outlet.get("coverage", []):
+                title = c.get("title", "")
+                if not TRACKED_RE.search(title):
                     continue
-                total += 1
-                blob = f"{title} {h.get('snippet', '')}"
-                entry = {"title": title, "url": h.get("url", ""),
-                         "source": source, "region": region}
-                seen = set()
-                # Multi-word phrases first; strip them so their component words
-                # aren't also counted as single tokens.
-                residual = blob
-                for pat, canon in PHRASE_RES:
-                    if pat.search(residual):
-                        record(canon.lower(), canon, entry, seen)
-                        residual = pat.sub(" ", residual)
-                # Single tokens, keeping the original spelling for display.
-                for m in WORD_RE.finditer(residual):
-                    orig = POSS_RE.sub("", m.group(0))     # drop possessive 's
-                    tok = orig.lower()
-                    if not tok or tok in stop or tok.isdigit():
-                        continue
-                    # Keep normal-length words, whitelisted short concepts (oil,
-                    # gas, war…) and short all-caps acronyms (UAE, OPEC, IDF).
-                    if (len(tok) >= MIN_LEN or tok in CONCEPTS
-                            or (orig.isupper() and len(orig) >= 3)):
-                        record(tok, orig, entry, seen)
+                url = c.get("url", "")
+                if url and url in seen_urls:
+                    continue
+                if url:
+                    seen_urls.add(url)
+                count_entry(title, "", url, source, region)
 
     def cap_ratio(key):
         spellings = casing[key]

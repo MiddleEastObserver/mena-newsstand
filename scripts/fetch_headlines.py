@@ -331,6 +331,14 @@ OFFTOPIC_AR = [
 ]
 OFFTOPIC_AR_RE = re.compile("|".join(re.escape(t) for t in OFFTOPIC_AR))
 
+# TRACKED-but-off-the-wall topics. These are NOT MENA geopolitics, so they are
+# kept off the Headlines wall — but they ARE major media stories worth measuring,
+# so they must survive the off-topic filter and reach the broad coverage sample
+# that feeds the Pulse and Trends views. Currently: the football World Cup
+# (English + the Arabic "كأس العالم" / colloquial "المونديال"). Everything else
+# in OFFTOPIC_* stays fully filtered out of every view.
+TRACKED_OFFTOPIC_RE = re.compile(r"\bworld\s*cup\b|كأس العالم|المونديال", re.I)
+
 # Football / match-report scorelines, e.g. "… holding England to 0-0 draw",
 # "won 3-1", "goalless draw". A digit-digit pairing next to a result word never
 # occurs in geopolitics, so this is high-precision.
@@ -615,6 +623,12 @@ def is_offtopic(title: str, url: str = "") -> bool:
     aren't MENA geopolitics, security, economics or diplomacy. High-precision:
     a story is dropped only if its URL sits under an off-topic section or its
     headline contains a whole-word off-topic term — so real news is never lost."""
+    # Tracked topics (World Cup) are off the Headlines wall but counted by Pulse
+    # and Trends, so they must NOT be treated as off-topic here — they need to
+    # survive into the broad coverage sample. They're removed from the displayed
+    # headlines separately in fetch_outlet().
+    if title and TRACKED_OFFTOPIC_RE.search(title):
+        return False
     if url:
         path = urlparse(url).path.lower()
         for seg in path.split("/"):
@@ -893,9 +907,14 @@ def fetch_outlet(session: requests.Session, meta: dict) -> dict:
         via += "/stale"
 
     if items:
-        result["headlines"] = strip_internal(items)
-        # Broader coverage sample for the Trends view (what the outlet is really
-        # covering), captured from the SAME already-filtered item list.
+        # The Headlines wall stays geopolitics-only: drop tracked-but-off-the-wall
+        # items (e.g. the World Cup) from the DISPLAYED headlines. They remain in
+        # the broad coverage sample below, so Pulse and Trends still count them.
+        display = [it for it in items if not TRACKED_OFFTOPIC_RE.search(it["title"])]
+        result["headlines"] = strip_internal(display)
+        # Broader coverage sample for the Trends/Pulse views (what the outlet is
+        # really covering), captured from the SAME already-filtered item list —
+        # which DOES include the tracked off-the-wall topics.
         result["coverage"] = coverage_items(items)
         # Fill in missing descriptions from the article pages so every headline
         # can get a snippet, not just the ones whose feed shipped a description.
