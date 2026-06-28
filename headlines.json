@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T12:00:15.593078+00:00",
+  "updated": "2026-06-28T12:29:16.012476+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "At least 11 dead in civilian plane crash in eastern France: Authorities",
+            "url": "https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss",
+            "published": "2026-06-28T11:52:44+00:00",
+            "snippet": "Authorities say pilot and all 10 ⁠passengers - ​five students ⁠and five instructors - died in the accident in Tomblaine."
+          },
           {
             "title": "Uganda’s military chief orders shutdown of two media outlets",
             "url": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
             "published": "2026-06-28T08:39:48+00:00",
             "snippet": "Iran has attacked Kuwait and Bahrain in response to US strikes, increasing tensions. This action has placed the US-Iran deal under strain, with Kuwait and Bahrain condemning the Iranian attacks."
-          },
-          {
-            "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-            "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
-            "published": "2026-06-28T07:39:08+00:00",
-            "snippet": "Gaza's children continue to suffer immensely from ongoing Israeli attacks. This suffering persists despite a 'ceasefire' that was reached in October 2025."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "UAE condemns Iranian strikes on Bahrain and Kuwait",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-strikes-bahrain-and-kuwait",
+            "published": "2026-06-28T12:07:53+00:00",
+            "snippet": "UAE condemns Iranian strikes on Bahrain and Kuwait The United Arab Emirates has condemned the recent Iranian strikes on Bahrain and Kuwait, which were in retaliation for US attacks on Iranian targets over the past two days."
+          },
           {
             "title": "Israeli soldier killed in southern Lebanon",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-southern-lebanon",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-urges-us-force-israel-stop-attacking-lebanon",
             "published": "2026-06-28T09:23:24+00:00",
             "snippet": "Iran's Foreign Minister has urged the United States to compel Israel to cease its attacks on Lebanon and withdraw from occupied Lebanese territories."
-          },
-          {
-            "title": "Iran's foreign minister says Hormuz is under total Iranian control",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-under-total-iranian-control-says-araghchi",
-            "published": "2026-06-28T08:54:52+00:00",
-            "snippet": "Iran's Foreign Minister Abbas Araghchi stated that the Strait of Hormuz is under total Iranian control. He conveyed this during a press conference in Baghdad, following discussions on the war and the US-Iran memorandum of understanding."
           }
         ],
         "error": null
@@ -87,34 +87,16 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
-            "title": "France records around 1,000 excess deaths in heatwave: Health agency",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmJ3NE5lVnBpM0R3S3dTcUpCUnc5V2hhTVRnMnJiU1prOG1XVndrZF9ITVBsMGMwbHNBbXVHYW1HcVpVOGlGZHJ3OW5wSk9CNUdaY0NNLWg0M2RKUzNKdGxLRTNWeXBIZ0lLZHFqQnhSV0J1cndTNUFUMkt2LW1pUFh2VEUzQzBJTVlMQ0tFdmlMR1BnT1hXUzhrYW9mNHhUYmFac2tXSi1fd2ZUTy1pcWszREdNUTZ1V25yb3AzNNIBvwFBVV95cUxQZmJ3NE5lVnBpM0R3S3dTcUpCUnc5V2hhTVRnMnJiU1prOG1XVndrZF9ITVBsMGMwbHNBbXVHYW1HcVpVOGlGZHJ3OW5wSk9CNUdaY0NNLWg0M2RKUzNKdGxLRTNWeXBIZ0lLZHFqQnhSV0J1cndTNUFUMkt2LW1pUFh2VEUzQzBJTVlMQ0tFdmlMR1BnT1hXUzhrYW9mNHhUYmFac2tXSi1fd2ZUTy1pcWszREdNUTZ1V25yb3AzNA?oc=5",
-            "published": "2026-06-28T08:44:00+00:00",
-            "snippet": "France has recorded approximately 1,000 excess deaths attributed to a recent heatwave, according to the health agency."
+            "title": "Al Arabiya Correspondent Killed in Blast in Yemen",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVTZlNnVabTJrWERacDUxYXpqNS1pSkw2ZXVpQ0JIdVNVOFladXVxOFVRbExQZGJhMEc1ZjFhYXk4YWptbzUyWXU4Vkw3QmlZY3JDY2NqZ0h3R0FBbVE1Wjg5bjNKbU5PMHIwY1R1TDRQSlJ6SkI0MDcxam83SURDQzF4SGdiRmZQYjFPdlNvWVFuUVpOT2dvT1dDVzloSXNqTkxlS9IBqgFBVV95cUxPckNNdW5UMUJDZmtIOFo5LXk5YWM4VHFkcVpQeDZQaFlMZ0duamhTZHQ3d2VRcGJocmVLZ0szclM0QTQ5dGZKdVNqclJUcHUwU2s4eXF3NlFMZVUtSTRMbjNhY2I0bjVvSjZmTTBQeGpRV1ZHeHdaZ1U1TXZGQm9HSGlXNThJZXFyLTVQS0lTQXlvTGVaQmk1RktEZnpEWVhMN3Eta2RpczV1UQ?oc=5",
+            "published": "2026-06-24T20:47:19+00:00",
+            "snippet": "Al Arabiya Correspondent Killed in Blast in Yemen Al Arabiya English"
           },
           {
-            "title": "Iran says determined to defend sovereignty against US aggression",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmJhN1d2aGlzOHYwTVg2aUJFX09VQi1LNkducDdUcFlqSVRfOVdrcHBNRW80THozZ3RjV1ZxMEYtUXcyQkQ1aGNmZlhHNm5QLTZXM191bi1RcmRTdExJU0V0S1UweXJjS3lWWnR3MjBhb0NXZl9pQkJyM3lSNzRkWEh0TWtOS3ZRWXIwSXJkS2ZJOWtXOERtRXlZajJfMThfYnpJZm5fZ3lNYmQyeVY5UjU2Z3ROWmNRQmR5dnBFYVdKeDFX0gHEAUFVX3lxTE5mYmE3V3ZoaXM4djBNWDZpQkVfT1VCLUs2R25wN1RwWWpJVF85V2twcE1FbzRMejNndGNXVnEwRi1RdzJCRDVoY2ZmWEc2blAtNlczX3VuLVFyZFN0TElTRXRLVTB5cmNLeVZadHcyMGFvQ1dmX2lCQnIzeVI3NGRYSHRNa05LdlFZcjBJcmRLZkk5a1c4RG1FeVlqMl8xOF9ieklmbl9neU1iZDJ5VjlSNTZndE5aY1FCZHl2cEVhV0p4MVc?oc=5",
-            "published": "2026-06-28T08:43:00+00:00",
-            "snippet": "Iran has declared its determination to defend its sovereignty against what it terms US aggression."
-          },
-          {
-            "title": "Netanyahu says deal with Lebanon ‘historic’ for Israel",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcThwNnJSVFNQYTF4VGpWQ3d4SGNhU053Sld1ZkpBbFBXZ2k3d2NUOEJpbGRiWVhkSlA3d0p2SFU3dzlsOEYtU3kxOUE2VEtjUHVfOVhqbmdZUncySHBjRUpPSllpNEhMeXVjb3RpQ2owRGlKMGwyUFV6eHJqQVF3Q2VBY3lPM0dncU9KWDdVNko0MmpGN000RmlVNGtXeFJGNmI0S09reVpsQkR1eHRHNjd6MkvSAbQBQVVfeXFMT3E4cDZyUlRTUGExeFRqVkN3eEhjYVNOd0pXdWZKQWxQV2dpN3djVDhCaWxkYllYZEpQN3dKdkhVN3c5bDhGLVN5MTlBNlRLY1B1XzlYam5nWVJ3MkhwY0VKT0pZaTRITHl1Y290aUNqMERpSjBsMlBVenhyakFRd0NlQWN5TzNHZ3FPSlg3VTZKNDJqRjdNNEZpVTRrV3hSRjZiNEtPa3labEJEdXh0RzY3ejJL?oc=5",
-            "published": "2026-06-28T07:48:00+00:00",
-            "snippet": "Netanyahu described a recent deal with Lebanon as 'historic' for Israel."
-          },
-          {
-            "title": "Lebanon’s Aoun tells Trump state will assume responsibility for implementing Israel deal",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUJObHhWd1lqQU41REJqRnYyWnlTcXNjME1ibGtvd3BHSUdLaUUzMVlZazdSOUJkbGdTUTE1QmQyNUh3WDRsNkdPbnRtc19UMzdScHppa1dvQ1VZX1hYemhwN3E2N1U4T18zY09YYTcxbzlqUGk0bkhuYXA5dm5fTTNXUTN1M1JIWTBNQXFYcl96ankyM1g4Mjg3X3ktNXQxdkVjZzYxZHBoYlVCdEpFeHJWTDlnV25UQW85bmU5ZEVzTUJuZkhxck0xSzVSaE50R1VUMFNXNlh3MFpsTV9oWkZIRGrSAeQBQVVfeXFMTjlCTmx4VndZakFONURCakZ2Mlp5U3FzYzBNYmxrb3dwR0lHS2lFMzFZWWs3UjlCZGxnU1ExNUJkMjVId1g0bDZHT250bXNfVDM3UnB6aWtXb0NVWV9YWHpocDdxNjdVOE9fM2NPWGE3MW85alBpNG5IbmFwOXZuX00zV1EzdTNSSFkwTUFxWHJfemp5MjNYODI4N195LTV0MXZFY2c2MWRwaGJVQnRKRXhyVkw5Z1duVEFvOW5lOWRFc01CbmZIcXJNMUs1UmhOdEdVVDBTVzZYdzBabE1faFpGSERq?oc=5",
-            "published": "2026-06-28T06:47:00+00:00",
-            "snippet": "Lebanon's Aoun informed Trump that the state will take responsibility for implementing the agreement with Israel."
-          },
-          {
-            "title": "Trump warns Iran ‘will no longer exist’ if US decides to escalate",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORmNPR0RrUk96RzZVbUR2dG9NZnYtUTVva0psUXdPMC1zTm9wTzZoRHAtbnNETWdXZkVNOEg2MHU5S2VkRUFBSXZuRGlwV1FNYW5zTUFNODRuLWVLc3g0VmFXOENyTmFaZ1pkanpUTFhmRU9LMXkzZE5FNG5wc3A3R3FRUjN2R3ZLY3lwVXlvRElWZzI2bjVTUmZTV3pzMlh6MzM1MnZPRTFfUzlhS3ZTcFE4Q2Q5a2QyTFdPZlR30gHDAUFVX3lxTE1lZThKSk1xV2Z4aHcwODFIQ1kzdEQyWWsxQlJ1SjBoX29iVF9pUXNTWkhXazZXNjN2Y190S1NEeG9URWFhMTNOSTdRMHc2VmdvdjFEWUJyTFhCQVJ5RVpua0t6VlRNTWdBeEd4S1ROY1FsTWZZRTg0QUEyek9sdVJhdkxLemdPUXd1Nmg1OGFPSGlnR3E2Nnp4TUJtbjFJM1VsbGpwYzlGX0ljNDBfZzBLcGE3Q3NHcXRnMlhMc0c0NkFobw?oc=5",
-            "published": "2026-06-28T05:51:00+00:00",
-            "snippet": "Trump issued a warning to Iran, stating that the country 'will no longer exist' if the US decides to escalate."
+            "title": "Property and International Real Estate News",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YeXoxdWJhRXNBMmN4NzVFY3RPMmtXcGVERXJJOE1ZUlExX0cwNl9uUlNlenBwRHFyZHQxRlVTdUlPemxYMHc3WEpnV0gtQ0pacXVMTEtxN2RiV0E?oc=5",
+            "published": "2026-06-24T14:33:51+00:00",
+            "snippet": "Property and International Real Estate News Al Arabiya English"
           }
         ],
         "error": null
@@ -206,6 +188,12 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
+            "title": "Mashhad mayor: All provincial, national resources mobilized for funeral of martyred Leader",
+            "url": "https://en.irna.ir/news/86195120/Mashhad-mayor-All-provincial-national-resources-mobilized-for",
+            "published": "2026-06-28T12:03:58+00:00",
+            "snippet": "Mashhad, IRNA - The mayor of Mashhad says that all municipal, provincial, and national capacities have been mobilized to host the funeral and burial of the Martyred Leader of Islamic the Revolution, Ayatollah Seyyed Ali Khamenei, with authorities anticipating the arrival of 10 to 12 million mourners"
+          },
+          {
             "title": "Leader orders Judiciary to pursue US-Israeli crimes against Iranian nation",
             "url": "https://en.irna.ir/news/86195109/Leader-orders-Judiciary-to-pursue-US-Israeli-crimes-against-Iranian",
             "published": "2026-06-28T11:39:49+00:00",
@@ -228,12 +216,6 @@
             "url": "https://en.irna.ir/news/86195023/Araghchi-Solely-Iran-responsible-for-reopening-Hormuz-Strait",
             "published": "2026-06-28T10:29:49+00:00",
             "snippet": "Foreign Minister Abbas Araghchi stated that Iran alone is responsible for reopening the Strait of Hormuz under the agreement with the US. He urged other parties not to interfere with Tehran's management of the waterway."
-          },
-          {
-            "title": "Iran judiciary chief calls US human rights claims ‘ridiculous’",
-            "url": "https://en.irna.ir/news/86194987/Iran-judiciary-chief-calls-US-human-rights-claims-ridiculous",
-            "published": "2026-06-28T10:22:26+00:00",
-            "snippet": "Iran's Judiciary Chief Gholamhossein Mohseni-Ejei dismissed US human rights claims as 'ridiculous,' citing US military aggression and economic pressure."
           }
         ],
         "error": null
@@ -308,10 +290,10 @@
             "snippet": "An Iranian Member of Parliament called for the release of frozen funds belonging to citizens within the country."
           },
           {
-            "title": "Katz calls Lebanon deal blow to Iran, says Israeli troops to stay - ایران اینترنشنال",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxSXRmS25lQVo1WHRRNVhDeHRtTzByUTNuNkphLWVZZjY0OXlsRkZOaTM3dTFuaU94aXRvZGhVZGlZUzIzS1RjOGx5NEpjaGc1S1E?oc=5",
-            "published": "2026-06-27T16:26:56+00:00",
-            "snippet": "Katz characterized the Lebanon deal as a setback for Iran and stated that Israeli troops would remain."
+            "title": "Atlas of Iran’s Missile Cities - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdXh2LU83TlJQSXlSdHRLYko0MjF5UzVpMG0wZWx6b2h2WGw4M3V3R2MySzhJc0Q3dVhBTk50WGNhSFBmd25GRjhXWjFmU045UHQ0OWFPNEpVS25Vd2d0T3A4MA?oc=5",
+            "published": "2026-06-27T20:32:58+00:00",
+            "snippet": "Atlas of Iran’s Missile Cities ایران اینترنشنال"
           }
         ],
         "error": null
@@ -324,6 +306,12 @@
         "lang": "en",
         "url": "https://www.jordantimes.com",
         "headlines": [
+          {
+            "title": "King meets young Jordanian receiving treatment in US, invites him to Nashama match",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1FLWnJIaVlaM3RnY3J6U0pPQVB4QmxQemhUQ01KVUY0SE1URjhmcWNMY3F4SkcyZ1dnSVdhYkItMDNuYlE4NndLaVFrVDI0RTZKR0ltMFV2QW5HZmhCcDFPcFlISEVSeHdyWjNSM18yY1lLYVJFc1BEbEx5OGppMk53djNkUGpNZGtvamhvMGVVejNyUWtSbk8tRnctaFp4Z2VlU3RaMFBNcTVKajB1SFY0WDVlYlE?oc=5",
+            "published": "2026-06-28T10:37:33+00:00",
+            "snippet": "King meets young Jordanian receiving treatment in US, invites him to Nashama match Jordan Times"
+          },
           {
             "title": "Records tumble as European heat wave moves east",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWjdHdmRPcUVtT2VVeVhfbDhZREZqV0s2dHdHRUJWM1AycHpCLUlMUXVITk1hZXZkSGcwYlU0OFlETkVjUGQ4MVR3clNWVE9uNE9zeHF4alFST2tzWGNPMkJpNnlzZ0Qyc2xJaklZd1l0ODR4YlZheThpRzZDR2lvZXdLY1p1d3RXREE?oc=5",
@@ -347,12 +335,6 @@
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV1dSb1FJOW12UGlvbDdNeXJGMi1OaEIwbDgwRDY1ZUFXYWVCaFVwZ0x6Q1dCZTNsczdaanBWcVJkMldBOWdvNy1wTEpNLXVRUk1KVGRqSmpRVWpZUzJwN3pNNEQ5anNzSE8zamVQYlNoUWlXV2ZYYXNxdTFTX2FXZWFIRFpIUXg2TkF3cWtJWVQ2bWY4VUtVaA?oc=5",
             "published": "2026-06-27T22:53:40+00:00",
             "snippet": "The Crown Prince's support is inspiring a new era for Jordanian sport."
-          },
-          {
-            "title": "Jordan welcomes Lebanon–Israel framework agreement, calls for full Israeli withdrawal",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemtnWmdSWmRLTzJfRDFSQlRPSFZlS19jVzdRYmxfVHN2ZkgwbXdzRlNCLWR1V2hGd3ZmWmRMMmtDaDJxNlhzS01tTEQyM190TU56Y3g3YlpLOGgxN3ZOc0picEpwNERkbEltd19JQUhzRXRCZEp0UnFVaGRDenlMTm53OXRrNWhOZWZiT2xaNFZNRDlyLVFFWDdCNFBfUWppbVVEY2Q1OEg0cUJ4QnJPQWtUeDg4Y2FhTUE?oc=5",
-            "published": "2026-06-27T18:39:23+00:00",
-            "snippet": "Jordan has welcomed the framework agreement between Lebanon and Israel, calling for a complete Israeli withdrawal."
           }
         ],
         "error": null
@@ -403,6 +385,24 @@
         "url": "https://egyptindependent.com",
         "headlines": [
           {
+            "title": "Uganda’s military chief orders shutdown of two major media outlets",
+            "url": "https://www.egyptindependent.com/ugandas-military-chief-orders-shutdown-of-two-major-media-outlets/",
+            "published": "2026-06-28T12:17:09+00:00",
+            "snippet": "Reuters — Uganda’s military chief, who is also the president’s son, said on Sunday he had ordered the closure of two leading media outlets, declaring that he did “not believe in a free press.” Muhoozi Kainerugaba said the Daily Monitor – Uganda’s largest independent daily newspaper – and NTV Uganda,"
+          },
+          {
+            "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns",
+            "url": "https://www.egyptindependent.com/us-government-allows-anthropic-limited-release-of-ai-model-that-sparked-cybersecurity-concerns/",
+            "published": "2026-06-28T12:15:47+00:00",
+            "snippet": "The US government has allowed Anthropic to release its powerful Mythos AI model to select companies and organizations, revising license requirements after ordering an export block earlier this month in the wake of national security fears."
+          },
+          {
+            "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
+            "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
+            "published": "2026-06-28T12:08:32+00:00",
+            "snippet": "Tel Aviv — The small drones cruise – undetected – over the skies of southern Lebanon and northern Israel, searching for targets."
+          },
+          {
             "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
             "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
             "published": "2026-06-28T11:59:03+00:00",
@@ -413,24 +413,6 @@
             "url": "https://www.egyptindependent.com/fm-egypt-adopts-comprehensive-vision-for-un-reform/",
             "published": "2026-06-28T09:56:38+00:00",
             "snippet": "Minister of Foreign Affairs Badr Abdelatty stated that Egypt supports a comprehensive vision for UN reform and strengthening financial institutions for developing countries."
-          },
-          {
-            "title": "Egypt, Afreximbank discuss expanding partnership to support startups",
-            "url": "https://www.egyptindependent.com/egypt-afreximbank-discuss-expanding-partnership-to-support-startups/",
-            "published": "2026-06-28T09:53:26+00:00",
-            "snippet": "Egypt's Minister of Planning and Economic Development discussed expanding cooperation with Afreximbank to support startups."
-          },
-          {
-            "title": "Egypt condemns attacks on Kuwait, Bahrain",
-            "url": "https://www.egyptindependent.com/egypt-condemns-attacks-on-kuwait-bahrain/",
-            "published": "2026-06-28T09:39:28+00:00",
-            "snippet": "Egypt strongly condemned the Iranian missile and drone attacks targeting Kuwait and Bahrain, calling them a violation of sovereignty and an unacceptable escalation."
-          },
-          {
-            "title": "Egyptian, Saudi FMs tackle regional developments over phone",
-            "url": "https://www.egyptindependent.com/egyptian-saudi-fms-tackle-regional-developments-over-phone/",
-            "published": "2026-06-28T09:33:09+00:00",
-            "snippet": "Egyptian Foreign Minister Badr Abdelatty and Saudi Foreign Minister Prince Faisal bin Farhan Al Saud discussed bilateral relations and regional developments over the phone."
           }
         ],
         "error": null
@@ -460,16 +442,16 @@
             "snippet": "Fadallah stated that the Authority's agreement 'will not see the light'."
           },
           {
-            "title": "نتنياهو يكذب السلطة السياسية: لبنان وافق على بقائنا في الجنوب! - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92QTNYZzJndHdjeTEyRWVLbWNfaW1VYXdMUWplNnJDVWVHM2tfV01VRkpOMmxzS1NwTUtuVUlCbXNUQTlZU0dadHNEREhleXFqdzBpVHJQbGQ?oc=5",
-            "published": "2026-06-27T19:43:55+00:00",
-            "snippet": "Netanyahu claims Lebanon agreed to Israel's continued presence in the South."
+            "title": "مالك مكتبي يقتحم نهاية «ممكن» - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VamZ0ektjNDhqLXJwRHF1RDRCVDVKcWVIRlVDNVpTaHdtOXR3cVhaZm8wc1lmWUQ3N09kZkFEdjJkRTZnVmxCRjE0UzZHZm4xNnZCNkRSYUM?oc=5",
+            "published": "2026-06-28T06:17:16+00:00",
+            "snippet": ""
           },
           {
-            "title": "«الوطني الحر»: الاتفاق مع إسرائيل يكتنفه الغموض ولا يجوز أن يكون على حساب حقوق لبنان - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQekpoSjRLMTVFNmFYTGhsMzBsbUxEQzBZdVhfcS1DalBxdVcxSXEwZXBwd0VfNERiWUQ2bUxMSE4xcXZNdlV4dVRjZm5KWlJtX2d6a19GeGt3dG9FSUNucVk1OHFuWnpscFdVTHdTYWZ3Ym84cTY4X04xWUhQd0hMT3hUSEtxMDRySEY2clJMR0prRzhzdENoZlZhZDFnTlZlT2FRazBGY21mbC1fRnJwTWR3X0EySnhUV2p5aDY2MF9aanlEdkF5cmdGSk91RmotUk9vNmxxWVNDY01iMDVwdDBvZnBFX3ZvbUZVZVFqMkRmczFtUVBxSll3OUVYcEEzSE03em9YWkVqbTVtV21Jc0xoOXZ5VDJCS0pFVVpTNlctMmJGY1JXU0NKSGxBRi1LaE9VcjNRNzJTekRURHJCM1lQbFppNWhONTJqVU1uUlI4bGpzcko1S3dKdGxtRW9QeW9LM2JJNmFWamo2VEFPVDktN29RWTl1WW95YmNXRkRUcW15bjRQaExMRjFfWUJNbGRGaGNkMHEyUVpXNHEyUEZGMm15c1BaRThuUVFheDJOMWNRMjNPNmlVMlB4c1ZXWVVBeTBxR1ZOVkJmanBvZzdIXzlwNGxnS0NpUWZHVXNOUQ?oc=5",
-            "published": "2026-06-27T18:45:54+00:00",
-            "snippet": "The Free Patriotic Movement stated that the agreement with Israel is shrouded in ambiguity and should not compromise Lebanon's rights."
+            "title": "نتنياهو يكذب السلطة السياسية: لبنان وافق على بقائنا في الجنوب! - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPXzJVT0lNSWh3UTdRX2xMQ0dCbG5FdEdUUmZ3ZHdPUkRsWFE0NVV6NHp2dE55bFNSMEpVc3BTa2dXYXpIOW5RRHRXMDZ2RGdPNXFwMURHNlNSOXFId3QzeFpWWVcyZkpyY2JzckNTenc5VjFZY0R4RDZGdlNLRXRKSFEtYjVvbE1lN0hpUVlCVmx3SVYyc0ZOdTYxZ1BJLTd4WUE2Ykk3YllDQWppbXBhdFhCb3FEQ1k2Yzg5RzZkSUdRR05tNzJ4bVpNNGJtdy1kU2lBY05lTVl2eWdSamg3ZWIxSl9rVEM1UEFOcHFtZUpuRjh4ZW13aWNDRUxnQjVKNGhTMXFEQVZicmhoaVoxM3k3Y21sSHFHeE5pdGc4amV0a016S21mM2RrQmlNSGd1Ym1mSTFrREF4UnYwSklNb2pqbVAtemtvN3l6bE54cU1MWnl5YWJmS2RYbmstUHV5cUZ0blVUcGdWcHJUZjRKdFVrWDh6b3Qxc04xMFFIRG9xZnBMcVpaT0kxVm5FbWFJYmhiYkpOS3E3ZHhmeHNta3NZNVFEMGFpNGxwZzluRjhFZVF4aUZHMkV0d08zZG9CNEJZczVpVllrZ3VDTGFpTE5IZkZNWWxKenFLdFZHaldGRE95TDdCY0tkYVNlWmkycFQ0SkdFTQ?oc=5",
+            "published": "2026-06-27T19:43:55+00:00",
+            "snippet": "Netanyahu claims Lebanon agreed to Israel's continued presence in the South."
           }
         ],
         "error": null
@@ -481,34 +463,34 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "الجمعية الإسلامية للصيادلة: اتفاق الاطار مع العدو ضرب لمفهوم الشراكة الوطنية",
-            "url": "https://www.almanar.com.lb/article/984197/",
-            "published": "2026-06-28T11:52:33+00:00",
-            "snippet": "The Islamic Association of Pharmacists declared the framework agreement a serious blow to the concept of national partnership."
+            "title": "وكالة الأنباء العراقية: اعتقال عضو مجلس النواب السابق محمد الصيهود بتهم فساد بالإضافة إلى وكيل وزارة النفط لشؤون التوزيع علي معارج وإبراهيم الصميدعي",
+            "url": "https://www.almanar.com.lb/article/984322/",
+            "published": "2026-06-28T12:29:04+00:00",
+            "snippet": ""
           },
           {
-            "title": "آخر تطورات الاعتداءات الصهيونية على البقاع الغربي والجنوب مع مراسلنا ماهر قمر",
-            "url": "https://www.almanar.com.lb/article/984202/",
-            "published": "2026-06-28T11:50:13+00:00",
-            "snippet": "Latest developments on the Israeli aggressions on the western and southern Bekaa, with our correspondent Maher Qamar."
+            "title": "وكالة الأنباء العراقية: من بين المعتقلين أعضاء مجلس النواب محمد جميل المياحي وحسن الخفاجي وعبد الرحمن اللويزي ومضر الكروي وهند العباسي ومحمد فرمان الجبوري وبشرى القيسي",
+            "url": "https://www.almanar.com.lb/article/984312/",
+            "published": "2026-06-28T12:27:49+00:00",
+            "snippet": ""
           },
           {
-            "title": "عراقجي: على “إسرائيل” وقف هجماتها والانسحاب من لبنان",
-            "url": "https://www.almanar.com.lb/article/984182/",
-            "published": "2026-06-28T11:41:27+00:00",
-            "snippet": "Araghchi stated that Israel must stop its attacks and withdraw from Lebanon. He also warned that external interference in Hormuz's management would complicate its reopening."
+            "title": "وكالة الأنباء العراقية: من بين المعتقلين بتهم فساد رئيس تحالف عزم مثنى السامرائي والأعضاء في مجلس النواب زياد الجنابي وبهاء النوري ومحمد الكربولي وعالية نصيف",
+            "url": "https://www.almanar.com.lb/article/984302/",
+            "published": "2026-06-28T12:26:39+00:00",
+            "snippet": ""
           },
           {
-            "title": "النائب حمادة: السلطة تنازلت عن الجنوب لإسرائيل وهذا الإطار المشؤوم ولد ميتاً",
-            "url": "https://www.almanar.com.lb/article/984172/",
-            "published": "2026-06-28T11:40:09+00:00",
-            "snippet": "MP Ehab Hammadeh strongly criticized the Lebanese Authority's 'ominous framework' agreement, calling it a concession of Southern Lebanon to the 'Zionist-American project'."
+            "title": "السيد مجتبى خامنئي: إن الأمر المؤكد هو ملاحقة المجرمين ومحاسبتهم ومعاقبتهم على أعمالهم الإجرامية",
+            "url": "https://www.almanar.com.lb/article/984287/",
+            "published": "2026-06-28T12:24:54+00:00",
+            "snippet": "رسالة قائد الثورة الإسلامية، آية الله السيد مجتبى الخامنئي، بمناسبة حلول أسبوع السلطة القضائية وذكرى استشهاد آية الله السيد بهشتي ورفاقه."
           },
           {
-            "title": "الاتحاد العالمي لعلماء المقاومة: الاتفاق الاطار خضوع صريح للإملاءات الأميركية الإسرائيلية",
-            "url": "https://www.almanar.com.lb/article/984162/",
-            "published": "2026-06-28T11:33:57+00:00",
-            "snippet": "The World Union of Resistance Clerics considers the framework agreement a clear submission to American-Israeli dictates, posing a dangerous concession of Lebanese sovereignty."
+            "title": "“مواطنون ومواطنات”: السلطة اللبنانية عوضت لنتنياهو الاحراج الذي تسبب له اقصاءه من التفاوض مع ايران",
+            "url": "https://www.almanar.com.lb/article/984277/",
+            "published": "2026-06-28T12:24:29+00:00",
+            "snippet": "رأت حركة “مواطنون ومواطنات في دولة” في بيان، أن “وفد السلطة اللبنانية وقع على نص واضح المعالم والدوافع، وضعته الولايات المتحدة لتعوض من خلاله لإسرائيل عن الإحراج الناجم عن قرار الرئيس دونالد ترامب تجميد الحرب على إيران وعن إقصائها عن ساحة التفاوض الرئيسية، إنما على حساب اللبنانيين”."
           }
         ],
         "error": null
@@ -519,6 +501,12 @@
         "lang": "en",
         "url": "https://english.wafa.ps",
         "headlines": [
+          {
+            "title": "Palestinian Monetary Authority says Israeli restrictions are driving shekel cash crisis - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tQkxRbUxJYk5DT21aTDE4SVItbkpDVmdmSWRWM1hGWDZfMFg1ZkdSTnVDTFNxd2NGaXczRDFjNHpiTFJza3puTGRuc1RpX3lQVklFODFtYw?oc=5",
+            "published": "2026-06-28T12:04:31+00:00",
+            "snippet": "Palestinian Monetary Authority says Israeli restrictions are driving shekel cash crisis WAFA Agency"
+          },
           {
             "title": "Israeli forces detain two women during raid on village east of Bethlehem - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paXBUdFFpbURMX0E2ckwwM1J4ZEwtRTVraXdpMWsxXzlNVGVpSkxhTW53cVZsdFVNcTlvQ0xwYjdic2lfeU1lTVQ0NmR6eUZpdHRrZHlkdw?oc=5",
@@ -542,12 +530,6 @@
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUkhWYnNEb0N5c291NFA1ejJKV3dWdWh2dTZvNk9RaG5jaDQ0Q0dvZ3RwRWo3SW0xTlQtT2F5S1FSalRqRWs1enZwU3lXT21XeGtPR25IRQ?oc=5",
             "published": "2026-06-28T11:04:16+00:00",
             "snippet": "Two Palestinians were killed in an Israeli drone strike in northern Gaza."
-          },
-          {
-            "title": "Gaza death toll rises to 73,054 since October 2023, medical sources say - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CM1ViMkY5Vlh5Z0hWUXdhc19YdEZBcm4wRzJLT1puRzNxQmp6MmdiekJkSDlIdEs2aktHMFg1MUhHT19menV0UlktQlZmYWpzaFIwN1hiVQ?oc=5",
-            "published": "2026-06-28T10:49:40+00:00",
-            "snippet": "The death toll in Gaza has risen to 73,054 since October 2023, according to medical sources."
           }
         ],
         "error": null
@@ -606,12 +588,6 @@
             "snippet": "Saudi Arabia has led Gulf and Arab condemnation of the latest Iranian attacks."
           },
           {
-            "title": "Israel military says soldier killed in south Lebanon fighting",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pMUhBTWlCZ1hJLXNxREk5TGZxNFJzNXdSSUN4b0lOUWtiQUlScWFOOGp2MjRrTlpRWndZMk1pdVZxRkVuM3MzemJPZ3lWR1U3ckRB?oc=5",
-            "published": "2026-06-28T10:20:10+00:00",
-            "snippet": "The Israeli military confirmed that a soldier was killed in fighting in southern Lebanon."
-          },
-          {
             "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
             "published": "2026-06-28T10:06:51+00:00",
@@ -628,6 +604,12 @@
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CWXNKN1lMY2psRVdUcU40Q0VkWHg2N095ajZZSW4waE9hOWRfU3YtNWpSM2FSR3Bpd1FkbGgybXVTcWJPVVlLT0hXMWhWWlJwZkVBay16ZnE4Yk5VekE?oc=5",
             "published": "2026-06-28T05:00:33+00:00",
             "snippet": "Trump has threatened to annihilate Iran following a new exchange of attacks."
+          },
+          {
+            "title": "Lebanon’s Aoun hopes US will press Israel to withdraw from southern areas",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tbmg0dmU3NGhwd0taa1o2WExaNnAtdzlsWWJERnRDa21rZ1dQMFpTc1ozeUVvbjhvZnN6dXlyck5SbFRNRVRnM0tOWVRsSzVEYnNr?oc=5",
+            "published": "2026-06-28T03:44:25+00:00",
+            "snippet": "Lebanon’s Aoun hopes US will press Israel to withdraw from southern areas Arab News"
           }
         ],
         "error": null
@@ -799,7 +781,7 @@
           {
             "title": "Live blog - US-Israeli war on Iran",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVEhNQklMdFBPSUx5dklGZ2FvekpoQkdfTE9GUHdSQU5NaHB2bUZaaV9uLU9wbEUtNDVhaXhPako0RkhsTjNHUWhNXzZobUlIRGE4aHJfRjk5Y3BSU3VN?oc=5",
-            "published": "2026-06-28T08:19:08+00:00",
+            "published": "2026-06-28T08:18:20+00:00",
             "snippet": "A live blog covering the US-Israeli war on Iran."
           },
           {
@@ -830,6 +812,5 @@
         "error": null
       }
     ]
-  },
-  "titles_hash": "9903cde9ca61076e"
+  }
 }
