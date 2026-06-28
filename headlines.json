@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T10:16:45.848473+00:00",
+  "updated": "2026-06-28T10:46:35.957846+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Iraq security forces arrest several officials in anticorruption crackdown",
+            "url": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
+            "published": "2026-06-28T10:05:16+00:00",
+            "snippet": "Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says."
+          },
           {
             "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
             "url": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
             "published": "2026-06-28T06:41:07+00:00",
             "snippet": "Rescue efforts in Venezuela are in a critical race against time to locate earthquake survivors. Experts emphasize the importance of the crucial 72-hour rescue window."
-          },
-          {
-            "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-            "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-            "published": "2026-06-28T06:14:45+00:00",
-            "snippet": "Iran attacked Bahrain and Kuwait on day 121 of the conflict, following US strikes near the Strait of Hormuz. Bahrain activated air defenses, and Kuwait sounded sirens."
           }
         ],
         "error": null
@@ -47,6 +47,18 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "IRGC says it will respond to US attacks 'more strongly than before'",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-will-respond-us-attacks-more-strongly",
+            "published": "2026-06-28T10:30:29+00:00",
+            "snippet": "IRGC says it will respond to US attacks 'more strongly than before' Iran’s Islamic Revolutionary Guard Corps (IRGC) has said it will retaliate against any further US attacks \"more strongly than before\"."
+          },
+          {
+            "title": "Rights groups criticise Turkey protest ban ahead of Nato summit",
+            "url": "https://www.middleeasteye.net/news/rights-group-criticise-turkey-protest-ban-ahead-nato-summit",
+            "published": "2026-06-28T10:20:17+00:00",
+            "snippet": "Rights groups criticise Turkey protest ban ahead of Nato summit Submitted by Alex MacDonald on Sun, 06/28/2026 - 10:18 Security services detain hundreds, including LGBTQ campaigners, leftist groups and Islamic State supporters Protesters hold a banner reading 'Turkey should leave Nato, Nato bases sh"
+          },
           {
             "title": "Iran urges US to force Israel to stop attacking Lebanon",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-urges-us-force-israel-stop-attacking-lebanon",
@@ -64,18 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bombs-southern-lebanon",
             "published": "2026-06-28T08:52:02+00:00",
             "snippet": "The Israeli military bombed southern Lebanon on Sunday morning, with Lebanese media reporting strikes on the village of Deir Seryan and on homes in Khiam."
-          },
-          {
-            "title": "Residential building damaged in Iranian strike, says Bahrain ministry",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/residential-building-damaged-iranian-strike-says-bahrain-ministry",
-            "published": "2026-06-28T06:55:47+00:00",
-            "snippet": "A residential building in Bahrain's Muharraq Governorate was damaged in an Iranian strike, according to the nation's Ministry of Interior. No casualties were reported."
-          },
-          {
-            "title": "Morning update",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-572",
-            "published": "2026-06-28T06:54:31+00:00",
-            "snippet": "The United States conducted a second day of strikes on Iranian military targets near the Strait of Hormuz, prompting retaliatory attacks claimed by Iran's Revolutionary Guard."
           }
         ],
         "error": null
@@ -99,6 +99,12 @@
             "snippet": "Lebanon’s Aoun tells Trump state will assume responsibility for implementing Israel deal Al Arabiya English"
           },
           {
+            "title": "Trump warns Iran ‘will no longer exist’ if US decides to escalate",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORmNPR0RrUk96RzZVbUR2dG9NZnYtUTVva0psUXdPMC1zTm9wTzZoRHAtbnNETWdXZkVNOEg2MHU5S2VkRUFBSXZuRGlwV1FNYW5zTUFNODRuLWVLc3g0VmFXOENyTmFaZ1pkanpUTFhmRU9LMXkzZE5FNG5wc3A3R3FRUjN2R3ZLY3lwVXlvRElWZzI2bjVTUmZTV3pzMlh6MzM1MnZPRTFfUzlhS3ZTcFE4Q2Q5a2QyTFdPZlR30gHDAUFVX3lxTE1lZThKSk1xV2Z4aHcwODFIQ1kzdEQyWWsxQlJ1SjBoX29iVF9pUXNTWkhXazZXNjN2Y190S1NEeG9URWFhMTNOSTdRMHc2VmdvdjFEWUJyTFhCQVJ5RVpua0t6VlRNTWdBeEd4S1ROY1FsTWZZRTg0QUEyek9sdVJhdkxLemdPUXd1Nmg1OGFPSGlnR3E2Nnp4TUJtbjFJM1VsbGpwYzlGX0ljNDBfZzBLcGE3Q3NHcXRnMlhMc0c0NkFobw?oc=5",
+            "published": "2026-06-28T05:51:00+00:00",
+            "snippet": "Trump warns Iran ‘will no longer exist’ if US decides to escalate Al Arabiya English"
+          },
+          {
             "title": "Iran, US continue escalating attacks, recriminations over peace deal",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmlwMmNaSGZOV0x4Nzd6QlVCLXlZUm1rUk9ONmIzbmhCVkV5NFNQQ2ZTN3NUaWNEZk1HcXdPaW5oLThkM3RjdGRMWHZBYUpQU1diRzljeTdBQ1hwOHNraG1vd2tWSHMtaXVlelJ4cmc4RmpKM0ZDRmlZNGJRcTdzU3NLZ0xxRXRPem80UGVUWmhsXy0tUUxLcGx1eHBQTWVNakloSTdSTno4ay0yVVZpNk1Rci1TZURsZWZQWUlYeDV4UdIBxwFBVV95cUxPdU81Zm9nOFFYZlRZMjktN0dhR2ZwRFhRZUZGRXYzeFBxWjNvQW16ZEVHN29SSHRiYVdZc1JoRkJpaThjZmxiNHg4MDJHQkJQOGtiMWdmWUt2NmdkT1lCRE81RXZDdDJ5UHVUU0JOWFVjTkFoTElDeFZleVNZTjctR00tYXJvMnJ3eDdoV09hMUtGNFA5XzRjTGVuX3cxY0c0S1MyZ1AwazVHRGtzRV9hbWw2Zk9KVGRCYmxnV2cwSTNweXpCcFBN?oc=5",
             "published": "2026-06-28T05:24:00+00:00",
@@ -109,12 +115,6 @@
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzN3ZmlNdzRYOHdwWVlJNnJ6ZzRzUWpzYzAxWm8wRXd3ZldQR1RzemF4Y2NFVGM1bzJBdjVmQlVPdEZlY1VoSWJiaEJxMGtEd0RvU005WHBuSk9samRCbUJQd0lPS01Ccm5IS3prOHBaelVtR3YyRUJEQnhzbEU1cFFrdGoteXJ1NVA0V2tobTRpLTVCLW5NeWJlYlNpd2dPandtVHpPTWRObURtVGg5VlA2M3BlZGNXUUo3aVZhUmR3NnVhUVlqVFdkdHVpbC1VX0dhNktac9IB3AFBVV95cUxNUWtHcXBIRHlKbDFMR3JFZFJsaDE4QzJCR0R3b2tEOVBmcDFoTGZUVlhMazlXWGFLRGhndmNvVWZITENzV0pTT3dtZm5NMkUzS2p6eV93VWlXSDV4MlRTSFlyV2Z6QUU5cDNJZ3F3RXJmcmhnUDl1ZUlIZEtEMFdIeG5jdS1IclRHRFBZYW5kLWF2WFdrdDRSdHJrRXpIdHNLQS1zUXltamdLV3l6OE05VEIwUGNVd1dmYTJrUTVmYjhCR2ZtZjAtYW05ZnNBOHBFTTBhTFVHdTF5ekhs?oc=5",
             "published": "2026-06-27T16:29:00+00:00",
             "snippet": "Israel has indicated it will use force against Iran if Iran hinders the implementation of a Lebanon deal."
-          },
-          {
-            "title": "Trump Says Iran Has ‘Some Military Capability, Not Much’",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUNIBsAFBVV95cUxQWTA3SEJveDVnSkxlQno3WHVOQzlYT0RYeDhrRWk2cEJxN0cyQkpCMlNGTzVFQ0xMNEZ4cWZ4UGJMbHFJZHRnckVlM2FVVDY4Nk5aeHVFa0QwWUxYZHk0S2xya0VqNnpDM2FlZk40bjlRVmdXMzZudkpmNUJoVC14VldVNG5aZk1OQmt4SG5nbkF2Wmc5ZGgtYzdPU19kQzFGTENqMVhiZWl6eHVvZjlsUA?oc=5",
-            "published": "2026-06-27T15:13:02+00:00",
-            "snippet": "Trump commented that Iran possesses 'some military capability, not much'."
           }
         ],
         "error": null
@@ -125,6 +125,12 @@
         "lang": "en",
         "url": "https://www.newarab.com",
         "headlines": [
+          {
+            "title": "Iraqi forces raid Baghdad's Green Zone, arrest officials",
+            "url": "https://www.newarab.com/news/iraqi-forces-raid-baghdads-green-zone-arrest-officials",
+            "published": "2026-06-28T10:10:21+00:00",
+            "snippet": "The large-scale raids, which included other neighbourhoods in Baghdad as well, were aimed at arresting senior Iraqi officials and politicians"
+          },
           {
             "title": "Lebanon framework deal 'overwhelmingly in Israel's favour'",
             "url": "https://www.newarab.com/news/lebanon-framework-deal-overwhelmingly-israels-favour",
@@ -148,12 +154,6 @@
             "url": "https://www.newarab.com/news/iraq-arrests-protesters-unrest-spreads-over-power-cuts",
             "published": "2026-06-27T16:44:47+00:00",
             "snippet": "Iraqi security forces arrested protesters in Kut following demonstrations against chronic power shortages, as unrest spread across southern Iraq."
-          },
-          {
-            "title": "Israel settlers seizing Palestinian land to open 'tourist' sites",
-            "url": "https://www.newarab.com/news/israel-settlers-seizing-palestinian-land-open-tourist-sites",
-            "published": "2026-06-27T16:44:23+00:00",
-            "snippet": "Israeli settlers have occupied an archaeological site near Fasayil, transforming an ancient pool into a tourism destination, among other land seizures."
           }
         ],
         "error": null
@@ -347,10 +347,10 @@
             "snippet": "The Free Patriotic Movement stated that the agreement with Israel is unclear and should not compromise Lebanon's rights."
           },
           {
-            "title": "مواجهة حاسمة بين كرواتيا وغانا لحسم بطاقة التأهل - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOcl9jcENrRlVleGpqLWQ3dE1uSFB2TGtjX2pBSGhCNWExWVV5YkYtbTB1OWpiM3NEWW9NMmpSVEl5Y2huWVlmUXZRLW9jX0RPRWxYcUFRYjFpSWtNVjAzVjF2cTdHM2ZOY2NWNGVZZFpiX2RYVzZ0ZWJXTDZld3oxMkc0LXV1WTZ4WGJyWUFheVZYYlhsdU1iakkzMldUMFVjRy1UeTBZUnFmbEg4UWJFWVhnTjRySEVQa25UYXBWcFlxWHdub09oZ0RFUmR2VWdWVFgxMXZHZmR4SFN1X185NkZ1bjRGSmpneFpfcE5IUThNTnpib3F6RkRXb0NXdVQ2SXRJX0dxMVNoTEJYX1oyY0djdUhGTDhibUxDMlFFQ2FlTlZHZ3BoS3lyTDhsSzVaanhCYmZsWmU0WXBPSDdhOURJdGR2ZlE3a0w3LTBaQTJEczF3dnVFVkk5ZlRhckJrTkhfNTAwQmFBWVZsd2paMlVQckEwSGg2VTZNLV9VWXlrdEtwVFRaakZtUEtwUVRJUXp3LWlmYWRkRXdqT2FESnAzcUNGZGhvQXc?oc=5",
-            "published": "2026-06-27T17:51:00+00:00",
-            "snippet": "A decisive confrontation between Croatia and Ghana is set to determine a qualification spot."
+            "title": "منتخب البرتغال يسعى لحسم الصدارة أمام كولومبيا - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNV3Q4ZEFIbG9GcUxtSHcwcVZ4LXNtQThvZjRSVGd5Y2lwYTJQWV9ISWYyR0xiSlJ0aUVDVGhnVTRPR21SOW5JbWpBc0JEeVJaSVNaTDViY09UMnZuUHh5eXlpNWx0Q1BhdlJXTERScmxNOGhoUWE3SGEzc1RXQWM1MnpQR285QzktMGpTQngyXzdOY1lKWEJHMXdQb1lvTmlLbkRDdE8zZTZnVlBNVjdYNXowaW5nd0RWMFFlcFFWWDJaQmtEZy03YmZnTlpPenY4N3JYQXVWUVFmZ2Vfa3B4Q2xfV2NaVGppMHlOZXVPY21GNk5CQm1LcjZvU1ExRzJSX2JjeHpSbjg3N1FVWTZUZFVhVzF5OU03UkUxNG5WaklVbGlteUhRWGpkR0N6VWZDVG5EMUxUZWhVZHJ3Y0MtSWZlSkpBLW9ua3J3ZWtPQlZVeWZJNG1vQU9SQkUwNURsdUcyaFFKQUFMVmtWcGdSRzUyTDFsa1FFSGNkWXNUQXlVeE9ta1J5RWd2SDdKZFptblBtMHV0MHE1aGQ5b3RZQw?oc=5",
+            "published": "2026-06-27T18:19:00+00:00",
+            "snippet": "منتخب البرتغال يسعى لحسم الصدارة أمام كولومبيا Al Akhbar"
           }
         ],
         "error": null
@@ -361,6 +361,18 @@
         "lang": "ar",
         "url": "https://www.almanar.com.lb",
         "headlines": [
+          {
+            "title": "ارسلان: اتفاق الإطار يعد بمثابة خطوة عملية في مشروع الفتنة الداخلية",
+            "url": "https://www.almanar.com.lb/article/984062/",
+            "published": "2026-06-28T10:42:09+00:00",
+            "snippet": "قال رئيس الحزب الديمقراطي اللبناني طلال أرسلان تعليقًا على اتفاق الإطار: “غير متوازن في شكله ومضمونه ويشرعن الاحتلال وينتهك السيادة ،اتفاق الإطار يعد بمثابة خطوة عملية في مشروع الفتنة الداخلية وهو هدف “إسرائيل” الأول الذي حذرنا منه مرارًا وتكرارًا”."
+          },
+          {
+            "title": "العدو يعلن عن مقتل ضابط برتبة نقيب في مواجهة مع المقاومة في جنوب لبنان",
+            "url": "https://www.almanar.com.lb/article/984052/",
+            "published": "2026-06-28T10:30:28+00:00",
+            "snippet": "أعلنت وسائل إعلام العدو اليوم الأحد “مقتل ضابط برتبة نقيب في معركة في جنوب لبنان الليلة الفائتة”."
+          },
           {
             "title": "فيديو يوثّق لحظة إصابة عناصر من الجيش الإسرائيلي بنيران المقاومة الإسلامية",
             "url": "https://www.almanar.com.lb/article/984037/",
@@ -378,18 +390,6 @@
             "url": "https://www.almanar.com.lb/article/984012/",
             "published": "2026-06-28T09:56:45+00:00",
             "snippet": "A hostile drone was observed flying at a low altitude over Baalbek and its surroundings."
-          },
-          {
-            "title": "تقرير مصور | تشييع ثلة من الشهداء في قرى منطقة النبطية",
-            "url": "https://www.almanar.com.lb/article/983992/",
-            "published": "2026-06-28T09:51:03+00:00",
-            "snippet": "Hezbollah and supporters mourned a group of martyrs in villages in the Nabatieh region of southern Lebanon."
-          },
-          {
-            "title": "تقرير مصور | اعلام العدو يتحدث عن بنود سرية في الاتفاق بين سلطة لبنان وتل ابيب",
-            "url": "https://www.almanar.com.lb/article/983957/",
-            "published": "2026-06-28T09:43:45+00:00",
-            "snippet": "Enemy media revealed that the framework agreement between the Lebanese authority and the Israeli entity includes secret security clauses for cooperation against the resistance."
           }
         ],
         "error": null
@@ -487,6 +487,18 @@
             "snippet": "Residential building damaged in latest Iranian attack — Bahrain interior ministry Arab News"
           },
           {
+            "title": "Jordan’s exports to EU markets surge 49.3% in first 4 months of 2026",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRUTh0ZHJCOGhpRHY2Zk9WZEw0dHh4UHFUd200azJpRm5jTVJfbUh1X1lWRzB4NDdURl85RHlPSDM0THJ3X3Blc2x5cjFCQWd0RWFB?oc=5",
+            "published": "2026-06-28T08:56:12+00:00",
+            "snippet": "Jordan’s exports to EU markets surge 49.3% in first 4 months of 2026 Arab News"
+          },
+          {
+            "title": "Kuwait, Bahrain condemn latest Iranian attacks on their territories",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Da2tacEN1QXRjY01MRkEwWHpYaWp4N2c1Z0xBdndNa3h6dW1Za0k2YS1BaVR2YlNBUVlLbzdXSmhPTHY5dG9LQ2tpYjFmNDZ1SlRGQ0ZKS2pvUzU0Nnc?oc=5",
+            "published": "2026-06-28T06:48:04+00:00",
+            "snippet": "Kuwait, Bahrain condemn latest Iranian attacks on their territories Arab News"
+          },
+          {
             "title": "Trump threatens to annihilate Iran after new exchange of attacks",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CWXNKN1lMY2psRVdUcU40Q0VkWHg2N095ajZZSW4waE9hOWRfU3YtNWpSM2FSR3Bpd1FkbGgybXVTcWJPVVlLT0hXMWhWWlJwZkVBay16ZnE4Yk5VekE?oc=5",
             "published": "2026-06-28T05:00:33+00:00",
@@ -497,18 +509,6 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tbmg0dmU3NGhwd0taa1o2WExaNnAtdzlsWWJERnRDa21rZ1dQMFpTc1ozeUVvbjhvZnN6dXlyck5SbFRNRVRnM0tOWVRsSzVEYnNr?oc=5",
             "published": "2026-06-28T03:44:25+00:00",
             "snippet": "Lebanon's Aoun expressed hope that the US would pressure Israel to withdraw from southern areas."
-          },
-          {
-            "title": "Iraqi forces raid Baghdad’s Green Zone amid arrest reports",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XbWV3Zl9PTjJKUndTM3NqRDZYeXJ2MDlvcHpVYXRFUmNqSU9TZWJSaVN6bVJ4c2xXVmpYYUNxWktxN3A4d3NXWmpGeU1IUEg0cDViQlRWTm9TZTM1R0E?oc=5",
-            "published": "2026-06-28T03:14:36+00:00",
-            "snippet": "Iraqi forces raided Baghdad’s Green Zone amidst reports of arrests."
-          },
-          {
-            "title": "Six Kenyan protesters found dumped, tortured after arrest at ‘Gen Z’ memorial march",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MNmFWRFF6QXFGODdyeEFVU0NTRHZCRmppWElMZUZueU5XaXRBTmVmcXpDenA2N0RjakxBS1lHV05ISDhQUUVDYV9QdWxSTFF0M1Rj?oc=5",
-            "published": "2026-06-27T20:49:48+00:00",
-            "snippet": "Six Kenyan protesters found dumped, tortured after arrest at ‘Gen Z’ memorial march Arab News"
           }
         ],
         "error": null
@@ -637,6 +637,12 @@
         "url": "https://timesofoman.com",
         "headlines": [
           {
+            "title": "Seychelles confers 'Guardian of the Blue Horizon' title on Indian PM Modi",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGFzeDhEXzB2NlVXNERhVmI4QjlsNERHQ21RbzhMZmwzQnkxQTA1SWJQeEc3Y0wzSE1mVkJKUUtpT2ItdnhhRG1rSVJKelFLTmN0QTJzM1U1d0NNTkFnSnladFhzbG92enBtdU0ydVlveGc5bmRaM1VHdUMteUZtT1M5QkdXeXJxajhMeXhiT1ViY1FMcEZ4ZG1oYXBJd011S0lfTkNOSQ?oc=5",
+            "published": "2026-06-28T10:29:00+00:00",
+            "snippet": "Seychelles confers 'Guardian of the Blue Horizon' title on Indian PM Modi Times of Oman"
+          },
+          {
             "title": "Oman condemns military attacks on Kuwait",
             "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGR1OXhSTEdGdjdjNmhjY0dqblZ1d0hocnRXbl9NVTExb0o1X0tNR2ZvaUd4WVNxTDZ0TTVidFhPamh6enp6NmpUVmhaYlFxNUQ2WkFUNTkxVWp0SHVscm5odTlEdTAyTDVKTHpaU1UtVVMtN0tCVHVZV1V5TERyUmhIaTJLdw?oc=5",
             "published": "2026-06-28T09:01:00+00:00",
@@ -655,16 +661,10 @@
             "snippet": "A life sentence for a Balochistan activist has raised fears of unrest."
           },
           {
-            "title": "Nepal embassy organises export and tourism promotion event",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWNuZ21Jc3hnT3dja0o0TDV0SHRZU0p4QkZLazNaU3lKVjktQ092SGpERV82T21MczEyak45dHpCV2wyNURNTXlwVnliMGNlUklVUHMybGJYNk9uMHkybkpNTGxxOUpwRUZHMmhJQkp6a0dzd2ZwUVBRMzZ2UnlRVHZrTlBMLXYzbUNmVFctRjVNdjBFYm9wdXNGWjBJQQ?oc=5",
-            "published": "2026-06-27T15:20:00+00:00",
-            "snippet": "Nepal's embassy organized an event to promote exports and tourism."
-          },
-          {
-            "title": "HM's state visit to France draws widespread international media attention",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWtOOEZEUVlnczEtc3Q2YmRDdE9sZ3J3WlJYcEVTdHktTHc5WmZWT05wNUFGVWlCRnZWYmEzeGVpck5vNnkxUGp2NW13RGYxUUJ4dEtpVGg5ajlSeU1jbkV0VDk1VWVYcXBpb2NiZDJRRF8wNVU1anJtY1pJQ3RxRHprMDdKR3JxekRQeXVVQk1JUThBenBOVWtIOUlydC15cGdieGNMRnBxVmJDYkNWZQ?oc=5",
-            "published": "2026-06-27T13:58:00+00:00",
-            "snippet": "The state visit of His Majesty to France garnered significant international media attention."
+            "title": "Argentina ease past Jordan 3-1 to finish group stage with all-win record",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcHdTcVNlczRjUTRWdmNVS2p2VEpmLUFTUWVIeGRzNHk2UFhhWU9rRjhiZHFVQi1ibG5nSFN2SW1HQVZkZ2U2LWZvSTQwdnFjdk9Lb0hlN1lBcEJzeTF2ak00V2ZVenFBZk5TUTBCMTlLT3psbGJkcHJHVWZPWkdMZ2ZnZnc5NmdXWVNnVjB0dEZEX19TNi0ybEdIbGRmYWFoOFdQV0tmeXVBclB1OEROTQ?oc=5",
+            "published": "2026-06-28T04:43:00+00:00",
+            "snippet": "Argentina ease past Jordan 3-1 to finish group stage with all-win record Times of Oman"
           }
         ],
         "error": null
@@ -717,6 +717,12 @@
         "url": "https://www.timesofisrael.com",
         "headlines": [
           {
+            "title": "Iraqi forces raid Baghdad Green Zone, arrest officials linked to corruption, Iran-backed groups",
+            "url": "https://www.timesofisrael.com/iraqi-forces-raid-baghdad-green-zone-arrest-officials-linked-to-corruption-iran-backed-groups/",
+            "published": "2026-06-28T10:16:07+00:00",
+            "snippet": "Security official says raids were part of effort from new PM Zaidi to show US that Iraq is committed to democratic reforms, cracking down on Iranian influence The post Iraqi forces raid Baghdad Green Zone, arrest officials linked to corruption, Iran-backed groups appeared first on The Times of Israe"
+          },
+          {
             "title": "Daily Briefing June 28 – The first test of the Lebanon deal: IDF pulls back slightly",
             "url": "https://www.timesofisrael.com/daily-briefing-june-28-the-first-test-of-the-lebanon-deal-idf-pulls-back-slightly/",
             "published": "2026-06-28T10:00:01+00:00",
@@ -729,22 +735,16 @@
             "snippet": "TV pundit, a former rescue chief whose son died fighting on Oct."
           },
           {
-            "title": "Four slain within hours in shootings, car-bombing amid Arab community violence",
+            "title": "Five slain within hours in shootings, car-bombings amid Arab community violence",
             "url": "https://www.timesofisrael.com/four-slain-within-hours-in-shootings-car-bombing-amid-arab-community-violence/",
             "published": "2026-06-28T08:50:10+00:00",
-            "snippet": "Four people were killed in shootings and a car-bombing in the Arab community within hours, bringing the year's toll to 141."
+            "snippet": "Father killed, 6-year-old son injured as vehicle explodes in Jaffa; man killed in Jaffa car bomb; 2 gunned down in Qalansawe, another in Taibe; toll in Arab community this year reaches at least 141 The post Five slain within hours in shootings, car-bombings amid Arab community violence appeared firs"
           },
           {
             "title": "Trump threatens to ‘complete the job’ in Iran as US military launches fresh strikes",
             "url": "https://www.timesofisrael.com/trump-threatens-to-complete-the-job-in-iran-as-us-military-launches-fresh-strikes/",
             "published": "2026-06-28T03:06:28+00:00",
             "snippet": "Trump threatened to 'complete the job' in Iran as US military launched fresh strikes near the Strait of Hormuz."
-          },
-          {
-            "title": "NY’s Hakeem Jeffries welcomes anti-Israel primary winners who declined to endorse him",
-            "url": "https://www.timesofisrael.com/nys-hakeem-jeffries-welcomes-anti-israel-primary-winners-who-declined-to-endorse-him/",
-            "published": "2026-06-28T01:07:42+00:00",
-            "snippet": "NY's Hakeem Jeffries congratulated anti-Israel primary winners, amidst tensions between moderates and the anti-Zionist flank in the party."
           }
         ],
         "error": null
@@ -797,6 +797,24 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
+            "title": "Carpet weaving; an enduring craft",
+            "url": "https://en.irna.ir/photo/86195008/Carpet-weaving-an-enduring-craft",
+            "published": "2026-06-28T10:34:01+00:00",
+            "snippet": "The photos show a group of women working in a carpet-weaving workshop in the Asavleh district of Sanandaj, the capital of the western province of Kurdistan."
+          },
+          {
+            "title": "Araghchi: Solely Iran responsible for reopening Hormuz Strait under deal with US",
+            "url": "https://en.irna.ir/news/86195023/Araghchi-Solely-Iran-responsible-for-reopening-Hormuz-Strait",
+            "published": "2026-06-28T10:29:49+00:00",
+            "snippet": "Tehran, IRNA – Foreign Minister Abbas Araghchi says the responsibility for reopening the Strait of Hormuz rests solely with the Islamic Republic of Iran, urging all parties to refrain from interfering in Tehran’s management of the strategic waterway under the terms of a memorandum of understanding ("
+          },
+          {
+            "title": "Iran judiciary chief calls US human rights claims ‘ridiculous’",
+            "url": "https://en.irna.ir/news/86194987/Iran-judiciary-chief-calls-US-human-rights-claims-ridiculous",
+            "published": "2026-06-28T10:22:26+00:00",
+            "snippet": "Tehran, IRNA – Iran’s Judiciary Chief Gholamhossein Mohseni-Ejei has dismissed US claims of supporting human rights as “ridiculous,” saying Washington is using military aggression, economic pressure, and media warfare to advance its interests."
+          },
+          {
             "title": "Iran, Turkiye call for enhanced academic cooperation",
             "url": "https://en.irna.ir/news/86194880/Iran-Turkiye-call-for-enhanced-academic-cooperation",
             "published": "2026-06-28T10:13:45+00:00",
@@ -807,24 +825,6 @@
             "url": "https://en.irna.ir/news/86194840/Iran-attends-at-9th-China-Eurasia-Expo",
             "published": "2026-06-28T10:00:52+00:00",
             "snippet": "Iran has inaugurated its pavilion at the 9th China-Eurasia Expo in Xinjiang, China."
-          },
-          {
-            "title": "Dan Caine: Every Iranian who had a small gun was shooting at us",
-            "url": "https://en.irna.ir/news/86194853/Dan-Caine-Every-Iranian-who-had-a-small-gun-was-shooting-at",
-            "published": "2026-06-28T09:56:04+00:00",
-            "snippet": "Dan Caine recounted an incident where 'every Iranian who had a small gun was shooting at us'."
-          },
-          {
-            "title": "Iran says expanding ties with Iraq remains top foreign policy priority",
-            "url": "https://en.irna.ir/news/86194876/Iran-says-expanding-ties-with-Iraq-remains-top-foreign-policy",
-            "published": "2026-06-28T09:21:10+00:00",
-            "snippet": "Iran's Foreign Ministry spokesperson stated that expanding relations with Iraq remains a top foreign policy priority due to deep historical bonds."
-          },
-          {
-            "title": "Iranian FM holds talks with Iraqi counterpart, pays tribute to Martyr Soleimani",
-            "url": "https://en.irna.ir/news/86194844/Iranian-FM-holds-talks-with-Iraqi-counterpart-pays-tribute-to",
-            "published": "2026-06-28T09:04:59+00:00",
-            "snippet": "Iranian Foreign Minister Abbas Araqchi paid tribute to Lieutenant General Qassem Soleimani and Abu Mahdi al-Muhandis during his visit to Baghdad."
           }
         ],
         "error": null
@@ -864,6 +864,164 @@
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNldYVFhtTHRoLVltZjNnTjFnMDNUTzJET01zTkZxYjRpNVhrMjdxS3B3cDlJUWdmTjUxVVhtN3o4SmE0VEE0RjZQTkxVc3ktZko5aGtGblFiZXV2RTh6ZTNwMjJyZW83bEFZNVBfVVh2NDRkRTJ3UXJKcWZnR0RfUjN6dUdsZ3Ey?oc=5",
             "published": "2026-06-28T05:51:00+00:00",
             "snippet": "The IRGC Navy issued a warning that US bases will 'experience hell'."
+          }
+        ],
+        "error": null
+      }
+    ],
+    "Turkey": [
+      {
+        "source": "Anadolu Agency",
+        "country": "Turkey",
+        "lang": "en",
+        "url": "https://www.aa.com.tr/en",
+        "headlines": [
+          {
+            "title": "Iran says it is coordinating with Iraq on Khamenei’s funeral at Shia holy sites",
+            "url": "https://www.aa.com.tr/en/middle-east/iran-says-it-is-coordinating-with-iraq-on-khamenei-s-funeral-at-shia-holy-sites/3980362",
+            "published": "2026-06-28T10:43:31+00:00",
+            "snippet": "Iraq, Iranian foreign ministers gather in Baghdad; discuss escalation between Iran and the US, developments in Strait of Hormuz, Khamenei’s funeral"
+          },
+          {
+            "title": "3 Bangladeshi police officers sentenced to death for killing protesters in 2024 uprising",
+            "url": "https://www.aa.com.tr/en/asia-pacific/3-bangladeshi-police-officers-sentenced-to-death-for-killing-protesters-in-2024-uprising/3980361",
+            "published": "2026-06-28T10:41:55+00:00",
+            "snippet": "Special tribunal in capital Dhaka hands down death penalty in absentia for crimes against humanity"
+          },
+          {
+            "title": "4 dead in US' Kentucky flooding as governor declares state of emergency",
+            "url": "https://www.aa.com.tr/en/americas/4-dead-in-us-kentucky-flooding-as-governor-declares-state-of-emergency/3980335",
+            "published": "2026-06-28T09:52:51+00:00",
+            "snippet": "More than 6 inches of rain inundated parts of state, prompting water rescues, flash flood warnings, media reports"
+          },
+          {
+            "title": "Israeli forces injure Palestinian, detain 17 in West Bank raids",
+            "url": "https://www.aa.com.tr/en/middle-east/israeli-forces-injure-palestinian-detain-17-in-west-bank-raids/3980331",
+            "published": "2026-06-28T09:44:23+00:00",
+            "snippet": "Journalist among those detained in Israeli raids, mayor says"
+          },
+          {
+            "title": "Turkish search and rescue teams begin work in Venezuela",
+            "url": "https://www.aa.com.tr/en/americas/turkish-search-and-rescue-teams-begin-work-in-venezuela/3980326",
+            "published": "2026-06-28T09:33:38+00:00",
+            "snippet": "AFAD, Turkish Armed Forces teams start rescue efforts at collapsed 14-story building in quake-hit La Guaira"
+          }
+        ],
+        "error": null
+      },
+      {
+        "source": "Daily Sabah",
+        "country": "Turkey",
+        "lang": "en",
+        "url": "https://www.dailysabah.com",
+        "headlines": [
+          {
+            "title": "Türkiye’s moment in the new Middle East",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblgzOVV2d1FMaldnWVprRlFyM2hHcEc5ZzUwR1lYZVFMX2pEV2w3Z0JtQmV1ZmJmUmNXMXczMDd2UU51RURtTUZCLTVhNmRHdkptS3Ixb0NCS2JBWVcyYzU1LTlsYmNxcTI5YnBjQVlubzJMcVRzVF8teXlOdVFfWUNabWxJYnNM0gGOAUFVX3lxTE4yVnpEdXpsdjhhVWlOV2lKZmY4RjlQZDd3cWI5TERwVGVPWHJYeWdwWnVWbVlYTXhfUGRJRWZwSmdTVGh6MHRPTktOMXIybjNPSU1KWjFFT0xMTVFaQXBJWWRzdy1Sd0t5aUk2TURNdTFRNG1taUlWN01SYlVmVnlqOFFiT0MwTzZ3UnN6Y0E?oc=5",
+            "published": "2026-06-26T21:05:00+00:00",
+            "snippet": "Türkiye’s moment in the new Middle East | Daily Sabah Daily Sabah"
+          },
+          {
+            "title": "Lives that lose their agency and rhythm through digital platforms",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXFMWW5qcVlWaFo3WDY2QnI2N09ySk4wOVFWaVl3NGxRR3BkNnFVLWpFYzdyS21aSFpfbjFsZ0wySE9NUXVqa2hYQ3hyX0RkWFJyOEItRHFTZG9pRWRLSFhjeEV2OW5rbTgzWkt6UWFnSGZmMm9mZWl2RlpxMGFVVXlZSmRoLVNKSlFob013Mk5ZRDJXb3Fxdk8tVUdXaHJHeEpVdXJVY2ZNTGtw0gGyAUFVX3lxTE13MVdoOFZrSzBDdHFXanBJRW0xZk5vSHdXMU5OM1ZBT21NWTMxVW1wU3poN2NqUGcwUnNmYlcyUkRwZEphblN5Z250djM0dWszZXdIc3dodWQ1ZFNucnNQRU81RDBpNjRUQ2RncDhJb25wOUpHWkFYR1E4T0tjNVByVGI4ZjMtSTAxX3YwejdNRGVWLVQxZjQ2eTc3eGxvNTBfTFg0THhMZHRFcExJRzR2bEE?oc=5",
+            "published": "2026-06-26T21:05:00+00:00",
+            "snippet": "Lives that lose their agency and rhythm through digital platforms | Daily Sabah Daily Sabah"
+          },
+          {
+            "title": "The new politics of frontier AI",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1a3JtUWFQd0Uxa1RndFZEVFNhbTNyZ3RJZXlualdoZjZkWFVwd0pHSmRRM3lUTGZKd2k2d0pzMnVsLU5kRnpGa0czMmtsTVItbGR5TkZNcDNqeWNCSVFLZ2lZeThhSGx5M1I4Yi00TE0zVzlKUy1hdGlpeWjSAYIBQVVfeXFMTkNTQzFjZDM4SUc4aVFVcXBrbXFWTzNNRHJGdWpXR20weks2bzYtR3ZjRzRNeFdIdkdLRmp0NzI4c0pYOHhIZU9ocFRhanFKZWlVUjBfU1VISXZqYS1PRzdsMUlnSVQ1QTlhaElmM1M1Ri1GZnktMEF4U2pNTktGNzFGdw?oc=5",
+            "published": "2026-06-26T21:05:00+00:00",
+            "snippet": "The new politics of frontier AI | Daily Sabah Daily Sabah"
+          },
+          {
+            "title": "Starmer falls but will the Labour change?",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXlpZ0JCVDJYUnhPNjlrQWpnWXV0c3Z3cks2cXRmSzhsTHY2YkZ1QXBOQ0cwM0VsZHBHYnlLNUVValNueUc0ZlB5WVBJek50X3MtODU4T0k0aTFzTlFuTWhwZ3c4VDFOcWJyM1pHS3RZRjdoallCT0UtcGsxODhPUXkxbzk3UFNI0gGOAUFVX3lxTFBmSmh3dkxBX1N6TDRkQUdfRlBWLWt0TWlHN2hWR05kVGRaWWF6LWp0c29GVm1Ya21ES0ZSeXh3X1phbGJSSkFxSkxyd3pzUGhHOTdIZWJOdXQ0WEVZVDRjSENYQ3RtSE5mQWxxODVVS2dJYW5hYU1UQTBETm9ScGp6T1YwQ0htQXBkTFh6b1E?oc=5",
+            "published": "2026-06-26T21:05:00+00:00",
+            "snippet": "Starmer falls but will the Labour change? | Daily Sabah Daily Sabah"
+          },
+          {
+            "title": "Türkiye performs first surgery with homegrown heart-lung machine",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTm5CNWFvZ1Nzd0JheElWT3otYjMyMkVNRU5vUl9QRnlpaE9hWkYyZEVxZnFCXzBsMHpwa2JJZXZfNUkwYTFoLXFnYUwzSHU5V3JYb2Q2azVGMTliLUIwSUFNMW5MaEJDRm8tN1VJdHJNSGUwOGwzYW9Sekh0cS1EUUc1TmZ5c0lHTHpuNkhtWkZhcjJ1UzhCQ3Mwa2Zpb1BPTDVwcFRmONIBrAFBVV95cUxNV1kwT1pNbVB2YnIwVVkwWmwzOV9idEtvdVFLRlFrNWhUeVZiV2dGcnEzbDJYU0F3S1NLY09ndk43YXcxSTBQWjFpWnNpOHhoS05yc0w5c05GM1ZYYmhSOS1jVFNUX3JINHVGSFZyVjB3QThrOTJCbjg0VzVjUFFXXzF5YThWcEZTNDFONDlqZEhVMjZlTFlLUThiTzFZTnRQUTU2eFJqUW1tVmVK?oc=5",
+            "published": "2026-06-26T18:32:00+00:00",
+            "snippet": "Türkiye performs first surgery with homegrown heart-lung machine | Daily Sabah Daily Sabah"
+          }
+        ],
+        "error": null
+      },
+      {
+        "source": "Hürriyet Daily News",
+        "country": "Turkey",
+        "lang": "en",
+        "url": "https://www.hurriyetdailynews.com",
+        "headlines": [
+          {
+            "title": "Soilless farming investments expanding in Istanbul",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1luT1h6NjF4QW1zdGo2ZGdaYkg2RUhjUHIxMmhVVVR6UzRQNHVuTngtc3lfWGk4SGFSREY1ZURidzhJUFVzS3FEanQtOWdNYnp0VU5kYVExTHBPSmdVa2hNQms1RHNLSzZKTFZIZzZiSTZaRVBwYVFDNUctcUhtLUFCWDdDZ3hWa1VuYkYwSWstWVI2OVE?oc=5",
+            "published": "2026-06-28T05:33:10+00:00",
+            "snippet": "Soilless farming investments expanding in Istanbul Hürriyet Daily News"
+          },
+          {
+            "title": "Türkiye and Riyadh move to ease bilateral trade",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlRPdVRwNDVjWkRmOGwyUFp0WVBvZUstS0JFT0F4UHhTeDZQWWhQNkR5WU1nMEdNQjk4QTEwYTBYNnVMX1dab3ZHaUxXVmNWZWtadS1zLWdvS3VJSUFXZDlrVkVjVnhIbFhJaFR6MGxxcmdtQ3lwTHBwWkFPQ2MtaUtLWmV3cHZlMmFqQ1hyQktIQQ?oc=5",
+            "published": "2026-06-28T05:31:52+00:00",
+            "snippet": "Türkiye and Riyadh move to ease bilateral trade Hürriyet Daily News"
+          },
+          {
+            "title": "Renewable share in power generation hits 26-year high",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGF3dHZDZnVpNHRKTFNzd2RNWWtPSGdHRVVtamZNVDN6d3VpeUhjNDVHd2xWN3F5d293R24tbXBQbnVHY0dFdmFHQjNkS3VoTGxQcFhCX1ZmRW41eEZEZXM3ZlZROEVTLUp1RWxCVUo1Vm90aW9kM0VUSU1FdWd6d2pXcDJFWkw2bkI3eUxnZnNvZjlOSzYxTlhn?oc=5",
+            "published": "2026-06-28T05:29:13+00:00",
+            "snippet": "Renewable share in power generation hits 26-year high Hürriyet Daily News"
+          },
+          {
+            "title": "Venezuela quakes kill 1,400 as time running out to find survivors",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFdQTzhENGo1bFVKT2RhRkViV2k5dldwWXl6akpEN0xtcTN0NzBEdWUzNTE3TDF1SGwwZXlmNGlRWTM2Q1RLem1wV2xTaGxoUThDQkMwbWZMdmlUX0Vrb2FXNHhKMnVjalVMYmJKeUpDbGtBd1FwQ0I4VkVKZWtqT1NEWTMwdDZMc25BSktJcmRmZkYwbGRXZGhUSnlZOVYtdExBYTEzbkxIUQ?oc=5",
+            "published": "2026-06-28T04:05:42+00:00",
+            "snippet": "Venezuela quakes kill 1,400 as time running out to find survivors Hürriyet Daily News"
+          },
+          {
+            "title": "Consensus Latest News, Top Stories - All news & analysis about Consensus",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MN3BNZkJHbngxc1pOTVBkREJ5NkNQcVhIcGZkRml5Vm1Cc0xLRzZRSnp5SlViR2VEdzNnbzk2MzZrZm14alYwNFpBSGMwZ1JmVVdlOXY4QUhwaGx1Mnc?oc=5",
+            "published": "2026-06-27T12:17:16+00:00",
+            "snippet": "Consensus Latest News, Top Stories - All news & analysis about Consensus Hürriyet Daily News"
+          }
+        ],
+        "error": null
+      },
+      {
+        "source": "TRT World",
+        "country": "Turkey",
+        "lang": "en",
+        "url": "https://www.trtworld.com",
+        "headlines": [
+          {
+            "title": "Live blog - US-Israeli war on Iran",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
+            "published": "2026-06-28T08:00:14+00:00",
+            "snippet": "Live blog - US-Israeli war on Iran TRT World"
+          },
+          {
+            "title": "US forces launch fresh strikes against multiple targets in Iran",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mYlZwYXJmaXB1LVpuRTV4cHB2TWtLQzlEaHkzX0VlUE9wNTV4eGJtWUU5SWRRd0JKTFJDT2E1V1Rtd0VnMTBYTmhyalZiMzdPRzdZUTVmbjY?oc=5",
+            "published": "2026-06-27T23:17:56+00:00",
+            "snippet": "US forces launch fresh strikes against multiple targets in Iran TRT World"
+          },
+          {
+            "title": "The world after Hormuz: Can Türkiye become a trade bridge between Asia and Europe?",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QeTJWMDI3LXhBMDVxTTJIaGdvUGloa2dJTWloWGNpeTkyQlUwdTlwYjVEMGUzdXlrNjNQWmtvSVZ2ZnE3cWlkQlFGVmdFTURJTDlaenNZVVg?oc=5",
+            "published": "2026-06-27T20:59:50+00:00",
+            "snippet": "The world after Hormuz: Can Türkiye become a trade bridge between Asia and Europe? TRT World"
+          },
+          {
+            "title": "War on Iran",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aT1NUbUZxdVZaanV5MzN5Z1NEMVp5ODlhZF9zdHFaRXg3MkdZQWZYcVY0WjU2TUZIOTE5RHlQengwaFhVYlF6ZGF5Vkw?oc=5",
+            "published": "2026-06-27T19:32:45+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Venezuela death toll rises as UN estimates twin quakes wiped 6% of GDP",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94R1h4ZmdtcXBBNFdfYlE2SFJBVWlWU1NNUmJUM1Buc3hSZjBCRTZPTHZNcldfTFJ5c0FSMEFwNk1mWnljWlNRS1ZKUVVGWEtlSVdNdnAxTnI?oc=5",
+            "published": "2026-06-27T19:19:19+00:00",
+            "snippet": "Venezuela death toll rises as UN estimates twin quakes wiped 6% of GDP TRT World"
           }
         ],
         "error": null
