@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T01:45:50.336857+00:00",
+  "updated": "2026-06-28T02:14:39.664527+00:00",
   "total_headlines": 110,
   "terms": [
     {
       "term": "Iran",
-      "count": 15,
+      "count": 16,
       "headlines": [
         {
           "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
@@ -16,6 +16,12 @@
           "title": "US launches second night of strikes on Iran after ship hit by drone",
           "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Bahrain confirms alarm as Iran claims attacks on Gulf bases",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-confirms-alarm-iran-claims-attacks-gulf-bases",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -79,7 +85,7 @@
           "region": "Israel"
         },
         {
-          "title": "US launches fresh strikes on Iran: Tehran had ‘chance to honor the ceasefire but elected not to’",
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
           "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
           "source": "Times of Israel",
           "region": "Israel"
@@ -100,18 +106,12 @@
     },
     {
       "term": "Israeli",
-      "count": 13,
+      "count": 12,
       "headlines": [
         {
           "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
           "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "‘Crush, not anaesthetise’: Ben Gvir denounces Lebanon deal, seeks cabinet vote",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crush-not-anaesthetise-ben-gvir-denounces-lebanon-deal-seeks-cabinet",
-          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -184,14 +184,8 @@
     },
     {
       "term": "Lebanon",
-      "count": 11,
+      "count": 10,
       "headlines": [
-        {
-          "title": "‘Crush, not anaesthetise’: Ben Gvir denounces Lebanon deal, seeks cabinet vote",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crush-not-anaesthetise-ben-gvir-denounces-lebanon-deal-seeks-cabinet",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
         {
           "title": "Israel will use ‘force’ against Iran if it prevents Lebanon deal implementation: Katz",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzN3ZmlNdzRYOHdwWVlJNnJ6ZzRzUWpzYzAxWm8wRXd3ZldQR1RzemF4Y2NFVGM1bzJBdjVmQlVPdEZlY1VoSWJiaEJxMGtEd0RvU005WHBuSk9samRCbUJQd0lPS01Ccm5IS3prOHBaelVtR3YyRUJEQnhzbEU1cFFrdGoteXJ1NVA0V2tobTRpLTVCLW5NeWJlYlNpd2dPandtVHpPTWRObURtVGg5VlA2M3BlZGNXUUo3aVZhUmR3NnVhUVlqVFdkdHVpbC1VX0dhNktac9IB3AFBVV95cUxNUWtHcXBIRHlKbDFMR3JFZFJsaDE4QzJCR0R3b2tEOVBmcDFoTGZUVlhMazlXWGFLRGhndmNvVWZITENzV0pTT3dtZm5NMkUzS2p6eV93VWlXSDV4MlRTSFlyV2Z6QUU5cDNJZ3F3RXJmcmhnUDl1ZUlIZEtEMFdIeG5jdS1IclRHRFBZYW5kLWF2WFdrdDRSdHJrRXpIdHNLQS1zUXltamdLV3l6OE05VEIwUGNVd1dmYTJrUTVmYjhCR2ZtZjAtYW05ZnNBOHBFTTBhTFVHdTF5ekhs?oc=5",
@@ -255,15 +249,159 @@
       ]
     },
     {
-      "term": "agreement",
+      "term": "Strait of Hormuz",
       "count": 8,
       "headlines": [
         {
-          "title": "‘Crush, not anaesthetise’: Ben Gvir denounces Lebanon deal, seeks cabinet vote",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crush-not-anaesthetise-ben-gvir-denounces-lebanon-deal-seeks-cabinet",
+          "title": "US launches second night of strikes on Iran after ship hit by drone",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Centcom: 10 Iranian military targets in and near Hormuz struck",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-10-iranian-military-targets-and-near-hormuz-struck",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
+        {
+          "title": "تصعيد في مضيق هرمز واتفاق واشنطن يوسع الجدل في لبنان",
+          "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOQWxKeFF5bnZJamRHLXd1M2RnNlFMV3E5MnpaVUUzOVhOTGt4TjRrWk5NOE1ZdXc5b1dPQXE0T2F6MmlpdnpPbGgtejJUNnk3RTB1Tk1JdXhVYU5RREFMVV9iY2dqTFFQT0VJN0JnVGtVVHd4LTlBc0hFNElxZGdzRk9EQXRNc0F6Y25KaS00SVBqdFRwS0FPTXpZd19qMnRXYkhfandreTd3ZjFMMzloNk5KVXVyT2dWQWdSdnhrb1FLOTlabk1fMHgtalZuTENGcmRVVTZQaTBJb3dhNmEzUEl1eFhkamZDelpud01peWRkVzFsV3pCTnMya29oYXhWVVFUcTF4WExjaVVseE1XVExkNUdxZWZhTFhSVUVXRlJTQXlzeVVyMUFxcVF4aXQ4WExrOEFsYU5yQk0xSkF3enYtdmQ2czlZalROUnVMSEs5bUZ2RVBGNGJPM1JEdzhPYTFneHlPMk9qa2Vib083Y1doN2F6b0dPWjJha3RBOVludzRaVnk3WTZUazZ0emx3WXJHeDR2NHB0TlhrcXZnMlQ5dHlFUDBIVTUxTVRXc1l4MFVtTmRGQjZ0SHFOeThvVUU4RURvOGVfS2dVSmtvNVVTMDJ3cUU0OXpBWWN2aHkyS2tWMUNQLUh0NWVWVGFPUDlkVWFwOUYzbmdmVmdSS3Q4YXp2RzFZemk4UQ?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "The US and Iran have a deal on paper. At sea, the Strait of Hormuz is ‘chaotic’",
+          "url": "https://www.egyptindependent.com/the-us-and-iran-have-a-deal-on-paper-at-sea-the-strait-of-hormuz-is-chaotic/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "More than 100 vessels evacuated from Strait of Hormuz as Gulf of Oman attack halts wider rescue mission",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ1RqRmx6VjVZQ1owYWtxdXFZbVJPUE9pZUFvcDVmQnpOZmIyMXplb1dTamlWUUwxcVE2YjFtSVE5S21BYVpzYkJUSGdrcHlENlMwQ1dtdkJBbzRsek16NmZNTHloenlzMHhJaW9ZLTFMZmFMeGlWTEdXZnVsdldaUlRsYUw2RTNEZUZpUTdpOVlDU3ZjcFBWaEpsdFNFNlZyYkNUNHRvUDBFbUwweTR6WWxJTl9oUGRsN3ZFUDRIbFo4dTRJc1A2S1J1WXJTa25TMlBLdldtdGU3elRQYXVrUVVrUFlyN3RPSEJaSG1B?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iran seeks \"insurance mechanism\" to reduce risks for ships transiting through Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnc2eFo5Z0FkejY5ZzlvWVBlaTBqY0pPTktOWEhGRXV2MlU4T1lvUTBRNUQ4cEpYUlRDZHJyekQyUDNuOU81OGktVGpzc0QxZlF2QWhxVmxFMmZUb2pzaThHUDFFbFlhNVhVa3F3WFZBN0F2ZXBoQWxaNDQ4Tkg0dkF2cGRBbUNrbU80TmQ2MEdtRC1JaDhBcHNFYXZraVhFX3N3Z2hpRHlGc21CVzBnNWZmRGdXMkNYbkxKdEE1d2NoVkJjem1TTjlB?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        },
+        {
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "UKMTO reports new ship attack in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "strikes",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US launches second night of strikes on Iran after ship hit by drone",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel strikes South for first time since Saturday, abducts 8 farmers in Ain Arab",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamx0ODdPM2JoMGJxbFdIRW1UbnZLN21FWVdpSG5KY1QtU3RIZllqWS0xcVVWcWRvcWFuYnpiODNoOGN1bkl2NmEzTG5EemtxS0xUZk9sYWRTUXVUbTdLci1SdUNMbHdMNjJzYVFjNmhiUjFNMHB6RGNhNEJOM0pROEVMUlRNWWJLSFZZeWpRSUJrOUxld3pPU0JyZXpFMWhXRGpCWUIwMFpDRWpOM2l0TkJQWmcyR3ZJLUhscHhCa3dvQQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "US strikes Iran, as tit-for-tat attacks dramatically reignite tensions",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-900656",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "Israel Strikes Southern Lebanon Day After U.S.-brokered Deal, Report Says",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVXlRbEh1Q2ZZSl92NjZfSVdBejB2YWY0MEhFVHA4amFnTWxlQ1o0RlZtQ2FpWDZmXzhMdWJVaFk1NzhzcE1PdVAyaDZGUXhnbkp6V1p4WlFvc0hIa3lNeFk1eEVPQWp4RmlSWXpzUDRBZWxrb1pyWHJCcE9uTFFlc2IzR0JIY1loOHpFcGNQOWVNazhmZkZMQndvT3lUalZ6RWU1UXJlMzJUY1dxWmNPZXlSWGl1LWpqVGJUZTRXWmRGYlRxM3JlUmFVcUpKSkktc3MtdjlHNGNzMXBFTjZycDBDaVI4OEtZdkhRRW1nWDJWeXJIVmQ1cm9vOGdpcWZuT1lQNE10WGNRUHVXZTItXw?oc=5",
+          "source": "Haaretz",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "drone",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "US launches second night of strikes on Iran after ship hit by drone",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Bahrain confirms alarm as Iran claims attacks on Gulf bases",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-confirms-alarm-iran-claims-attacks-gulf-bases",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Centcom: 10 Iranian military targets in and near Hormuz struck",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-10-iranian-military-targets-and-near-hormuz-struck",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "IRGC: Launched missile, drone attacks on US forces in Kuwait and Bahrain",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-launched-missile-drone-attack-us-forces-kuwait-and-bahrain",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "الولايات المتحدة الأميركية: الرئيس دونالد ترامب: الطائرات الأميركية ضربت مواقع تخزين الصواريخ والطائرات المسيرة الإيرانية ومواقع الرادار الساحلية",
+          "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQLV94VVZWb084YVllVVNDZk1BQkZkSE51a3NuS0Y5d3VzeGh0X2ppcGJ3RTJqOEFsanFoZUstMEh4ZGZQYUpsZDdSZUE2X3hUSk9qU2otOHdSVmhwUGlXREpLcFhuTmFZNkRTcHBHMk1PcTVuWktLUmJUUDVmd0h2T3FvZ290MDlUU2l1bzA0eTlVelI3aWlZa1ZaUEVVVWlhYkFwNTJCQng2TE5DOFlvX2phc3Y3TlY1NURWZ0FZMXBhZXdWWFIwdUxyYmp5d0hGS1ZmUWwycVVDaEhuVWZNUlJtaml1YXFveUxZU3AwOUt2eVpkQ1ZEZGtyellYeTlCUGZhT1VZYkdsSVdMOVkyVjFQbUFIeVRrQzVMY1llcTNhMTlnMW1iUkxKTG9qQ01IRi1VcDFVdzBNd0w5Y3JDcGNSaXNyM0RzaEhGT0xtUFdEc2FOZ1ZnM2hJbnZTcVpDODZSS2JfWjBHSExNS3BqbC01eUxieXNGVnJmZ2FDZkFfY09KMVRxd1VFSzZxR1pkU2FaZi0zeTdzelVBZ3hXT1o4cjgyYTB4eHhRNnlEV25CMWZDSnlxZWdMdXVpM0xBcnZYcWNkWG80aUFsNTlzQWxzeEFwZ042Y2FVcHpMcWR5Y1dZazlncHd5NmlYVlJPckxRWkhMaWFPYVlOUDRhNg?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON3BObXhNa3pXeVI0STRxWGNLTER6RTNJMGVIS21XSEwtY2w4emZYNElXdUZJRjhEaHA2dVc3XzNfeV9uMDBHMUE3Q3B6cGRMYWpJVWFqMmx2aXVhSzJtR1Rjei1scmJKNGRaZl90czRxbWpwRkpBeUFSbFpvSU1VaDJ1R1NVaGYzVVNSZkcxMFdXLWhHVXE5QkxfM0psSWRBUUdwRUd6c0RNMnRaTXROUWFUUzFBQTN6YURrd1pFSS1WakNSSWJmMl9pSnlTOGNxRGFtRzRjblFnYkRMRGxqTEt4SzQzeThiZl9pY29EdGRUR1NWLVRxbm10V19LeW50X3NxU0NYTVc5MjlzWDV2Y1dYckxvRmszblE?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        }
+      ]
+    },
+    {
+      "term": "agreement",
+      "count": 7,
+      "headlines": [
         {
           "title": "تصعيد في مضيق هرمز واتفاق واشنطن يوسع الجدل في لبنان",
           "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOQWxKeFF5bnZJamRHLXd1M2RnNlFMV3E5MnpaVUUzOVhOTGt4TjRrWk5NOE1ZdXc5b1dPQXE0T2F6MmlpdnpPbGgtejJUNnk3RTB1Tk1JdXhVYU5RREFMVV9iY2dqTFFQT0VJN0JnVGtVVHd4LTlBc0hFNElxZGdzRk9EQXRNc0F6Y25KaS00SVBqdFRwS0FPTXpZd19qMnRXYkhfandreTd3ZjFMMzloNk5KVXVyT2dWQWdSdnhrb1FLOTlabk1fMHgtalZuTENGcmRVVTZQaTBJb3dhNmEzUEl1eFhkamZDelpud01peWRkVzFsV3pCTnMya29oYXhWVVFUcTF4WExjaVVseE1XVExkNUdxZWZhTFhSVUVXRlJTQXlzeVVyMUFxcVF4aXQ4WExrOEFsYU5yQk0xSkF3enYtdmQ2czlZalROUnVMSEs5bUZ2RVBGNGJPM1JEdzhPYTFneHlPMk9qa2Vib083Y1doN2F6b0dPWjJha3RBOVludzRaVnk3WTZUazZ0emx3WXJHeDR2NHB0TlhrcXZnMlQ5dHlFUDBIVTUxTVRXc1l4MFVtTmRGQjZ0SHFOeThvVUU4RURvOGVfS2dVSmtvNVVTMDJ3cUU0OXpBWWN2aHkyS2tWMUNQLUh0NWVWVGFPUDlkVWFwOUYzbmdmVmdSS3Q4YXp2RzFZemk4UQ?oc=5",
@@ -309,102 +447,6 @@
       ]
     },
     {
-      "term": "strikes",
-      "count": 7,
-      "headlines": [
-        {
-          "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US launches second night of strikes on Iran after ship hit by drone",
-          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel strikes South for first time since Saturday, abducts 8 farmers in Ain Arab",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamx0ODdPM2JoMGJxbFdIRW1UbnZLN21FWVdpSG5KY1QtU3RIZllqWS0xcVVWcWRvcWFuYnpiODNoOGN1bkl2NmEzTG5EemtxS0xUZk9sYWRTUXVUbTdLci1SdUNMbHdMNjJzYVFjNmhiUjFNMHB6RGNhNEJOM0pROEVMUlRNWWJLSFZZeWpRSUJrOUxld3pPU0JyZXpFMWhXRGpCWUIwMFpDRWpOM2l0TkJQWmcyR3ZJLUhscHhCa3dvQQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "US strikes Iran, as tit-for-tat attacks dramatically reignite tensions",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-900656",
-          "source": "Jerusalem Post",
-          "region": "Israel"
-        },
-        {
-          "title": "US launches fresh strikes on Iran: Tehran had ‘chance to honor the ceasefire but elected not to’",
-          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Israel Strikes Southern Lebanon Day After U.S.-brokered Deal, Report Says",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVXlRbEh1Q2ZZSl92NjZfSVdBejB2YWY0MEhFVHA4amFnTWxlQ1o0RlZtQ2FpWDZmXzhMdWJVaFk1NzhzcE1PdVAyaDZGUXhnbkp6V1p4WlFvc0hIa3lNeFk1eEVPQWp4RmlSWXpzUDRBZWxrb1pyWHJCcE9uTFFlc2IzR0JIY1loOHpFcGNQOWVNazhmZkZMQndvT3lUalZ6RWU1UXJlMzJUY1dxWmNPZXlSWGl1LWpqVGJUZTRXWmRGYlRxM3JlUmFVcUpKSkktc3MtdjlHNGNzMXBFTjZycDBDaVI4OEtZdkhRRW1nWDJWeXJIVmQ1cm9vOGdpcWZuT1lQNE10WGNRUHVXZTItXw?oc=5",
-          "source": "Haaretz",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Strait of Hormuz",
-      "count": 7,
-      "headlines": [
-        {
-          "title": "US launches second night of strikes on Iran after ship hit by drone",
-          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Centcom: 10 Iranian military targets in and near Hormuz struck",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-10-iranian-military-targets-and-near-hormuz-struck",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "تصعيد في مضيق هرمز واتفاق واشنطن يوسع الجدل في لبنان",
-          "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOQWxKeFF5bnZJamRHLXd1M2RnNlFMV3E5MnpaVUUzOVhOTGt4TjRrWk5NOE1ZdXc5b1dPQXE0T2F6MmlpdnpPbGgtejJUNnk3RTB1Tk1JdXhVYU5RREFMVV9iY2dqTFFQT0VJN0JnVGtVVHd4LTlBc0hFNElxZGdzRk9EQXRNc0F6Y25KaS00SVBqdFRwS0FPTXpZd19qMnRXYkhfandreTd3ZjFMMzloNk5KVXVyT2dWQWdSdnhrb1FLOTlabk1fMHgtalZuTENGcmRVVTZQaTBJb3dhNmEzUEl1eFhkamZDelpud01peWRkVzFsV3pCTnMya29oYXhWVVFUcTF4WExjaVVseE1XVExkNUdxZWZhTFhSVUVXRlJTQXlzeVVyMUFxcVF4aXQ4WExrOEFsYU5yQk0xSkF3enYtdmQ2czlZalROUnVMSEs5bUZ2RVBGNGJPM1JEdzhPYTFneHlPMk9qa2Vib083Y1doN2F6b0dPWjJha3RBOVludzRaVnk3WTZUazZ0emx3WXJHeDR2NHB0TlhrcXZnMlQ5dHlFUDBIVTUxTVRXc1l4MFVtTmRGQjZ0SHFOeThvVUU4RURvOGVfS2dVSmtvNVVTMDJ3cUU0OXpBWWN2aHkyS2tWMUNQLUh0NWVWVGFPUDlkVWFwOUYzbmdmVmdSS3Q4YXp2RzFZemk4UQ?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "The US and Iran have a deal on paper. At sea, the Strait of Hormuz is ‘chaotic’",
-          "url": "https://www.egyptindependent.com/the-us-and-iran-have-a-deal-on-paper-at-sea-the-strait-of-hormuz-is-chaotic/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "More than 100 vessels evacuated from Strait of Hormuz as Gulf of Oman attack halts wider rescue mission",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ1RqRmx6VjVZQ1owYWtxdXFZbVJPUE9pZUFvcDVmQnpOZmIyMXplb1dTamlWUUwxcVE2YjFtSVE5S21BYVpzYkJUSGdrcHlENlMwQ1dtdkJBbzRsek16NmZNTHloenlzMHhJaW9ZLTFMZmFMeGlWTEdXZnVsdldaUlRsYUw2RTNEZUZpUTdpOVlDU3ZjcFBWaEpsdFNFNlZyYkNUNHRvUDBFbUwweTR6WWxJTl9oUGRsN3ZFUDRIbFo4dTRJc1A2S1J1WXJTa25TMlBLdldtdGU3elRQYXVrUVVrUFlyN3RPSEJaSG1B?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Iran seeks \"insurance mechanism\" to reduce risks for ships transiting through Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnc2eFo5Z0FkejY5ZzlvWVBlaTBqY0pPTktOWEhGRXV2MlU4T1lvUTBRNUQ4cEpYUlRDZHJyekQyUDNuOU81OGktVGpzc0QxZlF2QWhxVmxFMmZUb2pzaThHUDFFbFlhNVhVa3F3WFZBN0F2ZXBoQWxaNDQ4Tkg0dkF2cGRBbUNrbU80TmQ2MEdtRC1JaDhBcHNFYXZraVhFX3N3Z2hpRHlGc21CVzBnNWZmRGdXMkNYbkxKdEE1d2NoVkJjem1TTjlB?oc=5",
-          "source": "Times of Oman",
-          "region": "Gulf"
-        },
-        {
-          "title": "UKMTO reports new ship attack in Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
       "term": "Iranian",
       "count": 6,
       "headlines": [
@@ -433,32 +475,74 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "من ميدان الثورة إلى طاولة التفاوض... رسائل الصمود في المشهد الإيراني",
-          "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxQWWcwQnpIR0VQQXREX0ZmM1hKcmV4TG0zNGZLUUFMd1FKU0lCX1dYTWdZTFRjQ21YZ1VEZUViYXg1WFdtay12Z3k4ZDAzekRNQnFlUjR1ZXVINTlxb09HbkdHQl80U0ZXM0tpWVdXc0pRRU1valJHVGtGSFhnMk1lN2VXbmphT0pZamZPWnpoZVZhandJaXlTSjUxUzRzdFZKd29MU042Rk1PWXFIeGxpLWMzRU9aTHgyT3FXNk5nVFc0NjZESEViaWdiUzc5ZTVQcGJEYWQ1cU5KcFB6Ni1ISXRla3ZBOHVCWnpQQ1kycC1JcFBmUXZvMXhMWnoydzRKUUluU0tkd0ZyYnl1enRfYXZ5LW9LaThtaExyUTNPTjdMckhUd3FsMnRZS2NKY0NLTjJfcFNXMF96d2xsekh0Y285czVETW0teVJSUVNIRC1mUmgyN19iMU43MGJvQjhKWjVPMEo0Z0lhV0drd3RENldIMzhjdVR5ZS1CNjBCWXM0ZDlDdEw4U3lvTzR2TTFFZHFGQnY4enJEaUpkNzM1SkgyU1lFS0pKY010eFdTaTh3RnZGbkdTZFZ1aUpxNkNaaXpfZDVBaWVvaGZLeDJNZFRXRHVEQzB2aEJjN2w5SlliM1llTE5kTlJEb01DUEFoXzhCeW9JQ0Y5U3VpT3RwUUNEaXF1c05walFhdl84YWhXQjlUSVFTQVNEZEwzVXVhbUl6bU05MGE5WUk0Slo4Yg?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
           "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
           "source": "The National",
           "region": "Gulf"
+        },
+        {
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
     {
-      "term": "drone",
-      "count": 5,
+      "term": "attack",
+      "count": 6,
       "headlines": [
         {
-          "title": "US launches second night of strikes on Iran after ship hit by drone",
-          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Bahrain confirms alarm as Iran claims attacks on Gulf bases",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-confirms-alarm-iran-claims-attacks-gulf-bases",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
           "title": "Centcom: 10 Iranian military targets in and near Hormuz struck",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-10-iranian-military-targets-and-near-hormuz-struck",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli colonists attack Bedouin community near Khan al-Ahmar - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iX182UEVWOFpkem1seDJtZW15dUxfLS0xWEJfS1pUaGtTM0k1eVEtaWk2eEhleXJhQzNrQUFvZjVIMWZmbFZSSEUyZmt2S3VNSE1oWGdsTQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "More than 100 vessels evacuated from Strait of Hormuz as Gulf of Oman attack halts wider rescue mission",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ1RqRmx6VjVZQ1owYWtxdXFZbVJPUE9pZUFvcDVmQnpOZmIyMXplb1dTamlWUUwxcVE2YjFtSVE5S21BYVpzYkJUSGdrcHlENlMwQ1dtdkJBbzRsek16NmZNTHloenlzMHhJaW9ZLTFMZmFMeGlWTEdXZnVsdldaUlRsYUw2RTNEZUZpUTdpOVlDU3ZjcFBWaEpsdFNFNlZyYkNUNHRvUDBFbUwweTR6WWxJTl9oUGRsN3ZFUDRIbFo4dTRJc1A2S1J1WXJTa25TMlBLdldtdGU3elRQYXVrUVVrUFlyN3RPSEJaSG1B?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
+        },
+        {
+          "title": "UKMTO reports new ship attack in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Bahrain",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Bahrain confirms alarm as Iran claims attacks on Gulf bases",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-confirms-alarm-iran-claims-attacks-gulf-bases",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -469,16 +553,16 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "الولايات المتحدة الأميركية: الرئيس دونالد ترامب: الطائرات الأميركية ضربت مواقع تخزين الصواريخ والطائرات المسيرة الإيرانية ومواقع الرادار الساحلية",
-          "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQLV94VVZWb084YVllVVNDZk1BQkZkSE51a3NuS0Y5d3VzeGh0X2ppcGJ3RTJqOEFsanFoZUstMEh4ZGZQYUpsZDdSZUE2X3hUSk9qU2otOHdSVmhwUGlXREpLcFhuTmFZNkRTcHBHMk1PcTVuWktLUmJUUDVmd0h2T3FvZ290MDlUU2l1bzA0eTlVelI3aWlZa1ZaUEVVVWlhYkFwNTJCQng2TE5DOFlvX2phc3Y3TlY1NURWZ0FZMXBhZXdWWFIwdUxyYmp5d0hGS1ZmUWwycVVDaEhuVWZNUlJtaml1YXFveUxZU3AwOUt2eVpkQ1ZEZGtyellYeTlCUGZhT1VZYkdsSVdMOVkyVjFQbUFIeVRrQzVMY1llcTNhMTlnMW1iUkxKTG9qQ01IRi1VcDFVdzBNd0w5Y3JDcGNSaXNyM0RzaEhGT0xtUFdEc2FOZ1ZnM2hJbnZTcVpDODZSS2JfWjBHSExNS3BqbC01eUxieXNGVnJmZ2FDZkFfY09KMVRxd1VFSzZxR1pkU2FaZi0zeTdzelVBZ3hXT1o4cjgyYTB4eHhRNnlEV25CMWZDSnlxZWdMdXVpM0xBcnZYcWNkWG80aUFsNTlzQWxzeEFwZ042Y2FVcHpMcWR5Y1dZazlncHd5NmlYVlJPckxRWkhMaWFPYVlOUDRhNg?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
+          "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
+          "source": "The National",
+          "region": "Gulf"
         },
         {
-          "title": "شهيد إثر إلقاء طائرة مسيرة \"اسرائيلية\" قنبلة في بيت لاهيا",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxON3BObXhNa3pXeVI0STRxWGNLTER6RTNJMGVIS21XSEwtY2w4emZYNElXdUZJRjhEaHA2dVc3XzNfeV9uMDBHMUE3Q3B6cGRMYWpJVWFqMmx2aXVhSzJtR1Rjei1scmJKNGRaZl90czRxbWpwRkpBeUFSbFpvSU1VaDJ1R1NVaGYzVVNSZkcxMFdXLWhHVXE5QkxfM0psSWRBUUdwRUd6c0RNMnRaTXROUWFUUzFBQTN6YURrd1pFSS1WakNSSWJmMl9pSnlTOGNxRGFtRzRjblFnYkRMRGxqTEt4SzQzeThiZl9pY29EdGRUR1NWLVRxbm10V19LeW50X3NxU0NYTVc5MjlzWDV2Y1dYckxvRmszblE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -511,7 +595,7 @@
           "region": "Israel"
         },
         {
-          "title": "US launches fresh strikes on Iran: Tehran had ‘chance to honor the ceasefire but elected not to’",
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
           "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
           "source": "Times of Israel",
           "region": "Israel"
@@ -579,32 +663,32 @@
       ]
     },
     {
-      "term": "attack",
+      "term": "drones",
       "count": 4,
       "headlines": [
         {
-          "title": "Centcom: 10 Iranian military targets in and near Hormuz struck",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-10-iranian-military-targets-and-near-hormuz-struck",
+          "title": "IRGC: Launched missile, drone attacks on US forces in Kuwait and Bahrain",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-launched-missile-drone-attack-us-forces-kuwait-and-bahrain",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli colonists attack Bedouin community near Khan al-Ahmar - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iX182UEVWOFpkem1seDJtZW15dUxfLS0xWEJfS1pUaGtTM0k1eVEtaWk2eEhleXJhQzNrQUFvZjVIMWZmbFZSSEUyZmt2S3VNSE1oWGdsTQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "More than 100 vessels evacuated from Strait of Hormuz as Gulf of Oman attack halts wider rescue mission",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ1RqRmx6VjVZQ1owYWtxdXFZbVJPUE9pZUFvcDVmQnpOZmIyMXplb1dTamlWUUwxcVE2YjFtSVE5S21BYVpzYkJUSGdrcHlENlMwQ1dtdkJBbzRsek16NmZNTHloenlzMHhJaW9ZLTFMZmFMeGlWTEdXZnVsdldaUlRsYUw2RTNEZUZpUTdpOVlDU3ZjcFBWaEpsdFNFNlZyYkNUNHRvUDBFbUwweTR6WWxJTl9oUGRsN3ZFUDRIbFo4dTRJc1A2S1J1WXJTa25TMlBLdldtdGU3elRQYXVrUVVrUFlyN3RPSEJaSG1B?oc=5",
+          "title": "Israeli drones strike south Lebanon hours after Washington deal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
           "source": "The National",
           "region": "Gulf"
         },
         {
-          "title": "UKMTO reports new ship attack in Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEJZV1NrOG9saWdXRmU4VGxXVV9TQnFpcWhFQS1nNVdBVVZoSzZ0RWNIdTVzangyMHV3QWdoWVpwSEkzZGQyWnZBN2pucWhIUGxKTGs3UzZMOGVXTnhkaHN4NURtdC1RaW5nTEkzcHpMSWtldGx4dDhtWV9nRWpYbmh2dER1d1Y5VkNXNkxB?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
+          "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
+          "source": "The National",
+          "region": "Gulf"
+        },
+        {
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
@@ -669,7 +753,7 @@
       ]
     },
     {
-      "term": "Bahrain",
+      "term": "Kuwait",
       "count": 3,
       "headlines": [
         {
@@ -685,32 +769,32 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
-          "source": "The National",
-          "region": "Gulf"
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+          "source": "Times of Israel",
+          "region": "Israel"
         }
       ]
     },
     {
-      "term": "House",
+      "term": "CENTCOM",
       "count": 3,
       "headlines": [
         {
-          "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Top House Democrat welcomes primary winners who didn’t endorse him",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-house-democrat-welcomes-primary-winners-who-didnt-endorse-him",
+          "title": "Centcom: 10 Iranian military targets in and near Hormuz struck",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-10-iranian-military-targets-and-near-hormuz-struck",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "NY’s Hakeem Jeffries welcomes anti-Israel primary winners who declined to endorse him",
-          "url": "https://www.timesofisrael.com/nys-hakeem-jeffries-welcomes-anti-israel-primary-winners-who-declined-to-endorse-him/",
+          "title": "US will not ignore Iranian attacks on commercial shipping, CENTCOM tells Al Arabiya",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1VaakRMTEp3RlJ5LWFyakl0UHc4c2pLbWNOSm1YendWZ01iVkoxTnJrOXc0aTBtTWxTWWR6bnlCdWtJTzcxUWtsTTBCTmgzQmJwMEllMHRmbTRrbndzdVJXOVY3R1poSTd6NDEzX1lUZ0h6eFh1cm9qSTJXbnE5Nk1LUURtQi1IRnRnbjFNSlNmMkNPOGR5d1ljYm9OWWhyanc4Wi12cFhjZUQ1UXg0U3FHT3BPSWQ4ZDVlZXB0N0F4c1R4aUtHT0JhMk9OTnMySWpCOUVkOGQ0Q05i0gHcAUFVX3lxTE1LVVpqRExMSndGUnktYXJqSXRQdzhzakttY05KbVh6d1ZnTWJWSjFOcms5dzRpMG1NbFNZZHpueUJ1a0lPNzFRa2xNMEJOaDNCYnAwSWUwdGZtNGtud3N1Ulc5VjdHWmhJN3o0MTNfWVRnSHp4WHVyb2pJMlducTk2TUtRRG1CLUhGdGduMU1KU2YyQ084ZHl3WWNib05ZaHJqdzhaLXZwWGNlRDVReDRTcUdPcE9JZDhkNWVlcHQ3QXhzVHhpS0dPQmEyT05OczJJakI5RWQ4ZDRDTmI?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
           "source": "Times of Israel",
           "region": "Israel"
         }
@@ -737,30 +821,6 @@
           "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
           "source": "IRNA",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "drones",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "IRGC: Launched missile, drone attacks on US forces in Kuwait and Bahrain",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-launched-missile-drone-attack-us-forces-kuwait-and-bahrain",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli drones strike south Lebanon hours after Washington deal",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
-          "source": "The National",
-          "region": "Gulf"
-        },
-        {
-          "title": "Bahrain struck by Iranian drones as US and Iran accuse each other of violating peace deal",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWHpKUEthaFM4WVJVd1BxVWNUNGdQNEV5R3EzZ3QxRUNSbXFENWF6cFhLNUtPanVtNm5MV0F3aGt1eFg0QnpJN2gxR3JDZGgyTTNQS1pwVHl0aEUxcFNBUFE5X2JsSm16RUN4dDk2dkZjTUNlYjI2MWQtYTJNNUpLbGQ1UFB3V3dVZ1gycVZCeGZFV3BxZHM1MFU2R2JMTTItYi00MXhHUmc3UzI0OUJyNFVKb0FHU2ZaYkFqZ3RvME41ZFJDX0FSWmpiWExQV00tN18wNXZTaUpSZW8?oc=5",
-          "source": "The National",
-          "region": "Gulf"
         }
       ]
     },
@@ -809,54 +869,6 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc25JOVdOUmUtOXQ2a1Z6aS1OZ19tbzFnR1Vpc3pwaWFqdUl2Wk9pOFVMeFNXaDBkbXhfYUp6R2U0aWlldTdaYlFnOGw3SDBwZ0U4dE9OdDlXVEdMSm1TaUpmZVFld3RkZkZNbkk3SHZPSG1yTFJicU9OTldGNjVTX3Rvc2tkVG9JNVRGdzRNeWFianI0V2dKUng1MGkxRFdmU1NXbzNqNHkwYVk1bjF1cnlpVFVxMWR0?oc=5",
           "source": "The National",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Tehran",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "طهران بين تثبيت الاتفاق مع واشنطن بالدبلوماسية أو بالقوّة",
-          "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQMFBsSmQwcWRpbk9wRXpGZ0hlSnMtQVFqa0JSaDd4WlZ3RGJyTFREMjNuaVVUa2FhdlYwaHFGM3pCSmJiNW5ZSUVaVmMxVEdPVldaTlRpdHptNV96SnBxSXBCMVlGVHdvNXRfamw4MlMyWHpnS2p5ckp5aUdkUzlWWEdScE1NZGIzclFxQUlPczA1TU1ReDY4dHJjVFNyYzVFYlZYNl9zQUxoaW9HUUJFaVppOUJlYU4zeHRmUnFQelJmenlOUUxULW5Bek1ZWkpqS0tyRnlaNFdmcVVNdGZqeEY3ZEpXNVFHX291RHhTWllWWTFHQXdsa05rSTN0UDJVWmpjMEQ0b1hsbGJZd1RkVlNZbllDOFZILUZuWVlKYVdDc1Y5MDlScjlvcTY1cl92OXBMVnZnVW5nekxLd2R6TFVNanhpV1NYRlJFaUhCU1Zrdnk1TnlvRHIwLU9kTC1LVkt2UGxYSkEtZzYxYW1KU2JVTDhTWUtOc00zbWN3bUQxS2MwMHZtLUgtQVo4TUFOY09yNGp6RFo2cmhUT1h1bV9YcmtjSEVfZ2l3eHVDNE9tUC1lRDJXNzRDYUs5eTBFSkxrbzdnZ0tBUkFjbHlrZTBsUFJHbUZ0X21UNXFBQnFCWXotbHh6amZMV1VXY1U5TGpmM0NsTUpPWUoxSUlTRWU3c0h4UzZIRUNfaGxwZVRmT2ZJUWlYZEtyX0dpeVRoVW5pS0dVYmNDNEo4X2FLemY2bw?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US launches fresh strikes on Iran: Tehran had ‘chance to honor the ceasefire but elected not to’",
-          "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Tehran is preparing to host a worthy farewell ceremony for martyred Leader",
-          "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Revolution",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "من ميدان الثورة إلى طاولة التفاوض... رسائل الصمود في المشهد الإيراني",
-          "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxQWWcwQnpIR0VQQXREX0ZmM1hKcmV4TG0zNGZLUUFMd1FKU0lCX1dYTWdZTFRjQ21YZ1VEZUViYXg1WFdtay12Z3k4ZDAzekRNQnFlUjR1ZXVINTlxb09HbkdHQl80U0ZXM0tpWVdXc0pRRU1valJHVGtGSFhnMk1lN2VXbmphT0pZamZPWnpoZVZhandJaXlTSjUxUzRzdFZKd29MU042Rk1PWXFIeGxpLWMzRU9aTHgyT3FXNk5nVFc0NjZESEViaWdiUzc5ZTVQcGJEYWQ1cU5KcFB6Ni1ISXRla3ZBOHVCWnpQQ1kycC1JcFBmUXZvMXhMWnoydzRKUUluU0tkd0ZyYnl1enRfYXZ5LW9LaThtaExyUTNPTjdMckhUd3FsMnRZS2NKY0NLTjJfcFNXMF96d2xsekh0Y285czVETW0teVJSUVNIRC1mUmgyN19iMU43MGJvQjhKWjVPMEo0Z0lhV0drd3RENldIMzhjdVR5ZS1CNjBCWXM0ZDlDdEw4U3lvTzR2TTFFZHFGQnY4enJEaUpkNzM1SkgyU1lFS0pKY010eFdTaTh3RnZGbkdTZFZ1aUpxNkNaaXpfZDVBaWVvaGZLeDJNZFRXRHVEQzB2aEJjN2w5SlliM1llTE5kTlJEb01DUEFoXzhCeW9JQ0Y5U3VpT3RwUUNEaXF1c05walFhdl84YWhXQjlUSVFTQVNEZEwzVXVhbUl6bU05MGE5WUk0Slo4Yg?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Politically opposed extremist networks seek US government overthrow. Both are anti-Israel",
-          "url": "https://www.timesofisrael.com/politically-opposed-extremist-networks-seek-us-government-overthrow-both-are-anti-israel/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        },
-        {
-          "title": "Tehran is preparing to host a worthy farewell ceremony for martyred Leader",
-          "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
-          "source": "IRNA",
-          "region": "Iran"
         }
       ]
     },
@@ -975,37 +987,37 @@
       ]
     },
     {
-      "term": "Kuwait",
+      "term": "Iraqi",
       "count": 2,
       "headlines": [
         {
-          "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Report: Iraqi army enters Baghdad's Green Zone, tanks deployed",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-iraqi-army-enters-baghdads-green-zone-tanks-deployed",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iraq arrests protesters as unrest spreads over power cuts",
+          "url": "https://www.newarab.com/news/iraq-arrests-protesters-unrest-spreads-over-power-cuts",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Base",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Bahrain confirms alarm as Iran claims attacks on Gulf bases",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-confirms-alarm-iran-claims-attacks-gulf-bases",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
           "title": "IRGC: Launched missile, drone attacks on US forces in Kuwait and Bahrain",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-launched-missile-drone-attack-us-forces-kuwait-and-bahrain",
           "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Centcom",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Centcom: 10 Iranian military targets in and near Hormuz struck",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-10-iranian-military-targets-and-near-hormuz-struck",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US will not ignore Iranian attacks on commercial shipping, CENTCOM tells Al Arabiya",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1VaakRMTEp3RlJ5LWFyakl0UHc4c2pLbWNOSm1YendWZ01iVkoxTnJrOXc0aTBtTWxTWWR6bnlCdWtJTzcxUWtsTTBCTmgzQmJwMEllMHRmbTRrbndzdVJXOVY3R1poSTd6NDEzX1lUZ0h6eFh1cm9qSTJXbnE5Nk1LUURtQi1IRnRnbjFNSlNmMkNPOGR5d1ljYm9OWWhyanc4Wi12cFhjZUQ1UXg0U3FHT3BPSWQ4ZDVlZXB0N0F4c1R4aUtHT0JhMk9OTnMySWpCOUVkOGQ0Q05i0gHcAUFVX3lxTE1LVVpqRExMSndGUnktYXJqSXRQdzhzakttY05KbVh6d1ZnTWJWSjFOcms5dzRpMG1NbFNZZHpueUJ1a0lPNzFRa2xNMEJOaDNCYnAwSWUwdGZtNGtud3N1Ulc5VjdHWmhJN3o0MTNfWVRnSHp4WHVyb2pJMlducTk2TUtRRG1CLUhGdGduMU1KU2YyQ084ZHl3WWNib05ZaHJqdzhaLXZwWGNlRDVReDRTcUdPcE9JZDhkNWVlcHQ3QXhzVHhpS0dPQmEyT05OczJJakI5RWQ4ZDRDTmI?oc=5",
-          "source": "Al Arabiya",
           "region": "Pan-Arab"
         }
       ]
@@ -1101,60 +1113,6 @@
       ]
     },
     {
-      "term": "Hakeem",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Top House Democrat welcomes primary winners who didn’t endorse him",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-house-democrat-welcomes-primary-winners-who-didnt-endorse-him",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "NY’s Hakeem Jeffries welcomes anti-Israel primary winners who declined to endorse him",
-          "url": "https://www.timesofisrael.com/nys-hakeem-jeffries-welcomes-anti-israel-primary-winners-who-declined-to-endorse-him/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Jeffries",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Top House Democrat welcomes primary winners who didn’t endorse him",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-house-democrat-welcomes-primary-winners-who-didnt-endorse-him",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "NY’s Hakeem Jeffries welcomes anti-Israel primary winners who declined to endorse him",
-          "url": "https://www.timesofisrael.com/nys-hakeem-jeffries-welcomes-anti-israel-primary-winners-who-declined-to-endorse-him/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
-      "term": "Democratic",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Top House Democrat welcomes primary winners who didn’t endorse him",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-house-democrat-welcomes-primary-winners-who-didnt-endorse-him",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Progressive Jewish US lawmaker chased from transgender event, accused of ‘genocide’",
-          "url": "https://www.timesofisrael.com/progressive-jewish-us-lawmaker-chased-from-transgender-event-accused-of-genocide/",
-          "source": "Times of Israel",
-          "region": "Israel"
-        }
-      ]
-    },
-    {
       "term": "drone strike",
       "count": 2,
       "headlines": [
@@ -1241,6 +1199,24 @@
           "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPXzJVT0lNSWh3UTdRX2xMQ0dCbG5FdEdUUmZ3ZHdPUkRsWFE0NVV6NHp2dE55bFNSMEpVc3BTa2dXYXpIOW5RRHRXMDZ2RGdPNXFwMURHNlNSOXFId3QzeFpWWVcyZkpyY2JzckNTenc5VjFZY0R4RDZGdlNLRXRKSFEtYjVvbE1lN0hpUVlCVmx3SVYyc0ZOdTYxZ1BJLTd4WUE2Ykk3YllDQWppbXBhdFhCb3FEQ1k2Yzg5RzZkSUdRR05tNzJ4bVpNNGJtdy1kU2lBY05lTVl2eWdSamg3ZWIxSl9rVEM1UEFOcHFtZUpuRjh4ZW13aWNDRUxnQjVKNGhTMXFEQVZicmhoaVoxM3k3Y21sSHFHeE5pdGc4amV0a016S21mM2RrQmlNSGd1Ym1mSTFrREF4UnYwSklNb2pqbVAtemtvN3l6bE54cU1MWnl5YWJmS2RYbmstUHV5cUZ0blVUcGdWcHJUZjRKdFVrWDh6b3Qxc04xMFFIRG9xZnBMcVpaT0kxVm5FbWFJYmhiYkpOS3E3ZHhmeHNta3NZNVFEMGFpNGxwZzluRjhFZVF4aUZHMkV0d08zZG9CNEJZczVpVllrZ3VDTGFpTE5IZkZNWWxKenFLdFZHaldGRE95TDdCY0tkYVNlWmkycFQ0SkdFTQ?oc=5",
           "source": "Al-Akhbar",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Tehran",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "طهران بين تثبيت الاتفاق مع واشنطن بالدبلوماسية أو بالقوّة",
+          "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQMFBsSmQwcWRpbk9wRXpGZ0hlSnMtQVFqa0JSaDd4WlZ3RGJyTFREMjNuaVVUa2FhdlYwaHFGM3pCSmJiNW5ZSUVaVmMxVEdPVldaTlRpdHptNV96SnBxSXBCMVlGVHdvNXRfamw4MlMyWHpnS2p5ckp5aUdkUzlWWEdScE1NZGIzclFxQUlPczA1TU1ReDY4dHJjVFNyYzVFYlZYNl9zQUxoaW9HUUJFaVppOUJlYU4zeHRmUnFQelJmenlOUUxULW5Bek1ZWkpqS0tyRnlaNFdmcVVNdGZqeEY3ZEpXNVFHX291RHhTWllWWTFHQXdsa05rSTN0UDJVWmpjMEQ0b1hsbGJZd1RkVlNZbllDOFZILUZuWVlKYVdDc1Y5MDlScjlvcTY1cl92OXBMVnZnVW5nekxLd2R6TFVNanhpV1NYRlJFaUhCU1Zrdnk1TnlvRHIwLU9kTC1LVkt2UGxYSkEtZzYxYW1KU2JVTDhTWUtOc00zbWN3bUQxS2MwMHZtLUgtQVo4TUFOY09yNGp6RFo2cmhUT1h1bV9YcmtjSEVfZ2l3eHVDNE9tUC1lRDJXNzRDYUs5eTBFSkxrbzdnZ0tBUkFjbHlrZTBsUFJHbUZ0X21UNXFBQnFCWXotbHh6amZMV1VXY1U5TGpmM0NsTUpPWUoxSUlTRWU3c0h4UzZIRUNfaGxwZVRmT2ZJUWlYZEtyX0dpeVRoVW5pS0dVYmNDNEo4X2FLemY2bw?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Tehran is preparing to host a worthy farewell ceremony for martyred Leader",
+          "url": "https://en.irna.ir/news/86194342/Tehran-is-preparing-to-host-a-worthy-farewell-ceremony-for-martyred",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -1349,6 +1325,60 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1hfeDd3VThoaVFmVXU5WnZzWHA3bmloOFl6Sk9ibDJJV0t3X1hyWkpLQ3EtSGtXeF9sSS01OFlJT2NKeU0zU0VfNkVUZFYxbmhVN1pfWXRUczk1VjRBR3VDVWNjSkJOTmtKWW1CWEZEZU9KOTNweVExYlpIaERuT0pIa1ZCMS13bEE1dEtWOVp4VjhOLTQ4RXRiUGpYdG5kWDJ4MUQ1Vm5BcHY1RjRuWDFONNIBuAFBVV95cUxOSEhrRzhHSXRwZVFoZjFfZmR0bjVtSDBnMlA4eVpoTE15a0h0YnZ1V0Z0MElsQW84NjNrekhrWTM3RUltVTRraGNnYTY2OF9aT1djSUg5alZHc2ZaUHVyTG93cVlEaDBxVHBmUk1aTnJqRExlWU1ldmZ1WHhZR1VXWFVjckhjM2xIc29KZEt0enoxMXFrYkRKeS1kb3J6MTVGLWlKS3dWS2hSN1ctWTVDSW5LSGpVbk5a?oc=5",
           "source": "Gulf Times",
           "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "France",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "France says 74 drowning deaths since 18 June",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BOEhXOGoyRTIybkR1cGRfR0RUX2l4UUdGWUc2RXJxNWZOUFl6R0h1MnlfQ2VxampTQlZsVWVGclhNSHdwVFhOMHk1Z1FuSTVlZGw0?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "HM's state visit to France draws widespread international media attention",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWtOOEZEUVlnczEtc3Q2YmRDdE9sZ3J3WlJYcEVTdHktTHc5WmZWT05wNUFGVWlCRnZWYmEzeGVpck5vNnkxUGp2NW13RGYxUUJ4dEtpVGg5ajlSeU1jbkV0VDk1VWVYcXBpb2NiZDJRRF8wNVU1anJtY1pJQ3RxRHprMDdKR3JxekRQeXVVQk1JUThBenBOVWtIOUlydC15cGdieGNMRnBxVmJDYkNWZQ?oc=5",
+          "source": "Times of Oman",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Pakistan",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Blast, gunfire reported in Pakistan’s Karachi, police cordon off area",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04aTVyaVY5N2xtakVpWGo4Xy1FaUVOczZYVndBS0ViY2MyVWJ6RkwzZlpETGZtZmJqcEFRelM0WDFqOUtuYUdBTGdvc1BGSm1mQ2hj?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Security forces kill 8 terrorists in SW Pakistan ops.",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm8xZGdNMTNzOVh4Y1F6WWpyRFBFQ1diSENsSzdDNXJ2R0hLbnFYc1NHN2s5QjlGd0tIRTVvTFNTYkVRRUs4Qk5IS3VFbVVTYkZuQTFWUk80UzVJNlZrQjQ1QkFhemp2MUxiLWxwZU9aNk1yTjdsZTByenZ1c1NjM2l1aG5Yc2ZPcWJOeDQ4WUp2dw?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Jews",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "The faces of many notable American Jews over the years: A treat for America's 250th",
+          "url": "https://www.jpost.com/history/article-900500",
+          "source": "Jerusalem Post",
+          "region": "Israel"
+        },
+        {
+          "title": "There is no distinction between Jews and Zionists - ask Jews from Arab countries - opinion",
+          "url": "https://www.jpost.com/opinion/article-900404",
+          "source": "Jerusalem Post",
+          "region": "Israel"
         }
       ]
     }
