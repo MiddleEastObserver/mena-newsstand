@@ -1,15 +1,21 @@
 {
-  "updated": "2026-06-28T16:06:18.256666+00:00",
+  "updated": "2026-06-28T16:35:03.083983+00:00",
   "total_headlines": 105,
   "terms": [
     {
       "term": "Israeli",
-      "count": 11,
+      "count": 12,
       "headlines": [
         {
           "title": "Israel strikes Lebanon, testing days-old peace deal",
           "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel kills three Palestinians in Gaza attacks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-attacks",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -25,16 +31,16 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli soldiers shoot at journalists in Syrian village",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-journalists-syrian-village",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
           "title": "Thousands in Gaza suffer hearing damage from Israeli attacks",
           "url": "https://www.newarab.com/news/thousands-gaza-suffer-hearing-damage-israeli-attacks",
           "source": "The New Arab",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Brother and sister killed in Israeli attack on Gaza safe zone",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJxclN6UmhTUG9KazFRMktKZjA1aElzcU1OTWJFeWxnbWRvWXVOa1YxZDgxRFd1a2tkZlZaV09UQ0k5TGd3UG1XeXlMdkJMT3pfNHRqZVpSUDd2SUFMM0FpOFBXQ3BqSkstaWRSLWtfRWpobngyZXBwbHRiV3ZTam42LXZieUlwXzN3LWxKS0xvdnFYU2dkV3pYMkdmUQ?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
         },
         {
           "title": "No confirmed reports of Israeli occupation claim that it 'took control' of Ali al-Taher",
@@ -76,7 +82,7 @@
     },
     {
       "term": "Lebanon",
-      "count": 8,
+      "count": 10,
       "headlines": [
         {
           "title": "Israel strikes Lebanon, testing days-old peace deal",
@@ -97,9 +103,27 @@
           "region": "Pan-Arab"
         },
         {
+          "title": "Israel military says soldier killed in south Lebanon fighting",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbl82a1RDNWd5TlNzWWhtcUh5d1BoUkFzbTdEM2tmUld3Yy1IOWFmdE1tbkdBUy14dWZ5ci1NdU94dDZEVDd5QjVGem1ZXzhTeVlOazY5bDFQTGtZaldBSnNsS3A3XzVOOXFHQ2g0M21wcGVaZ0lqXzNLWFpGLU91bmUzVnBNellNN0EwWmx3eVEyNTk3T2s0VkdmTnpfbUdPVF8yWVFtZjVfcTJ1SHpNdVNWX281cWRpOUtMM3ZNYzbSAcABQVVfeXFMT25fNmtUQzVneU5Tc1lobXFIeXdQaFJBc203RDNrZlJXd2MtSDlhZnRNbW5HQVMteHVmeXItTXVPeHQ2RFQ3eUI1RnptWV84U3lZTms2OWwxUExrWWpXQUpzbEtwN181TjlxR0NoNDNtcHBlWmdJal8zS1haRi1PdW5lM1ZwTXpZTTdBMFpsd3lRMjU5N09rNFZHZk56X21HT1RfMllRbWY1X3EydUh6TXVTVl9vNXFkaTlLTDN2TWM2?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+          "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
           "title": "Velayati says Hezbollah is true protector of Lebanon’s sovereignty",
           "url": "https://en.irna.ir/news/86195255/Velayati-says-Hezbollah-is-true-protector-of-Lebanon-s-sovereignty",
           "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran says US must force Israel to halt Lebanon attacks, withdraw - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uLXlINjlMeTFUWGZQLVNlTzlJeWVRc09qUllFNmd3dWt2djIzQjgteU9yNHhXUzF2QnlwT3F2U1hoNk5laFUxZUxaZ1lfdWRtdVE?oc=5",
+          "source": "Iran International",
           "region": "Iran"
         },
         {
@@ -115,12 +139,6 @@
           "region": "Levant"
         },
         {
-          "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdWJ5XzV2TmpRdktDaFJDMEw5V0ZxY2xPSF9jcE1obVV5Q2swMUF1Q1k2ajkxQ2ZDcVhmcHpLWl9GWUVJYTMxRFBWcURFZHFDTUNTRjdURU5ESlVvNFE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
           "title": "Iran urges US to set timeline for ‘unconditional’ Israeli withdrawal from Lebanon",
           "url": "https://www.aa.com.tr/en/middle-east/iran-urges-us-to-set-timeline-for-unconditional-israeli-withdrawal-from-lebanon/3980543",
           "source": "Anadolu Agency",
@@ -130,12 +148,18 @@
     },
     {
       "term": "Israel",
-      "count": 7,
+      "count": 8,
       "headlines": [
         {
           "title": "Israel strikes Lebanon, testing days-old peace deal",
           "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel kills three Palestinians in Gaza attacks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-attacks",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -145,10 +169,16 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli soldiers shoot at journalists in Syrian village",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-journalists-syrian-village",
-          "source": "Middle East Eye",
+          "title": "Israel military says soldier killed in south Lebanon fighting",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbl82a1RDNWd5TlNzWWhtcUh5d1BoUkFzbTdEM2tmUld3Yy1IOWFmdE1tbkdBUy14dWZ5ci1NdU94dDZEVDd5QjVGem1ZXzhTeVlOazY5bDFQTGtZaldBSnNsS3A3XzVOOXFHQ2g0M21wcGVaZ0lqXzNLWFpGLU91bmUzVnBNellNN0EwWmx3eVEyNTk3T2s0VkdmTnpfbUdPVF8yWVFtZjVfcTJ1SHpNdVNWX281cWRpOUtMM3ZNYzbSAcABQVVfeXFMT25fNmtUQzVneU5Tc1lobXFIeXdQaFJBc203RDNrZlJXd2MtSDlhZnRNbW5HQVMteHVmeXItTXVPeHQ2RFQ3eUI1RnptWV84U3lZTms2OWwxUExrWWpXQUpzbEtwN181TjlxR0NoNDNtcHBlWmdJal8zS1haRi1PdW5lM1ZwTXpZTTdBMFpsd3lRMjU5N09rNFZHZk56X21HT1RfMllRbWY1X3EydUh6TXVTVl9vNXFkaTlLTDN2TWM2?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says US must force Israel to halt Lebanon attacks, withdraw - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uLXlINjlMeTFUWGZQLVNlTzlJeWVRc09qUllFNmd3dWt2djIzQjgteU9yNHhXUzF2QnlwT3F2U1hoNk5laFUxZUxaZ1lfdWRtdVE?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
         },
         {
           "title": "What challenges lie ahead for the US-Israel-Lebanon agreement?",
@@ -161,12 +191,6 @@
           "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
           "source": "Egypt Independent",
           "region": "Levant"
-        },
-        {
-          "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdWJ5XzV2TmpRdktDaFJDMEw5V0ZxY2xPSF9jcE1obVV5Q2swMUF1Q1k2ajkxQ2ZDcVhmcHpLWl9GWUVJYTMxRFBWcURFZHFDTUNTRjdURU5ESlVvNFE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
         },
         {
           "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
@@ -185,6 +209,12 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjB5RktPNWg0Z0pycFFILWRyem5rOTU5YXowblBiU0NSX1loUVVZMXBGSTJwNXRycFoyTFhwZkFyX203bnRfSktmWmNIZDIyR0kyT2w3bEdIUjhqcEVnVEhDcTF1LWpzb2FSektTU3hYcDJ3VlI5bkd5NnI1Z3lNbURwbGlwTmJkbGZSU3BMU1Axbkl6T2xNbl81YXlRNUJFaFBOVGI1VzhRTERiTnI4NHRR0gGyAUFVX3lxTFBKMHlGS081aDRnSnJwUUgtZHJ6bms5NTlhejBuUGJTQ1JfWWhRVVkxcEZJMnA1dHJwWjJMWHBmQXJfbTdudF9KS2ZaY0hkMjJHSTJPbDdsR0hSOGpwRWdUSENxMXUtanNvYVJ6S1NTeFhwMndWUjluR3k2cjVneU1tRHBsaXBOYmRsZlJTcExTUDFuSXpPbE1uXzVheVE1QkVoUE5UYjVXOFFMRGJOcjg0dFE?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+          "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
           "title": "Velayati says Hezbollah is true protector of Lebanon’s sovereignty",
@@ -207,12 +237,6 @@
         {
           "title": "Foreign Minister Araghchi meets Iraqi premier to discuss regional stability",
           "url": "https://en.irna.ir/news/86195219/Foreign-Minister-Araghchi-meets-Iraqi-premier-to-discuss-regional",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Memorial book for martyr Kharrazi unveiled in Tehran",
-          "url": "https://en.irna.ir/photo/86195196/Memorial-book-for-martyr-Kharrazi-unveiled-in-Tehran",
           "source": "IRNA",
           "region": "Iran"
         },
@@ -267,13 +291,13 @@
       ]
     },
     {
-      "term": "strikes",
-      "count": 5,
+      "term": "Gaza",
+      "count": 6,
       "headlines": [
         {
-          "title": "Israel strikes Lebanon, testing days-old peace deal",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Israel kills three Palestinians in Gaza attacks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-attacks",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -283,22 +307,64 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "US forces carry out additional strikes in Iran after tanker attack - CENTCOM - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSHUweFd1UDhPcHpfQ2FGVTduX3VGY0pqTDF6cUdhLUpCcTlKQlJoc3hoWWFkUE1EWjlxRTIzeThGdHhFVTNUUjNVMTYwekg5R0E?oc=5",
+          "title": "Thousands in Gaza suffer hearing damage from Israeli attacks",
+          "url": "https://www.newarab.com/news/thousands-gaza-suffer-hearing-damage-israeli-attacks",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Brother and sister killed in Israeli attack on Gaza safe zone",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJxclN6UmhTUG9KazFRMktKZjA1aElzcU1OTWJFeWxnbWRvWXVOa1YxZDgxRFd1a2tkZlZaV09UQ0k5TGd3UG1XeXlMdkJMT3pfNHRqZVpSUDd2SUFMM0FpOFBXQ3BqSkstaWRSLWtfRWpobngyZXBwbHRiV3ZTam42LXZieUlwXzN3LWxKS0xvdnFYU2dkV3pYMkdmUQ?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "ICRC facilitates transfer of 14 released Gaza detainees to Al-Aqsa Martyrs Hospital - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OMWdyeVVfTzJPamRCalB3UXZoZl9ISHNTS3lMVFBvS1N4aEhDd1d0VDlQWTJOcU5qY0tSeVBacGVFUWdyRHgxOXgzaXhhY1V2cUxFdXBWUQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
+          "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Iraq",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Iraq arrests senior officials in anti-corruption raids",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
+          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Enhancing ties with Iraq Iran’s top foreign policy priority",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVVZV014VFR5QzBoNjhaNVVXYzJJSHFPNmtzY0Rvb3JKVlVxbGdBeG56RHZTY1UwUnpoS19LLWRJRktaLVZJcWhlaWRoQ01DcGZlZ29NS3lUSVZGV1ZmamVtaWU2bklTMEhheW9xWWZKZXcxMk45M21yMWpDZ2NPenk3UW92NVlLZDFwbTVqX3BZcHhQal85Tlk0OA?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iraq arrests officials tied to Iran-aligned parties in Baghdad raids, sources say - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NkhfN0JzN1licVNLd3lvX1FISDNXY1RQMkViZ2NBczdDek5jdmYzemQ1eWhTUjlyeDQtdzNBLW42VjJIT09sMnVteUFGSUMwQVE?oc=5",
           "source": "Iran International",
           "region": "Iran"
         },
         {
-          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "US forces launch fresh strikes against multiple targets in Iran",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mYlZwYXJmaXB1LVpuRTV4cHB2TWtLQzlEaHkzX0VlUE9wNTV4eGJtWUU5SWRRd0JKTFJDT2E1V1Rtd0VnMTBYTmhyalZiMzdPRzdZUTVmbjY?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "Iraq arrests 47 officials in anti-corruption campaign",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XbWV3Zl9PTjJKUndTM3NqRDZYeXJ2MDlvcHpVYXRFUmNqSU9TZWJSaVN6bVJ4c2xXVmpYYUNxWktxN3A4d3NXWmpGeU1IUEg0cDViQlRWTm9TZTM1R0E?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -379,16 +445,16 @@
       "count": 5,
       "headlines": [
         {
-          "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
           "title": "Iran and Lebanon speakers discuss Israel’s war",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-lebanon-speakers-discuss-israels-war",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+          "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
           "title": "Iran manufactured more advanced weapons during US-Israel war",
@@ -411,7 +477,7 @@
       ]
     },
     {
-      "term": "Hezbollah",
+      "term": "strikes",
       "count": 4,
       "headlines": [
         {
@@ -421,111 +487,21 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Velayati says Hezbollah is true protector of Lebanon’s sovereignty",
-          "url": "https://en.irna.ir/news/86195255/Velayati-says-Hezbollah-is-true-protector-of-Lebanon-s-sovereignty",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
-          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdWJ5XzV2TmpRdktDaFJDMEw5V0ZxY2xPSF9jcE1obVV5Q2swMUF1Q1k2ajkxQ2ZDcVhmcHpLWl9GWUVJYTMxRFBWcURFZHFDTUNTRjdURU5ESlVvNFE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Iraq",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Iraq arrests senior officials in anti-corruption raids",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraq arrests 47 officials in anti-corruption crackdown",
-          "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Enhancing ties with Iraq Iran’s top foreign policy priority",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVVZV014VFR5QzBoNjhaNVVXYzJJSHFPNmtzY0Rvb3JKVlVxbGdBeG56RHZTY1UwUnpoS19LLWRJRktaLVZJcWhlaWRoQ01DcGZlZ29NS3lUSVZGV1ZmamVtaWU2bklTMEhheW9xWWZKZXcxMk45M21yMWpDZ2NPenk3UW92NVlLZDFwbTVqX3BZcHhQal85Tlk0OA?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraq arrests officials tied to Iran-aligned parties in Baghdad raids, sources say - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NkhfN0JzN1licVNLd3lvX1FISDNXY1RQMkViZ2NBczdDek5jdmYzemQ1eWhTUjlyeDQtdzNBLW42VjJIT09sMnVteUFGSUMwQVE?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "If USMCA is not renewed, analysts expect uncertainty for businesses",
-          "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdWJ5XzV2TmpRdktDaFJDMEw5V0ZxY2xPSF9jcE1obVV5Q2swMUF1Q1k2ajkxQ2ZDcVhmcHpLWl9GWUVJYTMxRFBWcURFZHFDTUNTRjdURU5ESlVvNFE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "US to continue targeting Iran if Hormuz shipping is threatened: Envoy to UN",
-          "url": "https://www.aa.com.tr/en/americas/us-to-continue-targeting-iran-if-hormuz-shipping-is-threatened-envoy-to-un/3980534",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 4,
-      "headlines": [
-        {
           "title": "Israeli attacks kill three in Gaza over past 24 hours",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Thousands in Gaza suffer hearing damage from Israeli attacks",
-          "url": "https://www.newarab.com/news/thousands-gaza-suffer-hearing-damage-israeli-attacks",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "ICRC facilitates transfer of 14 released Gaza detainees to Al-Aqsa Martyrs Hospital - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OMWdyeVVfTzJPamRCalB3UXZoZl9ISHNTS3lMVFBvS1N4aEhDd1d0VDlQWTJOcU5qY0tSeVBacGVFUWdyRHgxOXgzaXhhY1V2cUxFdXBWUQ?oc=5",
-          "source": "WAFA News",
+          "title": "Iran denounces 'flagrant violation' of agreement after US strikes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckVCMjhYT19STWJ1aU55Qm1FbzhyT094QmljelZ6Rm5yLUVpYS04aHB5R0VFSENpd3dROGJhRGVPcHAwVjYzRDQ0QTB3bDcxZUYwWnBUQVc2Rl9MSEtIaU94MDIxVDZQVURFR2tLWHBoTThtaURkeVBoUUxrOG83aDdfdEo1UkFtcUstRGgtSTNkRi1zOW4zLThIOThwdlJ3UlZCQXoyV25fd0lPUVpkbnRFRUVPZU0?oc=5",
+          "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
-          "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
-          "source": "Anadolu Agency",
+          "title": "US forces launch fresh strikes against multiple targets in Iran",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mYlZwYXJmaXB1LVpuRTV4cHB2TWtLQzlEaHkzX0VlUE9wNTV4eGJtWUU5SWRRd0JKTFJDT2E1V1Rtd0VnMTBYTmhyalZiMzdPRzdZUTVmbjY?oc=5",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
@@ -591,13 +567,37 @@
       ]
     },
     {
-      "term": "Health",
+      "term": "Hezbollah",
       "count": 3,
       "headlines": [
         {
-          "title": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
-          "url": "https://www.aljazeera.com/news/2026/6/28/qa-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak?traffic_source=rss",
+          "title": "Israel strikes Lebanon, testing days-old peace deal",
+          "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
           "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Velayati says Hezbollah is true protector of Lebanon’s sovereignty",
+          "url": "https://en.irna.ir/news/86195255/Velayati-says-Hezbollah-is-true-protector-of-Lebanon-s-sovereignty",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
+          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Palestinians",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Israel kills three Palestinians in Gaza attacks",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-attacks",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -607,15 +607,15 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "France records around 1,000 excess deaths in heatwave: Health agency",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmJ3NE5lVnBpM0R3S3dTcUpCUnc5V2hhTVRnMnJiU1prOG1XVndrZF9ITVBsMGMwbHNBbXVHYW1HcVpVOGlGZHJ3OW5wSk9CNUdaY0NNLWg0M2RKUzNKdGxLRTNWeXBIZ0lLZHFqQnhSV0J1cndTNUFUMkt2LW1pUFh2VEUzQzBJTVlMQ0tFdmlMR1BnT1hXUzhrYW9mNHhUYmFac2tXSi1fd2ZUTy1pcWszREdNUTZ1V25yb3AzNNIBvwFBVV95cUxQZmJ3NE5lVnBpM0R3S3dTcUpCUnc5V2hhTVRnMnJiU1prOG1XVndrZF9ITVBsMGMwbHNBbXVHYW1HcVpVOGlGZHJ3OW5wSk9CNUdaY0NNLWg0M2RKUzNKdGxLRTNWeXBIZ0lLZHFqQnhSV0J1cndTNUFUMkt2LW1pUFh2VEUzQzBJTVlMQ0tFdmlMR1BnT1hXUzhrYW9mNHhUYmFac2tXSi1fd2ZUTy1pcWszREdNUTZ1V25yb3AzNA?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
+          "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
+          "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Iranian",
+      "term": "Zone",
       "count": 3,
       "headlines": [
         {
@@ -625,16 +625,16 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iranian WhartoCell medicine for osteoarthritis treatment receives IFDA authorization",
-          "url": "https://en.irna.ir/news/86195241/Iranian-WhartoCell-medicine-for-osteoarthritis-treatment-receives",
-          "source": "IRNA",
+          "title": "Brother and sister killed in Israeli attack on Gaza safe zone",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJxclN6UmhTUG9KazFRMktKZjA1aElzcU1OTWJFeWxnbWRvWXVOa1YxZDgxRFd1a2tkZlZaV09UQ0k5TGd3UG1XeXlMdkJMT3pfNHRqZVpSUDd2SUFMM0FpOFBXQ3BqSkstaWRSLWtfRWpobngyZXBwbHRiV3ZTam42LXZieUlwXzN3LWxKS0xvdnFYU2dkV3pYMkdmUQ?oc=5",
+          "source": "Mehr News",
           "region": "Iran"
         },
         {
-          "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
+          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         }
       ]
     },
@@ -747,20 +747,74 @@
       ]
     },
     {
-      "term": "Palestinians",
+      "term": "Trump",
       "count": 2,
       "headlines": [
         {
-          "title": "Israeli attacks kill three in Gaza over past 24 hours",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours",
+          "title": "If USMCA is not renewed, analysts expect uncertainty for businesses",
+          "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US to continue targeting Iran if Hormuz shipping is threatened: Envoy to UN",
+          "url": "https://www.aa.com.tr/en/americas/us-to-continue-targeting-iran-if-hormuz-shipping-is-threatened-envoy-to-un/3980534",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Mohammad",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran and Lebanon speakers discuss Israel’s war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-lebanon-speakers-discuss-israels-war",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israel strike kills 2 Palestinians in new Gaza truce violation",
-          "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+          "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Bagher",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran and Lebanon speakers discuss Israel’s war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-lebanon-speakers-discuss-israels-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+          "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Ghalibaf",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran and Lebanon speakers discuss Israel’s war",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-lebanon-speakers-discuss-israels-war",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+          "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -801,7 +855,7 @@
       ]
     },
     {
-      "term": "Zone",
+      "term": "Iranian",
       "count": 2,
       "headlines": [
         {
@@ -811,28 +865,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iraqi officials arrested on corruption charges in overnight raid in fortified Green Zone",
-          "url": "https://www.egyptindependent.com/iraqi-officials-arrested-on-corruption-charges-in-overnight-raid-in-fortified-green-zone/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "France",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Civilian plane crash kills 11 in eastern France: Local authorities",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX0oyQjQzeG44bnd0Z1N3X2xhUFJpZmtDRjNEc29VUFJzMWlreDBtSWgzUjh3NVZVaVBnWjl6amZIdzNPc0tpQzg4cktoU2stc2xBdTgzVng2ekV5cVBoRjI3MDczQmx1T0djMUh4NlZoTHZIMi1lcXRQM1hJN0JlUlVXZzg2UmE2d0VwMVZiZEV5b0pUcFE1UFpmNDlZOXZGZTJpTnU4M0xoY3phZERDQnNDSW1Nd2c4UEhmYzFMUdIBvwFBVV95cUxPX0oyQjQzeG44bnd0Z1N3X2xhUFJpZmtDRjNEc29VUFJzMWlreDBtSWgzUjh3NVZVaVBnWjl6amZIdzNPc0tpQzg4cktoU2stc2xBdTgzVng2ekV5cVBoRjI3MDczQmx1T0djMUh4NlZoTHZIMi1lcXRQM1hJN0JlUlVXZzg2UmE2d0VwMVZiZEV5b0pUcFE1UFpmNDlZOXZGZTJpTnU4M0xoY3phZERDQnNDSW1Nd2c4UEhmYzFMUQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "France records around 1,000 excess deaths in heatwave: Health agency",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmJ3NE5lVnBpM0R3S3dTcUpCUnc5V2hhTVRnMnJiU1prOG1XVndrZF9ITVBsMGMwbHNBbXVHYW1HcVpVOGlGZHJ3OW5wSk9CNUdaY0NNLWg0M2RKUzNKdGxLRTNWeXBIZ0lLZHFqQnhSV0J1cndTNUFUMkt2LW1pUFh2VEUzQzBJTVlMQ0tFdmlMR1BnT1hXUzhrYW9mNHhUYmFac2tXSi1fd2ZUTy1pcWszREdNUTZ1V25yb3AzNNIBvwFBVV95cUxQZmJ3NE5lVnBpM0R3S3dTcUpCUnc5V2hhTVRnMnJiU1prOG1XVndrZF9ITVBsMGMwbHNBbXVHYW1HcVpVOGlGZHJ3OW5wSk9CNUdaY0NNLWg0M2RKUzNKdGxLRTNWeXBIZ0lLZHFqQnhSV0J1cndTNUFUMkt2LW1pUFh2VEUzQzBJTVlMQ0tFdmlMR1BnT1hXUzhrYW9mNHhUYmFac2tXSi1fd2ZUTy1pcWszREdNUTZ1V25yb3AzNA?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
+          "title": "Iranian WhartoCell medicine for osteoarthritis treatment receives IFDA authorization",
+          "url": "https://en.irna.ir/news/86195241/Iranian-WhartoCell-medicine-for-osteoarthritis-treatment-receives",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -891,24 +927,6 @@
       ]
     },
     {
-      "term": "Syria",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Syria sends rescue team to Venezuela in 'historic milestone'",
-          "url": "https://www.newarab.com/news/syria-sends-rescue-team-venezuela-historic-milestone",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdWJ5XzV2TmpRdktDaFJDMEw5V0ZxY2xPSF9jcE1obVV5Q2swMUF1Q1k2ajkxQ2ZDcVhmcHpLWl9GWUVJYTMxRFBWcURFZHFDTUNTRjdURU5ESlVvNFE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Venezuela",
       "count": 2,
       "headlines": [
@@ -923,6 +941,24 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94R1h4ZmdtcXBBNFdfYlE2SFJBVWlWU1NNUmJUM1Buc3hSZjBCRTZPTHZNcldfTFJ5c0FSMEFwNk1mWnljWlNRS1ZKUVVGWEtlSVdNdnAxTnI?oc=5",
           "source": "TRT World",
           "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "sovereignty",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+          "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Velayati says Hezbollah is true protector of Lebanon’s sovereignty",
+          "url": "https://en.irna.ir/news/86195255/Velayati-says-Hezbollah-is-true-protector-of-Lebanon-s-sovereignty",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -945,38 +981,20 @@
       ]
     },
     {
-      "term": "nuclear",
+      "term": "Khamenei",
       "count": 2,
       "headlines": [
         {
-          "title": "Iran has no choice but nuclear bomb - IRGC media - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NejZhT0ZmaGo3alhWNkRkWmZpcmdjWTlWMEduZ1N1Y1JnNmVNbnhnMzlrZEhlUmVlb2FWejBtQ05VN1ZBNTZKblJYNUtXYWtFS2c?oc=5",
+          "title": "Khamenei mourning site shut as shroud-wearing hardliners expose loyalist rift - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LR1ZNeFUzLXFDTHlNZVEyUlplQXVuX2tXWGRqeDg1aG1EdFhDMjFhYzgtWTJVTFd0dUo0c181a0pHNnlvV1oxdWI2OFg5Wjc1OFE?oc=5",
           "source": "Iran International",
           "region": "Iran"
         },
         {
-          "title": "UN says Iran nuclear pledge needs 'very strong' verification",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpSV3NjaVBNSEtrWksxdEczVThTbk5lRlRLbHM5SkdQOGZ6OW11UjhaQ3BtQXRyYUVuUVRqb2tkSG9CQlc1U05jR2xYODdVWnlNMHJnRHcwX2pnOHFuWnlRZG5UelpRLWN1d0lnYUN2YUhkZFhKMXRwVGRmaktvR3I0ZGlEdjF5bXBDZmlma2xNbWZQc1g4OUtWbTJrN1JKUUpXZEVCNzRGNFEtR1o5QQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "attack",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US forces carry out additional strikes in Iran after tanker attack - CENTCOM - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSHUweFd1UDhPcHpfQ2FGVTduX3VGY0pqTDF6cUdhLUpCcTlKQlJoc3hoWWFkUE1EWjlxRTIzeThGdHhFVTNUUjNVMTYwekg5R0E?oc=5",
+          "title": "Khamenei mourning site shut as shroud-wearing hardliners expose loyalist rift - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vTHNWM2hNS2EyZFdObkJPVTRjenhteWdZQzBKMHBHRl9LNGVWUjNVX0dHMjZVYkJTRVU5NmNsTEswcXVDeU0xMk9FZzl4b1Y2ckE?oc=5",
           "source": "Iran International",
           "region": "Iran"
-        },
-        {
-          "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
         }
       ]
     },

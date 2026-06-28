@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T16:05:57.966188+00:00",
+  "updated": "2026-06-28T16:34:43.017585+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -21,6 +21,12 @@
             "snippet": "Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad."
           },
           {
+            "title": "Three firefighters killed in US wildfires along Colorado–Utah border",
+            "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss",
+            "published": "2026-06-28T15:16:10+00:00",
+            "snippet": "The US has seen a harsh wildfire season this year, with prolonged droughts and dry conditions fuelling blazes."
+          },
+          {
             "title": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
             "url": "https://www.aljazeera.com/news/2026/6/28/qa-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak?traffic_source=rss",
             "published": "2026-06-28T15:01:18+00:00",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss",
             "published": "2026-06-28T14:52:35+00:00",
             "snippet": "US President Donald Trump has warned he would 'rather not have' the free trade agreement ahead of its July 1 review."
-          },
-          {
-            "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
-            "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
-            "published": "2026-06-28T14:46:32+00:00",
-            "snippet": "Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Israel kills three Palestinians in Gaza attacks",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-attacks",
+            "published": "2026-06-28T16:19:34+00:00",
+            "snippet": "Israel kills three Palestinians in Gaza attacks Israeli attacks have killed at least three Palestinians in the Gaza Strip, including two people targeted by a drone in the north of the enclave."
+          },
           {
             "title": "Iran and Lebanon speakers discuss Israel’s war",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-lebanon-speakers-discuss-israels-war",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown",
             "published": "2026-06-28T14:04:35+00:00",
             "snippet": "Iraq arrests 47 officials in anti-corruption crackdown Submitted by Alex MacDonald on Sun, 06/28/2026 - 13:46 Security services enter the fortified Green Zone in Baghdad as the new prime minister steps up action to tackle the problem Iraqi Prime Minister Ali al-Zaidi (right) meets Iranian Foreign Mi"
-          },
-          {
-            "title": "Israeli soldiers shoot at journalists in Syrian village",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-journalists-syrian-village",
-            "published": "2026-06-28T13:50:55+00:00",
-            "snippet": "Israeli soldiers shoot at journalists in Syrian village Footage showed Israeli soldiers shooting at a Syrian news crew reporting on Israel’s incursion into a Syrian village."
           }
         ],
         "error": null
@@ -105,16 +105,16 @@
             "snippet": "Only Tehran Will Restore Pre-War Hormuz Traffic: Araghchi Al Arabiya English"
           },
           {
+            "title": "Israel military says soldier killed in south Lebanon fighting",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbl82a1RDNWd5TlNzWWhtcUh5d1BoUkFzbTdEM2tmUld3Yy1IOWFmdE1tbkdBUy14dWZ5ci1NdU94dDZEVDd5QjVGem1ZXzhTeVlOazY5bDFQTGtZaldBSnNsS3A3XzVOOXFHQ2g0M21wcGVaZ0lqXzNLWFpGLU91bmUzVnBNellNN0EwWmx3eVEyNTk3T2s0VkdmTnpfbUdPVF8yWVFtZjVfcTJ1SHpNdVNWX281cWRpOUtMM3ZNYzbSAcABQVVfeXFMT25fNmtUQzVneU5Tc1lobXFIeXdQaFJBc203RDNrZlJXd2MtSDlhZnRNbW5HQVMteHVmeXItTXVPeHQ2RFQ3eUI1RnptWV84U3lZTms2OWwxUExrWWpXQUpzbEtwN181TjlxR0NoNDNtcHBlWmdJal8zS1haRi1PdW5lM1ZwTXpZTTdBMFpsd3lRMjU5N09rNFZHZk56X21HT1RfMllRbWY1X3EydUh6TXVTVl9vNXFkaTlLTDN2TWM2?oc=5",
+            "published": "2026-06-28T10:38:00+00:00",
+            "snippet": "Israel military says soldier killed in south Lebanon fighting Al Arabiya English"
+          },
+          {
             "title": "Ukraine hits two Russian oil refineries overnight",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMU9vV2pKWVB3VWxXc0Q3V09TbXJfRmMta3dmdHNPNjRQUjFJTDhiWXJTNlAwZlRrc2hPNk5nSThVV0c4dU9ISC1jWWFqanNrMXN5LXd2elBqZDBWOHBsUVh3djVBbGlRNkF2ZEZKSnN3dGdSLXNuNEl0UTVEbFVlRDNmbHo5cHJfOG9BSGd2bUJ6M3lTbFdvQWtydE9Bd1NERVl4UGlMMC3SAagBQVVfeXFMTjFPb1dqSllQd1VsV3NEN1dPU21yX0ZjLWt3ZnRzTzY0UFIxSUw4YllyUzZQMGZUa3NoTzZOZ0k4VVdHOHVPSEgtY1lhampzazFzeS13dnpQamQwVjhwbFFYd3Y1QWxpUTZBdmRGSkpzd3RnUi1zbjRJdFE1RGxVZUQzZmx6OXByXzhvQUhndm1CejN5U2xXb0FrcnRPQXdTREVZeFBpTDAt?oc=5",
             "published": "2026-06-28T09:12:00+00:00",
             "snippet": "Ukraine hits two Russian oil refineries overnight Al Arabiya English"
-          },
-          {
-            "title": "France records around 1,000 excess deaths in heatwave: Health agency",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmJ3NE5lVnBpM0R3S3dTcUpCUnc5V2hhTVRnMnJiU1prOG1XVndrZF9ITVBsMGMwbHNBbXVHYW1HcVpVOGlGZHJ3OW5wSk9CNUdaY0NNLWg0M2RKUzNKdGxLRTNWeXBIZ0lLZHFqQnhSV0J1cndTNUFUMkt2LW1pUFh2VEUzQzBJTVlMQ0tFdmlMR1BnT1hXUzhrYW9mNHhUYmFac2tXSi1fd2ZUTy1pcWszREdNUTZ1V25yb3AzNNIBvwFBVV95cUxQZmJ3NE5lVnBpM0R3S3dTcUpCUnc5V2hhTVRnMnJiU1prOG1XVndrZF9ITVBsMGMwbHNBbXVHYW1HcVpVOGlGZHJ3OW5wSk9CNUdaY0NNLWg0M2RKUzNKdGxLRTNWeXBIZ0lLZHFqQnhSV0J1cndTNUFUMkt2LW1pUFh2VEUzQzBJTVlMQ0tFdmlMR1BnT1hXUzhrYW9mNHhUYmFac2tXSi1fd2ZUTy1pcWszREdNUTZ1V25yb3AzNA?oc=5",
-            "published": "2026-06-28T08:44:00+00:00",
-            "snippet": "France records around 1,000 excess deaths in heatwave: Health agency Al Arabiya English"
           }
         ],
         "error": null
@@ -206,6 +206,12 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
+            "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+            "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+            "published": "2026-06-28T16:18:48+00:00",
+            "snippet": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf says that the end of the war in Lebanon, along with ensuring the country’s sovereignty and territorial integrity, is a key component of the first clause of the Islamabad memorandum of understanding (MoU) between Iran and the United States."
+          },
+          {
             "title": "Velayati says Hezbollah is true protector of Lebanon’s sovereignty",
             "url": "https://en.irna.ir/news/86195255/Velayati-says-Hezbollah-is-true-protector-of-Lebanon-s-sovereignty",
             "published": "2026-06-28T15:16:00+00:00",
@@ -228,12 +234,6 @@
             "url": "https://en.irna.ir/news/86195219/Foreign-Minister-Araghchi-meets-Iraqi-premier-to-discuss-regional",
             "published": "2026-06-28T13:40:29+00:00",
             "snippet": "Tehran, IRNA – Foreign Minister Abbas Araghchi met Iraqi Prime Minister Ali al-Zaidi in Baghdad on Sunday, with the two sides discussing efforts to strengthen bilateral ties and regional initiatives aimed at promoting regional security and stability."
-          },
-          {
-            "title": "Memorial book for martyr Kharrazi unveiled in Tehran",
-            "url": "https://en.irna.ir/photo/86195196/Memorial-book-for-martyr-Kharrazi-unveiled-in-Tehran",
-            "published": "2026-06-28T13:13:16+00:00",
-            "snippet": "The unveiling ceremony for the memorial book dedicated to martyr Seyyed Kamal Kharrazi was held in Tehran on June 28, 2026."
           }
         ],
         "error": null
@@ -257,12 +257,6 @@
             "snippet": "Iran manufactured more advanced weapons during US-Israel war Mehr News Agency"
           },
           {
-            "title": "Leader to deliver a message on Judiciary Week",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVm9WVVYzeHNSWTR6SDF4LURrdzlmX3RNRnRNZHE5NXI5UWVrZjFOVlJwam1VcTV1UklxQ1lmS3JZOEZibWk3NWhHbUw3YXRQV1RxdW5kZGp3ZDBBRDl6dkpzMGJybUc1dTBqS2VpSzBCM3JXeXJKSjRMQXRCMWZuMk9HTTY0M1U4?oc=5",
-            "published": "2026-06-28T10:23:00+00:00",
-            "snippet": "Leader to deliver a message on Judiciary Week Mehr News Agency"
-          },
-          {
             "title": "Enhancing ties with Iraq Iran’s top foreign policy priority",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVVZV014VFR5QzBoNjhaNVVXYzJJSHFPNmtzY0Rvb3JKVlVxbGdBeG56RHZTY1UwUnpoS19LLWRJRktaLVZJcWhlaWRoQ01DcGZlZ29NS3lUSVZGV1ZmamVtaWU2bklTMEhheW9xWWZKZXcxMk45M21yMWpDZ2NPenk3UW92NVlLZDFwbTVqX3BZcHhQal85Tlk0OA?oc=5",
             "published": "2026-06-28T09:32:00+00:00",
@@ -273,6 +267,12 @@
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFZGdGVtNlRocS1nRWtmTTd1VDdSOElaM21oN0lRR3ZnT1NaY0ZjQWxpM0JWTXRHX3ViWDUzdVJyVmd6NWlPN2dNb2NTcTJtUlR2WGNDbk1odWRxUldjYXBJRXQxT1l2Y09COW1PWVNWcl9iLURBbWdIdWlZMWNoWi00bTluTnJPWkp0VGxQeWhaVFFTZkk4dFdR?oc=5",
             "published": "2026-06-28T08:51:00+00:00",
             "snippet": "Interference to delay reopening of strategic Hormuz Strait Mehr News Agency"
+          },
+          {
+            "title": "Brother and sister killed in Israeli attack on Gaza safe zone",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJxclN6UmhTUG9KazFRMktKZjA1aElzcU1OTWJFeWxnbWRvWXVOa1YxZDgxRFd1a2tkZlZaV09UQ0k5TGd3UG1XeXlMdkJMT3pfNHRqZVpSUDd2SUFMM0FpOFBXQ3BqSkstaWRSLWtfRWpobngyZXBwbHRiV3ZTam42LXZieUlwXzN3LWxKS0xvdnFYU2dkV3pYMkdmUQ?oc=5",
+            "published": "2026-06-28T08:37:00+00:00",
+            "snippet": "Brother and sister killed in Israeli attack on Gaza safe zone Mehr News Agency"
           }
         ],
         "error": null
@@ -290,10 +290,16 @@
             "snippet": "Live - Iran’s Supreme Leader urges judiciary to pursue war-related crimes | Iran International ایران اینترنشنال"
           },
           {
-            "title": "Iran has no choice but nuclear bomb - IRGC media - ایران اینترنشنال",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NejZhT0ZmaGo3alhWNkRkWmZpcmdjWTlWMEduZ1N1Y1JnNmVNbnhnMzlrZEhlUmVlb2FWejBtQ05VN1ZBNTZKblJYNUtXYWtFS2c?oc=5",
-            "published": "2026-06-28T12:16:05+00:00",
-            "snippet": "Iran has no choice but nuclear bomb - IRGC media ایران اینترنشنال"
+            "title": "Iran says US must force Israel to halt Lebanon attacks, withdraw - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uLXlINjlMeTFUWGZQLVNlTzlJeWVRc09qUllFNmd3dWt2djIzQjgteU9yNHhXUzF2QnlwT3F2U1hoNk5laFUxZUxaZ1lfdWRtdVE?oc=5",
+            "published": "2026-06-28T11:25:07+00:00",
+            "snippet": "Iran says US must force Israel to halt Lebanon attacks, withdraw ایران اینترنشنال"
+          },
+          {
+            "title": "Khamenei mourning site shut as shroud-wearing hardliners expose loyalist rift - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LR1ZNeFUzLXFDTHlNZVEyUlplQXVuX2tXWGRqeDg1aG1EdFhDMjFhYzgtWTJVTFd0dUo0c181a0pHNnlvV1oxdWI2OFg5Wjc1OFE?oc=5",
+            "published": "2026-06-28T11:10:59+00:00",
+            "snippet": "Khamenei mourning site shut as shroud-wearing hardliners expose loyalist rift ایران اینترنشنال"
           },
           {
             "title": "Iraq arrests officials tied to Iran-aligned parties in Baghdad raids, sources say - ایران اینترنشنال",
@@ -306,12 +312,6 @@
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vTHNWM2hNS2EyZFdObkJPVTRjenhteWdZQzBKMHBHRl9LNGVWUjNVX0dHMjZVYkJTRVU5NmNsTEswcXVDeU0xMk9FZzl4b1Y2ckE?oc=5",
             "published": "2026-06-28T10:24:34+00:00",
             "snippet": "Khamenei mourning site shut as shroud-wearing hardliners expose loyalist rift ایران اینترنشنال"
-          },
-          {
-            "title": "US forces carry out additional strikes in Iran after tanker attack - CENTCOM - ایران اینترنشنال",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSHUweFd1UDhPcHpfQ2FGVTduX3VGY0pqTDF6cUdhLUpCcTlKQlJoc3hoWWFkUE1EWjlxRTIzeThGdHhFVTNUUjNVMTYwekg5R0E?oc=5",
-            "published": "2026-06-27T21:48:17+00:00",
-            "snippet": "US forces conducted additional strikes in Iran subsequent to an attack on a tanker, according to CENTCOM."
           }
         ],
         "error": null
@@ -481,33 +481,33 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "التجمع الإسلامي للمهندسين: “الإطار الثلاثي” تجاوز لحق اللبنانيين في تقرير مصيرهم بأنفسهم ومساس بالسيادة الوطنية",
-            "url": "https://www.almanar.com.lb/article/984782/",
-            "published": "2026-06-28T15:58:46+00:00",
-            "snippet": "اعلن التجمع الإسلامي للمهندسين انه ينظر ببالغ الخطورة إلى ما أُعلن أخيرًا تحت مسمى «الإطار الثلاثي» بين الولايات المتحدة الأميركية والعدو الإسرائيلي والجمهورية اللبنانية، لما ينطوي عليه من تجاوزٍ لحق اللبنانيين في تقرير مصيرهم بأنفسهم، ومن مساسٍ بمبدأ السيادة الوطنية الذي يشكل الركيزة الأساسية لأي م"
-          },
-          {
-            "title": "مراسل المنار: العدو الإسرائيلي يُلقي قنبلة صوتية على نبع إبل السقي بالقرب من مزارعين دون وقوع إصابات",
-            "url": "https://www.almanar.com.lb/article/984752/",
-            "published": "2026-06-28T15:47:12+00:00",
+            "title": "حركة مواطنون ومواطنات: المهمة تبدأ بإقامة حكومة تدرك مسؤولياتها غير الحكومة القائمة حالياً ولماذا لا يرأسها سعد الحريري؟",
+            "url": "https://www.almanar.com.lb/article/984857/",
+            "published": "2026-06-28T16:31:54+00:00",
             "snippet": ""
           },
           {
-            "title": "قوات الاحتلال الاسرائيلي تقتحم بلدة عناتا شمال القدس المحتلة",
-            "url": "https://www.almanar.com.lb/article/984737/",
-            "published": "2026-06-28T15:24:04+00:00",
+            "title": "حركة مواطنون ومواطنات: كفانا أسرًا في أدوار بالية ترسم لنا استرضاءً لخارج من هنا أو من هناك رهانًا وارتهانًا",
+            "url": "https://www.almanar.com.lb/article/984827/",
+            "published": "2026-06-28T16:30:45+00:00",
             "snippet": ""
           },
           {
-            "title": "حزب الله يشيّع ثلة من شهدائه في الضاحية والبقاع والجنوب",
-            "url": "https://www.almanar.com.lb/article/984707/",
-            "published": "2026-06-28T15:14:26+00:00",
+            "title": "الرئيس بري تلقى اتصالا من وزير خارجية مصر وأكد وجوب تجنب الفتنة والوزير المصري اكد ضرورة الانسحاب الكامل للعدو الإسرائيلي",
+            "url": "https://www.almanar.com.lb/article/984832/",
+            "published": "2026-06-28T16:26:32+00:00",
+            "snippet": "جرى اتصال بين رئيس مجلس النواب نبيه بري ووزير خارجية مصر بدر عبد العاطي تناولا خلاله تطورات الأوضاع في لبنان والمنطقة .الوزير عبد العاطي جدد حرص مصر على الاستقرار في لبنان ، مشدداً على أن التركيز يجب أن يكون على ضرورة الانسحاب الكامل للعدو الإسرائيلي من جنوب لبنان وإنتشار الجيش اللبناني ، مؤكداً بأن"
+          },
+          {
+            "title": "النائب الصمد: يبدو أن السلطة التنفيذية وعن وعي كامل قررت الإستسلام في محاولة منها لتخريب الإتفاق الأميركي – الإيراني حول لبنان",
+            "url": "https://www.almanar.com.lb/article/984812/",
+            "published": "2026-06-28T16:24:15+00:00",
             "snippet": ""
           },
           {
-            "title": "وزارة الصحة اللبنانية: 4247 شهيدا و12195 جريحا حصيلة العدوان الاسرائيلي منذ 2 آذار",
-            "url": "https://www.almanar.com.lb/article/984672/",
-            "published": "2026-06-28T15:04:50+00:00",
+            "title": "النائب الصمد: الاتفاق أعطى للعدو ذريعة لعدم الإنسحاب من لبنان في وقت كانت الضغوط الأميركية والدولية تشتد على حكومة العدو ورئيسها",
+            "url": "https://www.almanar.com.lb/article/984772/",
+            "published": "2026-06-28T16:23:19+00:00",
             "snippet": ""
           }
         ],
@@ -600,6 +600,18 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
+            "title": "Iraq arrests 47 officials in anti-corruption campaign",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XbWV3Zl9PTjJKUndTM3NqRDZYeXJ2MDlvcHpVYXRFUmNqSU9TZWJSaVN6bVJ4c2xXVmpYYUNxWktxN3A4d3NXWmpGeU1IUEg0cDViQlRWTm9TZTM1R0E?oc=5",
+            "published": "2026-06-28T15:15:22+00:00",
+            "snippet": "Iraq arrests 47 officials in anti-corruption campaign Arab News"
+          },
+          {
+            "title": "Pakistan designates Taftan railway station as customs facility amid efforts to boost Iran trade",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50MDhJdlVIVmxha2FGMjg0enJvMkJFZVdjVEEzbWNpcllUOFYyakhmYWt3cDhKbVB6M2VneVBzVGU1VTVFdnhWdXk4UUotb0JySzk0?oc=5",
+            "published": "2026-06-28T14:15:20+00:00",
+            "snippet": "Pakistan designates Taftan railway station as customs facility amid efforts to boost Iran trade Arab News"
+          },
+          {
             "title": "Closing Bell: Saudi main index closes in red; Nomu gains",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YNTU4dkFHOFprTmRiYzh5UmkzdkllRWpLZklJdVdUcDloM2RaMFAxM3lVRjd3aEMtc1NYaVd0NHVzUXctMjdBMW9mOV90ZXVFaVlr?oc=5",
             "published": "2026-06-28T13:26:50+00:00",
@@ -616,18 +628,6 @@
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yTHphSFJUVFJ5YUJjWDFhbzVfODRMaC05NjdqQ2JWNGtpSEdnaDFvdlVJaXVKcjladXZxclgtbURHMkVJR3FldEhyWE5jVTZLemZV?oc=5",
             "published": "2026-06-28T11:23:29+00:00",
             "snippet": "Bangladesh’s fugitive ex-PM says will return to Dhaka ‘this year’ Arab News"
-          },
-          {
-            "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdWJ5XzV2TmpRdktDaFJDMEw5V0ZxY2xPSF9jcE1obVV5Q2swMUF1Q1k2ajkxQ2ZDcVhmcHpLWl9GWUVJYTMxRFBWcURFZHFDTUNTRjdURU5ESlVvNFE?oc=5",
-            "published": "2026-06-28T10:16:13+00:00",
-            "snippet": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel Arab News"
-          },
-          {
-            "title": "Residential building damaged in latest Iranian attack — Bahrain interior ministry",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZFlNWkVvUFAwMFktT3lmaFQyVVRDYzFyUHh5dXV2LUdSY29RVjZKNmc0QmhCSzFONllKNFhrcGlFWDhPSHRHcEhmUGVxQTlaNEk4YU1IaWtNNVN4bkE?oc=5",
-            "published": "2026-06-28T10:06:51+00:00",
-            "snippet": "A residential building was damaged in the latest Iranian attack, according to Bahrain's interior ministry."
           }
         ],
         "error": null
