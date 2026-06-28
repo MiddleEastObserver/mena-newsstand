@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Middle East Intelligence Hub — Live Front Pages & Headlines</title>
+<title>Mid-East Scout's Intelligence Hub — Live Front Pages & Headlines</title>
 <meta name="description" content="Live newspaper front pages and the top headlines from across the Middle East, plus the US and Europe — refreshed automatically every 30 minutes.">
 <link rel="canonical" href="https://mideastscout.github.io/mena-newsstand/">
 <meta name="theme-color" content="#15264F">
@@ -11,13 +11,13 @@
 <link rel="manifest" href="site.webmanifest">
 <!-- Social preview (Open Graph + Twitter) -->
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Middle East Intelligence Hub">
-<meta property="og:title" content="Middle East Intelligence Hub — Live Front Pages & Headlines">
+<meta property="og:site_name" content="Mid-East Scout's Intelligence Hub">
+<meta property="og:title" content="Mid-East Scout's Intelligence Hub — Live Front Pages & Headlines">
 <meta property="og:description" content="Live newspaper front pages and top headlines across the Middle East, US and Europe — refreshed every 30 minutes.">
 <meta property="og:url" content="https://mideastscout.github.io/mena-newsstand/">
 <meta property="og:image" content="https://mideastscout.github.io/mena-newsstand/frontpages/the_national.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Middle East Intelligence Hub — Live Front Pages & Headlines">
+<meta name="twitter:title" content="Mid-East Scout's Intelligence Hub — Live Front Pages & Headlines">
 <meta name="twitter:description" content="Live newspaper front pages and top headlines across the Middle East, US and Europe — refreshed every 30 minutes.">
 <meta name="twitter:image" content="https://mideastscout.github.io/mena-newsstand/frontpages/the_national.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -84,6 +84,19 @@ button{font-family:'Source Sans 3',sans-serif;cursor:pointer}
   .hero{grid-template-columns:1fr;min-height:auto;padding:40px 0 56px}
   .hero .stage{order:-1;min-height:300px;height:46vw;max-height:360px}
   .hero .copy{padding-top:8px}.hero .rule{width:200px}
+}
+/* Compact masthead on phones (≈6.2" screens and smaller) so the banner doesn't
+   dominate the first screen and crowd out the headlines below it. */
+@media (max-width:430px){
+  .hero{padding:24px 0 30px}
+  .hero .copy{padding:0 20px}
+  .hero .kicker{font-size:11px;letter-spacing:.2em;margin-bottom:9px}
+  .hero .title .l1{font-size:30px}
+  .hero .title .l2{font-size:21px}
+  .hero .rule{margin:13px 0;width:140px}
+  .hero .tag{font-size:14.5px;max-width:34ch}
+  .hero .chips{margin-top:15px}
+  .hero .stage{min-height:165px;height:40vw;max-height:205px}
 }
 @media (prefers-reduced-motion:reduce){.hero .chip.live .dot{animation:none}}
 
@@ -281,11 +294,11 @@ footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-a
   <div class="copy">
     <div class="kicker">Regional Intelligence Desk</div>
     <h1 class="title">
-      <span class="l1">Middle East</span>
+      <span class="l1">Mid-East Scout's</span>
       <span class="l2">Intelligence Hub</span>
     </h1>
     <div class="rule"></div>
-    <p class="tag">Live front pages, headlines &amp; AI analysis from across the region — in one place.</p>
+    <p class="tag">The One-Stop-Shop of Middle East Analysis</p>
     <div class="chips">
       <span class="chip live"><span class="dot"></span><b>LIVE</b><span class="sep"></span><span id="hdr-date">—</span></span>
     </div>
@@ -324,7 +337,7 @@ footer{border-top:1px solid var(--line);margin-top:24px;padding:18px 16px;text-a
     <div class="sec-head">
       <h2>Live Headlines</h2>
     </div>
-    <div class="sec-note">Top 5 headlines from 22 MENA and regional outlets, organized by region. Refreshed automatically every 30 minutes.</div>
+    <div class="sec-note">Top 5 headlines from 26 MENA and regional outlets, organized by region. Refreshed automatically every 30 minutes.</div>
     <div class="hl-filters">
       <input type="search" id="hl-topic" class="hl-filter-input" autocomplete="off"
         placeholder="Filter by topic or keyword (e.g. Iran, ceasefire, Hezbollah)…">

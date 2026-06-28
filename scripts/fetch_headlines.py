@@ -186,6 +186,32 @@ SOURCES = {
             "rss": "https://en.mehrnews.com/rss",
         },
     ],
+    "Turkey": [
+        {
+            # Anadolu Agency — Türkiye's official state news wire (English
+            # edition). High-volume and very well indexed, so the Google News
+            # fallback reliably surfaces real articles even if the native feed
+            # is blocked from a datacenter IP (same pattern as IRNA above).
+            "source": "Anadolu Agency", "country": "Turkey", "lang": "en",
+            "url": "https://www.aa.com.tr/en",
+            "rss": "https://www.aa.com.tr/en/rss/default?cat=guncel",
+        },
+        {
+            "source": "Daily Sabah", "country": "Turkey", "lang": "en",
+            "url": "https://www.dailysabah.com",
+            "rss": "https://www.dailysabah.com/rss",
+        },
+        {
+            "source": "Hürriyet Daily News", "country": "Turkey", "lang": "en",
+            "url": "https://www.hurriyetdailynews.com",
+            "rss": "https://www.hurriyetdailynews.com/rss",
+        },
+        {
+            "source": "TRT World", "country": "Turkey", "lang": "en",
+            "url": "https://www.trtworld.com",
+            "rss": "https://www.trtworld.com/rss",
+        },
+    ],
 }
 
 HEADLINES_PER_OUTLET = 5
@@ -344,7 +370,7 @@ WEATHER_FILLER_RE = re.compile(
 
 # Order regions appear in the Headlines tab (the site renders them in the order
 # they're written to headlines.json).
-REGION_ORDER = ["Pan-Arab", "Levant", "Gulf", "Israel", "Iran"]
+REGION_ORDER = ["Pan-Arab", "Levant", "Gulf", "Israel", "Iran", "Turkey"]
 
 GNEWS_LOCALE = {
     "en": ("en-US", "US", "US:en"),
