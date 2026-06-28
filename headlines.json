@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T15:07:30.916116+00:00",
+  "updated": "2026-06-28T15:37:07.162791+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,24 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Iraq arrests senior officials in anti-corruption raids",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss",
+            "published": "2026-06-28T15:19:36+00:00",
+            "snippet": "Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad."
+          },
+          {
+            "title": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
+            "url": "https://www.aljazeera.com/news/2026/6/28/qa-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak?traffic_source=rss",
+            "published": "2026-06-28T15:01:18+00:00",
+            "snippet": "Health officials say the Ebola response cannot succeed without addressing the humanitarian crisis."
+          },
+          {
+            "title": "If USMCA is not renewed, analysts expect uncertainty for businesses",
+            "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss",
+            "published": "2026-06-28T14:52:35+00:00",
+            "snippet": "US President Donald Trump has warned he would 'rather not have' the free trade agreement ahead of its July 1 review."
+          },
           {
             "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
             "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
@@ -19,24 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/28/european-heatwave-causes-1000-excess-deaths-in-france?traffic_source=rss",
             "published": "2026-06-28T14:38:09+00:00",
             "snippet": "AFP estimates that at least 191 million people are forecast to experience temperatures of at least 35C in Europe."
-          },
-          {
-            "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-            "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
-            "published": "2026-06-28T14:01:29+00:00",
-            "snippet": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait."
-          },
-          {
-            "title": "The US-Iran MoU: A mirage of an agreement",
-            "url": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss",
-            "published": "2026-06-28T13:59:38+00:00",
-            "snippet": "Both Washington and Tehran know that current deal will not lead to lasting peace. It is merely a strategic pause"
-          },
-          {
-            "title": "Ukraine says it attacked two Russian oil refineries",
-            "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
-            "published": "2026-06-28T13:36:15+00:00",
-            "snippet": "At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Israeli army chief says 'we will honour' Lebanon agreement",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-says-we-will-honour-lebanon-agreement",
+            "published": "2026-06-28T15:34:39+00:00",
+            "snippet": "Israeli army chief says 'we will honour' Lebanon agreement Israeli army chief General Eyal Zamir has praised the deal with Lebanon, calling it \"historic and of great significance\"."
+          },
           {
             "title": "Israeli attacks kill three in Gaza over past 24 hours",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/opinion/israeli-extremists-are-terrorising-palestinian-christians-and-their-holy-sites",
             "published": "2026-06-28T13:49:17+00:00",
             "snippet": "Israeli extremists are terrorising Palestinian Christians and their holy sites Submitted by Janan Abdu on Sun, 06/28/2026 - 11:27 With Religious Zionism dominating key institutions of the Israeli state, police and courts fail to hold its adherents accountable for attacks on Christian communities A w"
-          },
-          {
-            "title": "UAE condemns Iranian strikes on Bahrain and Kuwait",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-strikes-bahrain-and-kuwait",
-            "published": "2026-06-28T12:07:53+00:00",
-            "snippet": "UAE condemns Iranian strikes on Bahrain and Kuwait The United Arab Emirates has condemned the recent Iranian strikes on Bahrain and Kuwait, which were in retaliation for US attacks on Iranian targets over the past two days."
           }
         ],
         "error": null
@@ -99,10 +99,10 @@
             "snippet": "Saudi Aramco helicopter crash kills 14 in Ras Tanura Al Arabiya English"
           },
           {
-            "title": "Only Tehran Will Restore Pre-War Hormuz Traffic: Araghchi",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjB5RktPNWg0Z0pycFFILWRyem5rOTU5YXowblBiU0NSX1loUVVZMXBGSTJwNXRycFoyTFhwZkFyX203bnRfSktmWmNIZDIyR0kyT2w3bEdIUjhqcEVnVEhDcTF1LWpzb2FSektTU3hYcDJ3VlI5bkd5NnI1Z3lNbURwbGlwTmJkbGZSU3BMU1Axbkl6T2xNbl81YXlRNUJFaFBOVGI1VzhRTERiTnI4NHRR0gGyAUFVX3lxTFBKMHlGS081aDRnSnJwUUgtZHJ6bms5NTlhejBuUGJTQ1JfWWhRVVkxcEZJMnA1dHJwWjJMWHBmQXJfbTdudF9KS2ZaY0hkMjJHSTJPbDdsR0hSOGpwRWdUSENxMXUtanNvYVJ6S1NTeFhwMndWUjluR3k2cjVneU1tRHBsaXBOYmRsZlJTcExTUDFuSXpPbE1uXzVheVE1QkVoUE5UYjVXOFFMRGJOcjg0dFE?oc=5",
-            "published": "2026-06-28T12:02:28+00:00",
-            "snippet": "Only Tehran Will Restore Pre-War Hormuz Traffic: Araghchi Al Arabiya English"
+            "title": "Iran FM warns any challenge to Hormuz strait will ‘increase tensions’",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWRTTDktbjcyYzBZQm16RjU3Z3NKWnlzUkllTU9hMEZCa2k3SUtTeDAzUGZXMW14QjFMTjFzRzRwVG55TFhORWc2bEdPUjN0MlNCYmwyak1hd19GQWVXRTRQbHJSS2dFcC12NUFubmh6SGp2VHlsbVhNcHRZNU9zOWpKUHNoSld1QmhDZmhFcWREMl8tdjM4Y2ZIa1h5SUZyYW5mSUNBcTNETkVta21nTndjYkRlejFCRGJiYmVpcFhoWHItOVktUXZB0gHKAUFVX3lxTE95ZFNMOS1uNzJjMFlCbXpGNTdnc0paeXNSSWVNT2EwRkJraTdJS1N4MDNQZlcxbXhCMUxOMXNHNHBUbnlMWE5FZzZsR09SM3QyU0JibDJqTWF3X0ZBZVdFNFBsclJLZ0VwLXY1QW5uaHpIanZUeWxtWE1wdFk1T3M5akpQc2hKV3VCaENmaEVxZEQyXy12MzhjZkhrWHlJRnJhbmZJQ0FxM0RORW1rbWdOd2NiRGV6MUJEYmJiZWlwWGhYci05WS1RdkE?oc=5",
+            "published": "2026-06-28T10:04:00+00:00",
+            "snippet": "Iran FM warns any challenge to Hormuz strait will ‘increase tensions’ Al Arabiya English"
           },
           {
             "title": "Ukraine hits two Russian oil refineries overnight",
@@ -206,6 +206,12 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
+            "title": "Velayati says Hezbollah is true protector of Lebanon’s sovereignty",
+            "url": "https://en.irna.ir/news/86195255/Velayati-says-Hezbollah-is-true-protector-of-Lebanon-s-sovereignty",
+            "published": "2026-06-28T15:16:00+00:00",
+            "snippet": "Tehran, IRNA – Ali Akbar Velayati, a senior advisor to the Leader of the Islamic Revolution on international affairs, has declared Hezbollah the true protector of Lebanon’s sovereignty."
+          },
+          {
             "title": "Pezeshkian says government pursuing diplomacy to help resolve domestic challenges",
             "url": "https://en.irna.ir/news/86195274/Pezeshkian-says-government-pursuing-diplomacy-to-help-resolve",
             "published": "2026-06-28T14:59:08+00:00",
@@ -228,12 +234,6 @@
             "url": "https://en.irna.ir/photo/86195196/Memorial-book-for-martyr-Kharrazi-unveiled-in-Tehran",
             "published": "2026-06-28T13:13:16+00:00",
             "snippet": "The unveiling ceremony for the memorial book dedicated to martyr Seyyed Kamal Kharrazi was held in Tehran on June 28, 2026."
-          },
-          {
-            "title": "Iraqi FM: Direct dialogue key to resolving regional challenges",
-            "url": "https://en.irna.ir/news/86195180/Iraqi-FM-Direct-dialogue-key-to-resolving-regional-challenges",
-            "published": "2026-06-28T12:44:37+00:00",
-            "snippet": "Tehran, IRNA – Iraqi Foreign Minister Fuad Hussein calls for direct dialogue among regional states to resolve ongoing challenges, after hosting Iranian Foreign Minister Abbas Araghchi in Baghdad on Sunday for talks on bilateral relations and regional developments."
           }
         ],
         "error": null
@@ -308,10 +308,10 @@
             "snippet": "US forces conducted additional strikes in Iran subsequent to an attack on a tanker, according to CENTCOM."
           },
           {
-            "title": "Iran MP criticizes GCC statement on regional security - ایران اینترنشنال",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EdGU1RmIxUzJlNTQwS1VYaE5TNmdtcWVwekZYSlNmWVdvVGw0OWQtVzVMd1dYemRGb1VmR3Z4MkptX1VYN295cGdfdEJ4Q3dVU2c?oc=5",
-            "published": "2026-06-27T21:40:21+00:00",
-            "snippet": "An Iranian Member of Parliament criticized a GCC statement concerning regional security."
+            "title": "Atlas of Iran’s Missile Cities - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdXh2LU83TlJQSXlSdHRLYko0MjF5UzVpMG0wZWx6b2h2WGw4M3V3R2MySzhJc0Q3dVhBTk50WGNhSFBmd25GRjhXWjFmU045UHQ0OWFPNEpVS25Vd2d0T3A4MA?oc=5",
+            "published": "2026-06-27T20:32:58+00:00",
+            "snippet": "Atlas of Iran’s Missile Cities ایران اینترنشنال"
           }
         ],
         "error": null
@@ -481,6 +481,18 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "قوات الاحتلال الاسرائيلي تقتحم بلدة عناتا شمال القدس المحتلة",
+            "url": "https://www.almanar.com.lb/article/984737/",
+            "published": "2026-06-28T15:24:04+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "حزب الله يشيّع ثلة من شهدائه في الضاحية والبقاع والجنوب",
+            "url": "https://www.almanar.com.lb/article/984707/",
+            "published": "2026-06-28T15:14:26+00:00",
+            "snippet": ""
+          },
+          {
             "title": "وزارة الصحة اللبنانية: 4247 شهيدا و12195 جريحا حصيلة العدوان الاسرائيلي منذ 2 آذار",
             "url": "https://www.almanar.com.lb/article/984672/",
             "published": "2026-06-28T15:04:50+00:00",
@@ -497,18 +509,6 @@
             "url": "https://www.almanar.com.lb/article/984687/",
             "published": "2026-06-28T14:51:19+00:00",
             "snippet": "رأى رئيس “الاتحاد العالمي لعلماء المقاومة” الشيخ ماهر حمود في بيان، أن “الاتفاق الإطاري يقوم على قلب الحقائق وعكس البديهيات، إذ يربط انسحاب العدو من الأرض المحتلة بنزع سلاح المقاومة التي حمت لبنان وردعت عدوانه”، معتبرا أنه “يندرج في سياق مشروع اميركي إسرائيلي أوسع، يستهدف إعادة رسم المنطقة بما يخدم"
-          },
-          {
-            "title": "شهيد وجرحى باعتداء من مسيّرة للاحتلال الاسرائيلي على منطقة المواصي غرب مدينة خانيونس جنوب قطاع غزة",
-            "url": "https://www.almanar.com.lb/article/984602/",
-            "published": "2026-06-28T14:41:28+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "السيد مجتبى الخامنئي: رسائل في أسبوع السلطة القضائية وذكرى استشهاد آية الله بهشتي ورفاقه",
-            "url": "https://www.almanar.com.lb/article/984647/",
-            "published": "2026-06-28T14:38:26+00:00",
-            "snippet": "بمناسبة أسبوع السلطة القضائية والذكرى السنوية لاستشهاد آية الله السيد محمد حسيني بهشتي واثنين وسبعين من رفاقه، أكد آية الله السيد مجتبى الخامنئي أهمية ترسيخ العدالة وصون مبادئ الثورة الإسلامية."
           }
         ],
         "error": null
@@ -600,10 +600,10 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "Closing Bell: Saudi main index closes in red; Nomu gains",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YNTU4dkFHOFprTmRiYzh5UmkzdkllRWpLZklJdVdUcDloM2RaMFAxM3lVRjd3aEMtc1NYaVd0NHVzUXctMjdBMW9mOV90ZXVFaVlr?oc=5",
-            "published": "2026-06-28T13:26:50+00:00",
-            "snippet": "Closing Bell: Saudi main index closes in red; Nomu gains Arab News"
+            "title": "Saudi Aramco helicopter crash kills 14",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoNHJIelFHUkFvRzlmeHBmVTEzYVFKcXBtZWRWN0R0LW80MVhKRjRxVzV6LTZXRk5rVTJQanpCUm1UUm9CRG05bHJoYXBncWJtVDBzbXl1RTAyMHVCbXQ0?oc=5",
+            "published": "2026-06-28T11:46:40+00:00",
+            "snippet": "Saudi Aramco helicopter crash kills 14 Arab News"
           },
           {
             "title": "Bangladesh’s fugitive ex-PM says will return to Dhaka ‘this year’",
@@ -639,6 +639,12 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
+            "title": "Occupational English Test Training – For Medical Professionals in UAE",
+            "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQTFI0aXk4UWd1anpCQVpoRWFFRnNkN21tMFhleDJ6eXNWNU5WdUh0akhWUjg3ZE1FS09PaURLd0RLbDdhOHRRS1pjeVdJRlpBTzdQMUtfVnRNcEFmcF9iOUFFMUxKMzBua2h6alhpWEJiVUU5dlhaUTBtbFotaWpMMW52UzB1UllTcmZRaTN3YlJzRUxtbEd0clNxWnhXblF4QmRBRnBHNUF1Y3hlN19WY2UxRFlaWlBsdGRvc1dzdEFETE9Zenl1N2VqbEdVZUFDcmpUR202M1E5YnpRUnY4MXVNdm9CdmV5TWNEX3Q3RTNXZUI3OUJEd0pqbm1tdHd4RmFYQ0dkZXVHRlpXTzlhQWw0ZWhkTkdwcDBydmpjYUswTE5wR2V1ejZvU080REk?oc=5",
+            "published": "2026-06-28T12:24:22+00:00",
+            "snippet": "Occupational English Test Training – For Medical Professionals in UAE Gulf News"
+          },
+          {
             "title": "Dubai Police urge drivers to keep vehicles roadworthy this summer",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHQxU20xZlFwLWFjcE01QTIxNnRaaEpHdVhCM3VnZGZNZ01uN1NZMmo1SXNHNDIzUVhJdDYtX3haWTFfQ25DQWFFMlJROG8tbnpsdEFpMjExbnhRYlhHZ19vdHVDdk56NkF3SzVxdVVwdUlMMDJWSHZkcEc5MkhwQUFLUEZXbmYxQmFDOHkxYVMyeHBpQWp5WHZYSEF3YS1jOHZpSzF5NXBiajEtZjY4b1Bn0gHEAUFVX3lxTFBMcEpxbWFCV2V0a3FOMk5rbkpKNGVUaFAyel84eUZSamJmUGh2ZUE0NWl3MXJpQXQxVFZGWjF4Ti0zSDIxb1g0V2Y5V3ZsWjgweFQtb3JGdHZoMm1JOVRzUlplQXoxRmxNbzdmUmd2b3V2OEtBRkRSd0NMc2ctZE00am95ZGRkS3VkNWRRS3kzM1h3RHBHR1dNVVhWNndyc1pFMVB4a3pwMl81MVdDWHJDazk2X0U0T1labmVQYzk5UHlXOEM?oc=5",
             "published": "2026-06-28T07:23:20+00:00",
@@ -661,12 +667,6 @@
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2lEczJkSWs5RDNxcGc3NVhzOXN3X0tSUVF4d0NrUXJOa2xYZm5RSnVOT2J4d3hSQ3pKUU05UXpydWo4Q1pDRFMyeHpmTVZaQllfNmF0a0JFRDA5TDBQUkg5S0hjeGtwS3NZamVUUnpMbklpTlVzRnlKREpnbVRhOGUxd25iQU9vbExzLU9ZUEJLSmNHLWotUmNXWTlYQ2Zx?oc=5",
             "published": "2026-06-27T19:20:38+00:00",
             "snippet": "A Safety Training Institute in Chennai offers certified safety courses."
-          },
-          {
-            "title": "Venezuela earthquake death toll rises to 1,430 as rescue efforts intensify",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRkNqNjFvdkNTNXpkRFQ2UzZ3dTBTX3Z3SmwwSkJWV0duVEo1MjJTdTdUSnBpVGVyelI2alVMdVNUZk50T25uTUVWWmxnczFKMl9wTXpkMU1oSV9UTnZyeE9QU2tJbVIxTl9iWEVKYnZjVjR2aVpyRnlmam81R09fMi1fQ05YTWxycGx1OFpuVjNXQXVjR2d4QmFNMEpMX1NDdG50dy1zaG9qTDRhRzVVU2Z2dUtXUjFhYzkteDhn0gHQAUFVX3lxTE54Wlo5WEpCZVFxOXZYUU1YeVRqSXZGdHlFZWlXM2VZQV9TVWZKOW9RQ2lrWVVidUl0NUxGdHhLZUphUXk5bDY3bTFGWDJBMHZKVzhkUU1Wc29NcVVjWDdOMUI2SExabzVwSTAtX1JRNFVyQ1YtZDB0bTBkdkRWRmxlcWJCd0JZWTE0aWJ5VU5yQldEQW4xQjR5eWdlMzNjMkVMS1ZVeWRIY2EwSEUxalpJcUhqVGZtNjYwQk9jcmtlNFFGc1I5VWp1S2VERnFxUnM?oc=5",
-            "published": "2026-06-27T17:49:55+00:00",
-            "snippet": "The death toll from the earthquake in Venezuela has risen to 1,430 as rescue efforts continue."
           }
         ],
         "error": null
@@ -679,6 +679,12 @@
         "lang": "en",
         "url": "https://www.aa.com.tr/en",
         "headlines": [
+          {
+            "title": "Pro-France loyalists lead in New Caledonia's Southern Province election as turnout falls",
+            "url": "https://www.aa.com.tr/en/asia-pacific/pro-france-loyalists-lead-in-new-caledonias-southern-province-election-as-turnout-falls/3980553",
+            "published": "2026-06-28T15:12:53+00:00",
+            "snippet": "Pro-France alliance projected to win 28 of 40 seats, according to preliminary results"
+          },
           {
             "title": "Iran urges US to set timeline for ‘unconditional’ Israeli withdrawal from Lebanon",
             "url": "https://www.aa.com.tr/en/middle-east/iran-urges-us-to-set-timeline-for-unconditional-israeli-withdrawal-from-lebanon/3980543",
@@ -702,12 +708,6 @@
             "url": "https://www.aa.com.tr/en/middle-east/israel-strike-kills-2-palestinians-in-new-gaza-truce-violation/3980518",
             "published": "2026-06-28T13:59:28+00:00",
             "snippet": "Drone strikes group of civilians in northern Gaza, witnesses say"
-          },
-          {
-            "title": "‘What a loser:’ Former US President Biden slams Trump",
-            "url": "https://www.aa.com.tr/en/americas/-what-a-loser-former-us-president-biden-slams-trump/3980516",
-            "published": "2026-06-28T13:57:27+00:00",
-            "snippet": "Joe Biden accuses Donald Trump of narcissism, incompetence, corruption"
           }
         ],
         "error": null
@@ -799,7 +799,7 @@
           {
             "title": "Live blog - US-Israeli war on Iran",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVEhNQklMdFBPSUx5dklGZ2FvekpoQkdfTE9GUHdSQU5NaHB2bUZaaV9uLU9wbEUtNDVhaXhPako0RkhsTjNHUWhNXzZobUlIRGE4aHJfRjk5Y3BSU3VN?oc=5",
-            "published": "2026-06-28T08:15:00+00:00",
+            "published": "2026-06-28T14:59:35+00:00",
             "snippet": "A live blog covering the US-Israeli war on Iran."
           },
           {
