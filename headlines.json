@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:28:29.836954+00:00",
+  "updated": "2026-06-29T23:57:41.692203+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+            "published": "2026-06-29T23:29:41+00:00",
+            "snippet": "Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza."
+          },
           {
             "title": "Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis",
             "url": "https://www.aljazeera.com/news/2026/6/29/marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisis?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
             "published": "2026-06-29T20:24:15+00:00",
             "snippet": "A number of senior politicians have been detained in a wave of arrests."
-          },
-          {
-            "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
-            "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
-            "published": "2026-06-29T19:08:43+00:00",
-            "snippet": "Israeli rights group B’Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers\""
           }
         ],
         "error": null
@@ -48,6 +48,24 @@
         "url": "https://www.middleeasteye.net",
         "headlines": [
           {
+            "title": "Centcom commander meets Lebanese president, US troops",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-commander-meets-lebanese-president-us-troops-during-middle-east",
+            "published": "2026-06-29T23:54:26+00:00",
+            "snippet": "Centcom commander meets Lebanese president, US troops The commander of US Central Command (Centcom), Adm."
+          },
+          {
+            "title": "Witkoff says nuclear negotiating team has left for Qatar",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/Witkoff%20says%20nuclear%20negotiating%20team%20has%20left%20for%20Qatar",
+            "published": "2026-06-29T23:47:01+00:00",
+            "snippet": "Witkoff says nuclear negotiating team has left for Qatar US Special Envoy Steve Witkoff told lawmakers that the technical team responsible for nuclear negotiations with Iran has left Switzerland for Qatar, according to Politico, citing sources familiar with the discussions."
+          },
+          {
+            "title": "Violence continues in Gaza and West Bank, UN warns",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/violence-continues-gaza-and-west-bank-un-warns",
+            "published": "2026-06-29T23:34:07+00:00",
+            "snippet": "Violence continues in Gaza and West Bank, UN warns The situation in Gaza and the occupied West Bank remains \"volatile\" despite a US-brokered ceasefire agreed to in October, according to Ramiz Alakbarov, the UN's deputy special coordinator for the Middle East Peace Process and resident and humanitari"
+          },
+          {
             "title": "Israeli court says comptroller overstepped authority in 7 Oct attack probes",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-says-comptroller-overstepped-authority-7-oct-attack-probes",
             "published": "2026-06-29T23:25:04+00:00",
@@ -57,24 +75,6 @@
             "title": "CPJ board member removed as it undertakes review of journalists killed in Gaza",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cpj-board-member-removed-it-undertakes-review-journalists-killed-gaza",
             "published": "2026-06-29T22:57:51+00:00",
-            "snippet": "CPJ board member removed as it undertakes review of journalists killed in Gaza Submitted by MEE staff on Mon, 06/29/2026 - 19:42 Nika Soon-Shiong asked why some Palestinian journalists are excluded from the Committee to Protect Journalists' death toll The sister of Al Jazeera video journalist Ahmed"
-          },
-          {
-            "title": "Iran's Pezeshkian says US talks hinge on mutual commitments",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-pezeshkian-says-us-talks-hinge-mutual-commitments",
-            "published": "2026-06-29T22:56:16+00:00",
-            "snippet": "Iran's Pezeshkian says US talks hinge on mutual commitments Iran's President Masoud Pezeshkian said US-Iran talks depend on both sides honouring their commitments, saying \"mutual understanding is a bilateral matter.\" “If the American side adheres to the memorandum of understanding, we will also fulf"
-          },
-          {
-            "title": "UN official condemns Israeli attacks on Gaza, occupied West Bank",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-official-condemns-israeli-attacks-gaza-occupied-west-bank",
-            "published": "2026-06-29T22:19:39+00:00",
-            "snippet": "UN official condemns Israeli attacks on Gaza, occupied West Bank Ramiz Alakbarov, deputy special coordinator for the Middle East Peace Process, said the situation in Gaza and the occupied West Bank remains “volatile\" and called on the US-brokered “ceasefire” in October to be respected."
-          },
-          {
-            "title": "CPJ board member removed as it undertakes review of journalists killed in Gaza",
-            "url": "https://www.middleeasteye.net/news/cpj-board-member-removed-undertakes-review-journalists-killed-gaza",
-            "published": "2026-06-29T21:38:08+00:00",
             "snippet": "CPJ board member removed as it undertakes review of journalists killed in Gaza Submitted by MEE staff on Mon, 06/29/2026 - 19:42 Nika Soon-Shiong asked why some Palestinian journalists are excluded from the Committee to Protect Journalists' death toll The sister of Al Jazeera video journalist Ahmed"
           }
         ],
@@ -206,34 +206,34 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
-            "title": "Baqaei: Iran will not attend negotiations with US in coming days",
-            "url": "https://en.irna.ir/news/86196483/Baqaei-Iran-will-not-attend-negotiations-with-US-in-coming-days",
-            "published": "2026-06-29T21:27:42+00:00",
-            "snippet": "Tehran, IRNA – Foreign Ministry Spoksaman Esmaeil Baqaei has denied claim that Tehran and Washington will hold talks in Qatar in the coming days."
+            "title": "Iran says no technical talks with US planned in Doha this week",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFZlSEI0NGQwNENrMDRya0ZJVlpEZ0FfLVdrdEdocm5YQTJuVFVqY3ZveDVwN1RSRnE5dGJsNzMtV0puOFJQU3VsQU9IVjhJYkFCd2dZWC0yMXp0MUpXZ1pRSnJ2UnBTS3hhMW1QbkxLWWktenNQNVRKaUFtbklmLVU5MnhyS2c4bjFXcGxpenB0VjIxaFRramxBa9IBR0FVX3lxTE9uQ2pUQll2X3hxaHpjMXctZ1lLMjdrLTc3cnUybGhleVVUZkhXMDNuTElqWDRnZG9OR1VFZUdSRC1XY0xPcE1j?oc=5",
+            "published": "2026-06-29T12:31:30+00:00",
+            "snippet": "Iran says no technical talks with US planned in Doha this week IRNA English"
           },
           {
-            "title": "Gharibabadi: Demining Hormuz Strait only to be done by Iran",
-            "url": "https://en.irna.ir/news/86196408/Gharibabadi-Demining-Hormuz-Strait-only-to-be-done-by-Iran",
-            "published": "2026-06-29T18:45:20+00:00",
-            "snippet": "Kazem Gharibabadi, the deputy foreign minister for legal and international affairs, emphasized that the demining of the Strait of Hormuz will be solely conducted by Iran."
+            "title": "$6 billion of Iran’s frozen assets to be released, says President Pezeshkian",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUJ6UlE5NGdSMDBrV0JMdnNnOHZCRUJ6ODNILUhFWGJPRkNMQktsbDhEYk9Eb19TSG5SeG1Vd1dMQ2J2ZHJTRTlIUWJ0a3FLNG1PSmZrNkFZWVVFNENrYWoyWUNnY2twQVJmOFFCZ0JsWjQ2UjJObFlvM0VhNHV0LXBPTl9MN3RFZ2lMdWUtaGFLd3ZxS3JrcC1LMWHSAUdBVV95cUxPMm02WlVRRldGNkRVQ3puV2VzdE9BLUhaYUVNME5UQVM5SWEzR0hON1lMbG5LejJEQW0wVzRRV2V3MzJTU3dPWQ?oc=5",
+            "published": "2026-06-29T09:36:18+00:00",
+            "snippet": "$6 billion of Iran’s frozen assets to be released, says President Pezeshkian IRNA English"
           },
           {
-            "title": "FM Araghchi: Iran-Iraq solidarity reflects deep religious, human bonds",
-            "url": "https://en.irna.ir/news/86196331/FM-Araghchi-Iran-Iraq-solidarity-reflects-deep-religious-human",
-            "published": "2026-06-29T16:59:26+00:00",
-            "snippet": "Foreign Minister Abbas Araghchi thanked Najaf officials, religious authorities, and the public for their solidarity, describing it as a reflection of deep religious and human ties between Iran and Iraq."
+            "title": "Iran, Oman convene first meeting of joint Hormuz committee",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ERXRyRGVoN0VLQzc1Rk9mb2JlbUtwbHMweUc4MXIxUmNZVHRyNDlWc0hCY29JQlQtQm9kT1gzUXJnSHoxUzJ30gFHQVVfeXFMT0RFdHJEZWg3RUtDNzVGT2ZvYmVtS3BsczB5RzgxcjFSY1lUdHI0OVZzSEJjb0lCVC1Cb2RPWDNRcmdIejFTMnc?oc=5",
+            "published": "2026-06-29T09:16:02+00:00",
+            "snippet": "Iran, Oman convene first meeting of joint Hormuz committee IRNA English"
           },
           {
-            "title": "Iran appoints representative for Expo 2027 Belgrade national pavilion",
-            "url": "https://en.irna.ir/news/86196299/Iran-appoints-representative-for-Expo-2027-Belgrade-national",
-            "published": "2026-06-29T16:12:38+00:00",
-            "snippet": "Iran has appointed Kasra Nouri as its representative for organizing the national pavilion at Expo 2027 Belgrade."
+            "title": "In photos: Reshadat; Persian Gulf’s largest oil processing platform",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1CaXo0XzhUdzUxZ0FDbmw3amdhdXFfVkVvZm5ZZkgzVmxacE0xOEJncUo2TGJGNUpUQldCZGd5VWl2Y3Z6SHBz0gFHQVVfeXFMTUJpejRfOFR3NTFnQUNubDdqZ2F1cV9WRW9mbllmSDNWbFpwTTE4QmdxSjZMYkY1SlRCV0JkZ3lVaXZjdnpIcHM?oc=5",
+            "published": "2026-06-29T06:17:48+00:00",
+            "snippet": "In photos: Reshadat; Persian Gulf’s largest oil processing platform IRNA English"
           },
           {
-            "title": "Araghchi meets Karbala governor to coordinate funeral of martyred Leader in holy shrines",
-            "url": "https://en.irna.ir/news/86196321/Araghchi-meets-Karbala-governor-to-coordinate-funeral-of-martyred",
-            "published": "2026-06-29T16:00:28+00:00",
-            "snippet": "Foreign Minister Abbas Araghchi met with the governor of Karbala to arrange the funeral of the martyred Leader of the Islamic Revolution in Iraq’s holy shrines."
+            "title": "Foreign dignitaries to begin arriving in Iran on Friday for martyred Leader’s funeral: VP",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1VWcEdLOUwwYUlweHlLcnhmeG50clVOSWt4UU41MzdKNEVuU2FZLVdDLXNKbXpVQ1lQT01iRVBvdU1USk0ya0RUVk1qbmEyMTZydTIwOVl5ZDJ3ZEp1ZlQ3RHl4ZmtadkZXX0RVS2RWUzd5aFo3RlcwSVFObzJiTGJQZ3JKNGxzRmdXV09KMzBJYndjMXpTd1p1MG5pdFRCZFAw0gFHQVVfeXFMTXlTR3lER185Vmk4RzlfeGc2emI2bEJ2UmlqS0dPYTdqMzVjUzlpOEM1eF83bWZNVERXSGw5bkpFc0s4bEpHaHM?oc=5",
+            "published": "2026-06-28T19:31:46+00:00",
+            "snippet": "Foreign dignitaries to begin arriving in Iran on Friday for martyred Leader’s funeral: VP IRNA English"
           }
         ],
         "error": null
@@ -302,16 +302,16 @@
             "snippet": "Witkoff and Kushner are expected to attend an Iran meeting in Doha."
           },
           {
-            "title": "Wildfire burns through southern protected forests in Iran - ایران اینترنشنال",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xUWFiT2g4N2tUYUlpa20wSUk5Rnlsd3BPd09uRy05RE5KU2JRMnVLaFNZWUZCSFdyaUdGdTNZMk1zY0JTZzR0emRLUFhtUXdZN2c?oc=5",
-            "published": "2026-06-29T11:36:28+00:00",
-            "snippet": "Wildfire burns through southern protected forests in Iran ایران اینترنشنال"
-          },
-          {
             "title": "Trump says Iran requested meeting in Doha - ایران اینترنشنال",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oYkdFUjhrU2NwSHl1ZVl5bWdVV29ncW8zc0diN3d2eWdxY2UzOVNxTFpES1RhQTF3S1RmWnlwa3FiYlpKNUkxa0hnZzRLVE9mMXc?oc=5",
             "published": "2026-06-29T11:36:10+00:00",
             "snippet": "Trump stated that Iran had requested a meeting in Doha."
+          },
+          {
+            "title": "Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
+            "published": "2026-06-29T03:58:15+00:00",
+            "snippet": "Why falling oil prices don't mean Hormuz crisis is over ایران اینترنشنال"
           }
         ],
         "error": null
@@ -324,6 +324,12 @@
         "lang": "en",
         "url": "https://www.jordantimes.com",
         "headlines": [
+          {
+            "title": "Israeli forces kill Palestinian teen in West Bank",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXVSVHlyRmR0NW4wbW8ybjBZWW52NFg5Tm5PZTdyM0VjVU9sZTRRYjA3eHdoQzVuNUJsNXIzZm1FQ0tLOGxxRGFrakdLdDMwVnlsVVlsSE9naTgwbEdlYll4dUk4VDNLbkVOQ1ZHVExiazREaVhMQ2hqSmhlQzN0OHdYZFBWLXZYdGlqSGZB?oc=5",
+            "published": "2026-06-29T18:59:03+00:00",
+            "snippet": "Israeli forces kill Palestinian teen in West Bank Jordan Times"
+          },
           {
             "title": "Citizen’s remains recovered from rubble in quake-hit Venezuela — FM",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEs3ZkoxX2ROcVdCYWhtblhQQ0RicTd2OXVaTnpuS1ZpcEwzbDFUNmdEakVxbnM3RTNVNDVkRGx3cnRtVGtkRGJhaFVVNnV2bFQxdUdHb3p4dHktd2tTVkdvR1A2WWxmRUFNT2MwNnZoeWRBdkdxRklab2NLRV9hRVlsMmF2MnRERG9IbzBfdi1LZy1Ta05zWXZycEtBQXp1?oc=5",
@@ -347,12 +353,6 @@
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmp1d01obUFzbHBYRHpxYXRjX3NWSV92UFZMVU9IOFYwWVhQSFdLS21JaEUtdkpYTk9ZT1BZb2s0QmVaWmJvbzhQOGUxR0tWRk5ZemNkYy12Y2ZWalJWVEp5OWVNZXRkcXhHak5PLUlIRVcxaGdScWtSejdCS2VrUjA0bWtHWmdyQzR6TXEzV0RYZGlL?oc=5",
             "published": "2026-06-29T13:28:27+00:00",
             "snippet": "Syria has condemned Israeli incursions following recent violence in the south of the country."
-          },
-          {
-            "title": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVh1RTRXNmotWXd2LTY0endEZEg4NkFzdDh5UklCcGdheFRTanRKenF3d0d2VUxrRzBobDkyV2tCN3hJbDlQZ2hWMmN4NFBtZ1pCNzhOeVZfTmNQNTNvNTJEVXNESVlMWTg5Wjl0ZTBvMmxPV1hsekFnMC1xVTdDNkJjUlNIRHhyYXRWUEVySWVyeG1Jak9xUEJLTmdXdF9WZlVmS2pB?oc=5",
-            "published": "2026-06-29T12:58:47+00:00",
-            "snippet": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms Jordan Times"
           }
         ],
         "error": null
@@ -481,34 +481,34 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "إم إس ناو عن مصادر: روبيو أكد في إحاطة للكونغرس أن إدارة ترمب لا تعيش في وهم أن المفاوضات مع #إيران سهلة",
+            "title": "قوات الاحتلال تداهم المنازل خلال اقتحامها الواسع لمدينة يطا جنوب الخليل",
+            "url": "https://www.almanar.com.lb/article/987862/",
+            "published": "2026-06-29T23:47:22+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "بوليتيكو عن مصادر: ويتكوف أخبر المشرعين أن الفريق الفني المسؤول عن المفاوضات النووية غادر سويسرا إلى قطر",
+            "url": "https://www.almanar.com.lb/article/987852/",
+            "published": "2026-06-29T23:34:24+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "بوليتيكو عن مصادر: روبيو وويتكوف أكدا للمشرعين أن إيران لم تتلق أي أموال حتى الآن بموجب مذكرة التفاهم",
+            "url": "https://www.almanar.com.lb/article/987842/",
+            "published": "2026-06-29T23:33:15+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "إم إس ناو عن مصادر: روبيو قال للكونغرس إن هناك احتمالا لفشل المفاوضات لكننا نريد منح المسار الدبلوماسي فرصة",
+            "url": "https://www.almanar.com.lb/article/987832/",
+            "published": "2026-06-29T23:29:57+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "إم إس ناو عن مصادر: روبيو أكد في إحاطة للكونغرس أن إدارة ترمب لا تعيش في وهم أن المفاوضات مع إيران سهلة",
             "url": "https://www.almanar.com.lb/article/987817/",
             "published": "2026-06-29T23:28:13+00:00",
             "snippet": ""
-          },
-          {
-            "title": "سفير العراق لدى روسيا: بغداد ترغب في الانضمام إلى مجموعة “بريكس”",
-            "url": "https://www.almanar.com.lb/article/987797/",
-            "published": "2026-06-29T22:57:03+00:00",
-            "snippet": "أعرب السفير العراقي لدى موسكو، عبد الكريم هاشم مصطفى، في حديث لوكالة تاس، عن أمل العراق في أن يصبح يوما ما جزءا من مجموعة “بريكس”. وقال السفير: “مجموعة بريكس هي منظمة مهمة للغاية، وآمل أن يصبح العراق جزءا منها يوما ما”."
-          },
-          {
-            "title": "فقدان أكثر من 100 فنزويلي تم ترحيلهم من الولايات المتحدة قبل ساعات من وقوع الزلازل",
-            "url": "https://www.almanar.com.lb/article/987782/",
-            "published": "2026-06-29T22:43:54+00:00",
-            "snippet": "أفاد ناجون بأن أكثر من 100 فنزويلي تم ترحيلهم مؤخرا من أمريكا كانوا محتجزين بفندق عندما ضربت الزلازل البلاد، مما أدى إلى حالة من الفوضى للبحث عن ناجين وانتشال الجثث من تحت الأنقاض وذكرت وكالة “أ."
-          },
-          {
-            "title": "أهالي بلدة بيتا جنوبي نابلس يتصدّون لهجوم ينفذه مستوطنون على منطقة الحرايق في البلدة",
-            "url": "https://www.almanar.com.lb/article/987772/",
-            "published": "2026-06-29T22:39:00+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "بوليفيا تلغي ربط سعر صرف الدولار بعد 15 عاماً لإنعاش الاقتصاد في خضم أزمة حادة",
-            "url": "https://www.almanar.com.lb/article/987757/",
-            "published": "2026-06-29T22:20:06+00:00",
-            "snippet": "قررت حكومة الرئيس البوليفي رودريغو باث إنهاء سياسة تثبيت سعر الصرف التي استمرت 15 عاماً، وسط نقص حاد في الدولار أدى إلى ظهور سعر موازٍ يصل إلى ثلاثة أضعاف السعر الرسمي."
           }
         ],
         "error": null
@@ -571,12 +571,6 @@
             "snippet": "A nutritionist revealed the best foods for heart and body health during the summer."
           },
           {
-            "title": "سموتريتش: لولا تدخلي لانتهت الحرب في غزة قبل دخول رفح",
-            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOV0ZMRm5tNGJwcnB4bTMzSE5BWkJjcTBWZjNBc29YY0MwaG5lamYzOWFJRGxwY0FJdWxLVms0RzRhN0swNnM0ZmlCa2FZQnlWMVNuWjF6bnU3RE9uMWRaRl95dnYyRC1XZGxBNHduZWVyby0ybzdfWmFmcV93MGVKN1BWU21VUTg5MmlBY0xvWTVwM01peHdBb0gyR0FrZGE1bW1jTF9ldkpSUnZ5clkxbWJzM0tPVkdPTHdQS2VjckVVdUlNeFB2VWwxeUhHcHdjWWNkNWJSREhRYTR6N1Via1pGbEdCTWpZdjF5YVJkN3FuYVhhSXBZRUNBdGZaRjVsbTJhdTlFOUtwMVp3WFkxY3c4UDFjcW9yaThaVVVhdEI?oc=5",
-            "published": "2026-06-28T14:30:00+00:00",
-            "snippet": "Smotrich claimed that without his intervention, the war in Gaza would have ended before entering Rafah."
-          },
-          {
             "title": "شهيد وأربعة جرحى في قصف إسرائيلي استهدف منطقة شمال غرب خان يونس",
             "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWGJuQS1qS0NPdjB2ZUJ0VnlpZGUxLVpTVFlsRDZOckoyLXRkdFZSd0tqeUVhWnEwNTFMS19oNlBsaHVmV2I2WjVmMWRyUWZMdTBIU1dPWXhRb0J5LVQ3dEtHYnJhZTU0MEFpU2pVVWNFY0dBWmM4dWJnV2lIaGwzb0lORTBaUmVybzhTTXZrRDhHYl95dXZUd2tPWFo2ZHZjbWUxbmVGVGVobkZiSXptZHFrMVpMcTNvSVhTQ1RwQ2RFRXYtT0pJdkhGenBNWGp5cDVPdndOX2EtRFdnUTFFdUR6djYwY3pGMW90QXZmay1zOG41V2wwT0FWeEV1al9QZGU0QlBwRjdxTloxSUp5bXpRS2VibVhLaGc?oc=5",
             "published": "2026-06-28T14:21:00+00:00",
@@ -587,6 +581,12 @@
             "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSWMyanlERGozaThfeVdqZFpoMXV1YUR1MHFIWjVIM3RLWlFncGJWRmJxU3J3YzNFQVNERXVkR2ZNZ0tsY0swdFJaYjFZTlFZT0JhaHpEaUdDTjc3NG1PeEpmcVBldzNEb19WbFotX2NZR0VVYXNqbHdmaFRESUx0bnlmeE5SNTZLQ1lVeGFDOHR5QUN3YXNldFJIR194ZktIQThBamRzVHRWVUdqZ29rMmRMVFJsOU1LTzE4Vl9KVzhvNTZSdTFQNTZYOEdNQnMtaVlyM1ZvWGRUdU1XRHZfbW5ubG91OVRqSVZ6ejU1LTNtRmlvVVhUdXp5My1GRzRZMWd6SXU2ZmUxSWg2ckNnbzEycVY0UTdYVkgycjctT0lnaTc5dzVB?oc=5",
             "published": "2026-06-28T13:08:00+00:00",
             "snippet": "The occupation extended the administrative detention of prisoner Samaah Hajjawi for the third time."
+          },
+          {
+            "title": "بالأسماء.. الاحتلال يفرج عن 14 أسيرًا من قطاع غزة",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ1Rpby1Wdk84ME1LWlQxYk1fUjFfTUNSaGNETEtwd19ackdkSXp2a0tqSndKVEhkT2dlQW5lUGZtWEpkUWFDNHUzQm1GMno0N2dBN2F5Z2NMV0U5VG1sMDFwb0FTWXhwVWlUb3V6Z0dfU3lldHU5djN3YmtxZzViZk00MXVJX0NnYWdtVnhFcWRaMTNEMnpsbDNFQWJWYk1ULW9xODNUeXB5LVBiQ08zWktnUjltNU5qYVpoZnA5eWVVYXg1dmZrb2h5bE9qdHVUUklkQzVEYjd1LVVIQjNxRHItTlJfdnkySmQ5T2ZNWjZBY0oyS1poRnhlMmJ3WFVSMjYtM2NuOUlwS3pp?oc=5",
+            "published": "2026-06-28T12:44:00+00:00",
+            "snippet": "بالأسماء.. الاحتلال يفرج عن 14 أسيرًا من قطاع غزة paltoday.ps"
           }
         ],
         "error": null
@@ -639,10 +639,22 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema",
-            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0dGpyamIyRWE4c3pSSnpHaWdhSGVsQjFkeWxfMmtBTDlaY1Y0YnVGaGpyV1NzZGVsWmxCM3NzYnZIMHg2eDlj?oc=5",
-            "published": "2026-06-29T21:33:12+00:00",
-            "snippet": "Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema Gulf News"
+            "title": "Sales Support Site Engineer",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqZHNrQWZmX1VnTUQ0N0tLdmhhUWxXRDlvblQ4b1g4eVFjNl9ucmFFS0RpUFpqUjhQcW42ZFlUTUdtdklFOXZvcVZRRUJTS0tiNjFtRXZBSEJTZXhnRlFkZXdlZ1lWbHZkNElXYzRZTzZnRHc?oc=5",
+            "published": "2026-06-29T17:40:28+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "Administrative & Accounts Coordinator (DIP OFFICE )- Lady staff preferred",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG1CNnExa2tLampBSkR3SXozVWVPWUdwcXBBYm4xT2xKWUl0TXJIUjRnYjhSRTFjOWF4QlpBYV9FOTF0TV9WbXNCT0RqbVNraFpIMnpIOVBiR1A1aGFLMUJtTC12aTl1VFRqejU4Y3lqVlRoOE1Da2lsd1VybzU1S1ZQU2hCQm5EcXVTSQ?oc=5",
+            "published": "2026-06-29T17:40:28+00:00",
+            "snippet": "Administrative & Accounts Coordinator (DIP OFFICE )- Lady staff preferred Gulf News"
+          },
+          {
+            "title": "Design and Documentation Engineer",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IcENrSTEyQXBndENvbE45QlAzdnhYdnN5QmVsSXFmanBDNGNNcWNMcnJidmFnVzg0Y1dPaTF5d2V5WmZVX0hlWnp5WFpxRDFpa09RQldYWC1reXR6LTZCbGNZczMydmNzNnp4Nk5na3YzSndrRTZOQVVRZw?oc=5",
+            "published": "2026-06-29T17:24:27+00:00",
+            "snippet": "Design and Documentation Engineer Gulf News"
           },
           {
             "title": "WhatsApp usernames are here: Your phone number may no longer be needed to chat",
@@ -655,18 +667,6 @@
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVlSS2pnZjlvNkM3bGk4NHpEai1sMXpNaDNJWGp2SHJHRGtrZmxYSkFqZF9TWUk2dl9WMTJUemhydW83c0hvRThkem5iTlA3bmplTXlnRmhFT3BsbW9ZZERmaElFUGRDRmQxSDgxVnFiT3Exd1ZmOHc2R3hDYnNOel9mQnduRGtySmtIeDN6c29ZbGlrdnpSaDZ3RG5GVmVWNnpRTXFWVXJkWXpLMDJhcUt3aUljbGZGVnNJRER5SS1qdElJ?oc=5",
             "published": "2026-06-29T15:10:25+00:00",
             "snippet": "Indian Embassy extends suspension of regular Indian passport and visa appointments in UAE Gulf News"
-          },
-          {
-            "title": "Millions in cash, gold and mass arrests: Iraq's anti-corruption drive escalates",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVNMcEpLM2k3eHdZMDA4V0t3ZFBWVVpULVdCalJjUUR4X0NrRHZXWmpxTjhlNk1oS1EtQVRaNGZIdUFnQUE0WmJMSUJMQXM1c0pNeGR1UnJCN1lpLUZmaWw2OVdOYlNCSk50dU1TQWZ1MVJOMnFKb19pSzJyUFVTOWVTbzFkdkNXajMweF96OUx3RlBRalRvR0d0NC0wYVZQMjBxN1JNVmVJRUhFVEhnRWZzc3BwRE1kSndwZFhMV1k?oc=5",
-            "published": "2026-06-29T14:56:09+00:00",
-            "snippet": "Millions in cash, gold and mass arrests: Iraq's anti-corruption drive escalates Gulf News"
-          },
-          {
-            "title": "Hormuz traffic falls after vessel strike; Iran and Oman discuss strait management",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbXJfVFJaeXVjMUJxekRyNVlvbm9Pc25JZWNKQ1VXdk1xX0d1WnRxUUwtUWI2M3lhdElmVkx1bUJUSVRIZjlYbGVYRTNyRko1MHVVNGdGX3drTzBtVE5XMzZXTXllN0xRYUpDakR2M3NhaE5LTzRMc0phb2JPR2tkOHA3ZVhiYXRJS1BwenFPeWFGeXFkWnF6T2YtMXR6T1dTSGJjOHBkYXJ4NGRRVVVTdFkzcVBCME5TUzR0TTNPMjFNQdIB1AFBVV95cUxPYzlqQWhDR1J3eXlHbWczMFVHejFMU0p5OG1qUEdqaENMMk1zQUZlVUIxVThuYXluNHNaVFR1THgxRGJpYTRJZXZRUTZ1REdnRUU5Zy1Qc1hlWDZWZk15VTR0S3h2M2NBSkJVM0dKNXNOdFQ1VmtkbWJkZlBjV0tYdHpCcjJYRm5MNnNwbEt6WTdwZVZ2QzBTM0NDQ1A5aFBpUVJIOGhHNFdNd3B4eC1CdEE2WXZOdkdOTjNZMVNIOGtQZVg1SzN0bEVNbEg2cktjNlR1Tg?oc=5",
-            "published": "2026-06-29T14:12:27+00:00",
-            "snippet": "Hormuz traffic falls after vessel strike; Iran and Oman discuss strait management Gulf News"
           }
         ],
         "error": null
@@ -764,6 +764,12 @@
             "snippet": "Stellar Latest News, Top Stories - All news & analysis about Stellar Hürriyet Daily News"
           },
           {
+            "title": "Eu Tensions Latest News, Top Stories - All news & analysis about Eu Tensions",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RbWFyam56SEhpeGQwQWxGcGZsV3hwazI0Wm9QN3ZUUFNMa1NCaWxPb1RlaEhCbnU5d0xsMWM1OE1rNWxuVjhPZm1pYk5sazRtUy03U0pXUXA0dFluQUtRMnZDaldRQm5FVG5N?oc=5",
+            "published": "2026-06-29T17:19:13+00:00",
+            "snippet": "Eu Tensions Latest News, Top Stories - All news & analysis about Eu Tensions Hürriyet Daily News"
+          },
+          {
             "title": "Iraq to widen corruption operations after arrests",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHBZYmVtcVJjSEJucEVzd0duc0RSUFE3R1dhRmhIa2RaWUdkYm5nbmt4R21fLUJNUmctcDVfWG1rWUU0ZTg0blhxa0lUekpzNmtrMDRER2EybmRleEJCV3JiVTAzenRpMnFyVTU0N25MMmVHT092ZkxSSFhvTURmM05ocmExa3VSZ1c3X2RSSDdxZjYt?oc=5",
             "published": "2026-06-29T08:51:07+00:00",
@@ -780,12 +786,6 @@
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWdaQVBuY0V3M1Jac05MbzRrWFdpT3BZWmZDNGh2SjlZTV91MXlfRzF3d0lnVjBwV2NtMFlrT1lYTWJ0TlJ1V0hhRFloVHFNOTR6dFVjRjVtOXo0eVlYWTZXVmhidWY2ZHgzLVRWZXJxQkVYUnEwQXVWMmJfYzVZUHlRUDR2dG9KajA4T0U1UVZvMFdLWXVVYjBn?oc=5",
             "published": "2026-06-29T08:39:21+00:00",
             "snippet": "Erdoğan stated that Türkiye is well-positioned for a new era of security."
-          },
-          {
-            "title": "BT, Verizon to combine international units in joint venture",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWh6VE04b293Ql9naGs3b2dpTWY0eXpuVDJXUG1EaTFxUTBITEdyZ3RUQ016SUVKbGlRWkZVeWFWN3NIdGZ1el9fZTBEd1hqYXRteVVwb0JXeGxHMmFFMVZIcjNIdUNXQ1MwemVPVTFxTUltWUFnRzdTejBvZEJuWjlKMENDUXM1UzJqVFZ3cXpPa0FuV2h0VXZVTnVYa2Nt?oc=5",
-            "published": "2026-06-29T07:21:37+00:00",
-            "snippet": "BT and Verizon are combining their international units into a joint venture."
           }
         ],
         "error": null
@@ -797,16 +797,16 @@
         "url": "https://www.trtworld.com",
         "headlines": [
           {
-            "title": "Live blog - US-Israeli war on Iran",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVEhNQklMdFBPSUx5dklGZ2FvekpoQkdfTE9GUHdSQU5NaHB2bUZaaV9uLU9wbEUtNDVhaXhPako0RkhsTjNHUWhNXzZobUlIRGE4aHJfRjk5Y3BSU3VN?oc=5",
-            "published": "2026-06-29T21:50:14+00:00",
-            "snippet": "Live blog - US-Israeli war on Iran TRT World"
+            "title": "Is NATO on the verge of collapse? | Inside America",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmQxODJfRFlfUE1PcHhEUy14UWtROWowQjJTRkplaXRKUHUtU0ZabEpQeGxaVWxtaFlmY3hIekJLY2FqTGZBaWJYVUtJdW1fTDNIU3NxNW1ubU9DTy1ycUxyd2NpNkIxdDZIbWo1bVRDRF9lTkhhWllwZXd1dTY2ZE9qMk1QZEpGZWc?oc=5",
+            "published": "2026-06-29T23:30:47+00:00",
+            "snippet": "Is NATO on the verge of collapse? | Inside America TRT World"
           },
           {
-            "title": "Armenia opposes 'weaponisation' of 1915 events after Israeli recognition",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1NlgtRmw5Mnc5eWs1RUFySEphcHRxdDFvSXZOenNuVU5RSzhTdVRyMndqNDRNRlpzZXZmUnZWNFJjUmN1SEVFME40c1JtMmFzMWNvSEZlbDk?oc=5",
-            "published": "2026-06-29T19:42:30+00:00",
-            "snippet": "Armenia opposes 'weaponisation' of 1915 events after Israeli recognition TRT World"
+            "title": "Live blog - US-Israeli war on Iran",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVEhNQklMdFBPSUx5dklGZ2FvekpoQkdfTE9GUHdSQU5NaHB2bUZaaV9uLU9wbEUtNDVhaXhPako0RkhsTjNHUWhNXzZobUlIRGE4aHJfRjk5Y3BSU3VN?oc=5",
+            "published": "2026-06-29T21:30:28+00:00",
+            "snippet": "Live blog - US-Israeli war on Iran TRT World"
           },
           {
             "title": "Iran rejects French offer to clear mines in Strait of Hormuz",
