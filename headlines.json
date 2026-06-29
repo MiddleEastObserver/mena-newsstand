@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T17:35:40.926412+00:00",
+  "updated": "2026-06-29T18:04:54.834807+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,24 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "UK’s prime minister-in-waiting vows to shake up politics",
+            "url": "https://www.aljazeera.com/video/2026/6/29/uks-prime-minister-in-waiting-vows-to-shake-up-politics?traffic_source=rss",
+            "published": "2026-06-29T17:31:57+00:00",
+            "snippet": "Andy Burnham, Britain’s likely next leader, vowed to enact radical change to the nation’s politics during a speech."
+          },
+          {
+            "title": "New Israeli assault in southern Syria forces families to flee their homes",
+            "url": "https://www.aljazeera.com/news/2026/6/29/new-israeli-assault-in-southern-syria-forces-families-to-flee-their-homes?traffic_source=rss",
+            "published": "2026-06-29T17:31:08+00:00",
+            "snippet": "Turkiye has condemned Israel’s attacks in Syria, calling them a violation of international law."
+          },
+          {
+            "title": "Mehdi Hasan: Disrupting democracy’s decline",
+            "url": "https://www.aljazeera.com/video/the-take-2/2026/6/29/mehdi-hasan-disrupting-democracys-decline?traffic_source=rss",
+            "published": "2026-06-29T17:30:57+00:00",
+            "snippet": "With democracy on the decline in both the UK and US, Mehdi Hasan makes the case for independent journalism."
+          },
           {
             "title": "Supreme Court blocks Trump’s bid to fire US Federal Reserve’s Lisa Cook",
             "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss",
@@ -19,24 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
             "published": "2026-06-29T16:42:41+00:00",
             "snippet": "Tens of thousands remain missing after the devastating twin earthquakes that struck Venezuela last week"
-          },
-          {
-            "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
-            "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
-            "published": "2026-06-29T16:15:35+00:00",
-            "snippet": "Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters."
-          },
-          {
-            "title": "US petrol prices ease despite ongoing uncertainties with Iran",
-            "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
-            "published": "2026-06-29T16:01:07+00:00",
-            "snippet": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts."
-          },
-          {
-            "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
-            "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
-            "published": "2026-06-29T15:59:52+00:00",
-            "snippet": "The US Supreme Court has rejected a push by President Trump to throw out a jury's findings of sexual assault."
           }
         ],
         "error": null
@@ -93,6 +93,12 @@
             "snippet": "Lebanon president says determined to deploy army up to Israel border Al Arabiya English"
           },
           {
+            "title": "Qatar advises temporary suspension of sailing, some other maritime activities",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHBmYVJBN0hUT0Ryc0NWTm9aNnNSVnptX2FYTXptZlpQZGUxMnY1WkFKWVR4N3RJQlpORVV1dVFHcUxIN1EySXMxOFAycjhMZTA3QmUxcUF0S09Ya05vZXVmVDNEaHlRbWVMYjRDX3dnaGc0TFRlWlJmTEl6WUhMWmhmaWgyLUZNeFZLeFpWc0tGNmZYcmo4Q2Y0OFMyQXh2dzFXX0ZlNlduenV1dW94RU5WQk01bldqRzE3a1JUenU3U3VpSFpSb2hzZ9IBywFBVV95cUxNdHBmYVJBN0hUT0Ryc0NWTm9aNnNSVnptX2FYTXptZlpQZGUxMnY1WkFKWVR4N3RJQlpORVV1dVFHcUxIN1EySXMxOFAycjhMZTA3QmUxcUF0S09Ya05vZXVmVDNEaHlRbWVMYjRDX3dnaGc0TFRlWlJmTEl6WUhMWmhmaWgyLUZNeFZLeFpWc0tGNmZYcmo4Q2Y0OFMyQXh2dzFXX0ZlNlduenV1dW94RU5WQk01bldqRzE3a1JUenU3U3VpSFpSb2hzZw?oc=5",
+            "published": "2026-06-29T14:57:00+00:00",
+            "snippet": "Qatar advises temporary suspension of sailing, some other maritime activities Arab News"
+          },
+          {
             "title": "Australian Suspect on Murder of Teen Girl in Thailand",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFJTWmpIclVfNEFYUGRydFdaSFhGX2xMSkJYUmtHM0p3MWtheXJlNzRjRHJjYml5RTBHSndfRGRZZmx2OGQxSDdXdEllTlBFWmFzWDd5ZldtbnBsczdnaHVZUXlmYndyYkxCa2ctRktoTWJhTm5uQjlqeG9ESHdCMDlfVW5tWGhuSjBLalNFOXlZTzhETV9nSmlTWTdST2ZETW9pRkxqT3p4UndaSjlJ0gGvAUFVX3lxTE9MUlNaakhyVV80QVhQZHJ0V1pIWEZfbExKQlhSa0czSncxa2F5cmU3NGNEcmNiaXlFMEdKd19EZFlmbHY4ZDFIN1d0SWVOUEVaYXNYN3lmV21ucGxzN2dodVlReWZid3JiTEJrZy1GS2hNYmFObm5COWp4b0RId0IwOV9Vbm1YaG5KMEtqU0U5eVlPOERNX2dKaVNZN1JPZkRNb2lGTGpPenhSd1pKOUk?oc=5",
             "published": "2026-06-29T14:26:22+00:00",
@@ -109,12 +115,6 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlN4amxwNzFhTm5tQjdwNU9xLUxBY2NSaVpIWThka09rYmptN3hXLVA4MnN6SEc2ODdEd09WeWtJZmhDaVgxV0NwNXowdUozbXcwc1kzLXpjRkhtTWJpdkR4NS04N053ZGh4eGxJRkVFVlBYOE1ZTFprLTNwS2dDTTZOT1N0TXEwQjdlb2xhUks3SGx2Vk1jdktSSWoxdnEtVUwzdFNR0gGmAUFVX3lxTFBSU3hqbHA3MWFObm1CN3A1T3EtTEFjY1JpWkhZOGRrT2tiam03eFctUDgyc3pIRzY4N0R3T1Z5a0lmaENpWDFXQ3A1ejB1SjNtdzBzWTMtemNGSG1NYml2RHg1LTg3TndkaHh4bElGRUVWUFg4TVlMWmstM3BLZ0NNNk5PU3RNcTBCN2VvbGFSSzdIbHZWTWN2S1JJajF2cS1VTDN0U1E?oc=5",
             "published": "2026-06-29T13:50:37+00:00",
             "snippet": "Witkoff, Kushner to Attend Iran Meeting in Doha Al Arabiya English"
-          },
-          {
-            "title": "Turkey ‘strongly condemns’ Israeli incursions in Syria",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY09ZaUdBdmF6YXlmWV9SSGR6MjFKYktmS2dZQndERWQ2c2Z3YzgzajdaaUdXTVJZNFRPOExoOXFBQnFmNkhIRWtJWUxwZTAyZ2VYbWp6MXV1VVBVZjV1cnlVd19lMXdPZUwtMFJtV2VmRWlscGhjZWdyTG1IOUdJQjVtNmJ2VUxhRDhQUzdlUnRWUVFyT1FYVkk2Y1J4OHlMVGNZZlVaMVdNdWtEV010dzNqbGrSAbQBQVVfeXFMT2NPWWlHQXZhemF5ZllfUkhkejIxSmJLZktnWUJ3REVkNnNmd2M4M2o3WmlHV01SWTRUTzhMaDlxQUJxZjZISEVrSVlMcGUwMmdlWG1qejF1dVVQVWY1dXJ5VXdfZTF3T2VMLTBSbVdlZkVpbHBoY2VnckxtSDlHSUI1bTZidlVMYUQ4UFM3ZVJ0VlFRck9RWFZJNmNSeDh5TFRjWWZVWjFXTXVrRFdNdHczamxq?oc=5",
-            "published": "2026-06-29T13:37:00+00:00",
-            "snippet": "Turkey ‘strongly condemns’ Israeli incursions in Syria Al Arabiya English"
           }
         ],
         "error": null
@@ -126,14 +126,20 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "UN chief slams 'relentless' Israeli settlement expansion",
+            "url": "https://www.newarab.com/news/un-chief-slams-relentless-israeli-settlement-expansion",
+            "published": "2026-06-29T18:00:55+00:00",
+            "snippet": "UN chief Antonio Guterres has warned the \"relentless\" expansion of illegal settlements is contributing to the largest displacement of Palestinians since 1967."
+          },
+          {
             "title": "Israel killing West Bank children 'at highest rate since 1967'",
             "url": "https://www.newarab.com/news/israel-killing-west-bank-children-highest-rate-1967",
             "published": "2026-06-29T17:15:53+00:00",
             "snippet": "Israeli rights group B'Tselem says almost a quarter of the 1,086 Palestinians killed since 7 October 2023 have been children or teenagers."
           },
           {
-            "title": "Trump says US, Iran to hold meeting in Qatar on Tuesday",
-            "url": "https://www.newarab.com/news/trump-says-us-iran-hold-meeting-qatar-tuesday",
+            "title": "Trump says US, Iran to hold talks in Qatar; Iran denies",
+            "url": "https://www.newarab.com/news/trump-says-us-iran-hold-talks-qatar-iran-denies",
             "published": "2026-06-29T17:07:56+00:00",
             "snippet": "Iran and the US will hold a meeting in Qatar on Tuesday after Tehran called for talks following several days of tit-for-tat attacks."
           },
@@ -148,12 +154,6 @@
             "url": "https://www.newarab.com/news/medea-benjamin-tna-israel-hated-around-world-over-gaza",
             "published": "2026-06-29T16:54:50+00:00",
             "snippet": "Code Pink founder Medea Benjamin tells The New Arab why she believes Israel is losing global support over the war on Gaza."
-          },
-          {
-            "title": "Drone Dominance: How Iran broke the US business model for war",
-            "url": "https://www.newarab.com/analysis/drone-dominance-how-iran-broke-us-business-model-war",
-            "published": "2026-06-29T16:14:53+00:00",
-            "snippet": "In-Depth: From Gulf radars to CIA stations, Iran's drones are rewriting the economics of US warfare – and driving the Pentagon's rush into 'attritable' UAVs"
           }
         ],
         "error": null
@@ -177,6 +177,12 @@
             "snippet": "بين التسريبات الإسرائيلية والصمت الرسمي اللبناني: ما حقيقة الملحق الأمني السري؟ almayadeen.net"
           },
           {
+            "title": "فيديو | برغم الدمار... يومٌ صحي يعيد نبض الحياة إلى مدينة صور",
+            "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQSldwOEJqbGhHTVNWN0k1UURmNHBJUU5NNEt5bVg2bUhQYnVHSEF5M1FhaEpvYWdQMGVCOEJXVW5NVWZ5ZzM3RDRUamMtWDNIYXBqcGtSWXZEMkMySF8xaGl3T0ZGZFlyTnhiVU1lU0t1a1JaLUZvOTZ4RkN0enB5WnpiV3o2djE4NzNIMzRBcmc3aTIxMkY5QmZDTkhyeEU4eFd3X0Y3ZlhHaUl0S0ZpVkQwUzdnMDZmUGk4UjA1ZlpMMjYwMUNZblJmXzdCX01qN0QzV1ZBS2hVdGZXX2JaZFFMUHdXaGJwMGN1NndjakJaNHE3cE5MYXVsZkpsclZFOW55czhzRFVQU0FLTjNFbDRUSnhSZ1FZR1J4NDZXbG4zeEpGcUhXT0EwcFBMd3QydXlDZ0FIajNIcnJWZW02ZTU1NjZTMmVDclpFOW1ZeWQ4WlVRTHJpVF9JY2FRaWpDVmRjcFFBVkV3RTd0aG1xSzFuZXZiVms1TG5WanlZOVV3STFXZjZXeUFrWDFpcUl5aWRsVW5meUhEaXlkUHVfQmJ4TkN2MVg5OHZRMGVnNjZSa2dIYmRQM1hQaGZYcWdIOWVOVFUtOA?oc=5",
+            "published": "2026-06-29T14:47:51+00:00",
+            "snippet": "فيديو | برغم الدمار... يومٌ صحي يعيد نبض الحياة إلى مدينة صور almayadeen.net"
+          },
+          {
             "title": "شهداء وجرحى في قصف اسرائيلي استهدف مواطنين في دير البلح",
             "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPUERzNURRRXA3eHltRXBXaFBVeXBBSGJuWFNpSUVFLUN4OWpPeVAtYTVXOXlsYmh4ZkpaRkd3dmpxRnExX01wM1lhcWhmY2d2VnZWZWFRc1hIZFBnbk5FUkdvelFMcXJSVG1mVTM1eXQ5MXlYeU1GRFRzeFo1VXVveUJ2ajNfYzFkc09FZmNvN1Y3UWhaWUNpMWR0QzNBMmUxN0hCbGVfQnJ5MVk1eWxEaGNvT21kSUYtUEptcWt2RW5UbkdDOWV4MWZVYUZVTzlCQ0NUSDdKSzJPbTg3YnRTeUxZUU1XNTdjN0RRN2tiQ0FXZzZnSFlLc2hsenFkT0M1eDZDUlpxTFVHZk5wNVJyVER2aTJNb0FRNC1TOHpuNy01bWFtVjVMU2U4elNzLTFJUWF1QU5TQ2toNXhJb2FoS1l2TDc1VUFlRFNhQmRoT01XVVNfeGF6R0pfekVGUEFEUUZfakdBV3QtRG9iT1lxbU9Nc1pKdHcyd2ZMNFhOZFR1ZUlwb2t5MU5iR2hFbkM2eThXOEt5N3NILW5sTE1TU1JPeTZGanBld21PdzdOcTV1MWduOUljd1pNblZ1VWNQd3kxNW1yN3FYams?oc=5",
             "published": "2026-06-29T13:47:00+00:00",
@@ -187,12 +193,6 @@
             "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNd2F6VTkwYm5CWUZGVVhqbWI5ZWpYZ1NJNnFaQlZyazhISngzaXk2b0gtLTVFeTAzU3AtNnNKY1lWY3hxd0J2TE0yOTJEak1HSmUySFlLOVFFdm8tS2lnSWp3Y3ozNkJiZnJVVWxWSUVSUDFyS3pCYUVrMVRFTDFKQndKUEEtMkxYTkF3SWNSZmN5Z1RkdHhvOXpkNzdLYXhiUDJ1ZFhDMmZvQ0VRUFFRdVIxY1A1bkl0RkNCeUxfZEEyQjV0T1pQOHdlRTI4NW5TeXFKb3ZHUUM3VjZtaXlsUnI5bVc5dVNUQ3JWc20yRHVTNGhrZFpNOUdHOGhxY0RnaXloYkhRczZ1YXl0RkdGak85dmcxZUtYX0RZSEdpYWlnUTAybzNySDZ2cUdMY3BSWG9aVzJVRXFOZWg5dWYwRi1DNzNsMmg1V1M1YnNCbUp4SHRtenR4dXM1MHJpanN4ZU5DYk43M05zUFJMRHB0SFJlNUNqZnZRQjNHMlI0UTRnXy0yZE82SUdFd296eHdUYXJFNVR5QUROTlprclJDUVhOVGNvY0VJbE1DbVZOQVJSb3BDa3A2WFRBNXd6NXVtUDJoeEZudVJ6bHNLZlpUUVpVWEt0dHlkV1hIT3Y4R2xDeTltU3JqRWdBaXNnQlBpaXZWVkM5UzR2RUtyWXZpcw?oc=5",
             "published": "2026-06-29T12:22:54+00:00",
             "snippet": "الولايات المتحدة الأميركية: المتحدثة باسم البيت الأبيض: مبعوثا الرئيس الأميركي ستيف ويتكوف وجاريد كوشنر سيحضران اجتماعاً \"متوقعا\" مع إيران في الدوحة غداً almayadeen.net"
-          },
-          {
-            "title": "ارتفاع تكاليف شحن البضائع مع تسابق الشركات لتجنب الرسوم الجديدة التي سيفرضها ترامب",
-            "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOVUhNVGh0OXoyaTAyTFh5Q1R0MXlrb0gxVnl1TFdfblV6MEVDaG5RcFUtQVo0VXpRMTMzMXJRNTJLYUtRaFRmYlZodTkxY3VKX1Nrci1VaTBIQTc0cXhIR2RVUkRBQ0lHX0xNeUdDY21zdjI0V3JXbzdJY1FDcUtFQzJGeGFrQ2NrbkltYm1RcXVhZktpaUt4VVZONExBUG1TeW5JeWk5NDJ6c2l0SXBDYy14V1FVNGRSOW9mX1hXR1hDLVJKNHE0SE1acjBXemVLZDFBMFl3ajBZU0NoWWNMbmhzSFZ6cUJfQWs4UTFrVEJVS1Z4VWRmVm1aY05rdVlhTzZ0eW40ZTJwQ2ppRml2a3RaRXlmWXA1Sk40Q2Uyc21FcXMtUkJVWEZCeGs2TGtaYkRDLWt3R0d1QmJrLTNjSzJiZ2UwRnRkYzhoTUxSeW9weFI5OUUyOTdrSTU5U2JpUzZCRkwxMEFmWHk4N1hhOXZQQ3J1UHJxUUdwcFgxa294bWhGVXQ0c2lnVngzUS1sWWZwSXZidXM5X2h6OWFScEVmcXVCYVdSRTZ2a0xoWDY4eXVLS05sY093ZzJ6c0FzNXNUX01CMVNYd1hGQkNJem5Kank0ZHpKRC1zb000dmUwNjZxZ0FERWlCMkg0N3hGbl9iOUZWVQ?oc=5",
-            "published": "2026-06-29T12:18:22+00:00",
-            "snippet": "ارتفاع تكاليف شحن البضائع مع تسابق الشركات لتجنب الرسوم الجديدة التي سيفرضها ترامب almayadeen.net"
           }
         ],
         "error": null
@@ -296,6 +296,12 @@
             "snippet": "Witkoff, Kushner to join Iran meeting in Doha ایران اینترنشنال"
           },
           {
+            "title": "Trump says Iran requested meeting in Doha - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oYkdFUjhrU2NwSHl1ZVl5bWdVV29ncW8zc0diN3d2eWdxY2UzOVNxTFpES1RhQTF3S1RmWnlwa3FiYlpKNUkxa0hnZzRLVE9mMXc?oc=5",
+            "published": "2026-06-29T11:36:10+00:00",
+            "snippet": "Trump says Iran requested meeting in Doha ایران اینترنشنال"
+          },
+          {
             "title": "Iran, Oman hold first joint Hormuz committee meeting - ایران اینترنشنال",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZ2NoUldGYWpPQzFYWWhicGZOMGJqc1ctQkdCYlY3bEFNaXdSeTdXNE16enczb0tQTmtaR2hFVmFacEdJUEp3ZXlGbTN1alhOT2c?oc=5",
             "published": "2026-06-29T06:34:01+00:00",
@@ -306,12 +312,6 @@
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
             "published": "2026-06-29T03:58:15+00:00",
             "snippet": "Why falling oil prices don't mean Hormuz crisis is over ایران اینترنشنال"
-          },
-          {
-            "title": "Iran's top clerical body turns on itself over US deal",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rV2JQNjVuazVTa2V1V1diNnJDUE9vUG5SZkxSc1B3VTJGRHFOS0h2Vml0enlUZE0tWk5wZHRRVVFINGQ5dDBfWTYycF96OVY0ZFE?oc=5",
-            "published": "2026-06-29T01:27:57+00:00",
-            "snippet": "Iran's top clerical body turns on itself over US deal | Iran International ایران اینترنشنال"
           }
         ],
         "error": null
@@ -337,12 +337,6 @@
             "snippet": "Syria slams Israeli incursions after violence in south Jordan Times"
           },
           {
-            "title": "Iran says no technical meeting expected with US in coming days",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWU3dEVMb1lBRGRDaUVZM1JjMHYyUWZhd3BBQVkwTzIxdzYxX1FpeTRINnlBTFk3bUNiZ1gwSnNCQjVqTU9UV3FHLWlFVVV5eDA2ZjlzdXkxalZZYmVwMkk4U05tdWR5Vm5FWkpvWDBZZi1CTlk5SXBVS3NuV0Z2anhBV3FmZFA3QjJSMEQyN21xRldJbWRIa2lzOFJkZjQ?oc=5",
-            "published": "2026-06-29T12:58:15+00:00",
-            "snippet": "Iran says no technical meeting expected with US in coming days Jordan Times"
-          },
-          {
             "title": "King condoles Saudi monarch, crown prince over Aramco helicopter crash victims",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmhyT0ktb1Vud18taG1NMVJORXNkckdIVUpibHJrQV95UjdYcncwa3Z4YTJBcHd2cTBsMmI5a0FxbE15SWZDNTFYNC1IbG1qQkE3NUNxQ2RIRnlUdGtHdUZ6OXgwTHI2aUtGUlVITW81RGpiN3FJZW5RcFpjY25iS1RzU1pOWngwbW81ckNnZ2hINy11ZmdPTmN5eE0wTFhnWWx0MUxhcVM5OVVYMnZ6XzFR?oc=5",
             "published": "2026-06-28T21:23:07+00:00",
@@ -353,6 +347,12 @@
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEVKeUp1bnJvRGRSNHVBaWQwM05CWVpLRFc5cHA5TjJ4MWZta2M4UEFXOWowbDBXZTlqSGVsVGxieVBwa1VTYm5nR0lDUHh5SzFTTUdFQ096M1dRLWlIRUxQNWVYbGJfTERiYlBwaU96Vk9rUy1sX1hWa1ZGc3prcGx5Vl9QZVc3SXNoUUVVZnRMazF5SWZ4bXQ0RFg?oc=5",
             "published": "2026-06-28T18:39:24+00:00",
             "snippet": "Orange Jordan showcased a start-up at VivaTech 2026 in Paris."
+          },
+          {
+            "title": "Jordanian rescue team launches operations in earthquake-stricken Venezuela",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaW1pOVBSbkNSdTM2cHdjck05emZ3RGI3eV9ybzB0aU0yOGxNSnRQUGFhTnpxNnB6MzBvYWtSM2FRYXR5cFhYdERZRjRMZW9HZF8tR3JXN193MTMzSWxDZHRVMTBOT3ZwbTZhREJBcHZWdGVfRUtaRTlVVWR4NFFpcllTbmk5Q21VX01jTlZNc3ZSMWY1amQwNGR1b1RtUkM5YWxMMlNlRVl5WkRFc0E?oc=5",
+            "published": "2026-06-28T18:37:14+00:00",
+            "snippet": "Jordanian rescue team launches operations in earthquake-stricken Venezuela Jordan Times"
           }
         ],
         "error": null
@@ -442,6 +442,12 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "بين الإيبوبروفين والباراسيتامول... كيف تختار المسكن المناسب؟ - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPOHVRN1JDMkhDN1pqQnV1bTUtVi14WWVKVWl6MTEwNlZmZEdRdUNEa1JLc0EtN2RDUFRRZHFra1h2UEtTTVFmYzhnbTlSVm14NThodXV1YXcyTWtqRC1ZNm5KTVczVW5FQVRDcDZyakZQNGZEbWpJV2Rsbm5WZ0NTOGJlZHY2bWx3MGhjcGlzTjRjQjRXNi16RzlOeERmOTVFeDFXbWRaNFVoTUNsUXkzQnNXeE9WcHVKU05aMVRsY1FNQ2kxTHlqb0tXTVhhcHE2LWF6R05oQjVGRUVTR2ctUld4WFpsZnRBTzc4QkJRT29ETzZMbFNBclZBUFhZdDJ0LWdPM3pKSWM0V0VwY0MzOFp1cXkzcTZ4NDE2Tk9OLUx3WDRVMFh0ZlZONEVIYlV4MjN3WUJseU16VVBsUTh5SGNwU1pYd2lfOVZDNEpKdGpoT0tBcU5MMVIxWWI3amRud0JSMDVGOFowNXBoNmV3UU5fcmgwVzNIWVR4cXBsd3BfdnE3SjZWMjZtVTU0RDFUcF9Fa2xReWtJdVVOLUREVzR5c3JvbWJ4TFdaMmFWbHNqTENfaExYTGhKUHNHa0QwYXJCU0JIcERsbF9yTDlrQXZYUWcwZ1ZxQ3RESm1TeFJpaUcwQ044VG1naWxCYlRHUnc?oc=5",
+            "published": "2026-06-29T18:01:03+00:00",
+            "snippet": "بين الإيبوبروفين والباراسيتامول... كيف تختار المسكن المناسب؟ Al Akhbar"
+          },
+          {
             "title": "إردوغان يدعو «الناتو» إلى إنشاء شبكة أمن ودفاع تمتد من تكساس إلى أنقرة - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOMHhoZGh3Y0V1Y2hKMFRRSlpYOWMzQzRUdU1yY2tENzYzQi1PZDVnelZGTkc3by1EbDNmYk9RcHNhamZsWXBWd051aEpXLU5jdnFpU1lab05ZNnRUeDdMSmhQTU9zOTBsS0RxdkpTZnhWQ0RmSmgwXzJoUkFvUGNXOW9kend1S1YxeEFnampQUFpxdVM5YnJ4SGZlSnhJUHdFXzdyRjhmYkZVOVFhQjZmTlhTejZPeFFoLXYzNXBPWXg4eGtmUTJXNTNfdm45U2xlMFc0X2FuVXJFZmx5WFZrOGJKUFpIWmplUGdCQmhJNlU2RHh5OHR4MFlYTl92QXVzM29uamVhOUNrSEVPMV93N2dLLXhTaE01SDdCUzFETW10M3ZVRi1tOFZqSjVFa3hyY3dUSkVGNGdrN0ZERFhJZXY1REI0U1FvV0lURTNtTDQyX3BQaG9yRTRNS1FYbDRDSk54WldHZ3RvSXZ6dGIzUzZYdllSMFZGdnUxd2o4R3JxSEpvWlhIcERQOU1qOVhXT0Z5NC1aWnB1MlNsWnUwN3JyUmpmUHJ5UmlVMnYxNlhFQlh6WUMtZ25ENzI3VkF6U0lFWmtaWXUxT2FnWGc1dVpFNjFKZWpveUNqQl9neW1Nd0hDUWRF?oc=5",
             "published": "2026-06-29T14:37:56+00:00",
@@ -464,12 +470,6 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpa0dSNDVwWEdRajdsV3Z0YndIYUFJcHcwVHF6Q1g3QUFEbXB5cHpFNGZaYmN1dW8wNFNRUVdKTjUxQUdMZnhPa2FzSlliN2JrdTN1dmdNVVBTQ0tkTndVcDdvS2h3bnRjVmc?oc=5",
             "published": "2026-06-28T21:30:00+00:00",
             "snippet": "«لا تمزحوا بإقالة هيكل ولا تلعبوا بالجيش» | بري لـ«الأخبار»: إملاءات أسوأ من 17 أيار... ولن يُنفّذ Al Akhbar"
-          },
-          {
-            "title": "لن نغفر لكم... فأنتم تدرون ما تفعلون! - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlOTNIc2FIN0RjNzVKUFNEOWRjR0JpVTNEbkxQSWhOQzBhRWpXUFRPd2Z6MWpMck1qWF9wYUEwWFhqQ2pUYjhrN0VGVXF3aEVWU0R1b2NOMndPcWFab2pRcURoZjBEZ2oxbXc?oc=5",
-            "published": "2026-06-28T21:30:00+00:00",
-            "snippet": "A statement declares 'We will not forgive you... for you know what you do!'"
           }
         ],
         "error": null
@@ -480,6 +480,18 @@
         "lang": "ar",
         "url": "https://www.almanar.com.lb",
         "headlines": [
+          {
+            "title": "الحدث الأمني يطارد جنود العدو وخسائر الاحتلال تتفاقم",
+            "url": "https://www.almanar.com.lb/article/987462/",
+            "published": "2026-06-29T17:53:54+00:00",
+            "snippet": "مراسلنا سامر حاج علي يطلعنا على آخر التطورات من جنوب لبنان."
+          },
+          {
+            "title": "قوات الاحتلال الاسرائيلي تقتحم بلدة عقربا جنوب شرق نابلس بالضفة المحتلة",
+            "url": "https://www.almanar.com.lb/article/987447/",
+            "published": "2026-06-29T17:46:09+00:00",
+            "snippet": ""
+          },
           {
             "title": "إذاعة جيش العدو: وزير الحرب يعترف بأن أميركا مارست ضغطا على “إسرائيل” وأوقفت ضرب بيروت وهذا الإجراء ربط الساحات بين لبنان وإيران",
             "url": "https://www.almanar.com.lb/article/987407/",
@@ -497,18 +509,6 @@
             "url": "https://www.almanar.com.lb/article/987372/",
             "published": "2026-06-29T17:07:16+00:00",
             "snippet": "اتفاقُ العارِ – المسمى اتفاقَ إطارٍ – لن يمرَّ، وهو أسوأُ بأضعافٍ من اتفاقِ السابعَ عشرَ من أيارَ، وفيه ما يكفيه للسقوطِ، كما أشارَ الرئيسُ نبيهُ بري، العارفُ بحقيقةِ نوايا كاتبيه قبلَ سوءِ المكتوبِ فيه.وما كتبه الأذلاءُ بماءِ وجههم في مفاوضاتِ واشنطن، لن يسيءَ إلا إلى اسمِهم وتاريخِهم ومستقبلِهم، أ"
-          },
-          {
-            "title": "الوعي المضاد: تفكيك شيفرة التضليل",
-            "url": "https://www.almanar.com.lb/article/987382/",
-            "published": "2026-06-29T17:06:08+00:00",
-            "snippet": "للنجاة من أي حرب، يجب على كل واحد منا أن يمتلك الحد الأدنى من التقنيات اللازمة التي تخوله البقاء على قيد الحياة ومواجهة ويلاتها."
-          },
-          {
-            "title": "وزارة الخارجية الإيرانية ردا على الرئيس الفرنسي: إيران وحدها ستتولى عملية إزالة الألغام من مضيق هرمز بحسب مذكرة التفاهم",
-            "url": "https://www.almanar.com.lb/article/987362/",
-            "published": "2026-06-29T17:05:43+00:00",
-            "snippet": ""
           }
         ],
         "error": null
@@ -639,6 +639,12 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
+            "title": "Millions in cash, gold and mass arrests: Iraq's anti-corruption drive escalates",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVNMcEpLM2k3eHdZMDA4V0t3ZFBWVVpULVdCalJjUUR4X0NrRHZXWmpxTjhlNk1oS1EtQVRaNGZIdUFnQUE0WmJMSUJMQXM1c0pNeGR1UnJCN1lpLUZmaWw2OVdOYlNCSk50dU1TQWZ1MVJOMnFKb19pSzJyUFVTOWVTbzFkdkNXajMweF96OUx3RlBRalRvR0d0NC0wYVZQMjBxN1JNVmVJRUhFVEhnRWZzc3BwRE1kSndwZFhMV1k?oc=5",
+            "published": "2026-06-29T14:56:09+00:00",
+            "snippet": "Millions in cash, gold and mass arrests: Iraq's anti-corruption drive escalates Gulf News"
+          },
+          {
             "title": "2BHK for Family only",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBObDZxX0Fxa0JxTmNvT1Fub01DNWlnYy1HRDB5UnhYakVmZ19OQVBWVWhqSU5kODA3ZW1SMEh3M0VGZVBwdVdRZEtsM3lVLUVtYnU1REJoS21LTk1sZ1lJQV8wbU1OSzAt?oc=5",
             "published": "2026-06-29T13:21:25+00:00",
@@ -661,12 +667,6 @@
             "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xVmxRRzQxU1ZyZDVfQlBvc1lxREJ3U1l3V2dkbUZNZ2xidjFIeEJfcVFfeXVvODB6TmEwODlxTHRCeE5Ja1E?oc=5",
             "published": "2026-06-29T11:55:37+00:00",
             "snippet": "Latest Asia News & Top Stories Gulf News"
-          },
-          {
-            "title": "Breaking the rage mould: Ali Fazal’s restrained cop anchors Raakh’s unsettling tale of India’s most disturbing killers",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRHJwV3NleUFxOHZneDV3Vkp3dTRCS0gxM19ZTHZZNTZPVlc2Q2NDdi1Xcnc4bjY5QWxQTnZpRVZGbHFnSnRwaXdHdWJJcUFvZmNfZF9nUkVLZjc2bFZfMERaX21QdGxPNDlkMlRzdUFxNzh3UUlNZGw5blo1LXFUUV9BMHZ1UkNOdjVVVmJPT1FtQ2s2N3JzbW1TeFBSU0drV0RQak96a09NektKNUYwVnR2UnY2TEtrX0cxLW0tSW5nd1VUbDN0TFYxM1VOMnhLQmVwS05PYzVpcDU2Z0FUSUE5ZVZFZWtlUDlJaDJhWGpxR2fSAYMCQVVfeXFMUDJVQ1JCNmxaMm9jdkJ2R0ZCcVFvVEp6SkQ1VVgwOHBtaHBlenRJZHVFalRGRWJjcEd5a0FieHI5RkladElibzRNc0YwVHZDTGZ1aUl6akp3TnJRTXZ2VHlkemVWY2MxT2g2Qm1jRkFiZkNhOGxSWGcycVByMUR5SlJ1Z3ExMWxiUEVrOHFBNGdqV1V1dW1wdFhWQ3hjanNlcWNET2JuTTNIN2NYcWhhSXhBdWpFaW5QNXNjQV9oSjJOYXBnZ2JCOEdSUmtfQ3JoVGw0Qi1LektZbTVtSW1ZRWhUVEd6U2ktWlFDUEY4bVV5c0M0cm8xN3pCTzJObEdFY3Z2RQ?oc=5",
-            "published": "2026-06-29T10:13:28+00:00",
-            "snippet": "Breaking the rage mould: Ali Fazal’s restrained cop anchors Raakh’s unsettling tale of India’s most disturbing killers Gulf News"
           }
         ],
         "error": null
@@ -680,34 +680,34 @@
         "url": "https://www.aa.com.tr/en",
         "headlines": [
           {
-            "title": "Twin toddlers found dead from dehydration in northern France; parents detained",
-            "url": "https://www.aa.com.tr/en/europe/twin-toddlers-found-dead-from-dehydration-in-northern-france-parents-detained/3981602",
-            "published": "2026-06-29T17:27:48+00:00",
-            "snippet": "Parents taken into custody as investigation launched into circumstances of their deaths, according to local media"
+            "title": "Iran says ‘no planned negotiations’ with US in coming days",
+            "url": "https://www.aa.com.tr/en/middle-east/iran-says-no-planned-negotiations-with-us-in-coming-days/3981630",
+            "published": "2026-06-29T18:01:05+00:00",
+            "snippet": "Foreign Ministry spokesman says expert delegation to visit Doha this week to follow up on release of frozen assets"
           },
           {
-            "title": "Iran rejects Macron-backed Hormuz demining plan, warns France against ‘provocations’",
-            "url": "https://www.aa.com.tr/en/middle-east/iran-rejects-macron-backed-hormuz-demining-plan-warns-france-against-provocations-/3981599",
-            "published": "2026-06-29T17:24:10+00:00",
-            "snippet": "Tehran says mine-clearing in strategic waterway can only be carried out by Iran under Islamabad memorandum"
+            "title": "UK plans to use trained members of public in asylum appeal cases",
+            "url": "https://www.aa.com.tr/en/europe/uk-plans-to-use-trained-members-of-public-in-asylum-appeal-cases/3981627",
+            "published": "2026-06-29T17:53:31+00:00",
+            "snippet": "Proposed legislation aims to accelerate deportations, establish new appeals authority and restrict interpretation of some human rights protections"
           },
           {
-            "title": "Qatari, Iranian defense officials discuss regional security developments",
-            "url": "https://www.aa.com.tr/en/middle-east/qatari-iranian-defense-officials-discuss-regional-security-developments/3981594",
-            "published": "2026-06-29T17:15:43+00:00",
-            "snippet": "Phone call focuses on latest security situation, joint coordination amid regional tensions"
+            "title": "UN hails US-sponsored Israel, Lebanon framework as 'milestone' toward lasting stability",
+            "url": "https://www.aa.com.tr/en/middle-east/un-hails-us-sponsored-israel-lebanon-framework-as-milestone-toward-lasting-stability/3981616",
+            "published": "2026-06-29T17:39:21+00:00",
+            "snippet": "'We continue to underscore the importance of resolving outstanding issues through dialogue,' says spokesperson"
           },
           {
-            "title": "US Supreme Court upholds state grace periods for late-arriving ballots",
-            "url": "https://www.aa.com.tr/en/americas/us-supreme-court-upholds-state-grace-periods-for-late-arriving-ballots/3981592",
-            "published": "2026-06-29T17:08:12+00:00",
-            "snippet": "Justices rule 5-4 that federal law allows counting mail-in ballots received after Election Day if postmarked on time"
+            "title": "Poland detains 11 Ukrainian, Belarusian suspects over stirring tensions among Ukrainian refugees",
+            "url": "https://www.aa.com.tr/en/eurasia/poland-detains-11-ukrainian-belarusian-suspects-over-stirring-tensions-among-ukrainian-refugees/3981613",
+            "published": "2026-06-29T17:35:15+00:00",
+            "snippet": "Authorities believe detainees sought to organize protests involving Ukrainian refugees and, at the same time, amplify anti-Ukrainian narratives online"
           },
           {
-            "title": "Boko Haram terrorists attack school, kill teacher, kidnap several students in northeast Nigeria",
-            "url": "https://www.aa.com.tr/en/africa/boko-haram-terrorists-attack-school-kill-teacher-kidnap-several-students-in-northeast-nigeria/3981572",
-            "published": "2026-06-29T16:37:12+00:00",
-            "snippet": "Terrorists wearing fake military fatigues and forest guard uniforms attacked Government Day Secondary School in Lassa, Askira/Uba Local Government Area, while students were taking their National Examinations Council exams, locals tell Anadolu"
+            "title": "UN chief urges prevention, rights-based approach as terrorist threats evolve",
+            "url": "https://www.aa.com.tr/en/world/un-chief-urges-prevention-rights-based-approach-as-terrorist-threats-evolve/3981609",
+            "published": "2026-06-29T17:31:53+00:00",
+            "snippet": "'Terrorism is a transnational threat, and no nation can address it alone,' Antonio Guterres says"
           }
         ],
         "error": null
@@ -803,6 +803,18 @@
             "snippet": "Iraqi top diplomat visits Syria in first post-Assad trip to deepen cooperation TRT World"
           },
           {
+            "title": "NATO summit in Ankara to serve as 'strongest platform for sharing experience': Türkiye's Erdogan",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hVHNGVDRWYXNaQUxqblg2SDh5VXFQVzhFN1BMeExPX3FXM3dtUlU1VXdFNkV4QTgtdThQaExTQmczLUNLV0xibHFudWVzOUl2bF9wb0ttTGM?oc=5",
+            "published": "2026-06-29T11:34:00+00:00",
+            "snippet": "NATO summit in Ankara to serve as 'strongest platform for sharing experience': Türkiye's Erdogan TRT World"
+          },
+          {
+            "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ocld3REd2d2s4cFNWM2ZTX3ppWGcxd0pKSDRaLWdkOWFTMHNqd3pobWVQS1Q2eW5pNno1RnVvZkpSd3d3QVo3QnRDd1FFZFIzNjJhN2ZsSFM?oc=5",
+            "published": "2026-06-29T06:49:45+00:00",
+            "snippet": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress TRT World"
+          },
+          {
             "title": "Stocks mixed, oil gains as US-Iran agree to halt latest attacks",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZ1RtS19HN3dPUUN0QUJfbEd4bHZoSUJwNzJiZXd3VFllc285TkpoVVhBSGU1bzRGYUJPQ1VJeldLbnU4V1NTZm5WaG1kbldZWUw2R2lUOG0?oc=5",
             "published": "2026-06-29T06:02:25+00:00",
@@ -813,18 +825,6 @@
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
             "published": "2026-06-29T03:16:54+00:00",
             "snippet": "A live blog is providing updates on the US-Israeli war on Iran."
-          },
-          {
-            "title": "Syria condemns Israeli incursions and artillery shelling in Quneitra and Daraa",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWHlkZDhCYVNHQzViOE1JYkNQVy1keUp3UkhSZVFENVRGYzVrOGJWRGtiMGZkc1NCLTAyWkNWalUwTTRMLWNraHRJbUkzcXhjOHpYbkNfUDVWNk5lLXF4dkhBUVR1ZlpCMlRfN0t4eS1Za3hWT3lnZTMyS3FETjdwNjlmZmlVcWFEWldSOW9YTF9YQWVLdlh4QU0wckthZ1A5dTFPZDN6YjdHRVBGUWtKSG1Xb2hWeUtTVllHRHRlTzBWRkUxa05ONHVZQ0Z1MWxZOTJPX3UwN1BXV1U2S0puazVnY2hCUVIxY2xF?oc=5",
-            "published": "2026-06-29T02:39:58+00:00",
-            "snippet": "Syria condemned Israeli incursions and artillery shelling in Quneitra and Daraa."
-          },
-          {
-            "title": "Father and son pulled alive after four days under rubble in Venezuela earthquake",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYUmJ5WjZqQjFHOVJZS3BsY0hSRURETjRjd01YczRFYWZBTV9lU0JaZmtndXJXaWk1ZldJQm1hQUYxOUFTb2o1S01acy1aeHhWSFNub0ZMQ24?oc=5",
-            "published": "2026-06-29T01:13:18+00:00",
-            "snippet": "Father and son pulled alive after four days under rubble in Venezuela earthquake TRT World"
           }
         ],
         "error": null
