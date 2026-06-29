@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T00:17:44.362336+00:00",
+  "updated": "2026-06-29T00:46:31.508289+00:00",
   "total_headlines": 135,
   "terms": [
     {
       "term": "World Cup",
-      "count": 27,
+      "count": 26,
       "headlines": [
         {
           "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
@@ -27,12 +27,6 @@
         {
           "title": "The match that changed the World Cup forever",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-match-that-changed-the-world-cup-forever?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "South Africa 0-1 Canada: FIFA World Cup – as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -125,11 +119,17 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNYzJuRVRPa21mNkU5aVlidHJheTBfdUZOWXdhTmdJblZReDAzb2JZN0ZPNTI3WnZXTDFQRVBXZjhnanFRM1hpSzZNR19FeWM0SFhV?oc=5",
           "source": "Arab News",
           "region": "Gulf"
+        },
+        {
+          "title": "2026 World Cup: Colombia top group after holding Portugal to draw",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjAwZjc2QXg2c21sdXVsSHU3bW5oMnFZeVdfQkZvejNnNXFiYUpwaFNGR2FuUFBoSUl0R0tmSGVZWk8tYy1SbkFaR2FRaHFhYTE0YUtxV0pEMV9xX0VJTWFteGxPQlFodERvYTNtSThQNVdKSjdjMUF5M004R19UNFNYZ2xENlZlcnl3cGZNUUEyVE9CSEdlTmZLSUF1eGtuOTZmWG9yeW5YZzJpNmtyRkVSdjUxZ2lmUVRzSXpSa9IB1AFBVV95cUxQUVZ6OVNEVzdSV1g1ZEhHeVA0VFhCTWdVR1VzVkJtWnFKbWRQaTdxNklERVdoUDFvblBCN2FKSFJCUU9sNVVpVENRekxjRXpRa2d2V1ZfV0RCb29mSlM3WTFkaHcwc3JBWEM2VXBOdjB2OXNva3QxYXNFbG5uY0FDa241eGlsWTRrQVg1aU1kbkNPVzA3eGhUY0hJTnMxMlJFR1NDVjhEdmNVT3BoT19NYWI0THB0eFVMcC1teWZtYy1CZEV2cHJ2SnRRNnJsXzhTSGUwdw?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
         }
       ]
     },
     {
-      "term": "Israeli",
+      "term": "Israel",
       "count": 13,
       "headlines": [
         {
@@ -139,15 +139,39 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Gaza journalists work from tents after Israel destroys media offices",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-journalists-work-tents-after-israel-destroys-media-offices",
+          "title": "Arab Parliament speaker calls for intensified efforts to hold Israel accountable",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-parliament-speaker-calls-intensified-efforts-hold-israel",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Video: Israeli forces using a bulldozer to destroy Palestinian olive groves",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-forces-using-bulldozer-destroy-palestinian-olive-groves",
+          "title": "Hezbollah says Israel launched multiple attacks in south",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israel-launched-multiple-attacks-south",
           "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon Parliament speaker says framework agreement 'will not pass'",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-parliament-speaker-says-framework-agreement-will-not-pass",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Report says Israel rebrands Gaza displacement plan as 'Freedom of Movement'",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-israel-rebrands-gaza-displacement-plan-freedom-movement",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ2taQm5reHN3S01pbFBsTEtfTnVfcGtqdGNBbk9zRWE0a1BiNUszMS1WV1owZ29PM21aN1FMUmc0TjhEMC1RNHFONE4wSDM1UVlobEZlTzNKalZpaThSa09CaWNnZkhLOXBrMjM1NURXSnkxZUREN2p2QVh1emZLVEdJVHRySVZoZ0ZoSnhiM1NwNnk3b3hvbjVrTmlYQlRtNkRZbVloeFYzakRSQmZnMHN5YlpZT25kSHRNczlUZmFwZlJmbWN0Qm1mRUpncUHSAc8BQVVfeXFMUENrWkJua3hzd0tNaWxQbExLX051X3BranRjQW5Pc0VhNGtQYjVLMzEtVldaMGdvTzNtWjdRTFJnNE44RDAtUTRxTjROMEgzNVFZaGxGZU8zSmpWaWk4UmtPQmljZ2ZISzlwazIzNTVEV0p5MWVERDdqdkFYdXpmS1RHSVR0cklWaGdGaEp4YjNTcDZ5N294b241a05pWEJUbTZEWW1ZaHhWM2pEUkJmZzBzeWJaWU9uZEh0TXM5VGZhcGZSZm1jdEJtZkVKZ3FB?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Turkey denounces Israel’s ‘political’ recognition of Armenia genocide",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkNaRGQyYUUwT1RDWF9leHdqc2tQQTc3eG1kTHFJa2FKOWRhVzc0Ql80Q0FXSDBfT3poZHVmM3JMYlhKT3F4QXVkMHc1ZV9JSFNwUVc5bjhmNlVKMTExY0pDNEtsc2ZOTG5FM3BLZUR4N2lLU25lRWtGZjJfMk1YS0lsZEFOVFVvT1BjRExnVVl1RTdPcC10eXNqNGlud0Vhem85MWxPY0lPZTFYT0hpN3hJZUhsYnhZSDNweXRLZjllY3AtVl9ZYUN30gHKAUFVX3lxTE4yQ1pEZDJhRTBPVENYX2V4d2pza1BBNzd4bWRMcUlrYUo5ZGFXNzRCXzRDQVdIMF9PemhkdWYzckxiWEpPcXhBdWQwdzVlX0lIU3BRVzluOGY2VUoxMTFjSkM0S2xzZk5MbkUzcEtlRHg3aUtTbmVFa0ZmMl8yTVhLSWxkQU5UVW9PUGNETGdVWXVFN09wLXR5c2o0aW53RWF6bzkxbE9jSU9lMVhPSGk3eEllSGxieFlIM3B5dEtmOWVjcC1WX1lhQ3c?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -157,57 +181,33 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "توغلات إسرائيلية متصاعدة في جنوب سوريا.. تثبيت واقع ميداني جديد يثير المخاوف",
-          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPRVB5UzV1OTR0MkhTNlliclRwYWJDRzFFU3ZjeS03NUdaYkxmb21qLWFCdVpiRnlUZ1BvbVpUR05BTHpNeTlVdnFxVzJKYS05STRnWjNHNVBoZWhqejFHVFJYNzdQdEZrOV9sRVNJd19tX1EzX2FWcnVKR09KX2QtODJkUUlHN1pNc0QtUzRFcXFIclNOV3N4WG53SWx3NEd1WGpsYXh4bmZUZXRhQ1B4c3l2VEp2cFNYNGhuSXR1eHdYdWk4TUFwQnVnSnpQeG9kZlpRSkhXZkl2V1p3MEVacjg1Nzg4OXpCTGxjNk5aQzZuMG45UEJFSExDdXd4aUdhbjc0Tlo4TmJBNW5lNEszd1ZrVmV4U1dYSHRCVW5RZ1c5UFY0RkljaC1IVmJfY291R1hIVGowRGtDTU05b3U0TlVrdW1mT0dCM19rTGcxYkRZUXlqc0hKY0RaenNvLTlhZ2lNd21iMG9ibXVnbWRzQm1NLU5KVWc4NlhiUkRZakl3REQyNlBUQktXaGJyNjVVTnpzRzVHZGdZbGFIdnExd1NSQ05UOWZxcW1aQlR4YkJsQU91WFh3d2dHWmk3N1lFS3BSU1p4bXBlVl9VeV8tLUxSeHpwU3lvQWZLUGRyZDUyeU9iQUE?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
           "title": "Israel army says killed 'armed terrorists' in southern Syria",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOF83SnVSSHd2MnZLUVRyR21qdVMybktlVWZXNVktRXUzQjVLNG1OcmdzblNfdlkwWnNaWEFpbDdyU3hKQzJLMVhPclVCZDR0emQyRUs0d29WTGV4SVEwVm5jdGtKM0ozLXd0Qms2ZHk0Y0dEVmpSSGJvTXFUMkgtZmlqcDBMaGtacFBTVXNvenh0RXk5RmZLVG5n?oc=5",
           "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "لبنان | المقاومة الإسلامية: نراقب الانتهاكات الإسرائيلية ونحتفظ بحقنا في الدفاع عن النفس",
-          "url": "https://www.almanar.com.lb/article/985677/",
-          "source": "Al Manar",
+          "title": "Lebanon, Israel open new phase with US-backed deal",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUNtSm1VQW5pMkh3U0daWVNfSmdLVFZsOFk2WjlVbDZmcDNYTHpKUnlNZFVzOHQxczVrWlJPMGVJTW5BM2xsQ2dlNVlRYm9DZ1F2a2dPa3lqTldrc3JRSXZ0cmRLVkt3aHNQTjJBTzhlVm5xX0pSWjA5QTFTTFJZeGY1YlVTV3FsSkhERzF3?oc=5",
+          "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "Israeli forces detain three Palestinians in occupied Jerusalem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ka3J1Z2xNOXBId0ZtLUpicHpzSVduaDViUDZFT2w0ZVAzTGVVRmdjTXFWc0p2ekVDRDNiNWYtbHZGSEZtTXgxdUFQVHRvTGlQVGE4TWRNdw?oc=5",
-          "source": "WAFA News",
+          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
+          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Two Palestinians killed in Israeli drone strike in northern Gaza - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUkhWYnNEb0N5c291NFA1ejJKV3dWdWh2dTZvNk9RaG5jaDQ0Q0dvZ3RwRWo3SW0xTlQtT2F5S1FSalRqRWs1enZwU3lXT21XeGtPR25IRQ?oc=5",
-          "source": "WAFA News",
+          "title": "الجمهوريون الشباب ينقلبون على إسرائيل... ونتنياهو يدفع الثمن - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPbjJ1LTNBdllDVDFCVndhS2hKSHFUYXZqeDE1VURFZmJVSmFuMGE0enVxcTJCWXlCdHpwaWJtbGduTXlVY0NWTmd6Tmx1MUU3WUR1WjJLS3pULXdXeGFUeEZoSlVIdlF4Tlh4ckhtQ1duR3Fpei1Kclp2R0R3QzBDb3dpLWo1SVFPSXpkYXJ1aEg1NnJzMThnSVJZaFJnaWZrMXkwU2dPa2xaQzBYclNLdnV2bzdsc3dNR2hQWDY2cW9RZU5tLTYzbzJpUlZBbXJSa1FVMHJKSGpqSnBzT1F2Y0ktOXF6TnBKcnpVSWtSLTVJNFlqRWlkTnA4Umd6T1Nld0ktV2hhcHk5a2wzbFlSTHFtb0Y1cVdwRlJ5OGdMLWktNms0dGp6UFMzVnZPdV91SWFPajR5YWlSRnB3UFpkYW8tdTVIWmZSZE43eUxPV0ZnQ0theHd2SnBaQWU1R2JDcFBfWTZGOXh5T0tiM09VZEVGOXQyR04yVTNweFY4dnNMUHN6WWFzMXUzZTdpLXluWXNRNkZWcldXSVB0d1RTUnQwZVBaUGc1RHRlMWVNOGJuTTZjV2VILVlOTGlWeHlkTlRuMEY2TDRpaUxYaF9hR3Q3MGJqdWxrdmp4anU3UTF4YS02Rkx5OVVobW5TcEs4aFFsSQ?oc=5",
+          "source": "Al-Akhbar",
           "region": "Levant"
         },
         {
-          "title": "Colonization and Wall Resistance Commission and Tubas Governorate secures court orders freezing Israeli demolition orders in northern Jordan Valley - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xUFF6NnQxcWNJbDlGT2NZa2tGcWQwNmpxaS1JQncydkVwWExTOEhBc3FlcmpoRWV6Yk1IN003N2JWWVU2RmwwTVhGMVFhejBSV0oxQWxJdw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Death toll from Israeli aggression on Lebanon rises to 4247 - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FNzJraUQ4TWpsR2NMeXByRWpualRFdVpuX1prdkM5ZGt4a2NUUUFfMklOaVQ3ODJSVWxjOWQ0VzBBbVNpS3Q2ZHJVM2p1eUJKSnQ2YUEwMA?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "استشهاد مواطن متأثرًا بإصابته في قصف \"إسرائيلي\" على مدينة غزة",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdmhGQ0k4em5xZzZqRFNQOExReTN6bHB5U3NpZUFtcVkzS05QUUtOdDVzYWhsa0xjZmR1bVZ6X3kwVHBGU3V0dEhCdm9CY1RpMHAta0s3d1B4Y1h2SFlHdTRIdGdFN1RqbXlsaDNiaGROV0Fja2ROVEpRUnpwSzdxckJoSGlxS2RvMlhtaFV0YVVvUjhXM3B3VVk1RWhFTE85Ry1mQmI4dTlFMXVZNTk0R3JWZ2NvUTNHYmU2V3Z6LXhIOHcyeXlhQllxQVpyc0hyRXZBYko5YkE1aVZ6RTBkUkVlTnN2Y1U0SU9zc0lSZVZlNDQyWmJSZVRpbnozREU0d2diaHRSd1RfaldHQWZnd0FnZzFVek40?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli gov’t OKs recognition of 1915 events as genocide",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkhmbG5ZWUZhWkUzdVVvR1JVRWpPcHQwWjVKblQ0eWRQWmotTkhSSWw0Q2lSWld1dTduMldLNnVaN2o2M0pfWHZFazFCcFpTR21VVExNVUMxSnpLQXF5Z0dFQXFTRHlNcEJUdGNYZTJkX2xXMUJfOWVIRVZ2V0JjQ3lHSDhfamtkYWoxX1g3QUdvSVBCNG1sMGZpTnI?oc=5",
-          "source": "Hürriyet Daily News",
+          "title": "US young Republicans increasingly souring on Israel amid Gaza, Iran wars: Report",
+          "url": "https://www.aa.com.tr/en/americas/us-young-republicans-increasingly-souring-on-israel-amid-gaza-iran-wars-report/3980698",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
@@ -277,12 +277,6 @@
           "region": "Levant"
         },
         {
-          "title": "لبنان | المقاومة الإسلامية: نراقب الانتهاكات الإسرائيلية ونحتفظ بحقنا في الدفاع عن النفس",
-          "url": "https://www.almanar.com.lb/article/985677/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
           "title": "قناة \"كان\": الجيش تلقى توجيهًا بالاستعداد للانتشار الجديد وفق الاتفاق",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUnA2NTZpbThCaHJoUnJjZnYzQ2Y2MHpsN25KWGlJcGNIN3lQRjAtQTN1dXFKSy11cjNQYVI5WjlBNWpqZVprZHQ0UzV0RWdBWFdmaldSSWJMc1RRRUYzamdjajVoYXlFdzhEdGxIQUJLZ20yY1RQM1h0aE1jYk1la2VkVEhxYVlwM1hub04tTTNBN3plUTZTalZqbjBlWmF4TjcwcXpRcHhrR3ZaLURTM3V2SzdMV2JjQlU1UVE1eDJGS0drZVZ4VXl3MmZZTHNTUm1uQmNEVEVWMHl3VzhhalBVTUtPakpSSk9YMWVNNW5UbTJ1a0dOUkZBVS1jbkJrMVVaNDN1cHlzYUxOclkxQWUzYw?oc=5",
           "source": "Falastin al-Youm",
@@ -293,11 +287,17 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnFuZHktNWplRDVlQi1JMzktRlBnWUpCS1d4NnpUZkJtU1ZpSnZnc3QydF9ERUwxYXpEOHY2YU1VUDU4U1k0YzRpX2VfaDg0ZTRKTnU1bTVTT1RMOGNYUFpyYzVOLTFtRk1naFlDTkZJay1mN1dTUVFYWWF2amZyc0lJR0VxX3daemdhbkVTdEJRdlZmM1FVVlUwcG1vN0FwWUEw0gG2AUFVX3lxTE0zXzdBWG45b2VsUjF6SFlROG1VUFlOX2VmVE55LUdqZ2gwaUdqR1hIU18zbFNvLVlTWGM3ZVdjZjlza1ZmYlIwdXVwWUwtNXFlQVIwUGtyejllVXl6MGdjaTRaQzhiRGxrb0xmSU5XRWhveHVhdW5GTXRRcmhOVG5JX19oc0JwdmVmeHgzdG9TLWRIV3FpSEFGc2I1NzBwUTU0OUI1Xy1MWTl5dkt4WHNyLUctbXhR?oc=5",
           "source": "Gulf News",
           "region": "Gulf"
+        },
+        {
+          "title": "Syria condemns Israeli incursions, shelling in south",
+          "url": "https://www.aa.com.tr/en/middle-east/syria-condemns-israeli-incursions-shelling-in-south/3980703",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Israel",
+      "term": "Israeli",
       "count": 12,
       "headlines": [
         {
@@ -307,33 +307,15 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Lebanon Parliament speaker says framework agreement 'will not pass'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-parliament-speaker-says-framework-agreement-will-not-pass",
+          "title": "Syrian foreign ministry says Israeli incursions violate its sovereignty",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-foreign-ministry-says-israeli-incursions-violate-its-sovereignty",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Report says Israel rebrands Gaza displacement plan as 'Freedom of Movement'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-israel-rebrands-gaza-displacement-plan-freedom-movement",
+          "title": "Hezbollah says Israel launched multiple attacks in south",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israel-launched-multiple-attacks-south",
           "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gaza journalists work from tents after Israel destroys media offices",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-journalists-work-tents-after-israel-destroys-media-offices",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ2taQm5reHN3S01pbFBsTEtfTnVfcGtqdGNBbk9zRWE0a1BiNUszMS1WV1owZ29PM21aN1FMUmc0TjhEMC1RNHFONE4wSDM1UVlobEZlTzNKalZpaThSa09CaWNnZkhLOXBrMjM1NURXSnkxZUREN2p2QVh1emZLVEdJVHRySVZoZ0ZoSnhiM1NwNnk3b3hvbjVrTmlYQlRtNkRZbVloeFYzakRSQmZnMHN5YlpZT25kSHRNczlUZmFwZlJmbWN0Qm1mRUpncUHSAc8BQVVfeXFMUENrWkJua3hzd0tNaWxQbExLX051X3BranRjQW5Pc0VhNGtQYjVLMzEtVldaMGdvTzNtWjdRTFJnNE44RDAtUTRxTjROMEgzNVFZaGxGZU8zSmpWaWk4UmtPQmljZ2ZISzlwazIzNTVEV0p5MWVERDdqdkFYdXpmS1RHSVR0cklWaGdGaEp4YjNTcDZ5N294b241a05pWEJUbTZEWW1ZaHhWM2pEUkJmZzBzeWJaWU9uZEh0TXM5VGZhcGZSZm1jdEJtZkVKZ3FB?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Turkey denounces Israel’s ‘political’ recognition of Armenia genocide",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkNaRGQyYUUwT1RDWF9leHdqc2tQQTc3eG1kTHFJa2FKOWRhVzc0Ql80Q0FXSDBfT3poZHVmM3JMYlhKT3F4QXVkMHc1ZV9JSFNwUVc5bjhmNlVKMTExY0pDNEtsc2ZOTG5FM3BLZUR4N2lLU25lRWtGZjJfMk1YS0lsZEFOVFVvT1BjRExnVVl1RTdPcC10eXNqNGlud0Vhem85MWxPY0lPZTFYT0hpN3hJZUhsYnhZSDNweXRLZjllY3AtVl9ZYUN30gHKAUFVX3lxTE4yQ1pEZDJhRTBPVENYX2V4d2pza1BBNzd4bWRMcUlrYUo5ZGFXNzRCXzRDQVdIMF9PemhkdWYzckxiWEpPcXhBdWQwdzVlX0lIU3BRVzluOGY2VUoxMTFjSkM0S2xzZk5MbkUzcEtlRHg3aUtTbmVFa0ZmMl8yTVhLSWxkQU5UVW9PUGNETGdVWXVFN09wLXR5c2o0aW53RWF6bzkxbE9jSU9lMVhPSGk3eEllSGxieFlIM3B5dEtmOWVjcC1WX1lhQ3c?oc=5",
-          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -343,69 +325,33 @@
           "region": "Pan-Arab"
         },
         {
+          "title": "توغلات إسرائيلية متصاعدة في جنوب سوريا.. تثبيت واقع ميداني جديد يثير المخاوف",
+          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPRVB5UzV1OTR0MkhTNlliclRwYWJDRzFFU3ZjeS03NUdaYkxmb21qLWFCdVpiRnlUZ1BvbVpUR05BTHpNeTlVdnFxVzJKYS05STRnWjNHNVBoZWhqejFHVFJYNzdQdEZrOV9sRVNJd19tX1EzX2FWcnVKR09KX2QtODJkUUlHN1pNc0QtUzRFcXFIclNOV3N4WG53SWx3NEd1WGpsYXh4bmZUZXRhQ1B4c3l2VEp2cFNYNGhuSXR1eHdYdWk4TUFwQnVnSnpQeG9kZlpRSkhXZkl2V1p3MEVacjg1Nzg4OXpCTGxjNk5aQzZuMG45UEJFSExDdXd4aUdhbjc0Tlo4TmJBNW5lNEszd1ZrVmV4U1dYSHRCVW5RZ1c5UFY0RkljaC1IVmJfY291R1hIVGowRGtDTU05b3U0TlVrdW1mT0dCM19rTGcxYkRZUXlqc0hKY0RaenNvLTlhZ2lNd21iMG9ibXVnbWRzQm1NLU5KVWc4NlhiUkRZakl3REQyNlBUQktXaGJyNjVVTnpzRzVHZGdZbGFIdnExd1NSQ05UOWZxcW1aQlR4YkJsQU91WFh3d2dHWmk3N1lFS3BSU1p4bXBlVl9VeV8tLUxSeHpwU3lvQWZLUGRyZDUyeU9iQUE?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
           "title": "Israel army says killed 'armed terrorists' in southern Syria",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOF83SnVSSHd2MnZLUVRyR21qdVMybktlVWZXNVktRXUzQjVLNG1OcmdzblNfdlkwWnNaWEFpbDdyU3hKQzJLMVhPclVCZDR0emQyRUs0d29WTGV4SVEwVm5jdGtKM0ozLXd0Qms2ZHk0Y0dEVmpSSGJvTXFUMkgtZmlqcDBMaGtacFBTVXNvenh0RXk5RmZLVG5n?oc=5",
           "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "Lebanon, Israel open new phase with US-backed deal",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUNtSm1VQW5pMkh3U0daWVNfSmdLVFZsOFk2WjlVbDZmcDNYTHpKUnlNZFVzOHQxczVrWlJPMGVJTW5BM2xsQ2dlNVlRYm9DZ1F2a2dPa3lqTldrc3JRSXZ0cmRLVkt3aHNQTjJBTzhlVm5xX0pSWjA5QTFTTFJZeGY1YlVTV3FsSkhERzF3?oc=5",
-          "source": "Jordan Times",
+          "title": "13-year-old girl killed in Israeli shelling east of Khan Younis - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuUjlUa3ZEUFdsVm5YcDhRVzJxT20xNlJGVUxyRVNRZkFfVmZtc0tUNE5uS1JEYXB4b0J3b1JjVGdqTEwyM0ZnM0NtTVZuYkZKbGNnX0VEZw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
-          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
-          "source": "Egypt Independent",
+          "title": "Israeli settlers assault Palestinians in Masafer Yatta, raise Israeli flags in Umm al-Kheir - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TX195ZDJFSHptMnN0MlZjd1MyVHNaaUVvOUVneFlSbTNWdVVaUUJNWEdIdjl2eVU1LUJ5dW5qQmNxWEhkcG83ZW9jX3hFV1JUS0ZEUl9CWQ?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "الجمهوريون الشباب ينقلبون على إسرائيل... ونتنياهو يدفع الثمن - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPbjJ1LTNBdllDVDFCVndhS2hKSHFUYXZqeDE1VURFZmJVSmFuMGE0enVxcTJCWXlCdHpwaWJtbGduTXlVY0NWTmd6Tmx1MUU3WUR1WjJLS3pULXdXeGFUeEZoSlVIdlF4Tlh4ckhtQ1duR3Fpei1Kclp2R0R3QzBDb3dpLWo1SVFPSXpkYXJ1aEg1NnJzMThnSVJZaFJnaWZrMXkwU2dPa2xaQzBYclNLdnV2bzdsc3dNR2hQWDY2cW9RZU5tLTYzbzJpUlZBbXJSa1FVMHJKSGpqSnBzT1F2Y0ktOXF6TnBKcnpVSWtSLTVJNFlqRWlkTnA4Umd6T1Nld0ktV2hhcHk5a2wzbFlSTHFtb0Y1cVdwRlJ5OGdMLWktNms0dGp6UFMzVnZPdV91SWFPajR5YWlSRnB3UFpkYW8tdTVIWmZSZE43eUxPV0ZnQ0theHd2SnBaQWU1R2JDcFBfWTZGOXh5T0tiM09VZEVGOXQyR04yVTNweFY4dnNMUHN6WWFzMXUzZTdpLXluWXNRNkZWcldXSVB0d1RTUnQwZVBaUGc1RHRlMWVNOGJuTTZjV2VILVlOTGlWeHlkTlRuMEY2TDRpaUxYaF9hR3Q3MGJqdWxrdmp4anU3UTF4YS02Rkx5OVVobW5TcEs4aFFsSQ?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "US young Republicans increasingly souring on Israel amid Gaza, Iran wars: Report",
-          "url": "https://www.aa.com.tr/en/americas/us-young-republicans-increasingly-souring-on-israel-amid-gaza-iran-wars-report/3980698",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 9,
-      "headlines": [
-        {
-          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Report says Israel rebrands Gaza displacement plan as 'Freedom of Movement'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-israel-rebrands-gaza-displacement-plan-freedom-movement",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gaza journalists work from tents after Israel destroys media offices",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-journalists-work-tents-after-israel-destroys-media-offices",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "تصعيد متسارع.. تطورات متلاحقة من إيران إلى غزة وترقب لاتفاق أمريكي إيراني",
-          "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPcEtBMEhvRFo2dVFTTXFxYmV0RmVBSkZMU2pIMkJDODhnRUFJd0xOVmpoRnh0M3k3cl9WekY4OHV3NHQ4dmYxeFBaTThXT2lNRjNjR1FscjlBVDdaSjBLMWdKRTVTNnRGRGJETEEza3J4N1Z5LUs5SFF6bmtELWRoc05fR095cUpaNUtOOHlWa2FQclBsTGR0cGFVUG84ZXZ4Qmx6ZHRRU3VRTHJsTmhzVW9GUzBsYk14anZtcnFHa2pvR2MyTVYxbFJMNlFlZVJkeUxWbHBKZDNnVUROWk55enpNaDF2T2xLWTNVYk1feldFS1JvTUo1M3BlcGZNeWV0V00zSjBuME1ialFqck5mM1FSaHBmemZlVVRwQkhFSXhFV3R4R3Vfc3lTSEdGdGRJbTFXeDIzdDVMRklNSUQ3MG9TR3ZLUlh3VC1paTRyOHdyTzVHM2RLdjZzalJLREt3S0VvVjlwYWpCYWRPanJKbUFnTWcyRE9wZ2Zybm9wYW8xNVpfRmdYdzBpREdVME9IODV2YUlmY2pmZ05qblE0eEFZWVlyQTg4TTJ2bUlYM1VsRFJoUlF3dV9sbFJDdUxueW8tMGpIcllTV2huZXVtWWlBU1p6VHZ6dUR5b2t5VEwyYzNkNlVQUnJXcEQ1dnZjSnp6cVhfMnFFLWt1MGo2dkF2aHJEbTloaUVFTlJFdTJMOWVLc1MwZDZKaWFaODMydGJkZkVfRHJFYmYxal9ZckxRZW56Ylk?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "جيش الاحتلال يُنفّذ عملية نسف مباني سكنية قرب المجمّع الإسلامي في بني سهيلا شرق مدينة خانيونس جنوب قطاع غزة",
-          "url": "https://www.almanar.com.lb/article/985727/",
-          "source": "Al Manar",
+          "title": "Israeli forces detain three Palestinians in occupied Jerusalem - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ka3J1Z2xNOXBId0ZtLUpicHpzSVduaDViUDZFT2w0ZVAzTGVVRmdjTXFWc0p2ekVDRDNiNWYtbHZGSEZtTXgxdUFQVHRvTGlQVGE4TWRNdw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
@@ -415,20 +361,14 @@
           "region": "Levant"
         },
         {
-          "title": "استشهاد مواطن متأثرًا بإصابته في قصف \"إسرائيلي\" على مدينة غزة",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdmhGQ0k4em5xZzZqRFNQOExReTN6bHB5U3NpZUFtcVkzS05QUUtOdDVzYWhsa0xjZmR1bVZ6X3kwVHBGU3V0dEhCdm9CY1RpMHAta0s3d1B4Y1h2SFlHdTRIdGdFN1RqbXlsaDNiaGROV0Fja2ROVEpRUnpwSzdxckJoSGlxS2RvMlhtaFV0YVVvUjhXM3B3VVk1RWhFTE85Ry1mQmI4dTlFMXVZNTk0R3JWZ2NvUTNHYmU2V3Z6LXhIOHcyeXlhQllxQVpyc0hyRXZBYko5YkE1aVZ6RTBkUkVlTnN2Y1U0SU9zc0lSZVZlNDQyWmJSZVRpbnozREU0d2diaHRSd1RfaldHQWZnd0FnZzFVek40?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "US young Republicans increasingly souring on Israel amid Gaza, Iran wars: Report",
-          "url": "https://www.aa.com.tr/en/americas/us-young-republicans-increasingly-souring-on-israel-amid-gaza-iran-wars-report/3980698",
+          "title": "Syria condemns Israeli incursions, shelling in south",
+          "url": "https://www.aa.com.tr/en/middle-east/syria-condemns-israeli-incursions-shelling-in-south/3980703",
           "source": "Anadolu Agency",
           "region": "Turkey"
         },
         {
-          "title": "Erdoğan casts his government as ‘hope for Gaza’",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjRQTklzOF9XYVZ5WnBJWDFseDRncG5jOEw0Y1ptZnZIWWZPQ1BQVldualo0YzJFVHJZb3VZbjdia3dueWhyLXVPTzVvMGViTV9FZ3VOZ3RaQVd1SE1kN0dJTHJsaGkwUnhlRmpXZVd6YmJQQ3RGT1Fja2pMbUdjeHJPcU43aC0zeFQxZHd4bw?oc=5",
+          "title": "Israeli gov’t OKs recognition of 1915 events as genocide",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkhmbG5ZWUZhWkUzdVVvR1JVRWpPcHQwWjVKblQ0eWRQWmotTkhSSWw0Q2lSWld1dTduMldLNnVaN2o2M0pfWHZFazFCcFpTR21VVExNVUMxSnpLQXF5Z0dFQXFTRHlNcEJUdGNYZTJkX2xXMUJfOWVIRVZ2V0JjQ3lHSDhfamtkYWoxX1g3QUdvSVBCNG1sMGZpTnI?oc=5",
           "source": "Hürriyet Daily News",
           "region": "Turkey"
         }
@@ -436,7 +376,7 @@
     },
     {
       "term": "talks",
-      "count": 8,
+      "count": 7,
       "headlines": [
         {
           "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
@@ -445,13 +385,7 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "US and Iran agree to resume Strait of Hormuz talks: Report",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-agree-resume-strait-hormuz-talks-report",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran canceled participation in technical talks over recent attacks, state TV reports",
+          "title": "US and Iran agree to halt attacks, hold talks in Doha this week: Report",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONmJVbElFSlFpeEFVdUhlZ0ZMeXAtNUxjOWNXTDQwRkJXbU1uNEhsV3pGSFkxSWwzVG5tSEg1V1VOYlFfSE51ZW9pNGJ4b3VuaHFObGNJa3FTYTNXVTlWc3VRdmpod2NBTHFROUY1bS14cHFRZThLbTZXaHFnNDNCVV9NT056bFlLQ3gxMUlUalRPc0dsZC14a2RwVVRUSkJlTDRVUVdfaEtUUDZZbnNWcVRMZHdNaHJNS2MzT2U5MENMU01CeWFfVXNzVTBSWVl6OGVMaWZsU0NFcDl2TmN2StIB5gFBVV95cUxPUHcyTm5KWl8xQXNybmEyV2ZwV0FlSkxPS1Fad3pTMl92aHZ6LThLU1FSbHZuc3F6ZzM4N25sWVFaZy1oQlVJWDQxRy1RSXY5VkVzVWtsMVd1WFhsLUwxTzFGWnhtdmd4bFZJTkFKcUFuT05YaGhaQ1dWUzZIRGxCUzB6V3hGWHJsajNzN05DN0hVdTNxczYxc1ZFZDF5M1FaREVWckRSZjEzY1VWWmpuX0htWlJLdVRBRlJmVTRvTUxMSWRSZ2p1WktNX2xCWnRrTUtnbE9LMWtGb2FZTDNKNVN6Nm9YUQ?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
@@ -489,9 +423,63 @@
       ]
     },
     {
-      "term": "Lebanon",
-      "count": 8,
+      "term": "Gaza",
+      "count": 7,
       "headlines": [
+        {
+          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Report says Israel rebrands Gaza displacement plan as 'Freedom of Movement'",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-israel-rebrands-gaza-displacement-plan-freedom-movement",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "تصعيد متسارع.. تطورات متلاحقة من إيران إلى غزة وترقب لاتفاق أمريكي إيراني",
+          "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPcEtBMEhvRFo2dVFTTXFxYmV0RmVBSkZMU2pIMkJDODhnRUFJd0xOVmpoRnh0M3k3cl9WekY4OHV3NHQ4dmYxeFBaTThXT2lNRjNjR1FscjlBVDdaSjBLMWdKRTVTNnRGRGJETEEza3J4N1Z5LUs5SFF6bmtELWRoc05fR095cUpaNUtOOHlWa2FQclBsTGR0cGFVUG84ZXZ4Qmx6ZHRRU3VRTHJsTmhzVW9GUzBsYk14anZtcnFHa2pvR2MyTVYxbFJMNlFlZVJkeUxWbHBKZDNnVUROWk55enpNaDF2T2xLWTNVYk1feldFS1JvTUo1M3BlcGZNeWV0V00zSjBuME1ialFqck5mM1FSaHBmemZlVVRwQkhFSXhFV3R4R3Vfc3lTSEdGdGRJbTFXeDIzdDVMRklNSUQ3MG9TR3ZLUlh3VC1paTRyOHdyTzVHM2RLdjZzalJLREt3S0VvVjlwYWpCYWRPanJKbUFnTWcyRE9wZ2Zybm9wYW8xNVpfRmdYdzBpREdVME9IODV2YUlmY2pmZ05qblE0eEFZWVlyQTg4TTJ2bUlYM1VsRFJoUlF3dV9sbFJDdUxueW8tMGpIcllTV2huZXVtWWlBU1p6VHZ6dUR5b2t5VEwyYzNkNlVQUnJXcEQ1dnZjSnp6cVhfMnFFLWt1MGo2dkF2aHJEbTloaUVFTlJFdTJMOWVLc1MwZDZKaWFaODMydGJkZkVfRHJFYmYxal9ZckxRZW56Ylk?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "جيش الاحتلال يُنفّذ عملية نسف مباني سكنية قرب المجمّع الإسلامي في بني سهيلا شرق مدينة خانيونس جنوب قطاع غزة",
+          "url": "https://www.almanar.com.lb/article/985727/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Two Palestinians killed in Israeli drone strike in northern Gaza - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUkhWYnNEb0N5c291NFA1ejJKV3dWdWh2dTZvNk9RaG5jaDQ0Q0dvZ3RwRWo3SW0xTlQtT2F5S1FSalRqRWs1enZwU3lXT21XeGtPR25IRQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "US young Republicans increasingly souring on Israel amid Gaza, Iran wars: Report",
+          "url": "https://www.aa.com.tr/en/americas/us-young-republicans-increasingly-souring-on-israel-amid-gaza-iran-wars-report/3980698",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Erdoğan casts his government as ‘hope for Gaza’",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjRQTklzOF9XYVZ5WnBJWDFseDRncG5jOEw0Y1ptZnZIWWZPQ1BQVldualo0YzJFVHJZb3VZbjdia3dueWhyLXVPTzVvMGViTV9FZ3VOZ3RaQVd1SE1kN0dJTHJsaGkwUnhlRmpXZVd6YmJQQ3RGT1Fja2pMbUdjeHJPcU43aC0zeFQxZHd4bw?oc=5",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Lebanon",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "Hezbollah says Israel launched multiple attacks in south",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israel-launched-multiple-attacks-south",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Lebanon Parliament speaker says framework agreement 'will not pass'",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-parliament-speaker-says-framework-agreement-will-not-pass",
@@ -527,66 +515,6 @@
           "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPbjJib296cGVhSEk1SFBDYVFQYlM3WWtoNFFzUnNzZ1Z5aVpzbkp2VmEtRFprTGJaZ2pjaFFLa0c5QzBjZk1jZjJlOFl2ZFZmU2VmUjlacU1STGtQWnM1bkRyb2FaMFJxbTRfankwYW9GZkt1cW1VX19SSWs1YWExLV9GSkZnVjFTaTRXalZHeFAwQjM5ZjBvUUNsMEthRjNhaHhUZE90bkNIMlQxbFNSdncxdHJUNWFEaFY1Y0dIc3VXSEZualBoZi15aTJHejFYM081VGlVVjBKN3I1ak1GM0l1YUZRQzNGZDlVcFpuT3lfVDJJalZna3VPSjlrNkE4S1NsX3NkMlBwZ25YZU0xRXRyTWZFNVlWU3RBT0ZCdzNaTUhuUHJTWTZudUNoWFZ4dFRKWklCSVhfME53OWxmRnVac2NtV3FZOUxxLU92TlM5UmhtODgwTDFhdTNTZTZpUWQyblNteHBjVC16R0pYUDZPLTc5cnVnWXFmZXZ1RnJrSXV0RVpkRWM0X2w3Mk1pd1FQczd1RXJaem52OWhhU0FXZTRKajFEMU5QVGNkU0xLRzdsWHQyWTcwTEM4c1lIT1EtYWpuQkRxU2pOdmY3bk1rc2NVRElKSG9oZmw1Q0FqN28?oc=5",
           "source": "Al-Akhbar",
           "region": "Levant"
-        },
-        {
-          "title": "لبنان | المقاومة الإسلامية: نراقب الانتهاكات الإسرائيلية ونحتفظ بحقنا في الدفاع عن النفس",
-          "url": "https://www.almanar.com.lb/article/985677/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Death toll from Israeli aggression on Lebanon rises to 4247 - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FNzJraUQ4TWpsR2NMeXByRWpualRFdVpuX1prdkM5ZGt4a2NUUUFfMklOaVQ3ODJSVWxjOWQ0VzBBbVNpS3Q2ZHJVM2p1eUJKSnQ2YUEwMA?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Occupation",
-      "count": 7,
-      "headlines": [
-        {
-          "title": "جيش الاحتلال يُنفّذ عملية نسف مباني سكنية قرب المجمّع الإسلامي في بني سهيلا شرق مدينة خانيونس جنوب قطاع غزة",
-          "url": "https://www.almanar.com.lb/article/985727/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "جيش الاحتلال يطلق النار بكثافة في محيط مخيم النصيرات وسط قطاع غزة",
-          "url": "https://www.almanar.com.lb/article/985717/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "قوات الاحتلال تداهم منزلاً خلال اقتحام بلدة كفردان غرب جنين",
-          "url": "https://www.almanar.com.lb/article/985707/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "قوات الاحتلال تعتقل عددًا من الشبان خلال اقتحام بلدة حزما شمال القدس المحتلة",
-          "url": "https://www.almanar.com.lb/article/985697/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Occupation forces detain three young men from Ramallah-area village after colonists' assault - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hSVBYTHJCZ3ZMQnA0NlRnN1pqbGZuWFltRFdhNXI1Z1hMTmtnZ09iNE5xRTBjaGxaN0d4SUUtaHNuY3U2ZkpKcWRIS0hXVTg2OExYUDBjTQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "الاحتلال يصيب شابًا ويعتقل اثنين خلال اقتحامه مخيم قلنديا",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaHpfYkxhdkdWdTdnM09Nb2JrbHVwZm55LVRQNDh3cDhzT1lRcTlLUFlIMWhzbG9mMWl5bDN5eWZHMU1WWnBXeklydWZKVU5FTG5FZ0ZNdXJOcFA2WFhXX01COHBsRUhkSlV4SWNjdGxFb25YZGRqeVY0YUJIRno3N3VYdHE3YjJsbXkzVk1keThtMUxob1JBX0E3b2EtX3BYaldCcHRkN0ZZaGwwNHZkMVl6eXJXSTNBT0lxeEZQZ2xObHpyV2RSd0V5Mk56NVhHWThpSDNzYjJXSjJxenBYRm42dEJqejZPMGQybndMNVFaTzhIdmhkNnFmMzd6M0lETkZ1YlIxUU5xdS1RZ01leVBXeEpTS0t2VlE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "مستعمرون يقتحمون بلدة قبلان جنوب نابلس بحماية قوات الاحتلال",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNc2tKMjBEdEhIXzg2Ml9lNExsazdDWFJObmROamY2dkd5dnlUaklQZE5fZG5tdTFZSDNsYWNSUUVJT25SX2RUMExodHFzTEhmM184RzJaSm5PM1pXVkNkTldhZnFPYWFzZ2V1OVlwNUxqdl93ZTFZOG5tMVQxNlplS0R6NzY4Y3dGUkVxUWJKR1FwWVhGUXQxQTBDdWYzSERLandOSGtSdldWcXk3WWlySGp3dzVqenhMNGc2X0FiODVrM2FLMEtzRE5iQ1JVMl9ISGt1R1BUdWxEQmdTaXlfQlZNQzZkaUJfZm1iel81ckFMQWRaclA2WGhzWnowTmtORHJoeU42WWJxSzQ5UV9XTTBPc3ZBREpxalFsNFcxS3Q?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
         }
       ]
     },
@@ -620,7 +548,7 @@
         },
         {
           "title": "Live blog - US-Israeli war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVEhNQklMdFBPSUx5dklGZ2FvekpoQkdfTE9GUHdSQU5NaHB2bUZaaV9uLU9wbEUtNDVhaXhPako0RkhsTjNHUWhNXzZobUlIRGE4aHJfRjk5Y3BSU3VN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
           "source": "TRT World",
           "region": "Turkey"
         },
@@ -675,38 +603,44 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
-      "count": 5,
+      "term": "Occupation",
+      "count": 6,
       "headlines": [
         {
-          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
+          "title": "جيش الاحتلال يُنفّذ عملية نسف مباني سكنية قرب المجمّع الإسلامي في بني سهيلا شرق مدينة خانيونس جنوب قطاع غزة",
+          "url": "https://www.almanar.com.lb/article/985727/",
+          "source": "Al Manar",
+          "region": "Levant"
         },
         {
-          "title": "US and Iran agree to resume Strait of Hormuz talks: Report",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-agree-resume-strait-hormuz-talks-report",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "جيش الاحتلال يطلق النار بكثافة في محيط مخيم النصيرات وسط قطاع غزة",
+          "url": "https://www.almanar.com.lb/article/985717/",
+          "source": "Al Manar",
+          "region": "Levant"
         },
         {
-          "title": "Iran warns ships not to bypass its chosen Hormuz route",
-          "url": "https://www.newarab.com/news/iran-warns-ships-not-bypass-its-chosen-hormuz-route",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "قوات الاحتلال تداهم منزلاً خلال اقتحام بلدة كفردان غرب جنين",
+          "url": "https://www.almanar.com.lb/article/985707/",
+          "source": "Al Manar",
+          "region": "Levant"
         },
         {
-          "title": "Live - US-Iran talks in Switzerland stall, Waltz warns Tehran over Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQlYtejNqNHBNdk1hSUV4eUR3bXk5aG5TdlZ3d0VwSlRycGF1SkRvZmZ6clRHdUh3S2thZTBsZGhTbktsODllVGV5Um5tWTBmWEpaOTR5T1k5c3ZodVE?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
+          "title": "Occupation forces detain three young men from Ramallah-area village after colonists' assault - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hSVBYTHJCZ3ZMQnA0NlRnN1pqbGZuWFltRFdhNXI1Z1hMTmtnZ09iNE5xRTBjaGxaN0d4SUUtaHNuY3U2ZkpKcWRIS0hXVTg2OExYUDBjTQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         },
         {
-          "title": "Why the Strait of Hormuz could sink the US-Iran agreement",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnFuZHktNWplRDVlQi1JMzktRlBnWUpCS1d4NnpUZkJtU1ZpSnZnc3QydF9ERUwxYXpEOHY2YU1VUDU4U1k0YzRpX2VfaDg0ZTRKTnU1bTVTT1RMOGNYUFpyYzVOLTFtRk1naFlDTkZJay1mN1dTUVFYWWF2amZyc0lJR0VxX3daemdhbkVTdEJRdlZmM1FVVlUwcG1vN0FwWUEw0gG2AUFVX3lxTE0zXzdBWG45b2VsUjF6SFlROG1VUFlOX2VmVE55LUdqZ2gwaUdqR1hIU18zbFNvLVlTWGM3ZVdjZjlza1ZmYlIwdXVwWUwtNXFlQVIwUGtyejllVXl6MGdjaTRaQzhiRGxrb0xmSU5XRWhveHVhdW5GTXRRcmhOVG5JX19oc0JwdmVmeHgzdG9TLWRIV3FpSEFGc2I1NzBwUTU0OUI1Xy1MWTl5dkt4WHNyLUctbXhR?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "الاحتلال يصيب شابًا ويعتقل اثنين خلال اقتحامه مخيم قلنديا",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaHpfYkxhdkdWdTdnM09Nb2JrbHVwZm55LVRQNDh3cDhzT1lRcTlLUFlIMWhzbG9mMWl5bDN5eWZHMU1WWnBXeklydWZKVU5FTG5FZ0ZNdXJOcFA2WFhXX01COHBsRUhkSlV4SWNjdGxFb25YZGRqeVY0YUJIRno3N3VYdHE3YjJsbXkzVk1keThtMUxob1JBX0E3b2EtX3BYaldCcHRkN0ZZaGwwNHZkMVl6eXJXSTNBT0lxeEZQZ2xObHpyV2RSd0V5Mk56NVhHWThpSDNzYjJXSjJxenBYRm42dEJqejZPMGQybndMNVFaTzhIdmhkNnFmMzd6M0lETkZ1YlIxUU5xdS1RZ01leVBXeEpTS0t2VlE?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "مستعمرون يقتحمون بلدة قبلان جنوب نابلس بحماية قوات الاحتلال",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNc2tKMjBEdEhIXzg2Ml9lNExsazdDWFJObmROamY2dkd5dnlUaklQZE5fZG5tdTFZSDNsYWNSUUVJT25SX2RUMExodHFzTEhmM184RzJaSm5PM1pXVkNkTldhZnFPYWFzZ2V1OVlwNUxqdl93ZTFZOG5tMVQxNlplS0R6NzY4Y3dGUkVxUWJKR1FwWVhGUXQxQTBDdWYzSERLandOSGtSdldWcXk3WWlySGp3dzVqenhMNGc2X0FiODVrM2FLMEtzRE5iQ1JVMl9ISGt1R1BUdWxEQmdTaXlfQlZNQzZkaUJfZm1iel81ckFMQWRaclA2WGhzWnowTmtORHJoeU42WWJxSzQ5UV9XTTBPc3ZBREpxalFsNFcxS3Q?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         }
       ]
     },
@@ -747,8 +681,44 @@
       ]
     },
     {
-      "term": "Qatar",
+      "term": "Palestinians",
       "count": 5,
+      "headlines": [
+        {
+          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Report says Israel rebrands Gaza displacement plan as 'Freedom of Movement'",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-israel-rebrands-gaza-displacement-plan-freedom-movement",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli settlers assault Palestinians in Masafer Yatta, raise Israeli flags in Umm al-Kheir - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TX195ZDJFSHptMnN0MlZjd1MyVHNaaUVvOUVneFlSbTNWdVVaUUJNWEdIdjl2eVU1LUJ5dW5qQmNxWEhkcG83ZW9jX3hFV1JUS0ZEUl9CWQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces detain three Palestinians in occupied Jerusalem - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ka3J1Z2xNOXBId0ZtLUpicHpzSVduaDViUDZFT2w0ZVAzTGVVRmdjTXFWc0p2ekVDRDNiNWYtbHZGSEZtTXgxdUFQVHRvTGlQVGE4TWRNdw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Two Palestinians killed in Israeli drone strike in northern Gaza - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUkhWYnNEb0N5c291NFA1ejJKV3dWdWh2dTZvNk9RaG5jaDQ0Q0dvZ3RwRWo3SW0xTlQtT2F5S1FSalRqRWs1enZwU3lXT21XeGtPR25IRQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Strait of Hormuz",
+      "count": 4,
       "headlines": [
         {
           "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
@@ -757,9 +727,33 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "US and Iran agree to resume Strait of Hormuz talks: Report",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-agree-resume-strait-hormuz-talks-report",
-          "source": "Middle East Eye",
+          "title": "Iran warns ships not to bypass its chosen Hormuz route",
+          "url": "https://www.newarab.com/news/iran-warns-ships-not-bypass-its-chosen-hormuz-route",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Live - US-Iran talks in Switzerland stall, Waltz warns Tehran over Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQlYtejNqNHBNdk1hSUV4eUR3bXk5aG5TdlZ3d0VwSlRycGF1SkRvZmZ6clRHdUh3S2thZTBsZGhTbktsODllVGV5Um5tWTBmWEpaOTR5T1k5c3ZodVE?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "Why the Strait of Hormuz could sink the US-Iran agreement",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnFuZHktNWplRDVlQi1JMzktRlBnWUpCS1d4NnpUZkJtU1ZpSnZnc3QydF9ERUwxYXpEOHY2YU1VUDU4U1k0YzRpX2VfaDg0ZTRKTnU1bTVTT1RMOGNYUFpyYzVOLTFtRk1naFlDTkZJay1mN1dTUVFYWWF2amZyc0lJR0VxX3daemdhbkVTdEJRdlZmM1FVVlUwcG1vN0FwWUEw0gG2AUFVX3lxTE0zXzdBWG45b2VsUjF6SFlROG1VUFlOX2VmVE55LUdqZ2gwaUdqR1hIU18zbFNvLVlTWGM3ZVdjZjlza1ZmYlIwdXVwWUwtNXFlQVIwUGtyejllVXl6MGdjaTRaQzhiRGxrb0xmSU5XRWhveHVhdW5GTXRRcmhOVG5JX19oc0JwdmVmeHgzdG9TLWRIV3FpSEFGc2I1NzBwUTU0OUI1Xy1MWTl5dkt4WHNyLUctbXhR?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Qatar",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
@@ -784,17 +778,11 @@
     },
     {
       "term": "Venezuela",
-      "count": 5,
+      "count": 4,
       "headlines": [
         {
           "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
-          "url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -819,31 +807,61 @@
       ]
     },
     {
-      "term": "Palestinians",
+      "term": "Syria",
       "count": 4,
       "headlines": [
         {
-          "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-          "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Report says Israel rebrands Gaza displacement plan as 'Freedom of Movement'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-israel-rebrands-gaza-displacement-plan-freedom-movement",
+          "title": "Syrian foreign ministry says Israeli incursions violate its sovereignty",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-foreign-ministry-says-israeli-incursions-violate-its-sovereignty",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli forces detain three Palestinians in occupied Jerusalem - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ka3J1Z2xNOXBId0ZtLUpicHpzSVduaDViUDZFT2w0ZVAzTGVVRmdjTXFWc0p2ekVDRDNiNWYtbHZGSEZtTXgxdUFQVHRvTGlQVGE4TWRNdw?oc=5",
-          "source": "WAFA News",
+          "title": "توغلات إسرائيلية متصاعدة في جنوب سوريا.. تثبيت واقع ميداني جديد يثير المخاوف",
+          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPRVB5UzV1OTR0MkhTNlliclRwYWJDRzFFU3ZjeS03NUdaYkxmb21qLWFCdVpiRnlUZ1BvbVpUR05BTHpNeTlVdnFxVzJKYS05STRnWjNHNVBoZWhqejFHVFJYNzdQdEZrOV9sRVNJd19tX1EzX2FWcnVKR09KX2QtODJkUUlHN1pNc0QtUzRFcXFIclNOV3N4WG53SWx3NEd1WGpsYXh4bmZUZXRhQ1B4c3l2VEp2cFNYNGhuSXR1eHdYdWk4TUFwQnVnSnpQeG9kZlpRSkhXZkl2V1p3MEVacjg1Nzg4OXpCTGxjNk5aQzZuMG45UEJFSExDdXd4aUdhbjc0Tlo4TmJBNW5lNEszd1ZrVmV4U1dYSHRCVW5RZ1c5UFY0RkljaC1IVmJfY291R1hIVGowRGtDTU05b3U0TlVrdW1mT0dCM19rTGcxYkRZUXlqc0hKY0RaenNvLTlhZ2lNd21iMG9ibXVnbWRzQm1NLU5KVWc4NlhiUkRZakl3REQyNlBUQktXaGJyNjVVTnpzRzVHZGdZbGFIdnExd1NSQ05UOWZxcW1aQlR4YkJsQU91WFh3d2dHWmk3N1lFS3BSU1p4bXBlVl9VeV8tLUxSeHpwU3lvQWZLUGRyZDUyeU9iQUE?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel army says killed 'armed terrorists' in southern Syria",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOF83SnVSSHd2MnZLUVRyR21qdVMybktlVWZXNVktRXUzQjVLNG1OcmdzblNfdlkwWnNaWEFpbDdyU3hKQzJLMVhPclVCZDR0emQyRUs0d29WTGV4SVEwVm5jdGtKM0ozLXd0Qms2ZHk0Y0dEVmpSSGJvTXFUMkgtZmlqcDBMaGtacFBTVXNvenh0RXk5RmZLVG5n?oc=5",
+          "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "Two Palestinians killed in Israeli drone strike in northern Gaza - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUkhWYnNEb0N5c291NFA1ejJKV3dWdWh2dTZvNk9RaG5jaDQ0Q0dvZ3RwRWo3SW0xTlQtT2F5S1FSalRqRWs1enZwU3lXT21XeGtPR25IRQ?oc=5",
-          "source": "WAFA News",
+          "title": "Syria condemns Israeli incursions, shelling in south",
+          "url": "https://www.aa.com.tr/en/middle-east/syria-condemns-israeli-incursions-shelling-in-south/3980703",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Hezbollah",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Hezbollah says Israel launched multiple attacks in south",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israel-launched-multiple-attacks-south",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ2taQm5reHN3S01pbFBsTEtfTnVfcGtqdGNBbk9zRWE0a1BiNUszMS1WV1owZ29PM21aN1FMUmc0TjhEMC1RNHFONE4wSDM1UVlobEZlTzNKalZpaThSa09CaWNnZkhLOXBrMjM1NURXSnkxZUREN2p2QVh1emZLVEdJVHRySVZoZ0ZoSnhiM1NwNnk3b3hvbjVrTmlYQlRtNkRZbVloeFYzakRSQmZnMHN5YlpZT25kSHRNczlUZmFwZlJmbWN0Qm1mRUpncUHSAc8BQVVfeXFMUENrWkJua3hzd0tNaWxQbExLX051X3BranRjQW5Pc0VhNGtQYjVLMzEtVldaMGdvTzNtWjdRTFJnNE44RDAtUTRxTjROMEgzNVFZaGxGZU8zSmpWaWk4UmtPQmljZ2ZISzlwazIzNTVEV0p5MWVERDdqdkFYdXpmS1RHSVR0cklWaGdGaEp4YjNTcDZ5N294b241a05pWEJUbTZEWW1ZaHhWM2pEUkJmZzBzeWJaWU9uZEh0TXM5VGZhcGZSZm1jdEJtZkVKZ3FB?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel detonates tunnel, strikes south Lebanon",
+          "url": "https://www.newarab.com/news/israel-detonates-tunnel-strikes-south-lebanon",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
+          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
+          "source": "Egypt Independent",
           "region": "Levant"
         }
       ]
@@ -879,36 +897,6 @@
       ]
     },
     {
-      "term": "Islamic",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Foreign dignitaries to begin arriving in Iran on Friday for martyred Leader’s funeral: VP",
-          "url": "https://en.irna.ir/news/86195423/Foreign-dignitaries-to-begin-arriving-in-Iran-on-Friday-for-martyred",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Araghchi discusses regional security with Iraq’s national security advisor",
-          "url": "https://en.irna.ir/news/86195370/Araghchi-discusses-regional-security-with-Iraq-s-national-security",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "جيش الاحتلال يُنفّذ عملية نسف مباني سكنية قرب المجمّع الإسلامي في بني سهيلا شرق مدينة خانيونس جنوب قطاع غزة",
-          "url": "https://www.almanar.com.lb/article/985727/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "لبنان | المقاومة الإسلامية: نراقب الانتهاكات الإسرائيلية ونحتفظ بحقنا في الدفاع عن النفس",
-          "url": "https://www.almanar.com.lb/article/985677/",
-          "source": "Al Manar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Saudi",
       "count": 4,
       "headlines": [
@@ -939,6 +927,30 @@
       ]
     },
     {
+      "term": "Africa",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
+          "url": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
+          "url": "https://www.aljazeera.com/sports/2026/6/28/canada-score-late-to-beat-south-africa-and-reach-last-16-at-world-cup-2026?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Canada advance to Round of 16 with late goal against South Africa in World Cup",
+          "url": "https://www.aa.com.tr/en/sports/canada-advance-to-round-of-16-with-late-goal-against-south-africa-in-world-cup/3980695",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Hormuz",
       "count": 3,
       "headlines": [
@@ -963,42 +975,12 @@
       ]
     },
     {
-      "term": "Thousands",
+      "term": "sovereignty",
       "count": 3,
       "headlines": [
         {
-          "title": "Protesters in Serbia doubt Vucic resignation will bring change",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
-          "url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Kurds rally in Turkey's southeast for jailed PKK leader",
-          "url": "https://www.newarab.com/news/kurds-rally-turkeys-southeast-jailed-pkk-leader",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "United",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Lebanon Parliament speaker says framework agreement 'will not pass'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-parliament-speaker-says-framework-agreement-will-not-pass",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US and Iran agree to resume Strait of Hormuz talks: Report",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-agree-resume-strait-hormuz-talks-report",
+          "title": "Syrian foreign ministry says Israeli incursions violate its sovereignty",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-foreign-ministry-says-israeli-incursions-violate-its-sovereignty",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -1007,30 +989,36 @@
           "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
           "source": "IRNA",
           "region": "Iran"
+        },
+        {
+          "title": "Syria condemns Israeli incursions, shelling in south",
+          "url": "https://www.aa.com.tr/en/middle-east/syria-condemns-israeli-incursions-shelling-in-south/3980703",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Hezbollah",
+      "term": "shelling",
       "count": 3,
       "headlines": [
         {
-          "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ2taQm5reHN3S01pbFBsTEtfTnVfcGtqdGNBbk9zRWE0a1BiNUszMS1WV1owZ29PM21aN1FMUmc0TjhEMC1RNHFONE4wSDM1UVlobEZlTzNKalZpaThSa09CaWNnZkhLOXBrMjM1NURXSnkxZUREN2p2QVh1emZLVEdJVHRySVZoZ0ZoSnhiM1NwNnk3b3hvbjVrTmlYQlRtNkRZbVloeFYzakRSQmZnMHN5YlpZT25kSHRNczlUZmFwZlJmbWN0Qm1mRUpncUHSAc8BQVVfeXFMUENrWkJua3hzd0tNaWxQbExLX051X3BranRjQW5Pc0VhNGtQYjVLMzEtVldaMGdvTzNtWjdRTFJnNE44RDAtUTRxTjROMEgzNVFZaGxGZU8zSmpWaWk4UmtPQmljZ2ZISzlwazIzNTVEV0p5MWVERDdqdkFYdXpmS1RHSVR0cklWaGdGaEp4YjNTcDZ5N294b241a05pWEJUbTZEWW1ZaHhWM2pEUkJmZzBzeWJaWU9uZEh0TXM5VGZhcGZSZm1jdEJtZkVKZ3FB?oc=5",
-          "source": "Al Arabiya",
+          "title": "Syrian foreign ministry says Israeli incursions violate its sovereignty",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-foreign-ministry-says-israeli-incursions-violate-its-sovereignty",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israel detonates tunnel, strikes south Lebanon",
-          "url": "https://www.newarab.com/news/israel-detonates-tunnel-strikes-south-lebanon",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel’s military and tech industry race to counter Hezbollah’s latest threat",
-          "url": "https://www.egyptindependent.com/israels-military-and-tech-industry-race-to-counter-hezbollahs-latest-threat/",
-          "source": "Egypt Independent",
+          "title": "13-year-old girl killed in Israeli shelling east of Khan Younis - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuUjlUa3ZEUFdsVm5YcDhRVzJxT20xNlJGVUxyRVNRZkFfVmZtc0tUNE5uS1JEYXB4b0J3b1JjVGdqTEwyM0ZnM0NtTVZuYkZKbGNnX0VEZw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
+        },
+        {
+          "title": "Syria condemns Israeli incursions, shelling in south",
+          "url": "https://www.aa.com.tr/en/middle-east/syria-condemns-israeli-incursions-shelling-in-south/3980703",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -1079,6 +1067,30 @@
           "url": "https://www.aa.com.tr/en/americas/trump-lashes-out-at-washington-dc-mayoral-nominee/3980665",
           "source": "Anadolu Agency",
           "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Islamic",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Foreign dignitaries to begin arriving in Iran on Friday for martyred Leader’s funeral: VP",
+          "url": "https://en.irna.ir/news/86195423/Foreign-dignitaries-to-begin-arriving-in-Iran-on-Friday-for-martyred",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Araghchi discusses regional security with Iraq’s national security advisor",
+          "url": "https://en.irna.ir/news/86195370/Araghchi-discusses-regional-security-with-Iraq-s-national-security",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "جيش الاحتلال يُنفّذ عملية نسف مباني سكنية قرب المجمّع الإسلامي في بني سهيلا شرق مدينة خانيونس جنوب قطاع غزة",
+          "url": "https://www.almanar.com.lb/article/985727/",
+          "source": "Al Manar",
+          "region": "Levant"
         }
       ]
     },
@@ -1155,74 +1167,62 @@
       ]
     },
     {
-      "term": "incursion",
+      "term": "Khan",
       "count": 3,
       "headlines": [
         {
-          "title": "قوات الاحتلال تداهم منزلاً خلال اقتحام بلدة كفردان غرب جنين",
-          "url": "https://www.almanar.com.lb/article/985707/",
+          "title": "جيش الاحتلال يُنفّذ عملية نسف مباني سكنية قرب المجمّع الإسلامي في بني سهيلا شرق مدينة خانيونس جنوب قطاع غزة",
+          "url": "https://www.almanar.com.lb/article/985727/",
           "source": "Al Manar",
           "region": "Levant"
         },
         {
-          "title": "قوات الاحتلال تعتقل عددًا من الشبان خلال اقتحام بلدة حزما شمال القدس المحتلة",
-          "url": "https://www.almanar.com.lb/article/985697/",
-          "source": "Al Manar",
+          "title": "13-year-old girl killed in Israeli shelling east of Khan Younis - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuUjlUa3ZEUFdsVm5YcDhRVzJxT20xNlJGVUxyRVNRZkFfVmZtc0tUNE5uS1JEYXB4b0J3b1JjVGdqTEwyM0ZnM0NtTVZuYkZKbGNnX0VEZw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         },
         {
-          "title": "الاحتلال يصيب شابًا ويعتقل اثنين خلال اقتحامه مخيم قلنديا",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaHpfYkxhdkdWdTdnM09Nb2JrbHVwZm55LVRQNDh3cDhzT1lRcTlLUFlIMWhzbG9mMWl5bDN5eWZHMU1WWnBXeklydWZKVU5FTG5FZ0ZNdXJOcFA2WFhXX01COHBsRUhkSlV4SWNjdGxFb25YZGRqeVY0YUJIRno3N3VYdHE3YjJsbXkzVk1keThtMUxob1JBX0E3b2EtX3BYaldCcHRkN0ZZaGwwNHZkMVl6eXJXSTNBT0lxeEZQZ2xObHpyV2RSd0V5Mk56NVhHWThpSDNzYjJXSjJxenBYRm42dEJqejZPMGQybndMNVFaTzhIdmhkNnFmMzd6M0lETkZ1YlIxUU5xdS1RZ01leVBXeEpTS0t2VlE?oc=5",
+          "title": "إتلاف 3 أطنان و400 كغم من مواد غذائية فاسدة في خان يونس",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbDc3bF96b01jSFdYOG5vd0VhMnV3YzEyeGF0SXB2RndmV1FoVHVrMUY4aE1lQ2FScmZXaTVqQ21aOEpsZXlRa05UWjNoZFBxM0pnZGtWZTU5UG94RVdWN2g1Ry1YeWZPOFZPWEpBT3NkcnA2V3BFUDlFdUNuaTRoa0hnaXdKb2RkaFRsUThaV21xc2pkMVgtczJUM25KTXFVVnlpYWd6NUdtT0JZTkt3N1d1MFFBbHpCZHgzRURSN0U3Z0xtWXdXLUhuNjBsQm5WZ09xNkIzZ1Y0WUJ6bHVQeEtPdnZNc0NtRjdfYWdYRVNDX3o4ODU3ZQ?oc=5",
           "source": "Falastin al-Youm",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "Canada",
-      "count": 3,
+      "term": "Doha",
+      "count": 2,
       "headlines": [
         {
-          "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
-          "url": "https://www.aljazeera.com/sports/2026/6/28/canada-score-late-to-beat-south-africa-and-reach-last-16-at-world-cup-2026?traffic_source=rss",
+          "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "South Africa 0-1 Canada: FIFA World Cup – as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "US and Iran agree to halt attacks, hold talks in Doha this week: Report",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONmJVbElFSlFpeEFVdUhlZ0ZMeXAtNUxjOWNXTDQwRkJXbU1uNEhsV3pGSFkxSWwzVG5tSEg1V1VOYlFfSE51ZW9pNGJ4b3VuaHFObGNJa3FTYTNXVTlWc3VRdmpod2NBTHFROUY1bS14cHFRZThLbTZXaHFnNDNCVV9NT056bFlLQ3gxMUlUalRPc0dsZC14a2RwVVRUSkJlTDRVUVdfaEtUUDZZbnNWcVRMZHdNaHJNS2MzT2U5MENMU01CeWFfVXNzVTBSWVl6OGVMaWZsU0NFcDl2TmN2StIB5gFBVV95cUxPUHcyTm5KWl8xQXNybmEyV2ZwV0FlSkxPS1Fad3pTMl92aHZ6LThLU1FSbHZuc3F6ZzM4N25sWVFaZy1oQlVJWDQxRy1RSXY5VkVzVWtsMVd1WFhsLUwxTzFGWnhtdmd4bFZJTkFKcUFuT05YaGhaQ1dWUzZIRGxCUzB6V3hGWHJsajNzN05DN0hVdTNxczYxc1ZFZDF5M1FaREVWckRSZjEzY1VWWmpuX0htWlJLdVRBRlJmVTRvTUxMSWRSZ2p1WktNX2xCWnRrTUtnbE9LMWtGb2FZTDNKNVN6Nm9YUQ?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
-        },
-        {
-          "title": "Canada advance to Round of 16 with late goal against South Africa in World Cup",
-          "url": "https://www.aa.com.tr/en/sports/canada-advance-to-round-of-16-with-late-goal-against-south-africa-in-world-cup/3980695",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Africa",
-      "count": 3,
+      "term": "Thousands",
+      "count": 2,
       "headlines": [
         {
-          "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
-          "url": "https://www.aljazeera.com/sports/2026/6/28/canada-score-late-to-beat-south-africa-and-reach-last-16-at-world-cup-2026?traffic_source=rss",
+          "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "South Africa 0-1 Canada: FIFA World Cup – as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Kurds rally in Turkey's southeast for jailed PKK leader",
+          "url": "https://www.newarab.com/news/kurds-rally-turkeys-southeast-jailed-pkk-leader",
+          "source": "The New Arab",
           "region": "Pan-Arab"
-        },
-        {
-          "title": "Canada advance to Round of 16 with late goal against South Africa in World Cup",
-          "url": "https://www.aa.com.tr/en/sports/canada-advance-to-round-of-16-with-late-goal-against-south-africa-in-world-cup/3980695",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         }
       ]
     },
@@ -1237,9 +1237,45 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Video: Israeli forces using a bulldozer to destroy Palestinian olive groves",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-forces-using-bulldozer-destroy-palestinian-olive-groves",
+          "title": "Arab Parliament speaker calls for intensified efforts to hold Israel accountable",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-parliament-speaker-calls-intensified-efforts-hold-israel",
           "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Quneitra",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Syrian foreign ministry says Israeli incursions violate its sovereignty",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-foreign-ministry-says-israeli-incursions-violate-its-sovereignty",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Syria condemns Israeli incursions, shelling in south",
+          "url": "https://www.aa.com.tr/en/middle-east/syria-condemns-israeli-incursions-shelling-in-south/3980703",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "ceasefire",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Hezbollah says Israel launched multiple attacks in south",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israel-launched-multiple-attacks-south",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel detonates tunnel, strikes south Lebanon",
+          "url": "https://www.newarab.com/news/israel-detonates-tunnel-strikes-south-lebanon",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         }
       ]
@@ -1281,6 +1317,24 @@
       ]
     },
     {
+      "term": "United",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Lebanon Parliament speaker says framework agreement 'will not pass'",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-parliament-speaker-says-framework-agreement-will-not-pass",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
+          "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "Turkey",
       "count": 2,
       "headlines": [
@@ -1317,24 +1371,6 @@
       ]
     },
     {
-      "term": "ceasefire",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israel detonates tunnel, strikes south Lebanon",
-          "url": "https://www.newarab.com/news/israel-detonates-tunnel-strikes-south-lebanon",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "لبنان | المقاومة الإسلامية: نراقب الانتهاكات الإسرائيلية ونحتفظ بحقنا في الدفاع عن النفس",
-          "url": "https://www.almanar.com.lb/article/985677/",
-          "source": "Al Manar",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Pakistan",
       "count": 2,
       "headlines": [
@@ -1349,24 +1385,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50MDhJdlVIVmxha2FGMjg0enJvMkJFZVdjVEEzbWNpcllUOFYyakhmYWt3cDhKbVB6M2VneVBzVGU1VTVFdnhWdXk4UUotb0JySzk0?oc=5",
           "source": "Arab News",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Syria",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "توغلات إسرائيلية متصاعدة في جنوب سوريا.. تثبيت واقع ميداني جديد يثير المخاوف",
-          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPRVB5UzV1OTR0MkhTNlliclRwYWJDRzFFU3ZjeS03NUdaYkxmb21qLWFCdVpiRnlUZ1BvbVpUR05BTHpNeTlVdnFxVzJKYS05STRnWjNHNVBoZWhqejFHVFJYNzdQdEZrOV9sRVNJd19tX1EzX2FWcnVKR09KX2QtODJkUUlHN1pNc0QtUzRFcXFIclNOV3N4WG53SWx3NEd1WGpsYXh4bmZUZXRhQ1B4c3l2VEp2cFNYNGhuSXR1eHdYdWk4TUFwQnVnSnpQeG9kZlpRSkhXZkl2V1p3MEVacjg1Nzg4OXpCTGxjNk5aQzZuMG45UEJFSExDdXd4aUdhbjc0Tlo4TmJBNW5lNEszd1ZrVmV4U1dYSHRCVW5RZ1c5UFY0RkljaC1IVmJfY291R1hIVGowRGtDTU05b3U0TlVrdW1mT0dCM19rTGcxYkRZUXlqc0hKY0RaenNvLTlhZ2lNd21iMG9ibXVnbWRzQm1NLU5KVWc4NlhiUkRZakl3REQyNlBUQktXaGJyNjVVTnpzRzVHZGdZbGFIdnExd1NSQ05UOWZxcW1aQlR4YkJsQU91WFh3d2dHWmk3N1lFS3BSU1p4bXBlVl9VeV8tLUxSeHpwU3lvQWZLUGRyZDUyeU9iQUE?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel army says killed 'armed terrorists' in southern Syria",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOF83SnVSSHd2MnZLUVRyR21qdVMybktlVWZXNVktRXUzQjVLNG1OcmdzblNfdlkwWnNaWEFpbDdyU3hKQzJLMVhPclVCZDR0emQyRUs0d29WTGV4SVEwVm5jdGtKM0ozLXd0Qms2ZHk0Y0dEVmpSSGJvTXFUMkgtZmlqcDBMaGtacFBTVXNvenh0RXk5RmZLVG5n?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
         }
       ]
     },
@@ -1493,60 +1511,6 @@
           "url": "https://en.irna.ir/news/86195333/Iraqi-president-stresses-diplomacy-in-talks-with-Foreign-Minister",
           "source": "IRNA",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Abbas",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Araghchi discusses regional security with Iraq’s national security advisor",
-          "url": "https://en.irna.ir/news/86195370/Araghchi-discusses-regional-security-with-Iraq-s-national-security",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraqi president stresses diplomacy in talks with Foreign Minister Araghchi",
-          "url": "https://en.irna.ir/news/86195333/Iraqi-president-stresses-diplomacy-in-talks-with-Foreign-Minister",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Dubai",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Tehran-Dubai flights to resume tomorrow",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkt3bkFndTZ1dExydjZVXzdFQlpQNzAxUWlTal9BMDlEdE95emJxbEM0WlIzVnNsZXZTaVZ6Zk8zVmNmTDFvSndlRnFNN0s5QTZQUFRsdGUtWlk2ODA5cnVCVGRFenlJOXNBT1VnT0d0djBqb3hjZjZYdldieWZ4eA?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Dubai Police urge drivers to keep vehicles roadworthy this summer",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHQxU20xZlFwLWFjcE01QTIxNnRaaEpHdVhCM3VnZGZNZ01uN1NZMmo1SXNHNDIzUVhJdDYtX3haWTFfQ25DQWFFMlJROG8tbnpsdEFpMjExbnhRYlhHZ19vdHVDdk56NkF3SzVxdVVwdUlMMDJWSHZkcEc5MkhwQUFLUEZXbmYxQmFDOHkxYVMyeHBpQWp5WHZYSEF3YS1jOHZpSzF5NXBiajEtZjY4b1Bn0gHEAUFVX3lxTFBMcEpxbWFCV2V0a3FOMk5rbkpKNGVUaFAyel84eUZSamJmUGh2ZUE0NWl3MXJpQXQxVFZGWjF4Ti0zSDIxb1g0V2Y5V3ZsWjgweFQtb3JGdHZoMm1JOVRzUlplQXoxRmxNbzdmUmd2b3V2OEtBRkRSd0NMc2ctZE00am95ZGRkS3VkNWRRS3kzM1h3RHBHR1dNVVhWNndyc1pFMVB4a3pwMl81MVdDWHJDazk2X0U0T1labmVQYzk5UHlXOEM?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "US-Israeli",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Leader orders pursuit of US-Israeli war crimes against Iran",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVm9WVVYzeHNSWTR6SDF4LURrdzlmX3RNRnRNZHE5NXI5UWVrZjFOVlJwam1VcTV1UklxQ1lmS3JZOEZibWk3NWhHbUw3YXRQV1RxdW5kZGp3ZDBBRDl6dkpzMGJybUc1dTBqS2VpSzBCM3JXeXJKSjRMQXRCMWZuMk9HTTY0M1U4?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Live blog - US-Israeli war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVEhNQklMdFBPSUx5dklGZ2FvekpoQkdfTE9GUHdSQU5NaHB2bUZaaV9uLU9wbEUtNDVhaXhPako0RkhsTjNHUWhNXzZobUlIRGE4aHJfRjk5Y3BSU3VN?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
         }
       ]
     }
