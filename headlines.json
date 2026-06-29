@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:30:23.548018+00:00",
+  "updated": "2026-06-29T20:59:30.772663+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -9,10 +9,16 @@
         "url": "https://www.aljazeera.com",
         "headlines": [
           {
-            "title": "Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank",
+            "title": "What’s behind the anti-corruption crackdown in Iraq?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
+            "published": "2026-06-29T20:24:15+00:00",
+            "snippet": "A number of senior politicians have been detained in a wave of arrests."
+          },
+          {
+            "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
             "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
             "published": "2026-06-29T19:08:43+00:00",
-            "snippet": "Israeli attacks have killed four men and a boy in Gaza and a teenager in the West Bank, with Israeli rights group B’Tselem condemning the \"unprecedented killing of Palestinian children and teenagers\"."
+            "snippet": "Israeli rights group B’Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers\""
           },
           {
             "title": "Pakistani strikes kill dozens of Afghan villagers",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/miracle-man-pulled-from-rubble-four-days-after-venezuelan-quakes?traffic_source=rss",
             "published": "2026-06-29T18:35:12+00:00",
             "snippet": "A 21-year-old man was miraculously pulled alive from the rubble of an apartment building in La Guaira, Venezuela, four days after earthquakes struck the region."
-          },
-          {
-            "title": "Undocumented migrants flee South Africa amid rising anti-immigrant protests",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/undocumented-migrants-flee-south-africa-amid-rising-anti-immigrant-protests?traffic_source=rss",
-            "published": "2026-06-29T18:18:48+00:00",
-            "snippet": "Thousands of undocumented migrants in South Africa are rushing to leave the country due to rising anti-immigrant protests and threats."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Khadijah Farrakhan, 'First Lady' of Nation of Islam, dies aged 90",
+            "url": "https://www.middleeasteye.net/news/khadijah-farrakhan-first-lady-nation-islam-dies-90",
+            "published": "2026-06-29T20:31:36+00:00",
+            "snippet": "Khadijah Farrakhan, 'First Lady' of Nation of Islam, dies aged 90 Submitted by MEE staff on Mon, 06/29/2026 - 20:08 Known as 'Mother Khadijah', she devoted more than seven decades to shaping one of the most prominent religious and political movements in US Louis Farrakhan, head of the Nation of Isla"
+          },
           {
             "title": "Lebanon state media says Israeli strike hits south",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-state-media-says-israeli-strike-hits-south",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-meeting-take-place-qatar",
             "published": "2026-06-29T18:23:14+00:00",
             "snippet": "The United Arab Emirates will permit its citizens to travel to Lebanon starting Monday, requiring them to register through an official service beforehand."
-          },
-          {
-            "title": "Demining of Strait of Hormuz to be carried out only by Iran, deputy foreign minister says",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/de-mining-strait-hormuz-be-carried-out-only-iran-deputy-foreign-minister",
-            "published": "2026-06-29T17:08:58+00:00",
-            "snippet": "Iran's Deputy Foreign Minister stated that the demining of the Strait of Hormuz will be carried out solely by Iran, according to the Islamabad MoU between Tehran and Washington."
           }
         ],
         "error": null
@@ -93,6 +93,18 @@
             "snippet": "Iran says no talks with US scheduled in coming days Al Arabiya English"
           },
           {
+            "title": "UAE lifts travel ban for Lebanon: WAM",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUlkQjduOEhDQXNHcjBTTm83YU5rNjhXdF9Bai0yR1VDNE91N0dTUFl6WXhxS001LUNlV2NyUTVkQmRsaktNWmdvalIwcXg5UU02M29KYWFIczZZUHBRa2t5WU5BWTZLVnEyR0hYb1NWdUxucEtCajdJSWZzVmZRUnBOV0tZdnBmX0VyODFjUll6OTRyQXfSAZYBQVVfeXFMTk1JZEI3bjhIQ0FzR3IwU05vN2FOazY4V3RfQWotMkdVQzRPdTdHU1BZell4cUtNNS1DZVdjclE1ZEJkbGpLTVpnb2pSMHF4OVFNNjNvSmFhSHM2WVBwUWtreVlOQVk2S1ZxMkdIWG9TVnVMbnBLQmo3SUlmc1ZmUVJwTldLWXZwZl9FcjgxY1JZejk0ckF3?oc=5",
+            "published": "2026-06-29T18:02:00+00:00",
+            "snippet": "UAE lifts travel ban for Lebanon: WAM Al Arabiya English"
+          },
+          {
+            "title": "Man Rescued From Rubble After 106 Hours in Venezuela",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX29aMVRhLXRILVFGRWFkVlMzMEEwbzlyU01LMmxfb1ljcUg3M3V0SFNvd3IyWnhfbXdOSmVoY1I2cDh1NzlNT1pyaTZsVHhRc1V4UmppYlNWcHRxNnNSREpuV2RkcXRQYkVIS0Q5NjhxZFNIU1dWRVJRRmdUOTVLdUU3UzRmR0J6eHc3Ui1ucWdDb0RsTGFoYUVCdmo5VW51VmNiR1Q3Ull6Ump5TmfSAa4BQVVfeXFMTl9vWjFUYS10SC1RRkVhZFZTMzBBMG85clNNSzJsX29ZY3FINzN1dEhTb3dyMlp4X213TkplaGNSNnA4dTc5TU9acmk2bFR4UXNVeFJqaWJTVnB0cTZzUkRKbldkZHF0UGJFSEtEOTY4cWRTSFNXVkVSUUZnVDk1S3VFN1M0ZkdCenh3N1ItbnFnQ29EbExhaGFFQnZqOVVudVZjYkdUN1JZelJqeU5n?oc=5",
+            "published": "2026-06-29T17:57:58+00:00",
+            "snippet": "Man Rescued From Rubble After 106 Hours in Venezuela Al Arabiya English"
+          },
+          {
             "title": "De-mining of the Strait of Hormuz to be carried out only by Iran, deputy FM says",
             "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM2VqVF9JeHI4TVNhWkdtdDhqZmZnbHVBRm9rb1NEeXlsZUFULXN1MzBPWE9jZ19UQ21vWlJMS3liNHd2UW43amM5cE9sYWFoT2pYOVdHRDZTX1VBREZ3R3E5a3dlS0tFSDB5blMyaEU3Z0FjSU1tZ29PMjVaRWFsSU16QnRjREpJM3ZVUW83b2dMSU9LX2UtTWN5UkF3TzBPMmhrWnM3d2x1dktNcmwyZDBWSWtvdzNuM0NXSEhGRDN6Uy1DSjl6TEdLXzlscng0d2lNMWxkMnjSAdgBQVVfeXFMTjNlalRfSXhyOE1TYVpHbXQ4amZmZ2x1QUZva29TRHl5bGVBVC1zdTMwT1hPY2dfVENtb1pSTEt5YjR3dlFuN2pjOXBPbGFhaE9qWDlXR0Q2U19VQURGd0dxOWt3ZUtLRUgweW5TMmhFN2dBY0lNbWdvTzI1WkVhbElNekJ0Y0RKSTN2VVFvN29nTElPS19lLU1jeVJBd08wTzJoa1pzN3dsdXZLTXJsMmQwVklrb3czbjNDV0hIRkQzelMtQ0o5ekxHS185bHJ4NHdpTTFsZDJ4?oc=5",
             "published": "2026-06-29T17:23:00+00:00",
@@ -100,21 +112,9 @@
           },
           {
             "title": "Lebanon president says determined to deploy army up to Israel border",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWx2UjNRWW92T0tRbE50QmhGYTE3MW51ZHBBaUhRWWVNOW00djRZc0xZbWhBWDBLMnpCcmRXMEFJTjZkcW9CMl83Q3dJUUd2WHMtSDZSazA5TlU5Zm42eGxHZFZSMjhoa01VdDd0YTNvbUZvWXRUODN2aDMtcnA5cFVHSF95TmhWLUJVRnhLX1RZY1NZZ2hFSUJKY29tenFoR0Y0cHQzWFhDRlJsX1o5ZHk4dEU3RnNaQjVodFc1cmhab0gzTmJGMjVR0gHKAUFVX3lxTE81bHZSM1FZb3ZPS1FsTnRCaEZhMTcxbnVkcEFpSFFZZU05bTR2NFlzTFltaEFYMEsyekJyZFcwQUlONmRxb0IyXzdDd0lRR3ZYcy1INlJrMDlOVTlmbjZ4bEdkVlIyOGhrTVV0N3RhM29tRm9ZdFQ4M3ZoMy1ycDlwVUdIX3lOaFYtQlVGeEtfVFljU1lnaEVJQkpjb216cWhHRjRwdDNYWENGUmxfWjlkeTh0RTdGc1pCNWh0VzVyaFpvSDNOYkYyNVE?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeUN5emhTbHk2aVFzRHREX01wWHg0d0piVm95LTV6SFZMNnd3bDNxRUN0NHFHc0ZvS21QYnZaV3drRUVQRVBjM3BYMl8tQ2oydlk3OWZ5SGhERWhaM1hLYTR5Zks2SkFsQWppUnJTU0c4eTZ2cHh0YWFraUU3ZWNGSWdFbWRla3RsbFoyQ1FKUXk3aFhkcTlKSkNocHh6WXZMcnlCdTU4elJ2blVIUUxOcFlmRHJ6S3g4ZFhLM1hBMm5lRFV00gHKAUFVX3lxTE81bHZSM1FZb3ZPS1FsTnRCaEZhMTcxbnVkcEFpSFFZZU05bTR2NFlzTFltaEFYMEsyekJyZFcwQUlONmRxb0IyXzdDd0lRR3ZYcy1INlJrMDlOVTlmbjZ4bEdkVlIyOGhrTVV0N3RhM29tRm9ZdFQ4M3ZoMy1ycDlwVUdIX3lOaFYtQlVGeEtfVFljU1lnaEVJQkpjb216cWhHRjRwdDNYWENGUmxfWjlkeTh0RTdGc1pCNWh0VzVyaFpvSDNOYkYyNVE?oc=5",
             "published": "2026-06-29T15:05:00+00:00",
             "snippet": "The president of Lebanon expressed determination to deploy the army up to the border with Israel."
-          },
-          {
-            "title": "Qatar advises temporary suspension of sailing, some other maritime activities",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHBmYVJBN0hUT0Ryc0NWTm9aNnNSVnptX2FYTXptZlpQZGUxMnY1WkFKWVR4N3RJQlpORVV1dVFHcUxIN1EySXMxOFAycjhMZTA3QmUxcUF0S09Ya05vZXVmVDNEaHlRbWVMYjRDX3dnaGc0TFRlWlJmTEl6WUhMWmhmaWgyLUZNeFZLeFpWc0tGNmZYcmo4Q2Y0OFMyQXh2dzFXX0ZlNlduenV1dW94RU5WQk01bldqRzE3a1JUenU3U3VpSFpSb2hzZ9IBywFBVV95cUxNdHBmYVJBN0hUT0Ryc0NWTm9aNnNSVnptX2FYTXptZlpQZGUxMnY1WkFKWVR4N3RJQlpORVV1dVFHcUxIN1EySXMxOFAycjhMZTA3QmUxcUF0S09Ya05vZXVmVDNEaHlRbWVMYjRDX3dnaGc0TFRlWlJmTEl6WUhMWmhmaWgyLUZNeFZLeFpWc0tGNmZYcmo4Q2Y0OFMyQXh2dzFXX0ZlNlduenV1dW94RU5WQk01bldqRzE3a1JUenU3U3VpSFpSb2hzZw?oc=5",
-            "published": "2026-06-29T14:57:00+00:00",
-            "snippet": "Qatar has advised a temporary suspension of sailing and some other maritime activities."
-          },
-          {
-            "title": "Australian Suspect on Murder of Teen Girl in Thailand",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFJTWmpIclVfNEFYUGRydFdaSFhGX2xMSkJYUmtHM0p3MWtheXJlNzRjRHJjYml5RTBHSndfRGRZZmx2OGQxSDdXdEllTlBFWmFzWDd5ZldtbnBsczdnaHVZUXlmYndyYkxCa2ctRktoTWJhTm5uQjlqeG9ESHdCMDlfVW5tWGhuSjBLalNFOXlZTzhETV9nSmlTWTdST2ZETW9pRkxqT3p4UndaSjlJ0gGvAUFVX3lxTE9MUlNaakhyVV80QVhQZHJ0V1pIWEZfbExKQlhSa0czSncxa2F5cmU3NGNEcmNiaXlFMEdKd19EZFlmbHY4ZDFIN1d0SWVOUEVaYXNYN3lmV21ucGxzN2dodVlReWZid3JiTEJrZy1GS2hNYmFObm5COWp4b0RId0IwOV9Vbm1YaG5KMEtqU0U5eVlPOERNX2dKaVNZN1JPZkRNb2lGTGpPenhSd1pKOUk?oc=5",
-            "published": "2026-06-29T14:26:22+00:00",
-            "snippet": "Australian Suspect on Murder of Teen Girl in Thailand Al Arabiya English"
           }
         ],
         "error": null
@@ -165,6 +165,12 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
+            "title": "حرس الثورة: عبور السفن في مضيق هرمز يكون عبر جنوب جزيرة لارك حصراً",
+            "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPZGdIWmtBTWZpM0lkSmhIRE0xbW10c0xyVVBkaEc2Y21DeDY3cG00VkRSdm45bGxzcE81eHdycWNfWlh3enNJRTg5eTNmUWhSdWtUc3lpOXdrR0UwamJLb3RMYlRxZjhsREY2a0EzQjBCQUktQm9lZDgwOUxJdGJERFp6Sl9fT25UTFg5cExsSVEwbTV0dUdHY0t6NHM2SndzRHBZN05JaU5FNzljMmhCYXNJOXRQWGxZVlpBV1hDaGh1d3piUTZQYXpBNGV6X3pBMVdLa0ozeURNNUpmQk5SY0lqcTRSV1A5QmdiUnVHejl0U2p1LUs0S0VZNE5vNnNDeFN0cGtuQ1lUeHBEcW5fc0pGUk45dG5NNC0xNV96RWN6VGdwbHJtQTRyZG9MSEhKMU9JMGc3cjVReW1MSGJvazQ1S1dXdjJ1d1AtTThZTnRRMHF0dnlnM2dBYU9vZVRwZXV2SVp5N183REo3azZYTkhRN1djTnp5QjJWcXA5djI5OWduOXBvS1gwN3dxTkNobUZNUk05MzFxR2NwcFpYY180N1ZzWjFmdDRlTy0yZUxPZkFucmV6dlFHeFlRa0ZJQ1NOczhUQW5BdlBUbEc3YWJtV0RfTFdQUFVMNzlTNTVITjBkbVVDODBSSTE4RkRtbTQ4WEtmYnhGLUJyWkFOZW9yNHhTRDZkTGhBMFZLZGJRaC1WUzJhSGJ2WS1VMUxEWktaS2lFWWJ6dlZKMGNRRVZFOEJXMGxQ?oc=5",
+            "published": "2026-06-29T20:42:08+00:00",
+            "snippet": "حرس الثورة: عبور السفن في مضيق هرمز يكون عبر جنوب جزيرة لارك حصراً almayadeen.net"
+          },
+          {
             "title": "غريب آبادي: لا خطط لعقد اجتماعات فنية في إطار مذكرة التفاهم مع واشنطن هذا الأسبوع",
             "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQWG9kaFNnRFVaczdRb21LLVNTZUotRXZjdFRpV3hOajBNZ1NtWUlGOEJDYUNRM0YzNnM0cC1mOGMwbno4VkVKeUpmYlBJUmV0YlU3UjVZRGdTREpCRTJGY2NWb2tiY0V2ZkVISFUwMU5FNGZ4UTk1aUt2NUx1QWNVNWZwWjdCcWREdFdtUi14bG5jcDJYOTZUcUo4X0RXWDIzZm9ibXh4NGpKaXZ4Qmh5U0lpTjhXYnYtZ1dzV2dwZ3BwNnhxdS1oZWJPOVBNYUtHbW5oVVpUbkhfQ09POWh4R2FtcnBUMnd2QU0wVVQ3aDJhVU4xU1Y2Q29UOE9JNVhjOGNKZEdscllBdHluNEVBMEtlNjhTTjh1Y3F4eUFTOEx5NlJnXzNkQUFKNTR5RHNBeWEyaDY0WllWdmNUSUQ4YWNrSk5IeWR3akc0Y3A3N0ZobDNjbkhpeUN1aWhsTTQxTjZCcDZ3eWhxRHZka2J1UVJSc0w1ZHNBZDZ4dFVIYVltSEthbmpILUc0R0p0RUllSHlXcFZzNkhzaUpKNXYwOVE2MFhoczBRaEFMWjBhUDJab21pZ2JoNXMxaUw1dTlTaHBHc1o5anN5enQ3aDJaTWRhdlR6bDNfeC1XNXJlcEpaRy1oUEdISVdCVFp4ZVVmZ3FmTTJNNlNJNGRVUUVNdzVNRlZaSnVEVjl3NDlKSXRzdjBsRkZfR0tKWkhlVkxsemtIZG5Dd1JmazBHNUdNdFpLby01cFE?oc=5",
             "published": "2026-06-29T19:01:50+00:00",
@@ -187,12 +193,6 @@
             "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPLVhoTFh5bmt6U2RHdDBFVnZTbDUxY2pjbHJKZkR2OGwxeWRRbDJtdHRBX3lXaDZVUEcyYXdJQVotUkFkZ2V2aVhSdXhaaE1qMmNQTWM4T05vbktReDlyUWUyaUFiOFBsbjY3YURZVWhMWGVia284bUtSNUYxbWsxNDYtLWpCNWFpcGlxcEIyckdrZ256LV9PLXdoRldWc292VUdMNFQ0UVRvWHdERFR1OE00WE93akNIdVJPbzlhMUYwRVVaak4zSXU0OUM1X1BYUnVnc094UVIxMWY5TXRSNm1tdFJjTzdFVVQzc0ZWRGVMbndlMEZtMDdjVEU2UE9DT3ZQZVBlLXo2NUJxZUVZNzAzUkRScTZOdl80TlFjRlo5UllyYlVwZkpuRVo1bm9fTU5YZFZyM0M0RDZ3NFpDWUhSUWZZSE1kM0psR1lJQ2pocmpYRl9WY2dEaXFzNldwcW9FSzhqLTV0NkVpbTAtMjVxTHBCOVV4Nk1pX3BsRmltWExxZFpFem1ab0xaN0ZlTWE0SXlvYjZ3WF9WaUgyZ2xxUThLVmhxOXNMdjVBd0o4cmVaMl9qcGU4TGZSdw?oc=5",
             "published": "2026-06-29T17:11:43+00:00",
             "snippet": "According to \"Channel 12,\" a secret annex to an agreement does not contain timelines, and Lebanon requested that it not be disclosed."
-          },
-          {
-            "title": "هرمز بعد الحرب.. إيران ترسم قواعد العبور الجديدة",
-            "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQemVzRXVEanNHWGhHRHVwZG1VZ21VWndEUXA0b3c4alEwNjNyQmdsVXU0ZGVkQW5KekhUeVhEemFENGtCdnBocHpMVXM1NFFkUW5COWdveDQwU2VKRFZ6VFdocjRWYklWM0hJbWVKUnNwMHVxZEdpQVBpajllSndKLWNHaEpBSlB5cUZjbWp2akJoTG5idzB2TXVKb2owa2tvbWR0Qm5zbUFNZTNhemQ3S2dOLUloUWN0NEMxWml0ZmFpQ3ZxUTFYYk9JUHh6MFdxNXpBNjR0a1RQYktGd2J3TmVoU0pOTkFGS1ZWWU1IRC15RDlKSkJ2aTB3dXctQjJlbEQ5bVgzcTNRaDBCeTJMYmh4cHZPWm95Q1RYdXdpYm1xQVhHS2VpdS1HSUpSSmk1LVFCc09uWWN0VTYyQnNTc1d4S2RBOFlSTTcwcFduNWY2bVdPdElZRWRVNWp3UVJPeTFzVWx4YjJ3dmdJUmVSbTMtZ3h0SzBTbXktM2NqRVd0SlcyWVpyY1J1a19tUUVZVGZz?oc=5",
-            "published": "2026-06-29T16:51:24+00:00",
-            "snippet": "Following the war, Iran is establishing new rules for passage through the Strait of Hormuz."
           }
         ],
         "error": null
@@ -370,6 +370,12 @@
             "snippet": "'Security' annex to Lebanon-Israel agreement revealed: 'Hezbollah disarmament' for 'gradual' Israeli army withdrawal L'Orient Today"
           },
           {
+            "title": "UAE allows citizens to travel to Lebanon again",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnpYSGk5RlRVMVZDREN2Nk9tUC1BSERKSVBteHBxM0pnSXlKU2t3ME84TGpMUWJ5eDlhREdCWXhoTGlKdldiVTlMT1RkYUJMTDFxLUVIQjlXX0xyV0t2MlU1TW9OeC1CRm52UjF5V0tZZkw0Nk5sOWtZS1d0ZTUxLV90VHBZeUx4LWxfX0FzT191blBPai1mekVlWEFwNWVW?oc=5",
+            "published": "2026-06-29T18:39:32+00:00",
+            "snippet": "UAE allows citizens to travel to Lebanon again L'Orient Today"
+          },
+          {
             "title": "Is US-Iran deal under strain after fresh escalation?",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlJqRGo5c0RsOXZTR0VqLUtrUVZDTHpaWTRxZm5Td0p4UXFCRXV6X213TjNFUmExSzdKVDFBVldrZGFRcU15UXphT1hiNGp6TkVjdXlwSXkxTFR2LVNNWWNkZ0FQXzduRHRMVjZ5Mm9BOF9HTmZGYVU3ZERDRk5FVGNGVHZEM0FsdWx3WGdTcF9Ra1FuMjlXLUpfN09oUEhnT29fbE1lTQ?oc=5",
             "published": "2026-06-29T12:22:53+00:00",
@@ -386,12 +392,6 @@
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1VVWFViMjc5akJ0elROUllLU3IxejN6S0c3ZFNzVmhwZ01uU0g3OHFxcXF3WkZuV1hJMXhUbmVfSENOQXpzUExfWUVjSVJ4RXd3LTcwZkFyQ2l6MGpLaTVKdTZmdUJwaW1jLWdKeXF5SjRXVTNWeFJ6UWc0Smw5NlZoS3Bfa2FfTF9LMUtJQmhXV2c?oc=5",
             "published": "2026-06-29T10:00:49+00:00",
             "snippet": "The article suggests a sense of sovereignty is approaching."
-          },
-          {
-            "title": "Majdal Zoun 'cut in two' after Israel dynamites alleged Hezbollah tunnel",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV1lKOHduWEx0X2JiWDFJQWk4Z0dHZHZyNnFhMlJGS2hGbE9jV0RlUTFtNGxDdE5nOTlkY2VjUjZXU0RyWlc1SDl0ZC1DR3pPLURJLWFSVVFnX1lmc1B0Qm52b0Q5bVhfV2pseDdVTkVJTFZrNHdjSHZhbTVvYTdTTkU0RF9PNU41Vkhlak4wVW5OYkRhS2FlZGFxVHJkbHlPcHFjNGt1aXRrbjJEaE00eHJadnJ1b2NLWThYa3FiYk1GQS00UDctMQ?oc=5",
-            "published": "2026-06-29T06:54:26+00:00",
-            "snippet": "Majdal Zoun was reportedly divided by Israel's dynamiting of an alleged Hezbollah tunnel."
           }
         ],
         "error": null
@@ -442,34 +442,34 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
-            "title": "بين الإيبوبروفين والباراسيتامول... كيف تختار المسكن المناسب؟ - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPOHVRN1JDMkhDN1pqQnV1bTUtVi14WWVKVWl6MTEwNlZmZEdRdUNEa1JLc0EtN2RDUFRRZHFra1h2UEtTTVFmYzhnbTlSVm14NThodXV1YXcyTWtqRC1ZNm5KTVczVW5FQVRDcDZyakZQNGZEbWpJV2Rsbm5WZ0NTOGJlZHY2bWx3MGhjcGlzTjRjQjRXNi16RzlOeERmOTVFeDFXbWRaNFVoTUNsUXkzQnNXeE9WcHVKU05aMVRsY1FNQ2kxTHlqb0tXTVhhcHE2LWF6R05oQjVGRUVTR2ctUld4WFpsZnRBTzc4QkJRT29ETzZMbFNBclZBUFhZdDJ0LWdPM3pKSWM0V0VwY0MzOFp1cXkzcTZ4NDE2Tk9OLUx3WDRVMFh0ZlZONEVIYlV4MjN3WUJseU16VVBsUTh5SGNwU1pYd2lfOVZDNEpKdGpoT0tBcU5MMVIxWWI3amRud0JSMDVGOFowNXBoNmV3UU5fcmgwVzNIWVR4cXBsd3BfdnE3SjZWMjZtVTU0RDFUcF9Fa2xReWtJdVVOLUREVzR5c3JvbWJ4TFdaMmFWbHNqTENfaExYTGhKUHNHa0QwYXJCU0JIcERsbF9yTDlrQXZYUWcwZ1ZxQ3RESm1TeFJpaUcwQ044VG1naWxCYlRHUnc?oc=5",
-            "published": "2026-06-29T19:31:03+00:00",
-            "snippet": "بين الإيبوبروفين والباراسيتامول... كيف تختار المسكن المناسب؟ Al Akhbar"
-          },
-          {
-            "title": "روسيا تتوعّد بإجراءات ضد فنلندا إذا رفعت حظر استضافة أسلحة نووية - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOX3Fyb3RIOTRnWjBpeEJNMWNhbWQ1WWNVeG5EVFBxVzBpRXdpZjNGVzNZZkRWUGdRalVSSFhJN1c5ZlFfSWI4R1owUTk2dWpZZkRMSEYyR011eDA1eXgzeHZ2TWcyZjlNV0xTZmptWEZXUGd4alE5WHRkVXduMFZNWDNuZTFPb2JyRkMyLVZ3V1J5U3Vsakk2M1B5b2gtd3R6S1EyX18tVl9WamFUeENyZzZ4MzRMaFFPT2JPNndkQTYtOHZRc3oyMi1Pdm9BVjRXVXhhS1hUeTkybTBtZUd5aEJNSlRPQXFuTVI2MzlSQ1picXBEOXQ2UHZoaW9va0docDhYTkJfMHBtT1d0M3NKY3hlMnVNbC1XaGU3UkN5UHJHbWF1T0RlekZyTGxTZUlKN2VvRDV4UUFxZ2NpeXBHLW1tTDRTbTNxbkc2WDNtcmZ2TldMdHQ2UElMeUFQbzdhVGFYa0tsWVVta1dkazU1VUtBdndhblFRMGJPVnBld2pJaWNNQ05UT0J0NFRFM1BaQmxSakstU3l0aFM1a3NZZjMzZ1RKa2NsS081eVVHTkpGSWE0VlA0VHdEcjlIb3B5MVAzcGMyRFAzWkRaS2pld0JwZWhpbnZIOU5DME9OelB6NFBva19YZHFndVlrWjBrTkRjSw?oc=5",
-            "published": "2026-06-29T18:25:51+00:00",
-            "snippet": "روسيا تتوعّد بإجراءات ضد فنلندا إذا رفعت حظر استضافة أسلحة نووية Al Akhbar"
-          },
-          {
             "title": "إردوغان يدعو «الناتو» إلى إنشاء شبكة أمن ودفاع تمتد من تكساس إلى أنقرة - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOMHhoZGh3Y0V1Y2hKMFRRSlpYOWMzQzRUdU1yY2tENzYzQi1PZDVnelZGTkc3by1EbDNmYk9RcHNhamZsWXBWd051aEpXLU5jdnFpU1lab05ZNnRUeDdMSmhQTU9zOTBsS0RxdkpTZnhWQ0RmSmgwXzJoUkFvUGNXOW9kend1S1YxeEFnampQUFpxdVM5YnJ4SGZlSnhJUHdFXzdyRjhmYkZVOVFhQjZmTlhTejZPeFFoLXYzNXBPWXg4eGtmUTJXNTNfdm45U2xlMFc0X2FuVXJFZmx5WFZrOGJKUFpIWmplUGdCQmhJNlU2RHh5OHR4MFlYTl92QXVzM29uamVhOUNrSEVPMV93N2dLLXhTaE01SDdCUzFETW10M3ZVRi1tOFZqSjVFa3hyY3dUSkVGNGdrN0ZERFhJZXY1REI0U1FvV0lURTNtTDQyX3BQaG9yRTRNS1FYbDRDSk54WldHZ3RvSXZ6dGIzUzZYdllSMFZGdnUxd2o4R3JxSEpvWlhIcERQOU1qOVhXT0Z5NC1aWnB1MlNsWnUwN3JyUmpmUHJ5UmlVMnYxNlhFQlh6WUMtZ25ENzI3VkF6U0lFWmtaWXUxT2FnWGc1dVpFNjFKZWpveUNqQl9neW1Nd0hDUWRF?oc=5",
             "published": "2026-06-29T14:37:56+00:00",
             "snippet": "Erdogan called on NATO to establish a security and defense network extending from Texas to Ankara."
           },
           {
-            "title": "«أوف-وايت» تطلق: L/AB خط جديد بأسعار تنافسية! - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQTjlVUEwtMkNDaHZzeWppWWN5Uk4zd0FFOWYwcVFMMzlVOWRpa05hTktDWDNMUnhSZXhHN1N3VmZwRU1QY19NRktuTHo0LTJJbzNDWGZYU1NkazAtSUx0a2VmSFoyMmRDeEhJZmx6VXFDVDNaWHdHRXFMeVM5YWItV1E1VDlXcmtQQmhkb1BPeUR0ZW5XOHVRUlhZZTZueHdFSlBiLUFwUHJEbjk1X2hMTjVtVkRpNXBWQVBRU0VZeFJnNU9VQ254TUtEZTdyUXdpa0xWekphWjNjeXdja2MyOVRXOWw2RmxXa1ZXYUR6YzlSZE9LeGhpZkZPRXpKOExoQ1ZiZzA3U3QzYlYyT0lZOGZmTDhKNGIxcVRlMDZUdkZQdlF0RnN4d1dYUG5rWjhqdDludk1pLXdEbXFvX0lKbWYtS2J6clBxUmVLamNidFRldnl2Ukh6bA?oc=5",
-            "published": "2026-06-29T11:36:26+00:00",
-            "snippet": "«أوف-وايت» تطلق: L/AB خط جديد بأسعار تنافسية! Al Akhbar"
+            "title": "بزشكيان: الإفراج عن 6 مليارات دولار من الأصول الإيرانية المجمدة في قطر - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPamg0cGtlX0Y0NEttY2RfV1oxMTQwb0NpOWpSSm43ZEpzaVo4c1NPc1RRWU1fazdGV2ozSXpwT2tySVRzcWJad1VHdXdkOFNFSnNTSU1RTHJvUjdCR1M3emJHOTR6bzByeHJfdXNJU2ZLMnNrZEw3amIybTk5TTRBaHJXYm9VTnBPX1FrQXhwdUwtUks3c2FBWVJ4el9ubzNKUGNkcjZIZkZYNEtTSFV4eVNHUXcxWlRpTGgwUU1vQjNVYmFNUGdha0lyM0xHVUJXMnVPS0NVOHdiQmpDbWJqQjBUR3dSZFhVdElPU05FM2MyU1hmQWVTcGFFVE00MmpFVFdaUGNJR2NkeEVDRFhZTFZWWlpncmtVc0Vaelg2OWZCMExNOVBmQWM0bDYtN001TXdzMUNXYVRXb042UDNibEc1QXlIeFA0Njhibm1zVGVQNVh4UkpVU1gzN0IycmJnNE1IbUFOM2RYY2ZJdHBXOUkxVTc2LWtmRHV1UlpfZkd3dlF1NjFvX0pyYjhfUDFUenBYdkxwRFBXY1RXSDBXZDRuZHJQZ19lX0l3ampQNmZTcVppa0gyYmtpTXFZZ3plZGJfWkVqZTF4VHk1cFdqa28zS2pvUWtpX0tvaF9FT0FCOTJyZ01CMVNDRVJodw?oc=5",
+            "published": "2026-06-29T14:08:26+00:00",
+            "snippet": "بزشكيان: الإفراج عن 6 مليارات دولار من الأصول الإيرانية المجمدة في قطر Al Akhbar"
           },
           {
             "title": "قبلان: هذه الصفقة الشنيعة لن تمر مهما كلّفت من أثمان - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQY0UtSlF3ZmF5T3pUOVlhUG80aE9IX2xVUGNvTjBSUVB5SG05OERHMjNBcFVfMURqZGs4LVY1bUk5ZWtVNHYxMnpRTzdMTjI3akN5aDlhaXZLbFJLck9wUDQyRlROdHhuZFpXdWZydGN3ZlNuS1YzTHRmdlpGUFI3b1p1V1JSTXBCXzlyUUNKWjBZcXJpSU1GbU9teTJCWUVBeG1ka0gxRms0Z0psUlFscjM2eTVJbzN4c0RaY1VYTDJZZDhSVzVHTHhrM3VmZHAwTlZBSl9uY3EtV3lyYkNGX1A2al9feTlhUkNVNE4wU0JRcHRyUDN6S3k3UWVMR0lXVlNYRFB3NjhMRkwzcDVxMnVpWkpFNHVKRThJbWFuMmxVY1ZJSEtEQlR6VWFDcEdMeC1XT3dnTVV1NDIwT0dGSEJzUjltdlNkUDZIN1NLb2lLbW9WeGxDT1dRX3Z1YW5qMXpxNUZxdHpTeEptTDBMcGRuV2N2YnV6eDJvUVdpMWpWOXlwT2l5eHVnU0x0Y0t1OXlLM2lfamg3ZU1jaDNNVTM5YWpQaGlyaWhXWlROSQ?oc=5",
             "published": "2026-06-29T03:19:38+00:00",
             "snippet": "Qabalan asserted that a 'heinous deal' will not pass, regardless of the cost."
+          },
+          {
+            "title": "«لا تمزحوا بإقالة هيكل ولا تلعبوا بالجيش» | بري لـ«الأخبار»: إملاءات أسوأ من 17 أيار... ولن يُنفّذ - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpa0dSNDVwWEdRajdsV3Z0YndIYUFJcHcwVHF6Q1g3QUFEbXB5cHpFNGZaYmN1dW8wNFNRUVdKTjUxQUdMZnhPa2FzSlliN2JrdTN1dmdNVVBTQ0tkTndVcDdvS2h3bnRjVmc?oc=5",
+            "published": "2026-06-28T21:30:00+00:00",
+            "snippet": "«لا تمزحوا بإقالة هيكل ولا تلعبوا بالجيش» | بري لـ«الأخبار»: إملاءات أسوأ من 17 أيار... ولن يُنفّذ Al Akhbar"
+          },
+          {
+            "title": "لن نغفر لكم... فأنتم تدرون ما تفعلون! - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlOTNIc2FIN0RjNzVKUFNEOWRjR0JpVTNEbkxQSWhOQzBhRWpXUFRPd2Z6MWpMck1qWF9wYUEwWFhqQ2pUYjhrN0VGVXF3aEVWU0R1b2NOMndPcWFab2pRcURoZjBEZ2oxbXc?oc=5",
+            "published": "2026-06-28T21:30:00+00:00",
+            "snippet": "لن نغفر لكم... فأنتم تدرون ما تفعلون! Al Akhbar"
           }
         ],
         "error": null
@@ -480,6 +480,12 @@
         "lang": "ar",
         "url": "https://www.almanar.com.lb",
         "headlines": [
+          {
+            "title": "غارة من طيران الاحتلال الاسرائيلي على منطقة الكرامة شمال غرب مدينة غزة",
+            "url": "https://www.almanar.com.lb/article/987622/",
+            "published": "2026-06-29T20:35:22+00:00",
+            "snippet": ""
+          },
           {
             "title": "وليد جنبلاط: “يا محلا” اتفاق 17 أيار أمام اتفاق اليوم",
             "url": "https://www.almanar.com.lb/article/987577/",
@@ -503,12 +509,6 @@
             "url": "https://www.almanar.com.lb/article/987562/",
             "published": "2026-06-29T20:15:39+00:00",
             "snippet": ""
-          },
-          {
-            "title": "الدفاع المدني: العثور على طفل مفقود في نهر جنّة",
-            "url": "https://www.almanar.com.lb/article/987432/",
-            "published": "2026-06-29T19:59:36+00:00",
-            "snippet": "The Lebanese Civil Defense announced the discovery of a missing child in the Nahr al-Jannah."
           }
         ],
         "error": null
@@ -519,6 +519,18 @@
         "lang": "en",
         "url": "https://english.wafa.ps",
         "headlines": [
+          {
+            "title": "Death toll from Israeli aggression on Lebanon rises to 4257 - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xUlIwZFRLUGdoNXBVcnc2N2lYa0JVUXcxS2hLblVsOHJfX0lNbFJtWllvY0d5NFhuWElfckhVUVVIa2NPOGtPaTIyZUxZSDlDMDExTGxFTQ?oc=5",
+            "published": "2026-06-29T20:58:41+00:00",
+            "snippet": "Death toll from Israeli aggression on Lebanon rises to 4257 WAFA Agency"
+          },
+          {
+            "title": "UN official: Gaza still faces profound uncertainty and immense human suffering - WAFA Agency",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtX0M0ZzdXczBJSHlZMGxyS21HY3BISDFYdzdNYlFpR29fb2NsUzBQYXpETVJCdmhXY1p1cGQ5b2JzNW5ua3pId3pldXlVZlc4MUVkT1d4cw?oc=5",
+            "published": "2026-06-29T20:38:28+00:00",
+            "snippet": "UN official: Gaza still faces profound uncertainty and immense human suffering WAFA Agency"
+          },
           {
             "title": "PLO Executive Committee discusses political developments, upcoming electoral obligations - WAFA Agency",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fUDNsZkdPT1RRYzlxLUxsNWZkS2Rld1gycnNiVlZkbi1sN2NGbzNHNmVlNk5IVU1OQkdId1NodWRlZXg1Qmd4VjdjaC1ERHhtNThoMnlQUQ?oc=5",
@@ -536,18 +548,6 @@
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ycmczc2c2TmFrSnhrOUpxTTFYMENodXZkNTNSSkhvUGZDSjFYXzdnU1JCZFllTUkwSmp1MEowQXJNQnA3NXlqR2tRNTJnSWJHOC01Nk5XZw?oc=5",
             "published": "2026-06-29T19:28:25+00:00",
             "snippet": "The Vice President received French and Swiss envoys in separate farewell meetings."
-          },
-          {
-            "title": "Colonization and Wall Resistance Commission warns of Israeli plan targeting 100 strategic sites within Area A of the West Bank - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDSWhocWNxa3FhdHNjMlp5NXFUTGpBampiSGZOWDZEYnI3RWlyZW1IT3JYTEs4TmhQRWZFQzBEQ3RPdFI5U3V5WlljeW1MU0VRUUFTcWgzNA?oc=5",
-            "published": "2026-06-29T19:18:25+00:00",
-            "snippet": "The Colonization and Wall Resistance Commission warned of an Israeli plan targeting 100 strategic sites within Area A of the West Bank."
-          },
-          {
-            "title": "Israeli forces raid village near Ramallah following colonists’ attack - WAFA Agency",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fZ0NLRjZVVmppZFdJQldmbFRROUV4M0FhWjhZckdwTE5mTmpzdlF3VEpRRXY3Um9vTmdnUVFucDRGYm0tUzVvNDBmY2ZJbmYyWEV1amVMYw?oc=5",
-            "published": "2026-06-29T17:03:35+00:00",
-            "snippet": "Israeli forces raided a village near Ramallah following an attack by colonists."
           }
         ],
         "error": null
@@ -600,34 +600,34 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "King Abdullah Humanitarian Foundation",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yMERXUjZDR2FrcjMweGRiYlluUFY1RjA1Mkt0LWp0aFhkUmNOVDUyWFNTTEpQOTVScnZncXl5VXdDRU1lMmJTdHJ2TS1TUWtpRlRmc1Boem5XRnJ1ZkRRQlYwVE1GT1d2ZnlwMllTcXNuZ0VuMWc?oc=5",
-            "published": "2026-06-28T20:29:40+00:00",
-            "snippet": "King Abdullah Humanitarian Foundation Arab News"
+            "title": "Pakistan’s Arslan ‘Ash’ clinches eight EVO Tekken title in Las Vegas",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpZXlVUEVVWXRVa3lSemtrSGU3NEZvVUhRZkhROHZDbUJtSkRzY3pfSXB5TDJmQjBmMUtDUHJnaDhTSkxxTmNhcThoaHlsOUJXeXk4?oc=5",
+            "published": "2026-06-29T19:34:28+00:00",
+            "snippet": "Pakistan’s Arslan ‘Ash’ clinches eight EVO Tekken title in Las Vegas Arab News"
           },
           {
-            "title": "women",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vNE5mVDMwZldhUGNYQW1MT3lMZWxpTHhxU2ptODBZRWNEbUFJNUZka29rSkp6Ti11SmdJeFJ1ZXljeDZ0YVM4Qnc2Z1oxdTJ0R1pZdFN3?oc=5",
-            "published": "2026-06-28T19:41:35+00:00",
-            "snippet": ""
+            "title": "Qatar advises temporary suspension of sailing, some other maritime activities",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6OHRGVzVDSk1mbDFhMlgzMTFzemRreTBuQU92U1poVGtGNFZTaUxIWi1PMTJuaTZRQlFmNExUMk5GQzFFQUVLaVQwWlVDX2gtQWI4?oc=5",
+            "published": "2026-06-29T15:45:10+00:00",
+            "snippet": "Qatar has advised a temporary suspension of sailing and some other maritime activities."
           },
           {
-            "title": "Sheep prices surge in Ramadan",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDFzbjlSYlM5b3BTdUN1UGlYeHM1UVdQQ2Q3U0lKcU5GYXg3cXlGeFR1eGFvaVJ3ZzBOQlliRTlZMjMzaEVhaV9CMEg1bVVlMF9JZS1tdjZQcW1sdnlNVTdsR2tNV3VnVGJ5MmsyX3g4ajBnWkc2SE82YktDdjR4UWlNY0RZUE1OdWJ2R2NYMzM3ckJ5OWpaTGJGcw?oc=5",
-            "published": "2026-06-28T12:52:18+00:00",
-            "snippet": ""
+            "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PS3hzTzhpdWhrbVZMZkJNOTJ3SHA4czE1dFRtcDZrblEybDY3RDFoZ3pqOTZoaXVmMEk4Tk5yd1VDNTY3bkktOUpYSE4zVC0tZ240?oc=5",
+            "published": "2026-06-29T14:09:36+00:00",
+            "snippet": "Iraq sets September 30 deadline for pro-Iran groups to disarm Arab News"
           },
           {
-            "title": "women",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMZVU4d1RQMnA3S013cERIaDZCYmFXcEhIdGVJYVRybDhkZ2ptd3dJUklqdjFVQlVSM0lpNFRqb0dNODZhenFUaDI0dk4xRVdhYUVxM3lB?oc=5",
-            "published": "2026-06-28T08:51:24+00:00",
-            "snippet": ""
+            "title": "TikTok brings agentic AI, new ad tools to MENA brands at Cannes Lions 2026",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UZ3FHUU94M1A3eXlBMVdCRzY2eDZJblhXSTdxZXpscEF0Yy04WUM0LUF1alEzYnU4V2xmQzdFR3NFT2MyejhZRENJckZ2XzJ3a293?oc=5",
+            "published": "2026-06-29T13:40:33+00:00",
+            "snippet": "TikTok brings agentic AI, new ad tools to MENA brands at Cannes Lions 2026 Arab News"
           },
           {
-            "title": "Iran accuses US of ‘blatant violation’ of peace deal",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoeFhIOVFGTk82TEpTQ3A2ME9kSlFOT1l5WnBRUEZsT2JnbVYxb2VwU21XUGFEX1BZUWJNS2d3YmtQZ3hUc29CMGtpVFJKeWhRZTdrLXhiQQ?oc=5",
-            "published": "2026-06-27T07:00:00+00:00",
-            "snippet": "Iran accuses US of ‘blatant violation’ of peace deal Arab News"
+            "title": "Baniyas crowned winners at Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xRjZMUHlGSjVHMGx0Y2ktNU5ISUNvMmtFQ193NFRUcnJGZ29ibzVkWkVNOXNaNHR3ay1xTEgxeTNad1lLb1A4eTdnbXVtS0g2bFZB?oc=5",
+            "published": "2026-06-29T10:31:12+00:00",
+            "snippet": "Baniyas crowned winners at Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship Arab News"
           }
         ],
         "error": null
@@ -680,34 +680,34 @@
         "url": "https://www.aa.com.tr/en",
         "headlines": [
           {
-            "title": "Paris official fires back at US tourists over air-conditioning criticism amid heat wave",
-            "url": "https://www.aa.com.tr/en/europe/paris-official-fires-back-at-us-tourists-over-air-conditioning-criticism-amid-heat-wave/3981716",
-            "published": "2026-06-29T20:25:26+00:00",
-            "snippet": "Deputy Mayor Audrey Pulvar says criticism from American tourists over France’s lack of air conditioning is misplaced, citing US’ major role in greenhouse gas emissions"
+            "title": "Iranian president says Tehran to honor commitments if US adheres to memorandum",
+            "url": "https://www.aa.com.tr/en/middle-east/iranian-president-says-tehran-to-honor-commitments-if-us-adheres-to-memorandum/3981738",
+            "published": "2026-06-29T20:53:23+00:00",
+            "snippet": "Pezeshkian says Iran will respond to threats with rationality and decisive action"
           },
           {
-            "title": "Fresh Israeli strikes kill 8 in Gaza despite ceasefire",
-            "url": "https://www.aa.com.tr/en/middle-east/fresh-israeli-strikes-kill-8-in-gaza-despite-ceasefire/3981714",
-            "published": "2026-06-29T20:22:43+00:00",
-            "snippet": "Mother, her daughter among victims in Israeli attacks that come despite ongoing truce in effect since October 2025"
+            "title": "Nigerian army rescues 10 kidnapped students, as 2 soldiers killed in clashes with Boko Haram terrorists",
+            "url": "https://www.aa.com.tr/en/africa/nigerian-army-rescues-10-kidnapped-students-as-2-soldiers-killed-in-clashes-with-boko-haram-terrorists/3981736",
+            "published": "2026-06-29T20:49:55+00:00",
+            "snippet": "Efforts underway to rescue remaining abductees and bring perpetrators to justice, says military"
           },
           {
-            "title": "Zelenskyy mocks gas shortages in various Russian regions",
-            "url": "https://www.aa.com.tr/en/russia-ukraine-war/zelenskyy-mocks-gas-shortages-in-various-russian-regions/3981712",
-            "published": "2026-06-29T20:18:02+00:00",
-            "snippet": "Russia, which once described Ukraine as a 'gas station,' is now 'running out of gasoline,' according to Ukrainian president"
+            "title": "US Secretary of State, Libyan commander discuss unifying institutions of North African nation",
+            "url": "https://www.aa.com.tr/en/middle-east/us-secretary-of-state-libyan-commander-discuss-unifying-institutions-of-north-african-nation/3981735",
+            "published": "2026-06-29T20:47:00+00:00",
+            "snippet": "Rubio affirms Washington’s commitment to creating conditions for democratically elected government in Libya"
           },
           {
-            "title": "Irish police probe suspected arson attack on mosque in Dublin",
-            "url": "https://www.aa.com.tr/en/europe/irish-police-probe-suspected-arson-attack-on-mosque-in-dublin/3981709",
-            "published": "2026-06-29T20:11:31+00:00",
-            "snippet": "Fire at Al Madinah Hall on Talbot Street under control; no injuries reported"
+            "title": "Israeli army launches renewed strikes in southern Lebanon despite framework deal",
+            "url": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-renewed-strikes-in-southern-lebanon-despite-framework-deal/3981729",
+            "published": "2026-06-29T20:38:47+00:00",
+            "snippet": "Israeli airstrike targets Nabatieh governorate despite US-brokered agreement"
           },
           {
-            "title": "US weather agency warns of “dangerous” heat wave across central, eastern US",
-            "url": "https://www.aa.com.tr/en/americas/us-weather-agency-warns-of-dangerous-heat-wave-across-central-eastern-us/3981706",
-            "published": "2026-06-29T20:07:19+00:00",
-            "snippet": "Heat indices expected to reach 46C (115F) as major heat wave threatens July 4 holiday"
+            "title": "Oman says it opposes fees in Hormuz, leaves door open for maritime service charges",
+            "url": "https://www.aa.com.tr/en/middle-east/oman-says-it-opposes-fees-in-hormuz-leaves-door-open-for-maritime-service-charges/3981718",
+            "published": "2026-06-29T20:28:42+00:00",
+            "snippet": "Foreign Minister Badr Albusaidi says Muscat supports de-escalation, safe navigation and implementation of US-Iran memorandum"
           }
         ],
         "error": null
@@ -718,6 +718,12 @@
         "lang": "en",
         "url": "https://www.dailysabah.com",
         "headlines": [
+          {
+            "title": "Czech govt clears president to attend NATO summit in Ankara",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0dCZVdrdFd2ZU1NdEZjNWg4aDNBSTBQSXNXTUJVLWVBRDR5T09sNXYyTEVxZVpTdjdyLVVBUHlsdUM3TndLQlQtZENOcjRYZlFVZDhQdkRjLUNNV2NjSVZad29GSW8wcm8xYlpVRFpySlljS085X21zRlpwRHBNSjBFdjVIcmcybFQxZFF0YXo3WW82SWxGRzNLeWdoRzVw0gGmAUFVX3lxTE51c1dBajVQekFXc2hQV0llencxcGYtemFhSlMxZDBCdHJ5Tmx2Skl1NmpaVW5BYmlhSDdqbW1mYlk3Mm5SLXEzb2k1N01adjRGSWxwTWN0NFNpVjY3YlhVQmNQVTN5akFrRkxPV0wyS2hldlFWWTVrME9UaFRFZEdJRU5Rc0JsZlMxQWw2SUdVTXk4UGlGV284aGNJbGhzZ1psak5kdGc?oc=5",
+            "published": "2026-06-29T18:24:00+00:00",
+            "snippet": "Czech govt clears president to attend NATO summit in Ankara | Daily Sabah Daily Sabah"
+          },
           {
             "title": "Top EU officials to visit Türkiye for talks on security, trade",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzNYWlQ3WWhnS2ctR3M4VFJUY3JacUZ1REExV1JwSWh3SG1TOXR0SzRXVjJtNmZHaC0xZWNZdFd6SEhzYzR6Y2NlNEpvTG5PVWVFazVFYWdUZVhmZTFGcFVNOVh2cHV3b3NtYUptbFhhMU9USE0xRjk0d1djQi1HNHpkYk1ONEVSOXYySnUwX3c4ZVlRSGtlN0owcWJVOFg0NkQ1X3VTS3Mtbi1H0gGyAUFVX3lxTE5RdGR0SXNFMUR6Mm9fOFJZR1dTdS1qZURRcy11STA1bmtwdjJiYU51X3lnWGIyUEhZaGRSQk5mUDFqakZEY3p6dUFOLTVlZDBmS3pKQmlPZk9yOUs4R1ZfR0FBT3lvaGxlT21NQ3h6cl9kLWdwdUZfb0V6bXJnNEtCSVduQ1ZCTUJ3VGR3cXRvblhnTGVRNjc0eXV4YmwteUxMYUVZVk5OZnpEaHh5bkZPMFE?oc=5",
@@ -741,12 +747,6 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2h2NWZGSHB5MklUZWxlUEtoV3ZOckVrTmhCRnB2VlpRU19wd25Xc2VvUTlUcmh2MDA0UFVubWVhQjNkNy1CU3V5eGJCWDlJY0RGNjJfbGs5V2xmazJ0NDdTWkFQYjJDb3VJbzVZbGl1c1k5T2pNT0hDN1lfYWRJUXkwcS03ZWc4NGVTWS02dHkwYVluVzI0VDg0UmktWmJoRXNYSkNsSdIBrAFBVV95cUxOcVpGUk90SzZpR1YyQTJJRFlPUWpOaG0ycFQwUkdLWElJWXlockFRRUlUUEQtZXNWcm1OLWRFdXIyTmQtd2dNSm03bHluOU16STlmNUdGdk5PaThLdGxVa1JVSW55R3REb1FFZmJ2RUhMUlVHSVpyNTU0amZZSGVCOUlhLTdvbFJxN19rSHJOamlWYy01N0hoMGdzajFtOFVXam4xT0toWm53ZHR6?oc=5",
             "published": "2026-06-28T14:08:00+00:00",
             "snippet": "The Turkish Cypriot PM has opposed a new scheme allegedly proposed by Greek Cypriots."
-          },
-          {
-            "title": "Kılıçdaroğlu rolls out more purges in two-headed CHP of Türkiye",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUJST2xIWi1XRDVXOGt6Zm1ZeVpHWDhjWmExc0ZzNTFwb3VNazVzeFBXY1NxaUdQTC1EUlB3TzFGZzBVNERPQVpnektQdGk4VVZmMWUydlEyZ2pqOGZRbGJCWVNEdHE5dkZQRkE3OUNHTEstVE1VbzA5ZUZJaWZhemNzbEExTUJWeWM2ai1iaWVJVFE2MTAwRmFVV1hYeGNBZ1VmcXFPNNIBrAFBVV95cUxNM1Boak1tUVFxWkh1UnJWVzVhbXJReXg1dGFFVUxtRUZydU9lWHVMeDZ1VFkxXzZ6MDZDbkdjYjdRMFpxd0IxdlRTeS1ueTFQR0lFaUJJTGdMck5pdHdsUEthSldlV2hwSXZEbHJ0eFpEOFJVeHZJTWNQSHdJbWh3R0UtWFFDWkd1aWlySTN1R3F1UnBFYWw4b3JDaDhVZ3pQUjdpU0NMdFRpeTM0?oc=5",
-            "published": "2026-06-28T13:44:00+00:00",
-            "snippet": "Kılıçdaroğlu is implementing further purges within the CHP in Türkiye."
           }
         ],
         "error": null
@@ -821,10 +821,10 @@
             "snippet": "Türkiye's Erdogan described the upcoming NATO summit in Ankara as the 'strongest platform for sharing experience'."
           },
           {
-            "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ocld3REd2d2s4cFNWM2ZTX3ppWGcxd0pKSDRaLWdkOWFTMHNqd3pobWVQS1Q2eW5pNno1RnVvZkpSd3d3QVo3QnRDd1FFZFIzNjJhN2ZsSFM?oc=5",
-            "published": "2026-06-29T06:49:45+00:00",
-            "snippet": "Europe's record heat has overwhelmed Paris mortuaries and caused distress to families."
+            "title": "Ending Israeli aggression key to ensuring world peace: Turkish parliament speaker",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03ckNUdTBrdlpFdDdXZzROODlhX0xLbDZRZzJwRUlHU2ZOSzhDRkZqTUNsR1R1UlRydkRScFZWcmp1a0REaTd1UkpReW5zQkp0d1IzNXFlbno?oc=5",
+            "published": "2026-06-29T08:28:54+00:00",
+            "snippet": "Ending Israeli aggression key to ensuring world peace: Turkish parliament speaker TRT World"
           }
         ],
         "error": null
