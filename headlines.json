@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T04:09:49.912760+00:00",
+  "updated": "2026-06-29T04:38:49.169242+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -48,6 +48,12 @@
         "url": "https://www.middleeasteye.net",
         "headlines": [
           {
+            "title": "Iranian-American lawmaker says Trump’s comments on Iran are ‘unhinged’",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-american-lawmaker-says-trumps-comments-iran-are-unhinged",
+            "published": "2026-06-29T04:10:21+00:00",
+            "snippet": "Iranian-American lawmaker says Trump’s comments on Iran are ‘unhinged’ US Representative Yassamin Ansari has criticised President Donald Trump's recent threat against Iran, describing his rhetoric as \"dangerous\" and \"unhinged\"."
+          },
+          {
             "title": "Oil prices rise as US-Iran tensions disrupt shipping",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-us-iran-tensions-disrupt-shipping",
             "published": "2026-06-29T04:01:51+00:00",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-have-killed-over-4247-people-lebanon-2-march",
             "published": "2026-06-29T01:17:26+00:00",
             "snippet": "Lebanon's Ministry of Public Health reported that over 4,247 people have been killed and 12,195 wounded in Israeli attacks since March 2."
-          },
-          {
-            "title": "Washington and Tehran agree to halt strikes, US official says",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/washington-and-tehran-agree-halt-strikes-us-official-says",
-            "published": "2026-06-29T00:52:36+00:00",
-            "snippet": "The United States and Iran have agreed to temporarily halt strikes and allow free passage for ships while technical negotiations resume."
           }
         ],
         "error": null
@@ -147,7 +147,7 @@
             "title": "Iran warns ships not to bypass its chosen Hormuz route",
             "url": "https://www.newarab.com/news/iran-warns-ships-not-bypass-its-chosen-hormuz-route",
             "published": "2026-06-28T21:50:20+00:00",
-            "snippet": "Iran has issued a warning to ships against bypassing its preferred route through the Strait of Hormuz amidst rising US-Iran tensions."
+            "snippet": "Iran has warned ships not to bypass its designated route in the Strait of Hormuz."
           },
           {
             "title": "Kurds rally in Turkey's southeast for jailed PKK leader",
@@ -171,6 +171,12 @@
             "snippet": "Internal divisions in Washington raise questions about escalating tensions with Iran and the ambiguity surrounding a Lebanese agreement."
           },
           {
+            "title": "حزب الله: نراقب الانتهاكات ونرصدها.. ونحتفظ بحقنا الكامل في الدفاع عن وطننا",
+            "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQU1c1dTctNlc1a2tpMGJBX19jSmpWTlo3UjVMUVZaWERjZWM4czhmR1FlWFpfV0JIOGlHSDNNSU5fTFZxbnZ0ZXBoV2JJaVlvUDhkcHlYNTdWOXl1RzcwVlNESVNxTGF4V01mWW1zb1ZodFNTQ3oxTXVfM0JOTHVobnRLMVo2d3JRck5ySUFqMVFVVkZJR3RVd3VvYkhiWU5VVEtfREwxTFdvcjZ4MUhYeGM5UDB4YnlGdG9KTnI1bXp1U01JZXpXeWlFUVY1Yk1fZE85SGhKVElSM0FHdzdBMGlZUjJIRXBsaG4yNDFHSHY1bzlKelZnSHBkV2dPV0Z5b21LR0tNTktJdE4tcHFQbzFJR3RhbkQweWU5MUZ3SnJhMU5sU2pBYUVQRjU4eTUzTW9tYmxqLXV4Z3RGNXl3b3VXbF9IZFFGVk02VjBCbE5sSlR6TFZ5NXptYjBjWVhQYlFiZjROZzdBSGJLRy0yVFhwUDdiTDJGQ1NBclhKVHZWb3ZrR3RabGloblJ6VkJtZ2VzR1RMWjRGdEVRbjRCV0NtRXRyTjdEcU1KVnZScHBIUFRObk5aakR1Mi1mVzE2RkVaSDBBT3oyV0dEYTNZM25tZGl1ZndobEZhZ3Q0MmRHZw?oc=5",
+            "published": "2026-06-28T23:30:02+00:00",
+            "snippet": "حزب الله: نراقب الانتهاكات ونرصدها.. ونحتفظ بحقنا الكامل في الدفاع عن وطننا almayadeen.net"
+          },
+          {
             "title": "اتحاد الشغل التونسي يحذر من استهداف استقلاليته وسط تصاعد التوتر مع السلطة",
             "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQaHd0N3RBZzJDcHhtTE5JN2UzdjFRVGZDejQ2RVVabmxGOE5RZVphelZYYVdPeDJBUlMwY0tsdUhXdlFMRUR5R3hDdTVKUGlsZlJaV1VyRHZiaGVSMXM3Z3VQbFJqQnJ5NFZkLUhyU3IyRXpvMnZYV256N2VCbjUtOV90ems5RXN6alRpMlExdk1TU3UwQXM3R2hwcloycGE1ZTdMRDBodmp5S1NnR3FSbEIyYzJDaUpXXzZTYkNNbFBrY21oWGhmWDJZRHNlZFh2TGZfZl9YNFhiTHR0bVZuVldoMGtybjVuM2hmcmwwNnZtb3IwRURiVFFfODUtOTBVZndtTlQ3Zklpdnc5NVFkNlZoaWZPVTZWbE1veVlBa0w5Q0dEVW9tQUo5amRLVlo0bms3cFVlM3FYM2xNcE5WdXNrVWkzY0pnNUY2cFpZSGlBZ0JIbjYwNFl0cHNCSjhjaDl0X3lLc0lOeFBWTG9NUmtLb1B0SVlnZkZpVUdPd0dYV0hpVXVhR0FPeTFpQ1o0YVdXMm4td0YxRy1PZ1pKWlpyYzcweWQwTk5FQmNsemwtYUoyYmZmWUNfNFFzVGR6Q05sUTVyZWdLSE01VXRqLXE5d0tsTHdXUEY0OXVnS0pCQVVXLWYwM0kyY0xkQkFLNXRV?oc=5",
             "published": "2026-06-28T23:29:06+00:00",
@@ -187,12 +193,6 @@
             "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPRVB5UzV1OTR0MkhTNlliclRwYWJDRzFFU3ZjeS03NUdaYkxmb21qLWFCdVpiRnlUZ1BvbVpUR05BTHpNeTlVdnFxVzJKYS05STRnWjNHNVBoZWhqejFHVFJYNzdQdEZrOV9sRVNJd19tX1EzX2FWcnVKR09KX2QtODJkUUlHN1pNc0QtUzRFcXFIclNOV3N4WG53SWx3NEd1WGpsYXh4bmZUZXRhQ1B4c3l2VEp2cFNYNGhuSXR1eHdYdWk4TUFwQnVnSnpQeG9kZlpRSkhXZkl2V1p3MEVacjg1Nzg4OXpCTGxjNk5aQzZuMG45UEJFSExDdXd4aUdhbjc0Tlo4TmJBNW5lNEszd1ZrVmV4U1dYSHRCVW5RZ1c5UFY0RkljaC1IVmJfY291R1hIVGowRGtDTU05b3U0TlVrdW1mT0dCM19rTGcxYkRZUXlqc0hKY0RaenNvLTlhZ2lNd21iMG9ibXVnbWRzQm1NLU5KVWc4NlhiUkRZakl3REQyNlBUQktXaGJyNjVVTnpzRzVHZGdZbGFIdnExd1NSQ05UOWZxcW1aQlR4YkJsQU91WFh3d2dHWmk3N1lFS3BSU1p4bXBlVl9VeV8tLUxSeHpwU3lvQWZLUGRyZDUyeU9iQUE?oc=5",
             "published": "2026-06-28T21:39:57+00:00",
             "snippet": "Increasing Israeli incursions into southern Syria are establishing a new reality on the ground, raising significant concerns."
-          },
-          {
-            "title": "مفاجآت الجولة الأخيرة من دور المجموعات:خروج إيران وتأهل مثير للنمسا والجزائر",
-            "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxOcjI1MGhPMGpOWWQ1b0VVZEJjNDZjbmZSNlRMQ29OSTJ5MnQ0V3hDWm1ISnFSdkx6VGs0VkhHMDM1MnBzTlViX25FZm1MUUtuQXh6Qnc1ZnNmWHJUYUtSYi1rYUotQVcxQ0luR08zUzNNYl90dUpnV3FISWFJRk12Y0RuYlg1ajduYlNQU0ZmMVFPWHljWk1reG8xck9QWDE0ZnJTTXI5ZnVZMFlYYkQ1YzVXNXFTcjNrYWlZdHJXWXpxOVBhSjRSYUxGMjJkU01CSlEtWE56MXY4SENaSi1QUlRZRUYxZjlsZU5JSmcwbGx0LVo0T3NWQlIwdDNPN1RiZmNBZHhVY1RKM2hVVE5nOFZQLXZnNWtJOXducVYxU1hTWTV2WVlRN1hhOExfNmRuaElmOVh6NFAxdXpDRWNRamxNUFUxSGVMem9uTmFLclJKUW10TS1Wd0VmNVJHZVBPRDZXTmJfRXlHbUhFQXlRWkhwVWVMTEl0dUttYlZIOG9yaDdxRGI5c3VUODBON1RfRUxKMnRDbVRkSTBiZnVxemVHTmg4bjRfXy1nNVNsYk1BalMxcGpMMmdXcW9yY3piaE5TbnJBNVhYazJobzhrSlYtNkNwUklRYjdYWXUzSVhLLUtVdzlJUHJiVnJYanJXLTgzWDBaZk82YXpXSHpyZ2p6QlV1SUxzazYwOG92WnZZOS1VWUFKcnhFanNBb0pxQndhZTdaSWlLelRQVGpuZkRNU3o5Q3k4TGg5aHJWVjhnYUIwc1lzOVlWY0VLbzZraGVOX25VMEZqeHpzXzJOemw4UXlfOXZqdklrNHpibEc0UmdWMUs1MEVSOA?oc=5",
-            "published": "2026-06-28T21:33:20+00:00",
-            "snippet": "Surprises in the final group stage matches included Iran's exit and exciting qualifications for Austria and Algeria."
           }
         ],
         "error": null
@@ -680,6 +680,12 @@
         "url": "https://www.aa.com.tr/en",
         "headlines": [
           {
+            "title": "South Korea in 'close' coordination with US after belated disclosure of North Korea's latest missile launch",
+            "url": "https://www.aa.com.tr/en/asia-pacific/south-korea-in-close-coordination-with-us-after-belated-disclosure-of-north-koreas-latest-missile-launch/3980712",
+            "published": "2026-06-29T04:27:15+00:00",
+            "snippet": "North conducted tests of new multiple rocket launcher, key weapons, overseen by Kim Jong Un"
+          },
+          {
             "title": "Russia imposes fuel restrictions in Irkutsk region",
             "url": "https://www.aa.com.tr/en/eurasia/russia-imposes-fuel-restrictions-in-irkutsk-region/3980711",
             "published": "2026-06-29T04:07:35+00:00",
@@ -702,12 +708,6 @@
             "url": "https://www.aa.com.tr/en/middle-east/syria-condemns-israeli-incursions-shelling-in-south/3980703",
             "published": "2026-06-29T00:24:36+00:00",
             "snippet": "Syria condemned Israeli incursions and shelling in the south, stating they violate its sovereignty and a 1974 agreement."
-          },
-          {
-            "title": "US young Republicans increasingly souring on Israel amid Gaza, Iran wars: Report",
-            "url": "https://www.aa.com.tr/en/americas/us-young-republicans-increasingly-souring-on-israel-amid-gaza-iran-wars-report/3980698",
-            "published": "2026-06-28T23:02:13+00:00",
-            "snippet": "US young Republicans are reportedly becoming increasingly critical of Israel due to the conflicts in Gaza and Iran."
           }
         ],
         "error": null
@@ -723,6 +723,12 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2h2NWZGSHB5MklUZWxlUEtoV3ZOckVrTmhCRnB2VlpRU19wd25Xc2VvUTlUcmh2MDA0UFVubWVhQjNkNy1CU3V5eGJCWDlJY0RGNjJfbGs5V2xmazJ0NDdTWkFQYjJDb3VJbzVZbGl1c1k5T2pNT0hDN1lfYWRJUXkwcS03ZWc4NGVTWS02dHkwYVluVzI0VDg0UmktWmJoRXNYSkNsSdIBrAFBVV95cUxOcVpGUk90SzZpR1YyQTJJRFlPUWpOaG0ycFQwUkdLWElJWXlockFRRUlUUEQtZXNWcm1OLWRFdXIyTmQtd2dNSm03bHluOU16STlmNUdGdk5PaThLdGxVa1JVSW55R3REb1FFZmJ2RUhMUlVHSVpyNTU0amZZSGVCOUlhLTdvbFJxN19rSHJOamlWYy01N0hoMGdzajFtOFVXam4xT0toWm53ZHR6?oc=5",
             "published": "2026-06-28T14:08:00+00:00",
             "snippet": "The Turkish Cypriot Prime Minister opposes a new alleged scheme by Greek Cypriots."
+          },
+          {
+            "title": "World Bank approves $1.1B in emergency funding for Bangladesh",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnhwdkpqeFBIcjBqd1M1RnZpZWNydTFkMVZPeFVXa3RGbVk2U0FCSWQxWU5rcy1oY3VlMFBtcHE1TnpWWk9jdUotT01HQjF5YUZGUXV5ZHNxcUcwck5lZHVQdjZyNEVkVXJkVnJzb01zTkFSZ2V6WEVWdENKc0NrcnN5Z1R6R003cDFlMFZrRThQVG03TG91NTNiVDlCd2tDdjlreFFB0gGrAUFVX3lxTFB2NTc1R0JFU2JoZ2JqUUJrbzlqUEhId1YyYVlrakdLZDFrSk9VbExKdl85M1RFM0xLN0M3TUpITnpzWHBWZHVnVW9mRWZxTUtDMTNWOW5TRUlJeVlVZmNPaF9rWkF3enc3cGlVSFJRclMtc0ZTV2NwLXBFNFljMzV3emY5OVljMXRlZGJVMlcyLXBNTUpWLTNTZnJCMU51aFZVejZSSkF6X0lsYw?oc=5",
+            "published": "2026-06-28T09:38:00+00:00",
+            "snippet": "World Bank approves $1.1B in emergency funding for Bangladesh | Daily Sabah Daily Sabah"
           },
           {
             "title": "How Türkiye responds to unfolding plans in Cyprus, East Med",
@@ -741,12 +747,6 @@
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXFMWW5qcVlWaFo3WDY2QnI2N09ySk4wOVFWaVl3NGxRR3BkNnFVLWpFYzdyS21aSFpfbjFsZ0wySE9NUXVqa2hYQ3hyX0RkWFJyOEItRHFTZG9pRWRLSFhjeEV2OW5rbTgzWkt6UWFnSGZmMm9mZWl2RlpxMGFVVXlZSmRoLVNKSlFob013Mk5ZRDJXb3Fxdk8tVUdXaHJHeEpVdXJVY2ZNTGtw0gGyAUFVX3lxTE13MVdoOFZrSzBDdHFXanBJRW0xZk5vSHdXMU5OM1ZBT21NWTMxVW1wU3poN2NqUGcwUnNmYlcyUkRwZEphblN5Z250djM0dWszZXdIc3dodWQ1ZFNucnNQRU81RDBpNjRUQ2RncDhJb25wOUpHWkFYR1E4T0tjNVByVGI4ZjMtSTAxX3YwejdNRGVWLVQxZjQ2eTc3eGxvNTBfTFg0THhMZHRFcExJRzR2bEE?oc=5",
             "published": "2026-06-26T21:05:00+00:00",
             "snippet": "An exploration of how lives are losing agency and rhythm due to digital platforms."
-          },
-          {
-            "title": "The new politics of frontier AI",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1a3JtUWFQd0Uxa1RndFZEVFNhbTNyZ3RJZXlualdoZjZkWFVwd0pHSmRRM3lUTGZKd2k2d0pzMnVsLU5kRnpGa0czMmtsTVItbGR5TkZNcDNqeWNCSVFLZ2lZeThhSGx5M1I4Yi00TE0zVzlKUy1hdGlpeWjSAYIBQVVfeXFMTkNTQzFjZDM4SUc4aVFVcXBrbXFWTzNNRHJGdWpXR20weks2bzYtR3ZjRzRNeFdIdkdLRmp0NzI4c0pYOHhIZU9ocFRhanFKZWlVUjBfU1VISXZqYS1PRzdsMUlnSVQ1QTlhaElmM1M1Ri1GZnktMEF4U2pNTktGNzFGdw?oc=5",
-            "published": "2026-06-26T21:05:00+00:00",
-            "snippet": "An examination of the emerging political dynamics surrounding frontier artificial intelligence."
           }
         ],
         "error": null
@@ -757,12 +757,6 @@
         "lang": "en",
         "url": "https://www.hurriyetdailynews.com",
         "headlines": [
-          {
-            "title": "Istanbul to host NATO parliamentary summit",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXZTNW9GamEwQUpwZDRuZmtYMWY2VVJXNkszNkNHS0hlUWJ2VGM5ajNXOERJa1JmVzllRlhPWHVHSGdrNjlJeHBXT0JabFI2WWxhSkM2MjMtZkZtRDloNW0wVUY2eHM1QnI0N1ZPS1N1QVk1NVFjMG9tRTdQVnNEdzR4VXI3aUVwdm9V?oc=5",
-            "published": "2026-06-28T09:32:03+00:00",
-            "snippet": "Istanbul is set to host the NATO parliamentary assembly."
-          },
           {
             "title": "Erdoğan casts his government as ‘hope for Gaza’",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjRQTklzOF9XYVZ5WnBJWDFseDRncG5jOEw0Y1ptZnZIWWZPQ1BQVldualo0YzJFVHJZb3VZbjdia3dueWhyLXVPTzVvMGViTV9FZ3VOZ3RaQVd1SE1kN0dJTHJsaGkwUnhlRmpXZVd6YmJQQ3RGT1Fja2pMbUdjeHJPcU43aC0zeFQxZHd4bw?oc=5",
@@ -780,6 +774,12 @@
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFk3MnV5dWYxeFRSS2JndUFPbkpyVnRyby1HbVBCWDExNlVhN1JJNEZ0Y3Zpb0hoWnE2d19TQTV0cVVqd2lhWEtQb1dVZWRFenBUXzBrMUU1UWZGR3hGemJ1c09YS3dpUlZTdjFIelAtSndxTjE1eTlvem9hbE1Gd01EVzBOYVZGR3JnbDdHS1N1QQ?oc=5",
             "published": "2026-06-28T09:04:42+00:00",
             "snippet": "Baku and Ankara are jointly submitting a UNESCO bid for 'baklava'."
+          },
+          {
+            "title": "Soilless Latest News, Top Stories - All news & analysis about Soilless",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qYlJRVnJKeHA5MlkxV01xMjRaRnVqWE1CWHBmYWRsaVBGSnYybXRwMnVtSF9aZkJlVmluakNDcjZ0NXFkZ1BINDE1ZE90alVRTm02Si1oTVpMNDIx?oc=5",
+            "published": "2026-06-28T08:56:04+00:00",
+            "snippet": "Soilless Latest News, Top Stories - All news & analysis about Soilless Hürriyet Daily News"
           },
           {
             "title": "Israeli gov’t OKs recognition of 1915 events as genocide",
@@ -830,6 +830,5 @@
         "error": null
       }
     ]
-  },
-  "titles_hash": "c955cd0fc223d089"
+  }
 }
