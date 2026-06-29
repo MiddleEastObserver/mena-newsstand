@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:02:08.819884+00:00",
+  "updated": "2026-06-29T21:32:09.790562+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
+            "published": "2026-06-29T21:01:38+00:00",
+            "snippet": "Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip."
+          },
           {
             "title": "What’s behind the anti-corruption crackdown in Iraq?",
             "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss",
             "published": "2026-06-29T18:43:15+00:00",
             "snippet": "Israeli forces have shelled a village in southern Syria, firing artillery and illumination flares overnight as part of attacks and incursions."
-          },
-          {
-            "title": "‘Miracle’: Man pulled from rubble four days after Venezuelan quakes",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/miracle-man-pulled-from-rubble-four-days-after-venezuelan-quakes?traffic_source=rss",
-            "published": "2026-06-29T18:35:12+00:00",
-            "snippet": "A 21-year-old man was miraculously pulled alive from the rubble of an apartment building in La Guaira, Venezuela, four days after earthquakes struck the region."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Israeli strikes kill at least five people in Gaza on Monday",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-five-people-gaza-monday",
+            "published": "2026-06-29T21:17:56+00:00",
+            "snippet": "Israeli strikes kill at least five people in Gaza on Monday Gaza health officials said Israeli strikes killed five people, including a child, in the Palestinian territory on Monday."
+          },
           {
             "title": "Khadijah Farrakhan, 'First Lady' of Nation of Islam, dies aged 90",
             "url": "https://www.middleeasteye.net/news/khadijah-farrakhan-first-lady-nation-islam-dies-90",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/no-iran-us-talks-coming-days-irans-foreign-ministry-spokesperson-says",
             "published": "2026-06-29T18:28:49+00:00",
             "snippet": "Iran's foreign ministry spokesperson stated that no talks between Iran and the US are scheduled in the coming days, clarifying that an Iranian technical delegation's visit to Qatar is separate from any US officials' presence."
-          },
-          {
-            "title": "UAE allows nationals to travel to Lebanon starting on Monday",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-meeting-take-place-qatar",
-            "published": "2026-06-29T18:23:14+00:00",
-            "snippet": "The United Arab Emirates will permit its citizens to travel to Lebanon starting Monday, requiring them to register through an official service beforehand."
           }
         ],
         "error": null
@@ -126,6 +126,12 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "Iraq judiciary seizes over $14 million in anti-graft campaign",
+            "url": "https://www.newarab.com/news/iraq-judiciary-seizes-over-14-million-anti-graft-campaign",
+            "published": "2026-06-29T21:02:45+00:00",
+            "snippet": "Iraq's judiciary said on Monday it seized over $14 million from an oil official who was arrested a day earlier."
+          },
+          {
             "title": "Israeli forces kill Palestinian teen in occupied West Bank",
             "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
             "published": "2026-06-29T19:55:13+00:00",
@@ -148,12 +154,6 @@
             "url": "https://www.newarab.com/news/trump-says-us-iran-hold-talks-qatar-iran-denies",
             "published": "2026-06-29T17:07:56+00:00",
             "snippet": "A meeting between Iran and the US was reportedly planned in Qatar, following several days of escalating attacks between the two nations."
-          },
-          {
-            "title": "Hormuz shipping slows after US-Iran exchange of fire",
-            "url": "https://www.newarab.com/news/hormuz-shipping-slows-after-us-iran-exchange-fire",
-            "published": "2026-06-29T17:05:18+00:00",
-            "snippet": "Shipping through the Strait of Hormuz has slowed significantly following recent clashes between the United States and Iran, with traffic levels well below pre-war figures."
           }
         ],
         "error": null
@@ -206,6 +206,12 @@
         "url": "https://en.irna.ir",
         "headlines": [
           {
+            "title": "Baqaei: Iran will not attend negotiations with US in coming days",
+            "url": "https://en.irna.ir/news/86196483/Baqaei-Iran-will-not-attend-negotiations-with-US-in-coming-days",
+            "published": "2026-06-29T21:27:42+00:00",
+            "snippet": "Tehran, IRNA – Foreign Ministry Spoksaman Esmaeil Baqaei has denied claim that Tehran and Washington will hold talks in Qatar in the coming days."
+          },
+          {
             "title": "Gharibabadi: Demining Hormuz Strait only to be done by Iran",
             "url": "https://en.irna.ir/news/86196408/Gharibabadi-Demining-Hormuz-Strait-only-to-be-done-by-Iran",
             "published": "2026-06-29T18:45:20+00:00",
@@ -228,12 +234,6 @@
             "url": "https://en.irna.ir/news/86196321/Araghchi-meets-Karbala-governor-to-coordinate-funeral-of-martyred",
             "published": "2026-06-29T16:00:28+00:00",
             "snippet": "Foreign Minister Abbas Araghchi met with the governor of Karbala to arrange the funeral of the martyred Leader of the Islamic Revolution in Iraq’s holy shrines."
-          },
-          {
-            "title": "VP Aref calls for full immunity in cybersecurity, scientific progress",
-            "url": "https://en.irna.ir/news/86196198/VP-Aref-calls-for-full-immunity-in-cybersecurity-scientific",
-            "published": "2026-06-29T13:49:54+00:00",
-            "snippet": "First Vice President Mohammad-Reza Aref stressed the urgent need for Iran to achieve full cybersecurity immunity and advance scientific progress to become a regional leader."
           }
         ],
         "error": null
@@ -331,6 +331,12 @@
             "snippet": "The remains of a citizen have been recovered from rubble in quake-stricken Venezuela."
           },
           {
+            "title": "JCDCF, RSCN to establish ‘major’ ecological park within Amra City project",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2FhVHJpdjBTRS1jRjl6MzlwZHpEdVVDWDh0dUxfVW1RbUthX2J3VG9HTVRWWV9uRy1LTEZZUkRscHotN3g4YTI0N01ncXF1M1FFZW9MUE9neFhmZjFiQnR4aFZQeXJJT2Y3dzl5NDRQOVl0ZjBIWjFyVk90UnpyRjdzd2JnRHNGdWxYdmNYRkoyWDVabWNoYlplMTJGWWtxYzN2MFQ0ODM?oc=5",
+            "published": "2026-06-29T18:33:53+00:00",
+            "snippet": "JCDCF, RSCN to establish ‘major’ ecological park within Amra City project Jordan Times"
+          },
+          {
             "title": "Jordan’s search, rescue team continues field operations in Venezuela",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Uxc1phTmpaTXBlRVlLaEJ3RXlXeDVua0RneUNBaTRQR2swVVRfcHFsNlhLX0xkd1Y4dVZqTWFPb0M1SW1TV1RMSGM4emZfcXJIWGIzRE5FMDN6TkFPMWJBWUU1aXkxUEVtNTlHOUIyQmF4RmxHN0JuOEFtUGJRejJ4aHl0SEJCMTFfdDlxTTk1OTF6ZjJ4Umt4VXZqaDl3Y1lr?oc=5",
             "published": "2026-06-29T14:56:03+00:00",
@@ -347,12 +353,6 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVh1RTRXNmotWXd2LTY0endEZEg4NkFzdDh5UklCcGdheFRTanRKenF3d0d2VUxrRzBobDkyV2tCN3hJbDlQZ2hWMmN4NFBtZ1pCNzhOeVZfTmNQNTNvNTJEVXNESVlMWTg5Wjl0ZTBvMmxPV1hsekFnMC1xVTdDNkJjUlNIRHhyYXRWUEVySWVyeG1Jak9xUEJLTmdXdF9WZlVmS2pB?oc=5",
             "published": "2026-06-29T12:58:47+00:00",
             "snippet": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms Jordan Times"
-          },
-          {
-            "title": "Iran says no technical meeting expected with US in coming days",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWU3dEVMb1lBRGRDaUVZM1JjMHYyUWZhd3BBQVkwTzIxdzYxX1FpeTRINnlBTFk3bUNiZ1gwSnNCQjVqTU9UV3FHLWlFVVV5eDA2ZjlzdXkxalZZYmVwMkk4U05tdWR5Vm5FWkpvWDBZZi1CTlk5SXBVS3NuV0Z2anhBV3FmZFA3QjJSMEQyN21xRldJbWRIa2lzOFJkZjQ?oc=5",
-            "published": "2026-06-29T12:58:15+00:00",
-            "snippet": "Iran has indicated that no technical meeting with the US is anticipated in the coming days."
           }
         ],
         "error": null
@@ -442,34 +442,34 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "إعادة هندسة السلطة: السيسي يحجّم نفوذ المخابرات - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNQlhOLU53Z1ZJY19DbjJEV1BGTGVsTGRCUjhvcENaNy14MHpvVE5VcmtZTzUyYUhxVV9KdGNXUzYya1NueXhQYjhvRGdIa005dkI5VXpRdEV3V1J3a0hweWg5a0FpU0FON25zbHJYMmVlNzhoWVFSenRTRlhiNW1jb1I1eU5XbTdfMXFUaHZVSVBQRVJidW9uV3huYXRpNWVSb09LRGVIQlhZejVRalZmRW84aUhzUS01NjFpSXE0ZmlJMGNvYzRNRm9QWkFXbFk3RDZ0QVNXckh2OTAyTFhMd2wwNVU0RDlJYm5RSC1wT0ktbzE2ZkRPMnlpa19VUGdYN3ZDZ3l6TDVUelpCazBqTjFUR00xdmF4MVZ4ZEppRmlKQjl5aGllLVR4cnJybWhqaFRZZkVSN0lxajVXWnV0OHNsXzd5QTMyajBZUHRUdDBCSG1ZT2V3azViT1lDUzdvcXJ2SnpIVm9Dc0ZDRzJqbW5wZkhLTkU5TWhjNGQ4TDVES3lOeG95NWhvMlFuYXdUbGt4djdpNmphU0Qzb2RvUGpvREYtMFpC?oc=5",
+            "published": "2026-06-29T21:30:00+00:00",
+            "snippet": "إعادة هندسة السلطة: السيسي يحجّم نفوذ المخابرات Al Akhbar"
+          },
+          {
+            "title": "«حكاية لعبة 5»... عملت إيه فينا السنين؟ - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPRm9VVFNwMTVyUmtKbUlnODJhTzMwVTB3V3ZodFdIUlRGc3RHZ1JkNXNSSm5OMlZweFp6cTBDZjEtS251aHlPSWhTTDJkNVhfREpRaXhnOF9mS3pRUk5JSUowTGRUQlZXYXBta3ZDZ2JsNDZibTlidlJjeGQyZEdlZFMxMDU5ZGh3cllrMTJmVmlLS05LSktKblgtWW1EOU5UVGk0QTJNdElJREU1bTRPcktPck5WU20zVkU3bXN4TGZfMFBNckhzTGRJWEhRT3RaNnVtdjBGb09wN0M3bTdpc19FYW5EaVFzV29WTGY1T1p3MXJsdlFPSkJEdDFMTEZTWWR4Nkxsc2tFVENZS1BJRTR5U2wzQnNtcFpITjdlSHRDWFhibkFsSWVZS1Roa2VMU2Z1eGxnZ0c1Z282SmhIajNDLVFxVU1CNGVN?oc=5",
+            "published": "2026-06-29T21:30:00+00:00",
+            "snippet": "«حكاية لعبة 5»... عملت إيه فينا السنين؟ Al Akhbar"
+          },
+          {
+            "title": "بين الإيبوبروفين والباراسيتامول... كيف تختار المسكن المناسب؟ - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxPOHVRN1JDMkhDN1pqQnV1bTUtVi14WWVKVWl6MTEwNlZmZEdRdUNEa1JLc0EtN2RDUFRRZHFra1h2UEtTTVFmYzhnbTlSVm14NThodXV1YXcyTWtqRC1ZNm5KTVczVW5FQVRDcDZyakZQNGZEbWpJV2Rsbm5WZ0NTOGJlZHY2bWx3MGhjcGlzTjRjQjRXNi16RzlOeERmOTVFeDFXbWRaNFVoTUNsUXkzQnNXeE9WcHVKU05aMVRsY1FNQ2kxTHlqb0tXTVhhcHE2LWF6R05oQjVGRUVTR2ctUld4WFpsZnRBTzc4QkJRT29ETzZMbFNBclZBUFhZdDJ0LWdPM3pKSWM0V0VwY0MzOFp1cXkzcTZ4NDE2Tk9OLUx3WDRVMFh0ZlZONEVIYlV4MjN3WUJseU16VVBsUTh5SGNwU1pYd2lfOVZDNEpKdGpoT0tBcU5MMVIxWWI3amRud0JSMDVGOFowNXBoNmV3UU5fcmgwVzNIWVR4cXBsd3BfdnE3SjZWMjZtVTU0RDFUcF9Fa2xReWtJdVVOLUREVzR5c3JvbWJ4TFdaMmFWbHNqTENfaExYTGhKUHNHa0QwYXJCU0JIcERsbF9yTDlrQXZYUWcwZ1ZxQ3RESm1TeFJpaUcwQ044VG1naWxCYlRHUnc?oc=5",
+            "published": "2026-06-29T21:01:03+00:00",
+            "snippet": "بين الإيبوبروفين والباراسيتامول... كيف تختار المسكن المناسب؟ Al Akhbar"
+          },
+          {
+            "title": "روسيا تتوعّد بإجراءات ضد فنلندا إذا رفعت حظر استضافة أسلحة نووية - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOX3Fyb3RIOTRnWjBpeEJNMWNhbWQ1WWNVeG5EVFBxVzBpRXdpZjNGVzNZZkRWUGdRalVSSFhJN1c5ZlFfSWI4R1owUTk2dWpZZkRMSEYyR011eDA1eXgzeHZ2TWcyZjlNV0xTZmptWEZXUGd4alE5WHRkVXduMFZNWDNuZTFPb2JyRkMyLVZ3V1J5U3Vsakk2M1B5b2gtd3R6S1EyX18tVl9WamFUeENyZzZ4MzRMaFFPT2JPNndkQTYtOHZRc3oyMi1Pdm9BVjRXVXhhS1hUeTkybTBtZUd5aEJNSlRPQXFuTVI2MzlSQ1picXBEOXQ2UHZoaW9va0docDhYTkJfMHBtT1d0M3NKY3hlMnVNbC1XaGU3UkN5UHJHbWF1T0RlekZyTGxTZUlKN2VvRDV4UUFxZ2NpeXBHLW1tTDRTbTNxbkc2WDNtcmZ2TldMdHQ2UElMeUFQbzdhVGFYa0tsWVVta1dkazU1VUtBdndhblFRMGJPVnBld2pJaWNNQ05UT0J0NFRFM1BaQmxSakstU3l0aFM1a3NZZjMzZ1RKa2NsS081eVVHTkpGSWE0VlA0VHdEcjlIb3B5MVAzcGMyRFAzWkRaS2pld0JwZWhpbnZIOU5DME9OelB6NFBva19YZHFndVlrWjBrTkRjSw?oc=5",
+            "published": "2026-06-29T18:25:51+00:00",
+            "snippet": "روسيا تتوعّد بإجراءات ضد فنلندا إذا رفعت حظر استضافة أسلحة نووية Al Akhbar"
+          },
+          {
             "title": "إردوغان يدعو «الناتو» إلى إنشاء شبكة أمن ودفاع تمتد من تكساس إلى أنقرة - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOMHhoZGh3Y0V1Y2hKMFRRSlpYOWMzQzRUdU1yY2tENzYzQi1PZDVnelZGTkc3by1EbDNmYk9RcHNhamZsWXBWd051aEpXLU5jdnFpU1lab05ZNnRUeDdMSmhQTU9zOTBsS0RxdkpTZnhWQ0RmSmgwXzJoUkFvUGNXOW9kend1S1YxeEFnampQUFpxdVM5YnJ4SGZlSnhJUHdFXzdyRjhmYkZVOVFhQjZmTlhTejZPeFFoLXYzNXBPWXg4eGtmUTJXNTNfdm45U2xlMFc0X2FuVXJFZmx5WFZrOGJKUFpIWmplUGdCQmhJNlU2RHh5OHR4MFlYTl92QXVzM29uamVhOUNrSEVPMV93N2dLLXhTaE01SDdCUzFETW10M3ZVRi1tOFZqSjVFa3hyY3dUSkVGNGdrN0ZERFhJZXY1REI0U1FvV0lURTNtTDQyX3BQaG9yRTRNS1FYbDRDSk54WldHZ3RvSXZ6dGIzUzZYdllSMFZGdnUxd2o4R3JxSEpvWlhIcERQOU1qOVhXT0Z5NC1aWnB1MlNsWnUwN3JyUmpmUHJ5UmlVMnYxNlhFQlh6WUMtZ25ENzI3VkF6U0lFWmtaWXUxT2FnWGc1dVpFNjFKZWpveUNqQl9neW1Nd0hDUWRF?oc=5",
             "published": "2026-06-29T14:37:56+00:00",
             "snippet": "Erdogan called on NATO to establish a security and defense network extending from Texas to Ankara."
-          },
-          {
-            "title": "بزشكيان: الإفراج عن 6 مليارات دولار من الأصول الإيرانية المجمدة في قطر - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPamg0cGtlX0Y0NEttY2RfV1oxMTQwb0NpOWpSSm43ZEpzaVo4c1NPc1RRWU1fazdGV2ozSXpwT2tySVRzcWJad1VHdXdkOFNFSnNTSU1RTHJvUjdCR1M3emJHOTR6bzByeHJfdXNJU2ZLMnNrZEw3amIybTk5TTRBaHJXYm9VTnBPX1FrQXhwdUwtUks3c2FBWVJ4el9ubzNKUGNkcjZIZkZYNEtTSFV4eVNHUXcxWlRpTGgwUU1vQjNVYmFNUGdha0lyM0xHVUJXMnVPS0NVOHdiQmpDbWJqQjBUR3dSZFhVdElPU05FM2MyU1hmQWVTcGFFVE00MmpFVFdaUGNJR2NkeEVDRFhZTFZWWlpncmtVc0Vaelg2OWZCMExNOVBmQWM0bDYtN001TXdzMUNXYVRXb042UDNibEc1QXlIeFA0Njhibm1zVGVQNVh4UkpVU1gzN0IycmJnNE1IbUFOM2RYY2ZJdHBXOUkxVTc2LWtmRHV1UlpfZkd3dlF1NjFvX0pyYjhfUDFUenBYdkxwRFBXY1RXSDBXZDRuZHJQZ19lX0l3ampQNmZTcVppa0gyYmtpTXFZZ3plZGJfWkVqZTF4VHk1cFdqa28zS2pvUWtpX0tvaF9FT0FCOTJyZ01CMVNDRVJodw?oc=5",
-            "published": "2026-06-29T14:08:26+00:00",
-            "snippet": "بزشكيان: الإفراج عن 6 مليارات دولار من الأصول الإيرانية المجمدة في قطر Al Akhbar"
-          },
-          {
-            "title": "قبلان: هذه الصفقة الشنيعة لن تمر مهما كلّفت من أثمان - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQY0UtSlF3ZmF5T3pUOVlhUG80aE9IX2xVUGNvTjBSUVB5SG05OERHMjNBcFVfMURqZGs4LVY1bUk5ZWtVNHYxMnpRTzdMTjI3akN5aDlhaXZLbFJLck9wUDQyRlROdHhuZFpXdWZydGN3ZlNuS1YzTHRmdlpGUFI3b1p1V1JSTXBCXzlyUUNKWjBZcXJpSU1GbU9teTJCWUVBeG1ka0gxRms0Z0psUlFscjM2eTVJbzN4c0RaY1VYTDJZZDhSVzVHTHhrM3VmZHAwTlZBSl9uY3EtV3lyYkNGX1A2al9feTlhUkNVNE4wU0JRcHRyUDN6S3k3UWVMR0lXVlNYRFB3NjhMRkwzcDVxMnVpWkpFNHVKRThJbWFuMmxVY1ZJSEtEQlR6VWFDcEdMeC1XT3dnTVV1NDIwT0dGSEJzUjltdlNkUDZIN1NLb2lLbW9WeGxDT1dRX3Z1YW5qMXpxNUZxdHpTeEptTDBMcGRuV2N2YnV6eDJvUVdpMWpWOXlwT2l5eHVnU0x0Y0t1OXlLM2lfamg3ZU1jaDNNVTM5YWpQaGlyaWhXWlROSQ?oc=5",
-            "published": "2026-06-29T03:19:38+00:00",
-            "snippet": "Qabalan asserted that a 'heinous deal' will not pass, regardless of the cost."
-          },
-          {
-            "title": "«لا تمزحوا بإقالة هيكل ولا تلعبوا بالجيش» | بري لـ«الأخبار»: إملاءات أسوأ من 17 أيار... ولن يُنفّذ - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpa0dSNDVwWEdRajdsV3Z0YndIYUFJcHcwVHF6Q1g3QUFEbXB5cHpFNGZaYmN1dW8wNFNRUVdKTjUxQUdMZnhPa2FzSlliN2JrdTN1dmdNVVBTQ0tkTndVcDdvS2h3bnRjVmc?oc=5",
-            "published": "2026-06-28T21:30:00+00:00",
-            "snippet": "«لا تمزحوا بإقالة هيكل ولا تلعبوا بالجيش» | بري لـ«الأخبار»: إملاءات أسوأ من 17 أيار... ولن يُنفّذ Al Akhbar"
-          },
-          {
-            "title": "لن نغفر لكم... فأنتم تدرون ما تفعلون! - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlOTNIc2FIN0RjNzVKUFNEOWRjR0JpVTNEbkxQSWhOQzBhRWpXUFRPd2Z6MWpMck1qWF9wYUEwWFhqQ2pUYjhrN0VGVXF3aEVWU0R1b2NOMndPcWFab2pRcURoZjBEZ2oxbXc?oc=5",
-            "published": "2026-06-28T21:30:00+00:00",
-            "snippet": "لن نغفر لكم... فأنتم تدرون ما تفعلون! Al Akhbar"
           }
         ],
         "error": null
@@ -481,33 +481,33 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "غارة من طيران الاحتلال الاسرائيلي على منطقة الكرامة شمال غرب مدينة غزة",
-            "url": "https://www.almanar.com.lb/article/987622/",
-            "published": "2026-06-29T20:35:22+00:00",
+            "title": "الأمم المتحدة: نعاني عجزًا ماليًا",
+            "url": "https://www.almanar.com.lb/article/987672/",
+            "published": "2026-06-29T21:23:18+00:00",
+            "snippet": "أعلن المتحدث باسم الأمين العام للأمم المتحدة، ستيفان دوجاريك، عن أنّ “المنظمة تمر بفترة عجز مالي”، قائلًا: “لم يُقدِّم سوى أقل من ثلثي الدول الأعضاء مستحقّاتهم المنتظمة”."
+          },
+          {
+            "title": "وسائل إعلام فرنسية: 3 جرحى في انفجار طرد بريدي وُضِع مساءً أمام مبنى في إمارة موناكو",
+            "url": "https://www.almanar.com.lb/article/987662/",
+            "published": "2026-06-29T21:18:50+00:00",
             "snippet": ""
           },
           {
-            "title": "وليد جنبلاط: “يا محلا” اتفاق 17 أيار أمام اتفاق اليوم",
-            "url": "https://www.almanar.com.lb/article/987577/",
-            "published": "2026-06-29T20:26:25+00:00",
-            "snippet": "قال الرئيس السابق للحزب “التقدمي الاشتراكي” في لبنان وليد جنبلاط “يا محلا اتفاق 17 أيار أمام اتفاق اليوم”."
+            "title": "بزشكيان: نهجنا في مواجهة الاستعراضات غير العقلانية والتهديدات الفارغة هو الاعتماد على العقلانية والكرامة الإنسانية في اتخاذ القرارات والدفاع الحازم والشجاع حين يقتضي الأمر",
+            "url": "https://www.almanar.com.lb/article/987652/",
+            "published": "2026-06-29T21:18:14+00:00",
+            "snippet": ""
           },
           {
-            "title": "الاتحاد الأوروبي والصين يتفقان على تكثيف المحادثات لاحتواء التوترات التجارية وسط اتساع العجز التجاري",
-            "url": "https://www.almanar.com.lb/article/987552/",
-            "published": "2026-06-29T20:22:44+00:00",
-            "snippet": "أعلن الاتحاد الأوروبي والصين، الاثنين، رغبتهما في تكثيف المحادثات بهدف التوصل إلى حل ودي للتوترات التجارية المتصاعدة بين الجانبين."
+            "title": "الرئيس الإيراني مسعود بزشكيان: إذا التزم الطرف الأميركي بمذكّرة التفاهم فسنلتزم نحن أيضًا بتعهّداتنا",
+            "url": "https://www.almanar.com.lb/article/987642/",
+            "published": "2026-06-29T21:17:05+00:00",
+            "snippet": ""
           },
           {
-            "title": "رائد صايغ رئيس الحركة الاصلاحية اللبنانية: من ضاحية سماحة السيد حسن نصرالله نقول سنبقى بجانب المقاومة واذا اضطرينا سنقاتل قتال الموحّدين الإستشهاديين والكربلائيين من أجل الدفاع عن أرضنا و كرامتنا",
-            "url": "https://www.almanar.com.lb/article/987592/",
-            "published": "2026-06-29T20:20:06+00:00",
-            "snippet": "مراسنا حسين عواد ينقل لنا المشهد من الضاحية الجنوبية لبيروت ويجري مقابلة مع رئيس الحركة الاصلاحية اللبنانية رائد صايغ."
-          },
-          {
-            "title": "قوات الاحتلال الاسرائيلي تقتحم بلدة سنجل شمال رام الله بالضفة المحتلة",
-            "url": "https://www.almanar.com.lb/article/987562/",
-            "published": "2026-06-29T20:15:39+00:00",
+            "title": "غارة من طيران الاحتلال الاسرائيلي على منطقة الكرامة شمال غرب مدينة غزة",
+            "url": "https://www.almanar.com.lb/article/987622/",
+            "published": "2026-06-29T20:35:22+00:00",
             "snippet": ""
           }
         ],
@@ -624,10 +624,10 @@
             "snippet": "TikTok brings agentic AI, new ad tools to MENA brands at Cannes Lions 2026 Arab News"
           },
           {
-            "title": "Philippines arrests 4 Israelis accused of violations on Siargao island",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkUDRUbnpUZXpXOWJvdjZFZTN2eElXc1lYc2RnOV9MRmgzVHl6TWd0ZWNFVmlwc1B0c2ZvdXlZRzR1akhlUXRzdllTSVVmaHdKbVlr?oc=5",
-            "published": "2026-06-29T11:44:59+00:00",
-            "snippet": "Philippines arrests 4 Israelis accused of violations on Siargao island Arab News"
+            "title": "Baniyas crowned winners at Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xRjZMUHlGSjVHMGx0Y2ktNU5ISUNvMmtFQ193NFRUcnJGZ29ibzVkWkVNOXNaNHR3ay1xTEgxeTNad1lLb1A4eTdnbXVtS0g2bFZB?oc=5",
+            "published": "2026-06-29T10:31:12+00:00",
+            "snippet": "Baniyas crowned winners at Khaled bin Mohamed bin Zayed Jiu-Jitsu Championship Arab News"
           }
         ],
         "error": null
@@ -639,34 +639,34 @@
         "url": "https://gulfnews.com",
         "headlines": [
           {
-            "title": "Sales Support Site Engineer",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqZHNrQWZmX1VnTUQ0N0tLdmhhUWxXRDlvblQ4b1g4eVFjNl9ucmFFS0RpUFpqUjhQcW42ZFlUTUdtdklFOXZvcVZRRUJTS0tiNjFtRXZBSEJTZXhnRlFkZXdlZ1lWbHZkNElXYzRZTzZnRHc?oc=5",
-            "published": "2026-06-29T17:40:28+00:00",
-            "snippet": "Job opening for Sales Support Site Engineer."
-          },
-          {
-            "title": "Administrative & Accounts Coordinator (DIP OFFICE )- Lady staff preferred",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG1CNnExa2tLampBSkR3SXozVWVPWUdwcXBBYm4xT2xKWUl0TXJIUjRnYjhSRTFjOWF4QlpBYV9FOTF0TV9WbXNCT0RqbVNraFpIMnpIOVBiR1A1aGFLMUJtTC12aTl1VFRqejU4Y3lqVlRoOE1Da2lsd1VybzU1S1ZQU2hCQm5EcXVTSQ?oc=5",
-            "published": "2026-06-29T17:40:28+00:00",
-            "snippet": "A Gulf News advertisement seeks an Administrative & Accounts Coordinator for a DIP OFFICE, preferring female staff."
-          },
-          {
-            "title": "Design and Documentation Engineer",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IcENrSTEyQXBndENvbE45QlAzdnhYdnN5QmVsSXFmanBDNGNNcWNMcnJidmFnVzg0Y1dPaTF5d2V5WmZVX0hlWnp5WFpxRDFpa09RQldYWC1reXR6LTZCbGNZczMydmNzNnp4Nk5na3YzSndrRTZOQVVRZw?oc=5",
-            "published": "2026-06-29T17:24:27+00:00",
-            "snippet": "Job opening for Design and Documentation Engineer."
-          },
-          {
-            "title": "Holy Kaaba to be ceremonially washed on Tuesday in centuries-old Islamic tradition",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOejVabmFLTHZrQU9QRnVlNGlmTi1kWks1ckwybUtpQVJxcWJyMmtMcjVqRldEM1pHTkJmeU5ra1NqVTNRbXVsT2k4WUxPWnA4V1FkZ0dHLVJpUTBseUxzTlp6Ui1YTVlzY0E4YUhtcjh2SEpYSGNHeE5LRHhXUnR1TjJaSk1hMHE0eFk4UW9LaGhGd1M1NHFWU3FQV1JHaDIzZEpDaWZoYjMxY0V2aFZqRVVlZzkxWFlTbG5TYjVuNGVyUzVkM1BLa0FqdmXSAeIBQVVfeXFMT2JuTGg0QldJU2VHM3ZpTTd3UnhZa1RvTWIwNWVkcGs3WnUtYlIwdkJpNGdseXF6NS13NklTWkJ1OWV4N0VObXo0R0JFYTBkekQ4RUliRWc5TGxuQWoxa3FrMGRpcUd0STFyUmtwMUxyT00xTmU3eHhaSnFrZ2VtekJ0TEtXcjU1eU5tT3hzWVJQeE9LR2NCYW5DS0tIeGJ4TzJjRnVvRS14UHJNM05UNnAwdy04cS1NN0dCbk00YXdXRFp2aTlHRmZfS3VUaE9iM250Ymg4eTUySWo0TWExYnJVUQ?oc=5",
-            "published": "2026-06-29T16:56:21+00:00",
-            "snippet": "The Holy Kaaba will undergo its ceremonial washing on Tuesday, a tradition observed for centuries."
-          },
-          {
             "title": "WhatsApp usernames are here: Your phone number may no longer be needed to chat",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzY5ZDlYTzExOUVrUks4YTZxQUJRY3hoQzlZTzZYZ0lfYWVLY2ZJeFJDZ0J1T1YtQk9NUzlpQ0hGSnJjcFpQUnpOQ3Q2d19rYjdIOHN5cThFSGd0Y1g3ZmsyZUUxeGVGeHkyXzhuNUREMXkxVHFoTzRmSTVBTV9NMFFGYkY0LUpuWWtldnNaeXBiSml2S3JvUzFUakxRTkV5ZENJd2o3NlA2enM0V2RvSGllQ0dGd0R6ME9SeHVB0gHOAUFVX3lxTE45Qy0yRUZIMVJrTTdGOXUxODZZNVNmMnBvNW50MDl5aTNKX3NTaXRpMXd0RXFDWV9UdGdxZU4tQU9Lekd2NVRVVDA3LV9mMEdGRjV4MWFoVF84SUdoRDFzNnpELWxHRmRNNmsyNWx6ZEtfRlhyZVJWazAyeDNHYlF1RGpJd3ZMcDl0NEVEcU1hQVlIaHF0WFdlTXpsem0tclE1MlZYdF9TYkZ5akI5cl9jS0hyY3VzLVhPX0dpWmRsUFNLc1YzYWRWbmF6U2pB?oc=5",
             "published": "2026-06-29T16:00:00+00:00",
             "snippet": "WhatsApp usernames are here: Your phone number may no longer be needed to chat Gulf News"
+          },
+          {
+            "title": "Millions in cash, gold and mass arrests: Iraq's anti-corruption drive escalates",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVNMcEpLM2k3eHdZMDA4V0t3ZFBWVVpULVdCalJjUUR4X0NrRHZXWmpxTjhlNk1oS1EtQVRaNGZIdUFnQUE0WmJMSUJMQXM1c0pNeGR1UnJCN1lpLUZmaWw2OVdOYlNCSk50dU1TQWZ1MVJOMnFKb19pSzJyUFVTOWVTbzFkdkNXajMweF96OUx3RlBRalRvR0d0NC0wYVZQMjBxN1JNVmVJRUhFVEhnRWZzc3BwRE1kSndwZFhMV1k?oc=5",
+            "published": "2026-06-29T14:56:09+00:00",
+            "snippet": "Millions in cash, gold and mass arrests: Iraq's anti-corruption drive escalates Gulf News"
+          },
+          {
+            "title": "Pakistan’s PIA enters private ownership after $645 million takeover deal",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdVlKcWhwaWh6TWRPMmpLc3RNdHFIakRFSjlfdEt1TDVrbFUwTVR0WVVVUDZrcjREMnhRX2FrdHJ0MHhoMENUYnZ4SHFSRGI1WDB4VzJiRV9TY0Y5MFktQ3VJVHdEOGlHLW55WHh4T0hwcU5MVkwycUJ3VGYtQmdnR05SQXc1NGxFUU4zNWMtTkV1RTFYb29UTTY2RXpEd3BkUGFVd1VWM0FqbzN3bXRoRFBOUC03YjY2cFZ0Mlgwc01GYVNDMkF3dDc0NW1CNjN30gHQAUFVX3lxTFB1WUpxaHBpaHpNZE8yaktzdE10cUhqREVKOV90S3VMNWtsVTBNVHRZVVVQNmtyNEQyeFFfYWt0cnQweGgwQ1RidnhIcVJEYjVYMHhXMmJFX1NjRjkwWS1DdUlUd0Q4aUctbnlYeHhPSHBxTkxWTDJxQndUZi1CZ2dHTlJBdzU0bEVRTjM1Yy1ORXVFMVhvb1RNNjZFekR3cGRQYVV3VVYzQWpvM3dtdGhEUE5QLTdiNjZwVnQyWDBzTUZhU0MyQXd0NzQ1bUI2M3c?oc=5",
+            "published": "2026-06-29T14:12:30+00:00",
+            "snippet": "Pakistan’s PIA enters private ownership after $645 million takeover deal Gulf News"
+          },
+          {
+            "title": "Hormuz traffic slows after vessel strike; Iran and Oman discuss strait management",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYzlqQWhDR1J3eXlHbWczMFVHejFMU0p5OG1qUEdqaENMMk1zQUZlVUIxVThuYXluNHNaVFR1THgxRGJpYTRJZXZRUTZ1REdnRUU5Zy1Qc1hlWDZWZk15VTR0S3h2M2NBSkJVM0dKNXNOdFQ1VmtkbWJkZlBjV0tYdHpCcjJYRm5MNnNwbEt6WTdwZVZ2QzBTM0NDQ1A5aFBpUVJIOGhHNFdNd3B4eC1CdEE2WXZOdkdOTjNZMVNIOGtQZVg1SzN0bEVNbEg2cktjNlR1TtIB1AFBVV95cUxPYzlqQWhDR1J3eXlHbWczMFVHejFMU0p5OG1qUEdqaENMMk1zQUZlVUIxVThuYXluNHNaVFR1THgxRGJpYTRJZXZRUTZ1REdnRUU5Zy1Qc1hlWDZWZk15VTR0S3h2M2NBSkJVM0dKNXNOdFQ1VmtkbWJkZlBjV0tYdHpCcjJYRm5MNnNwbEt6WTdwZVZ2QzBTM0NDQ1A5aFBpUVJIOGhHNFdNd3B4eC1CdEE2WXZOdkdOTjNZMVNIOGtQZVg1SzN0bEVNbEg2cktjNlR1Tg?oc=5",
+            "published": "2026-06-29T14:12:27+00:00",
+            "snippet": "Hormuz traffic slows after vessel strike; Iran and Oman discuss strait management Gulf News"
+          },
+          {
+            "title": "Man rescued after 106 hours trapped in Venezuela quake rubble",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkVIc2xxX3JsbHZHSkdrbHotV0JDbmhobVRTeVBsRDRLRW96dzlqSEZLNzFfRVpBWWRQWGRteU03TGNyU1dEU0lEcUE2VmtzX1RmZEdkNHFsMHNFUWlQQklUMXlOQ1J4ZDBubjlNemhwUldZYVZaVkdRWkF6Y2YtSGpwcEpRLTgtbTlTOXVxODVhWFdvcmZmUGh3OFVrQjJSNFduTC1ndmRfMXcycHfSAcABQVVfeXFMT19yWEE0cDRMa0hxcGRFS2Y3WnlhWTU2SDc2NE93VjBCa2xyZWNqN3kxYW5tbG5mS2pOREV5LU5EYkxsbWJOWFZhaTZjdjlHRGZYQTdiS3lYTjBJZ2poXzZ3bTJIckVSTUdIWE54SUtkaENGUzZDY1ZEVW8tVl9QRkppUDFyOEZ5Y1RhS245eXkwQ0pQWEVsazF3YWZxZ0UwaG9qYkt5UXA5bGd5c1JyejRhdlk0cHNGTjhyVGFYU2lH?oc=5",
+            "published": "2026-06-29T13:13:08+00:00",
+            "snippet": "Man rescued after 106 hours trapped in Venezuela quake rubble Gulf News"
           }
         ],
         "error": null
@@ -719,6 +719,18 @@
         "url": "https://www.dailysabah.com",
         "headlines": [
           {
+            "title": "Czech govt clears president to attend NATO summit in Ankara",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0dCZVdrdFd2ZU1NdEZjNWg4aDNBSTBQSXNXTUJVLWVBRDR5T09sNXYyTEVxZVpTdjdyLVVBUHlsdUM3TndLQlQtZENOcjRYZlFVZDhQdkRjLUNNV2NjSVZad29GSW8wcm8xYlpVRFpySlljS085X21zRlpwRHBNSjBFdjVIcmcybFQxZFF0YXo3WW82SWxGRzNLeWdoRzVw0gGmAUFVX3lxTE51c1dBajVQekFXc2hQV0llencxcGYtemFhSlMxZDBCdHJ5Tmx2Skl1NmpaVW5BYmlhSDdqbW1mYlk3Mm5SLXEzb2k1N01adjRGSWxwTWN0NFNpVjY3YlhVQmNQVTN5akFrRkxPV0wyS2hldlFWWTVrME9UaFRFZEdJRU5Rc0JsZlMxQWw2SUdVTXk4UGlGV284aGNJbGhzZ1psak5kdGc?oc=5",
+            "published": "2026-06-29T18:24:00+00:00",
+            "snippet": "Czech govt clears president to attend NATO summit in Ankara | Daily Sabah Daily Sabah"
+          },
+          {
+            "title": "Türkiye condemns Israel's strikes in Syria, urges global action",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnN6MjVhQTBnSmJZeV9yUGw2dWh0d1FVNnh5a1d1WnlnNm8ta003TGg2SEl2TXowQzBXSTRvcndzTVBPYVNlTWtxU1EyeXl6V05SNnZuWkhLbHdZckItYjJoRm5UZ0cxNVRHdTNsM0VEeVZSekZJSFZkVVB5QlpMY1Y2c2RnbUJoSzlJbnVVR3JVcV9ETDl0aTNiYnU5WExKSzNTTmp1MlVkWGPSAbABQVVfeXFMT09zWjVWRG04aGluTHI0ZnBjdXEtblgwN0FvTElqWWFNVUZocW5pYmZIX0xDbkk5Z0ZPX2pndGZ5SkdmdG9wOVVPd3hfVmc2cmhycWszTnZ0S1VabjkxVWx2RG8zOVZtT3EwcXoxbEpNWUsza1JVZkZ6QVMyblpNSDg1MUdUQm1fdnROcUpRV2lMY3I2SXhaSkRnT3lZNmE2ZUpFcGdkUmVQMWdrakxERXU?oc=5",
+            "published": "2026-06-29T16:32:00+00:00",
+            "snippet": "Türkiye condemns Israel's strikes in Syria, urges global action | Daily Sabah Daily Sabah"
+          },
+          {
             "title": "Top EU officials to visit Türkiye for talks on security, trade",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzNYWlQ3WWhnS2ctR3M4VFJUY3JacUZ1REExV1JwSWh3SG1TOXR0SzRXVjJtNmZHaC0xZWNZdFd6SEhzYzR6Y2NlNEpvTG5PVWVFazVFYWdUZVhmZTFGcFVNOVh2cHV3b3NtYUptbFhhMU9USE0xRjk0d1djQi1HNHpkYk1ONEVSOXYySnUwX3c4ZVlRSGtlN0owcWJVOFg0NkQ1X3VTS3Mtbi1H0gGyAUFVX3lxTE5RdGR0SXNFMUR6Mm9fOFJZR1dTdS1qZURRcy11STA1bmtwdjJiYU51X3lnWGIyUEhZaGRSQk5mUDFqakZEY3p6dUFOLTVlZDBmS3pKQmlPZk9yOUs4R1ZfR0FBT3lvaGxlT21NQ3h6cl9kLWdwdUZfb0V6bXJnNEtCSVduQ1ZCTUJ3VGR3cXRvblhnTGVRNjc0eXV4YmwteUxMYUVZVk5OZnpEaHh5bkZPMFE?oc=5",
             "published": "2026-06-29T10:07:00+00:00",
@@ -735,18 +747,6 @@
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQakwtZDkzTWptcWN1dnFBQmtMMGQtN0dzeEF5aG1MNU5PamZFLXdDVDVZNjFJN09oYzNsR2dUVEN1Tm5tc2hESFFtYU12RUNOOVVaYndUV1FPMkQxenFwNUQ5SFZ2OWVsR2VuaFl2bzBOWkMtMEI3ZDhLVmphZkRiM2wtWmpIRlI3bC1zb25XakhXUmRLSUg5XzNHNjdCMlk2ZmdjUGt30gGrAUFVX3lxTE8teHdvMWV1ZldfMVkwb0RrRHF2enRMdkpfSUkxRnVjM1Y0RHhZLXc0d0FDcFpROElfUm1SVmhCZ0NqWjBkb1dPaXctUGxYVDA0aGxTb1FkdTBrdjZpTjY4d0dadm1Sek1vRUdveTZsYTk2bEJwbEtWemQteE5CNTQxVVh6UTNkV2JHWFdJd1BfZFpPa3I5NDZ0SVZBeFFBb2huU2hydk1wTk4zOA?oc=5",
             "published": "2026-06-28T21:05:00+00:00",
             "snippet": "The article argues that Russia needs to remain a factor for the sake of NATO."
-          },
-          {
-            "title": "Turkish Cypriot PM opposes alleged new scheme by Greek Cypriots",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2h2NWZGSHB5MklUZWxlUEtoV3ZOckVrTmhCRnB2VlpRU19wd25Xc2VvUTlUcmh2MDA0UFVubWVhQjNkNy1CU3V5eGJCWDlJY0RGNjJfbGs5V2xmazJ0NDdTWkFQYjJDb3VJbzVZbGl1c1k5T2pNT0hDN1lfYWRJUXkwcS03ZWc4NGVTWS02dHkwYVluVzI0VDg0UmktWmJoRXNYSkNsSdIBrAFBVV95cUxOcVpGUk90SzZpR1YyQTJJRFlPUWpOaG0ycFQwUkdLWElJWXlockFRRUlUUEQtZXNWcm1OLWRFdXIyTmQtd2dNSm03bHluOU16STlmNUdGdk5PaThLdGxVa1JVSW55R3REb1FFZmJ2RUhMUlVHSVpyNTU0amZZSGVCOUlhLTdvbFJxN19rSHJOamlWYy01N0hoMGdzajFtOFVXam4xT0toWm53ZHR6?oc=5",
-            "published": "2026-06-28T14:08:00+00:00",
-            "snippet": "The Turkish Cypriot PM has opposed a new scheme allegedly proposed by Greek Cypriots."
-          },
-          {
-            "title": "Kılıçdaroğlu rolls out more purges in two-headed CHP of Türkiye",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUJST2xIWi1XRDVXOGt6Zm1ZeVpHWDhjWmExc0ZzNTFwb3VNazVzeFBXY1NxaUdQTC1EUlB3TzFGZzBVNERPQVpnektQdGk4VVZmMWUydlEyZ2pqOGZRbGJCWVNEdHE5dkZQRkE3OUNHTEstVE1VbzA5ZUZJaWZhemNzbEExTUJWeWM2ai1iaWVJVFE2MTAwRmFVV1hYeGNBZ1VmcXFPNNIBrAFBVV95cUxNM1Boak1tUVFxWkh1UnJWVzVhbXJReXg1dGFFVUxtRUZydU9lWHVMeDZ1VFkxXzZ6MDZDbkdjYjdRMFpxd0IxdlRTeS1ueTFQR0lFaUJJTGdMck5pdHdsUEthSldlV2hwSXZEbHJ0eFpEOFJVeHZJTWNQSHdJbWh3R0UtWFFDWkd1aWlySTN1R3F1UnBFYWw4b3JDaDhVZ3pQUjdpU0NMdFRpeTM0?oc=5",
-            "published": "2026-06-28T13:44:00+00:00",
-            "snippet": "Kılıçdaroğlu rolls out more purges in two-headed CHP of Türkiye | Daily Sabah Daily Sabah"
           }
         ],
         "error": null
@@ -757,6 +757,12 @@
         "lang": "en",
         "url": "https://www.hurriyetdailynews.com",
         "headlines": [
+          {
+            "title": "Stellar Latest News, Top Stories - All news & analysis about Stellar",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iM0w3MXdSUzZXM0FtRDhBUDhvRWMxM1VPN0dpMUtCVXZjdWdPSFY4WG1Eb0ktREF2LWdZMFpOUHhSQzh4RG5hS2JJdV9zMkNkLXZyUHFtM25jM2dRYi1FZQ?oc=5",
+            "published": "2026-06-29T19:25:38+00:00",
+            "snippet": "Stellar Latest News, Top Stories - All news & analysis about Stellar Hürriyet Daily News"
+          },
           {
             "title": "Iraq to widen corruption operations after arrests",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHBZYmVtcVJjSEJucEVzd0duc0RSUFE3R1dhRmhIa2RaWUdkYm5nbmt4R21fLUJNUmctcDVfWG1rWUU0ZTg0blhxa0lUekpzNmtrMDRER2EybmRleEJCV3JiVTAzenRpMnFyVTU0N25MMmVHT092ZkxSSFhvTURmM05ocmExa3VSZ1c3X2RSSDdxZjYt?oc=5",
@@ -780,12 +786,6 @@
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWx0bDlvWUkwLU9Kck90a3F0bmNUSmNxZXh6RGZiY2ZfQlRxR01HSUpyVHFpQXpONVA3VXJKd0EwSEQyOHNSYnQzN2xkcWV4clRkVTkxVWJWS3VzdTd0bXBVWjBhVEFFNHBDNkp3TFRZdjI2TU1zaG5GR2xNNGxZZU5KNzlubjllek9aNHV2S0hVempZcGdJa0t3UTdwdEVzMEZ1YjNtc3JLWGF3bGlxTg?oc=5",
             "published": "2026-06-29T06:55:48+00:00",
             "snippet": "Europe heat wave reaches Türkiye, raising temperatures, forest fire risk Hürriyet Daily News"
-          },
-          {
-            "title": "Türkiye becomes Europe’s second-largest hydropower nation",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkFTZ3FIb1MzR2JBVlhfRlZvdXZzTktrMDJ4dllKOS1tUHphdm1HYWh3bHBoMmlUV3dPd0V3VWY5YTNDTGNuWVRtYl9fVnE0dU9YR2kzZEpWZWpBYWhfTVVKcnpBWmJyTzE3Tll4blhZbHhHVXJnTjBZVFJ0SGV0aEtKZERLX3lxM3VWN0w4M180TV9ZTFNCTWhrLVV3UQ?oc=5",
-            "published": "2026-06-29T06:03:37+00:00",
-            "snippet": "Türkiye has become Europe's second-largest hydropower nation."
           }
         ],
         "error": null
@@ -801,12 +801,6 @@
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
             "published": "2026-06-29T19:55:53+00:00",
             "snippet": "Live blog - US-Israeli war on Iran TRT World"
-          },
-          {
-            "title": "Armenia opposes 'weaponisation' of 1915 events after Israeli recognition",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1NlgtRmw5Mnc5eWs1RUFySEphcHRxdDFvSXZOenNuVU5RSzhTdVRyMndqNDRNRlpzZXZmUnZWNFJjUmN1SEVFME40c1JtMmFzMWNvSEZlbDk?oc=5",
-            "published": "2026-06-29T19:42:30+00:00",
-            "snippet": "Armenia opposes 'weaponisation' of 1915 events after Israeli recognition TRT World"
           },
           {
             "title": "Iran rejects French offer to clear mines in Strait of Hormuz",
@@ -825,6 +819,12 @@
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hVHNGVDRWYXNaQUxqblg2SDh5VXFQVzhFN1BMeExPX3FXM3dtUlU1VXdFNkV4QTgtdThQaExTQmczLUNLV0xibHFudWVzOUl2bF9wb0ttTGM?oc=5",
             "published": "2026-06-29T11:34:00+00:00",
             "snippet": "Türkiye's Erdogan described the upcoming NATO summit in Ankara as the 'strongest platform for sharing experience'."
+          },
+          {
+            "title": "Ending Israeli aggression key to ensuring world peace: Turkish parliament speaker",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03ckNUdTBrdlpFdDdXZzROODlhX0xLbDZRZzJwRUlHU2ZOSzhDRkZqTUNsR1R1UlRydkRScFZWcmp1a0REaTd1UkpReW5zQkp0d1IzNXFlbno?oc=5",
+            "published": "2026-06-29T08:28:54+00:00",
+            "snippet": "Ending Israeli aggression key to ensuring world peace: Turkish parliament speaker TRT World"
           }
         ],
         "error": null
