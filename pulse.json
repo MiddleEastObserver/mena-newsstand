@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T16:08:48.940256+00:00",
+  "updated": "2026-06-29T16:37:49.633539+00:00",
   "total_headlines": 133,
   "terms": [
     {
       "term": "World Cup",
-      "count": 21,
+      "count": 22,
       "headlines": [
         {
           "title": "Brazil vs Japan LIVE: FIFA World Cup 2026",
@@ -16,6 +16,12 @@
           "title": "Saudi federation president stands down after World Cup exit",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUZJcU85dGM2eWloNkZHWUR6YVViRVVXdDhVRk94SC1zT1I2YlVrR0JUR2lURXJxaXl6OEp3N3VRQlBCWVlVUmJYVjNob3UxX3lpT0JkeHh5cERPU2tOdnhPZ1YtbTZYVWptN240Y0M5WHpGbWJOZVRjenJkWDBIMmtqOWxldjFhYXlOb0tpMk5ZY0ZsRUJGVlY2dVkzVnJ6ZE5NX2dPb1h5anRJVzRBX9IBsAFBVV95cUxPaUZJcU85dGM2eWloNkZHWUR6YVViRVVXdDhVRk94SC1zT1I2YlVrR0JUR2lURXJxaXl6OEp3N3VRQlBCWVlVUmJYVjNob3UxX3lpT0JkeHh5cERPU2tOdnhPZ1YtbTZYVWptN240Y0M5WHpGbWJOZVRjenJkWDBIMmtqOWxldjFhYXlOb0tpMk5ZY0ZsRUJGVlY2dVkzVnJ6ZE5NX2dPb1h5anRJVzRBXw?oc=5",
           "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iraq to probe World Cup failure, map overhaul following no wins",
+          "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -45,12 +51,6 @@
         {
           "title": "'It was a dream': Egypt revel in historic World Cup moment",
           "url": "https://www.newarab.com/news/it-was-dream-egypt-revel-historic-world-cup-moment",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Austria, Algeria deliver 3-3 World Cup thriller",
-          "url": "https://www.newarab.com/news/austria-algeria-deliver-3-3-world-cup-thriller",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
@@ -97,6 +97,12 @@
           "region": "Gulf"
         },
         {
+          "title": "Congo rally to a 3-1 win against Uzbekistan to seal place in the World Cup knockouts",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUSlFMdW1zaWpheUhMdkFIVXRhejZVenB5VnhwUW9yUnR5eWlQbVFCMnFRenYtMEpyRW5sOWFUcTl3STlPd3ZpN19BQWY3NldOY1dr?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
           "title": "What Saudi Arabia can learn from the 2026 World Cup property boom",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjeXN4bURvMmRSVi00VEZyX2IwTy1BZ3YxMW83ZmI3Z1RvdGtJalVJM2hpUGFNTUpjN3BfbzhITG9wRnRjVjdjdkdibVZmNDl0OEs4TTAxcFVOUU5abGVoYmRoRHM?oc=5",
           "source": "Arab News",
@@ -117,12 +123,6 @@
         {
           "title": "America’s World Cup..Football, Money, and Politics | My America",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEhzVWZoSzNGeXZWX1Jva3A0VnJjTGpBMklDMTdFNnVjVTdQalc3dTZrc0dmMkVDZkI0cXYxV3BUUld4UHNSWDRoRm9yWkVVZEVQUVhvMTZJYWtzY3JFN1ZCM2ZmMWo3Y3l6RnNTVVJabTFhOGdNcUZsNlk4dEJ4bkhSNkROdlk0d3c?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "1 killed, another critically wounded in shooting near World Cup gathering spot in California",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTX0tFc2VwTVd5TUVBUHlrcVRaeXoxdEpIVDJ4RVZsVk43MjV3X19EYTFvcmE1alc2cWM0X3J3NWZXN2JTMFY3SVg5SG9hbHpxdXQ3Z1N6Ujg?oc=5",
           "source": "TRT World",
           "region": "Turkey"
         }
@@ -151,9 +151,9 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Lebanon president says determined to deploy army up to Israel border",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWx2UjNRWW92T0tRbE50QmhGYTE3MW51ZHBBaUhRWWVNOW00djRZc0xZbWhBWDBLMnpCcmRXMEFJTjZkcW9CMl83Q3dJUUd2WHMtSDZSazA5TlU5Zm42eGxHZFZSMjhoa01VdDd0YTNvbUZvWXRUODN2aDMtcnA5cFVHSF95TmhWLUJVRnhLX1RZY1NZZ2hFSUJKY29tenFoR0Y0cHQzWFhDRlJsX1o5ZHk4dEU3RnNaQjVodFc1cmhab0gzTmJGMjVR0gHKAUFVX3lxTE81bHZSM1FZb3ZPS1FsTnRCaEZhMTcxbnVkcEFpSFFZZU05bTR2NFlzTFltaEFYMEsyekJyZFcwQUlONmRxb0IyXzdDd0lRR3ZYcy1INlJrMDlOVTlmbjZ4bEdkVlIyOGhrTVV0N3RhM29tRm9ZdFQ4M3ZoMy1ycDlwVUdIX3lOaFYtQlVGeEtfVFljU1lnaEVJQkpjb216cWhHRjRwdDNYWENGUmxfWjlkeTh0RTdGc1pCNWh0VzVyaFpvSDNOYkYyNVE?oc=5",
-          "source": "Al Arabiya",
+          "title": "The morning after the Lebanon 'agreement'",
+          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -202,8 +202,20 @@
     },
     {
       "term": "Israeli",
-      "count": 7,
+      "count": 10,
       "headlines": [
+        {
+          "title": "The morning after the Lebanon 'agreement'",
+          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Turkey ‘strongly condemns’ Israeli incursions in Syria",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY09ZaUdBdmF6YXlmWV9SSGR6MjFKYktmS2dZQndERWQ2c2Z3YzgzajdaaUdXTVJZNFRPOExoOXFBQnFmNkhIRWtJWUxwZTAyZ2VYbWp6MXV1VVBVZjV1cnlVd19lMXdPZUwtMFJtV2VmRWlscGhjZWdyTG1IOUdJQjVtNmJ2VUxhRDhQUzdlUnRWUVFyT1FYVkk2Y1J4OHlMVGNZZlVaMVdNdWtEV010dzNqbGrSAbQBQVVfeXFMT2NPWWlHQXZhemF5ZllfUkhkejIxSmJLZktnWUJ3REVkNnNmd2M4M2o3WmlHV01SWTRUTzhMaDlxQUJxZjZISEVrSVlMcGUwMmdlWG1qejF1dVVQVWY1dXJ5VXdfZTF3T2VMLTBSbVdlZkVpbHBoY2VnckxtSDlHSUI1bTZidlVMYUQ4UFM3ZVJ0VlFRck9RWFZJNmNSeDh5TFRjWWZVWjFXTXVrRFdNdHczamxq?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Qatar condemns Israeli incursions in Syria",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGQwV3RfemxsaGRQWUtxLW5ZbFk2R0kyOWlBTWVHSUdzYVhUWExsS0VyMXZYX1lhRkpjZV83X1JqSmFzcHZ4UTRBYll0QWdIam5QR1h4Tm1FU2JKRHNBWVFYNkRSYTk0SFU3ajJ2TE1JNVk1UGd5RjBqbDR1OEwzVi0tTG4?oc=5",
@@ -241,6 +253,12 @@
           "region": "Gulf"
         },
         {
+          "title": "'Obstacle is not lack of law but political reluctance,' expert tells Security Council on Israeli occupation",
+          "url": "https://www.aa.com.tr/en/middle-east/obstacle-is-not-lack-of-law-but-political-reluctance-expert-tells-security-council-on-israeli-occupation/3981550",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
           "title": "Syria condemns Israeli incursions and artillery shelling in Quneitra and Daraa",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWHlkZDhCYVNHQzViOE1JYkNQVy1keUp3UkhSZVFENVRGYzVrOGJWRGtiMGZkc1NCLTAyWkNWalUwTTRMLWNraHRJbUkzcXhjOHpYbkNfUDVWNk5lLXF4dkhBUVR1ZlpCMlRfN0t4eS1Za3hWT3lnZTMyS3FETjdwNjlmZmlVcWFEWldSOW9YTF9YQWVLdlh4QU0wckthZ1A5dTFPZDN6YjdHRVBGUWtKSG1Xb2hWeUtTVllHRHRlTzBWRkUxa05ONHVZQ0Z1MWxZOTJPX3UwN1BXV1U2S0puazVnY2hCUVIxY2xF?oc=5",
           "source": "TRT World",
@@ -249,44 +267,50 @@
       ]
     },
     {
-      "term": "agreement",
-      "count": 6,
+      "term": "Iraq",
+      "count": 7,
       "headlines": [
         {
-          "title": "Shameful Israel-Lebanon 'agreement' evokes the Oslo disaster",
-          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
-          "source": "Middle East Eye",
+          "title": "Iraq’s corruption crackdown is a start, not a solution",
+          "url": "https://www.aljazeera.com/opinions/2026/6/29/iraqs-corruption-crackdown-is-a-start-not-a-solution?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Lebanon-Israel deal could block war crimes accountability, experts warn",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-deal-could-block-war-crimes-accountability-experts-warn",
-          "source": "Middle East Eye",
+          "title": "Iraq sets September 30 deadline for pro-Iran militias to disarm",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSkR5QVZsRUZlRXMxaGxhaERhVVJmN25OV0doYkY3a19IOVB4SHl4RHBHNEotc1R1VlU4MkJOc3IzXzB3aHJVUlZYUlp0ejEwVFFKXzBzWDRzZU84eDgybHlIQlFidkpDRGJhdUtiNGF6djdjaUZWMFluLWZCOFlFM3YwbENyMk0tVVAyTi03X0J5T0tYSGI4ZERNc2pBZlVrNm1RRGlSSkQxNU5nNWxPRnlid0ZvdEpyLXhlUDBwUmhUQdIBwgFBVV95cUxPSkR5QVZsRUZlRXMxaGxhaERhVVJmN25OV0doYkY3a19IOVB4SHl4RHBHNEotc1R1VlU4MkJOc3IzXzB3aHJVUlZYUlp0ejEwVFFKXzBzWDRzZU84eDgybHlIQlFidkpDRGJhdUtiNGF6djdjaUZWMFluLWZCOFlFM3YwbENyMk0tVVAyTi03X0J5T0tYSGI4ZERNc2pBZlVrNm1RRGlSSkQxNU5nNWxPRnlid0ZvdEpyLXhlUDBwUmhUQQ?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Lebanon army chief discusses Israel deal with CENTCOM commander",
-          "url": "https://www.newarab.com/news/lebanon-army-chief-discusses-israel-deal-centcom-commander",
+          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
+          "url": "https://www.newarab.com/news/iraq-sets-september-30-deadline-pro-iran-groups-disarm",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Nabih Berri to L'OLJ: The Israel-Lebanon agreement 'will not pass'",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDV3eENsakxoQVo5N1M0SWJJYVpwdEZ4dTU0X3FvOHotZnoxR0pjV21BWjAtMzlwSm0wbFFrTW9LZlNQdHVmaTB3NDJQSmtkNHVOcXg1UHJDUFhma29scDFvTE82QTRIVUpJbXJIZXdsTHMtLVlfQUdyLTdxWVhHMXVsQTN3M2hOcWdpcHMtM25tT29kUU5aeHJzNjNjaU1qbVE4YTV0dGQxVnJnTnpJblVsYldzUQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Araghchi meets Karbala governor to coordinate funeral of martyred Leader in holy shrines",
+          "url": "https://en.irna.ir/news/86196321/Araghchi-meets-Karbala-governor-to-coordinate-funeral-of-martyred",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "Naim Qassem rejects Lebanon-Israel agreement, declares it ‘null and void’",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0FyMi1vVmdYdlp4eXByRkFreG5PMksxYXBIQWJfUnh2UVhCVlZDcmNzb29lVTVWc2lxVDQ5akpzTEZFaEdnSnJ2OEk4VWQyRkRKdmJTTm5qOG51SVpzbk40eTVCVmpYUlgzb1d6RlNnQTJxdnVUZkdRVUZUMkZLR19HYVMzTjhEUjVGcXc5c3l5VDc2WDVLUllFS2Z5N0Q0UGRyd2Z1Z3hua1k1N2dKRjE0WnBZUklIR1FtR2RsNzY?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PS3hzTzhpdWhrbVZMZkJNOTJ3SHA4czE1dFRtcDZrblEybDY3RDFoZ3pqOTZoaXVmMEk4Tk5yd1VDNTY3bkktOUpYSE4zVC0tZ240?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         },
         {
-          "title": "Fighting in Lebanon continues days after new agreement",
-          "url": "https://www.egyptindependent.com/fighting-in-lebanon-continues-days-after-new-agreement/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Iraq to widen corruption operations after arrests",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHBZYmVtcVJjSEJucEVzd0duc0RSUFE3R1dhRmhIa2RaWUdkYm5nbmt4R21fLUJNUmctcDVfWG1rWUU0ZTg0blhxa0lUekpzNmtrMDRER2EybmRleEJCV3JiVTAzenRpMnFyVTU0N25MMmVHT092ZkxSSFhvTURmM05ocmExa3VSZ1c3X2RSSDdxZjYt?oc=5",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey"
+        },
+        {
+          "title": "Iraq to probe World Cup failure, map overhaul following no wins",
+          "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -295,9 +319,9 @@
       "count": 6,
       "headlines": [
         {
-          "title": "Iraqi FM makes first visit to Syria since Assad's fall",
-          "url": "https://www.newarab.com/news/iraqi-fm-makes-first-visit-syria-assads-fall",
-          "source": "The New Arab",
+          "title": "Turkey ‘strongly condemns’ Israeli incursions in Syria",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY09ZaUdBdmF6YXlmWV9SSGR6MjFKYktmS2dZQndERWQ2c2Z3YzgzajdaaUdXTVJZNFRPOExoOXFBQnFmNkhIRWtJWUxwZTAyZ2VYbWp6MXV1VVBVZjV1cnlVd19lMXdPZUwtMFJtV2VmRWlscGhjZWdyTG1IOUdJQjVtNmJ2VUxhRDhQUzdlUnRWUVFyT1FYVkk2Y1J4OHlMVGNZZlVaMVdNdWtEV010dzNqbGrSAbQBQVVfeXFMT2NPWWlHQXZhemF5ZllfUkhkejIxSmJLZktnWUJ3REVkNnNmd2M4M2o3WmlHV01SWTRUTzhMaDlxQUJxZjZISEVrSVlMcGUwMmdlWG1qejF1dVVQVWY1dXJ5VXdfZTF3T2VMLTBSbVdlZkVpbHBoY2VnckxtSDlHSUI1bTZidlVMYUQ4UFM3ZVJ0VlFRck9RWFZJNmNSeDh5TFRjWWZVWjFXTXVrRFdNdHczamxq?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -333,84 +357,6 @@
       ]
     },
     {
-      "term": "Qatar",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "$6 billion of Iran’s frozen assets to be released, says President Pezeshkian",
-          "url": "https://en.irna.ir/news/86195913/6-billion-of-Iran-s-frozen-assets-to-be-released-says-President",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Qatar condemns Israeli incursions in Syria",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGQwV3RfemxsaGRQWUtxLW5ZbFk2R0kyOWlBTWVHSUdzYVhUWExsS0VyMXZYX1lhRkpjZV83X1JqSmFzcHZ4UTRBYll0QWdIam5QR1h4Tm1FU2JKRHNBWVFYNkRSYTk0SFU3ajJ2TE1JNVk1UGd5RjBqbDR1OEwzVi0tTG4?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "$6bn of Iranian assets to return via Qatar: Pezeshkian",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHh6YW4yS2lOcThJRVJEbVhjUV9nd3FGWXJBQmZUVklLZ2ViU1NOY0NMTlg5UU00LVh0NDZsLUhqSU9XZHFzTXpQaFQ1UXZ2dlM1Y2VMTmcwTTg3ZjZVNWhRTk5HVG42R2FaYkt6NW1kLXB3OVJZcXIxaVNRVUZBMFk1OWUycnpVQTRIRGg0YXlCdw?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Iranian President says $6 billion of assets frozen in Qatar will be returned",
-          "url": "https://www.egyptindependent.com/iranian-president-says-6-billion-of-assets-frozen-in-qatar-will-be-returned/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Qatar vessel incident: One killed, one injured after maritime search operation",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZlc4NGZ3YzhFLW8yeFlMYlE1RlpndWxRWXMyZmd5aGxZVHNpNG9nUFBxS0pqdkNIZVkzc1h4RDJ5a3FNcll4NXNvRVhleWcyZ3R6MU5QODlSeUt0MmdVdTN5UlkycVd0dVJkeGVBWHdYQjFCM3RPYnRwenZiWmRHZTdwZU50djluOE8zUFZ2M2doVFhScXFpT3JzY2ZHTk11eDZKRFdDRldsb2FfcWJtNDBUc0w4NG_SAcwBQVVfeXFMTkZTUjZCak9yd0hkcG0ydGdwWDhfN29xTG5hQnJKN3g1Z2dGRW9uSFNIdTd6LXcwaGtHell3Q3lhRHBMb3htOWxvQTlLdjltR01WZDNjYkVXQkM3b3JDNDVpa29hUlhrQWJYQVNzZFJ6dVFyQjBTNVlpMXllVnRlWVNJVVM2WTVjUmFtcnlxai1HQ3BhSGlCWWU0X1BySmItbklHdmcwX0ptd1lXUEJQemNudVV5YkxNVFAzNjRHRjFSMTBHQzBUMzJrcjZq?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Qatar suspends non-commercial maritime activities as security precaution",
-          "url": "https://www.aa.com.tr/en/europe/qatar-suspends-non-commercial-maritime-activities-as-security-precaution/3981538",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Iraq",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Iraq’s corruption crackdown is a start, not a solution",
-          "url": "https://www.aljazeera.com/opinions/2026/6/29/iraqs-corruption-crackdown-is-a-start-not-a-solution?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraq sets September 30 deadline for pro-Iran militias to disarm",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSkR5QVZsRUZlRXMxaGxhaERhVVJmN25OV0doYkY3a19IOVB4SHl4RHBHNEotc1R1VlU4MkJOc3IzXzB3aHJVUlZYUlp0ejEwVFFKXzBzWDRzZU84eDgybHlIQlFidkpDRGJhdUtiNGF6djdjaUZWMFluLWZCOFlFM3YwbENyMk0tVVAyTi03X0J5T0tYSGI4ZERNc2pBZlVrNm1RRGlSSkQxNU5nNWxPRnlid0ZvdEpyLXhlUDBwUmhUQdIBwgFBVV95cUxPSkR5QVZsRUZlRXMxaGxhaERhVVJmN25OV0doYkY3a19IOVB4SHl4RHBHNEotc1R1VlU4MkJOc3IzXzB3aHJVUlZYUlp0ejEwVFFKXzBzWDRzZU84eDgybHlIQlFidkpDRGJhdUtiNGF6djdjaUZWMFluLWZCOFlFM3YwbENyMk0tVVAyTi03X0J5T0tYSGI4ZERNc2pBZlVrNm1RRGlSSkQxNU5nNWxPRnlid0ZvdEpyLXhlUDBwUmhUQQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
-          "url": "https://www.newarab.com/news/iraq-sets-september-30-deadline-pro-iran-groups-disarm",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Araghchi meets Karbala governor to coordinate funeral of martyred Leader in holy shrines",
-          "url": "https://en.irna.ir/news/86196321/Araghchi-meets-Karbala-governor-to-coordinate-funeral-of-martyred",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraq to widen corruption operations after arrests",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHBZYmVtcVJjSEJucEVzd0duc0RSUFE3R1dhRmhIa2RaWUdkYm5nbmt4R21fLUJNUmctcDVfWG1rWUU0ZTg0blhxa0lUekpzNmtrMDRER2EybmRleEJCV3JiVTAzenRpMnFyVTU0N25MMmVHT092ZkxSSFhvTURmM05ocmExa3VSZ1c3X2RSSDdxZjYt?oc=5",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
       "term": "Lebanon",
       "count": 5,
       "headlines": [
@@ -421,9 +367,9 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Lebanon president says determined to deploy army up to Israel border",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWx2UjNRWW92T0tRbE50QmhGYTE3MW51ZHBBaUhRWWVNOW00djRZc0xZbWhBWDBLMnpCcmRXMEFJTjZkcW9CMl83Q3dJUUd2WHMtSDZSazA5TlU5Zm42eGxHZFZSMjhoa01VdDd0YTNvbUZvWXRUODN2aDMtcnA5cFVHSF95TmhWLUJVRnhLX1RZY1NZZ2hFSUJKY29tenFoR0Y0cHQzWFhDRlJsX1o5ZHk4dEU3RnNaQjVodFc1cmhab0gzTmJGMjVR0gHKAUFVX3lxTE81bHZSM1FZb3ZPS1FsTnRCaEZhMTcxbnVkcEFpSFFZZU05bTR2NFlzTFltaEFYMEsyekJyZFcwQUlONmRxb0IyXzdDd0lRR3ZYcy1INlJrMDlOVTlmbjZ4bEdkVlIyOGhrTVV0N3RhM29tRm9ZdFQ4M3ZoMy1ycDlwVUdIX3lOaFYtQlVGeEtfVFljU1lnaEVJQkpjb216cWhHRjRwdDNYWENGUmxfWjlkeTh0RTdGc1pCNWh0VzVyaFpvSDNOYkYyNVE?oc=5",
-          "source": "Al Arabiya",
+          "title": "The morning after the Lebanon 'agreement'",
+          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
@@ -483,32 +429,92 @@
       ]
     },
     {
-      "term": "Hormuz",
+      "term": "Trump",
       "count": 4,
       "headlines": [
         {
-          "title": "France and Oman to cooperate with partners on de-mining Hormuz, Macron says",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-oman-cooperate-partners-de-mining-hormuz-macron-says",
+          "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
+          "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump’s biggest challenge on Iran may well be the US Congress",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVJqQ3JvRjdUQUVaR3R2dG11YUZpQ1pKSnI5eFZJdm1Jc3NWZG1oXzRpNThQaGE3Y3VlaktDSnZrekNVaThjUkNNOHpqYmI3bThUUHdmelhkcUl4UF83c3NXeTdlZ0Fub0F3cmV3TmVGT1FjWkJnMk5HaUtKeDFGaGpWTFQ5eHV4aDRCLXNHcHFubUVtZ0lXa3Uza0RXYzhuR3VqM0VrdlEwUkpXZ0M5Z3NsWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "This anti-AI evangelist is growing more popular. That could be a problem for Trump",
+          "url": "https://www.egyptindependent.com/this-anti-ai-evangelist-is-growing-more-popular-that-could-be-a-problem-for-trump/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "US Supreme Court rejects Trump appeal over $5M sexual abuse, defamation verdict",
+          "url": "https://www.aa.com.tr/en/americas/us-supreme-court-rejects-trump-appeal-over-5m-sexual-abuse-defamation-verdict/3981555",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "agreement",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "The morning after the Lebanon 'agreement'",
+          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran, Oman hold first joint Hormuz committee meeting - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZ2NoUldGYWpPQzFYWWhicGZOMGJqc1ctQkdCYlY3bEFNaXdSeTdXNE16enczb0tQTmtaR2hFVmFacEdJUEp3ZXlGbTN1alhOT2c?oc=5",
-          "source": "Iran International",
+          "title": "Lebanon army chief discusses Israel deal with CENTCOM commander",
+          "url": "https://www.newarab.com/news/lebanon-army-chief-discusses-israel-deal-centcom-commander",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Nabih Berri to L'OLJ: The Israel-Lebanon agreement 'will not pass'",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDV3eENsakxoQVo5N1M0SWJJYVpwdEZ4dTU0X3FvOHotZnoxR0pjV21BWjAtMzlwSm0wbFFrTW9LZlNQdHVmaTB3NDJQSmtkNHVOcXg1UHJDUFhma29scDFvTE82QTRIVUpJbXJIZXdsTHMtLVlfQUdyLTdxWVhHMXVsQTN3M2hOcWdpcHMtM25tT29kUU5aeHJzNjNjaU1qbVE4YTV0dGQxVnJnTnpJblVsYldzUQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Fighting in Lebanon continues days after new agreement",
+          "url": "https://www.egyptindependent.com/fighting-in-lebanon-continues-days-after-new-agreement/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Tehran",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Iran appoints representative for Expo 2027 Belgrade national pavilion",
+          "url": "https://en.irna.ir/news/86196299/Iran-appoints-representative-for-Expo-2027-Belgrade-national",
+          "source": "IRNA",
           "region": "Iran"
         },
         {
-          "title": "Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
-          "source": "Iran International",
+          "title": "Araghchi meets Karbala governor to coordinate funeral of martyred Leader in holy shrines",
+          "url": "https://en.irna.ir/news/86196321/Araghchi-meets-Karbala-governor-to-coordinate-funeral-of-martyred",
+          "source": "IRNA",
           "region": "Iran"
         },
         {
-          "title": "Iran warns ships not to bypass its chosen Hormuz route",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGQtVk1xblZhZFhiam9JYkRob3BSZDVVSG1EOEVxNWlnaTVUelJOcjloV2VKVFRUQTdNa01IdnczOGs2NWFUNl9MY1dCTTVlLWZqb2NtOFpVSUZzcWpZcUdLVWZub1hTY3VOXzdDZUM5dFBmeHhWWUFZSGluLUdac0FDVkpBbTcydk9zOHZJMHgtUGRTR2lONUN6M0g2cG8?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "VP Aref calls for full immunity in cybersecurity, scientific progress",
+          "url": "https://en.irna.ir/news/86196198/VP-Aref-calls-for-full-immunity-in-cybersecurity-scientific",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iranian President says $6 billion of assets frozen in Qatar will be returned",
+          "url": "https://www.egyptindependent.com/iranian-president-says-6-billion-of-assets-frozen-in-qatar-will-be-returned/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         }
       ]
     },
@@ -567,30 +573,6 @@
       ]
     },
     {
-      "term": "Trump",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
-          "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump’s biggest challenge on Iran may well be the US Congress",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVJqQ3JvRjdUQUVaR3R2dG11YUZpQ1pKSnI5eFZJdm1Jc3NWZG1oXzRpNThQaGE3Y3VlaktDSnZrekNVaThjUkNNOHpqYmI3bThUUHdmelhkcUl4UF83c3NXeTdlZ0Fub0F3cmV3TmVGT1FjWkJnMk5HaUtKeDFGaGpWTFQ5eHV4aDRCLXNHcHFubUVtZ0lXa3Uza0RXYzhuR3VqM0VrdlEwUkpXZ0M5Z3NsWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "This anti-AI evangelist is growing more popular. That could be a problem for Trump",
-          "url": "https://www.egyptindependent.com/this-anti-ai-evangelist-is-growing-more-popular-that-could-be-a-problem-for-trump/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Gaza",
       "count": 3,
       "headlines": [
@@ -615,31 +597,55 @@
       ]
     },
     {
-      "term": "France",
+      "term": "war",
       "count": 3,
       "headlines": [
         {
-          "title": "France and Oman to cooperate with partners on de-mining Hormuz, Macron says",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-oman-cooperate-partners-de-mining-hormuz-macron-says",
-          "source": "Middle East Eye",
+          "title": "Gaza high school student’s fight for a future",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "France, Oman to cooperate on Middle East de-escalation, Macron says",
-          "url": "https://www.aa.com.tr/en/europe/france-oman-to-cooperate-on-middle-east-de-escalation-macron-says/3981533",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Drone Dominance: How Iran broke the US business model for war",
+          "url": "https://www.newarab.com/analysis/drone-dominance-how-iran-broke-us-business-model-war",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "France sees 1,000 excess deaths amid record European heat wave",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFdGNVhEbFl4STQ2a1ZLMHRCUnJjNkNDNTFqRGpTRGNhc2g0RnNnbkxtaVUteE5rSzJabkpjdGpSWXVqWDd2eWJwelI0ZW9Hbkk0RDk2MUFzanM5bnJkRHlZVnhoWERsazctVWNScDNGZXQ1QUxKQ09ucTR1S3ZaZFZwQTRBUkh6SVVBemp3UlRsNlJmeFpLYl9Da2VwaVh2RGlB0gGoAUFVX3lxTE1mbFRwQk54UnIxNmlCbVY0LXlmeTNxQzBmdHp3dDNwbVAyWDBMc0hLQllFbzFncFRnWURNVlNqa29ZQWpHWUlfM0lLY0laU00zS2drTW9rT25URjFIclZSMnlNSWl4T1ZBdm5WNmlXY0ZkOFljTEY1X0Q5NEZSYUx4ZXRiaXVLdThfakdlRVplcTVlelZUelVWVGFsMV9MdnIyOWo1YVpnYQ?oc=5",
-          "source": "Daily Sabah",
+          "title": "Live blog - US-Israeli war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Oman",
+      "term": "Submitted",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Ben Shapiro-backed 'propaganda' film portrays pro-Palestine 'terrorists' on campus",
+          "url": "https://www.middleeasteye.net/trending/ben-shapiro-producing-film-islamic-terrorists-pro-palestine-university-encampment",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel finds new breakaway allies in Bosnia's Serbs",
+          "url": "https://www.middleeasteye.net/news/israel-finds-new-breakaway-allies-bosnias-serbs",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "The morning after the Lebanon 'agreement'",
+          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Hormuz",
       "count": 3,
       "headlines": [
         {
@@ -655,58 +661,34 @@
           "region": "Iran"
         },
         {
-          "title": "France, Oman to cooperate on Middle East de-escalation, Macron says",
-          "url": "https://www.aa.com.tr/en/europe/france-oman-to-cooperate-on-middle-east-de-escalation-macron-says/3981533",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
         }
       ]
     },
     {
-      "term": "Lebanese",
+      "term": "Venezuela",
       "count": 3,
       "headlines": [
         {
-          "title": "Lebanon president says determined to deploy army up to Israel border",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-determined-deploy-army-israel-border",
-          "source": "Middle East Eye",
+          "title": "Drone Footage Shows Devastation After Quakes in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnlQUURrNEtBRnlOamxLLUNTMERPOTNVU2syb0xLR0FfNW1kLUFCTHMybXdxVGY4UVEzbWZkT2dFdkxMVERYR2ZELVpneFV5dkR6MEsyU0FmMEpPR0F2ZnR2U19FMVp5Wk9JbHdZMDRRUDJZVUFORk80eURqVVdvSm82ZE1uZkRxLXBVZ2RUQTFld2RpaUJpYUE4SnV3b1Q4S2E0RVlZRTFSeXM1MzkwSmtZWjXSAbQBQVVfeXFMUEp5UFFEazRLQUZ5TmpsSy1DUzBETzkzVVNrMm9MS0dBXzVtZC1BQkxzMm13cVRmOFFRM21mZE9nRXZMTFREWEdmRC1aZ3hVeXZEejBLMlNBZjBKT0dBdmZ0dlNfRTFaeVpPSWx3WTA0UVAyWVVBTkZPNHlEalVXb0pvNmRNbmZEcS1wVWdkVEExZXdkaWlCaWFBOEp1d29UOEthNEVZWUUxUnlzNTM5MEprWVo1?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Shameful Israel-Lebanon 'agreement' evokes the Oslo disaster",
-          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
-          "source": "Middle East Eye",
+          "title": "عمليات البحث مستمرة عن ناجين من الزلازل في فنزويلا",
+          "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNaEZUNG54NU0xZ0p5b29hMTFxMDlKclZRWW9NSmg0bVhwbDEwSlBhZldTRWYyUV9jMS1ualFfV0tub2pFbk5uc2dqd1I4aHQ3MmVyX2FCOTVYNjQ3bkhKOWR2MGJQcnVsRUtSQS1Cek5yaGljYmVpSHdaNENKbHB6WVJsSEZqS2tHREpteDFWQzZOV3ZmWnRVU0FrOFUySnhzTnpRYUNHU1k3bmFRb2Z1MDQwYmNjWmx1Rm5tdEdZb1BLRWJ0RUhQVVhCWEpLaVhjMHVKak9RaHlIWXpZQ1NVV3JDOFVuRXRmZTFicGZGMDdxNlJvZ1BKRHVnZXp4ZU5MUHIta2R3T1VscFRNNE5pQnpjOGJ3aU9ZYU04Y3ZHYnpBb1AwTGhOS1RhZHFzRE8zc3FsSVlBV3JNa1lOSE1jeXJFWXVrOXFwNnFEbHV2T21XN1JhY2xlZ1l1aU9oclduZzdFbnY5TFdNbXRTdy1DR0pSeWd6R0RvRjVDRlhhZjMwSm1ENm11VG1QUW1CejlMeHBUVXhsamJiTnV6UW9ybENR?oc=5",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "Hezbollah-allied Lebanese parliament head says US-Israel-Lebanon deal ‘will not pass’",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzUmNzdE9zMXYwTGozMFRtS0tLQlY2SEIyWVg1ZVNsS3RvUy15Smo3TWwzelozR3JpcDFPT2M5Z2hiQWJZeTJQc09kaE1NU2c4MnRxSVRDamxmb3kwU3c?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Submitted",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Israel finds new breakaway allies in Bosnia's Serbs",
-          "url": "https://www.middleeasteye.net/news/israel-finds-new-breakaway-allies-bosnias-serbs",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Shameful Israel-Lebanon 'agreement' evokes the Oslo disaster",
-          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon-Israel deal could block war crimes accountability, experts warn",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-deal-could-block-war-crimes-accountability-experts-warn",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Jordanian rescue team launches operations in earthquake-stricken Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaW1pOVBSbkNSdTM2cHdjck05emZ3RGI3eV9ybzB0aU0yOGxNSnRQUGFhTnpxNnB6MzBvYWtSM2FRYXR5cFhYdERZRjRMZW9HZF8tR3JXN193MTMzSWxDZHRVMTBOT3ZwbTZhREJBcHZWdGVfRUtaRTlVVWR4NFFpcllTbmk5Q21VX01jTlZNc3ZSMWY1amQwNGR1b1RtUkM5YWxMMlNlRVl5WkRFc0E?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         }
       ]
     },
@@ -721,10 +703,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iraqi FM makes first visit to Syria since Assad's fall",
-          "url": "https://www.newarab.com/news/iraqi-fm-makes-first-visit-syria-assads-fall",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PS3hzTzhpdWhrbVZMZkJNOTJ3SHA4czE1dFRtcDZrblEybDY3RDFoZ3pqOTZoaXVmMEk4Tk5yd1VDNTY3bkktOUpYSE4zVC0tZ240?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         },
         {
           "title": "Iraqi top diplomat visits Syria in first post-Assad trip to deepen cooperation",
@@ -735,9 +717,15 @@
       ]
     },
     {
-      "term": "Tehran",
+      "term": "Islamic",
       "count": 3,
       "headlines": [
+        {
+          "title": "Iran appoints representative for Expo 2027 Belgrade national pavilion",
+          "url": "https://en.irna.ir/news/86196299/Iran-appoints-representative-for-Expo-2027-Belgrade-national",
+          "source": "IRNA",
+          "region": "Iran"
+        },
         {
           "title": "Araghchi meets Karbala governor to coordinate funeral of martyred Leader in holy shrines",
           "url": "https://en.irna.ir/news/86196321/Araghchi-meets-Karbala-governor-to-coordinate-funeral-of-martyred",
@@ -745,27 +733,21 @@
           "region": "Iran"
         },
         {
-          "title": "VP Aref calls for full immunity in cybersecurity, scientific progress",
-          "url": "https://en.irna.ir/news/86196198/VP-Aref-calls-for-full-immunity-in-cybersecurity-scientific",
+          "title": "Judiciary chief pledges swift, full implementation of Leader’s directives",
+          "url": "https://en.irna.ir/news/86196135/Judiciary-chief-pledges-swift-full-implementation-of-Leader-s",
           "source": "IRNA",
           "region": "Iran"
-        },
-        {
-          "title": "Iranian President says $6 billion of assets frozen in Qatar will be returned",
-          "url": "https://www.egyptindependent.com/iranian-president-says-6-billion-of-assets-frozen-in-qatar-will-be-returned/",
-          "source": "Egypt Independent",
-          "region": "Levant"
         }
       ]
     },
     {
-      "term": "Pezeshkian",
+      "term": "Qatar",
       "count": 3,
       "headlines": [
         {
-          "title": "$6 billion of Iran’s frozen assets to be released, says President Pezeshkian",
-          "url": "https://en.irna.ir/news/86195913/6-billion-of-Iran-s-frozen-assets-to-be-released-says-President",
-          "source": "IRNA",
+          "title": "Qatar condemns Israeli incursions in Syria",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGQwV3RfemxsaGRQWUtxLW5ZbFk2R0kyOWlBTWVHSUdzYVhUWExsS0VyMXZYX1lhRkpjZV83X1JqSmFzcHZ4UTRBYll0QWdIam5QR1h4Tm1FU2JKRHNBWVFYNkRSYTk0SFU3ajJ2TE1JNVk1UGd5RjBqbDR1OEwzVi0tTG4?oc=5",
+          "source": "Mehr News",
           "region": "Iran"
         },
         {
@@ -779,6 +761,24 @@
           "url": "https://www.egyptindependent.com/iranian-president-says-6-billion-of-assets-frozen-in-qatar-will-be-returned/",
           "source": "Egypt Independent",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Pakistani",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
+          "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Pakistani strikes kill dozens in Afghanistan",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdThwbVhoT3JWRGJsM1lIZ2V6YmtWQ3QtbUZlOGxBYlk5UVNUN1dodHhBT3VPb0FaT0YwcTVJenZMVWZBM1dwVlluYkZHWWdwdEMzX0o5ZUZBQjJuQTV6RmR2Snpsckh0M0Z2a3l6V0ZsTkVCTllHOTdjZGpvV1dBWHRzUHlGZTQ?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -801,25 +801,43 @@
       ]
     },
     {
-      "term": "war",
+      "term": "Supreme",
       "count": 2,
       "headlines": [
         {
-          "title": "Gaza high school student’s fight for a future",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss",
+          "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
+          "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Live blog - US-Israeli war on Iran",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
-          "source": "TRT World",
+          "title": "US Supreme Court rejects Trump appeal over $5M sexual abuse, defamation verdict",
+          "url": "https://www.aa.com.tr/en/americas/us-supreme-court-rejects-trump-appeal-over-5m-sexual-abuse-defamation-verdict/3981555",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Macron",
+      "term": "Court",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
+          "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US Supreme Court rejects Trump appeal over $5M sexual abuse, defamation verdict",
+          "url": "https://www.aa.com.tr/en/americas/us-supreme-court-rejects-trump-appeal-over-5m-sexual-abuse-defamation-verdict/3981555",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "France",
       "count": 2,
       "headlines": [
         {
@@ -829,15 +847,15 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "France, Oman to cooperate on Middle East de-escalation, Macron says",
-          "url": "https://www.aa.com.tr/en/europe/france-oman-to-cooperate-on-middle-east-de-escalation-macron-says/3981533",
-          "source": "Anadolu Agency",
+          "title": "France sees 1,000 excess deaths amid record European heat wave",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFdGNVhEbFl4STQ2a1ZLMHRCUnJjNkNDNTFqRGpTRGNhc2g0RnNnbkxtaVUteE5rSzJabkpjdGpSWXVqWDd2eWJwelI0ZW9Hbkk0RDk2MUFzanM5bnJkRHlZVnhoWERsazctVWNScDNGZXQ1QUxKQ09ucTR1S3ZaZFZwQTRBUkh6SVVBemp3UlRsNlJmeFpLYl9Da2VwaVh2RGlB0gGoAUFVX3lxTE1mbFRwQk54UnIxNmlCbVY0LXlmeTNxQzBmdHp3dDNwbVAyWDBMc0hLQllFbzFncFRnWURNVlNqa29ZQWpHWUlfM0lLY0laU00zS2drTW9rT25URjFIclZSMnlNSWl4T1ZBdm5WNmlXY0ZkOFljTEY1X0Q5NEZSYUx4ZXRiaXVLdThfakdlRVplcTVlelZUelVWVGFsMV9MdnIyOWo1YVpnYQ?oc=5",
+          "source": "Daily Sabah",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "French",
+      "term": "Oman",
       "count": 2,
       "headlines": [
         {
@@ -847,28 +865,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "France, Oman to cooperate on Middle East de-escalation, Macron says",
-          "url": "https://www.aa.com.tr/en/europe/france-oman-to-cooperate-on-middle-east-de-escalation-macron-says/3981533",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Hezbollah",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Lebanon president says determined to deploy army up to Israel border",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-determined-deploy-army-israel-border",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Fighting in Lebanon continues days after new agreement",
-          "url": "https://www.egyptindependent.com/fighting-in-lebanon-continues-days-after-new-agreement/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Iran, Oman hold first joint Hormuz committee meeting - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZ2NoUldGYWpPQzFYWWhicGZOMGJqc1ctQkdCYlY3bEFNaXdSeTdXNE16enczb0tQTmtaR2hFVmFacEdJUEp3ZXlGbTN1alhOT2c?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
         }
       ]
     },
@@ -891,29 +891,11 @@
       ]
     },
     {
-      "term": "Israel-Lebanon",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Shameful Israel-Lebanon 'agreement' evokes the Oslo disaster",
-          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Nabih Berri to L'OLJ: The Israel-Lebanon agreement 'will not pass'",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDV3eENsakxoQVo5N1M0SWJJYVpwdEZ4dTU0X3FvOHotZnoxR0pjV21BWjAtMzlwSm0wbFFrTW9LZlNQdHVmaTB3NDJQSmtkNHVOcXg1UHJDUFhma29scDFvTE82QTRIVUpJbXJIZXdsTHMtLVlfQUdyLTdxWVhHMXVsQTN3M2hOcWdpcHMtM25tT29kUU5aeHJzNjNjaU1qbVE4YTV0dGQxVnJnTnpJblVsYldzUQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Washington",
       "count": 2,
       "headlines": [
         {
-          "title": "Shameful Israel-Lebanon 'agreement' evokes the Oslo disaster",
+          "title": "The morning after the Lebanon 'agreement'",
           "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
@@ -927,20 +909,56 @@
       ]
     },
     {
-      "term": "Lebanon-Israel",
+      "term": "occupation",
       "count": 2,
       "headlines": [
         {
-          "title": "Lebanon-Israel deal could block war crimes accountability, experts warn",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-deal-could-block-war-crimes-accountability-experts-warn",
+          "title": "The morning after the Lebanon 'agreement'",
+          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Naim Qassem rejects Lebanon-Israel agreement, declares it ‘null and void’",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0FyMi1vVmdYdlp4eXByRkFreG5PMksxYXBIQWJfUnh2UVhCVlZDcmNzb29lVTVWc2lxVDQ5akpzTEZFaEdnSnJ2OEk4VWQyRkRKdmJTTm5qOG51SVpzbk40eTVCVmpYUlgzb1d6RlNnQTJxdnVUZkdRVUZUMkZLR19HYVMzTjhEUjVGcXc5c3l5VDc2WDVLUllFS2Z5N0Q0UGRyd2Z1Z3hua1k1N2dKRjE0WnBZUklIR1FtR2RsNzY?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "'Obstacle is not lack of law but political reluctance,' expert tells Security Council on Israeli occupation",
+          "url": "https://www.aa.com.tr/en/middle-east/obstacle-is-not-lack-of-law-but-political-reluctance-expert-tells-security-council-on-israeli-occupation/3981550",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Lebanese",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "The morning after the Lebanon 'agreement'",
+          "url": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "CPJ under fire after Palestinian reporters removed from database",
+          "url": "https://www.newarab.com/news/cpj-under-fire-after-palestinian-reporters-removed-database",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Drone",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Drone Footage Shows Devastation After Quakes in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnlQUURrNEtBRnlOamxLLUNTMERPOTNVU2syb0xLR0FfNW1kLUFCTHMybXdxVGY4UVEzbWZkT2dFdkxMVERYR2ZELVpneFV5dkR6MEsyU0FmMEpPR0F2ZnR2U19FMVp5Wk9JbHdZMDRRUDJZVUFORk80eURqVVdvSm82ZE1uZkRxLXBVZ2RUQTFld2RpaUJpYUE4SnV3b1Q4S2E0RVlZRTFSeXM1MzkwSmtZWjXSAbQBQVVfeXFMUEp5UFFEazRLQUZ5TmpsSy1DUzBETzkzVVNrMm9MS0dBXzVtZC1BQkxzMm13cVRmOFFRM21mZE9nRXZMTFREWEdmRC1aZ3hVeXZEejBLMlNBZjBKT0dBdmZ0dlNfRTFaeVpPSWx3WTA0UVAyWVVBTkZPNHlEalVXb0pvNmRNbmZEcS1wVWdkVEExZXdkaWlCaWFBOEp1d29UOEthNEVZWUUxUnlzNTM5MEprWVo1?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Drone Dominance: How Iran broke the US business model for war",
+          "url": "https://www.newarab.com/analysis/drone-dominance-how-iran-broke-us-business-model-war",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -963,56 +981,38 @@
       ]
     },
     {
-      "term": "Burnham",
+      "term": "Palestinian",
       "count": 2,
       "headlines": [
         {
-          "title": "UK to Base ‘Number 10 North’ in Manchester: Burnham",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFg5S1BpVmRIekVSQXdHOXp6dXU5TERQakVnRDhGRkpjcFFqQlBIS0FsWm80eHVJcnF4RzFDamtFZlo5V1dDdXdDZDZmYTZ2QlhhNG00ck5qVm95YnNIS2tSTXJ4cXV1N3pjTjJDOUdXYnZMQk1FT0xtakFmQzF6WEpPa2JUVHNGQTByNmhRYi04ektXcG8wd2ZaWDBmY2wxTXNWb1M5ZXLSAagBQVVfeXFMTmRYOUtQaVZkSHpFUkF3Rzl6enV1OUxEUGpFZ0Q4RkZKY3BRakJQSEtBbFpvNHh1SXJxeEcxQ2prRWZaOVdXQ3V3Q2Q2ZmE2dkJYYTRtNHJOalZveWJzSEtrUk1yeHF1dTd6Y04yQzlHV2J2TEJNRU9MbWpBZkMxelhKT2tiVFRzRkEwcjZoUWItOHpLV3BvMHdmWlgwZmNsMU1zVm9TOWVy?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "PM-in-waiting Andy Burnham vows to change UK's politics",
-          "url": "https://www.newarab.com/news/pm-waiting-andy-burnham-vows-change-uks-politics",
+          "title": "CPJ under fire after Palestinian reporters removed from database",
+          "url": "https://www.newarab.com/news/cpj-under-fire-after-palestinian-reporters-removed-database",
           "source": "The New Arab",
           "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Venezuela",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "عمليات البحث مستمرة عن ناجين من الزلازل في فنزويلا",
-          "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNaEZUNG54NU0xZ0p5b29hMTFxMDlKclZRWW9NSmg0bVhwbDEwSlBhZldTRWYyUV9jMS1ualFfV0tub2pFbk5uc2dqd1I4aHQ3MmVyX2FCOTVYNjQ3bkhKOWR2MGJQcnVsRUtSQS1Cek5yaGljYmVpSHdaNENKbHB6WVJsSEZqS2tHREpteDFWQzZOV3ZmWnRVU0FrOFUySnhzTnpRYUNHU1k3bmFRb2Z1MDQwYmNjWmx1Rm5tdEdZb1BLRWJ0RUhQVVhCWEpLaVhjMHVKak9RaHlIWXpZQ1NVV3JDOFVuRXRmZTFicGZGMDdxNlJvZ1BKRHVnZXp4ZU5MUHIta2R3T1VscFRNNE5pQnpjOGJ3aU9ZYU04Y3ZHYnpBb1AwTGhOS1RhZHFzRE8zc3FsSVlBV3JNa1lOSE1jeXJFWXVrOXFwNnFEbHV2T21XN1JhY2xlZ1l1aU9oclduZzdFbnY5TFdNbXRTdy1DR0pSeWd6R0RvRjVDRlhhZjMwSm1ENm11VG1QUW1CejlMeHBUVXhsamJiTnV6UW9ybENR?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
         },
         {
-          "title": "Jordanian rescue team launches operations in earthquake-stricken Venezuela",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaW1pOVBSbkNSdTM2cHdjck05emZ3RGI3eV9ybzB0aU0yOGxNSnRQUGFhTnpxNnB6MzBvYWtSM2FRYXR5cFhYdERZRjRMZW9HZF8tR3JXN193MTMzSWxDZHRVMTBOT3ZwbTZhREJBcHZWdGVfRUtaRTlVVWR4NFFpcllTbmk5Q21VX01jTlZNc3ZSMWY1amQwNGR1b1RtUkM5YWxMMlNlRVl5WkRFc0E?oc=5",
-          "source": "Jordan Times",
+          "title": "B'Tselem report: Palestinian children and teenagers killed by Israel in West Bank at highest rate since 1967; 54 killed in 2025 and no one held accountable - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGUmMxejR4cEVrOTdNd2lDVVFtQ2tMYWhycDVXTzhVLXBWNmFmeTlPb2t6eGo2Z3pCZkhOb2lxMHFzeXhERVpac2xUYkRjTi1HLXM4SVJjOA?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "Islamic",
+      "term": "PMF",
       "count": 2,
       "headlines": [
         {
-          "title": "Araghchi meets Karbala governor to coordinate funeral of martyred Leader in holy shrines",
-          "url": "https://en.irna.ir/news/86196321/Araghchi-meets-Karbala-governor-to-coordinate-funeral-of-martyred",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
+          "url": "https://www.newarab.com/news/iraq-sets-september-30-deadline-pro-iran-groups-disarm",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Judiciary chief pledges swift, full implementation of Leader’s directives",
-          "url": "https://en.irna.ir/news/86196135/Judiciary-chief-pledges-swift-full-implementation-of-Leader-s",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PS3hzTzhpdWhrbVZMZkJNOTJ3SHA4czE1dFRtcDZrblEybDY3RDFoZ3pqOTZoaXVmMEk4Tk5yd1VDNTY3bkktOUpYSE4zVC0tZ240?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -1071,6 +1071,24 @@
       ]
     },
     {
+      "term": "Pezeshkian",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "$6bn of Iranian assets to return via Qatar: Pezeshkian",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHh6YW4yS2lOcThJRVJEbVhjUV9nd3FGWXJBQmZUVklLZ2ViU1NOY0NMTlg5UU00LVh0NDZsLUhqSU9XZHFzTXpQaFQ1UXZ2dlM1Y2VMTmcwTTg3ZjZVNWhRTk5HVG42R2FaYkt6NW1kLXB3OVJZcXIxaVNRVUZBMFk1OWUycnpVQTRIRGg0YXlCdw?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iranian President says $6 billion of assets frozen in Qatar will be returned",
+          "url": "https://www.egyptindependent.com/iranian-president-says-6-billion-of-assets-frozen-in-qatar-will-be-returned/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "US-Iran",
       "count": 2,
       "headlines": [
@@ -1103,24 +1121,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PQ2pvNFc0eElscndUN3hQZmg5QVdVNFEzS1FfSEd2cXF2NFRvdUNBYV94dG1IWUlnQkhPQlhwQmVITE1Xb09zNHA4M0kwVnU0Wk9nMy1uUDVmUFRkMFE?oc=5",
           "source": "Arab News",
           "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Africa",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "‘Leave or return in a coffin’: The threat driving migrants out of South Africa",
-          "url": "https://www.egyptindependent.com/leave-or-return-in-a-coffin-the-threat-driving-migrants-out-of-south-africa/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Global air cargo demand jumps 6% in May despite Middle East slump",
-          "url": "https://www.aa.com.tr/en/world/global-air-cargo-demand-jumps-6-in-may-despite-middle-east-slump/3981530",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         }
       ]
     },
@@ -1161,18 +1161,18 @@
       ]
     },
     {
-      "term": "Turkish",
+      "term": "Russia",
       "count": 2,
       "headlines": [
         {
-          "title": "Türkiye’s 5G rollout drives record telecom investments at $5.6 billion in Q1",
-          "url": "https://www.aa.com.tr/en/europe/turkiye-s-5g-rollout-drives-record-telecom-investments-at-56-billion-in-q1/3981546",
+          "title": "Belgian authorities detain 'disposable agent' suspected of sharing state secrets",
+          "url": "https://www.aa.com.tr/en/europe/belgian-authorities-detain-disposable-agent-suspected-of-sharing-state-secrets/3981558",
           "source": "Anadolu Agency",
           "region": "Turkey"
         },
         {
-          "title": "Turkish Cypriot PM opposes alleged new scheme by Greek Cypriots",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2h2NWZGSHB5MklUZWxlUEtoV3ZOckVrTmhCRnB2VlpRU19wd25Xc2VvUTlUcmh2MDA0UFVubWVhQjNkNy1CU3V5eGJCWDlJY0RGNjJfbGs5V2xmazJ0NDdTWkFQYjJDb3VJbzVZbGl1c1k5T2pNT0hDN1lfYWRJUXkwcS03ZWc4NGVTWS02dHkwYVluVzI0VDg0UmktWmJoRXNYSkNsSdIBrAFBVV95cUxOcVpGUk90SzZpR1YyQTJJRFlPUWpOaG0ycFQwUkdLWElJWXlockFRRUlUUEQtZXNWcm1OLWRFdXIyTmQtd2dNSm03bHluOU16STlmNUdGdk5PaThLdGxVa1JVSW55R3REb1FFZmJ2RUhMUlVHSVpyNTU0amZZSGVCOUlhLTdvbFJxN19rSHJOamlWYy01N0hoMGdzajFtOFVXam4xT0toWm53ZHR6?oc=5",
+          "title": "For the sake of good old NATO, we need to keep Russia in play",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQakwtZDkzTWptcWN1dnFBQmtMMGQtN0dzeEF5aG1MNU5PamZFLXdDVDVZNjFJN09oYzNsR2dUVEN1Tm5tc2hESFFtYU12RUNOOVVaYndUV1FPMkQxenFwNUQ5SFZ2OWVsR2VuaFl2bzBOWkMtMEI3ZDhLVmphZkRiM2wtWmpIRlI3bC1zb25XakhXUmRLSUg5XzNHNjdCMlk2ZmdjUGt30gGrAUFVX3lxTE8teHdvMWV1ZldfMVkwb0RrRHF2enRMdkpfSUkxRnVjM1Y0RHhZLXc0d0FDcFpROElfUm1SVmhCZ0NqWjBkb1dPaXctUGxYVDA0aGxTb1FkdTBrdjZpTjY4d0dadm1Sek1vRUdveTZsYTk2bEJwbEtWemQteE5CNTQxVVh6UTNkV2JHWFdJd1BfZFpPa3I5NDZ0SVZBeFFBb2huU2hydk1wTk4zOA?oc=5",
           "source": "Daily Sabah",
           "region": "Turkey"
         }
