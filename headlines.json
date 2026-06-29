@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T05:07:43.451234+00:00",
+  "updated": "2026-06-29T05:37:00.988788+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Thousands of Kurds gather in Turkiye to demand release of PKK leader",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/thousands-of-kurds-gather-in-turkiye-to-demand-release-of-pkk-leader?traffic_source=rss",
+            "published": "2026-06-29T05:16:51+00:00",
+            "snippet": "Thousands of Kurds in Turkiye rallied to demand the release of PKK leader Abdullah Öcalan and other prisoners."
+          },
           {
             "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
             "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss",
             "published": "2026-06-29T03:03:34+00:00",
             "snippet": "Russian President Vladimir Putin stated that Ukraine has proposed a mutual cessation of long-range strikes. This proposal indicates a potential de-escalation in the ongoing conflict between the two nations."
-          },
-          {
-            "title": "Venezuela’s earthquakes pose first major test for President Delcy Rodriguez",
-            "url": "https://www.aljazeera.com/features/longform/2026/6/29/venezuelas-earthquakes-pose-first-major-test-for-president-delcy-rodriguez?traffic_source=rss",
-            "published": "2026-06-29T02:44:17+00:00",
-            "snippet": "Recent earthquakes in Venezuela have presented a significant challenge to the government, stirring public anger over alleged mismanagement. The seismic disaster has highlighted existing tensions and criticisms of the ruling socialist party."
           }
         ],
         "error": null
@@ -48,6 +48,24 @@
         "url": "https://www.middleeasteye.net",
         "headlines": [
           {
+            "title": "US and Iran to discuss Hormuz tensions in Qatar, says report",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-discuss-hormuz-tensions-qatar-says-report",
+            "published": "2026-06-29T05:29:13+00:00",
+            "snippet": "US and Iran to discuss Hormuz tensions in Qatar, says report The United States and Iran are expected to hold direct talks in Doha on Tuesday aimed at resolving disputes over security and navigation arrangements in the Strait of Hormuz, according to Axios, which cited US officials."
+          },
+          {
+            "title": "New Jersey governor says Trump has not achieved Iran war aims",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/new-jersey-governor-says-trump-has-not-achieved-iran-war-aims",
+            "published": "2026-06-29T05:26:11+00:00",
+            "snippet": "New Jersey governor says Trump has not achieved Iran war aims New Jersey Governor Mikie Sherrill has called on the Trump administration to explain what it has achieved through the war with Iran, arguing that the conflict's objectives have repeatedly shifted."
+          },
+          {
+            "title": "Iraqi PM: Arrest of politicians, officials first step in wider anti-graft campaign",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-pm-arrest-politicians-officials-first-step-wider-anti-graft",
+            "published": "2026-06-29T05:22:56+00:00",
+            "snippet": "Iraqi PM: Arrest of politicians, officials first step in wider anti-graft campaign Iraqi prime minister Ali al-Zaidi has described the arrest of dozens of politicians and senior officials as the first step in a wider campaign against corruption, as authorities continue sweeping raids across the coun"
+          },
+          {
             "title": "Data shows 48 vessels crossed Hormuz after attacks",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/data-shows-48-vessels-crossed-hormuz-after-attacks",
             "published": "2026-06-29T04:41:57+00:00",
@@ -58,24 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-american-lawmaker-says-trumps-comments-iran-are-unhinged",
             "published": "2026-06-29T04:10:21+00:00",
             "snippet": "US Representative Yassamin Ansari, an Iranian-American Democrat from Arizona, has criticized President Donald Trump's recent statements regarding Iran. She described his rhetoric as \"dangerous\" and \"unhinged,\" responding to a post threatening military action."
-          },
-          {
-            "title": "Oil prices rise as US-Iran tensions disrupt shipping",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-us-iran-tensions-disrupt-shipping",
-            "published": "2026-06-29T04:01:51+00:00",
-            "snippet": "Oil prices rose due to disruptions in shipping through the Strait of Hormuz caused by escalating US-Iran tensions. Brent crude futures and US West Texas Intermediate crude both saw increases, following concerns about global energy supplies."
-          },
-          {
-            "title": "Iranian official says ‘serious warning being given to Bahrainis’",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-serious-warning-being-given-bahrainis",
-            "published": "2026-06-29T03:30:17+00:00",
-            "snippet": "An Iranian official stated that a \"serious warning\" is being issued to Bahrain, urging them to understand their limits and avoid provoking Iran into harsh decisions. This warning comes amid heightened regional tensions."
-          },
-          {
-            "title": "Turkey says Israel using Armenian 'genocide' resolution to cover up Gaza crimes",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-israel-trying-cover-gaza-crimes-armenian-genocide-resolution",
-            "published": "2026-06-29T02:02:15+00:00",
-            "snippet": "Türkiye has asserted that Israel is using a resolution on the Armenian \"genocide\" to divert attention from its actions in Gaza. The Turkish foreign ministry described the resolution as \"politically motivated\" and a distortion of legal and historical facts."
           }
         ],
         "error": null
@@ -147,7 +147,7 @@
             "title": "Iran warns ships not to bypass its chosen Hormuz route",
             "url": "https://www.newarab.com/news/iran-warns-ships-not-bypass-its-chosen-hormuz-route",
             "published": "2026-06-28T21:50:20+00:00",
-            "snippet": "Iran has issued a warning to ships against bypassing its designated route in the Strait of Hormuz. This comes as fresh US-Iran attacks raise concerns about renewed Middle East tensions."
+            "snippet": "Iran has warned ships not to bypass its preferred route in the Strait of Hormuz. This warning comes amidst heightened tensions and security concerns."
           },
           {
             "title": "Kurds rally in Turkey's southeast for jailed PKK leader",
@@ -245,6 +245,12 @@
         "url": "https://en.mehrnews.com",
         "headlines": [
           {
+            "title": "Iran’s Trojan Horse in US: Team Melli's presence in WC",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd200RlF1RF9NbF85MERrU1JYUW9lOVgzdHZKX1Q3Q3FuRUdkRTEtZExMdzRQWHNQLXB4Mm9Pc2dwU2p3MG5VcmhTTGlkZ3U3QS1EV0loTUZLcGNmVC05dEdtVmhBQmF4eFBsTEI4di1pWjlVNGVISzYxaVVIYnVyYklaMXNMbldqMl91Y2hJZTdJQ1E?oc=5",
+            "published": "2026-06-28T19:23:00+00:00",
+            "snippet": "Iran’s Trojan Horse in US: Team Melli's presence in WC Mehr News Agency"
+          },
+          {
             "title": "Sardasht still waiting for justice, truth after chem. attack",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0oxVlhtT3pvWXFUaEtfVlprVERwdUxwVkEzZE1CdXRUN3BudXAyWXJtSzZieUZXNk9TY0phQnVSc1ZVaTZYdkRfVWxNTW9DbXpRSmp0RG9IUHZPemZ5dVJOQ2h1YWQxZXBvTHgzYndSSXk3Mi1GV3NicGFPZk53Tmc1Z3cyRnJ2MEtISmdoQkNPajFybl9wdUxR?oc=5",
             "published": "2026-06-28T18:20:00+00:00",
@@ -267,12 +273,6 @@
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVm9WVVYzeHNSWTR6SDF4LURrdzlmX3RNRnRNZHE5NXI5UWVrZjFOVlJwam1VcTV1UklxQ1lmS3JZOEZibWk3NWhHbUw3YXRQV1RxdW5kZGp3ZDBBRDl6dkpzMGJybUc1dTBqS2VpSzBCM3JXeXJKSjRMQXRCMWZuMk9HTTY0M1U4?oc=5",
             "published": "2026-06-28T10:23:00+00:00",
             "snippet": "The Leader has ordered the pursuit of alleged US-Israeli war crimes against Iran. This directive signifies Iran's commitment to seeking accountability for perceived transgressions."
-          },
-          {
-            "title": "Enhancing ties with Iraq Iran’s top foreign policy priority",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVVZV014VFR5QzBoNjhaNVVXYzJJSHFPNmtzY0Rvb3JKVlVxbGdBeG56RHZTY1UwUnpoS19LLWRJRktaLVZJcWhlaWRoQ01DcGZlZ29NS3lUSVZGV1ZmamVtaWU2bklTMEhheW9xWWZKZXcxMk45M21yMWpDZ2NPenk3UW92NVlLZDFwbTVqX3BZcHhQal85Tlk0OA?oc=5",
-            "published": "2026-06-28T09:32:00+00:00",
-            "snippet": "Enhancing ties with Iraq has been identified as Iran's top foreign policy priority. This focus highlights the importance of bilateral relations between the two nations."
           }
         ],
         "error": null
@@ -288,6 +288,12 @@
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rV2JQNjVuazVTa2V1V1diNnJDUE9vUG5SZkxSc1B3VTJGRHFOS0h2Vml0enlUZE0tWk5wZHRRVVFINGQ5dDBfWTYycF96OVY0ZFE?oc=5",
             "published": "2026-06-29T01:27:57+00:00",
             "snippet": "Iran's top clerical body is reportedly in conflict with itself over a US deal. This internal disagreement suggests a divided political landscape within Iran."
+          },
+          {
+            "title": "Live - US signals diplomacy will continue despite Hormuz flare-up - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQlYtejNqNHBNdk1hSUV4eUR3bXk5aG5TdlZ3d0VwSlRycGF1SkRvZmZ6clRHdUh3S2thZTBsZGhTbktsODllVGV5Um5tWTBmWEpaOTR5T1k5c3ZodVE?oc=5",
+            "published": "2026-06-28T23:54:00+00:00",
+            "snippet": "Live - US signals diplomacy will continue despite Hormuz flare-up ایران اینترنشنال"
           },
           {
             "title": "Return of Iran-US thaw advocate ignites hardline debate - ایران اینترنشنال",
@@ -306,12 +312,6 @@
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGd0QtZmxoOWQ5RE9PSC1SbmtLSDltRG9XY1ZRM29zSE1YN2tkWVBMN3V4c3hFUEloNjN6cldOU204MXpWd0RJSVVGWDVXbnpBSnc?oc=5",
             "published": "2026-06-28T19:01:22+00:00",
             "snippet": "Iran and the US have engaged in mutual attacks, straining a fragile truce and stalling talks. This indicates a period of heightened conflict and diplomatic difficulties."
-          },
-          {
-            "title": "US-Iran talks in Switzerland stalled amid hostilities - WSJ - ایران اینترنشنال",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5TFB6UmQ2Q1BjV0hkbnFUb3htYV9zT1JEWGgwWXZvYVVpSS1TaW1JOGFoZGJ0R29lNjNhaU9fQVJRajhMU2tYTHVRY0lOVS0tV2c?oc=5",
-            "published": "2026-06-28T16:45:32+00:00",
-            "snippet": "US-Iran talks in Switzerland have stalled amid ongoing hostilities. This breakdown in negotiations is linked to the continued military actions."
           }
         ],
         "error": null
@@ -331,6 +331,12 @@
             "snippet": "The King offered condolences to the Saudi monarch and crown prince following the Aramco helicopter crash. The message conveyed sympathy for the victims."
           },
           {
+            "title": "Orange Jordan showcases start-up at VivaTech 2026 in Paris",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEVKeUp1bnJvRGRSNHVBaWQwM05CWVpLRFc5cHA5TjJ4MWZta2M4UEFXOWowbDBXZTlqSGVsVGxieVBwa1VTYm5nR0lDUHh5SzFTTUdFQ096M1dRLWlIRUxQNWVYbGJfTERiYlBwaU96Vk9rUy1sX1hWa1ZGc3prcGx5Vl9QZVc3SXNoUUVVZnRMazF5SWZ4bXQ0RFg?oc=5",
+            "published": "2026-06-28T18:39:24+00:00",
+            "snippet": "Orange Jordan showcases start-up at VivaTech 2026 in Paris Jordan Times"
+          },
+          {
             "title": "Jordanian rescue team launches operations in earthquake-stricken Venezuela",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaW1pOVBSbkNSdTM2cHdjck05emZ3RGI3eV9ybzB0aU0yOGxNSnRQUGFhTnpxNnB6MzBvYWtSM2FRYXR5cFhYdERZRjRMZW9HZF8tR3JXN193MTMzSWxDZHRVMTBOT3ZwbTZhREJBcHZWdGVfRUtaRTlVVWR4NFFpcllTbmk5Q21VX01jTlZNc3ZSMWY1amQwNGR1b1RtUkM5YWxMMlNlRVl5WkRFc0E?oc=5",
             "published": "2026-06-28T18:37:14+00:00",
@@ -347,12 +353,6 @@
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUNtSm1VQW5pMkh3U0daWVNfSmdLVFZsOFk2WjlVbDZmcDNYTHpKUnlNZFVzOHQxczVrWlJPMGVJTW5BM2xsQ2dlNVlRYm9DZ1F2a2dPa3lqTldrc3JRSXZ0cmRLVkt3aHNQTjJBTzhlVm5xX0pSWjA5QTFTTFJZeGY1YlVTV3FsSkhERzF3?oc=5",
             "published": "2026-06-28T14:57:05+00:00",
             "snippet": "Lebanon and Israel have entered a new phase with a US-backed deal. This agreement marks a significant development in their relationship."
-          },
-          {
-            "title": "King meets young Jordanian receiving treatment in US, invites him to Nashama match",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1FLWnJIaVlaM3RnY3J6U0pPQVB4QmxQemhUQ01KVUY0SE1URjhmcWNMY3F4SkcyZ1dnSVdhYkItMDNuYlE4NndLaVFrVDI0RTZKR0ltMFV2QW5HZmhCcDFPcFlISEVSeHdyWjNSM18yY1lLYVJFc1BEbEx5OGppMk53djNkUGpNZGtvamhvMGVVejNyUWtSbk8tRnctaFp4Z2VlU3RaMFBNcTVKajB1SFY0WDVlYlE?oc=5",
-            "published": "2026-06-28T10:37:33+00:00",
-            "snippet": "The King met with a young Jordanian receiving treatment in the US and extended an invitation to a Nashama match. This interaction highlights a supportive gesture."
           }
         ],
         "error": null
@@ -481,6 +481,18 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "النفط يصعد بعد تبادل الضربات بين إيران وأميركا في الشرق الأوسط",
+            "url": "https://www.almanar.com.lb/article/985832/",
+            "published": "2026-06-29T05:16:00+00:00",
+            "snippet": "ارتفعت أسعار النفط، اليوم الاثنين، بعد تبادل ‌الضربات بين الولايات المتحدة وإيران في الشرق الأوسط، مما أبرز هشاشة الاتفاق ⁠المؤقت بينهما لإنهاء الحرب. وأدى تبادل الضربات مجددًا إلى تباطؤ حركة شحن النفط في مضيق هرمز."
+          },
+          {
+            "title": "باكستان تعلن عن ضربات جديدة في أفغانستان “استهدفت مسلحين”",
+            "url": "https://www.almanar.com.lb/article/985827/",
+            "published": "2026-06-29T05:10:21+00:00",
+            "snippet": "أعلنت باكستان، اليوم الإثنين، أنها شنت ضربات جوية ليلا على شرق أفغانستان استهدفت مسلحين، في رد على هجمات دامية تعرضت لها."
+          },
+          {
             "title": "هآرتس عن مصدر عسكري “إسرائيلي”: الجيش لم يتلق حتى الآن أي أوامر بالانسحاب من أي منطقة في لبنان",
             "url": "https://www.almanar.com.lb/article/985817/",
             "published": "2026-06-29T05:03:40+00:00",
@@ -497,18 +509,6 @@
             "url": "https://www.almanar.com.lb/article/985797/",
             "published": "2026-06-29T03:31:27+00:00",
             "snippet": "Intense gunfire from Israeli tanks was reported east of Khan Younis in the Gaza Strip. This indicates ongoing military activity in the area."
-          },
-          {
-            "title": "نيويورك تايمز: ابنا ترامب يحصلان على حصة في مشروع تنغستن بكازاخستان",
-            "url": "https://www.almanar.com.lb/article/985782/",
-            "published": "2026-06-29T01:46:24+00:00",
-            "snippet": "Investors in a company partly owned by Donald Trump Jr. and Eric Trump have acquired a stake in a tungsten mining project in Kazakhstan. The deal was reportedly facilitated by high-level government contacts."
-          },
-          {
-            "title": "13 مصابا ولا وفيات إثر زلزال بقوة 5.5 درجة ضرب مقاطعة سيتشوان جنوب غربي الصين",
-            "url": "https://www.almanar.com.lb/article/985772/",
-            "published": "2026-06-29T01:28:27+00:00",
-            "snippet": "Thirteen people sustained minor injuries after a 5.5 magnitude earthquake struck Yibin city in Sichuan province, China. Over 190 others were evacuated as rescue efforts are underway."
           }
         ],
         "error": null
@@ -600,34 +600,34 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "US, Iran agree to pause attacks, hold Qatar talks on Hormuz dispute",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02T25td3lMUTg2VUFMRkVWRXVGZXU0ZGs5Vk1WZjBreDhJN2R2YlBINUw3RkQzV2VVZ2NNSXRaX2N2RzhmLWVEQl9VWEx6NlJEOEQxS0Y2ODVzcE5nWlE?oc=5",
-            "published": "2026-06-29T02:59:03+00:00",
-            "snippet": "The US and Iran have agreed to pause attacks and hold talks in Qatar regarding the dispute over the Strait of Hormuz. This agreement aims to de-escalate tensions."
+            "title": "Sheep prices surge in Ramadan",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDFzbjlSYlM5b3BTdUN1UGlYeHM1UVdQQ2Q3U0lKcU5GYXg3cXlGeFR1eGFvaVJ3ZzBOQlliRTlZMjMzaEVhaV9CMEg1bVVlMF9JZS1tdjZQcW1sdnlNVTdsR2tNV3VnVGJ5MmsyX3g4ajBnWkc2SE82YktDdjR4UWlNY0RZUE1OdWJ2R2NYMzM3ckJ5OWpaTGJGcw?oc=5",
+            "published": "2026-06-28T12:52:18+00:00",
+            "snippet": ""
           },
           {
-            "title": "Kuwaiti FM offers condolences to Saudi counterpart after helicopter crash",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lN0t3cTQzQ09TRHBnSDVCeW9lYy14cE55dVBnOWFxa2JUVTBfVHNXVHdxTWtyRDkwaHB1YTZHTkIwdzFzLXhBdm5rbmZQWXlyWUNN?oc=5",
-            "published": "2026-06-28T20:06:23+00:00",
-            "snippet": "The Kuwaiti FM extended condolences to his Saudi counterpart following a helicopter crash. This gesture of sympathy follows a tragic incident."
+            "title": "women",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMZVU4d1RQMnA3S013cERIaDZCYmFXcEhIdGVJYVRybDhkZ2ptd3dJUklqdjFVQlVSM0lpNFRqb0dNODZhenFUaDI0dk4xRVdhYUVxM3lB?oc=5",
+            "published": "2026-06-28T08:51:24+00:00",
+            "snippet": ""
           },
           {
-            "title": "Makkah’s coin burqa keeps past alive",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KRzhiTDI2VFZKbzBDRExRSkQtTXppWnVlV2JFU29NVDVhRXZBdmpYallnR3IwUlNxZVhLOVc4TG9tNzM5eXE1emh3aTRqMzc5NEdxMFNzZFhteVVYY3pn?oc=5",
-            "published": "2026-06-28T19:31:05+00:00",
-            "snippet": "Makkah's coin burqa is being highlighted for keeping the past alive. This cultural item is presented as a significant part of local heritage."
+            "title": "Iran accuses US of ‘blatant violation’ of peace deal",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoeFhIOVFGTk82TEpTQ3A2ME9kSlFOT1l5WnBRUEZsT2JnbVYxb2VwU21XUGFEX1BZUWJNS2d3YmtQZ3hUc29CMGtpVFJKeWhRZTdrLXhiQQ?oc=5",
+            "published": "2026-06-27T07:00:00+00:00",
+            "snippet": "Iran accuses US of ‘blatant violation’ of peace deal Arab News"
           },
           {
-            "title": "Iraq arrests 47 officials in anti-corruption campaign",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XbWV3Zl9PTjJKUndTM3NqRDZYeXJ2MDlvcHpVYXRFUmNqSU9TZWJSaVN6bVJ4c2xXVmpYYUNxWktxN3A4d3NXWmpGeU1IUEg0cDViQlRWTm9TZTM1R0E?oc=5",
-            "published": "2026-06-28T16:17:47+00:00",
-            "snippet": "Iraq has arrested 47 officials as part of an anti-corruption campaign. This signifies a major crackdown on corruption within the government."
+            "title": "Global News Headlines, Reports and Analysis",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDd2QmFpa2NtMU9uSF9BUnBjdm1VNmhZaDloaG5mdDFWVkdkQUVscEtQYjRDNzFCbjJEaXprRHVUbW9LSGRHSkYyZzRBVnRIREludUx4ODJqRWU5aWtFTGlUVGNMWW0zUTJCLUpDVk0weGVlTkVKdlg2QjBPdUpYMVFVOTZnU3BRRldkNmhpZlQ2RmNiVjlEUHhYZDd5Q3lYeG5TUWc2cWRaLUNBRFdGX3JEaUxaREhHQzdj?oc=5",
+            "published": "2026-06-26T23:31:49+00:00",
+            "snippet": "Global News Headlines, Reports and Analysis Arab News"
           },
           {
-            "title": "Saudi crown prince, Macron emphasize importance of freedom of navigation during call",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CcmRXdDlfbHVnbzNNVGVzblRHbkIzMVVuUUZnRi1CVTdFTjZVS0Znb041VzhLbnE0S0x3S1RsNUpBUVFoVHJpNjdaUU5JcTNwSWpB?oc=5",
-            "published": "2026-06-28T16:08:05+00:00",
-            "snippet": "The Saudi crown prince and Macron emphasized the importance of freedom of navigation during a phone call. This discussion underscores a shared concern for maritime security."
+            "title": "Latest Saudi Arabia News, Insights and Updates",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ29YN2lWQXZYY2dYbm0ta2hRekZnLTVYTFJteGJHdkdHVVRkZHU4Q3hUMURVU3dYaUFXYTZoS1d0SWRxTnpodUNlYlZmbEhIWEhQYzAzRVlQdjBWSU5lU3BGeDFsNm9wZVlCVFd3WXBPS3RDb1JUeWVkdFh3UkZ3d0ZpWnhDaFVtSVZJclZLb25DZTNSdnZjQUIyV05Zb3RsM0pHZzg0VWUxZzllLUt3b2JKNEZQUDkzVUxQM2R3RTVPOGoxZUlHSHZFRVN0RUJmYlllMkNON29HSUpEZ2diWmhB?oc=5",
+            "published": "2026-06-26T07:30:16+00:00",
+            "snippet": "Latest Saudi Arabia News, Insights and Updates Arab News"
           }
         ],
         "error": null
@@ -645,28 +645,28 @@
             "snippet": "Iran has warned ships not to bypass its preferred route in the Strait of Hormuz. This warning comes amidst heightened tensions and security concerns."
           },
           {
+            "title": "Qatar vessel incident: One killed, one injured after maritime search operation",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZlc4NGZ3YzhFLW8yeFlMYlE1RlpndWxRWXMyZmd5aGxZVHNpNG9nUFBxS0pqdkNIZVkzc1h4RDJ5a3FNcll4NXNvRVhleWcyZ3R6MU5QODlSeUt0MmdVdTN5UlkycVd0dVJkeGVBWHdYQjFCM3RPYnRwenZiWmRHZTdwZU50djluOE8zUFZ2M2doVFhScXFpT3JzY2ZHTk11eDZKRFdDRldsb2FfcWJtNDBUc0w4NG_SAcwBQVVfeXFMTkZTUjZCak9yd0hkcG0ydGdwWDhfN29xTG5hQnJKN3g1Z2dGRW9uSFNIdTd6LXcwaGtHell3Q3lhRHBMb3htOWxvQTlLdjltR01WZDNjYkVXQkM3b3JDNDVpa29hUlhrQWJYQVNzZFJ6dVFyQjBTNVlpMXllVnRlWVNJVVM2WTVjUmFtcnlxai1HQ3BhSGlCWWU0X1BySmItbklHdmcwX0ptd1lXUEJQemNudVV5YkxNVFAzNjRHRjFSMTBHQzBUMzJrcjZq?oc=5",
+            "published": "2026-06-28T17:02:08+00:00",
+            "snippet": "Qatar vessel incident: One killed, one injured after maritime search operation Gulf News"
+          },
+          {
             "title": "Why the Strait of Hormuz could sink the US-Iran agreement",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnFuZHktNWplRDVlQi1JMzktRlBnWUpCS1d4NnpUZkJtU1ZpSnZnc3QydF9ERUwxYXpEOHY2YU1VUDU4U1k0YzRpX2VfaDg0ZTRKTnU1bTVTT1RMOGNYUFpyYzVOLTFtRk1naFlDTkZJay1mN1dTUVFYWWF2amZyc0lJR0VxX3daemdhbkVTdEJRdlZmM1FVVlUwcG1vN0FwWUEw0gG2AUFVX3lxTE0zXzdBWG45b2VsUjF6SFlROG1VUFlOX2VmVE55LUdqZ2gwaUdqR1hIU18zbFNvLVlTWGM3ZVdjZjlza1ZmYlIwdXVwWUwtNXFlQVIwUGtyejllVXl6MGdjaTRaQzhiRGxrb0xmSU5XRWhveHVhdW5GTXRRcmhOVG5JX19oc0JwdmVmeHgzdG9TLWRIV3FpSEFGc2I1NzBwUTU0OUI1Xy1MWTl5dkt4WHNyLUctbXhR?oc=5",
             "published": "2026-06-28T16:36:03+00:00",
             "snippet": "The article discusses why the Strait of Hormuz could potentially jeopardize the US-Iran agreement. It highlights the strategic importance and potential flashpoints in the region."
           },
           {
+            "title": "Indian passport-holding NRIs qualify as ‘citizens’ under RTI, govt records show",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1BfOV80Y2tDaVExRWVicDFEWGd1WlBZSEtzYm01NjM4T1E5ZGJocUdoN0FiSGtMcmJ5RG54R3NIdnBkcUIta05KeVZvX1NNMTJZSDhnVXM4OTRxVjl6VEF6QnhNczhTRWFOWXlBTWlWNl82dHlvZ2hTQXdyc0FmR2Q1WEhKRnVIbWpPSTJueDJvUW1xR3htdWJFY2VUbGpzMG90X3Q3VkJHZHFvU1FWcGpDcjk5eTRHRnZzcWZKdV9XT1hF0gHaAUFVX3lxTE1Ed2tibW1MRWJYb2VsRDZWa0wwblhpTWQwMzZzNWl6Z2NNSDF0SlN0RzEtLXVMMUV4eVdRYk9FRzRoM1BCU3hlR25WRkxRc1BQN1NvdWxabm5RYnd5SjQ2OUhrRHBLd3dkS2FWVEJublo3VG84NTVneWowXzdCWjFkSmRDNmhHWnY2UTZlWlZaN1lMRWRRamZoS2Vyc0lTUW8wbkhhblpNb1RQSFpTeFRFRW11NkdkNk8xYjdPd0FsaWhTM3Jib2tvWHZfdWNMWThyS1p3dkRudmln?oc=5",
+            "published": "2026-06-28T14:46:35+00:00",
+            "snippet": "Indian passport-holding NRIs qualify as ‘citizens’ under RTI, govt records show Gulf News"
+          },
+          {
             "title": "Occupational English Test Training – For Medical Professionals in UAE",
             "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQTFI0aXk4UWd1anpCQVpoRWFFRnNkN21tMFhleDJ6eXNWNU5WdUh0akhWUjg3ZE1FS09PaURLd0RLbDdhOHRRS1pjeVdJRlpBTzdQMUtfVnRNcEFmcF9iOUFFMUxKMzBua2h6alhpWEJiVUU5dlhaUTBtbFotaWpMMW52UzB1UllTcmZRaTN3YlJzRUxtbEd0clNxWnhXblF4QmRBRnBHNUF1Y3hlN19WY2UxRFlaWlBsdGRvc1dzdEFETE9Zenl1N2VqbEdVZUFDcmpUR202M1E5YnpRUnY4MXVNdm9CdmV5TWNEX3Q3RTNXZUI3OUJEd0pqbm1tdHd4RmFYQ0dkZXVHRlpXTzlhQWw0ZWhkTkdwcDBydmpjYUswTE5wR2V1ejZvU080REk?oc=5",
             "published": "2026-06-28T12:24:22+00:00",
             "snippet": "Occupational English Test training for medical professionals in the UAE is being offered. This is a professional development opportunity within the region."
-          },
-          {
-            "title": "Saudi Aramco helicopter crash in Ras Tanura kills 14, probe underway",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUNQWGlJTW9lNnpRUXhCdUhvWklrdEMxR1ZnS19aME92b1pQbEdnR3I0VUZPVVdfZkJYWDNJWXhqdW9OcjBJNTk1YWlvVkdDeDNjNThJWDNfdGtxTXFMOWdDQVg1dDloQ2JpMlkyZEJkLXlyUXo1YTVrSWNWLW8tSkFTUHVNeTFBMWRxUk1pUTlJaHpDZ1pZMlhjRWJNSHZPZVdzMFB3?oc=5",
-            "published": "2026-06-28T11:59:30+00:00",
-            "snippet": "A Saudi Aramco helicopter crash in Ras Tanura resulted in 14 fatalities, and an investigation is underway. This incident led to significant loss of life."
-          },
-          {
-            "title": "UAE condemns renewed Iranian missile and drone attacks on Bahrain and Kuwait",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYTI0enFUVWxrNmdnRThiQXVObVVrLU9HQmVvVmh0WWsxdVJ4clQ5U1cxUjg1UHQ3MTNkdGdVeXVBak9zWjJERFJXSHBHTFlyYU0yVTBvaWdzOTlaVXdadks0RXljRFJQS3l2Y0doVG5kdXNsTnJscjM2UWNyLV9GNENTQlBsZElnWGJJUHgzcUY?oc=5",
-            "published": "2026-06-28T09:15:53+00:00",
-            "snippet": "The UAE has condemned renewed Iranian missile and drone attacks on Bahrain and Kuwait. This statement expresses strong disapproval of the attacks."
           }
         ],
         "error": null
@@ -797,16 +797,22 @@
         "url": "https://www.trtworld.com",
         "headlines": [
           {
-            "title": "Father and son pulled alive after four days under rubble in Venezuela earthquake",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYUmJ5WjZqQjFHOVJZS3BsY0hSRURETjRjd01YczRFYWZBTV9lU0JaZmtndXJXaWk1ZldJQm1hQUYxOUFTb2o1S01acy1aeHhWSFNub0ZMQ24?oc=5",
-            "published": "2026-06-29T01:13:18+00:00",
-            "snippet": "A father and son were rescued alive after being trapped for four days under rubble following the Venezuela earthquake. This highlights a successful rescue operation."
+            "title": "Syria condemns Israeli incursions and artillery shelling in Quneitra and Daraa",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWHlkZDhCYVNHQzViOE1JYkNQVy1keUp3UkhSZVFENVRGYzVrOGJWRGtiMGZkc1NCLTAyWkNWalUwTTRMLWNraHRJbUkzcXhjOHpYbkNfUDVWNk5lLXF4dkhBUVR1ZlpCMlRfN0t4eS1Za3hWT3lnZTMyS3FETjdwNjlmZmlVcWFEWldSOW9YTF9YQWVLdlh4QU0wckthZ1A5dTFPZDN6YjdHRVBGUWtKSG1Xb2hWeUtTVllHRHRlTzBWRkUxa05ONHVZQ0Z1MWxZOTJPX3UwN1BXV1U2S0puazVnY2hCUVIxY2xF?oc=5",
+            "published": "2026-06-29T02:39:58+00:00",
+            "snippet": "Syria condemns Israeli incursions and artillery shelling in Quneitra and Daraa TRT World"
           },
           {
             "title": "Live blog - US-Israeli war on Iran",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
-            "published": "2026-06-28T20:42:21+00:00",
+            "published": "2026-06-29T02:33:15+00:00",
             "snippet": "A live blog is tracking the \"US-Israeli war on Iran.\" This indicates ongoing military conflict and related developments."
+          },
+          {
+            "title": "Father and son pulled alive after four days under rubble in Venezuela earthquake",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYUmJ5WjZqQjFHOVJZS3BsY0hSRURETjRjd01YczRFYWZBTV9lU0JaZmtndXJXaWk1ZldJQm1hQUYxOUFTb2o1S01acy1aeHhWSFNub0ZMQ24?oc=5",
+            "published": "2026-06-29T01:13:18+00:00",
+            "snippet": "A father and son were rescued alive after being trapped for four days under rubble following the Venezuela earthquake. This highlights a successful rescue operation."
           },
           {
             "title": "War on Iran",
@@ -819,17 +825,10 @@
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmWXJ1Z1lJendFXzdvVGNUQWxMT2N3b2FPVjNJQ0JNbXl2UUZHUDNLS2pGR1BYSUR0YkM2VWdLczZaRHhLMjlFWlVTSU5jd3VxS016SHdQNVI?oc=5",
             "published": "2026-06-28T19:17:25+00:00",
             "snippet": "Iran claims to have destroyed 8 US military sites in Bahrain and Kuwait. This assertion suggests a significant escalation in the conflict."
-          },
-          {
-            "title": "Death toll from Venezuela quakes rises as rescue efforts continue",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtWGRGclJGQURlcDVlaHBSbVFKZTZBaWFhWUo5UFRFUnZKYk9wcGVQazZ3dXczV0ZuYmc1TXhJanlpbERFQ0RLaV83YzQwTTBjMG9wcWZOa0Q?oc=5",
-            "published": "2026-06-28T18:54:16+00:00",
-            "snippet": "The death toll from the Venezuela earthquakes continues to rise as rescue efforts persist. This indicates the ongoing severity of the disaster and ongoing recovery operations."
           }
         ],
         "error": null
       }
     ]
-  },
-  "titles_hash": "fd332566ab421359"
+  }
 }
