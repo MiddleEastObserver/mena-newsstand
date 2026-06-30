@@ -10,11 +10,14 @@ name: MENA Newsstand
 #                                   calls Gemini, writes briefing.json
 #   - scripts/send_email.py       → sends the digest email (if secrets set)
 #
-# ONCE A DAY at ~07:00 Israel time (morning):
-#   - scripts/fetch_frontpages.py → downloads today's newspaper cover images
-#
-# ONCE A DAY at ~14:00 Israel time (afternoon):
-#   - scripts/fetch_frontpages.py → re-downloads to catch later editions
+# FRONT PAGES (scripts/fetch_frontpages.py):
+#   - ~07:00 Israel (morning) + ~14:00 Israel (afternoon): full refresh of every
+#     cover (the afternoon pass also catches late re-plates).
+#   - Every ~30-min run in between: a fill-only catch-up that re-fetches ONLY the
+#     papers still showing yesterday's edition (US + European/Turkish titles are
+#     scanned upstream hours after the 07:00 grab). It skips covers already
+#     current and goes quiet once they all are, so a late edition is picked up
+#     within ~30 min instead of waiting for the afternoon pass.
 #
 # HOW THE ~30-MIN REFRESH STAYS ALIVE (self-perpetuating loop)
 # ============================================================
@@ -118,7 +121,9 @@ jobs:
         continue-on-error: true
         run: python scripts/build_briefing.py
 
-      # Front-page images: downloaded on morning + afternoon runs only.
+      # Front-page images: full refresh on the morning + afternoon slots, plus a
+      # fill-only catch-up in between (FRONTPAGES_FILL_ONLY, set by plan_run via
+      # $GITHUB_ENV) that re-fetches only the papers still a day behind.
       # continue-on-error: a CDN outage must never block headlines or email.
       - name: Fetch front pages
         if: ${{ env.DO_FRONTPAGES == 'true' }}

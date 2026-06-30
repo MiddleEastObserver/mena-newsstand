@@ -21,8 +21,26 @@ Source kinds (all probe-confirmed reachable from a datacenter IP):
                            main section (gulf-times.com/pdf/Y/m/d/main-Ymd-N.jpeg)
   ("sgpdf",)            -> Saudi Gazette's own dated PDF; page 1 is rendered to
                            JPEG locally (needs pypdfium2; best-effort)
+
+Fill-only mode (FRONTPAGES_FILL_ONLY=true)
+------------------------------------------
+Newspapers don't all reach the upstream CDNs at the same hour: Gulf titles are
+scanned before dawn UTC, but US papers (Freedom Forum) and several European /
+Turkish titles (Kiosko) aren't posted until hours later. A single morning grab
+therefore captures the early risers on today's date and falls back to
+*yesterday* for the late ones — and they stay a day behind until the next fixed
+run.
+
+To close that gap the workflow re-runs this script opportunistically on its
+normal ~30-min cycle with FRONTPAGES_FILL_ONLY=true. In that mode any paper
+whose committed cover is already today's edition is kept as-is (no request),
+and only the stragglers are retried — so each title upgrades to today within
+one cycle of appearing upstream, and once every cover is current the script
+makes no network calls at all. The fixed morning/afternoon runs still do a full
+refresh (FILL_ONLY unset/false) to catch late re-plates.
 """
 import json
+import os
 import shutil
 import sys
 from datetime import date, datetime, timedelta, timezone
@@ -248,15 +266,44 @@ def archive_today(today: date, manifest: dict) -> None:
     print(f"  archive index: {len(idx['dates'])} day(s) available")
 
 
+def load_prev_manifest() -> dict:
+    """Return {id: entry} from the committed manifest, or {} if unreadable."""
+    try:
+        data = json.loads((OUT_DIR / "manifest.json").read_text(encoding="utf-8"))
+        return {p["id"]: p for p in data.get("papers", [])}
+    except Exception:
+        return {}
+
+
 def main():
     OUT_DIR.mkdir(exist_ok=True)
     today = datetime.now(timezone.utc).date()
+    today_str = today.isoformat()
     dates = [today, today - timedelta(days=1)]   # today, then yesterday fallback
     session = requests.Session()
     manifest = {"updated": datetime.now(timezone.utc).isoformat(), "papers": []}
 
+    # Opportunistic catch-up: when asked to fill only, papers already showing
+    # today's edition are kept untouched and only the stragglers are retried.
+    fill_only = os.environ.get("FRONTPAGES_FILL_ONLY", "").lower() == "true"
+    prev = load_prev_manifest()
+
     for p in PAPERS:
         dest = OUT_DIR / f"{p['id']}.jpg"
+
+        # In fill-only mode, leave a cover that's already current alone — no
+        # request, no churn. Carry its manifest entry forward verbatim.
+        prev_entry = prev.get(p["id"])
+        if (fill_only and prev_entry and prev_entry.get("ok")
+                and prev_entry.get("date") == today_str and dest.exists()):
+            print(f"  = {p['name']}: already current ({today_str}), skipped")
+            manifest["papers"].append({
+                "id": p["id"], "name": p["name"], "loc": p["loc"], "lang": p["lang"],
+                "site": p["site"], "ok": True, "src": prev_entry.get("src"),
+                "date": today_str,
+            })
+            continue
+
         got = used_url = used_date = None
         for d in dates:
             for src in p["src"]:
@@ -278,6 +325,13 @@ def main():
             ok = dest.exists()   # keep yesterday's image if today's failed
             print(f"  x {p['name']}: {'kept previous image' if ok else 'no image'}",
                   file=sys.stderr)
+            # We kept an existing cover but downloaded nothing this run (today's
+            # edition isn't up yet, or a transient CDN blip). Preserve the date
+            # and src that image already carried rather than nulling them out —
+            # otherwise the kept cover would lose its date label.
+            if ok and prev_entry:
+                used_date = prev_entry.get("date")
+                used_url = prev_entry.get("src")
 
         # Build (or refresh) the grid thumbnail for any paper that has a cover.
         if ok and dest.exists():

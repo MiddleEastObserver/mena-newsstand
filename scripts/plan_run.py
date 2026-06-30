@@ -11,10 +11,17 @@ after each boundary):
   - DO_EMAIL=true     → send_email.py sends the digest
 
 Once a day at ~07:00 Israel time (morning):
-  - DO_FRONTPAGES=true → fetch_frontpages.py downloads today's covers
+  - DO_FRONTPAGES=true (full refresh) → fetch_frontpages.py downloads today's
+    covers; titles not yet scanned upstream fall back to yesterday's edition.
 
 Once a day at ~14:00 Israel time (afternoon):
-  - DO_FRONTPAGES=true → fetch_frontpages.py (catches later editions)
+  - DO_FRONTPAGES=true (full refresh) → fetch_frontpages.py (catches re-plates)
+
+Between those, on every ~30-min run after the morning grab:
+  - DO_FRONTPAGES=true + FRONTPAGES_FILL_ONLY=true → re-fetch ONLY the papers
+    still showing an older edition, so each title upgrades to today's cover
+    within one cycle of appearing upstream instead of waiting for 14:00. This
+    stops firing once every cover is current (frontpages_stale() → False).
 
 "Once per slot/day" is enforced with state/daily.json. Times are in
 Asia/Jerusalem so DST is handled automatically.
@@ -31,6 +38,29 @@ AFTERNOON_HOUR = 14   # front pages again for later editions
 
 STATE_PATH = Path(__file__).parent.parent / "state" / "daily.json"
 BRIEFING_PATH = Path(__file__).parent.parent / "briefing.json"
+MANIFEST_PATH = Path(__file__).parent.parent / "frontpages" / "manifest.json"
+
+
+def frontpages_stale(today: str) -> bool:
+    """True if the front-page manifest is missing/empty or any tracked paper is
+    still showing an edition older than `today` (an ISO date string).
+
+    Drives the between-slots catch-up: while this is True the workflow keeps
+    re-fetching the stragglers each cycle; once every cover is dated today it
+    returns False and the catch-up goes quiet until tomorrow.
+
+    Note: fetch_frontpages.py stamps manifest dates in UTC, while `today` here
+    is Asia/Jerusalem. The catch-up only runs in the MORNING_HOUR..23 window
+    (UTC+2/+3), where the Jerusalem and UTC calendar dates always agree, so the
+    comparison is sound.
+    """
+    try:
+        papers = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))["papers"]
+    except Exception:
+        return True
+    if not papers:
+        return True
+    return any(p.get("date") != today for p in papers)
 
 
 def briefing_is_stale(slot_start) -> bool:
@@ -79,20 +109,30 @@ def main() -> None:
     state = load_state()
 
     do_fp       = False
+    fp_force    = False   # full refresh (morning/afternoon) vs fill-only catch-up
     do_briefing = False
     do_email    = False
     reasons     = []
 
-    # ── Front pages: morning + afternoon (once each per day) ──────────────────
+    # ── Front pages: morning + afternoon full refreshes (once each per day) ───
     if hour >= MORNING_HOUR and state.get("fp_morning") != today:
         do_fp = True
+        fp_force = True
         state["fp_morning"] = today
         reasons.append("front pages (morning)")
 
     if hour >= AFTERNOON_HOUR and state.get("fp_afternoon") != today:
         do_fp = True
+        fp_force = True
         state["fp_afternoon"] = today
         reasons.append("front pages (afternoon)")
+
+    # Between the fixed slots, keep catching today's editions as they appear
+    # upstream: re-fetch only the papers still a day behind. Self-limiting —
+    # goes quiet once every cover is current, so CDNs aren't hit needlessly.
+    if not do_fp and hour >= MORNING_HOUR and frontpages_stale(today):
+        do_fp = True
+        reasons.append("front pages (catch-up: some covers still stale)")
 
     # ── World briefing + email: every 6-hour slot ─────────────────────────────
     # Slot 0 = 00:00-05:59, slot 1 = 06:00-11:59, etc.
@@ -116,6 +156,7 @@ def main() -> None:
     # ── Manual overrides (workflow_dispatch inputs, handy for testing) ─────────
     if os.environ.get("FORCE_FRONTPAGES", "").lower() == "true":
         do_fp = True
+        fp_force = True
         reasons.append("forced front pages")
     if os.environ.get("FORCE_EMAIL", "").lower() == "true":
         do_briefing = True
@@ -127,15 +168,21 @@ def main() -> None:
 
     reason = " | ".join(reasons) if reasons else "headlines only"
 
+    # Catch-up runs fill only the stale papers; the fixed/forced slots do a full
+    # refresh. (Only meaningful when DO_FRONTPAGES is true.)
+    fill_only = do_fp and not fp_force
+
     save_state(state)
     emit_env(
         DO_FRONTPAGES=str(do_fp).lower(),
+        FRONTPAGES_FILL_ONLY=str(fill_only).lower(),
         DO_BRIEFING=str(do_briefing).lower(),
         DO_EMAIL=str(do_email).lower(),
     )
 
     print(f"Israel time {now:%Y-%m-%d %H:%M %Z} (hour={hour}, slot={slot}) → {reason}")
-    print(f"  DO_FRONTPAGES={do_fp}  DO_BRIEFING={do_briefing}  DO_EMAIL={do_email}")
+    print(f"  DO_FRONTPAGES={do_fp}  FILL_ONLY={fill_only}  "
+          f"DO_BRIEFING={do_briefing}  DO_EMAIL={do_email}")
     print(f"  state={state}")
 
 
