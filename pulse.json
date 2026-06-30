@@ -1,11 +1,17 @@
 {
-  "updated": "2026-06-30T19:04:28.294471+00:00",
-  "total_headlines": 134,
+  "updated": "2026-06-30T19:33:30.141022+00:00",
+  "total_headlines": 133,
   "terms": [
     {
       "term": "World Cup",
       "count": 27,
       "headlines": [
+        {
+          "title": "England vs DR Congo: World Cup Round of 32: Kane, match prediction, lineups",
+          "url": "https://www.aljazeera.com/sports/2026/6/30/england-vs-dr-congo-world-cup-round-of-32-kane-match-prediction-lineups?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "France vs Sweden LIVE: FIFA World Cup 2026",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/6/30/france-vs-sweden-live-fifa-world-cup-2026?traffic_source=rss",
@@ -13,7 +19,7 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Ivory Coast vs Norway LIVE: FIFA World Cup 2026",
+          "title": "LIVE: Ivory Coast 1-2 Norway – FIFA World Cup",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/6/30/ivory-coast-vs-norway-live-fifa-world-cup-2026?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -21,18 +27,6 @@
         {
           "title": "World Cup 2026: What are the extra-time and penalty shootout rules?",
           "url": "https://www.aljazeera.com/sports/2026/6/30/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "France vs Sweden: World Cup Round of 32 – Mbappe, prediction, team lineups",
-          "url": "https://www.aljazeera.com/sports/2026/6/30/france-sweden-fifa-world-cup-round-of-32-prediction-schedule-lineups-mbappe-dembele?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Islamic centre brings joy through World Cup watch parties",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/islamic-centre-brings-joy-through-world-cup-watch-parties?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -125,6 +119,12 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96R2hoaTB5dVNyRjBIQ0EzMzlabjVIamh5VXJaZkhwYUNHVGhMc3plSzh4ckd1eTRhU1pMU2JWYnh5ODl2Z2RiNjNQbU9RaHhSbnNF?oc=5",
           "source": "Arab News",
           "region": "Gulf"
+        },
+        {
+          "title": "One killed in shooting at site of California World Cup fan zone",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QdEpkZHZ4QXhrNXZpR2Q1eGZtTlNtU1lwXzR5cTZTaTBTRGpXbDZSRDNZc2lMbU56enNtaEFkQThzMEcyTHplaWlGQ2g0TUZzeHJN?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -163,9 +163,9 @@
           "region": "Levant"
         },
         {
-          "title": "2 Palestinians killed, 19 injured in Israeli airstrikes in Gaza despite ceasefire",
-          "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-19-injured-in-israeli-airstrikes-in-gaza-despite-ceasefire/3982607",
-          "source": "Anadolu Agency",
+          "title": "S. Syrian town of Abdin mounts resistance against Israeli invaders",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3diSkxBbzUwY2xaS0YxSUx3VXk2d2hPNDJDNTAtTG5haGZoeWpPbzg0bnhPZU9ONk5xejdVTjhTUzdtVjVwenAxaERFejJXc3RXRDRUWVMtSmpaS21PaGZkV2dVckh4OEhqVjBJTm5oN3ZIM1V3SEZwSlJOUl9Pb2RHQkZYcHJMYWt5alloLWl1RGtTN1g0VkVKNVlmQ2pMdHRTNTNGR3RXRnfSAbABQVVfeXFMUEV1WTZvam11TC1XYXdQUGtBd1F3Z2dwRG9aaDRaOEJHX1pHdDRhODZ5a0o5RlFXbDZWbUFfamxvQ3hWbXl0U3QtOUZxRElwSThsM0hVRXZwd0RfcmlGamllY0tVa3RnRnlFRzBzNk9DNGpVbC0yTDBLVFlaT05PVlhTUkl3LUxSaFlSaVhSb3owVHk0NWIwOU9ReU1MbnljSGF0S2g1NGxIcXZsUTd0RlM?oc=5",
+          "source": "Daily Sabah",
           "region": "Turkey"
         },
         {
@@ -309,6 +309,42 @@
       ]
     },
     {
+      "term": "talks",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Who Has the Upper Hand in US-Iran Talks?",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2NXRmRKQXRETkN3el8wcXFpU3ctTjUxQ0NhMlhfRV85UXFVdm5sNVA2TlRISzE1MC1ZeGNncVJqUGV0LVN4Z3pXMVpSdHNJX1dnYzBxczIwVHlOSTZaSktMR29qZTd6M1d5RTRHN1VpZjk0NW53WktybVZyRVYzZUFDMGVOUEdtQVJHQ1RGR2dlLVNaZmV2cmwwUdIBmwFBVV95cUxQN2NXRmRKQXRETkN3el8wcXFpU3ctTjUxQ0NhMlhfRV85UXFVdm5sNVA2TlRISzE1MC1ZeGNncVJqUGV0LVN4Z3pXMVpSdHNJX1dnYzBxczIwVHlOSTZaSktMR29qZTd6M1d5RTRHN1VpZjk0NW53WktybVZyRVYzZUFDMGVOUEdtQVJHQ1RGR2dlLVNaZmV2cmwwUQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Doha talks will center on MoU, no separate meeting with US on agenda, says Baqaei",
+          "url": "https://en.irna.ir/news/86197349/Doha-talks-will-center-on-MoU-no-separate-meeting-with-US-on",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Berri says Lebanon deal aims to damage Iran-US talks",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPck1Nd2Nlb2wta1FiVVB4MmlKSWl1MzQ2MGJxRGVtUENsRTI1ZTAyWFJaNFNNd09MT0loSkZ6UW55dWYzTURtNlctR1hiV0RwVlhSNXB6eW1LTXp1R1M3NVQ3WHBabnJMZEJyb21iSnZaNVN3RjhqU0gxaVk3Q1BwYUdRZnFxTkQ5R2YxMnhFN3Jmdw?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "China’s top diplomat stresses US-Iran talks in meeting with Saudi counterpart",
+          "url": "https://www.aa.com.tr/en/asia-pacific/china-s-top-diplomat-stresses-us-iran-talks-in-meeting-with-saudi-counterpart/3982669",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Canada to deepen trade, defense ties with NATO allies, Saudi Arabia",
+          "url": "https://www.aa.com.tr/en/americas/canada-to-deepen-trade-defense-ties-with-nato-allies-saudi-arabia/3982646",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "war",
       "count": 5,
       "headlines": [
@@ -345,42 +381,12 @@
       ]
     },
     {
-      "term": "Africa",
+      "term": "Trump",
       "count": 4,
       "headlines": [
         {
-          "title": "How is South Africa dealing with immigration?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/6/30/how-is-south-africa-dealing-with-immigration?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "UN warns Ebola could cost Africa $3.6bn and jobs",
-          "url": "https://www.aljazeera.com/news/2026/6/30/un-warns-ebola-could-cost-africa-3-6bn-and-jobs?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Egypt’s tourism sector continues its upward trajectory, seeking new phase beyond beaches and resorts",
-          "url": "https://www.egyptindependent.com/egypts-tourism-sector-continues-its-upward-trajectory-seeking-new-phase-beyond-beaches-and-resorts/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Africa sends nine teams into FIFA World Cup knockouts: who are they?",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdmxnaVhEdTNGTU1yWFNFaVlTMmFlZnBOdnFCakZlTGhEWTZ2RzFHWjNHNFJNMjE3R1lKTFRfOV9YX1VubHBMcVpCNmIzdkdMRFk0UE9yamk?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Supreme",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Supreme Court strikes down US campaign spending limits in landmark ruling",
-          "url": "https://www.aljazeera.com/news/2026/6/30/supreme-court-strikes-down-us-campaign-spending-limits-in-landmark-ruling?traffic_source=rss",
+          "title": "Birthright citizenship ruling: US officials, lawmakers and advocates react",
+          "url": "https://www.aljazeera.com/news/2026/6/30/birthright-citizenship-ruling-us-officials-lawmakers-and-advocates-react?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -391,46 +397,16 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran prepares for late supreme leader's funeral later this week",
-          "url": "https://www.newarab.com/news/iran-prepares-late-supreme-leaders-funeral-later-week",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "Doha talks will center on MoU, no separate meeting with US on agenda, says Baqaei",
+          "url": "https://en.irna.ir/news/86197349/Doha-talks-will-center-on-MoU-no-separate-meeting-with-US-on",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "US Supreme Court upholds birthright citizenship, strikes down Trump's order",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFhMUjMyenJ5SVhxRmhGdGpDWGR1Z1F2NElVUWU4VkhzYkxKQ0lXS3Y0a3BlRUtaV3ZVeDJEQzlvdXkyVDk5c1Z4V250bEpGbEFHcFc3b0NiM2prZG5Ocm9aSFdpLV9XZ1EtaUhoZzNMejJ4MUFlaElxWWc2ZnQzc2hTRXh1d2ZuVy1WSVNEM3JZT1V3UkR6el9Fc1VVOTlJNHl0Qk5idUxYOW1nUmNWeVd0c9IBxgFBVV95cUxPTVZtazczbHZLTEdOLWRGU25hUUo3UHRIb0VKSUpOaXpaMS1vV1ZkZ2ZNX3hiakRzR0Ezc0xEQ3VqTU92NU1tVkQtS2psOVlOM1NhRzNXWjY2OXBYN200YWh1NHlMT3lvdEJjdjJ4cmdDZ2V2SldVcHFyRjgxNnpQdHc3SDVJTGhNcEsybXotMHhwQndZWDN5MEtWM3pCUXdJUmpMUFdPVXYwT1k4M3NtMGViYU40WGRkSlRWZE54M3Q3RlgxY3c?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "strikes",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Supreme Court strikes down US campaign spending limits in landmark ruling",
-          "url": "https://www.aljazeera.com/news/2026/6/30/supreme-court-strikes-down-us-campaign-spending-limits-in-landmark-ruling?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Fresh Israeli strikes on Gaza set 200 tents ablaze despite truce",
-          "url": "https://www.newarab.com/news/fresh-israeli-strikes-gaza-set-200-tents-ablaze-despite-truce",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US Supreme Court upholds birthright citizenship, strikes down Trump's order",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFhMUjMyenJ5SVhxRmhGdGpDWGR1Z1F2NElVUWU4VkhzYkxKQ0lXS3Y0a3BlRUtaV3ZVeDJEQzlvdXkyVDk5c1Z4V250bEpGbEFHcFc3b0NiM2prZG5Ocm9aSFdpLV9XZ1EtaUhoZzNMejJ4MUFlaElxWWc2ZnQzc2hTRXh1d2ZuVy1WSVNEM3JZT1V3UkR6el9Fc1VVOTlJNHl0Qk5idUxYOW1nUmNWeVd0c9IBxgFBVV95cUxPTVZtazczbHZLTEdOLWRGU25hUUo3UHRIb0VKSUpOaXpaMS1vV1ZkZ2ZNX3hiakRzR0Ezc0xEQ3VqTU92NU1tVkQtS2psOVlOM1NhRzNXWjY2OXBYN200YWh1NHlMT3lvdEJjdjJ4cmdDZ2V2SldVcHFyRjgxNnpQdHc3SDVJTGhNcEsybXotMHhwQndZWDN5MEtWM3pCUXdJUmpMUFdPVXYwT1k4M3NtMGViYU40WGRkSlRWZE54M3Q3RlgxY3c?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "2 Palestinians killed, 19 injured in Israeli airstrikes in Gaza despite ceasefire",
-          "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-19-injured-in-israeli-airstrikes-in-gaza-despite-ceasefire/3982607",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Witkoff and Kushner will not meet with Iranians in Doha, Qatar says",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-will-not-meet-with-iranians-in-doha-qatar-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         }
       ]
     },
@@ -461,36 +437,6 @@
           "url": "https://www.middleeasteye.net/news/lebanons-israel-framework-deal-draws-broad-opposition-little-appetite-confrontation",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Gaza emerges as a defining issue for Gen Z voters in New York Democratic primaries",
-          "url": "https://www.middleeasteye.net/news/new-york-democratic-primaries-gaza-emerges-defining-issue-gen-z-voters",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Fresh Israeli strikes on Gaza set 200 tents ablaze despite truce",
-          "url": "https://www.newarab.com/news/fresh-israeli-strikes-gaza-set-200-tents-ablaze-despite-truce",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gaza death toll reaches 73,066 since Oct. 07: health min.",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk1sTElSMng5djhYX0FCRDJwejFOcjNreFJ0ZE95UFdTcER4MlJIRG1aS3pyYl9KM3lkd1NFMkp0bXVDYzZUalh4azZfczFCbjdQbTBhbTk4QWNZcjZWU2lUcVVOblpESTJ1UzVlSjBQZnBpUkxRRjdoVkM3aVhOdGZQMFctUkpUUVlqQmNaRTE2aEZ4?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "2 Palestinians killed, 19 injured in Israeli airstrikes in Gaza despite ceasefire",
-          "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-19-injured-in-israeli-airstrikes-in-gaza-despite-ceasefire/3982607",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         }
       ]
     },
@@ -555,66 +501,6 @@
       ]
     },
     {
-      "term": "talks",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Who Has the Upper Hand in US-Iran Talks?",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2NXRmRKQXRETkN3el8wcXFpU3ctTjUxQ0NhMlhfRV85UXFVdm5sNVA2TlRISzE1MC1ZeGNncVJqUGV0LVN4Z3pXMVpSdHNJX1dnYzBxczIwVHlOSTZaSktMR29qZTd6M1d5RTRHN1VpZjk0NW53WktybVZyRVYzZUFDMGVOUEdtQVJHQ1RGR2dlLVNaZmV2cmwwUdIBmwFBVV95cUxQN2NXRmRKQXRETkN3el8wcXFpU3ctTjUxQ0NhMlhfRV85UXFVdm5sNVA2TlRISzE1MC1ZeGNncVJqUGV0LVN4Z3pXMVpSdHNJX1dnYzBxczIwVHlOSTZaSktMR29qZTd6M1d5RTRHN1VpZjk0NW53WktybVZyRVYzZUFDMGVOUEdtQVJHQ1RGR2dlLVNaZmV2cmwwUQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Doha talks will center on MoU, no separate meeting with US on agenda, says Baqaei",
-          "url": "https://en.irna.ir/news/86197349/Doha-talks-will-center-on-MoU-no-separate-meeting-with-US-on",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Berri says Lebanon deal aims to damage Iran-US talks",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPck1Nd2Nlb2wta1FiVVB4MmlKSWl1MzQ2MGJxRGVtUENsRTI1ZTAyWFJaNFNNd09MT0loSkZ6UW55dWYzTURtNlctR1hiV0RwVlhSNXB6eW1LTXp1R1M3NVQ3WHBabnJMZEJyb21iSnZaNVN3RjhqU0gxaVk3Q1BwYUdRZnFxTkQ5R2YxMnhFN3Jmdw?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Canada to deepen trade, defense ties with NATO allies, Saudi Arabia",
-          "url": "https://www.aa.com.tr/en/americas/canada-to-deepen-trade-defense-ties-with-nato-allies-saudi-arabia/3982646",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "US Supreme Court rejects Trump bid to end birthright citizenship",
-          "url": "https://www.newarab.com/news/us-supreme-court-rejects-trump-bid-end-birthright-citizenship",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Doha talks will center on MoU, no separate meeting with US on agenda, says Baqaei",
-          "url": "https://en.irna.ir/news/86197349/Doha-talks-will-center-on-MoU-no-separate-meeting-with-US-on",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Witkoff and Kushner will not meet with Iranians in Doha, Qatar says",
-          "url": "https://www.egyptindependent.com/witkoff-and-kushner-will-not-meet-with-iranians-in-doha-qatar-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "US Supreme Court upholds birthright citizenship, strikes down Trump's order",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFhMUjMyenJ5SVhxRmhGdGpDWGR1Z1F2NElVUWU4VkhzYkxKQ0lXS3Y0a3BlRUtaV3ZVeDJEQzlvdXkyVDk5c1Z4V250bEpGbEFHcFc3b0NiM2prZG5Ocm9aSFdpLV9XZ1EtaUhoZzNMejJ4MUFlaElxWWc2ZnQzc2hTRXh1d2ZuVy1WSVNEM3JZT1V3UkR6el9Fc1VVOTlJNHl0Qk5idUxYOW1nUmNWeVd0c9IBxgFBVV95cUxPTVZtazczbHZLTEdOLWRGU25hUUo3UHRIb0VKSUpOaXpaMS1vV1ZkZ2ZNX3hiakRzR0Ezc0xEQ3VqTU92NU1tVkQtS2psOVlOM1NhRzNXWjY2OXBYN200YWh1NHlMT3lvdEJjdjJ4cmdDZ2V2SldVcHFyRjgxNnpQdHc3SDVJTGhNcEsybXotMHhwQndZWDN5MEtWM3pCUXdJUmpMUFdPVXYwT1k4M3NtMGViYU40WGRkSlRWZE54M3Q3RlgxY3c?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Venezuela",
       "count": 4,
       "headlines": [
@@ -641,6 +527,36 @@
           "url": "https://www.aa.com.tr/en/americas/death-toll-from-venezuela-earthquakes-climbs-to-1-943-top-lawmaker/3982633",
           "source": "Anadolu Agency",
           "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Saudi",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Saudi defense minister receives Maldivian counterpart in Jeddah",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94YkdpOW5hZ1B6b01MZ2NIX1ZHSUZKOVBiOERCU1hUZElpcmpNNkpoYVJXS3ozd2R6Wm1VS2o4SUk2c09FTkZzdGxSeWxYM2d5WnpN?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Over 10,000 volunteers help transform Saudi public spaces",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WTDQya3dIQWRuR3dSQnlBUS10WmFQcldMc2VBWFhEXzR5VU41V1ctd3JuU3NmVUZKYzdGaU1jaF92empPaGRaSkVYTWRRN1RkTERr?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "China’s top diplomat stresses US-Iran talks in meeting with Saudi counterpart",
+          "url": "https://www.aa.com.tr/en/asia-pacific/china-s-top-diplomat-stresses-us-iran-talks-in-meeting-with-saudi-counterpart/3982669",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Saudi Arabian Football Federation chief Yasser Al-Misehal resigns after World Cup group-stage exit",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWHBuWERDLWpqakpTOXJIdlhZd2ROTGIwWmFlTVJfejdJcU1vZTlIM25IbnJBd2M1c1QxSmpSbkN2UVE3WlZ2dF8yRUpvZnN5bGJ3Vlh1NzR6QQ?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
         }
       ]
     },
@@ -685,7 +601,7 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Ivory Coast vs Norway LIVE: FIFA World Cup 2026",
+          "title": "LIVE: Ivory Coast 1-2 Norway – FIFA World Cup",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/6/30/ivory-coast-vs-norway-live-fifa-world-cup-2026?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -765,7 +681,85 @@
       ]
     },
     {
+      "term": "Brazil",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Brazil vs. Japan World Cup 2026: Lineups, injury news, where to watch & kickoff time",
+          "url": "https://en.irna.ir/news/86196154/Brazil-vs-Japan-World-Cup-2026-Lineups-injury-news-where",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Japan fans stunned as Brazil end their World Cup dream",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUxPd0laMnlpdlowdi1RcmJsRVRpSTdDWkN1Mnp3U05CcDIwcWNoUnRwcE1HWnBVc3dKX1dKSFNmdlNSWVhseVl2Q1MzcHF6NWp4TjRCVkc0NmxjYWV0bVZzOFA0V0hhOW45SUdqS0tGcldNdWZpaXVNUk13WmxhT0loQ3d4UERKSlBNVGNvcDNJWVByZ3pkZ3dYQkJZRUk?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Brazil, Germany eye World Cup last 16 as Netherlands face Morocco",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUZHVDJqc1VxRlpZM2pBbnVYc0s3QTNvMDVDWHlONVBUSzlMcUtQSTE3UV9MTGJoR0prUFJfUWRwOGUxYmdpcUxHMVZWYkpwdHd1aWJXN1NnUDNSTjRNSnlOcVc2OEg1WExZTmhDbWxsbjRtRFEyM2ttelBDOWNRdkFxVDYyRzhMTm1YV0NybFdBY0g5SFpNMVJ0clh3a1dGcWc?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Brazil, Japan look to settle old scores in World Cup knockout tie",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1NqT2UzNW1hRVgxa1NZMDVRZ3hhc0d0THFReVdGM3EzcHRmWXBzTHFCZ2Y5eE5qZm9ybFBVQ012ZGpXN1VoX0FJQUluZHM0ZkJpS3d3QVRxc1FqSFlHUG5fcGE4U2Qzb0FtdDN2Y09WRUptTmZtUVExZU11Zmx6Q0hiM1BEdDJfMjU4WE01cm1wcnlxN3JIYTF4cEYwUHFsLXRtdk9ESmhzWDDSAbABQVVfeXFMTVNkd3BsNUdFMlhhRV8zRzJna1U0OHYwOXVRdmF4RmVYR3NfNUFjRG5HakhBWlN4Z0ZsalRGWGdmcmxDRXA3S1lZeVpuWGF6NkgxTGdVbzc1MEFtd2paWjB2czB5WGFReXh3WlE2Mm9pY0Z2MVk0LVV1RElFdWNQYlhEWjByYnExUUtOS0cwWlJCQkF1WlNMUTFsYzgyZi1KTHhPTDZMUVU3TTMzN3RyeDU?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Court",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Birthright citizenship ruling: US officials, lawmakers and advocates react",
+          "url": "https://www.aljazeera.com/news/2026/6/30/birthright-citizenship-ruling-us-officials-lawmakers-and-advocates-react?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Supreme Court strikes down US campaign spending limits in landmark ruling",
+          "url": "https://www.aljazeera.com/news/2026/6/30/supreme-court-strikes-down-us-campaign-spending-limits-in-landmark-ruling?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US Supreme Court rejects Trump bid to end birthright citizenship",
+          "url": "https://www.newarab.com/news/us-supreme-court-rejects-trump-bid-end-birthright-citizenship",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Africa",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "How is South Africa dealing with immigration?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/6/30/how-is-south-africa-dealing-with-immigration?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Egypt’s tourism sector continues its upward trajectory, seeking new phase beyond beaches and resorts",
+          "url": "https://www.egyptindependent.com/egypts-tourism-sector-continues-its-upward-trajectory-seeking-new-phase-beyond-beaches-and-resorts/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Africa sends nine teams into FIFA World Cup knockouts: who are they?",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdmxnaVhEdTNGTU1yWFNFaVlTMmFlZnBOdnFCakZlTGhEWTZ2RzFHWjNHNFJNMjE3R1lKTFRfOV9YX1VubHBMcVpCNmIzdkdMRFk0UE9yamk?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Supreme",
       "count": 3,
       "headlines": [
         {
@@ -781,10 +775,34 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "US Supreme Court upholds birthright citizenship, strikes down Trump's order",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFhMUjMyenJ5SVhxRmhGdGpDWGR1Z1F2NElVUWU4VkhzYkxKQ0lXS3Y0a3BlRUtaV3ZVeDJEQzlvdXkyVDk5c1Z4V250bEpGbEFHcFc3b0NiM2prZG5Ocm9aSFdpLV9XZ1EtaUhoZzNMejJ4MUFlaElxWWc2ZnQzc2hTRXh1d2ZuVy1WSVNEM3JZT1V3UkR6el9Fc1VVOTlJNHl0Qk5idUxYOW1nUmNWeVd0c9IBxgFBVV95cUxPTVZtazczbHZLTEdOLWRGU25hUUo3UHRIb0VKSUpOaXpaMS1vV1ZkZ2ZNX3hiakRzR0Ezc0xEQ3VqTU92NU1tVkQtS2psOVlOM1NhRzNXWjY2OXBYN200YWh1NHlMT3lvdEJjdjJ4cmdDZ2V2SldVcHFyRjgxNnpQdHc3SDVJTGhNcEsybXotMHhwQndZWDN5MEtWM3pCUXdJUmpMUFdPVXYwT1k4M3NtMGViYU40WGRkSlRWZE54M3Q3RlgxY3c?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "Iran prepares for late supreme leader's funeral later this week",
+          "url": "https://www.newarab.com/news/iran-prepares-late-supreme-leaders-funeral-later-week",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Gaza",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Gaza emerges as a defining issue for Gen Z voters in New York Democratic primaries",
+          "url": "https://www.middleeasteye.net/news/new-york-democratic-primaries-gaza-emerges-defining-issue-gen-z-voters",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Fresh Israeli strikes on Gaza set 200 tents ablaze despite truce",
+          "url": "https://www.newarab.com/news/fresh-israeli-strikes-gaza-set-200-tents-ablaze-despite-truce",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Gaza death toll reaches 73,066 since Oct. 07: health min.",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk1sTElSMng5djhYX0FCRDJwejFOcjNreFJ0ZE95UFdTcER4MlJIRG1aS3pyYl9KM3lkd1NFMkp0bXVDYzZUalh4azZfczFCbjdQbTBhbTk4QWNZcjZWU2lUcVVOblpESTJ1UzVlSjBQZnBpUkxRRjdoVkM3aVhOdGZQMFctUkpUUVlqQmNaRTE2aEZ4?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
         }
       ]
     },
@@ -909,30 +927,6 @@
       ]
     },
     {
-      "term": "Saudi",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Saudi defense minister receives Maldivian counterpart in Jeddah",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94YkdpOW5hZ1B6b01MZ2NIX1ZHSUZKOVBiOERCU1hUZElpcmpNNkpoYVJXS3ozd2R6Wm1VS2o4SUk2c09FTkZzdGxSeWxYM2d5WnpN?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Over 10,000 volunteers help transform Saudi public spaces",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WTDQya3dIQWRuR3dSQnlBUS10WmFQcldMc2VBWFhEXzR5VU41V1ctd3JuU3NmVUZKYzdGaU1jaF92empPaGRaSkVYTWRRN1RkTERr?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Saudi Arabian Football Federation chief Yasser Al-Misehal resigns after World Cup group-stage exit",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWHBuWERDLWpqakpTOXJIdlhZd2ROTGIwWmFlTVJfejdJcU1vZTlIM25IbnJBd2M1c1QxSmpSbkN2UVE3WlZ2dF8yRUpvZnN5bGJ3Vlh1NzR6QQ?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
       "term": "Saudi Arabia",
       "count": 3,
       "headlines": [
@@ -957,7 +951,7 @@
       ]
     },
     {
-      "term": "Brazil",
+      "term": "Japan",
       "count": 3,
       "headlines": [
         {
@@ -973,10 +967,10 @@
           "region": "Levant"
         },
         {
-          "title": "Brazil, Germany eye World Cup last 16 as Netherlands face Morocco",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUZHVDJqc1VxRlpZM2pBbnVYc0s3QTNvMDVDWHlONVBUSzlMcUtQSTE3UV9MTGJoR0prUFJfUWRwOGUxYmdpcUxHMVZWYkpwdHd1aWJXN1NnUDNSTjRNSnlOcVc2OEg1WExZTmhDbWxsbjRtRFEyM2ttelBDOWNRdkFxVDYyRzhMTm1YV0NybFdBY0g5SFpNMVJ0clh3a1dGcWc?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
+          "title": "Brazil, Japan look to settle old scores in World Cup knockout tie",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1NqT2UzNW1hRVgxa1NZMDVRZ3hhc0d0THFReVdGM3EzcHRmWXBzTHFCZ2Y5eE5qZm9ybFBVQ012ZGpXN1VoX0FJQUluZHM0ZkJpS3d3QVRxc1FqSFlHUG5fcGE4U2Qzb0FtdDN2Y09WRUptTmZtUVExZU11Zmx6Q0hiM1BEdDJfMjU4WE01cm1wcnlxN3JIYTF4cEYwUHFsLXRtdk9ESmhzWDDSAbABQVVfeXFMTVNkd3BsNUdFMlhhRV8zRzJna1U0OHYwOXVRdmF4RmVYR3NfNUFjRG5HakhBWlN4Z0ZsalRGWGdmcmxDRXA3S1lZeVpuWGF6NkgxTGdVbzc1MEFtd2paWjB2czB5WGFReXh3WlE2Mm9pY0Z2MVk0LVV1RElFdWNQYlhEWjByYnExUUtOS0cwWlJCQkF1WlNMUTFsYzgyZi1KTHhPTDZMUVU3TTMzN3RyeDU?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
         }
       ]
     },
@@ -995,6 +989,24 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Y1pyMlJqZTF0dDRLSnBmdDhwSEhMdnZPMVAxYjF6bWhwTGFQSnVnM3IzV2xIYjloYTFmMkpUZlVRdFVSYU1ncmZzRUVZaFM3bWRB?oc=5",
           "source": "Arab News",
           "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "strikes",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Supreme Court strikes down US campaign spending limits in landmark ruling",
+          "url": "https://www.aljazeera.com/news/2026/6/30/supreme-court-strikes-down-us-campaign-spending-limits-in-landmark-ruling?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Fresh Israeli strikes on Gaza set 200 tents ablaze despite truce",
+          "url": "https://www.newarab.com/news/fresh-israeli-strikes-gaza-set-200-tents-ablaze-despite-truce",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -1053,18 +1065,36 @@
       ]
     },
     {
-      "term": "MSC",
+      "term": "US-Iran",
       "count": 2,
       "headlines": [
         {
-          "title": "Iran, Oman to jointly charge fees along Strait of Hormuz: Report",
-          "url": "https://www.middleeasteye.net/news/iran-oman-jointly-charge-fees-along-strait-hormuz-report",
-          "source": "Middle East Eye",
+          "title": "Who Has the Upper Hand in US-Iran Talks?",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2NXRmRKQXRETkN3el8wcXFpU3ctTjUxQ0NhMlhfRV85UXFVdm5sNVA2TlRISzE1MC1ZeGNncVJqUGV0LVN4Z3pXMVpSdHNJX1dnYzBxczIwVHlOSTZaSktMR29qZTd6M1d5RTRHN1VpZjk0NW53WktybVZyRVYzZUFDMGVOUEdtQVJHQ1RGR2dlLVNaZmV2cmwwUdIBmwFBVV95cUxQN2NXRmRKQXRETkN3el8wcXFpU3ctTjUxQ0NhMlhfRV85UXFVdm5sNVA2TlRISzE1MC1ZeGNncVJqUGV0LVN4Z3pXMVpSdHNJX1dnYzBxczIwVHlOSTZaSktMR29qZTd6M1d5RTRHN1VpZjk0NW53WktybVZyRVYzZUFDMGVOUEdtQVJHQ1RGR2dlLVNaZmV2cmwwUQ?oc=5",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Adani Group to sell stake in Indian port to giant MSC for $1.4B",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUFiVDRYNF9GejN1MzVBYUxOd0poTDQ4YnZ0YzZHMDdPdmhWX0dlUk01RmV6R3lrSnVGN09HcjhfdmU4RXRXNEZmQVM1OC05a296OEtic3M0QnBGa1BQbUR6OC1rZHhMUVFBWmJFZkIyTzFocGl5STFqd055cWlpX1pLTmEzelhobnRHUDc5QnJ0cE1iaHl5WEJyX3pxSHJpaHlaZ0Z0UHXSAa4BQVVfeXFMTUVHZzl6TU9qOFZyckY0R2NTa25kOTZKSG9aOHQwYmR3TXQwNVl1eGV4N3lGQVFwakFxV2p4XzY3OGd1OG5Tc3UtU2xaQlZ0ZWRDN0I4OTRZVmg1ejdZTlNodU0wb3QwYTdwMF80cDFmdWNVVXpTRU5MQVJfSjB5aktYb2NodFVNWGQtcmtXcVZKVURUczMtaldYYWlfTGpiS0ppeHNlQTRNWEh2eE1B?oc=5",
+          "title": "China’s top diplomat stresses US-Iran talks in meeting with Saudi counterpart",
+          "url": "https://www.aa.com.tr/en/asia-pacific/china-s-top-diplomat-stresses-us-iran-talks-in-meeting-with-saudi-counterpart/3982669",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Syrian",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Syrian parliament set to announce Sharaa's pick of 70 MPs",
+          "url": "https://www.newarab.com/news/syrian-parliament-set-announce-sharaas-pick-70-mps",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "S. Syrian town of Abdin mounts resistance against Israeli invaders",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3diSkxBbzUwY2xaS0YxSUx3VXk2d2hPNDJDNTAtTG5haGZoeWpPbzg0bnhPZU9ONk5xejdVTjhTUzdtVjVwenAxaERFejJXc3RXRDRUWVMtSmpaS21PaGZkV2dVckh4OEhqVjBJTm5oN3ZIM1V3SEZwSlJOUl9Pb2RHQkZYcHJMYWt5alloLWl1RGtTN1g0VkVKNVlmQ2pMdHRTNTNGR3RXRnfSAbABQVVfeXFMUEV1WTZvam11TC1XYXdQUGtBd1F3Z2dwRG9aaDRaOEJHX1pHdDRhODZ5a0o5RlFXbDZWbUFfamxvQ3hWbXl0U3QtOUZxRElwSThsM0hVRXZwd0RfcmlGamllY0tVa3RnRnlFRzBzNk9DNGpVbC0yTDBLVFlaT05PVlhTUkl3LUxSaFlSaVhSb3owVHk0NWIwOU9ReU1MbnljSGF0S2g1NGxIcXZsUTd0RlM?oc=5",
           "source": "Daily Sabah",
           "region": "Turkey"
         }
@@ -1089,24 +1119,6 @@
       ]
     },
     {
-      "term": "Islamic",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Man arrested after arson attack on Dublin Islamic centre",
-          "url": "https://www.newarab.com/news/man-arrested-after-arson-attack-dublin-islamic-centre",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Islamic centre brings joy through World Cup watch parties",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/islamic-centre-brings-joy-through-world-cup-watch-parties?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
       "term": "truce",
       "count": 2,
       "headlines": [
@@ -1121,24 +1133,6 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkV1eGRUOFZ0UnpvejJfbHlFLVNNTTJLc19HcndJeXhZaHdHcHpMMUJIYWR2YzI1Zi1oaEhxN1BGVllsNWZrdDZpVVdFdEh5VkVOY3lZczVsakZMbmM2eVB2ZTUxcGZvSGVsMjFwX1VzdGlQNERWeGhyaEQydmpKMmwzdjBKMmtHUVI5UFlnMmdlYWExVm5makJR?oc=5",
           "source": "Mehr News",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "ceasefire",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Fresh Israeli strikes on Gaza set 200 tents ablaze despite truce",
-          "url": "https://www.newarab.com/news/fresh-israeli-strikes-gaza-set-200-tents-ablaze-despite-truce",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "2 Palestinians killed, 19 injured in Israeli airstrikes in Gaza despite ceasefire",
-          "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-19-injured-in-israeli-airstrikes-in-gaza-despite-ceasefire/3982607",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         }
       ]
     },
@@ -1251,6 +1245,60 @@
       ]
     },
     {
+      "term": "UAE",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "UAE allows citizens to travel to Lebanon again",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnpYSGk5RlRVMVZDREN2Nk9tUC1BSERKSVBteHBxM0pnSXlKU2t3ME84TGpMUWJ5eDlhREdCWXhoTGlKdldiVTlMT1RkYUJMTDFxLUVIQjlXX0xyV0t2MlU1TW9OeC1CRm52UjF5V0tZZkw0Nk5sOWtZS1d0ZTUxLV90VHBZeUx4LWxfX0FzT191blBPai1mekVlWEFwNWVW?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "UAE petrol, diesel prices for July 2026 announced",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3VLRXBPYTZrc3V6a3BkeWdKMUZLR3NLQjZHOF9uYU1KSHNoaHlOVUo0eDBnOTJsSlE4eldzOWc1OWJSdDlIamR2ajV5RzR0NzVKRTVMWVJlNWVDdl8wLVR5TkJaZXBlWUZnSm5XYWFDUjBpWXBuWE85RlFLOG05OFdPbDZMUmd0QmZJOU1zdE1oNHdncWducnIyMnZfQdIBsAFBVV95cUxOa3dLeXVhZUplcHJrSU9Td0hMak9ZWmRxSlotWHpRdXVYQm42cTdJTm80b2d2MUdwek5KSGU0aU5XM3lTM3hHWm8wcF9hSzlYUWZ4blhmcS1kWUtaZEMyRmJqWHQyYzBKNWp1Q3JMZ3BDVXpwWWc2ajhxUkFkWGFyRjY3YWlYRURyZkk0V2tfYVRGSnM1eTJQTW5SN1FMS25xbzh2bzNiODBQT0VXb25rZQ?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "African",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Egypt’s tourism sector continues its upward trajectory, seeking new phase beyond beaches and resorts",
+          "url": "https://www.egyptindependent.com/egypts-tourism-sector-continues-its-upward-trajectory-seeking-new-phase-beyond-beaches-and-resorts/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Belgium seek stability, Senegal carry African hopes into last 32",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPME1PT1VycWctYms0Z0stQ0pqX0JjaGUwNjNUWWxLZV94VlVzaHlIY29uRENNVXFSV0EtUFJGYUVvbFdkTlJQTmQwdGdxdWJkMmtSQUtiVmpQTVFiMUhXdS1fczdqRXRFaWFKZjZzV2Q1b3hiLTh0b1JReHIxSDU0UktkdkpPRGYwT0Y3VHhKUndRNnllUFRBc1N6bTJsQ3l0M0NDRHZ5aDFoZ9IBrwFBVV95cUxQUW9DNC00by1yY3dySnY0cXF6c203VlNpRDVVU3NxM1BIS0hqVW45cElOZ0g1WVB1WjNBZE1xc3NmQ205UTlXYkZvTlhleDY4WEFRSVZ6Ykd5cmZXZXZoQTdrb3o2bmliaUs1bGs0MHAyalpHU3JWbjBpbjlsbDNic0J2Qm4tRTNZMUtsemdtbFlyWDZqSW1yTnJ4djBGMTYzYTRoZ3p2c3RlTWFwcWlB?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "UNRWA",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "UN chief: Supporting UNRWA is international community's responsibility toward Palestine refugees - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03N1YtVTZnam1pQXFuWFIzWjRoZ2pWdzl2dmJDamh3dEt6Y2ZkSjl5UFJzWFl6Zy1GbEhyVWdyUEw4cFlaMHY1SXlaTm14dmRTWjlWS3FIRQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Türkiye says UN agency for Palestinian refugees facing ‘unprecedented political pressure’",
+          "url": "https://www.aa.com.tr/en/world/turkiye-says-un-agency-for-palestinian-refugees-facing-unprecedented-political-pressure-/3982670",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Palestine",
       "count": 2,
       "headlines": [
@@ -1264,60 +1312,6 @@
           "title": "Palestine slams Israeli plan to establish more illegal settlements as 'systematic war crime'",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS3oybUtvR0p0MFhtdEhDX05NNVdVa194Z21HQXR6dmdLS1AwQ2t2bmVkZ19lUDVzRlFDb25kbjNxUm91RmdmbWpaNE1QMXFqQWpxcl95NVp0Yl9hd2ZhbXoxRGJpb0hSNWhsUWk5WWdnOVNCSmVkcHFkYjZWMkw2LVZRVUQ4MGc0cGZ3SjRycktCdEFUNm1rTWtaWjNtQUhQUnM4UU43cmVfa21WT09zZnJ4Wm1ISExmX1h2cDQxOG9NQW9wbElCTlNXQkdqS2RlMkpxc0gxd1lVQzJBem9QRGZ4Q1BndHl3LWww?oc=5",
           "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "NATO",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Canada to deepen trade, defense ties with NATO allies, Saudi Arabia",
-          "url": "https://www.aa.com.tr/en/americas/canada-to-deepen-trade-defense-ties-with-nato-allies-saudi-arabia/3982646",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Özel slams security clampdown ahead of NATO summit",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekVfWGRwYmhwclRydzhhOGJvODNkYXllZFZfZDkyZTRfNjZrdEkzYzJSYWIxQ1A4RUdWdEYtTERybzRXZERQcVBoQlY2cEVkTFBwMDNRLTFRMlZfTGdqMnhGLXJLSFVHY0NEYVNZbDZGSHFMa01iSGlZaXdhejJ0YjlSUlY0dlp5UHEwMzI1Tjg0Z1Q0Qmc?oc=5",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "summit",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Canada to deepen trade, defense ties with NATO allies, Saudi Arabia",
-          "url": "https://www.aa.com.tr/en/americas/canada-to-deepen-trade-defense-ties-with-nato-allies-saudi-arabia/3982646",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Özel slams security clampdown ahead of NATO summit",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekVfWGRwYmhwclRydzhhOGJvODNkYXllZFZfZDkyZTRfNjZrdEkzYzJSYWIxQ1A4RUdWdEYtTERybzRXZERQcVBoQlY2cEVkTFBwMDNRLTFRMlZfTGdqMnhGLXJLSFVHY0NEYVNZbDZGSHFMa01iSGlZaXdhejJ0YjlSUlY0dlp5UHEwMzI1Tjg0Z1Q0Qmc?oc=5",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Erdo",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Türkiye prepared for all scenarios: President Erdoğan",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTFNS3Q4TTl6WGYtQ1psSUt0SHJjTGdibGVHYUhyQk5BX2JuQS02TnhmTTFuakxaN0NtZDFjWTZtLV9zRmdPajdLdGR3d29IM2dNOWVJc0E1MWV6WXJCcThjZWREeHQyTnA0MGlTSnpyVnhUems5cFpKcFViNnlHaGFhLUdMem9hTkUyeUZ0T2JtMHhGY2dDbDJZck5SY2PSAaQBQVVfeXFMTWRmSDBqVnBTVW8ySV96TllaQmJtcXhyWTJHc1RLNHZTc2V2M2owbFNCeTZfTWVtbW1QRHR6cGdMRWZtWmZ5NERNRDJjZ3prM2NwaW9XY1QzbVg4aVRna05QXzd1SGRyQlNZUWFxa3V1VmN1aTcxV0hZRDRCdFZkQ2xtWVozM0xwbTAtbWQ2bHRlbU5lVXUtMmZLQ2x0eDZrNW5kUGc?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        },
-        {
-          "title": "Erdoğan receives EU's Kallas in Ankara",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2xIT3g1VUhJeXl5RW4teFJWbDVuRDVzeW80RUVzM285MmR1Mk5rNjA4eDZkVGM0aUh3RnVfVEI0TGZzc1lRRGFWT3o1R2tLX0ZYa2Z2YmhnRC1JT05kdXp0VEdCejgtMnl3ZXNFQ210YmoyUm9mTlpfTTZDbVp5X0JocXk?oc=5",
-          "source": "Hürriyet Daily News",
           "region": "Turkey"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T19:03:37.940753+00:00",
+  "updated": "2026-06-30T19:32:52.853732+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Birthright citizenship ruling: US officials, lawmakers and advocates react",
+            "url": "https://www.aljazeera.com/news/2026/6/30/birthright-citizenship-ruling-us-officials-lawmakers-and-advocates-react?traffic_source=rss",
+            "published": "2026-06-30T19:11:29+00:00",
+            "snippet": "Trump calls top court's ruling affirming birthright citizenship 'too bad for country' as advocates cheer decision."
+          },
           {
             "title": "How is South Africa dealing with immigration?",
             "url": "https://www.aljazeera.com/video/inside-story/2026/6/30/how-is-south-africa-dealing-with-immigration?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand?traffic_source=rss",
             "published": "2026-06-30T17:57:21+00:00",
             "snippet": "Grid operators warn the US heatwave could send electricity demand near record levels before Fourth of July weekend."
-          },
-          {
-            "title": "UN warns Ebola could cost Africa $3.6bn and jobs",
-            "url": "https://www.aljazeera.com/news/2026/6/30/un-warns-ebola-could-cost-africa-3-6bn-and-jobs?traffic_source=rss",
-            "published": "2026-06-30T17:55:29+00:00",
-            "snippet": "The latest Ebola outbreak in DRC has infected 1,307 people and claimed 377 lives since May."
           }
         ],
         "error": null
@@ -165,6 +165,12 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
+            "title": "بقائي: لا لقاءات مع مسؤولين أميركيين.. وإيران ملتزمة بمبدأ \"خطوة مقابل خطوة\"",
+            "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQV05MMHdpcWZVRk9RZlJaX3gtRGt6T2lPczFKdzExMWxaakI1a01EaTNaWUQtQlFfZHAwdzRRSXpLTl80OGhuUDc5blpuMjJyUkVTQXd2MUEzZzhuOTJlSGpqZUNuQmpVc1RsTi1qejRTMFR2WHVsUjAtN3RUcWpGTi1CUEFNS0VPcGsxVnRUaHBtOGdtS0toYW9LdC1KOXhUbUxGRFV5LWV3cW05ZFZWelF4dXZORmtSTVRETGE4bmN4SGt6UmpOcTJGSkM5a0JEa3hheDZRNUFlOXFYRGptRTlfeXdqYVF3enljN3hITU90b1loV2FRRjhtVENmRTNISUF3NTBlZ0JZdWY5U1FKcHA4N2d0alFFdVI0dGpJb0ZhY3BxeGptSVU2bXlJOXNCT2hjRThKSGpwRFVsX19RaUdLSFFFN0pBaU1Jc3JuSnRrVUdKcUEtSG9KeHpfd0FwZmZnamhoYXFQNlBZd0FKSkNnX0dfbEJINUlCTzZhSklQME4ya3NsdmhKX0ZSeEpDeHhYVURlMG9BXy03OWJMel9IcmdmckJVTVRjNjl3OUJGUHFmbWxOcS1IWllXTVRUMFE5NTJ2SXZvRGVzZ0FtNEpxUXhBTkhGNGZUVi0tU1RVY3pDMnlObjN6SmdzMUVFUjA2Vkp2cGRJaTZiS3RPYXNCRFA5QTRvN3VWV1B6YmlETnE3aU5SU1hwdTRBcGRPZ2t4Q3B3TFA4cm1kUU5r?oc=5",
+            "published": "2026-06-30T19:05:18+00:00",
+            "snippet": "بقائي: لا لقاءات مع مسؤولين أميركيين.. وإيران ملتزمة بمبدأ \"خطوة مقابل خطوة\" almayadeen.net"
+          },
+          {
             "title": "3 عوامل دفعت واشنطن إلى مذكرة التفاهم مع إيران.. ما التفاصيل؟",
             "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxQaFViM2s4MkphZHdfbWlTVlJMSWlzXzBYODBsczVCdXU3R3gwUlg1OHEtb1N4Q0gzQk1KV2lGLVotbEFiMURmZzJwR1Z3dUk4b2M1cnM5QXhBYS1JaGM3R284WmdvMTZ4Z2EyaXBNRkx2eHBVZXU0b19qZ0R0dEEzUjdSMkZmLWROVUxvY3lIbzRJVFlQdkJ4ZGJGVWhiTHZMNkc2dDJMMHFBQmdReUozd3dSNnNwa3BFd0g2Z2xiQ0pZTy1vaGV3Y09HYW9fZkxWQjQyZHpZOTg4azZOTnJzMC1aMGFjMUI1dnp5bG9yeFpSMWlLRjZ2U242LXdxNER1U1I3N3M1RDZURk1TSGFILVphT2h5NEZUZjFmYk1vUjJfOGVXcWVmcWtta3d3Q0dvOG9ySEhNckE4dVJyaTYtdlZKSkhDQTI2cVlfdjhlVzNhQVloSk5Sbk9Hd0lFZUhLR0FKWkdpalQ3TjFoYXU4Sng4U3FBeEVjVkJQdVRPV3IzLXR0bEViUkRSbFdTMXBxQ1RmRXNSS3lfM3NIUElvZ2daNV9VV1VQdDN4MEFmS3h0WXJCQWs2UzBKR0hlTUdCYVB5X044aWFBSzVtX3NQakhVWXdFeG1u?oc=5",
             "published": "2026-06-30T16:07:24+00:00",
@@ -187,12 +193,6 @@
             "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOcjhBUndXZTFpUnhsU3hEVWR2RGtrYmFQS2FoZG5uLWF0TUgyV0g2V2lteVlhVHMzV2dWM2RIZC1OY3A3UkxORzFVT1lScFVtWW40VUFZTDZkU3RLU2pFbm1QenlTcmpaMTFEY2tQcDh2THVHV3B5aWVHcDIwREljVWZocl9NNzFfYlVDQ0tYeDdyWFZLcEZSZGpqV0djYk9DRFVFdk5HelVXSS1vV3Z4aE0weXRQbzJrbmxUd1NTY0lzbnZMemxwSjA1OWtGQU1PeEQ2bXpRcWRUVHNTeVZkQ0ZpVnlSNFpzMllSR29KWjJqVDllb3kweXcwQ3d1Z1R6d2xRRGFvWlBxaUdXbWswNVFHSG1YNHVaQ3JsUGFZRElsYlJoRFU1UU92V3hjYS02M05TTy1pWnp6Sk90WWhiMlNhUjhHbE1YOF96Zk9zaFFkc3dCai1wbmducGxLTzVNcThRQ25rLUJ2WWVWUTlTUmlmYUN5Mmx3NWktdHdYV1JJVEh3ODNzQkVHSnNXRndYZkRLdkRKVjk0aUdYZnV2UTljemlJUFBwOGdtN1RCT2R6T0NBU01qOGdHem5ubVpmSGlwZ2h4aXhmT0ZHYkFBOURjTm1xQnZxQ2N4SU1hak54R25MN1hsNnRFTVhrN0x0cVU4VnRyQnpOMHFGbmFBMHNIbFhuVEpR?oc=5",
             "published": "2026-06-30T14:44:10+00:00",
             "snippet": "الموقف الإيراني في ظل المستجدات السياسية والأمنية almayadeen.net"
-          },
-          {
-            "title": "المغرب يتأهل لدور الـ 16 بعد فوزه على هولندا بركلات الترجيح",
-            "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxObGNyU1dYN2NrWlRaelZWRUI5T0hYNkpINl9nbFRJRVdwMmhZbkl5Z3JzZTNhWnlmU1VSRmdTTV9uWmg4ekN2dFlTSnczUlRMVGtZanl6dlRfcDZfZWV0WUFpU1owREVwS0Z4UFJoSEE3MFRYeUpNVlVPMTN4NGJkLU1GOWpNNWd3dWY5SEgyMlZsTUxsQXp6TG5tTHV1QmZMYU5yam9uOGdRM2xHMmRPOEFEQVpHN0t5eC1McVlyZlBEaTFXdWYtWW5hYlpyaUlka0RMNkNQcHlfcDBubVJvWVZyMHR0dXJZT09nNXprMThxSTd6bkdVSVoyR2o5X0c2eFRGQkg2T1R3Uy1PQkY0TUg4cmM0bUstTnVyV1FYaTYzc1VudEpSaWlXREJjUTc3aXhVUDJqX05qbWN6SE43eU1BRnQwUHBVVEhCSjlFNGpJZzUzVWlpV1pVR3QzT1NCYmdFQjM2cklMcGt5LTk1YkRsY0NVM0pmWWM2bDRaWkxtcS1xUjJuNXFnR0NrRVM1clZHZDgybmFoXzZXUFA0M3VrUml1MDNISlNyeVFWeDVfRlhpeHFDaGwwNk5RemVjMWIxcHdUTVE4cEVoQlpiVTdZcGRuc0E?oc=5",
-            "published": "2026-06-30T13:54:57+00:00",
-            "snippet": "المغرب يتأهل لدور الـ 16 بعد فوزه على هولندا بركلات الترجيح almayadeen.net"
           }
         ],
         "error": null
@@ -325,6 +325,12 @@
         "url": "https://www.jordantimes.com",
         "headlines": [
           {
+            "title": "GDP rises to 2.9% in Q1 2026, up from 2.7% in 2025 — DoS",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wUmtYSEtCaEdBSTJOODlaeXYxQVFOLVpLQU04QllicWpyRm16RjctSjUxaWZwOFVHaFFwbDJRZFlhWnlyYTE0T1VvanhjQWV4QWIzWG0xaTRqQUJRSWRZanRlQnc1V2F6XzhtOFFDYlBudUVIQjBKSkc4UQ?oc=5",
+            "published": "2026-06-30T18:28:40+00:00",
+            "snippet": "GDP rises to 2.9% in Q1 2026, up from 2.7% in 2025 — DoS Jordan Times"
+          },
+          {
             "title": "UN calls for food, shelter to help Venezuela quake survivors",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzBSR2RZd2tGSHA3cDZkYm5FeDZTTmxOYkdTRmVNUVhBWnJ6b2tBZWR2NlYwVl9UaHlMeGYzYl9mcVgxSENzdnh5bGN1Qzk2UTU3Y2RxdXBJbFZzQTRHT2g2UXRiU0diamtrY2pka1NyR3BDTXZwSXhtYTBuLVd4VmF4QlJnRENsNUUza0UyMWhPZFByUE9iLUtB?oc=5",
             "published": "2026-06-30T14:57:32+00:00",
@@ -347,12 +353,6 @@
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEs3ZkoxX2ROcVdCYWhtblhQQ0RicTd2OXVaTnpuS1ZpcEwzbDFUNmdEakVxbnM3RTNVNDVkRGx3cnRtVGtkRGJhaFVVNnV2bFQxdUdHb3p4dHktd2tTVkdvR1A2WWxmRUFNT2MwNnZoeWRBdkdxRklab2NLRV9hRVlsMmF2MnRERG9IbzBfdi1LZy1Ta05zWXZycEtBQXp1?oc=5",
             "published": "2026-06-29T18:33:54+00:00",
             "snippet": "The remains of a citizen have been recovered from the rubble in earthquake-hit Venezuela."
-          },
-          {
-            "title": "JCDCF, RSCN to establish ‘major’ ecological park within Amra City project",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2FhVHJpdjBTRS1jRjl6MzlwZHpEdVVDWDh0dUxfVW1RbUthX2J3VG9HTVRWWV9uRy1LTEZZUkRscHotN3g4YTI0N01ncXF1M1FFZW9MUE9neFhmZjFiQnR4aFZQeXJJT2Y3dzl5NDRQOVl0ZjBIWjFyVk90UnpyRjdzd2JnRHNGdWxYdmNYRkoyWDVabWNoYlplMTJGWWtxYzN2MFQ0ODM?oc=5",
-            "published": "2026-06-29T18:33:53+00:00",
-            "snippet": "JCDCF, RSCN to establish ‘major’ ecological park within Amra City project Jordan Times"
           }
         ],
         "error": null
@@ -442,6 +442,12 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "ضغوط كبيرة على النظام الصحي في فنزويلا بعد الزلزالين - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNZThfaVFlZC1LODhpUjZzRlVKQWIzcmVyT0V1NHM5YUN0U01VUXZoUEVuRFdkdnZGQjJmdVNNYmtzeVl4b2hoZS1TbzRlTDQtRXo5aEhIUkt6dkMtcFRYU0dUNzNHSVhfSTB3WExfUFFBSnphWGJsczRpbm02djQtN0s2SGN5enRKWjlveE9hWGFUOEdBTXRoakZvZFcwcm9PZEpUUDFkb0NYcWNsQVVqZ1AwZ3U0VWNSX0ZFMGw1alkxOWxDd1RjeUF4VUpobzdSWFRITUtaU0YxWUExMl9MOFlwUXZyWGFpYURyYVV1Q1lCQUI5bjN1RTUzUExxMWdVT25hZUdiNHpmbHBaeExHUEhFMXA1ckNQRWVxamg0dEFVRWdGQVc1bTNtOXQ2aEFYX0xMRGFKQkd5c25UdEZyLXpaTzhzRGszYkZ3UnFyekZLWldXS1JhcHRHa2VTOUtLbENaTGttcHRYRUJpcXVpcW12SFBJTXBvQmdMR2hEQndYYU5MME9kTTNvVHRVNFl4M0VIcXJCd0NCNUVvMFRBYWUwWGVKUnVjMExFTlg4QllaU1NMd21oTXhBeDlYaEtaT3c?oc=5",
+            "published": "2026-06-30T17:44:14+00:00",
+            "snippet": "ضغوط كبيرة على النظام الصحي في فنزويلا بعد الزلزالين Al Akhbar"
+          },
+          {
             "title": "المحكمة العليا ترفض طلب ترامب تقييد منح الجنسية للمولودين في الولايات المتحدة - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQMXk5OWtrU24zYkdYcmFVWUpHQXBqT3hvTk1EVktYOXRyZ09Gell2NGdrMHB0b1pmaWJIMHYtLTlMWHZZTk9zbUZ6VlRLbzJrNW1NNW9fVkpSR0pPbVU5YlJXcVR6R0poX1ZQWjZlT2JNUXdNdmU2Uk1qaWFjYm5jdUVCRm4yNFc5RmVkWFgxaG5La2VpenY5d3RzYmxETDZid18wTURNcW9ESFBfVzFiYUo3RzBZMnFsYnFBVzNFaUNGOU0zcDlROXJEalU4bUxQajkyb3ZZQ0VuWHVHWnRzdkdMOFJhWkFtbFk5ZDc1YURBTlhaNUVxMWs4VVhpdGgzcFJaYXllS0t5eENPOEFTOWoyZnZtUlp1SldvdndpUGU2bEQ3NmVpVkRxOGp0dzFmb3lrS3QzRTBzMENNYXNQTGlwVnc1NkZ2YzdKOWFKRThCclJ1Ry1CNzRMMkVzSHBjRWo2YzBWTm94cHljVUp3WFpDQ2E1WWpTQWo2b2tWZkJmLXNpeDBFT0VnOW9tNzRLUlhxRGVBeUpTYVZadUp3eWRJR0h0ZFhkaVZ3WTJVdE5nb25BaVViMUkxSGtXLVhkZy1VTGJyc2ZYajVZOUsyZWVSa3hfSlVmNERuUEhQUlVUR2FyVUN5SWF4NGFCMm1hdkEyVEJXOC14UUE?oc=5",
             "published": "2026-06-30T17:04:57+00:00",
@@ -460,16 +466,10 @@
             "snippet": "بزشكيان: الاتفاق مع واشنطن تمّ بتنسيق مع القائد الأعلى Al Akhbar"
           },
           {
-            "title": "محمد دايخ يخوض رهان الكليبات - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JTUhWRXlJYTk5R1lZSFVQdXhSOGpOdGFzeGhVOVBLV2p5ZUxNdU1KUFhxX3JldkVGOGs4X1Y2MW1jaHVmdDJjdnpYU2EzdWZPSm9BZFpQcDA?oc=5",
-            "published": "2026-06-30T05:08:15+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "إعادة هندسة السلطة: السيسي يحجّم نفوذ المخابرات - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNQlhOLU53Z1ZJY19DbjJEV1BGTGVsTGRCUjhvcENaNy14MHpvVE5VcmtZTzUyYUhxVV9KdGNXUzYya1NueXhQYjhvRGdIa005dkI5VXpRdEV3V1J3a0hweWg5a0FpU0FON25zbHJYMmVlNzhoWVFSenRTRlhiNW1jb1I1eU5XbTdfMXFUaHZVSVBQRVJidW9uV3huYXRpNWVSb09LRGVIQlhZejVRalZmRW84aUhzUS01NjFpSXE0ZmlJMGNvYzRNRm9QWkFXbFk3RDZ0QVNXckh2OTAyTFhMd2wwNVU0RDlJYm5RSC1wT0ktbzE2ZkRPMnlpa19VUGdYN3ZDZ3l6TDVUelpCazBqTjFUR00xdmF4MVZ4ZEppRmlKQjl5aGllLVR4cnJybWhqaFRZZkVSN0lxajVXWnV0OHNsXzd5QTMyajBZUHRUdDBCSG1ZT2V3azViT1lDUzdvcXJ2SnpIVm9Dc0ZDRzJqbW5wZkhLTkU5TWhjNGQ4TDVES3lOeG95NWhvMlFuYXdUbGt4djdpNmphU0Qzb2RvUGpvREYtMFpC?oc=5",
-            "published": "2026-06-29T21:30:00+00:00",
-            "snippet": "إعادة هندسة السلطة: السيسي يحجّم نفوذ المخابرات Al Akhbar"
+            "title": "محمد هنيدي ومنى زكي يلتقيان مجدداً - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCcVpzZGhDM1RwZ3lGMWNla2hwcjkzNFRvdHNtdUZWellrZHYyWkxoOUZaQVREYjZsbWlzVFREbS1paWV3RzdwVWlSdzhmd3ZTTkV3dGx4bGY?oc=5",
+            "published": "2026-06-30T06:56:00+00:00",
+            "snippet": "محمد هنيدي ومنى زكي يلتقيان مجدداً Al Akhbar"
           }
         ],
         "error": null
@@ -481,6 +481,24 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "تقرير مصور | وزير الصحة يتفقد مستشفيات الجنوب ويؤكد دعم القطاع الصحي",
+            "url": "https://www.almanar.com.lb/article/989637/",
+            "published": "2026-06-30T19:08:03+00:00",
+            "snippet": "جولة وزير الصحة العامة الدكتور ركان ناصر الدين على مستشفيات الجنوبتقرير علي شبيب"
+          },
+          {
+            "title": "قاليباف: تهدف المحادثات إلى تنفيذ البنود الخمسة لمذكرة التفاهم، ولن ندخل في مفاوضات حتى يتم تنفيذها",
+            "url": "https://www.almanar.com.lb/article/989647/",
+            "published": "2026-06-30T19:07:49+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "قاليباف: توجهنا إلى سويسرا لإجراء محادثات لتنفيذ البنود الخمسة لمذكرة التفاهم",
+            "url": "https://www.almanar.com.lb/article/989627/",
+            "published": "2026-06-30T19:04:53+00:00",
+            "snippet": ""
+          },
+          {
             "title": "رئيس مجلس الشورى الإيراني محمد باقر قاليباف: لقد تعهدت الولايات المتحدة في مذكرة التفاهم بأن تنتهي الحرب في لبنان، وأن تكون للبنان السيادة على أراضيه، ونحن نسعى إلى التنفيذ الحاسم لهذا الأمر",
             "url": "https://www.almanar.com.lb/article/989617/",
             "published": "2026-06-30T18:56:43+00:00",
@@ -491,24 +509,6 @@
             "url": "https://www.almanar.com.lb/article/989597/",
             "published": "2026-06-30T18:46:32+00:00",
             "snippet": "جال وزير الصحة العامة الدكتور ركان ناصر الدين على مستشفيات النبطية للاطلاع على أوضاعها وواقعها الاستشفائي والأضرار التي لحقت بها جراء العدوان الإسرائيلي، إضافة إلى الدعم والاحتياجات المطلوبة للمرحلة المقبلة."
-          },
-          {
-            "title": "مراسل المنار: العدو نفذ عملية تفجير وتمشيط في بيت ياحون جنوب لبنان",
-            "url": "https://www.almanar.com.lb/article/989582/",
-            "published": "2026-06-30T18:28:40+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "مجمع ناصر الطبي: ارتفاع عدد الشهداء إلى 3 إثر قصف إسرائيلي على مواصي مدينة خان يونس في غزة",
-            "url": "https://www.almanar.com.lb/article/989572/",
-            "published": "2026-06-30T18:24:53+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "استباحة متواصلة للسيادة اللبنانية… الاحتلال يصعّد خروقاته جنوبًا",
-            "url": "https://www.almanar.com.lb/article/989562/",
-            "published": "2026-06-30T18:17:13+00:00",
-            "snippet": "آخر التطورات من جنوب لبنان يطلعنا عليها مراسلنا سمر حاج علي."
           }
         ],
         "error": null
@@ -565,6 +565,12 @@
             "snippet": "بإشراف منظمة الصحة العالمية.. إجلاء 30 مريضًا من غزة عبر رفح paltoday.ps"
           },
           {
+            "title": "ألف يوم من الإبادة الإسرائيلية وهدنة تحت النار",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdjhURHRXMnIwVEdKQ3Jmcmd3enJ2c18zX3E1UWdlTUQ2VndPbzZFbWJIeVdPUE1IcHBPUkN0TFNXSnVuZlhBMHkwZXJ1V2p1cGdKaGdCWmlaWGZ1SS1MOTdvM3UwZ1NjRHVWbi1rS0ZZblJOX1BINExSUjFRSGtwVVdfUmlLMm9UNDV5eXVWUWRpcXV3Rkp3QXZFcUJDU19sTWJCSmRYeHd5dXpoNFJDUXJPTkJZU3B5TENqQUFwbGNlb3RxU1RiZDJ1VmxlRUJwLUFMVUxPWnF5bU1XYnc2QW5IdTF5eGtqVFZ4SGRDaDNRdkpGcWZpd3hEMjRmQkJfcGhZVElpNU9yMlpvcVlCcmVYNW1sbXZMZjN0bk00QXQ?oc=5",
+            "published": "2026-06-30T11:10:00+00:00",
+            "snippet": "ألف يوم من الإبادة الإسرائيلية وهدنة تحت النار paltoday.ps"
+          },
+          {
             "title": "وصول وفد حماس إلى القاهرة.. هذا ما سيبحثه؟",
             "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbG96dmhBMWFQQmNUTTE1U0N6V0NyeGM4NmZWbmV3bmNtUVhETUNncHpockdtcnI2STJmSVdHSkxKU240UnBDSU9KeW1SbW4yMGxfU2JXOUtTTnRxQXNDOU13UGxyYmFfbWJOSDNhWVk2amhVcUNqNkkzcjc2MXV4Qm1KLURmUmYxMU40MURYdWc4ZGY5TWJreGtXV0hpcGhXaG15NkVfNktYZmpuYnlQRWJjMzRaY3RhOFlGb0N1aGxVdXk0eG83LTBfUGlhbmNMTndhdkRYdHM2eXZwTE9kdWUtVGZsOF9qSGhYdUFuQ3pBVnNuWnNwRVdJZGpuWEUxQktvdVJPRVA3dkxxamxjTDNB?oc=5",
             "published": "2026-06-30T10:49:00+00:00",
@@ -577,16 +583,10 @@
             "snippet": "قرار بتسريح آلاف من جنود الاحتلال في غلاف غزة والضفة paltoday.ps"
           },
           {
-            "title": "مستوطنون يقتحمون باحات \"الأقصى\" بحماية مشددة من شرطة الاحتلال",
-            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY0xCTklpQndtU2lQM3M3eGtDV0g2LTdTdFQtVUpiVjM2d2s0Zm9kbkthdURWbXZXS2hNVmRha0ZzWjVSVktRNzNLYzRCS0tNLWs5MWFtU2tKZWEwc0o2SC1aaWZremRmXzZnUjFvTWV3NngtazJCSHNGWUJJMG84Um4tZlFfTU9tRGMwTXZBbE5td0lfSVppdTRRUjdJSkVBNVFsUG1IYjlTMU1mRk9vbkhjdmphTk83RDZVTVpSeWZSOHFGUmFxUnR0Q0VFVkxwbXJBMnpKeTRaZUp4bjM1V3hTanNwanR5U1MzV0YtUnBiVzlOakNCY2ljbjFIa04wN1JkZnBxeFE5Ump2bDRCdXBOQmQ4MUlUeGFvdHgwdw?oc=5",
-            "published": "2026-06-30T09:07:00+00:00",
-            "snippet": "مستوطنون يقتحمون باحات \"الأقصى\" بحماية مشددة من شرطة الاحتلال paltoday.ps"
-          },
-          {
-            "title": "الصليب الأحمر: جاهزون للبدء بزيارات الأسرى في المعتقلات \"الإسرائيلية\"",
-            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxObWhBOTFTaUZnWnJ0bk9mVXRLb0lTS3Bhd1lEZFMyOW5rd2F0RXRVMndDRTlGSzNVaW9QOU9La0lra2l6bU85RGgycXAxcFdpLUxSa0hLTWo4OWdlWkhJTy1BVnFSUFpEcFBqbDFDRnc5TVE2VnhDRTl3X2pRdDVSTTFJTFJyb05sMUdjMUh4QXUwRGxJbkMwNl9wQkJpZEkxcG9LemhSenRJWlVmc3llQW50T1hDOGU2YjJ3Y21aX296aFMzVHlfN2k2c1MzMjVpWkVmYkVOODJQbFpoVzZzUzFoVzR1Q1RBclJpc2s3dE1lRThVVGQyRWxwb1dPcDZHb0t0bzhHUTc1cHdRTlVybDhUQnpGWHNGVVhpSGNucGg?oc=5",
-            "published": "2026-06-30T09:01:00+00:00",
-            "snippet": "الصليب الأحمر: جاهزون للبدء بزيارات الأسرى في المعتقلات \"الإسرائيلية\" paltoday.ps"
+            "title": "نادي الأسير يدعو الصليب الأحمر إلى التحرك العاجل لاستئناف زيارة الأسرى",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUHpFbHRLN3RpQmc4bG5fNW1MSGk4VEgtdGJ3SEFKcnZuejJldmFnRE1UMUF6blpwWDRXa0hyRlhmMkhJc2NqMndwaDJnYkdnUDBBM2JucmJKVjJ1c3RieUVJUk1kMTBHekFmbll3NGJJeVlOWVotQVhhb2VlNDZkaWtqR3FLX1l5aHJ3YmNfZlRwMnNOTDFacDJoSHVQT3h6ekhkOHI1TUdNTFJQV3pGcWJxNEdqTE8tRkdFRVdiZXdFd2RUd3d6bElPZVpGcW5neUppNmRvdFJWbml5MkZkb1pocy1CakREcGlZMThtUE1ISVJTZHc0cVhJODk3Y0doMVVRRjVNQ2NrUGJMeFNtcnB3STJSWVpOTWQ2eWg1UDU?oc=5",
+            "published": "2026-06-30T10:00:00+00:00",
+            "snippet": "نادي الأسير يدعو الصليب الأحمر إلى التحرك العاجل لاستئناف زيارة الأسرى paltoday.ps"
           }
         ],
         "error": null
@@ -645,12 +645,6 @@
             "snippet": ""
           },
           {
-            "title": "US Supreme Court upholds birthright citizenship, strikes down Trump's order",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFhMUjMyenJ5SVhxRmhGdGpDWGR1Z1F2NElVUWU4VkhzYkxKQ0lXS3Y0a3BlRUtaV3ZVeDJEQzlvdXkyVDk5c1Z4V250bEpGbEFHcFc3b0NiM2prZG5Ocm9aSFdpLV9XZ1EtaUhoZzNMejJ4MUFlaElxWWc2ZnQzc2hTRXh1d2ZuVy1WSVNEM3JZT1V3UkR6el9Fc1VVOTlJNHl0Qk5idUxYOW1nUmNWeVd0c9IBxgFBVV95cUxPTVZtazczbHZLTEdOLWRGU25hUUo3UHRIb0VKSUpOaXpaMS1vV1ZkZ2ZNX3hiakRzR0Ezc0xEQ3VqTU92NU1tVkQtS2psOVlOM1NhRzNXWjY2OXBYN200YWh1NHlMT3lvdEJjdjJ4cmdDZ2V2SldVcHFyRjgxNnpQdHc3SDVJTGhNcEsybXotMHhwQndZWDN5MEtWM3pCUXdJUmpMUFdPVXYwT1k4M3NtMGViYU40WGRkSlRWZE54M3Q3RlgxY3c?oc=5",
-            "published": "2026-06-30T15:08:25+00:00",
-            "snippet": "US Supreme Court upholds birthright citizenship, strikes down Trump's order Gulf News"
-          },
-          {
             "title": "Saudi Arabia extends work permit adjustment deadline until year-end",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkpKZ21wa1ZOeGdwYVNWcm8zcnM5dVhmaWJxSGJjbnN3MDBYem5sRzdJMG5tUVBfdHRNY2otS1lXMk1oM0prX2UySUcxN0FkeEdUWTdxYU15NDBHTUtabUNvRUZOakg4NDExZ2otcTdyLTkwNFAtaGxBRlptVkduVXl5NUxvZnBVOTNSdzI3a2hTbTdtTXpjVzQyTjQtZjdDbHRoZ3ZDYzMxR0FBLWVOOE54TUc2UGdJ0gHOAUFVX3lxTE54ZDViMkJCQTJOWHVlQWttMi1jLThuc0QxY3RYSDBOXzgwM0tCWC1MN3NfdHVCV211TDRQZDFIZXpCYi1oN3RZYnQwN3BudGxwTTBKajBXVlJFNlphZmRRWjNfRU5STUVYX29jNE5LNmxzd3oyVVRxdDczTTFqb1dUUWJfVDdwNm5mbEZVdHRBVVlSclpLLW5yN2phV09mSjlMRkQ5Rl93aTRiT1YzR3lraG5wclB6WU1zNEx0S1AzVlVFTUIxc0pvaUlERXlB?oc=5",
             "published": "2026-06-30T09:29:19+00:00",
@@ -667,6 +661,12 @@
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1N0UkgzMTVJdExqTzhwbGxUQWZKN1ZkbDJsV09hLWFYY3JQcGpxWk1oN0xOWlZzdk52aGpiNE1Rbjh0NV9mc3VXNE16Y21wSklCWm5CVlhGQ3FwMXhLbkU5UjhrZERRdEZjZzZzOGNOLXRqaXdnaHRvdEs1V0dzN3g4c1JwZk1uakhFM29GSGw4UEduRmMyRHZnbVZlNnoxNjFoWQ?oc=5",
             "published": "2026-06-30T08:24:05+00:00",
             "snippet": "Exclusive Commercial Mall for Lease | Dubai Investment Park 2 (DIP 2) Gulf News"
+          },
+          {
+            "title": "UAE petrol, diesel prices for July 2026 announced",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3VLRXBPYTZrc3V6a3BkeWdKMUZLR3NLQjZHOF9uYU1KSHNoaHlOVUo0eDBnOTJsSlE4eldzOWc1OWJSdDlIamR2ajV5RzR0NzVKRTVMWVJlNWVDdl8wLVR5TkJaZXBlWUZnSm5XYWFDUjBpWXBuWE85RlFLOG05OFdPbDZMUmd0QmZJOU1zdE1oNHdncWducnIyMnZfQdIBsAFBVV95cUxOa3dLeXVhZUplcHJrSU9Td0hMak9ZWmRxSlotWHpRdXVYQm42cTdJTm80b2d2MUdwek5KSGU0aU5XM3lTM3hHWm8wcF9hSzlYUWZ4blhmcS1kWUtaZEMyRmJqWHQyYzBKNWp1Q3JMZ3BDVXpwWWc2ajhxUkFkWGFyRjY3YWlYRURyZkk0V2tfYVRGSnM1eTJQTW5SN1FMS25xbzh2bzNiODBQT0VXb25rZQ?oc=5",
+            "published": "2026-06-30T06:02:03+00:00",
+            "snippet": "UAE petrol, diesel prices for July 2026 announced Gulf News"
           }
         ],
         "error": null
@@ -679,6 +679,18 @@
         "lang": "en",
         "url": "https://www.aa.com.tr/en",
         "headlines": [
+          {
+            "title": "Türkiye says UN agency for Palestinian refugees facing ‘unprecedented political pressure’",
+            "url": "https://www.aa.com.tr/en/world/turkiye-says-un-agency-for-palestinian-refugees-facing-unprecedented-political-pressure-/3982670",
+            "published": "2026-06-30T19:25:29+00:00",
+            "snippet": "‘For over 75 years, UNRWA has remained an indispensable pillar of stability, dignity and hope,’ Ahmet Yildiz says"
+          },
+          {
+            "title": "China’s top diplomat stresses US-Iran talks in meeting with Saudi counterpart",
+            "url": "https://www.aa.com.tr/en/asia-pacific/china-s-top-diplomat-stresses-us-iran-talks-in-meeting-with-saudi-counterpart/3982669",
+            "published": "2026-06-30T19:22:46+00:00",
+            "snippet": "Wang Yi hosts Saudi Foreign Minister Prince Faisal bin Farhan in Beijing"
+          },
           {
             "title": "Canada to deepen trade, defense ties with NATO allies, Saudi Arabia",
             "url": "https://www.aa.com.tr/en/americas/canada-to-deepen-trade-defense-ties-with-nato-allies-saudi-arabia/3982646",
@@ -696,18 +708,6 @@
             "url": "https://www.aa.com.tr/en/americas/death-toll-from-venezuela-earthquakes-climbs-to-1-943-top-lawmaker/3982633",
             "published": "2026-06-30T18:26:45+00:00",
             "snippet": "10,571 people have been injured, Jorge Rodriguez says"
-          },
-          {
-            "title": "Yemeni forces seize shipment of drone, boat materials in Bab al-Mandab",
-            "url": "https://www.aa.com.tr/en/middle-east/yemeni-forces-seize-shipment-of-drone-boat-materials-in-bab-al-mandab/3982623",
-            "published": "2026-06-30T18:15:34+00:00",
-            "snippet": "Pro-government forces intercept ship while attempting to sail toward Yemen's western coast"
-          },
-          {
-            "title": "2 Palestinians killed, 19 injured in Israeli airstrikes in Gaza despite ceasefire",
-            "url": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-19-injured-in-israeli-airstrikes-in-gaza-despite-ceasefire/3982607",
-            "published": "2026-06-30T17:49:39+00:00",
-            "snippet": "Israeli strikes targeted areas outside Israeli military control in Gaza, witnesses say"
           }
         ],
         "error": null
@@ -725,28 +725,28 @@
             "snippet": "Türkiye prepared for all scenarios: President Erdoğan | Daily Sabah Daily Sabah"
           },
           {
+            "title": "German intelligence warns of rising threats from Russia, China, extremists",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGR3TUZ3NUZxUWZGTkZQdUlEdjZLdndFVmRWaVlKbzNfaUs0bVFTTmJIcW5saHA2UnN4dWkzQ2VwdFlfU2RWSTU4MUtMXzBSQmxjMEVURTFPWWc3aFJyd2pyY0RaYWNUQjlRSTZKQ0RiTVdRcExQaEFtRXBlcC1xcGFSQ2dRRVh6VExrdFV4ZlZtSHYtYWRQbHBJZXZzdkhpTndTQUVzRXFWUzRuVDduaFhR0gG3AUFVX3lxTE1XVm52N3d0bzZrWTZyNS1nZFRhbGpIRU5PaU9IQjNCYldxdHRxNkFXY0N2RUZ4MGgxUHIwQVF6Rm9EYmFNZERwMFpzNUNUUXdwbDl5emozRkR4WHgxZnRlLTZYeUJhakl3M2pfZkhGR2s3QkpNZjV3SklTS2laRlBBOVAxQzlxMVdxMjU2cDZETVZKMmxjUnBGRTV5S3JnN1pIMEU4a25oVGpnZG1EbXYtT2swYjZOdw?oc=5",
+            "published": "2026-06-30T14:36:00+00:00",
+            "snippet": "German intelligence warns of rising threats from Russia, China, extremists | Daily Sabah Daily Sabah"
+          },
+          {
+            "title": "S. Syrian town of Abdin mounts resistance against Israeli invaders",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3diSkxBbzUwY2xaS0YxSUx3VXk2d2hPNDJDNTAtTG5haGZoeWpPbzg0bnhPZU9ONk5xejdVTjhTUzdtVjVwenAxaERFejJXc3RXRDRUWVMtSmpaS21PaGZkV2dVckh4OEhqVjBJTm5oN3ZIM1V3SEZwSlJOUl9Pb2RHQkZYcHJMYWt5alloLWl1RGtTN1g0VkVKNVlmQ2pMdHRTNTNGR3RXRnfSAbABQVVfeXFMUEV1WTZvam11TC1XYXdQUGtBd1F3Z2dwRG9aaDRaOEJHX1pHdDRhODZ5a0o5RlFXbDZWbUFfamxvQ3hWbXl0U3QtOUZxRElwSThsM0hVRXZwd0RfcmlGamllY0tVa3RnRnlFRzBzNk9DNGpVbC0yTDBLVFlaT05PVlhTUkl3LUxSaFlSaVhSb3owVHk0NWIwOU9ReU1MbnljSGF0S2g1NGxIcXZsUTd0RlM?oc=5",
+            "published": "2026-06-30T12:10:00+00:00",
+            "snippet": "S. Syrian town of Abdin mounts resistance against Israeli invaders | Daily Sabah Daily Sabah"
+          },
+          {
             "title": "Lewandowski set for MLS move to Chicago Fire on 2-year deal",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUtBZGVYdktsQ2lRdlAyYVczUXFjR2RVQjg5Z3BVbDBQREVrbnhycmxDVnRZRXJ2WjEyTzkxdkhNUFktRDFBekFmNGphWEQzWjhjbjY0Y08zSUJWVFROcHkwUklnWTBfcWtYdVhaci1RdVozTWE4WmxMeW5SUDRla0hBRldUOUtOY3JhMU9RWjdocHRmblN2bElnODB6azk3bWd3N9IBqgFBVV95cUxNQXFJdXM3LUdINjVNX2MyaWRqRl9JSHFCUVRmNTJ1M04wUlZqb09Md2R3VkFubnZIV3k2YmVneklJT1Rwam1WZG1iOVA4Y3hLc0FzOW84MFd3TGlJUElHQTRHSzFqRFJSYS1JMlVhaHY1OURMbng5UGZGZlloUUNLbjQwZnhwcGFvanhYVnNQQlJ0N2tlZXdYSGlrQ0RWVDh3WUNNUEdKRnFfUQ?oc=5",
             "published": "2026-06-30T08:29:00+00:00",
             "snippet": "Lewandowski set for MLS move to Chicago Fire on 2-year deal | Daily Sabah Daily Sabah"
           },
           {
-            "title": "Adani Group to sell stake in Indian port to giant MSC for $1.4B",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUFiVDRYNF9GejN1MzVBYUxOd0poTDQ4YnZ0YzZHMDdPdmhWX0dlUk01RmV6R3lrSnVGN09HcjhfdmU4RXRXNEZmQVM1OC05a296OEtic3M0QnBGa1BQbUR6OC1rZHhMUVFBWmJFZkIyTzFocGl5STFqd055cWlpX1pLTmEzelhobnRHUDc5QnJ0cE1iaHl5WEJyX3pxSHJpaHlaZ0Z0UHXSAa4BQVVfeXFMTUVHZzl6TU9qOFZyckY0R2NTa25kOTZKSG9aOHQwYmR3TXQwNVl1eGV4N3lGQVFwakFxV2p4XzY3OGd1OG5Tc3UtU2xaQlZ0ZWRDN0I4OTRZVmg1ejdZTlNodU0wb3QwYTdwMF80cDFmdWNVVXpTRU5MQVJfSjB5aktYb2NodFVNWGQtcmtXcVZKVURUczMtaldYYWlfTGpiS0ppeHNlQTRNWEh2eE1B?oc=5",
-            "published": "2026-06-30T07:05:00+00:00",
-            "snippet": "Adani Group to sell stake in Indian port to giant MSC for $1.4B | Daily Sabah Daily Sabah"
-          },
-          {
-            "title": "Rubio, Saddam Haftar discuss efforts to reunify Libya",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOG5ZbVpOOUhIWGdYSkxnQjZQQWhwNWtYbGwtbkhuRGJQbkVmQVlBMklKOGo1VC0ycHY5aDcybndVVzc2alM4RzY3NzdpMGNYRnpMYW9xUVBRY0QzRENJQzRzZmNaMEhoNUVuMzFUSGdXX0Zvb1FPN1RQdTJQQTNQYkFUUWdWR29PNThKOFlfcGNWZmIwZXAw0gGcAUFVX3lxTE1PRjM3TEEyQVJfY3IwY0xRdGlXVlU4VklwMGFtTXBIaExPZHdpbU1vV2VzN2wyNWxIbXQwNFJpaVJyQUUyTmprRmVzU0k1bUlRX0VMM3hDQXRpdkpkQ3lvS3A5VFJsdUs4ZUJ2WGhLUVhPa05FVXhDTEtfZFN3aWVZdi1lUUNOejlkR3ZEZFBhbm5JVTNLLVlZSi1uaA?oc=5",
-            "published": "2026-06-29T21:26:00+00:00",
-            "snippet": "Rubio, Saddam Haftar discuss efforts to reunify Libya | Daily Sabah Daily Sabah"
-          },
-          {
-            "title": "Blood on their hands: Katz, minister of collective punishment",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTNBdFNIZFVDYXNKN1VJb1l6OTlCYkhnMU9ZdnFHX0JWVDAyOHVwQkZ1eG9waGZiT255QjJqMVJJVHBHVmFUWTN2UWhTaEM1SXZMUzZqdlFFSVZpSFJWU2dMMkRKUUROZC1aajJkM2dZN3NtR3g3NE00TGZaRUJjT2JHY2VRXzlCbVVISlpvdWU2SlowVFQzOEZ0alhoNzRQZ0HSAacBQVVfeXFMUFg4SWVOX1lWQjZIRFpSck5NdTdSbHFfdi1DNUg2ckgtNnpQazB4dkVXeE1vZmJaRHd1aFhzR2JweHBTMWtScGl2YkFiLXBSNTRLeE1nUm9XVzlnZU9Nd0JZUTJ0djl1X3FkZ0NoRlB2MEpQUFNpNVNvLS1pVklxZmFZS25SWldrVk5HaFotQU9BUThUWjM5SGlzcFlDRzlqMmJqN1ZLeUE?oc=5",
-            "published": "2026-06-29T21:05:00+00:00",
-            "snippet": "Blood on their hands: Katz, minister of collective punishment | Daily Sabah Daily Sabah"
+            "title": "Belgium seek stability, Senegal carry African hopes into last 32",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPME1PT1VycWctYms0Z0stQ0pqX0JjaGUwNjNUWWxLZV94VlVzaHlIY29uRENNVXFSV0EtUFJGYUVvbFdkTlJQTmQwdGdxdWJkMmtSQUtiVmpQTVFiMUhXdS1fczdqRXRFaWFKZjZzV2Q1b3hiLTh0b1JReHIxSDU0UktkdkpPRGYwT0Y3VHhKUndRNnllUFRBc1N6bTJsQ3l0M0NDRHZ5aDFoZ9IBrwFBVV95cUxQUW9DNC00by1yY3dySnY0cXF6c203VlNpRDVVU3NxM1BIS0hqVW45cElOZ0g1WVB1WjNBZE1xc3NmQ205UTlXYkZvTlhleDY4WEFRSVZ6Ykd5cmZXZXZoQTdrb3o2bmliaUs1bGs0MHAyalpHU3JWbjBpbjlsbDNic0J2Qm4tRTNZMUtsemdtbFlyWDZqSW1yTnJ4djBGMTYzYTRoZ3p2c3RlTWFwcWlB?oc=5",
+            "published": "2026-06-30T08:10:00+00:00",
+            "snippet": "Belgium seek stability, Senegal carry African hopes into last 32 | Daily Sabah Daily Sabah"
           }
         ],
         "error": null
@@ -782,10 +782,10 @@
             "snippet": "Armenia opposes ‘weaponization’ of 1915 events after Israeli move Hürriyet Daily News"
           },
           {
-            "title": "World Bank drops climate finance targets in renewed action plan",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlJNdXdzZDFOamg0NlRrcktXdVBEamFVbkhiVnU3Rk1EN3VQM1Awc2xMVFRjTmJUd0YxNEswZlBxVlA0Y1Blc21jTC1fc2dlZEFkN1JFZzI1NnlDRkRhS182cy1NV3RtZ2RCQm1iMlZ4ZzJWMlRsTVlHRWF6eFJpX3hkYmU2WVl0STVtUUtsRkhEdER0bnU0UnNRNVJ0b2JnLWFDUkl5TElIS2lv?oc=5",
-            "published": "2026-06-30T03:40:00+00:00",
-            "snippet": "World Bank drops climate finance targets in renewed action plan Hürriyet Daily News"
+            "title": "What to expect as EU small parcel levy kicks in",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjRtZzhmR1hIUXRWaVBScDdOTWpYdDF5ZkxieERIXzN1R0locDFVUmRNN1RMcXdacC1xWDlmaWtwX2o3SGhrSUQxMGVnaDkzN1M3Ry01Y0tzQjdWbkFlemg1cjg0S1AzdkxDVm41TUpBLUVrOTU3bjFERHJraDdMVzdxNmlsUW5fY0FKbVBCNjhaZw?oc=5",
+            "published": "2026-06-30T03:35:08+00:00",
+            "snippet": "What to expect as EU small parcel levy kicks in Hürriyet Daily News"
           }
         ],
         "error": null
