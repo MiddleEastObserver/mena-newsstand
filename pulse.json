@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T23:58:36.618458+00:00",
-  "total_headlines": 133,
+  "updated": "2026-06-30T00:27:56.331618+00:00",
+  "total_headlines": 134,
   "terms": [
     {
       "term": "World Cup",
-      "count": 25,
+      "count": 27,
       "headlines": [
         {
           "title": "Paraguay shock Germany in shootout win for one of all-time World Cup upsets",
@@ -130,17 +130,11 @@
     },
     {
       "term": "Israeli",
-      "count": 14,
+      "count": 12,
       "headlines": [
         {
           "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -181,12 +175,6 @@
           "region": "Iran"
         },
         {
-          "title": "Israeli forces kill Palestinian teen in West Bank",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXVSVHlyRmR0NW4wbW8ybjBZWW52NFg5Tm5PZTdyM0VjVU9sZTRRYjA3eHdoQzVuNUJsNXIzZm1FQ0tLOGxxRGFrakdLdDMwVnlsVVlsSE9naTgwbEdlYll4dUk4VDNLbkVOQ1ZHVExiazREaVhMQ2hqSmhlQzN0OHdYZFBWLXZYdGlqSGZB?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
           "title": "Syria slams Israeli incursions after violence in south",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmp1d01obUFzbHBYRHpxYXRjX3NWSV92UFZMVU9IOFYwWVhQSFdLS21JaEUtdkpYTk9ZT1BZb2s0QmVaWmJvbzhQOGUxR0tWRk5ZemNkYy12Y2ZWalJWVEp5OWVNZXRkcXhHak5PLUlIRVcxaGdScWtSejdCS2VrUjA0bWtHWmdyQzR6TXEzV0RYZGlL?oc=5",
           "source": "Jordan Times",
@@ -215,6 +203,114 @@
           "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWGJuQS1qS0NPdjB2ZUJ0VnlpZGUxLVpTVFlsRDZOckoyLXRkdFZSd0tqeUVhWnEwNTFMS19oNlBsaHVmV2I2WjVmMWRyUWZMdTBIU1dPWXhRb0J5LVQ3dEtHYnJhZTU0MEFpU2pVVWNFY0dBWmM4dWJnV2lIaGwzb0lORTBaUmVybzhTTXZrRDhHYl95dXZUd2tPWFo2ZHZjbWUxbmVGVGVobkZiSXptZHFrMVpMcTNvSVhTQ1RwQ2RFRXYtT0pJdkhGenBNWGp5cDVPdndOX2EtRFdnUTFFdUR6djYwY3pGMW90QXZmay1zOG41V2wwT0FWeEV1al9QZGU0QlBwRjdxTloxSUp5bXpRS2VibVhLaGc?oc=5",
           "source": "Falastin al-Youm",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Trump",
+      "count": 9,
+      "headlines": [
+        {
+          "title": "Iran war live: Tehran denies Trump’s claims of meeting in Doha",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Talks with Iran could fail and diplomacy may not succeed, Rubio tells Congress",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/talks-iran-could-fail-and-diplomacy-may-not-succeed-rubio-tells-congress",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump Says Iran Meeting ‘Perhaps Important’",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlZxLUVOY0NGZFBiSzVTUkNpaE5CRXRHS202U1MtS0gyT3NScmh4RndmclI2eTRMTUg1MXpzUHRwNGhfclkzTEZ5bTFkWFhGazNHV0FIcXozdnJsTmdTNFZzZUs3WFEyTWRsancyVy1Qd1NoaFgweHJRMkhPNXFYWTFQc1JUNGhjdFFXVE45dXkwaEoxd3ZUNDJTTlgyMG9M0gGgAUFVX3lxTE4yVnEtRU5jQ0ZkUGJLNVNSQ2loTkJFdEdLbTZTUy1LSDJPc1JyaHhGd2ZyUjZ5NExNSDUxenNQdHA0aF9yWTNMRnltMWRYWEZrM0dXQUhxejN2cmxOZ1M0VnNlSzdYUTJNZGxqdzJXLVB3U2hoWDB4clEySE81cVhZMVBzUlQ0aGN0UVdUTjl1eTBoSjF3dlQ0MlNOWDIwb0w?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
+          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump says Iran requested meeting in Doha - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oYkdFUjhrU2NwSHl1ZVl5bWdVV29ncW8zc0diN3d2eWdxY2UzOVNxTFpES1RhQTF3S1RmWnlwa3FiYlpKNUkxa0hnZzRLVE9mMXc?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "Trump’s biggest challenge on Iran may well be the US Congress",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVJqQ3JvRjdUQUVaR3R2dG11YUZpQ1pKSnI5eFZJdm1Jc3NWZG1oXzRpNThQaGE3Y3VlaktDSnZrekNVaThjUkNNOHpqYmI3bThUUHdmelhkcUl4UF83c3NXeTdlZ0Fub0F3cmV3TmVGT1FjWkJnMk5HaUtKeDFGaGpWTFQ5eHV4aDRCLXNHcHFubUVtZ0lXa3Uza0RXYzhuR3VqM0VrdlEwUkpXZ0M5Z3NsWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "This anti-AI evangelist is growing more popular. That could be a problem for Trump",
+          "url": "https://www.egyptindependent.com/this-anti-ai-evangelist-is-growing-more-popular-that-could-be-a-problem-for-trump/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Trump nominates Keith Sonderling for Labor secretary",
+          "url": "https://www.aa.com.tr/en/americas/trump-nominates-keith-sonderling-for-labor-secretary/3981778",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Trump says Reflecting Pool 'in full operation,' promises repairs after Independence Day holiday",
+          "url": "https://www.aa.com.tr/en/americas/trump-says-reflecting-pool-in-full-operation-promises-repairs-after-independence-day-holiday/3981773",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "talks",
+      "count": 7,
+      "headlines": [
+        {
+          "title": "Iran war live: Tehran denies Trump’s claims of meeting in Doha",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Talks with Iran could fail and diplomacy may not succeed, Rubio tells Congress",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/talks-iran-could-fail-and-diplomacy-may-not-succeed-rubio-tells-congress",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says no talks with US scheduled in coming days",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmJ2VzhFR0dSaGpHZDFKVFJuWGcxeXVja1Q4N0t3aUNLajNBc1hvZ2xLMjhKSko4MGVpaVcyYzQ0ZnJpMklRc3o3ZFZPMEJwVW1paEIzTGZtaUhVRmlnUE9FdlJ6WUJvUWtPNDJKU0hnOGw4R01LRlMxdXAyR20yWnJFaXBKUnAxRkFpV29aNm40bk84Nkx0Y0RBbjBycjVIRmlZSmc1ZWZWeFlmY0xTTDBrTdIBswFBVV95cUxOdmJ2VzhFR0dSaGpHZDFKVFJuWGcxeXVja1Q4N0t3aUNLajNBc1hvZ2xLMjhKSko4MGVpaVcyYzQ0ZnJpMklRc3o3ZFZPMEJwVW1paEIzTGZtaUhVRmlnUE9FdlJ6WUJvUWtPNDJKU0hnOGw4R01LRlMxdXAyR20yWnJFaXBKUnAxRkFpV29aNm40bk84Nkx0Y0RBbjBycjVIRmlZSmc1ZWZWeFlmY0xTTDBrTQ?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
+          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says no technical talks with US planned in Doha this week",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFZlSEI0NGQwNENrMDRya0ZJVlpEZ0FfLVdrdEdocm5YQTJuVFVqY3ZveDVwN1RSRnE5dGJsNzMtV0puOFJQU3VsQU9IVjhJYkFCd2dZWC0yMXp0MUpXZ1pRSnJ2UnBTS3hhMW1QbkxLWWktenNQNVRKaUFtbklmLVU5MnhyS2c4bjFXcGxpenB0VjIxaFRramxBa9IBR0FVX3lxTE9uQ2pUQll2X3hxaHpjMXctZ1lLMjdrLTc3cnUybGhleVVUZkhXMDNuTElqWDRnZG9OR1VFZUdSRC1XY0xPcE1j?oc=5",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran official says ‘no plan’ for direct US talks this week",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnpzajBwNU8wRHYwTFhtdGJweUtDV0dONHdXSnhaYUtjMHhxc2xqVVliNFlnMEdFSjgtV2NISDZGMzVLemlHN3NUMXVSSW14VHRhemNBeUxpbE1jSkY5RndrNEVEb2dvSndERS04MmdVeThld0JubEpNRm9ZcExOYzMzQ0UyQmhEWDNzNU1xbnRDeGdMeHFN?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Top EU officials to visit Türkiye for talks on security, trade",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzNYWlQ3WWhnS2ctR3M4VFJUY3JacUZ1REExV1JwSWh3SG1TOXR0SzRXVjJtNmZHaC0xZWNZdFd6SEhzYzR6Y2NlNEpvTG5PVWVFazVFYWdUZVhmZTFGcFVNOVh2cHV3b3NtYUptbFhhMU9USE0xRjk0d1djQi1HNHpkYk1ONEVSOXYySnUwX3c4ZVlRSGtlN0owcWJVOFg0NkQ1X3VTS3Mtbi1H0gGyAUFVX3lxTE5RdGR0SXNFMUR6Mm9fOFJZR1dTdS1qZURRcy11STA1bmtwdjJiYU51X3lnWGIyUEhZaGRSQk5mUDFqakZEY3p6dUFOLTVlZDBmS3pKQmlPZk9yOUs4R1ZfR0FBT3lvaGxlT21NQ3h6cl9kLWdwdUZfb0V6bXJnNEtCSVduQ1ZCTUJ3VGR3cXRvblhnTGVRNjc0eXV4YmwteUxMYUVZVk5OZnpEaHh5bkZPMFE?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
         }
       ]
     },
@@ -267,19 +363,13 @@
       ]
     },
     {
-      "term": "talks",
-      "count": 6,
+      "term": "Doha",
+      "count": 5,
       "headlines": [
         {
-          "title": "Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis",
-          "url": "https://www.aljazeera.com/news/2026/6/29/marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisis?traffic_source=rss",
+          "title": "Iran war live: Tehran denies Trump’s claims of meeting in Doha",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
           "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran says no talks with US scheduled in coming days",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmJ2VzhFR0dSaGpHZDFKVFJuWGcxeXVja1Q4N0t3aUNLajNBc1hvZ2xLMjhKSko4MGVpaVcyYzQ0ZnJpMklRc3o3ZFZPMEJwVW1paEIzTGZtaUhVRmlnUE9FdlJ6WUJvUWtPNDJKU0hnOGw4R01LRlMxdXAyR20yWnJFaXBKUnAxRkFpV29aNm40bk84Nkx0Y0RBbjBycjVIRmlZSmc1ZWZWeFlmY0xTTDBrTdIBswFBVV95cUxOdmJ2VzhFR0dSaGpHZDFKVFJuWGcxeXVja1Q4N0t3aUNLajNBc1hvZ2xLMjhKSko4MGVpaVcyYzQ0ZnJpMklRc3o3ZFZPMEJwVW1paEIzTGZtaUhVRmlnUE9FdlJ6WUJvUWtPNDJKU0hnOGw4R01LRlMxdXAyR20yWnJFaXBKUnAxRkFpV29aNm40bk84Nkx0Y0RBbjBycjVIRmlZSmc1ZWZWeFlmY0xTTDBrTQ?oc=5",
-          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -295,172 +385,16 @@
           "region": "Iran"
         },
         {
-          "title": "Iran official says ‘no plan’ for direct US talks this week",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnpzajBwNU8wRHYwTFhtdGJweUtDV0dONHdXSnhaYUtjMHhxc2xqVVliNFlnMEdFSjgtV2NISDZGMzVLemlHN3NUMXVSSW14VHRhemNBeUxpbE1jSkY5RndrNEVEb2dvSndERS04MmdVeThld0JubEpNRm9ZcExOYzMzQ0UyQmhEWDNzNU1xbnRDeGdMeHFN?oc=5",
-          "source": "Mehr News",
+          "title": "Witkoff, Kushner to join Iran meeting in Doha - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUYVlCdFYwM3p4SGZJcFpHRWJmbERNdVlDVjRWelFUQnotd1h6UTVSX0JnbHlfM1VORGRXS3V4Y0pxQTlLWEUyWk50dkJSTWlSQnc?oc=5",
+          "source": "Iran International",
           "region": "Iran"
-        },
-        {
-          "title": "Top EU officials to visit Türkiye for talks on security, trade",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzNYWlQ3WWhnS2ctR3M4VFJUY3JacUZ1REExV1JwSWh3SG1TOXR0SzRXVjJtNmZHaC0xZWNZdFd6SEhzYzR6Y2NlNEpvTG5PVWVFazVFYWdUZVhmZTFGcFVNOVh2cHV3b3NtYUptbFhhMU9USE0xRjk0d1djQi1HNHpkYk1ONEVSOXYySnUwX3c4ZVlRSGtlN0owcWJVOFg0NkQ1X3VTS3Mtbi1H0gGyAUFVX3lxTE5RdGR0SXNFMUR6Mm9fOFJZR1dTdS1qZURRcy11STA1bmtwdjJiYU51X3lnWGIyUEhZaGRSQk5mUDFqakZEY3p6dUFOLTVlZDBmS3pKQmlPZk9yOUs4R1ZfR0FBT3lvaGxlT21NQ3h6cl9kLWdwdUZfb0V6bXJnNEtCSVduQ1ZCTUJ3VGR3cXRvblhnTGVRNjc0eXV4YmwteUxMYUVZVk5OZnpEaHh5bkZPMFE?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Iraq",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "What’s behind the anti-corruption crackdown in Iraq?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraq judiciary seizes over $14 million in anti-graft campaign",
-          "url": "https://www.newarab.com/news/iraq-judiciary-seizes-over-14-million-anti-graft-campaign",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PS3hzTzhpdWhrbVZMZkJNOTJ3SHA4czE1dFRtcDZrblEybDY3RDFoZ3pqOTZoaXVmMEk4Tk5yd1VDNTY3bkktOUpYSE4zVC0tZ240?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Iraq to widen corruption operations after arrests",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHBZYmVtcVJjSEJucEVzd0duc0RSUFE3R1dhRmhIa2RaWUdkYm5nbmt4R21fLUJNUmctcDVfWG1rWUU0ZTg0blhxa0lUekpzNmtrMDRER2EybmRleEJCV3JiVTAzenRpMnFyVTU0N25MMmVHT092ZkxSSFhvTURmM05ocmExa3VSZ1c3X2RSSDdxZjYt?oc=5",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
-        },
-        {
-          "title": "Iraqi top diplomat visits Syria in first post-Assad trip to deepen cooperation",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EMmRpeDIzM0x6NzNXdEg2c29sb1V3RjYyZ2pYcWhCTDRHZXRRVzhjVmdHNHE3Y0xLRjRJMnRXX3Y0S2tfZTE0cWllbU5hd2gzbmxubEdpTmk?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "Iraq to probe World Cup failure, map overhaul following no wins",
-          "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
-          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
         },
         {
           "title": "Trump says Iran requested meeting in Doha - ایران اینترنشنال",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oYkdFUjhrU2NwSHl1ZVl5bWdVV29ncW8zc0diN3d2eWdxY2UzOVNxTFpES1RhQTF3S1RmWnlwa3FiYlpKNUkxa0hnZzRLVE9mMXc?oc=5",
           "source": "Iran International",
           "region": "Iran"
-        },
-        {
-          "title": "Trump’s biggest challenge on Iran may well be the US Congress",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVJqQ3JvRjdUQUVaR3R2dG11YUZpQ1pKSnI5eFZJdm1Jc3NWZG1oXzRpNThQaGE3Y3VlaktDSnZrekNVaThjUkNNOHpqYmI3bThUUHdmelhkcUl4UF83c3NXeTdlZ0Fub0F3cmV3TmVGT1FjWkJnMk5HaUtKeDFGaGpWTFQ5eHV4aDRCLXNHcHFubUVtZ0lXa3Uza0RXYzhuR3VqM0VrdlEwUkpXZ0M5Z3NsWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "This anti-AI evangelist is growing more popular. That could be a problem for Trump",
-          "url": "https://www.egyptindependent.com/this-anti-ai-evangelist-is-growing-more-popular-that-could-be-a-problem-for-trump/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump nominates Keith Sonderling for Labor secretary",
-          "url": "https://www.aa.com.tr/en/americas/trump-nominates-keith-sonderling-for-labor-secretary/3981778",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Trump says Reflecting Pool 'in full operation,' promises repairs after Independence Day holiday",
-          "url": "https://www.aa.com.tr/en/americas/trump-says-reflecting-pool-in-full-operation-promises-repairs-after-independence-day-holiday/3981773",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Violence continues in Gaza and West Bank, UN warns",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/violence-continues-gaza-and-west-bank-un-warns",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "CPJ board member removed as it undertakes review of journalists killed in Gaza",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cpj-board-member-removed-it-undertakes-review-journalists-killed-gaza",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel kills five in Gaza as drone strikes hit civilians",
-          "url": "https://www.newarab.com/news/israel-kills-five-gaza-drone-strikes-hit-civilians",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "UN official: Gaza still faces profound uncertainty and immense human suffering - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtX0M0ZzdXczBJSHlZMGxyS21HY3BISDFYdzdNYlFpR29fb2NsUzBQYXpETVJCdmhXY1p1cGQ5b2JzNW5ua3pId3pldXlVZlc4MUVkT1d4cw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Israel",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli court says comptroller overstepped authority in 7 Oct attack probes",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-says-comptroller-overstepped-authority-7-oct-attack-probes",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel kills five in Gaza as drone strikes hit civilians",
-          "url": "https://www.newarab.com/news/israel-kills-five-gaza-drone-strikes-hit-civilians",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Jeffries says US House Democrats to meet Tuesday to discuss Israel aid ahead of expected floor discussion",
-          "url": "https://www.aa.com.tr/en/americas/jeffries-says-us-house-democrats-to-meet-tuesday-to-discuss-israel-aid-ahead-of-expected-floor-discussion/3981772",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Türkiye condemns Israel's strikes in Syria, urges global action",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnN6MjVhQTBnSmJZeV9yUGw2dWh0d1FVNnh5a1d1WnlnNm8ta003TGg2SEl2TXowQzBXSTRvcndzTVBPYVNlTWtxU1EyeXl6V05SNnZuWkhLbHdZckItYjJoRm5UZ0cxNVRHdTNsM0VEeVZSekZJSFZkVVB5QlpMY1Y2c2RnbUJoSzlJbnVVR3JVcV9ETDl0aTNiYnU5WExKSzNTTmp1MlVkWGPSAbABQVVfeXFMT09zWjVWRG04aGluTHI0ZnBjdXEtblgwN0FvTElqWWFNVUZocW5pYmZIX0xDbkk5Z0ZPX2pndGZ5SkdmdG9wOVVPd3hfVmc2cmhycWszTnZ0S1VabjkxVWx2RG8zOVZtT3EwcXoxbEpNWUsza1JVZkZ6QVMyblpNSDg1MUdUQm1fdnROcUpRV2lMY3I2SXhaSkRnT3lZNmE2ZUpFcGdkUmVQMWdrakxERXU?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
         }
       ]
     },
@@ -497,6 +431,42 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6OHRGVzVDSk1mbDFhMlgzMTFzemRreTBuQU92U1poVGtGNFZTaUxIWi1PMTJuaTZRQlFmNExUMk5GQzFFQUVLaVQwWlVDX2gtQWI4?oc=5",
           "source": "Arab News",
           "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Iraq",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Iraq judiciary seizes over $14 million in anti-graft campaign",
+          "url": "https://www.newarab.com/news/iraq-judiciary-seizes-over-14-million-anti-graft-campaign",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PS3hzTzhpdWhrbVZMZkJNOTJ3SHA4czE1dFRtcDZrblEybDY3RDFoZ3pqOTZoaXVmMEk4Tk5yd1VDNTY3bkktOUpYSE4zVC0tZ240?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iraq to widen corruption operations after arrests",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHBZYmVtcVJjSEJucEVzd0duc0RSUFE3R1dhRmhIa2RaWUdkYm5nbmt4R21fLUJNUmctcDVfWG1rWUU0ZTg0blhxa0lUekpzNmtrMDRER2EybmRleEJCV3JiVTAzenRpMnFyVTU0N25MMmVHT092ZkxSSFhvTURmM05ocmExa3VSZ1c3X2RSSDdxZjYt?oc=5",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey"
+        },
+        {
+          "title": "Iraqi top diplomat visits Syria in first post-Assad trip to deepen cooperation",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EMmRpeDIzM0x6NzNXdEg2c29sb1V3RjYyZ2pYcWhCTDRHZXRRVzhjVmdHNHE3Y0xLRjRJMnRXX3Y0S2tfZTE0cWllbU5hd2gzbmxubEdpTmk?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        },
+        {
+          "title": "Iraq to probe World Cup failure, map overhaul following no wins",
+          "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -609,92 +579,62 @@
       ]
     },
     {
-      "term": "Venezuela",
+      "term": "Gaza",
       "count": 4,
       "headlines": [
         {
-          "title": "Venezuela earthquake victims shelter at golf course",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-earthquake-victims-shelter-at-golf-course?traffic_source=rss",
+          "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Man Rescued From Rubble After 106 Hours in Venezuela",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX29aMVRhLXRILVFGRWFkVlMzMEEwbzlyU01LMmxfb1ljcUg3M3V0SFNvd3IyWnhfbXdOSmVoY1I2cDh1NzlNT1pyaTZsVHhRc1V4UmppYlNWcHRxNnNSREpuV2RkcXRQYkVIS0Q5NjhxZFNIU1dWRVJRRmdUOTVLdUU3UzRmR0J6eHc3Ui1ucWdDb0RsTGFoYUVCdmo5VW51VmNiR1Q3Ull6Ump5TmfSAa4BQVVfeXFMTl9vWjFUYS10SC1RRkVhZFZTMzBBMG85clNNSzJsX29ZY3FINzN1dEhTb3dyMlp4X213TkplaGNSNnA4dTc5TU9acmk2bFR4UXNVeFJqaWJTVnB0cTZzUkRKbldkZHF0UGJFSEtEOTY4cWRTSFNXVkVSUUZnVDk1S3VFN1M0ZkdCenh3N1ItbnFnQ29EbExhaGFFQnZqOVVudVZjYkdUN1JZelJqeU5n?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Citizen’s remains recovered from rubble in quake-hit Venezuela — FM",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEs3ZkoxX2ROcVdCYWhtblhQQ0RicTd2OXVaTnpuS1ZpcEwzbDFUNmdEakVxbnM3RTNVNDVkRGx3cnRtVGtkRGJhaFVVNnV2bFQxdUdHb3p4dHktd2tTVkdvR1A2WWxmRUFNT2MwNnZoeWRBdkdxRklab2NLRV9hRVlsMmF2MnRERG9IbzBfdi1LZy1Ta05zWXZycEtBQXp1?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Jordan’s search, rescue team continues field operations in Venezuela",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Uxc1phTmpaTXBlRVlLaEJ3RXlXeDVua0RneUNBaTRQR2swVVRfcHFsNlhLX0xkd1Y4dVZqTWFPb0M1SW1TV1RMSGM4emZfcXJIWGIzRE5FMDN6TkFPMWJBWUU1aXkxUEVtNTlHOUIyQmF4RmxHN0JuOEFtUGJRejJ4aHl0SEJCMTFfdDlxTTk1OTF6ZjJ4Umt4VXZqaDl3Y1lr?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Palestinian",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "CPJ board member removed as it undertakes review of journalists killed in Gaza",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cpj-board-member-removed-it-undertakes-review-journalists-killed-gaza",
+          "title": "Violence continues in Gaza and West Bank, UN warns",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/violence-continues-gaza-and-west-bank-un-warns",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli forces kill Palestinian teen in occupied West Bank",
-          "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
+          "title": "Israel kills five in Gaza as drone strikes hit civilians",
+          "url": "https://www.newarab.com/news/israel-kills-five-gaza-drone-strikes-hit-civilians",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli forces kill Palestinian teen in West Bank",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXVSVHlyRmR0NW4wbW8ybjBZWW52NFg5Tm5PZTdyM0VjVU9sZTRRYjA3eHdoQzVuNUJsNXIzZm1FQ0tLOGxxRGFrakdLdDMwVnlsVVlsSE9naTgwbEdlYll4dUk4VDNLbkVOQ1ZHVExiazREaVhMQ2hqSmhlQzN0OHdYZFBWLXZYdGlqSGZB?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "شهيد وأربعة جرحى في قصف إسرائيلي استهدف منطقة شمال غرب خان يونس",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWGJuQS1qS0NPdjB2ZUJ0VnlpZGUxLVpTVFlsRDZOckoyLXRkdFZSd0tqeUVhWnEwNTFMS19oNlBsaHVmV2I2WjVmMWRyUWZMdTBIU1dPWXhRb0J5LVQ3dEtHYnJhZTU0MEFpU2pVVWNFY0dBWmM4dWJnV2lIaGwzb0lORTBaUmVybzhTTXZrRDhHYl95dXZUd2tPWFo2ZHZjbWUxbmVGVGVobkZiSXptZHFrMVpMcTNvSVhTQ1RwQ2RFRXYtT0pJdkhGenBNWGp5cDVPdndOX2EtRFdnUTFFdUR6djYwY3pGMW90QXZmay1zOG41V2wwT0FWeEV1al9QZGU0QlBwRjdxTloxSUp5bXpRS2VibVhLaGc?oc=5",
-          "source": "Falastin al-Youm",
+          "title": "UN official: Gaza still faces profound uncertainty and immense human suffering - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtX0M0ZzdXczBJSHlZMGxyS21HY3BISDFYdzdNYlFpR29fb2NsUzBQYXpETVJCdmhXY1p1cGQ5b2JzNW5ua3pId3pldXlVZlc4MUVkT1d4cw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "Doha",
+      "term": "Israel",
       "count": 4,
       "headlines": [
         {
-          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
-          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
+          "title": "Israeli court says comptroller overstepped authority in 7 Oct attack probes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-says-comptroller-overstepped-authority-7-oct-attack-probes",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel kills five in Gaza as drone strikes hit civilians",
+          "url": "https://www.newarab.com/news/israel-kills-five-gaza-drone-strikes-hit-civilians",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran says no technical talks with US planned in Doha this week",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFZlSEI0NGQwNENrMDRya0ZJVlpEZ0FfLVdrdEdocm5YQTJuVFVqY3ZveDVwN1RSRnE5dGJsNzMtV0puOFJQU3VsQU9IVjhJYkFCd2dZWC0yMXp0MUpXZ1pRSnJ2UnBTS3hhMW1QbkxLWWktenNQNVRKaUFtbklmLVU5MnhyS2c4bjFXcGxpenB0VjIxaFRramxBa9IBR0FVX3lxTE9uQ2pUQll2X3hxaHpjMXctZ1lLMjdrLTc3cnUybGhleVVUZkhXMDNuTElqWDRnZG9OR1VFZUdSRC1XY0xPcE1j?oc=5",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Jeffries says US House Democrats to meet Tuesday to discuss Israel aid ahead of expected floor discussion",
+          "url": "https://www.aa.com.tr/en/americas/jeffries-says-us-house-democrats-to-meet-tuesday-to-discuss-israel-aid-ahead-of-expected-floor-discussion/3981772",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         },
         {
-          "title": "Witkoff, Kushner to join Iran meeting in Doha - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUYVlCdFYwM3p4SGZJcFpHRWJmbERNdVlDVjRWelFUQnotd1h6UTVSX0JnbHlfM1VORGRXS3V4Y0pxQTlLWEUyWk50dkJSTWlSQnc?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "Trump says Iran requested meeting in Doha - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oYkdFUjhrU2NwSHl1ZVl5bWdVV29ncW8zc0diN3d2eWdxY2UzOVNxTFpES1RhQTF3S1RmWnlwa3FiYlpKNUkxa0hnZzRLVE9mMXc?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
+          "title": "Türkiye condemns Israel's strikes in Syria, urges global action",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnN6MjVhQTBnSmJZeV9yUGw2dWh0d1FVNnh5a1d1WnlnNm8ta003TGg2SEl2TXowQzBXSTRvcndzTVBPYVNlTWtxU1EyeXl6V05SNnZuWkhLbHdZckItYjJoRm5UZ0cxNVRHdTNsM0VEeVZSekZJSFZkVVB5QlpMY1Y2c2RnbUJoSzlJbnVVR3JVcV9ETDl0aTNiYnU5WExKSzNTTmp1MlVkWGPSAbABQVVfeXFMT09zWjVWRG04aGluTHI0ZnBjdXEtblgwN0FvTElqWWFNVUZocW5pYmZIX0xDbkk5Z0ZPX2pndGZ5SkdmdG9wOVVPd3hfVmc2cmhycWszTnZ0S1VabjkxVWx2RG8zOVZtT3EwcXoxbEpNWUsza1JVZkZ6QVMyblpNSDg1MUdUQm1fdnROcUpRV2lMY3I2SXhaSkRnT3lZNmE2ZUpFcGdkUmVQMWdrakxERXU?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
         }
       ]
     },
@@ -729,6 +669,84 @@
       ]
     },
     {
+      "term": "Germany",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Paraguay shock Germany in shootout win for one of all-time World Cup upsets",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Brazil, Germany eye World Cup last 16 as Netherlands face Morocco",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUZHVDJqc1VxRlpZM2pBbnVYc0s3QTNvMDVDWHlONVBUSzlMcUtQSTE3UV9MTGJoR0prUFJfUWRwOGUxYmdpcUxHMVZWYkpwdHd1aWJXN1NnUDNSTjRNSnlOcVc2OEg1WExZTmhDbWxsbjRtRFEyM2ttelBDOWNRdkFxVDYyRzhMTm1YV0NybFdBY0g5SFpNMVJ0clh3a1dGcWc?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Paraguay deliver shocking upset to Germany in penalty shootout to advance to next round of World Cup",
+          "url": "https://www.aa.com.tr/en/sports/paraguay-deliver-shocking-upset-to-germany-in-penalty-shootout-to-advance-to-next-round-of-world-cup/3981780",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Paraguay stun Germany on penalties to reach last 16 in World Cup shock",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JcG9EcFRlT2xEbnFac1kzSDlEN3hOak1XN0RVdnBRX0RzZmE4YkJwRHk2WG5uWHBUNWxoNGZod2VHQ0p2SktLSHR6SmJPS195ZHJReG83OXo?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Africa",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Migrants in South Africa fear violence ahead of June 30 deadline",
+          "url": "https://www.aljazeera.com/news/2026/6/30/migrants-in-south-africa-fear-violence-ahead-of-june-30-deadline?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "‘Leave or return in a coffin’: The threat driving migrants out of South Africa",
+          "url": "https://www.egyptindependent.com/leave-or-return-in-a-coffin-the-threat-driving-migrants-out-of-south-africa/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Thousands of African migrants rush to leave South Africa ahead of June 30 anti-immigrants 'deadline'",
+          "url": "https://www.aa.com.tr/en/africa/thousands-of-african-migrants-rush-to-leave-south-africa-ahead-of-june-30-anti-immigrants-deadline/3981777",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Brazil",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Anxiety turns to joy as Brazil qualifies for the Final 16",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/anxiety-turns-to-joy-as-brazil-qualifies-for-the-final-16?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Brazil, Germany eye World Cup last 16 as Netherlands face Morocco",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUZHVDJqc1VxRlpZM2pBbnVYc0s3QTNvMDVDWHlONVBUSzlMcUtQSTE3UV9MTGJoR0prUFJfUWRwOGUxYmdpcUxHMVZWYkpwdHd1aWJXN1NnUDNSTjRNSnlOcVc2OEg1WExZTmhDbWxsbjRtRFEyM2ttelBDOWNRdkFxVDYyRzhMTm1YV0NybFdBY0g5SFpNMVJ0clh3a1dGcWc?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
       "term": "Khan",
       "count": 3,
       "headlines": [
@@ -753,30 +771,6 @@
       ]
     },
     {
-      "term": "West Bank",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Violence continues in Gaza and West Bank, UN warns",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/violence-continues-gaza-and-west-bank-un-warns",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli forces kill Palestinian teen in occupied West Bank",
-          "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli forces kill Palestinian teen in West Bank",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXVSVHlyRmR0NW4wbW8ybjBZWW52NFg5Tm5PZTdyM0VjVU9sZTRRYjA3eHdoQzVuNUJsNXIzZm1FQ0tLOGxxRGFrakdLdDMwVnlsVVlsSE9naTgwbEdlYll4dUk4VDNLbkVOQ1ZHVExiazREaVhMQ2hqSmhlQzN0OHdYZFBWLXZYdGlqSGZB?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "UAE",
       "count": 3,
       "headlines": [
@@ -793,10 +787,34 @@
           "region": "Levant"
         },
         {
-          "title": "Indian Embassy extends suspension of regular Indian passport and visa appointments in UAE",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVlSS2pnZjlvNkM3bGk4NHpEai1sMXpNaDNJWGp2SHJHRGtrZmxYSkFqZF9TWUk2dl9WMTJUemhydW83c0hvRThkem5iTlA3bmplTXlnRmhFT3BsbW9ZZERmaElFUGRDRmQxSDgxVnFiT3Exd1ZmOHc2R3hDYnNOel9mQnduRGtySmtIeDN6c29ZbGlrdnpSaDZ3RG5GVmVWNnpRTXFWVXJkWXpLMDJhcUt3aUljbGZGVnNJRER5SS1qdElJ?oc=5",
+          "title": "Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0dGpyamIyRWE4c3pSSnpHaWdhSGVsQjFkeWxfMmtBTDlaY1Y0YnVGaGpyV1NzZGVsWmxCM3NzYnZIMHg2eDlj?oc=5",
           "source": "Gulf News",
           "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Venezuela",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Man Rescued From Rubble After 106 Hours in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX29aMVRhLXRILVFGRWFkVlMzMEEwbzlyU01LMmxfb1ljcUg3M3V0SFNvd3IyWnhfbXdOSmVoY1I2cDh1NzlNT1pyaTZsVHhRc1V4UmppYlNWcHRxNnNSREpuV2RkcXRQYkVIS0Q5NjhxZFNIU1dWRVJRRmdUOTVLdUU3UzRmR0J6eHc3Ui1ucWdDb0RsTGFoYUVCdmo5VW51VmNiR1Q3Ull6Ump5TmfSAa4BQVVfeXFMTl9vWjFUYS10SC1RRkVhZFZTMzBBMG85clNNSzJsX29ZY3FINzN1dEhTb3dyMlp4X213TkplaGNSNnA4dTc5TU9acmk2bFR4UXNVeFJqaWJTVnB0cTZzUkRKbldkZHF0UGJFSEtEOTY4cWRTSFNXVkVSUUZnVDk1S3VFN1M0ZkdCenh3N1ItbnFnQ29EbExhaGFFQnZqOVVudVZjYkdUN1JZelJqeU5n?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Citizen’s remains recovered from rubble in quake-hit Venezuela — FM",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEs3ZkoxX2ROcVdCYWhtblhQQ0RicTd2OXVaTnpuS1ZpcEwzbDFUNmdEakVxbnM3RTNVNDVkRGx3cnRtVGtkRGJhaFVVNnV2bFQxdUdHb3p4dHktd2tTVkdvR1A2WWxmRUFNT2MwNnZoeWRBdkdxRklab2NLRV9hRVlsMmF2MnRERG9IbzBfdi1LZy1Ta05zWXZycEtBQXp1?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Jordan’s search, rescue team continues field operations in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Uxc1phTmpaTXBlRVlLaEJ3RXlXeDVua0RneUNBaTRQR2swVVRfcHFsNlhLX0xkd1Y4dVZqTWFPb0M1SW1TV1RMSGM4emZfcXJIWGIzRE5FMDN6TkFPMWJBWUU1aXkxUEVtNTlHOUIyQmF4RmxHN0JuOEFtUGJRejJ4aHl0SEJCMTFfdDlxTTk1OTF6ZjJ4Umt4VXZqaDl3Y1lr?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         }
       ]
     },
@@ -897,6 +915,30 @@
       ]
     },
     {
+      "term": "Paraguay",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Paraguay shock Germany in shootout win for one of all-time World Cup upsets",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Paraguay deliver shocking upset to Germany in penalty shootout to advance to next round of World Cup",
+          "url": "https://www.aa.com.tr/en/sports/paraguay-deliver-shocking-upset-to-germany-in-penalty-shootout-to-advance-to-next-round-of-world-cup/3981780",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Paraguay stun Germany on penalties to reach last 16 in World Cup shock",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JcG9EcFRlT2xEbnFac1kzSDlEN3hOak1XN0RVdnBRX0RzZmE4YkJwRHk2WG5uWHBUNWxoNGZod2VHQ0p2SktLSHR6SmJPS195ZHJReG83OXo?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Saudi",
       "count": 3,
       "headlines": [
@@ -921,6 +963,60 @@
       ]
     },
     {
+      "term": "war",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran war live: Tehran denies Trump’s claims of meeting in Doha",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Live blog - US-Israeli war on Iran",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVEhNQklMdFBPSUx5dklGZ2FvekpoQkdfTE9GUHdSQU5NaHB2bUZaaV9uLU9wbEUtNDVhaXhPako0RkhsTjNHUWhNXzZobUlIRGE4aHJfRjk5Y3BSU3VN?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Tehran",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran war live: Tehran denies Trump’s claims of meeting in Doha",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iranian President says $6 billion of assets frozen in Qatar will be returned",
+          "url": "https://www.egyptindependent.com/iranian-president-says-6-billion-of-assets-frozen-in-qatar-will-be-returned/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Japan",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Anxiety turns to joy as Brazil qualifies for the Final 16",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/anxiety-turns-to-joy-as-brazil-qualifies-for-the-final-16?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
+          "url": "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
       "term": "Younis",
       "count": 2,
       "headlines": [
@@ -939,37 +1035,19 @@
       ]
     },
     {
-      "term": "crisis",
+      "term": "negotiations",
       "count": 2,
       "headlines": [
         {
-          "title": "Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis",
-          "url": "https://www.aljazeera.com/news/2026/6/29/marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisis?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Talks with Iran could fail and diplomacy may not succeed, Rubio tells Congress",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/talks-iran-could-fail-and-diplomacy-may-not-succeed-rubio-tells-congress",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "settlements",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "UN chief slams 'relentless' Israeli settlement expansion",
-          "url": "https://www.newarab.com/news/un-chief-slams-relentless-israeli-settlement-expansion",
-          "source": "The New Arab",
+          "title": "Witkoff says nuclear negotiating team has left for Qatar",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/Witkoff%20says%20nuclear%20negotiating%20team%20has%20left%20for%20Qatar",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         }
       ]
@@ -993,6 +1071,24 @@
       ]
     },
     {
+      "term": "West Bank",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Violence continues in Gaza and West Bank, UN warns",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/violence-continues-gaza-and-west-bank-un-warns",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli forces kill Palestinian teen in occupied West Bank",
+          "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
       "term": "US-brokered",
       "count": 2,
       "headlines": [
@@ -1011,20 +1107,20 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
+      "term": "Palestinian",
       "count": 2,
       "headlines": [
         {
-          "title": "De-mining of the Strait of Hormuz to be carried out only by Iran, deputy FM says",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM2VqVF9JeHI4TVNhWkdtdDhqZmZnbHVBRm9rb1NEeXlsZUFULXN1MzBPWE9jZ19UQ21vWlJMS3liNHd2UW43amM5cE9sYWFoT2pYOVdHRDZTX1VBREZ3R3E5a3dlS0tFSDB5blMyaEU3Z0FjSU1tZ29PMjVaRWFsSU16QnRjREpJM3ZVUW83b2dMSU9LX2UtTWN5UkF3TzBPMmhrWnM3d2x1dktNcmwyZDBWSWtvdzNuM0NXSEhGRDN6Uy1DSjl6TEdLXzlscng0d2lNMWxkMnjSAdgBQVVfeXFMTjNlalRfSXhyOE1TYVpHbXQ4amZmZ2x1QUZva29TRHl5bGVBVC1zdTMwT1hPY2dfVENtb1pSTEt5YjR3dlFuN2pjOXBPbGFhaE9qWDlXR0Q2U19VQURGd0dxOWt3ZUtLRUgweW5TMmhFN2dBY0lNbWdvTzI1WkVhbElNekJ0Y0RKSTN2VVFvN29nTElPS19lLU1jeVJBd08wTzJoa1pzN3dsdXZLTXJsMmQwVklrb3czbjNDV0hIRkQzelMtQ0o5ekxHS185bHJ4NHdpTTFsZDJ4?oc=5",
-          "source": "Al Arabiya",
+          "title": "Israeli forces kill Palestinian teen in occupied West Bank",
+          "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran rejects French offer to clear mines in Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhUnlneDR1cGo5bTBzYV9WQVJ0UTA0d3BxUWRfb2o1WW5ySWU0RmVPREFFUUNwNGNNMUM0dzVvZUYwcUJnd0ROMnVyVjZWbWVjNE9iNWh0d2k?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "شهيد وأربعة جرحى في قصف إسرائيلي استهدف منطقة شمال غرب خان يونس",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWGJuQS1qS0NPdjB2ZUJ0VnlpZGUxLVpTVFlsRDZOckoyLXRkdFZSd0tqeUVhWnEwNTFMS19oNlBsaHVmV2I2WjVmMWRyUWZMdTBIU1dPWXhRb0J5LVQ3dEtHYnJhZTU0MEFpU2pVVWNFY0dBWmM4dWJnV2lIaGwzb0lORTBaUmVybzhTTXZrRDhHYl95dXZUd2tPWFo2ZHZjbWUxbmVGVGVobkZiSXptZHFrMVpMcTNvSVhTQ1RwQ2RFRXYtT0pJdkhGenBNWGp5cDVPdndOX2EtRFdnUTFFdUR6djYwY3pGMW90QXZmay1zOG41V2wwT0FWeEV1al9QZGU0QlBwRjdxTloxSUp5bXpRS2VibVhLaGc?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         }
       ]
     },
@@ -1079,24 +1175,6 @@
           "url": "https://www.egyptindependent.com/fighting-in-lebanon-continues-days-after-new-agreement/",
           "source": "Egypt Independent",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Africa",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "‘Leave or return in a coffin’: The threat driving migrants out of South Africa",
-          "url": "https://www.egyptindependent.com/leave-or-return-in-a-coffin-the-threat-driving-migrants-out-of-south-africa/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Thousands of African migrants rush to leave South Africa ahead of June 30 anti-immigrants 'deadline'",
-          "url": "https://www.aa.com.tr/en/africa/thousands-of-african-migrants-rush-to-leave-south-africa-ahead-of-june-30-anti-immigrants-deadline/3981777",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         }
       ]
     },
@@ -1191,24 +1269,6 @@
       ]
     },
     {
-      "term": "Germany",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Paraguay shock Germany in shootout win for one of all-time World Cup upsets",
-          "url": "https://www.aljazeera.com/sports/2026/6/29/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Brazil, Germany eye World Cup last 16 as Netherlands face Morocco",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUZHVDJqc1VxRlpZM2pBbnVYc0s3QTNvMDVDWHlONVBUSzlMcUtQSTE3UV9MTGJoR0prUFJfUWRwOGUxYmdpcUxHMVZWYkpwdHd1aWJXN1NnUDNSTjRNSnlOcVc2OEg1WExZTmhDbWxsbjRtRFEyM2ttelBDOWNRdkFxVDYyRzhMTm1YV0NybFdBY0g5SFpNMVJ0clh3a1dGcWc?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Netherlands",
       "count": 2,
       "headlines": [
@@ -1259,24 +1319,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01bTNSQjdRRzRZUk5nQVNDRk9mZk5RYkF3RkVPSXhQSkpfdlhpc2E4UC00TjIySmhYOVRuWExYUTFiRUIxZGtoSkpMOTZpcWpMVkFsTlRkNUI?oc=5",
           "source": "TRT World",
           "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Brazil",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
-          "url": "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Brazil, Germany eye World Cup last 16 as Netherlands face Morocco",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUZHVDJqc1VxRlpZM2pBbnVYc0s3QTNvMDVDWHlONVBUSzlMcUtQSTE3UV9MTGJoR0prUFJfUWRwOGUxYmdpcUxHMVZWYkpwdHd1aWJXN1NnUDNSTjRNSnlOcVc2OEg1WExZTmhDbWxsbjRtRFEyM2ttelBDOWNRdkFxVDYyRzhMTm1YV0NybFdBY0g5SFpNMVJ0clh3a1dGcWc?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
         }
       ]
     },
