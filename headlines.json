@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T21:30:21.780266+00:00",
+  "updated": "2026-06-30T21:59:09.502896+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "What is birthright citizenship, and what does the Supreme Court ruling say?",
+            "url": "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say?traffic_source=rss",
+            "published": "2026-06-30T21:30:43+00:00",
+            "snippet": "Nation's highest court strikes down executive order that would have restricted right established in US Constitution."
+          },
           {
             "title": "Emergency crews search rubble after Athens building collapse",
             "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
             "published": "2026-06-30T20:03:13+00:00",
             "snippet": "Five humanitarian workers were killed in an ambush on their convoy in South Sudan's Jonglei State. The UN expressed deep sadness over the Monday attack and called for an investigation."
-          },
-          {
-            "title": "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
-            "url": "https://www.aljazeera.com/news/2026/6/30/evolution-under-fire-irans-axis-of-resistance-in-a-post-war-era?traffic_source=rss",
-            "published": "2026-06-30T20:00:47+00:00",
-            "snippet": "This report examines whether Iran's regional deterrence has been permanently degraded or if its proxy network is evolving into a resilient force in the post-war era."
           }
         ],
         "error": null
@@ -87,6 +87,12 @@
         "url": "https://english.alarabiya.net",
         "headlines": [
           {
+            "title": "Vance Says ‘More Game to Play’ in Iran Negotiations",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZ9IBqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZw?oc=5",
+            "published": "2026-06-30T19:29:10+00:00",
+            "snippet": "Vance Says ‘More Game to Play’ in Iran Negotiations Al Arabiya English"
+          },
+          {
             "title": "Venezuela quake deaths rise to 1,943, lawmaker says",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGhxX3VDYzRoYmN6NlZaUHk5cUJSNlJ1UGxYSThLOU5Ybzl0c19XdXNvNlcwVmZyU2lKVEs3amIzUHNGLUUwOGs4Q0NJelhraGRGSk9RQ1NPUGNoZVR1V2dzVGJ4YzdtbUxOb0tJampTWHlCektkWDJkamQ0dzBrcE94WF9ZbnFDcEZMeFVNQUJQd0J5UnBOZENSV3B0MG85Y21vY2NxM0TSAagBQVVfeXFMUExocV91Q2M0aGJjejZWWlB5OXFCUjZSdVBsWEk4SzlOWG85dHNfV3VzbzZXMFZmclNpSlRLN2piM1BzRi1FMDhrOENDSXpYa2hkRkpPUUNTT1BjaGVUdVdnc1RieGM3bW1MTm9LSWpqU1h5QnpLZFgyZGpkNHcwa3BPeFhfWW5xQ3BGTHhVTUFCUHdCeVJwTmRDUldwdDBvOWNtb2NjcTNE?oc=5",
             "published": "2026-06-30T18:28:00+00:00",
@@ -109,12 +115,6 @@
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVm9FNXhoVXNaZER0TnhPcFNGVU1ETGo4LTRhelFLcDV0N3ZmdDMyVENEbTFseTJaMGEwSGZXZ1lITFFYQ0JCQk00MmtTYmRYeFlEWE1Ea2FuUzBIUElwYVpQWkp6cXZVMTBRNlVJRGw0ZkxfYWFLdEphRWE1MmNUM3lsZ3N0MEpFVV9sQmxZWTJ1eDRUdTFLODM2U29QaDh6T3daVjNGTnNxTXFVd0MzMXBqcWFoNXZlOUUzcjdBQUJURklwVjNyR2xqWTZfeWYwUXl6enN0STJET1NPa0HSAd4BQVVfeXFMUFZvRTV4aFVzWmREdE54T3BTRlVNRExqOC00YXpRS3A1dDd2ZnQzMlRDRG0xbHkyWjBhMEhmV2dZSExRWENCQkJNNDJrU2JkWHhZRFhNRGthblMwSFBJcGFaUFpKenF2VTEwUTZVSURsNGZMX2FhS3RKYUVhNTJjVDN5bGdzdDBKRVVfbEJsWVkydXg0VHUxSzgzNlNvUGg4ek93WlYzRk5zcU1xVXdDMzFwanFhaDV2ZTlFM3I3QUFCVEZJcFYzckdsalk2X3lmMFF5enpzdEkyRE9TT2tB?oc=5",
             "published": "2026-06-30T15:58:00+00:00",
             "snippet": "In southern Lebanon, Netanyahu stated that Israel would remain as long as Hezbollah posed a threat. This statement was covered by Arab News."
-          },
-          {
-            "title": "Cuba says US pressuring UN member states to put off trade embargo debate",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcEV4bUd4WC1TSHg1QTdTUDRva3J1ZTlkbU45c0xMbW03TGxUbXBYMjBJQi1KbzRBeTVwbldFbmpLODBCM1dsbHY4bG02UkpWOWFpN2VwVkp0Sy1xVURsOFVGRzBKOFV3ZnN4eUdpdDhCZzM0LUhzMmphVlpTNmtTTmVWZUdwX1lGQlZsNG1TMVUxb2JfR2FRUGhtWkdkWmtHbFoxRTZMVXZES3pzOFFSOGpiSFJmZ2lySDF0MUl1Y0tpbnc1STg00gHHAUFVX3lxTE9wRXhtR3hYLVNIeDVBN1NQNG9rcnVlOWRtTjlzTExtbTdMbFRtcFgyMElCLUpvNEF5NXBuV0Vuaks4MEIzV2xsdjhsbTZSSlY5YWk3ZXBWSnRLLXFVRGw4VUZHMEo4VXdmc3h5R2l0OEJnMzQtSHMyamFWWlM2a1NOZVZlR3BfWUZCVmw0bVMxVTFvYl9HYVFQaG1aR2Raa0dsWjFFNkxVdkRLenM4UVI4amJIUmZnaXJIMXQxSXVjS2ludzVJODQ?oc=5",
-            "published": "2026-06-30T15:41:00+00:00",
-            "snippet": "Cuba claims the US is pressuring UN member states to postpone a debate on the trade embargo. Al Arabiya English reported on Cuba's accusations."
           }
         ],
         "error": null
@@ -165,6 +165,12 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
+            "title": "فلسطين المحتلة: رئيس وزراء الاحتلال بنيامين نتنياهو حول القضايا التي يحاكم فيها: على الرغم من انهيار ملفات القضايا إلا أنني ما زلت أريد الحصول على عفو",
+            "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQeG9xMkVEeE5nMGlSeGpZRUxnNWRub3AyYWpkMmptN3pLM0NoVk9oYlUyaVdpdEtZQzA3SWpGdXIzamIzS1l6M3pRdkMwX1VhQXRJYVBHZlNGMVEtTXpzUjBHcDRvSmZsbE15dTFmXzhPYkJQWGR1T1BZQXVOdUt0UkUydnZLQkN4OHp1X2J5TG1CalI0RndieTBUdFFabkx2SDNYR2NFdUZKZDZvQWxkR0huZUo4YjZDa2hHZnpNUnRBblNBa0o5cUdUVUtWbk1YbXo1SDZra044WFBzaXhmdThiQnQtMTd1bWsxY2NVOS1LTGQ1YmV6emFYZE5IVDVPZWd3ZzJ3SFFERU1YejdiMktEUWx4dE5kWkprcTJMSkdmYzhBZWc0TEJTdXUtS1BNN1BvQ0hZQ2J6UWQ0akJqTzhLZnBVc1c4V3pkdVBIcWVfMUtUZzFDR0lFakFsTzNMZnhMTGw1WlBqRkpYZWhjMjlKdVY1Ul92N1Z0UUtzYmNQNTZ2S3pDOTNpUlFzVlRhSjZwcnR0bVVKVG4wT1BfV0RxNV8zNW13dzFydFFsNThOSGE4bzlKbDdzelhpeWxxZ2JHWUlxM3FjdHFhckRDeGFfVHR5TWptTEdES3g5eGtFM3Fzc3Bsa3NBTzMyV3FrTy12NjZLaEZUdHlaNW05bg?oc=5",
+            "published": "2026-06-30T19:43:50+00:00",
+            "snippet": "فلسطين المحتلة: رئيس وزراء الاحتلال بنيامين نتنياهو حول القضايا التي يحاكم فيها: على الرغم من انهيار ملفات القضايا إلا أنني ما زلت أريد الحصول على عفو almayadeen.net"
+          },
+          {
             "title": "بقائي: لا لقاءات مع مسؤولين أميركيين.. وإيران ملتزمة بمبدأ \"خطوة مقابل خطوة\"",
             "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQV05MMHdpcWZVRk9RZlJaX3gtRGt6T2lPczFKdzExMWxaakI1a01EaTNaWUQtQlFfZHAwdzRRSXpLTl80OGhuUDc5blpuMjJyUkVTQXd2MUEzZzhuOTJlSGpqZUNuQmpVc1RsTi1qejRTMFR2WHVsUjAtN3RUcWpGTi1CUEFNS0VPcGsxVnRUaHBtOGdtS0toYW9LdC1KOXhUbUxGRFV5LWV3cW05ZFZWelF4dXZORmtSTVRETGE4bmN4SGt6UmpOcTJGSkM5a0JEa3hheDZRNUFlOXFYRGptRTlfeXdqYVF3enljN3hITU90b1loV2FRRjhtVENmRTNISUF3NTBlZ0JZdWY5U1FKcHA4N2d0alFFdVI0dGpJb0ZhY3BxeGptSVU2bXlJOXNCT2hjRThKSGpwRFVsX19RaUdLSFFFN0pBaU1Jc3JuSnRrVUdKcUEtSG9KeHpfd0FwZmZnamhoYXFQNlBZd0FKSkNnX0dfbEJINUlCTzZhSklQME4ya3NsdmhKX0ZSeEpDeHhYVURlMG9BXy03OWJMel9IcmdmckJVTVRjNjl3OUJGUHFmbWxOcS1IWllXTVRUMFE5NTJ2SXZvRGVzZ0FtNEpxUXhBTkhGNGZUVi0tU1RVY3pDMnlObjN6SmdzMUVFUjA2Vkp2cGRJaTZiS3RPYXNCRFA5QTRvN3VWV1B6YmlETnE3aU5SU1hwdTRBcGRPZ2t4Q3B3TFA4cm1kUU5r?oc=5",
             "published": "2026-06-30T19:05:18+00:00",
@@ -177,22 +183,16 @@
             "snippet": "طهران: التنفيذ أولاً .. لا لقاءات مع واشنطن almayadeen.net"
           },
           {
+            "title": "بقائي: لا محادثات مع واشنطن الأربعاء.. وإنهاء الاحتلال بلبنان جزء من التزاماتها",
+            "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxPa0U4cmszN1JBVW5DSHVuUmQzc3ZFSHMxdWFBQjNRcndVSmJDNXBvZHFIRFN4MDdZWEs5RFdKN0NiVGtsbmlhMXoxNDA4elpSZnVRMjhsZmU3aDcwRnlDeUhVQ2JXQlZ0ZnNRTE5KWEFTRDhwNDhrOWItVk9EdFVxcGJXYk8wS2p1ZnAxX2dTeTdZZFpFb19RZ1NINEM4NHB1YkRnVkhlSHVvVjQ5U29kT0ZVX3pUMXRZRjl4cEhER0k5QzZWdG1DLVk1RHl5OE9zYncyTWdHcTRlR1ZQX1R0N2w3ZFJNd0lBWmJUWThtMzZ2NXVQZEVqRUpLb2N3bDk3djhxZ1ZHMWMtU1cyVlJrYXpLMUN5TlhBNVhFbVAzTHpfb3JVbU5YMjBzQVI1cFlodUl3YnNzemRsb2RxRjF4WmhFdTV1eWtVdlo5b25MdkJDZFJpald6Z1JBOUR1TWZXY25ucE1aVWUxa054X19KVTZuS1MzVm5RSXFHcDhhSDluMHNwX2U0VjEyR3R1Y2hwMURtbi1ZWmU0OE1TRldySWJFYTVHbGFhdHlXZmNzLVh4SXpzXzdUc1lKTWhzQklISFZKald3aGp1OGVPb1A5b2tUTFhaNTVYNk5LckRlRlVETF93RDVNT0VB0gHuA0FVX3lxTFBTSk1pSzJvR1RIX0RIYTdYcE1KaVEzQ0E4OFVRSW9EMEFvRVVrbjY5VUdMOTBqaWY3SzNOcWN3Y29tQ0tLZlZOaWQ2MkU3a0NpbXVQOERrRDBlVFF3ZzktaVdNWmY2by1rNTFPMWZDTzFEajBQdlVoM0RlQkc0WG5lZDlYdE5ZVEVrZmFpWkhNR0VXWk1YYTg0Xzl6NzhQdlBzaERnWjg3VWstVDBPczYzNEltNFVMSUJCa2h4bzN2WXZUTk5iXzlRdk83LWsyRzRnQmxYZ2hpamJNeUZ2V2hxbkFiaHRxNERmbWNnZF9PbWlrSnlXUGVEaExfWlVSX0phanYyajJtMHZzZGdxSy1EOXJ5R0hQb2xSZFBwM08xdE0yZDhfNkpzS2xKdnJZV01qRmRVRmJRMkRoU2J2S1VvWE9jSW5BMVlybFF0ZEZ6ZFlZYVdFZS1SMjhleVJ3NThfa1FabXJUNVl3OHFLNVBtZDJtREl6bTJiZjJrSkszbDE1aXVwdHJHWnVES01CbXhwb1ZtUVQ2bWFyUDJyM3FPM3IyUkZVTUVmYVYxd0hVekpGRTQ4TjdMamxHQ0RoM3JDRkluVk1obFRaY2lMT0QybFR0QnBUT1ZreFh6N0M4b0FINmV5MWx5cFFnTnhR?oc=5",
+            "published": "2026-06-30T18:15:50+00:00",
+            "snippet": "بقائي: لا محادثات مع واشنطن الأربعاء.. وإنهاء الاحتلال بلبنان جزء من التزاماتها almayadeen.net"
+          },
+          {
             "title": "3 عوامل دفعت واشنطن إلى مذكرة التفاهم مع إيران.. ما التفاصيل؟",
             "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxQaFViM2s4MkphZHdfbWlTVlJMSWlzXzBYODBsczVCdXU3R3gwUlg1OHEtb1N4Q0gzQk1KV2lGLVotbEFiMURmZzJwR1Z3dUk4b2M1cnM5QXhBYS1JaGM3R284WmdvMTZ4Z2EyaXBNRkx2eHBVZXU0b19qZ0R0dEEzUjdSMkZmLWROVUxvY3lIbzRJVFlQdkJ4ZGJGVWhiTHZMNkc2dDJMMHFBQmdReUozd3dSNnNwa3BFd0g2Z2xiQ0pZTy1vaGV3Y09HYW9fZkxWQjQyZHpZOTg4azZOTnJzMC1aMGFjMUI1dnp5bG9yeFpSMWlLRjZ2U242LXdxNER1U1I3N3M1RDZURk1TSGFILVphT2h5NEZUZjFmYk1vUjJfOGVXcWVmcWtta3d3Q0dvOG9ySEhNckE4dVJyaTYtdlZKSkhDQTI2cVlfdjhlVzNhQVloSk5Sbk9Hd0lFZUhLR0FKWkdpalQ3TjFoYXU4Sng4U3FBeEVjVkJQdVRPV3IzLXR0bEViUkRSbFdTMXBxQ1RmRXNSS3lfM3NIUElvZ2daNV9VV1VQdDN4MEFmS3h0WXJCQWs2UzBKR0hlTUdCYVB5X044aWFBSzVtX3NQakhVWXdFeG1u?oc=5",
             "published": "2026-06-30T16:07:24+00:00",
             "snippet": "The article discusses three factors that reportedly pushed Washington towards a Memorandum of Understanding with Iran. Details are provided by almayadeen.net."
-          },
-          {
-            "title": "المغرب يُقصي هولندا ويتأهل لثمن نهائي مونديال 2026",
-            "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOYk14bVN6XzRhVVlMTHJUNVI4YWNUdFhCZ1JYZjB0UVNYNnpaaE5SMnNKdkw0czNXZ2huUmtUT2VXS19VM0dvWnIwdTM1Y0VwYXZ2UmpINWthVHBuQ2pQbWRWRlVoelZuc0tnb0VhY2NSWlBZdWlWclJEbk1aTHpmcUlBTTl2c0ZMRVVLVnZCX0tERV90R21TSHVBUzZMb1l1WG44ajh4azRGZ1RLRlMwb2U1VlZGQ1JDWmY4eHdIUlhkbUxBVWg4N3R1VGxWSzlTcFluV0FFLUpjWk95OWZrQ3MwYURpNy1OeG5sRzdqZ0dLN1ZfNXctT2lDVkZwZDZJNlk0ZENtRDd1dGhMMlVxZzNLd19RUE9OUThZVWVYRl9GOGg5Zy0xbF9uYWlZM0xpY1pXTWg1UG1vTFRDV1ZyOGMzdlJjN3FvblFZOWlCd0txWWxjMHFzbU84VmEwRnc3UHBiV2lTM1VtVENtQUU3R1EwQXk1V2hwOU1TNHJmOFhpTkptRUFvNlMyMmg1dXZkWWM0SWR3eUtLWUhvM0RheEtVbi1xX0RoYUYwNHY1SlF1WFJwNVJDcjMxTEtCNHJZY3E3OWlURE9LcWRLbTY1d1l4dEYwZUM3bVN3ZWRkS2tfZzdQa0VRS0lPV3Z0RFgzQmNiQ0ZDOE5xd2ZfYmYtQi1MUENRX2Z2NGxXckJ4WmFOWWVoeHc?oc=5",
-            "published": "2026-06-30T15:44:04+00:00",
-            "snippet": "المغرب يُقصي هولندا ويتأهل لثمن نهائي مونديال 2026 almayadeen.net"
-          },
-          {
-            "title": "طهران: لا لقاءات مع واشنطن حالياً... والالتزام بالتفاهمات مرهون بالتنفيذ المتبادل",
-            "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOcE82cGxNRnBBN3JqUDlXU3B0bjlWTkpVUmQ1M3pHMmtGMzh3ZFBzNEkxRFdpZVVHdDQwR3RRUW55bEZHNzc5amt2bWUyZDJ3TzdINk02enc3a0pDdmlkTWo0ZTJSN2RISlY5MERITVZkTU5Wd2xXX0xZYTBldXJMQjVVMnk3Q2ZuVG4yZDR1d25QSUVfNVBKcGtjVDdqbFRXZXhVRUx1cEhmeWVlUjJOTWxqMGtVOUFGWDlQRWlIZHBsR0FrMlRUa1YxNW1jNjNtYm14UW04ZVBkdE0xQUY0S3l5ZkJVZmZzdHpVSnhXd3V0RFdsaTFaOWJZbUdEcXo3RmhPWjFrT2ZyWW1ZVXZQSVZ2MGJhV21nSktyRmFPangwWXh6eDhERWRLTDdnLXEzS0djN29samRXa2lvbkthWHFuaWtDZXlFdVRyU1NfYnl1YWttc0kxeDNGcmJWR2NRZjlPbU9nM2tBaTZNT211MTlwS3JscjVJZ21GTmZ5REVMaTFPbUVqZ3NieVhsbEFiZlY1YmR1dElxbkdEMWpGTDd2QXZmUUN6MTRPYmltQVJBTmtTa2dxb3RRSHA5OHItOTN2T0RUWGJTOGZoalEwSUtMSl9kbmpFMjZhdDl1ckVQaWV1Um43Z3dNZFRqakcyb2pQWVF2Z0lFNnZ0cHVDSkZndmRCbXF5dTh5QW9CWDFGRklGcC1PcUVySkRqS3R5XzJ4bkljdU5YcVU3WkhTM0pYa2ZuMlN1?oc=5",
-            "published": "2026-06-30T15:34:20+00:00",
-            "snippet": "طهران: لا لقاءات مع واشنطن حالياً... والالتزام بالتفاهمات مرهون بالتنفيذ المتبادل almayadeen.net"
           }
         ],
         "error": null
@@ -245,6 +245,12 @@
         "url": "https://en.mehrnews.com",
         "headlines": [
           {
+            "title": "Iran, India have great potentials to expand relations: Pres.",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGJzZTlFbURDVUxzb0ZkQXJIeDNIbEtzMDF2Sk5wU0pGMS0tQm1sbW5Vdm1sX1BudTRLMjUwaGpBb3IxMDRlZVNISWdnN0V0WVZiZ3BSekNoRmxCM3hUbl8yUlAyekFrb29YUkRaUkwtZzZlVWRmWHFteWZVSEFOcW5VOVBzekJJSFlQeE9YUk90aDhGOUM4cw?oc=5",
+            "published": "2026-06-30T19:30:00+00:00",
+            "snippet": "Iran, India have great potentials to expand relations: Pres. Mehr News Agency"
+          },
+          {
             "title": "Attack on Dena destroyer amounts to 'war crime’: FM Araghchi",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkQ2Wl8wOTRBMnlYREpITnlQazdjb204V1NTZkN1cDVaRlZmazZtN1JVdmNXVm12bUxWMXV5dW1IZV8tN3Q1SFBNLUZDYjF5a0NBTHMzaTB4TXNTM0pHaHlELWJiVENYQWtHclJMVXYxTlktUzNtNkkwbXdYb1FCOEM4clI0UUp4QktQZ2oyMG1DTGFFckNkVg?oc=5",
             "published": "2026-06-30T16:58:00+00:00",
@@ -267,12 +273,6 @@
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk1sTElSMng5djhYX0FCRDJwejFOcjNreFJ0ZE95UFdTcER4MlJIRG1aS3pyYl9KM3lkd1NFMkp0bXVDYzZUalh4azZfczFCbjdQbTBhbTk4QWNZcjZWU2lUcVVOblpESTJ1UzVlSjBQZnBpUkxRRjdoVkM3aVhOdGZQMFctUkpUUVlqQmNaRTE2aEZ4?oc=5",
             "published": "2026-06-30T10:50:00+00:00",
             "snippet": "The death toll in Gaza has reached 73,066 since October 7, according to the health ministry. Mehr News Agency reported these figures."
-          },
-          {
-            "title": "American pride hits a 25-year record low: Gallup",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUVhmN0J3XzgzVWoxaTlBWm02SFV3bDk5NHNxTkE4UnpUWXVLcEkzUmU3MHlhUGxLV1JsaG1lY3dZS3B3QldJcjVSaWM5WG5zdWVIcEtNbjkyZWItS2c2Vy1reWhDZDJnNUVVQ0RNdkJmeUFzNHZBSFJmWEtQXzVqU3c3akZraVlsamRr?oc=5",
-            "published": "2026-06-30T10:08:00+00:00",
-            "snippet": "American pride hits a 25-year record low: Gallup Mehr News Agency"
           }
         ],
         "error": null
@@ -442,6 +442,12 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "قاليباف: قواتنا المسلحة ضمان تنفيذ التفاهم وليس قرارات مجلس الأمن - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPU3NIZTNzYUFDMjlvcU9DSTNIV0lReXNVVWZiOElpOUsyOWZRdms5QlFJT0NTSkd2a0xCemNkWmRBYnVuS29UdnZhRjRnMlp4ZExqVXU5OEVBdk1EaTRGYmtlY01mYUpmcVJOOVNTZmZjRVY4VHV6MzVkbWRtZVdIRjQ3QmhkSGlHUWNleFkwYkU2RnRvcnB1QUROeWQ0RVRoU1hLLWN5ejVqczdNV2JpN09tNkU0OUFKeVFTT3BNX2IyNVVJdFZ5aHZ0UnVlaTdRZGZUa3BpRlY1MzBtSkpGdU1WU3EzSUdDbkZtQU4zSFM2RHQ0OEo4Z3R1Y3pnenoxQjFPU3VNMWlRUVc2QktBZzBWRUpsWmpFSUliQUp4NzEzZnVYZ3lVUm9fYXpuNEtzSkZ1TDdDQ2NOZ1hGZlIwaVJhSGdZRHpndnFYSS1TWW5qeURIdnRDTDJwWWFodHp0ODhkZWtQXzlIdk80RTA2WkUtclBfdjgwWmh3dlAyY0pFLVpsWWl3ZmFYY0lyd2kyNzJqRlhvbVZ0STRiRWhrTkxDRVZYdXdXTUNZQVRtcW1Zb095amZBaEdEZ3Q4WjlQNHdVQXlrM0psaHdlbHhfa1ZSY1FtZF9fcExhR0FPVllrMnVwRWUyU29pUW5QZ1F0NzRXMUhn?oc=5",
+            "published": "2026-06-30T20:03:26+00:00",
+            "snippet": "قاليباف: قواتنا المسلحة ضمان تنفيذ التفاهم وليس قرارات مجلس الأمن Al Akhbar"
+          },
+          {
             "title": "وزير الخارجية العراقي: نرفض استهداف الخليج والحرب على إيران - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxPOXZ1OTdMNV9ENEdGWGl4Q3pLTUliT3lSWk9CVldVRjFZdjFwRG8xdGhWVWZDaW5OX1phS1NiRzAwRm9oei1kMUpNbkNVZlQwOFFHZXkzMUhNNk90bENhVENVNUt3OGVES0tmZHhjZnNJM2ROb1M3azJjSktGLW5BNmlvWk9XWEtfdzYzSzVFeVMzMXZWLXpseFZBcUpLR2ZVWnFia0xwNVBIZ2hIMTZsME9UdHZyNm5QWHhlSDFFV1NWZTNVQk1VcmJsVktWenMxQzRpZWtZaEZ3a2JNNmxEQ3RlRGpmcG5ZbXVwakZ2T3hpZ3BNQkV3M2RmQVRUcFhOV3RTTzhmMFotSk5vMk5vT3JqRWJzQnNnUzF1cng3ODE5OHR4V1lzQ0l5d0JGRVVSWjBVeURmZ3FKeS1JRWFWbVdKZGRMSkdTQUpydzlFb2UyWVdNWWVRUTkwdHMxNUQ3LVVsZEhHUW9kX3J6X2hqSy16UUFtWTg5dFFuSHM2OXZtUU1JQTQzWmxWOC1EaUxvcFNOdVphNG05VWdKZGViTmx4Q0ZqSEd2WHhtcVZnU2RLTlgwdkFoSE1PZlF1Z002N2RKbHA3NmR5d01JUkpnbGdVMWt6M2VRZ1M2S0pxai13T3ZIRHFBZGFJUQ?oc=5",
             "published": "2026-06-30T18:25:51+00:00",
@@ -460,12 +466,6 @@
             "snippet": "The Supreme Court has rejected Trump's request to restrict birthright citizenship for those born in the United States. Al Akhbar covered the court's decision."
           },
           {
-            "title": "وفد «حماس» المفاوض في القاهرة لاستكمال تطبيق اتفاق غزة - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOMjQxdGhncFBaWlJvZTRSVzBZMWxMWGVBQ1Q2dkZVdk10bWNKY2x1UnA0UU1zdXgzVUtVUzA2cV84aHFYWjZETHo3YzNpSE9aV3RMVXJFS0RTUjczQnptZlYwY3ltMDZmNjc1TE1CVG4tSXpTLU9lZTdKRGZJdWEyWTU1NFpISFhDOThybm9vMGFza1V1bldzaWI4WFpvdUJmQ0duS2lfV2JJTG0tckZxdUZpRVNwOUV6OXVXN2JRQ1BpSjJPMDVyeE1NSlByeThJUk82aUFqLXI3LVh0UExMZDQ4eXhwck5hVEpETDlReXVrQ1ZBbEhrem1WVUpsTzFEOTI5SV94M21HbGJ5bWNJMk1rYlh2bndtY0RLYVVsUkZfb1BuYjM4RVl0amFaZW9MWGNDUW50UHhrZmNITlpENGxoYW5SR2VxS2d3bk9FSDRKQURZVVd3V0Jvci1BcVBraTl2YzN3eFdIaC1sNzdYREFaNUhLOTBhRkg0MzV6X2J3aGZFU1JvQnVaUmF1U2FGNExfVUtFMmJoU016YW1RWVU4T0FWeHJLUEJQYV8wb0lPU0E5WW1aRkNfMmhZZTNMUU0w?oc=5",
-            "published": "2026-06-30T16:01:54+00:00",
-            "snippet": "وفد «حماس» المفاوض في القاهرة لاستكمال تطبيق اتفاق غزة Al Akhbar"
-          },
-          {
             "title": "عقاب جماعي لطلاب السويداء: 13 ألف طالب بلا مستقبل - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQTnZ1c1pYVGdQUjZjZTBpWkkxYml4TXk4blFoc04td1IycWg1OUl5UVY2TFRWaVJXLTBjZnA0V2o2aHhoZXY4RzBiWVF5RzViWWJWbEhzSlNrazloc3g0SndwMmFGM0tTNEFVOUhwVVR5dmx4TUFZSVh2V3ltUmFLVFF1ZXhHaTNYakxqOWtrclZqRHhLQ0ZyaVRKMVJXZnFld2lHWnJZaVNWcVF1LWZqaEVSVWxkZkN6YjhaeEM3eUJQQ3VMX2wzYXBMNy1ydDVoRkdaT0FrZk9XQVMwZHhsTU1kWkFTSUlDRW5OWHVQRTlabXpfSThQbkdBcTFLOXo3Yy1xcWc2d2g5QjdqT1BlOWxvWDB4U09lbXNiRUJtTzNWbDRsZmFmeXkxcnJVcVVUYjhLYmQ2TmtfU2M1TmlWWVByVVM4eXh5clNzeTJOLTFSc2NNV0ROYjZDR3RvdEFXN3lnYzNNMWlRRm5lX0hYck9tem03Ujh6LXFpRnlVaTM4Rmc3UlQwWkJBdGhJRVZBY0drTjd3?oc=5",
             "published": "2026-06-30T14:30:02+00:00",
@@ -481,6 +481,24 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
+            "title": "قوات الاحتلال تقتحم بلدة كفر ثلث شرق قلقيلية",
+            "url": "https://www.almanar.com.lb/article/989932/",
+            "published": "2026-06-30T21:55:43+00:00",
+            "snippet": ""
+          },
+          {
+            "title": "رئيس كتلة الوفاء للمقاومة في البرلمان اللبناني الحاج محمد رعد في حوار خاص مع KHAMENEI.IR: شخصية الإمام القائد الخامنئي كانت فريدة في تاريخنا المعاصر",
+            "url": "https://www.almanar.com.lb/article/989907/",
+            "published": "2026-06-30T21:51:13+00:00",
+            "snippet": "وقال الحاج رعداليد البيضاء التي مدها القائد الشهید للشعوب أشاعت الصورة الزاهية عن الجمهورية الإسلامية"
+          },
+          {
+            "title": "“أوبك+” ترفع سقف إنتاج النفط بمقدار 188 ألف برميل يوميا اعتبارا من شهر تموز",
+            "url": "https://www.almanar.com.lb/article/989897/",
+            "published": "2026-06-30T21:38:31+00:00",
+            "snippet": ""
+          },
+          {
             "title": "الخارجية القطرية: رئيس الوزراء وزير الخارجية بحث مع ويتكوف وكوشنر الوضع الإقليمي ووقف إطلاق النار بلبنان",
             "url": "https://www.almanar.com.lb/article/989877/",
             "published": "2026-06-30T21:25:09+00:00",
@@ -491,24 +509,6 @@
             "url": "https://www.almanar.com.lb/article/989867/",
             "published": "2026-06-30T21:24:28+00:00",
             "snippet": ""
-          },
-          {
-            "title": "جيش الاحتلال يطلق قنابل إنارة غرب مدينة رفح جنوب قطاع غزة",
-            "url": "https://www.almanar.com.lb/article/989852/",
-            "published": "2026-06-30T21:02:56+00:00",
-            "snippet": ""
-          },
-          {
-            "title": "تقرير مصور | باريس تشهد تظاهرة تضامنية مع إيران وفلسطين ولبنان",
-            "url": "https://www.almanar.com.lb/article/989827/",
-            "published": "2026-06-30T20:23:02+00:00",
-            "snippet": "A large demonstration in Paris expressed solidarity with Iran, Palestine, and Lebanon. This report is from almanar.com.lb."
-          },
-          {
-            "title": "تقرير مصور | احتجاج أمام وزارة التربية رفضًا للإفادات المشروطة بالعلامات",
-            "url": "https://www.almanar.com.lb/article/989792/",
-            "published": "2026-06-30T20:19:56+00:00",
-            "snippet": "Teachers and students protested in front of the Ministry of Education demanding unconditional testimonials based on grades. This report is from almanar.com.lb."
           }
         ],
         "error": null
@@ -600,10 +600,16 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "Saudi ambassador receives industry minister in Beirut",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SeVo3RWU0NkJQRERQTFBSRDhiSXZVUkdVb3hYejVBVGtOdG5qSGhOc3RwWjIxWVBiMlBsMlpTX3FYLXNjcE9uVEZaeGxTbWp4THBv?oc=5",
-            "published": "2026-06-30T18:35:53+00:00",
-            "snippet": "Saudi ambassador receives industry minister in Beirut Arab News"
+            "title": "3 UN peacekeepers wounded in attack on C.Africa base",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HYnBfWjNURTFveHhhNVJnc2pLSEU1cDA5ZFo5bFF2c3ZKQzBOQkZKNWJWN053T182Q1pTM2RVSjRTNUNJd0ZDTjlnbk16MFhKUlRF?oc=5",
+            "published": "2026-06-30T21:16:57+00:00",
+            "snippet": "3 UN peacekeepers wounded in attack on C.Africa base Arab News"
+          },
+          {
+            "title": "Three-year-old rescued six days after Venezuela quakes",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sT0ZvUzZYM0FHME9yOE55NkhDWHBuWXp3alE3VEJ4T1l3VkZ5ZjdFdUYzRkVUNi1hRFgzWFNKQ3JGV1dlY2I3WGtnbkJaTkhDdkFJ?oc=5",
+            "published": "2026-06-30T20:11:04+00:00",
+            "snippet": "Three-year-old rescued six days after Venezuela quakes Arab News"
           },
           {
             "title": "Pakistan interior minister arrives in Riyadh",
@@ -612,16 +618,10 @@
             "snippet": "Pakistan's interior minister has arrived in Riyadh for discussions. Arab News reported on the arrival."
           },
           {
-            "title": "China calls for maintaining Iran talks momentum",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93RmhSOGlYMkVsMnJSZHhWZHhBNGFBaGpDbk12TXR0NmlkemQwQXhEaGJhaURoZ1puTVFBejdrY1BQWWVuanBzeDZySHMxMmd3c05n?oc=5",
-            "published": "2026-06-30T17:18:28+00:00",
-            "snippet": "China calls for maintaining Iran talks momentum Arab News"
-          },
-          {
-            "title": "In south Lebanon, Netanyahu says Israel will stay as long as Hezbollah ‘threatens us’",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XUXh3VnBLV28zalUtMWFOZTZzZmRlTHVHdHhKcjRiWExkNEpyZ29tM0Y3elZ6dnJ6eTFKN3N6aW1heVU4WWhjTElKZjJrMHRlNFB3?oc=5",
-            "published": "2026-06-30T17:05:59+00:00",
-            "snippet": "In southern Lebanon, Netanyahu stated that Israel would remain as long as Hezbollah posed a threat. This statement was covered by Arab News."
+            "title": "Pakistan takes seat for first time as permanent member of International Olive Council",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Y1pyMlJqZTF0dDRLSnBmdDhwSEhMdnZPMVAxYjF6bWhwTGFQSnVnM3IzV2xIYjloYTFmMkpUZlVRdFVSYU1ncmZzRUVZaFM3bWRB?oc=5",
+            "published": "2026-06-30T16:57:15+00:00",
+            "snippet": "Pakistan takes seat for first time as permanent member of International Olive Council Arab News"
           },
           {
             "title": "Saudi defense minister receives Maldivian counterpart in Jeddah",
@@ -638,6 +638,12 @@
         "lang": "en",
         "url": "https://gulfnews.com",
         "headlines": [
+          {
+            "title": "Trump criticises Supreme Court birthright citizenship ruling, urges Congress to act",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN192SnZpRE1LNEktNzQ5MktBX2hTVm9WaGNoOVRMbEt6amNvOGxUZlllRHV4bS10V3FrZ1NhUnFwTnhNN2xCSk9nWHJKRjZPaEhaZlA1NS1acjd2NnVKNlRHS0xBWmRwMlV1bVc1VlhWVWVQcE9PTkY1OUhtMG05WUZUNGlVTjllVDJEVk4xdllXdU5od3RJazYzTW5EZUNnZlcwdF9BRC1pSUx0Qng3MnJwTTdYeVFqeDVwQU9zZWdYVW9lMEZPTXVB0gHcAUFVX3lxTE44WU1LLVBQOTNDa3QwckZfcko4NktTR3JYc1NJc3B5SzVEYnVJUzJScDF1V2tmd29EOUNsX1AyRFlfc29TS0k0NUc4OWNUbGRYMW9aYVFMbkhQYzYyZ1h4YUlyc1M2VElqNlo1bjR2bzl6YTRzbVFIYkNMVl9YUVloVWJzcV9QTXZSaXNtajJ6b2FyQW1rSGZod3B2RmRiUkM4YmxGOW1ncGp2T3NtX1NtNHhxa2dLWFh2bmdZNXdjREI0eTRHVUZrX0xNNWt6ZmExekhLa0padXRkRjc?oc=5",
+            "published": "2026-06-30T18:17:32+00:00",
+            "snippet": "Trump criticises Supreme Court birthright citizenship ruling, urges Congress to act Gulf News"
+          },
           {
             "title": "Party Decorations Artists",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUEZRQWVzbUhReE9QQWZTRjFzV0lEUEFLOTlnU2haZFJKQ1lKMURpd0liVG84Mi1MTzkyZ0xqX1Y1RXlwUXBrZFZWTk9DZzVDV2hTN0ctU1p2QklWQUY1OE9RbWhxSXZYTjVWQ3gwVDU?oc=5",
@@ -661,12 +667,6 @@
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1N0UkgzMTVJdExqTzhwbGxUQWZKN1ZkbDJsV09hLWFYY3JQcGpxWk1oN0xOWlZzdk52aGpiNE1Rbjh0NV9mc3VXNE16Y21wSklCWm5CVlhGQ3FwMXhLbkU5UjhrZERRdEZjZzZzOGNOLXRqaXdnaHRvdEs1V0dzN3g4c1JwZk1uakhFM29GSGw4UEduRmMyRHZnbVZlNnoxNjFoWQ?oc=5",
             "published": "2026-06-30T08:24:05+00:00",
             "snippet": "An exclusive commercial mall is available for lease in Dubai Investment Park 2 (DIP 2). Gulf News advertised this opportunity."
-          },
-          {
-            "title": "UAE petrol, diesel prices for July 2026 announced",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3VLRXBPYTZrc3V6a3BkeWdKMUZLR3NLQjZHOF9uYU1KSHNoaHlOVUo0eDBnOTJsSlE4eldzOWc1OWJSdDlIamR2ajV5RzR0NzVKRTVMWVJlNWVDdl8wLVR5TkJaZXBlWUZnSm5XYWFDUjBpWXBuWE85RlFLOG05OFdPbDZMUmd0QmZJOU1zdE1oNHdncWducnIyMnZfQdIBsAFBVV95cUxOa3dLeXVhZUplcHJrSU9Td0hMak9ZWmRxSlotWHpRdXVYQm42cTdJTm80b2d2MUdwek5KSGU0aU5XM3lTM3hHWm8wcF9hSzlYUWZ4blhmcS1kWUtaZEMyRmJqWHQyYzBKNWp1Q3JMZ3BDVXpwWWc2ajhxUkFkWGFyRjY3YWlYRURyZkk0V2tfYVRGSnM1eTJQTW5SN1FMS25xbzh2bzNiODBQT0VXb25rZQ?oc=5",
-            "published": "2026-06-30T06:02:03+00:00",
-            "snippet": "The prices for petrol and diesel in the UAE for July 2026 have been announced. Gulf News published the updated prices."
           }
         ],
         "error": null
@@ -719,12 +719,6 @@
         "url": "https://www.dailysabah.com",
         "headlines": [
           {
-            "title": "Türkiye warns of unprecedented political attacks on UNRWA",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd29LdnRCM3Bld21tbkJJVXFWVGt3ZDh0ZmhVdXY3enhROWZnczZuaFhVSlRpaWM3aC1TRVYzVW9KSjRWaU9hM2o4OEk3a3ZER0NyVmdLeGZRMjgyZnRYaDNVRklaQVhjTnBHbGxJUFg4TWNlc2JDaXVkdEtwb0xldTdZUTh1X0NTWTg1R0xlZ3B6R0VfQ2hBV2NGdlpDbWVtUnJYTFlB0gGrAUFVX3lxTE9hY19RcnJ1dGtFa1dEdGxEQXBvNUd0RGc0bGFfNnNUT0RIUVpqZVd4V1B3SXhIWGRfWDRuVlVSWEI1dWRZOF9MTmxvNzFERnR3OWJOSzZOZm1lQkFaV3NMeFZjbi1YMlBZYXAzY21nem9UUWJjWGpRRnRVLTlyT0NoWW1vb2NON0FNcWcxNFpKNnRna0M2WXJMTDFzUDZnTk5oZmJRRkNZQWhGMA?oc=5",
-            "published": "2026-06-30T19:19:00+00:00",
-            "snippet": "Türkiye warns of unprecedented political attacks on UNRWA | Daily Sabah Daily Sabah"
-          },
-          {
             "title": "Türkiye prepared for all scenarios: President Erdoğan",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTFNS3Q4TTl6WGYtQ1psSUt0SHJjTGdibGVHYUhyQk5BX2JuQS02TnhmTTFuakxaN0NtZDFjWTZtLV9zRmdPajdLdGR3d29IM2dNOWVJc0E1MWV6WXJCcThjZWREeHQyTnA0MGlTSnpyVnhUems5cFpKcFViNnlHaGFhLUdMem9hTkUyeUZ0T2JtMHhGY2dDbDJZck5SY2PSAaQBQVVfeXFMTWRmSDBqVnBTVW8ySV96TllaQmJtcXhyWTJHc1RLNHZTc2V2M2owbFNCeTZfTWVtbW1QRHR6cGdMRWZtWmZ5NERNRDJjZ3prM2NwaW9XY1QzbVg4aVRna05QXzd1SGRyQlNZUWFxa3V1VmN1aTcxV0hZRDRCdFZkQ2xtWVozM0xwbTAtbWQ2bHRlbU5lVXUtMmZLQ2x0eDZrNW5kUGc?oc=5",
             "published": "2026-06-30T15:43:00+00:00",
@@ -743,10 +737,16 @@
             "snippet": "A NATO parliamentary delegation visited the Turkish drone manufacturer Baykar. This visit was reported by Daily Sabah."
           },
           {
-            "title": "Lewandowski set for MLS move to Chicago Fire on 2-year deal",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUtBZGVYdktsQ2lRdlAyYVczUXFjR2RVQjg5Z3BVbDBQREVrbnhycmxDVnRZRXJ2WjEyTzkxdkhNUFktRDFBekFmNGphWEQzWjhjbjY0Y08zSUJWVFROcHkwUklnWTBfcWtYdVhaci1RdVozTWE4WmxMeW5SUDRla0hBRldUOUtOY3JhMU9RWjdocHRmblN2bElnODB6azk3bWd3N9IBqgFBVV95cUxNQXFJdXM3LUdINjVNX2MyaWRqRl9JSHFCUVRmNTJ1M04wUlZqb09Md2R3VkFubnZIV3k2YmVneklJT1Rwam1WZG1iOVA4Y3hLc0FzOW84MFd3TGlJUElHQTRHSzFqRFJSYS1JMlVhaHY1OURMbng5UGZGZlloUUNLbjQwZnhwcGFvanhYVnNQQlJ0N2tlZXdYSGlrQ0RWVDh3WUNNUEdKRnFfUQ?oc=5",
-            "published": "2026-06-30T08:29:00+00:00",
-            "snippet": "Lewandowski is reportedly set for a move to MLS, joining the Chicago Fire on a two-year deal. Daily Sabah covered this transfer news."
+            "title": "Rubio, Saddam Haftar discuss efforts to reunify Libya",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOG5ZbVpOOUhIWGdYSkxnQjZQQWhwNWtYbGwtbkhuRGJQbkVmQVlBMklKOGo1VC0ycHY5aDcybndVVzc2alM4RzY3NzdpMGNYRnpMYW9xUVBRY0QzRENJQzRzZmNaMEhoNUVuMzFUSGdXX0Zvb1FPN1RQdTJQQTNQYkFUUWdWR29PNThKOFlfcGNWZmIwZXAw0gGcAUFVX3lxTE1PRjM3TEEyQVJfY3IwY0xRdGlXVlU4VklwMGFtTXBIaExPZHdpbU1vV2VzN2wyNWxIbXQwNFJpaVJyQUUyTmprRmVzU0k1bUlRX0VMM3hDQXRpdkpkQ3lvS3A5VFJsdUs4ZUJ2WGhLUVhPa05FVXhDTEtfZFN3aWVZdi1lUUNOejlkR3ZEZFBhbm5JVTNLLVlZSi1uaA?oc=5",
+            "published": "2026-06-29T21:26:00+00:00",
+            "snippet": "Rubio, Saddam Haftar discuss efforts to reunify Libya | Daily Sabah Daily Sabah"
+          },
+          {
+            "title": "Blood on their hands: Katz, minister of collective punishment",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTNBdFNIZFVDYXNKN1VJb1l6OTlCYkhnMU9ZdnFHX0JWVDAyOHVwQkZ1eG9waGZiT255QjJqMVJJVHBHVmFUWTN2UWhTaEM1SXZMUzZqdlFFSVZpSFJWU2dMMkRKUUROZC1aajJkM2dZN3NtR3g3NE00TGZaRUJjT2JHY2VRXzlCbVVISlpvdWU2SlowVFQzOEZ0alhoNzRQZ0HSAacBQVVfeXFMUFg4SWVOX1lWQjZIRFpSck5NdTdSbHFfdi1DNUg2ckgtNnpQazB4dkVXeE1vZmJaRHd1aFhzR2JweHBTMWtScGl2YkFiLXBSNTRLeE1nUm9XVzlnZU9Nd0JZUTJ0djl1X3FkZ0NoRlB2MEpQUFNpNVNvLS1pVklxZmFZS25SWldrVk5HaFotQU9BUThUWjM5SGlzcFlDRzlqMmJqN1ZLeUE?oc=5",
+            "published": "2026-06-29T21:05:00+00:00",
+            "snippet": "Blood on their hands: Katz, minister of collective punishment | Daily Sabah Daily Sabah"
           }
         ],
         "error": null
@@ -817,7 +817,7 @@
           {
             "title": "Live blog - US-Israeli war on Iran",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eGVoU3VLRTlWNUNGckFzQ25wWXZ2V2R4ZzlaN2dzUzFLNEctcEFOT3p0TlpwVURkOGVJTzNzN0ZsYVJTWDFmVjZPd3VVa3JZVUs0OFdJNGZYdUI1VWVHQlJPYUw4cXhRcTVhdzB3?oc=5",
-            "published": "2026-06-30T14:35:12+00:00",
+            "published": "2026-06-30T14:33:27+00:00",
             "snippet": "This is a live blog covering the US-Israeli war on Iran. TRT World is providing updates."
           },
           {
