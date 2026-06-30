@@ -1,11 +1,17 @@
 {
-  "updated": "2026-06-30T07:43:02.250034+00:00",
-  "total_headlines": 138,
+  "updated": "2026-06-30T08:12:10.774083+00:00",
+  "total_headlines": 135,
   "terms": [
     {
       "term": "World Cup",
       "count": 32,
       "headlines": [
+        {
+          "title": "At the World Cup, the media has set up a moral checkpoint",
+          "url": "https://www.aljazeera.com/opinions/2026/6/30/at-the-world-cup-the-media-has-set-up-a-moral-checkpoint?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Paraguay declares holiday after beating Germany in World Cup upset",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/paraguay-declares-holiday-after-beating-germany-in-world-cup-upset?traffic_source=rss",
@@ -40,12 +46,6 @@
           "title": "Paraguay coach salutes ‘extraordinary’ World Cup win over Germany",
           "url": "https://www.aljazeera.com/sports/2026/6/30/paraguay-coach-salutes-extraordinary-world-cup-win-over-germany?traffic_source=rss",
           "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Saudi federation president stands down after World Cup exit",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUZJcU85dGM2eWloNkZHWUR6YVViRVVXdDhVRk94SC1zT1I2YlVrR0JUR2lURXJxaXl6OEp3N3VRQlBCWVlVUmJYVjNob3UxX3lpT0JkeHh5cERPU2tOdnhPZ1YtbTZYVWptN240Y0M5WHpGbWJOZVRjenJkWDBIMmtqOWxldjFhYXlOb0tpMk5ZY0ZsRUJGVlY2dVkzVnJ6ZE5NX2dPb1h5anRJVzRBX9IBsAFBVV95cUxPaUZJcU85dGM2eWloNkZHWUR6YVViRVVXdDhVRk94SC1zT1I2YlVrR0JUR2lURXJxaXl6OEp3N3VRQlBCWVlVUmJYVjNob3UxX3lpT0JkeHh5cERPU2tOdnhPZ1YtbTZYVWptN240Y0M5WHpGbWJOZVRjenJkWDBIMmtqOWxldjFhYXlOb0tpMk5ZY0ZsRUJGVlY2dVkzVnJ6ZE5NX2dPb1h5anRJVzRBXw?oc=5",
-          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -130,7 +130,7 @@
     },
     {
       "term": "Israeli",
-      "count": 9,
+      "count": 15,
       "headlines": [
         {
           "title": "Israel kills five in Gaza as drone strikes hit civilians",
@@ -157,6 +157,24 @@
           "region": "Pan-Arab"
         },
         {
+          "title": "Iran well-prepared for ‘historic’ funeral ceremonies of martyred Leader",
+          "url": "https://en.irna.ir/news/86196709/Iran-well-prepared-for-historic-funeral-ceremonies-of-martyred",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Hamas: Global silence on Israeli massacre of Gaza children is complicity in crimes",
+          "url": "https://en.irna.ir/news/86196681/Hamas-Global-silence-on-Israeli-massacre-of-Gaza-children-is",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Palestine envoy urges intl. bodies to stop Israeli annexation",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORl9fTnlpR05SeWp4SEFBRDNDU1hPNk1qeXRURThXZklCd2tjWFZtdFhsTkJmYWl1MlJEaDZGTUh5cEZMeWJTazlsMHoxVGNuQ3RKQWhObmsxbGl1ZkNMbWh1TElDN2tHdW1NVnJqSnE3SGxTaFFORm1mN3RWY1IxQi13YVRlOC1JWXJtM2ZtVUZwbE10ZlA2bllUZ2k?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
           "title": "Israeli strikes kill eight in Gaza, overall toll tops 73,000",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUlvX1ZGQ0UyRl9JWVMxVjg2U1BYRUJocUlvWDlYZVFSd2M1azQxOUIyZXJBaTZDamZzWk1wOGoxMlRDbWV4eEJwajNneXkzNkpBWl9FSkJiRDNFTWRzVXVaNVZFVDdMdU9BMllaX3puVWtiQmcyWnp1Mm4zZVBtM1hYNzhubHNJYVVvdzAxa0c1WU5WM05zaksyNA?oc=5",
           "source": "Mehr News",
@@ -181,40 +199,64 @@
           "region": "Levant"
         },
         {
+          "title": "Child succumbs to critical wounds after being shot by Israeli forces in Al-Bireh - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TNlEwRmkzUDFxS1BJRzh5MTF3dVRpbFpMZmMxd0RVTWFYbHlVQjFvOHJuSUlBQ25JOS1tRVhDX0ZhNVQyZm1FSmxORlRkNVIyYjNabnJqOA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
           "title": "Death toll from Israeli aggression on Lebanon rises to 4257 - WAFA Agency",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xUlIwZFRLUGdoNXBVcnc2N2lYa0JVUXcxS2hLblVsOHJfX0lNbFJtWllvY0d5NFhuWElfckhVUVVIa2NPOGtPaTIyZUxZSDlDMDExTGxFTQ?oc=5",
           "source": "WAFA News",
           "region": "Levant"
+        },
+        {
+          "title": "Israeli army closes charity headquarters in occupied West Bank city of Nablus",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-closes-charity-headquarters-in-occupied-west-bank-city-of-nablus/3981913",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Armenia opposes 'weaponisation' of 1915 events after Israeli recognition",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1NlgtRmw5Mnc5eWs1RUFySEphcHRxdDFvSXZOenNuVU5RSzhTdVRyMndqNDRNRlpzZXZmUnZWNFJjUmN1SEVFME40c1JtMmFzMWNvSEZlbDk?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "talks",
+      "term": "Tehran",
       "count": 7,
       "headlines": [
         {
-          "title": "What is Iran looking for in any upcoming talks with the US?",
-          "url": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Morning update",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Trump Says Iran Meeting ‘Perhaps Important’",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlZxLUVOY0NGZFBiSzVTUkNpaE5CRXRHS202U1MtS0gyT3NScmh4RndmclI2eTRMTUg1MXpzUHRwNGhfclkzTEZ5bTFkWFhGazNHV0FIcXozdnJsTmdTNFZzZUs3WFEyTWRsancyVy1Qd1NoaFgweHJRMkhPNXFYWTFQc1JUNGhjdFFXVE45dXkwaEoxd3ZUNDJTTlgyMG9M0gGgAUFVX3lxTE4yVnEtRU5jQ0ZkUGJLNVNSQ2loTkJFdEdLbTZTUy1LSDJPc1JyaHhGd2ZyUjZ5NExNSDUxenNQdHA0aF9yWTNMRnltMWRYWEZrM0dXQUhxejN2cmxOZ1M0VnNlSzdYUTJNZGxqdzJXLVB3U2hoWDB4clEySE81cVhZMVBzUlQ0aGN0UVdUTjl1eTBoSjF3dlQ0MlNOWDIwb0w?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
+          "title": "Iran well-prepared for ‘historic’ funeral ceremonies of martyred Leader",
+          "url": "https://en.irna.ir/news/86196709/Iran-well-prepared-for-historic-funeral-ceremonies-of-martyred",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "Iran says no talks with US scheduled in coming days",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTZGbXZIczZmSEJwbmVWTndRdUxXNGdTN1g5VmtyNzFVN2J5UWV4MElSYS02SDh1MkJwVEp1NDREXy1rdnRVSDRlT0FSaTdWQTRjZGR1a1hLbGUtYzllV0RIU0UtdUZkX29TWVZkMjFlbm1ZYjI5VFBRaEhXLWpxTVZkVGcwQTJQMlEtQl9zSEhxb0liNEpCU2Q0UDhraTV6YmZSS1JlNlh2UEtUY3fSAbMBQVVfeXFMTnZidlc4RUdHUmhqR2QxSlRSblhnMXl1Y2tUODdLd2lDS2ozQXNYb2dsSzI4SkpKODBlaWlXMmM0NGZyaTJJUXN6N2RWTzBCcFVtaWhCM0xmbWlIVUZpZ1BPRXZSellCb1FrTzQySlNIZzhsOEdNS0ZTMXVwMkdtMlpyRWlwSlJwMUZBaVdvWjZuNG5PODZMdGNEQW4wcnI1SEZpWUpnNWVmVnhZZmNMU0wwa00?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
+          "title": "Hamas: Global silence on Israeli massacre of Gaza children is complicity in crimes",
+          "url": "https://en.irna.ir/news/86196681/Hamas-Global-silence-on-Israeli-massacre-of-Gaza-children-is",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
-          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "Iran, France foreign ministers discuss regional developments over phone",
+          "url": "https://en.irna.ir/news/86196620/Iran-France-foreign-ministers-discuss-regional-developments",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran to honor commitments if US abides by MoU: President Pezeshkian",
+          "url": "https://en.irna.ir/news/86196618/Iran-to-honor-commitments-if-US-abides-by-MoU-President-Pezeshkian",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
           "title": "Baqaei: Iran will not attend negotiations with US in coming days",
@@ -223,16 +265,10 @@
           "region": "Iran"
         },
         {
-          "title": "Top EU officials to visit Türkiye for talks on security, trade",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzNYWlQ3WWhnS2ctR3M4VFJUY3JacUZ1REExV1JwSWh3SG1TOXR0SzRXVjJtNmZHaC0xZWNZdFd6SEhzYzR6Y2NlNEpvTG5PVWVFazVFYWdUZVhmZTFGcFVNOVh2cHV3b3NtYUptbFhhMU9USE0xRjk0d1djQi1HNHpkYk1ONEVSOXYySnUwX3c4ZVlRSGtlN0owcWJVOFg0NkQ1X3VTS3Mtbi1H0gGyAUFVX3lxTE5RdGR0SXNFMUR6Mm9fOFJZR1dTdS1qZURRcy11STA1bmtwdjJiYU51X3lnWGIyUEhZaGRSQk5mUDFqakZEY3p6dUFOLTVlZDBmS3pKQmlPZk9yOUs4R1ZfR0FBT3lvaGxlT21NQ3h6cl9kLWdwdUZfb0V6bXJnNEtCSVduQ1ZCTUJ3VGR3cXRvblhnTGVRNjc0eXV4YmwteUxMYUVZVk5OZnpEaHh5bkZPMFE?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        },
-        {
-          "title": "Ankara hosts senior EU delegation for wide-ranging talks",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGpmTWpOdkcyU0xUaDY0U1hHRlIzZHlrWlFQRThYM0IySFVSaDNkT3JLMUlaTVM1bEw3T0Yza3lrcDJpVGVSMmFuWHh6REZKVkZPWC1UR1JKR040OG9UaENhN2F4UloySDE3Rlk4Ukgtc2tBcUhCQjNlLVl6VC15ZXRMSVpNRVJZOU5QczVnR0Vmcjl3NnlKSUdoTGtiZw?oc=5",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
+          "title": "Iranian President says $6 billion of assets frozen in Qatar will be returned",
+          "url": "https://www.egyptindependent.com/iranian-president-says-6-billion-of-assets-frozen-in-qatar-will-be-returned/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         }
       ]
     },
@@ -285,44 +321,44 @@
       ]
     },
     {
-      "term": "Lebanon",
+      "term": "Israel",
       "count": 6,
       "headlines": [
         {
-          "title": "What is Iran looking for in any upcoming talks with the US?",
-          "url": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Has Greece become Israel's Trojan Horse in the Gulf?",
+          "url": "https://www.middleeasteye.net/opinion/has-greece-become-israels-trojan-horse-gulf",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "UAE lifts travel ban for Lebanon: WAM",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUlkQjduOEhDQXNHcjBTTm83YU5rNjhXdF9Bai0yR1VDNE91N0dTUFl6WXhxS001LUNlV2NyUTVkQmRsaktNWmdvalIwcXg5UU02M29KYWFIczZZUHBRa2t5WU5BWTZLVnEyR0hYb1NWdUxucEtCajdJSWZzVmZRUnBOV0tZdnBmX0VyODFjUll6OTRyQXfSAZYBQVVfeXFMTk1JZEI3bjhIQ0FzR3IwU05vN2FOazY4V3RfQWotMkdVQzRPdTdHU1BZell4cUtNNS1DZVdjclE1ZEJkbGpLTVpnb2pSMHF4OVFNNjNvSmFhSHM2WVBwUWtreVlOQVk2S1ZxMkdIWG9TVnVMbnBLQmo3SUlmc1ZmUVJwTldLWXZwZl9FcjgxY1JZejk0ckF3?oc=5",
-          "source": "Al Arabiya",
+          "title": "Report: US tells Israel to proceed with Gaza reconstruction even if Hamas stays armed",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-tells-israel-proceed-gaza-reconstruction-even-if-hamas-stays",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "UAE allows citizens to travel to Lebanon again",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnpYSGk5RlRVMVZDREN2Nk9tUC1BSERKSVBteHBxM0pnSXlKU2t3ME84TGpMUWJ5eDlhREdCWXhoTGlKdldiVTlMT1RkYUJMTDFxLUVIQjlXX0xyV0t2MlU1TW9OeC1CRm52UjF5V0tZZkw0Nk5sOWtZS1d0ZTUxLV90VHBZeUx4LWxfX0FzT191blBPai1mekVlWEFwNWVW?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Israel kills five in Gaza as drone strikes hit civilians",
+          "url": "https://www.newarab.com/news/israel-kills-five-gaza-drone-strikes-hit-civilians",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Waste levies in Lebanon: Government suspends contested decree",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU1ZaU5PVmpNTWhuSjVTQ2RBRml0VG5DMWcwb1hyRlNLTHJkRXVPeGhpdTQ0U1R1RmpuOUZkZnF0aXd1bE5aZTh0UGNveEhkTDR1VU9uYVNpYkpiSEVJY0NoOFlwTEZYYllaWm1nWWItWmlJSVljeFRJTDA2UmhrbHllNU9UMzdpUFB6OXJhcWFock9zcGtHRDZBeTl4ZWdidnJCQzBSbXBlQzIxMVdlVmFBOA?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Hamas: Global silence on Israeli massacre of Gaza children is complicity in crimes",
+          "url": "https://en.irna.ir/news/86196681/Hamas-Global-silence-on-Israeli-massacre-of-Gaza-children-is",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "Fighting in Lebanon continues days after new agreement",
-          "url": "https://www.egyptindependent.com/fighting-in-lebanon-continues-days-after-new-agreement/",
+          "title": "Egypt condemns Israel’s attacks inside Syrian territories",
+          "url": "https://www.egyptindependent.com/egypt-condemns-israels-attacks-inside-syrian-territories/",
           "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Death toll from Israeli aggression on Lebanon rises to 4257 - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xUlIwZFRLUGdoNXBVcnc2N2lYa0JVUXcxS2hLblVsOHJfX0lNbFJtWllvY0d5NFhuWElfckhVUVVIa2NPOGtPaTIyZUxZSDlDMDExTGxFTQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "Lebanese president, army chief discuss troops’ role after framework agreement with Israel",
+          "url": "https://www.aa.com.tr/en/middle-east/lebanese-president-army-chief-discuss-troops-role-after-framework-agreement-with-israel/3981920",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -369,114 +405,6 @@
       ]
     },
     {
-      "term": "Venezuela",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "In pictures: Venezuela earthquakes death toll surpasses 1,700",
-          "url": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "‘10,000 Body Bags’ Procured for Venezuela: UN",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWNqT2o0Ynp6NXV5V1RDeHhEcHZibGdUc2c1bWNtZHNTdTlTdkp1SmJJczZWMjV4Wi1pbXEtaC1pU19lVXFPUGVPMGpGbHY2T3RvQWlxcWdiS0d6X1JIN0VpU2hmOTFvYm5CX01fMWw0aUw0UHVuWnhRMWZjc21UQnBDLVZNUmxQNWM4R3pMUDZLZjlOSnV2ZU5HY0NTWlNs0gGgAUFVX3lxTE4tY2pPajRieno1dXlXVEN4eERwdmJsZ1RzZzVtY21kc1N1OVN2SnVKYklzNlYyNXhaLWltcS1oLWlTX2VVcU9QZU8wakZsdjZPdG9BaXFxZ2JLR3pfUkg3RWlTaGY5MW9ibkJfTV8xbDRpTDRQdW5aeFExZmNzbVRCcEMtVk1SbFA1YzhHekxQNktmOU5KdXZlTkdjQ1NaU2w?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Venezuela quakes death toll rises to 1,719",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWVZRzRRR0R0TmN2a0ZQanUwNGdvYnBkVEdCeTg4VFpjcThGSHUzZ2k2eklEZVpnczRMYzZTby1BQXlUQmZITGpIdWlvR3gwNzJ3aXczRVFpZlNzcmZJTWhWdXNFRFNUZkVsRFZZWVlCOTlnRGZuTFMtVWdlREFKVXVuSE0?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Citizen’s remains recovered from rubble in quake-hit Venezuela — FM",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEs3ZkoxX2ROcVdCYWhtblhQQ0RicTd2OXVaTnpuS1ZpcEwzbDFUNmdEakVxbnM3RTNVNDVkRGx3cnRtVGtkRGJhaFVVNnV2bFQxdUdHb3p4dHktd2tTVkdvR1A2WWxmRUFNT2MwNnZoeWRBdkdxRklab2NLRV9hRVlsMmF2MnRERG9IbzBfdi1LZy1Ta05zWXZycEtBQXp1?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Jordan’s search, rescue team continues field operations in Venezuela",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Uxc1phTmpaTXBlRVlLaEJ3RXlXeDVua0RneUNBaTRQR2swVVRfcHFsNlhLX0xkd1Y4dVZqTWFPb0M1SW1TV1RMSGM4emZfcXJIWGIzRE5FMDN6TkFPMWJBWUU1aXkxUEVtNTlHOUIyQmF4RmxHN0JuOEFtUGJRejJ4aHl0SEJCMTFfdDlxTTk1OTF6ZjJ4Umt4VXZqaDl3Y1lr?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Gaza",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Report: US tells Israel to proceed with Gaza reconstruction even if Hamas stays armed",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-tells-israel-proceed-gaza-reconstruction-even-if-hamas-stays",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel kills five in Gaza as drone strikes hit civilians",
-          "url": "https://www.newarab.com/news/israel-kills-five-gaza-drone-strikes-hit-civilians",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli strikes kill eight in Gaza, overall toll tops 73,000",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUlvX1ZGQ0UyRl9JWVMxVjg2U1BYRUJocUlvWDlYZVFSd2M1azQxOUIyZXJBaTZDamZzWk1wOGoxMlRDbWV4eEJwajNneXkzNkpBWl9FSkJiRDNFTWRzVXVaNVZFVDdMdU9BMllaX3puVWtiQmcyWnp1Mm4zZVBtM1hYNzhubHNJYVVvdzAxa0c1WU5WM05zaksyNA?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "UN official: Gaza still faces profound uncertainty and immense human suffering - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtX0M0ZzdXczBJSHlZMGxyS21HY3BISDFYdzdNYlFpR29fb2NsUzBQYXpETVJCdmhXY1p1cGQ5b2JzNW5ua3pId3pldXlVZlc4MUVkT1d4cw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "From rubble to music: Gaza’s oud repairman",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZW4xcXhhUG1QS0J1VWU1RmUzQnBLSkZzVTJIbUVjc01ITVpaZ2FLSzg1dGFlbDZHYnNmZlhkMXBBeWtFT19wMUJyTFpNRnM2bkhxTW5SQ3lMakJ5SlFHUXpyWFlBODNEeE1KdENfTnJsS21oSDhZSjlqcFpsYjdYVF9QN0trR3ZRVlh0MFR3?oc=5",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Morning update",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump Says Iran Meeting ‘Perhaps Important’",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlZxLUVOY0NGZFBiSzVTUkNpaE5CRXRHS202U1MtS0gyT3NScmh4RndmclI2eTRMTUg1MXpzUHRwNGhfclkzTEZ5bTFkWFhGazNHV0FIcXozdnJsTmdTNFZzZUs3WFEyTWRsancyVy1Qd1NoaFgweHJRMkhPNXFYWTFQc1JUNGhjdFFXVE45dXkwaEoxd3ZUNDJTTlgyMG9M0gGgAUFVX3lxTE4yVnEtRU5jQ0ZkUGJLNVNSQ2loTkJFdEdLbTZTUy1LSDJPc1JyaHhGd2ZyUjZ5NExNSDUxenNQdHA0aF9yWTNMRnltMWRYWEZrM0dXQUhxejN2cmxOZ1M0VnNlSzdYUTJNZGxqdzJXLVB3U2hoWDB4clEySE81cVhZMVBzUlQ0aGN0UVdUTjl1eTBoSjF3dlQ0MlNOWDIwb0w?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
-          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump says Doha meeting with Iran this week 'perhaps important - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuM0tpeEtESTZQR3J0ckc0MTJ4RmhWUjJ4aUNuWkU3czhtS0RsWF9rTWRac0tNVmxuN0FMZGZ4b1N0V2p5QXhaekpDeWVDbjBNVWc?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "Trump’s biggest challenge on Iran may well be the US Congress",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVJqQ3JvRjdUQUVaR3R2dG11YUZpQ1pKSnI5eFZJdm1Jc3NWZG1oXzRpNThQaGE3Y3VlaktDSnZrekNVaThjUkNNOHpqYmI3bThUUHdmelhkcUl4UF83c3NXeTdlZ0Fub0F3cmV3TmVGT1FjWkJnMk5HaUtKeDFGaGpWTFQ5eHV4aDRCLXNHcHFubUVtZ0lXa3Uza0RXYzhuR3VqM0VrdlEwUkpXZ0M5Z3NsWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Iranian",
       "count": 5,
       "headlines": [
@@ -487,10 +415,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Araghchi discusses memorandum with French foreign minister",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-discusses-memorandum-french-foreign-minister",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
+          "title": "Iran, France foreign ministers discuss regional developments over phone",
+          "url": "https://en.irna.ir/news/86196620/Iran-France-foreign-ministers-discuss-regional-developments",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
           "title": "Iran to honour deal if US does: Pezeshkian",
@@ -513,164 +441,20 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "What is Iran looking for in any upcoming talks with the US?",
-          "url": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gharibabadi: Demining Hormuz Strait only to be done by Iran",
-          "url": "https://en.irna.ir/news/86196408/Gharibabadi-Demining-Hormuz-Strait-only-to-be-done-by-Iran",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Almost all S. Korean vessels left Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEZyX2o3M0JBakVOWkpvWVhtdUFBb2EzS0ppVVlvQ3pjWFpxT3dJRFRfRVlyVjlGbWhuM2QzRERBYXhVMEgyb0paTmVjdTNKQnY0UGJkRHdtOVBmazF4d3U4Wkk3eXRoYXV1RXZ4bWpLQlQ0NExjUWVjcUxNWnF0dXJCeFBQZ0Q5UDNrN2pB?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "No country allowed to intervene in demining in Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT3JnbGNKdnBmZk1lWklnV25iTkhoV3RmQUZRamVtMXBDdXc3YjJIeWE3ckpZNlZLX1hWcUc0YUFtWFJpcUZ0V3NKRTN6S1M4YUdSTVNMejY5YTNtMFBaNEtKbXRrSlpDSmJrVm1FUXhzTk9OLVlMMGpqb0VrbVQ2Qmx5ajVoVEZ0LW9fdEptRlZZMmM?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Israel",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Report: US tells Israel to proceed with Gaza reconstruction even if Hamas stays armed",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-tells-israel-proceed-gaza-reconstruction-even-if-hamas-stays",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel kills five in Gaza as drone strikes hit civilians",
-          "url": "https://www.newarab.com/news/israel-kills-five-gaza-drone-strikes-hit-civilians",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Egypt condemns Israel’s attacks inside Syrian territories",
-          "url": "https://www.egyptindependent.com/egypt-condemns-israels-attacks-inside-syrian-territories/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Democratic lawmaker to vote for measure halting US military aid to Israel",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUN0b0JHU1doZmM1dkw5dUl3aDFQTGxQbGNXZ29PanpxV19GT1VDMGpxNGhldGJnTE41dzJGc19TQ1hBT3M0Ukp3RVlnZ3NKd1pPcHZyM2VOUDNzcjNUTi1za3NPOW1QN2lqM0o5REVwT3BNOEFOaVZiVkVfNmJoV2VBb25KQzV6RFR4WTJjVTZzLVdUYXlHeTd5ZnVOTXlZRDhKeERYeVF0OE5EUml0Z2VybTB5UkR6UjZfdE1neWRpWWZta0E3bzBfdGNEYXFUUTRySXZDSVpRcEd0aG11SnBfRkZ2QQ?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Donald",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Morning update",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump Says Iran Meeting ‘Perhaps Important’",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlZxLUVOY0NGZFBiSzVTUkNpaE5CRXRHS202U1MtS0gyT3NScmh4RndmclI2eTRMTUg1MXpzUHRwNGhfclkzTEZ5bTFkWFhGazNHV0FIcXozdnJsTmdTNFZzZUs3WFEyTWRsancyVy1Qd1NoaFgweHJRMkhPNXFYWTFQc1JUNGhjdFFXVE45dXkwaEoxd3ZUNDJTTlgyMG9M0gGgAUFVX3lxTE4yVnEtRU5jQ0ZkUGJLNVNSQ2loTkJFdEdLbTZTUy1LSDJPc1JyaHhGd2ZyUjZ5NExNSDUxenNQdHA0aF9yWTNMRnltMWRYWEZrM0dXQUhxejN2cmxOZ1M0VnNlSzdYUTJNZGxqdzJXLVB3U2hoWDB4clEySE81cVhZMVBzUlQ0aGN0UVdUTjl1eTBoSjF3dlQ0MlNOWDIwb0w?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump says Doha meeting with Iran this week 'perhaps important - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuM0tpeEtESTZQR3J0ckc0MTJ4RmhWUjJ4aUNuWkU3czhtS0RsWF9rTWRac0tNVmxuN0FMZGZ4b1N0V2p5QXhaekpDeWVDbjBNVWc?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "Trump’s biggest challenge on Iran may well be the US Congress",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVJqQ3JvRjdUQUVaR3R2dG11YUZpQ1pKSnI5eFZJdm1Jc3NWZG1oXzRpNThQaGE3Y3VlaktDSnZrekNVaThjUkNNOHpqYmI3bThUUHdmelhkcUl4UF83c3NXeTdlZ0Fub0F3cmV3TmVGT1FjWkJnMk5HaUtKeDFGaGpWTFQ5eHV4aDRCLXNHcHFubUVtZ0lXa3Uza0RXYzhuR3VqM0VrdlEwUkpXZ0M5Z3NsWQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Doha",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Morning update",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump Says Iran Meeting ‘Perhaps Important’",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlZxLUVOY0NGZFBiSzVTUkNpaE5CRXRHS202U1MtS0gyT3NScmh4RndmclI2eTRMTUg1MXpzUHRwNGhfclkzTEZ5bTFkWFhGazNHV0FIcXozdnJsTmdTNFZzZUs3WFEyTWRsancyVy1Qd1NoaFgweHJRMkhPNXFYWTFQc1JUNGhjdFFXVE45dXkwaEoxd3ZUNDJTTlgyMG9M0gGgAUFVX3lxTE4yVnEtRU5jQ0ZkUGJLNVNSQ2loTkJFdEdLbTZTUy1LSDJPc1JyaHhGd2ZyUjZ5NExNSDUxenNQdHA0aF9yWTNMRnltMWRYWEZrM0dXQUhxejN2cmxOZ1M0VnNlSzdYUTJNZGxqdzJXLVB3U2hoWDB4clEySE81cVhZMVBzUlQ0aGN0UVdUTjl1eTBoSjF3dlQ0MlNOWDIwb0w?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
-          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump says Doha meeting with Iran this week 'perhaps important - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuM0tpeEtESTZQR3J0ckc0MTJ4RmhWUjJ4aUNuWkU3czhtS0RsWF9rTWRac0tNVmxuN0FMZGZ4b1N0V2p5QXhaekpDeWVDbjBNVWc?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Tehran",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Morning update",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran to honor commitments if US abides by MoU: President Pezeshkian",
-          "url": "https://en.irna.ir/news/86196618/Iran-to-honor-commitments-if-US-abides-by-MoU-President-Pezeshkian",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Baqaei: Iran will not attend negotiations with US in coming days",
-          "url": "https://en.irna.ir/news/86196483/Baqaei-Iran-will-not-attend-negotiations-with-US-in-coming-days",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iranian President says $6 billion of assets frozen in Qatar will be returned",
-          "url": "https://www.egyptindependent.com/iranian-president-says-6-billion-of-assets-frozen-in-qatar-will-be-returned/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "war",
-      "count": 4,
+      "count": 5,
       "headlines": [
         {
           "title": "Moody's economist: Iran war has cost average American household $1,000",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-war-has-cost-average-american-household-1000-moody-economist",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran well-prepared for ‘historic’ funeral ceremonies of martyred Leader",
+          "url": "https://en.irna.ir/news/86196709/Iran-well-prepared-for-historic-funeral-ceremonies-of-martyred",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
           "title": "Economist estimates Iran war has cost average US household $1,000 - ایران اینترنشنال",
@@ -693,68 +477,8 @@
       ]
     },
     {
-      "term": "UAE",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "UAE lifts travel ban for Lebanon: WAM",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUlkQjduOEhDQXNHcjBTTm83YU5rNjhXdF9Bai0yR1VDNE91N0dTUFl6WXhxS001LUNlV2NyUTVkQmRsaktNWmdvalIwcXg5UU02M29KYWFIczZZUHBRa2t5WU5BWTZLVnEyR0hYb1NWdUxucEtCajdJSWZzVmZRUnBOV0tZdnBmX0VyODFjUll6OTRyQXfSAZYBQVVfeXFMTk1JZEI3bjhIQ0FzR3IwU05vN2FOazY4V3RfQWotMkdVQzRPdTdHU1BZell4cUtNNS1DZVdjclE1ZEJkbGpLTVpnb2pSMHF4OVFNNjNvSmFhSHM2WVBwUWtreVlOQVk2S1ZxMkdIWG9TVnVMbnBLQmo3SUlmc1ZmUVJwTldLWXZwZl9FcjgxY1JZejk0ckF3?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "UAE allows citizens to travel to Lebanon again",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnpYSGk5RlRVMVZDREN2Nk9tUC1BSERKSVBteHBxM0pnSXlKU2t3ME84TGpMUWJ5eDlhREdCWXhoTGlKdldiVTlMT1RkYUJMTDFxLUVIQjlXX0xyV0t2MlU1TW9OeC1CRm52UjF5V0tZZkw0Nk5sOWtZS1d0ZTUxLV90VHBZeUx4LWxfX0FzT191blBPai1mekVlWEFwNWVW?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "UAE petrol, diesel prices for July 2026 announced",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3VLRXBPYTZrc3V6a3BkeWdKMUZLR3NLQjZHOF9uYU1KSHNoaHlOVUo0eDBnOTJsSlE4eldzOWc1OWJSdDlIamR2ajV5RzR0NzVKRTVMWVJlNWVDdl8wLVR5TkJaZXBlWUZnSm5XYWFDUjBpWXBuWE85RlFLOG05OFdPbDZMUmd0QmZJOU1zdE1oNHdncWducnIyMnZfQdIBsAFBVV95cUxOa3dLeXVhZUplcHJrSU9Td0hMak9ZWmRxSlotWHpRdXVYQm42cTdJTm80b2d2MUdwek5KSGU0aU5XM3lTM3hHWm8wcF9hSzlYUWZ4blhmcS1kWUtaZEMyRmJqWHQyYzBKNWp1Q3JMZ3BDVXpwWWc2ajhxUkFkWGFyRjY3YWlYRURyZkk0V2tfYVRGSnM1eTJQTW5SN1FMS25xbzh2bzNiODBQT0VXb25rZQ?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        },
-        {
-          "title": "All aboard: UAE's Etihad Rail passenger trains officially start today",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnhmaEVCekdRaVc5QjYzZHZUS21IQXNxNU5PdFhtZ3RMa1JVWUt4aENLRjJXTVVuVHdPeGg1dzNyOGNtVC1ab1ZqeFJ1dnVhaUluWl9sTmMyY09XQ1dtU0p1alRpaExNSm5uUU5KWk1GSWloMnFlSUJ5ZkRXUkYtWm9KNEw1Z3FaQ01WdDQ1OHZZVXFQMjROckhxSk1WTUtlenFQbkZVY0E2NzZ1VExJ?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Iraq",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Iraq judiciary seizes over $14 million in anti-graft campaign",
-          "url": "https://www.newarab.com/news/iraq-judiciary-seizes-over-14-million-anti-graft-campaign",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "FM Araghchi: Iran-Iraq solidarity reflects deep religious, human bonds",
-          "url": "https://en.irna.ir/news/86196331/FM-Araghchi-Iran-Iraq-solidarity-reflects-deep-religious-human",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iraq sets September 30 deadline for pro-Iran groups to disarm",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUpFZXdFWEVreVFXUzdtdVEyWEpOTl9qOEJPMDhDdXBvVlFSNFo2ekZWbkZOWW51UHFoYjVaVnM2SVVnWXFTYmxqdjZINmVhV2VEUGQ3XzNZdTIzemRUUzFrdEtYQkswdHNmUTdWRDU4amkyMm4zRHNTMWJBa3NjbVpwV2w0SGxrMll4ZGdLbjV4bElIUDRMRFBneFI?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Iraq to probe World Cup failure, map overhaul following no wins",
-          "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
       "term": "agreement",
-      "count": 4,
+      "count": 5,
       "headlines": [
         {
           "title": "إيران تربط الاتفاق النهائي بتنفيذ مذكرة التفاهم.. وتنفي مفاوضات وشيكة مع واشنطن",
@@ -779,6 +503,102 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFQjByaEhZYXZiUHBuOEdxNkFPNEtmTklPRFlwTURyVUkyYlNlb0JjU3Q4Z1ZNaWRuQk9NQTk4MHBIRUlkLWV0cFdYQlVXaXItN0g4?oc=5",
           "source": "Arab News",
           "region": "Gulf"
+        },
+        {
+          "title": "Lebanese president, army chief discuss troops’ role after framework agreement with Israel",
+          "url": "https://www.aa.com.tr/en/middle-east/lebanese-president-army-chief-discuss-troops-role-after-framework-agreement-with-israel/3981920",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Gaza",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Report: US tells Israel to proceed with Gaza reconstruction even if Hamas stays armed",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-tells-israel-proceed-gaza-reconstruction-even-if-hamas-stays",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israel kills five in Gaza as drone strikes hit civilians",
+          "url": "https://www.newarab.com/news/israel-kills-five-gaza-drone-strikes-hit-civilians",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hamas: Global silence on Israeli massacre of Gaza children is complicity in crimes",
+          "url": "https://en.irna.ir/news/86196681/Hamas-Global-silence-on-Israeli-massacre-of-Gaza-children-is",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Israeli strikes kill eight in Gaza, overall toll tops 73,000",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUlvX1ZGQ0UyRl9JWVMxVjg2U1BYRUJocUlvWDlYZVFSd2M1azQxOUIyZXJBaTZDamZzWk1wOGoxMlRDbWV4eEJwajNneXkzNkpBWl9FSkJiRDNFTWRzVXVaNVZFVDdMdU9BMllaX3puVWtiQmcyWnp1Mm4zZVBtM1hYNzhubHNJYVVvdzAxa0c1WU5WM05zaksyNA?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Trump",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Morning update",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
+          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump says Doha meeting with Iran this week 'perhaps important - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuM0tpeEtESTZQR3J0ckc0MTJ4RmhWUjJ4aUNuWkU3czhtS0RsWF9rTWRac0tNVmxuN0FMZGZ4b1N0V2p5QXhaekpDeWVDbjBNVWc?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "Trump’s biggest challenge on Iran may well be the US Congress",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVJqQ3JvRjdUQUVaR3R2dG11YUZpQ1pKSnI5eFZJdm1Jc3NWZG1oXzRpNThQaGE3Y3VlaktDSnZrekNVaThjUkNNOHpqYmI3bThUUHdmelhkcUl4UF83c3NXeTdlZ0Fub0F3cmV3TmVGT1FjWkJnMk5HaUtKeDFGaGpWTFQ5eHV4aDRCLXNHcHFubUVtZ0lXa3Uza0RXYzhuR3VqM0VrdlEwUkpXZ0M5Z3NsWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Palestinian",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Israeli forces kill Palestinian teen in occupied West Bank",
+          "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "UN chief slams 'relentless' Israeli settlement expansion",
+          "url": "https://www.newarab.com/news/un-chief-slams-relentless-israeli-settlement-expansion",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "الأمم المتحدة تدين الجرائم الإسرائيلية في الأراضي الفلسطينية المحتلة",
+          "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQV1d0bWZlMHAxS2thNGxYeThZbGhHaFpSdHQ3SzZEMnEzR1g0elh6OWs3eEZkZkx6MVdzV0h3cGttY0Y5NDVnMUZTaFJjRnVnMkpub2lsUm90ZUJ2WEdvRmtpWGIwZURVRjl0MC0tVXh5N2xzN2RpN2NKQTlLWC1rWi1rZk42VF80bWFVbEM2MFZsWDQ3VlRpNllHQTNUeFZEWDBwREY0dzBFTjhCaDJQOUk2QkZNaE9iX3NZT3V2Q1hEeE9MdEhVbGZwVTdObVljNWJRUDhLd1gzSklQbEZaZjlmU21FSlh4WDZGSUVrQkRROUU4cVRoSEp5YXFtMjRYcDZCUnlYYzJ1M2tUY25MWWVCZTRZUDhxUzkwenMwa2VUZGNWR0gzVlVXa0wtbjlWWWU3T0VFWUZwVWV0aGlXeUlLanFJM0xNVkNIbjNGZkVyVVByczdFN0k1NmdhMVNpeFRybDJfTUh0S0JEQ1ZLSWFDNU9UVHhOVzhialdKcWhHdWdDZk1LU3FOYTFMMVBDNEI0OFpTb3RORHF1R0RJdGVSVUhNUHhpWUlELUozOXBvaDhkR3U0UFFzU3VJUmdiU2Foc2VKdmx1cGx2M1FWR0lVaWRsTnF3Q0djS1o0SURyZHBmazNOQURadHctM2pZTnR6VXE3LVRPNGl1TDdGcg?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Hamas: Global silence on Israeli massacre of Gaza children is complicity in crimes",
+          "url": "https://en.irna.ir/news/86196681/Hamas-Global-silence-on-Israeli-massacre-of-Gaza-children-is",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -809,6 +629,36 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlQ4eEZOOGUwR0xlbXVhazN2MzVvRGhZWVhkZkdUUUk5VG5SZHFFdnRlLWpKQldBU3dmZFFuYlgwbkpmZ2dyajNBSDdYMzljZ2hkbnE4N29OUEh1VjFaRnZBalpOZjFrajhFT1h6cnpRRVB3cVh0UmY4WXU2cmRxMU43R1dsZzZhWDdDZUpmcXJTVTl3OENvSjZtUGU3SkpkSlHSAacBQVVfeXFMT1dYRWFnU2NaTUc0aDRyR3hqSGo1SHBHQlZTMEtNX0V4V3NjbW9XblNtdWxRa2V5bmhRYWx4T050WXhMZzZrOFFQcjRmdUtJQmNCY3ZheFlTbUg4dU5NUU9BVEFZXzlNckVoMjhISE1FTXVCdFd0SWcxN0N4T1laeHh4Y2tnbW05SUNRck9UOFdrWS00bUs4dGpxZG1mal92WXo2Z0dmbUU?oc=5",
           "source": "Daily Sabah",
           "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Lebanon",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "UAE allows citizens to travel to Lebanon again",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnpYSGk5RlRVMVZDREN2Nk9tUC1BSERKSVBteHBxM0pnSXlKU2t3ME84TGpMUWJ5eDlhREdCWXhoTGlKdldiVTlMT1RkYUJMTDFxLUVIQjlXX0xyV0t2MlU1TW9OeC1CRm52UjF5V0tZZkw0Nk5sOWtZS1d0ZTUxLV90VHBZeUx4LWxfX0FzT191blBPai1mekVlWEFwNWVW?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Waste levies in Lebanon: Government suspends contested decree",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU1ZaU5PVmpNTWhuSjVTQ2RBRml0VG5DMWcwb1hyRlNLTHJkRXVPeGhpdTQ0U1R1RmpuOUZkZnF0aXd1bE5aZTh0UGNveEhkTDR1VU9uYVNpYkpiSEVJY0NoOFlwTEZYYllaWm1nWWItWmlJSVljeFRJTDA2UmhrbHllNU9UMzdpUFB6OXJhcWFock9zcGtHRDZBeTl4ZWdidnJCQzBSbXBlQzIxMVdlVmFBOA?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Fighting in Lebanon continues days after new agreement",
+          "url": "https://www.egyptindependent.com/fighting-in-lebanon-continues-days-after-new-agreement/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Death toll from Israeli aggression on Lebanon rises to 4257 - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xUlIwZFRLUGdoNXBVcnc2N2lYa0JVUXcxS2hLblVsOHJfX0lNbFJtWllvY0d5NFhuWElfckhVUVVIa2NPOGtPaTIyZUxZSDlDMDExTGxFTQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         }
       ]
     },
@@ -921,7 +771,7 @@
       ]
     },
     {
-      "term": "US-Iran",
+      "term": "Donald",
       "count": 3,
       "headlines": [
         {
@@ -931,16 +781,40 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Araghchi discusses memorandum with French foreign minister",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-discusses-memorandum-french-foreign-minister",
+          "title": "Trump says Doha meeting with Iran this week 'perhaps important - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuM0tpeEtESTZQR3J0ckc0MTJ4RmhWUjJ4aUNuWkU3czhtS0RsWF9rTWRac0tNVmxuN0FMZGZ4b1N0V2p5QXhaekpDeWVDbjBNVWc?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
+        },
+        {
+          "title": "Trump’s biggest challenge on Iran may well be the US Congress",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVJqQ3JvRjdUQUVaR3R2dG11YUZpQ1pKSnI5eFZJdm1Jc3NWZG1oXzRpNThQaGE3Y3VlaktDSnZrekNVaThjUkNNOHpqYmI3bThUUHdmelhkcUl4UF83c3NXeTdlZ0Fub0F3cmV3TmVGT1FjWkJnMk5HaUtKeDFGaGpWTFQ5eHV4aDRCLXNHcHFubUVtZ0lXa3Uza0RXYzhuR3VqM0VrdlEwUkpXZ0M5Z3NsWQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Doha",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Morning update",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Is US-Iran deal under strain after fresh escalation?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlJqRGo5c0RsOXZTR0VqLUtrUVZDTHpaWTRxZm5Td0p4UXFCRXV6X213TjNFUmExSzdKVDFBVldrZGFRcU15UXphT1hiNGp6TkVjdXlwSXkxTFR2LVNNWWNkZ0FQXzduRHRMVjZ5Mm9BOF9HTmZGYVU3ZERDRk5FVGNGVHZEM0FsdWx3WGdTcF9Ra1FuMjlXLUpfN09oUEhnT29fbE1lTQ?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
+          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
+          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump says Doha meeting with Iran this week 'perhaps important - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuM0tpeEtESTZQR3J0ckc0MTJ4RmhWUjJ4aUNuWkU3czhtS0RsWF9rTWRac0tNVmxuN0FMZGZ4b1N0V2p5QXhaekpDeWVDbjBNVWc?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
         }
       ]
     },
@@ -993,54 +867,6 @@
       ]
     },
     {
-      "term": "French",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Araghchi discusses memorandum with French foreign minister",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-discusses-memorandum-french-foreign-minister",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Vice President receives French and Swiss envoys in separate farewell meetings - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ycmczc2c2TmFrSnhrOUpxTTFYMENodXZkNTNSSkhvUGZDSjFYXzdnU1JCZFllTUkwSmp1MEowQXJNQnA3NXlqR2tRNTJnSWJHOC01Nk5XZw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "French inflation slows more than expected in June as energy costs fall",
-          "url": "https://www.aa.com.tr/en/europe/french-inflation-slows-more-than-expected-in-june-as-energy-costs-fall/3981914",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Syria",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iraqi FM Makes First Visit to Syria Since al-Assad’s Fall",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb05LbUdpMnNFOGIydWx2aGRoek40dkJ5M1RyVm9WaHZvdEVydmJPLUFHc1puVDJhYUJ0V2FiV09EWlhqRE1nYWVONHh0Qnl2QzhIbVRmS1BsQ2s4cTdIdkV3dWx3YlYwdER0RjVrZVpTbVpxcU9xd1FvVnZ4dzlQNGNXU0dQNmhyQU5NZXBfd1h1TGhvcC1BdFd0NUZsc2E2RmZWVUltRDZyNjhkU2xpOXo0QdIBswFBVV95cUxNb05LbUdpMnNFOGIydWx2aGRoek40dkJ5M1RyVm9WaHZvdEVydmJPLUFHc1puVDJhYUJ0V2FiV09EWlhqRE1nYWVONHh0Qnl2QzhIbVRmS1BsQ2s4cTdIdkV3dWx3YlYwdER0RjVrZVpTbVpxcU9xd1FvVnZ4dzlQNGNXU0dQNmhyQU5NZXBfd1h1TGhvcC1BdFd0NUZsc2E2RmZWVUltRDZyNjhkU2xpOXo0QQ?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Syria slams Israeli incursions after violence in south",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmp1d01obUFzbHBYRHpxYXRjX3NWSV92UFZMVU9IOFYwWVhQSFdLS21JaEUtdkpYTk9ZT1BZb2s0QmVaWmJvbzhQOGUxR0tWRk5ZemNkYy12Y2ZWalJWVEp5OWVNZXRkcXhHak5PLUlIRVcxaGdScWtSejdCS2VrUjA0bWtHWmdyQzR6TXEzV0RYZGlL?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Egypt condemns Israel’s attacks inside Syrian territories",
-          "url": "https://www.egyptindependent.com/egypt-condemns-israels-attacks-inside-syrian-territories/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
       "term": "Qatar",
       "count": 3,
       "headlines": [
@@ -1065,26 +891,50 @@
       ]
     },
     {
-      "term": "Palestinian",
+      "term": "talks",
       "count": 3,
       "headlines": [
         {
-          "title": "Israeli forces kill Palestinian teen in occupied West Bank",
-          "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
+          "title": "Trump envoys head to Qatar as Iran denies agreeing to talks",
+          "url": "https://www.newarab.com/news/trump-envoys-head-qatar-iran-denies-agreeing-talks",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "UN chief slams 'relentless' Israeli settlement expansion",
-          "url": "https://www.newarab.com/news/un-chief-slams-relentless-israeli-settlement-expansion",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "Baqaei: Iran will not attend negotiations with US in coming days",
+          "url": "https://en.irna.ir/news/86196483/Baqaei-Iran-will-not-attend-negotiations-with-US-in-coming-days",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "الأمم المتحدة تدين الجرائم الإسرائيلية في الأراضي الفلسطينية المحتلة",
-          "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQV1d0bWZlMHAxS2thNGxYeThZbGhHaFpSdHQ3SzZEMnEzR1g0elh6OWs3eEZkZkx6MVdzV0h3cGttY0Y5NDVnMUZTaFJjRnVnMkpub2lsUm90ZUJ2WEdvRmtpWGIwZURVRjl0MC0tVXh5N2xzN2RpN2NKQTlLWC1rWi1rZk42VF80bWFVbEM2MFZsWDQ3VlRpNllHQTNUeFZEWDBwREY0dzBFTjhCaDJQOUk2QkZNaE9iX3NZT3V2Q1hEeE9MdEhVbGZwVTdObVljNWJRUDhLd1gzSklQbEZaZjlmU21FSlh4WDZGSUVrQkRROUU4cVRoSEp5YXFtMjRYcDZCUnlYYzJ1M2tUY25MWWVCZTRZUDhxUzkwenMwa2VUZGNWR0gzVlVXa0wtbjlWWWU3T0VFWUZwVWV0aGlXeUlLanFJM0xNVkNIbjNGZkVyVVByczdFN0k1NmdhMVNpeFRybDJfTUh0S0JEQ1ZLSWFDNU9UVHhOVzhialdKcWhHdWdDZk1LU3FOYTFMMVBDNEI0OFpTb3RORHF1R0RJdGVSVUhNUHhpWUlELUozOXBvaDhkR3U0UFFzU3VJUmdiU2Foc2VKdmx1cGx2M1FWR0lVaWRsTnF3Q0djS1o0SURyZHBmazNOQURadHctM2pZTnR6VXE3LVRPNGl1TDdGcg?oc=5",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
+          "title": "Ankara hosts senior EU delegation for wide-ranging talks",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGpmTWpOdkcyU0xUaDY0U1hHRlIzZHlrWlFQRThYM0IySFVSaDNkT3JLMUlaTVM1bEw3T0Yza3lrcDJpVGVSMmFuWHh6REZKVkZPWC1UR1JKR040OG9UaENhN2F4UloySDE3Rlk4Ukgtc2tBcUhCQjNlLVl6VC15ZXRMSVpNRVJZOU5QczVnR0Vmcjl3NnlKSUdoTGtiZw?oc=5",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "French",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran, France foreign ministers discuss regional developments over phone",
+          "url": "https://en.irna.ir/news/86196620/Iran-France-foreign-ministers-discuss-regional-developments",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Vice President receives French and Swiss envoys in separate farewell meetings - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ycmczc2c2TmFrSnhrOUpxTTFYMENodXZkNTNSSkhvUGZDSjFYXzdnU1JCZFllTUkwSmp1MEowQXJNQnA3NXlqR2tRNTJnSWJHOC01Nk5XZw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "French inflation slows more than expected in June as energy costs fall",
+          "url": "https://www.aa.com.tr/en/europe/french-inflation-slows-more-than-expected-in-june-as-energy-costs-fall/3981914",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -1113,86 +963,200 @@
       ]
     },
     {
-      "term": "Hormuz",
+      "term": "Venezuela",
       "count": 3,
       "headlines": [
         {
-          "title": "Gharibabadi: Demining Hormuz Strait only to be done by Iran",
-          "url": "https://en.irna.ir/news/86196408/Gharibabadi-Demining-Hormuz-Strait-only-to-be-done-by-Iran",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "No country allowed to intervene in demining in Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT3JnbGNKdnBmZk1lWklnV25iTkhoV3RmQUZRamVtMXBDdXc3YjJIeWE3ckpZNlZLX1hWcUc0YUFtWFJpcUZ0V3NKRTN6S1M4YUdSTVNMejY5YTNtMFBaNEtKbXRrSlpDSmJrVm1FUXhzTk9OLVlMMGpqb0VrbVQ2Qmx5ajVoVEZ0LW9fdEptRlZZMmM?oc=5",
+          "title": "Venezuela quakes death toll rises to 1,719",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWVZRzRRR0R0TmN2a0ZQanUwNGdvYnBkVEdCeTg4VFpjcThGSHUzZ2k2eklEZVpnczRMYzZTby1BQXlUQmZITGpIdWlvR3gwNzJ3aXczRVFpZlNzcmZJTWhWdXNFRFNUZkVsRFZZWVlCOTlnRGZuTFMtVWdlREFKVXVuSE0?oc=5",
           "source": "Mehr News",
           "region": "Iran"
         },
         {
-          "title": "France, Oman to cooperate on Hormuz demining, Macron says - ایران اینترنشنال",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YNldXWWNxVXZsRmstdWhyUzNjN3o2TXV6Q0JQVldodWJ4enFUdkM1a0ZkbkY4Z1gtWXdfQk00QzJGYmtYT3ZQWXpYM21iWWRsNGc?oc=5",
-          "source": "Iran International",
-          "region": "Iran"
+          "title": "Citizen’s remains recovered from rubble in quake-hit Venezuela — FM",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEs3ZkoxX2ROcVdCYWhtblhQQ0RicTd2OXVaTnpuS1ZpcEwzbDFUNmdEakVxbnM3RTNVNDVkRGx3cnRtVGtkRGJhaFVVNnV2bFQxdUdHb3p4dHktd2tTVkdvR1A2WWxmRUFNT2MwNnZoeWRBdkdxRklab2NLRV9hRVlsMmF2MnRERG9IbzBfdi1LZy1Ta05zWXZycEtBQXp1?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Jordan’s search, rescue team continues field operations in Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Uxc1phTmpaTXBlRVlLaEJ3RXlXeDVua0RneUNBaTRQR2swVVRfcHFsNlhLX0xkd1Y4dVZqTWFPb0M1SW1TV1RMSGM4emZfcXJIWGIzRE5FMDN6TkFPMWJBWUU1aXkxUEVtNTlHOUIyQmF4RmxHN0JuOEFtUGJRejJ4aHl0SEJCMTFfdDlxTTk1OTF6ZjJ4Umt4VXZqaDl3Y1lr?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         }
       ]
     },
     {
-      "term": "Saudi",
+      "term": "Charity",
       "count": 3,
       "headlines": [
         {
-          "title": "Saudi federation president stands down after World Cup exit",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUZJcU85dGM2eWloNkZHWUR6YVViRVVXdDhVRk94SC1zT1I2YlVrR0JUR2lURXJxaXl6OEp3N3VRQlBCWVlVUmJYVjNob3UxX3lpT0JkeHh5cERPU2tOdnhPZ1YtbTZYVWptN240Y0M5WHpGbWJOZVRjenJkWDBIMmtqOWxldjFhYXlOb0tpMk5ZY0ZsRUJGVlY2dVkzVnJ6ZE5NX2dPb1h5anRJVzRBX9IBsAFBVV95cUxPaUZJcU85dGM2eWloNkZHWUR6YVViRVVXdDhVRk94SC1zT1I2YlVrR0JUR2lURXJxaXl6OEp3N3VRQlBCWVlVUmJYVjNob3UxX3lpT0JkeHh5cERPU2tOdnhPZ1YtbTZYVWptN240Y0M5WHpGbWJOZVRjenJkWDBIMmtqOWxldjFhYXlOb0tpMk5ZY0ZsRUJGVlY2dVkzVnJ6ZE5NX2dPb1h5anRJVzRBXw?oc=5",
-          "source": "Al Arabiya",
+          "title": "JCDCF, RSCN to establish ‘major’ ecological park within Amra City project",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2FhVHJpdjBTRS1jRjl6MzlwZHpEdVVDWDh0dUxfVW1RbUthX2J3VG9HTVRWWV9uRy1LTEZZUkRscHotN3g4YTI0N01ncXF1M1FFZW9MUE9neFhmZjFiQnR4aFZQeXJJT2Y3dzl5NDRQOVl0ZjBIWjFyVk90UnpyRjdzd2JnRHNGdWxYdmNYRkoyWDVabWNoYlplMTJGWWtxYzN2MFQ0ODM?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli forces raid Charity headquarters in Nablus, continue operation for hours - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ERlhUUS1UUnkwXy05MldUTHV6N3J5TUNsVUEwOEQ2aGw2VUJTcFlJU0Z3QWd1eHliSi1BSDFQeUg0cFBTSjVzczBJa2hGZHh6UlpHX1l1OA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli army closes charity headquarters in occupied West Bank city of Nablus",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-closes-charity-headquarters-in-occupied-west-bank-city-of-nablus/3981913",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "UAE",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "UAE allows citizens to travel to Lebanon again",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnpYSGk5RlRVMVZDREN2Nk9tUC1BSERKSVBteHBxM0pnSXlKU2t3ME84TGpMUWJ5eDlhREdCWXhoTGlKdldiVTlMT1RkYUJMTDFxLUVIQjlXX0xyV0t2MlU1TW9OeC1CRm52UjF5V0tZZkw0Nk5sOWtZS1d0ZTUxLV90VHBZeUx4LWxfX0FzT191blBPai1mekVlWEFwNWVW?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "UAE petrol, diesel prices for July 2026 announced",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3VLRXBPYTZrc3V6a3BkeWdKMUZLR3NLQjZHOF9uYU1KSHNoaHlOVUo0eDBnOTJsSlE4eldzOWc1OWJSdDlIamR2ajV5RzR0NzVKRTVMWVJlNWVDdl8wLVR5TkJaZXBlWUZnSm5XYWFDUjBpWXBuWE85RlFLOG05OFdPbDZMUmd0QmZJOU1zdE1oNHdncWducnIyMnZfQdIBsAFBVV95cUxOa3dLeXVhZUplcHJrSU9Td0hMak9ZWmRxSlotWHpRdXVYQm42cTdJTm80b2d2MUdwek5KSGU0aU5XM3lTM3hHWm8wcF9hSzlYUWZ4blhmcS1kWUtaZEMyRmJqWHQyYzBKNWp1Q3JMZ3BDVXpwWWc2ajhxUkFkWGFyRjY3YWlYRURyZkk0V2tfYVRGSnM1eTJQTW5SN1FMS25xbzh2bzNiODBQT0VXb25rZQ?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "All aboard: UAE's Etihad Rail passenger trains officially start today",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnhmaEVCekdRaVc5QjYzZHZUS21IQXNxNU5PdFhtZ3RMa1JVWUt4aENLRjJXTVVuVHdPeGg1dzNyOGNtVC1ab1ZqeFJ1dnVhaUluWl9sTmMyY09XQ1dtU0p1alRpaExNSm5uUU5KWk1GSWloMnFlSUJ5ZkRXUkYtWm9KNEw1Z3FaQ01WdDQ1OHZZVXFQMjROckhxSk1WTUtlenFQbkZVY0E2NzZ1VExJ?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Congo",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
+          "url": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Saudi football federation chief resigns after World Cup exit",
-          "url": "https://www.newarab.com/news/saudi-football-federation-chief-resigns-after-world-cup-exit",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Saudi Arabian Football Federation chief Yasser Al-Misehal resigns after World Cup group-stage exit",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWHBuWERDLWpqakpTOXJIdlhZd2ROTGIwWmFlTVJfejdJcU1vZTlIM25IbnJBd2M1c1QxSmpSbkN2UVE3WlZ2dF8yRUpvZnN5bGJ3Vlh1NzR6QQ?oc=5",
+          "title": "Congo rally to a 3-1 win against Uzbekistan to seal place in the World Cup knockouts",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUSlFMdW1zaWpheUhMdkFIVXRhejZVenB5VnhwUW9yUnR5eWlQbVFCMnFRenYtMEpyRW5sOWFUcTl3STlPd3ZpN19BQWY3NldOY1dr?oc=5",
           "source": "Arab News",
           "region": "Gulf"
         }
       ]
     },
     {
-      "term": "Araghchi",
+      "term": "Sudan",
       "count": 2,
       "headlines": [
         {
-          "title": "Araghchi discusses memorandum with French foreign minister",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-discusses-memorandum-french-foreign-minister",
+          "title": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
+          "url": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "In Sudan's Kordofan, a key city reels as paramilitary offensive looms",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVh1RTRXNmotWXd2LTY0endEZEg4NkFzdDh5UklCcGdheFRTanRKenF3d0d2VUxrRzBobDkyV2tCN3hJbDlQZ2hWMmN4NFBtZ1pCNzhOeVZfTmNQNTNvNTJEVXNESVlMWTg5Wjl0ZTBvMmxPV1hsekFnMC1xVTdDNkJjUlNIRHhyYXRWUEVySWVyeG1Jak9xUEJLTmdXdF9WZlVmS2pB?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Hamas",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Report: US tells Israel to proceed with Gaza reconstruction even if Hamas stays armed",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-tells-israel-proceed-gaza-reconstruction-even-if-hamas-stays",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "FM Araghchi: Iran-Iraq solidarity reflects deep religious, human bonds",
-          "url": "https://en.irna.ir/news/86196331/FM-Araghchi-Iran-Iraq-solidarity-reflects-deep-religious-human",
+          "title": "Hamas: Global silence on Israeli massacre of Gaza children is complicity in crimes",
+          "url": "https://en.irna.ir/news/86196681/Hamas-Global-silence-on-Israeli-massacre-of-Gaza-children-is",
           "source": "IRNA",
           "region": "Iran"
         }
       ]
     },
     {
-      "term": "Abbas",
+      "term": "US-Iran",
       "count": 2,
       "headlines": [
         {
-          "title": "Araghchi discusses memorandum with French foreign minister",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-discusses-memorandum-french-foreign-minister",
+          "title": "Morning update",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "FM Araghchi: Iran-Iraq solidarity reflects deep religious, human bonds",
-          "url": "https://en.irna.ir/news/86196331/FM-Araghchi-Iran-Iraq-solidarity-reflects-deep-religious-human",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "Is US-Iran deal under strain after fresh escalation?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlJqRGo5c0RsOXZTR0VqLUtrUVZDTHpaWTRxZm5Td0p4UXFCRXV6X213TjNFUmExSzdKVDFBVldrZGFRcU15UXphT1hiNGp6TkVjdXlwSXkxTFR2LVNNWWNkZ0FQXzduRHRMVjZ5Mm9BOF9HTmZGYVU3ZERDRk5FVGNGVHZEM0FsdWx3WGdTcF9Ra1FuMjlXLUpfN09oUEhnT29fbE1lTQ?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Iraq",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iraq judiciary seizes over $14 million in anti-graft campaign",
+          "url": "https://www.newarab.com/news/iraq-judiciary-seizes-over-14-million-anti-graft-campaign",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iraq to probe World Cup failure, map overhaul following no wins",
+          "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "West Bank",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli forces kill Palestinian teen in occupied West Bank",
+          "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli army closes charity headquarters in occupied West Bank city of Nablus",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-closes-charity-headquarters-in-occupied-west-bank-city-of-nablus/3981913",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Al-Bireh",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli forces kill Palestinian teen in occupied West Bank",
+          "url": "https://www.newarab.com/news/israeli-forces-kill-palestinian-teen-occupied-west-bank-0",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Child succumbs to critical wounds after being shot by Israeli forces in Al-Bireh - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TNlEwRmkzUDFxS1BJRzh5MTF3dVRpbFpMZmMxd0RVTWFYbHlVQjFvOHJuSUlBQ25JOS1tRVhDX0ZhNVQyZm1FSmxORlRkNVIyYjNabnJqOA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         }
       ]
     },
@@ -1211,6 +1175,42 @@
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ERlhUUS1UUnkwXy05MldUTHV6N3J5TUNsVUEwOEQ2aGw2VUJTcFlJU0Z3QWd1eHliSi1BSDFQeUg0cFBTSjVzczBJa2hGZHh6UlpHX1l1OA?oc=5",
           "source": "WAFA News",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Islamic",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran well-prepared for ‘historic’ funeral ceremonies of martyred Leader",
+          "url": "https://en.irna.ir/news/86196709/Iran-well-prepared-for-historic-funeral-ceremonies-of-martyred",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Holy Kaaba to be ceremonially washed on Tuesday in centuries-old Islamic tradition",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOejVabmFLTHZrQU9QRnVlNGlmTi1kWks1ckwybUtpQVJxcWJyMmtMcjVqRldEM1pHTkJmeU5ra1NqVTNRbXVsT2k4WUxPWnA4V1FkZ0dHLVJpUTBseUxzTlp6Ui1YTVlzY0E4YUhtcjh2SEpYSGNHeE5LRHhXUnR1TjJaSk1hMHE0eFk4UW9LaGhGd1M1NHFWU3FQV1JHaDIzZEpDaWZoYjMxY0V2aFZqRVVlZzkxWFlTbG5TYjVuNGVyUzVkM1BLa0FqdmXSAeIBQVVfeXFMT2JuTGg0QldJU2VHM3ZpTTd3UnhZa1RvTWIwNWVkcGs3WnUtYlIwdkJpNGdseXF6NS13NklTWkJ1OWV4N0VObXo0R0JFYTBkekQ4RUliRWc5TGxuQWoxa3FrMGRpcUd0STFyUmtwMUxyT00xTmU3eHhaSnFrZ2VtekJ0TEtXcjU1eU5tT3hzWVJQeE9LR2NCYW5DS0tIeGJ4TzJjRnVvRS14UHJNM05UNnAwdy04cS1NN0dCbk00YXdXRFp2aTlHRmZfS3VUaE9iM250Ymg4eTUySWo0TWExYnJVUQ?oc=5",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "France",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran, France foreign ministers discuss regional developments over phone",
+          "url": "https://en.irna.ir/news/86196620/Iran-France-foreign-ministers-discuss-regional-developments",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "France, Oman to cooperate on Hormuz demining, Macron says - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YNldXWWNxVXZsRmstdWhyUzNjN3o2TXV6Q0JQVldodWJ4enFUdkM1a0ZkbkY4Z1gtWXdfQk00QzJGYmtYT3ZQWXpYM21iWWRsNGc?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
         }
       ]
     },
@@ -1251,24 +1251,6 @@
       ]
     },
     {
-      "term": "CEO",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Iran appoints representative for Expo 2027 Belgrade national pavilion",
-          "url": "https://en.irna.ir/news/86196299/Iran-appoints-representative-for-Expo-2027-Belgrade-national",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Akkuyu NPP’s Unit 1 launch set for fall 2026: Rosatom CEO",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVlmQmxNaW41NGFTc0VjNjdKeXRPeml1SktmVkg4TERhU2lxQmpLRUxzd2JzUlJtSGxUN0tXRUhlQmxxdFlLamszeEVoZTFnSjNwY1dERXh5X3E5OGFGbkxCYURGU1o3ZjlRaGRiTzRKcWVxSGVJYnBQN2V3Wk15TzRzVDNRY0U3X1ZtUUdaSEQ0UVlOT0ZIU1NWZ0E?oc=5",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
       "term": "Navy",
       "count": 2,
       "headlines": [
@@ -1305,7 +1287,7 @@
       ]
     },
     {
-      "term": "Charity",
+      "term": "Society",
       "count": 2,
       "headlines": [
         {
@@ -1315,98 +1297,80 @@
           "region": "Levant"
         },
         {
-          "title": "Israeli forces raid Charity headquarters in Nablus, continue operation for hours - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ERlhUUS1UUnkwXy05MldUTHV6N3J5TUNsVUEwOEQ2aGw2VUJTcFlJU0Z3QWd1eHliSi1BSDFQeUg0cFBTSjVzczBJa2hGZHh6UlpHX1l1OA?oc=5",
-          "source": "WAFA News",
+          "title": "Israeli army closes charity headquarters in occupied West Bank city of Nablus",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-closes-charity-headquarters-in-occupied-west-bank-city-of-nablus/3981913",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Syria",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Syria slams Israeli incursions after violence in south",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmp1d01obUFzbHBYRHpxYXRjX3NWSV92UFZMVU9IOFYwWVhQSFdLS21JaEUtdkpYTk9ZT1BZb2s0QmVaWmJvbzhQOGUxR0tWRk5ZemNkYy12Y2ZWalJWVEp5OWVNZXRkcXhHak5PLUlIRVcxaGdScWtSejdCS2VrUjA0bWtHWmdyQzR6TXEzV0RYZGlL?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Egypt condemns Israel’s attacks inside Syrian territories",
+          "url": "https://www.egyptindependent.com/egypt-condemns-israels-attacks-inside-syrian-territories/",
+          "source": "Egypt Independent",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "energy",
+      "term": "Lebanese",
       "count": 2,
       "headlines": [
         {
-          "title": "French inflation slows more than expected in June as energy costs fall",
-          "url": "https://www.aa.com.tr/en/europe/french-inflation-slows-more-than-expected-in-june-as-energy-costs-fall/3981914",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Waste levies in Lebanon: Government suspends contested decree",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU1ZaU5PVmpNTWhuSjVTQ2RBRml0VG5DMWcwb1hyRlNLTHJkRXVPeGhpdTQ0U1R1RmpuOUZkZnF0aXd1bE5aZTh0UGNveEhkTDR1VU9uYVNpYkpiSEVJY0NoOFlwTEZYYllaWm1nWWItWmlJSVljeFRJTDA2UmhrbHllNU9UMzdpUFB6OXJhcWFock9zcGtHRDZBeTl4ZWdidnJCQzBSbXBlQzIxMVdlVmFBOA?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
         },
         {
-          "title": "China extends 60-day supplier payment cap to EV, energy storage battery sector",
-          "url": "https://www.aa.com.tr/en/asia-pacific/china-extends-60-day-supplier-payment-cap-to-ev-energy-storage-battery-sector/3981896",
+          "title": "Lebanese president, army chief discuss troops’ role after framework agreement with Israel",
+          "url": "https://www.aa.com.tr/en/middle-east/lebanese-president-army-chief-discuss-troops-role-after-framework-agreement-with-israel/3981920",
           "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "China",
+      "term": "Nablus",
       "count": 2,
       "headlines": [
         {
-          "title": "China extends 60-day supplier payment cap to EV, energy storage battery sector",
-          "url": "https://www.aa.com.tr/en/asia-pacific/china-extends-60-day-supplier-payment-cap-to-ev-energy-storage-battery-sector/3981896",
+          "title": "Israeli forces raid Charity headquarters in Nablus, continue operation for hours - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ERlhUUS1UUnkwXy05MldUTHV6N3J5TUNsVUEwOEQ2aGw2VUJTcFlJU0Z3QWd1eHliSi1BSDFQeUg0cFBTSjVzczBJa2hGZHh6UlpHX1l1OA?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli army closes charity headquarters in occupied West Bank city of Nablus",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-closes-charity-headquarters-in-occupied-west-bank-city-of-nablus/3981913",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "NATO",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "NATO parliamentary delegation visits Turkish drone giant Baykar ahead of next week's Ankara summit",
+          "url": "https://www.aa.com.tr/en/turkiye/nato-parliamentary-delegation-visits-turkish-drone-giant-baykar-ahead-of-next-weeks-ankara-summit/3981925",
           "source": "Anadolu Agency",
           "region": "Turkey"
         },
         {
-          "title": "Light aircraft flights restricted in China after fatal Beijing crash",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoVW90ZnN3RkpXWlVFS3NCSk9NT2hvUWNUQlZ2YjVpbWt1eFhtcURxRTJCWk1hdkV1WnZKRVJxRVNOelpHUFplbzJGZjVfcHpST1J3Z0tBV2o?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Beijing",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "China extends 60-day supplier payment cap to EV, energy storage battery sector",
-          "url": "https://www.aa.com.tr/en/asia-pacific/china-extends-60-day-supplier-payment-cap-to-ev-energy-storage-battery-sector/3981896",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Light aircraft flights restricted in China after fatal Beijing crash",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoVW90ZnN3RkpXWlVFS3NCSk9NT2hvUWNUQlZ2YjVpbWt1eFhtcURxRTJCWk1hdkV1WnZKRVJxRVNOelpHUFplbzJGZjVfcHpST1J3Z0tBV2o?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "India",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "How water is becoming new fault line between India, Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlQ4eEZOOGUwR0xlbXVhazN2MzVvRGhZWVhkZkdUUUk5VG5SZHFFdnRlLWpKQldBU3dmZFFuYlgwbkpmZ2dyajNBSDdYMzljZ2hkbnE4N29OUEh1VjFaRnZBalpOZjFrajhFT1h6cnpRRVB3cVh0UmY4WXU2cmRxMU43R1dsZzZhWDdDZUpmcXJTVTl3OENvSjZtUGU3SkpkSlHSAacBQVVfeXFMT1dYRWFnU2NaTUc0aDRyR3hqSGo1SHBHQlZTMEtNX0V4V3NjbW9XblNtdWxRa2V5bmhRYWx4T050WXhMZzZrOFFQcjRmdUtJQmNCY3ZheFlTbUg4dU5NUU9BVEFZXzlNckVoMjhISE1FTXVCdFd0SWcxN0N4T1laeHh4Y2tnbW05SUNRck9UOFdrWS00bUs4dGpxZG1mal92WXo2Z0dmbUU?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        },
-        {
-          "title": "Virat Kohli and Anushka Sharma cheer for India at Lord’s during high-stakes World Cup clash against Australia",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUdra3ZrdHp5S2pIUFIzSzFPWmo0TTR5NGJDcE0zeGJyanVwaXRyWlItUjE1bG5UNUtmSVJWSVRCUmdVcmtnajYtbUE2V1JpWF9GeUJvTGJuWGtyRzJhNnpNSEtkR3Z6YVBDUHoxa3d2V01qWElzcGswcW1HamtUMUdpRHVYWTlFSWVETy1sNnJ1WDBscnJZQWhPbzJ3Z2I0WFgtYjRGd2ZGY2E5RTJzR1hlVjRHaTdiR2ZWVFZMVTh3Y3RrS1RZZ0xIRllxRFhWU2JTa1lpT2FqT1VzY0Y1cWstbjV3RWdmclpj?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "TRT",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Light aircraft flights restricted in China after fatal Beijing crash",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoVW90ZnN3RkpXWlVFS3NCSk9NT2hvUWNUQlZ2YjVpbWt1eFhtcURxRTJCWk1hdkV1WnZKRVJxRVNOelpHUFplbzJGZjVfcHpST1J3Z0tBV2o?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "Democratic lawmaker to vote for measure halting US military aid to Israel",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUN0b0JHU1doZmM1dkw5dUl3aDFQTGxQbGNXZ29PanpxV19GT1VDMGpxNGhldGJnTE41dzJGc19TQ1hBT3M0Ukp3RVlnZ3NKd1pPcHZyM2VOUDNzcjNUTi1za3NPOW1QN2lqM0o5REVwT3BNOEFOaVZiVkVfNmJoV2VBb25KQzV6RFR4WTJjVTZzLVdUYXlHeTd5ZnVOTXlZRDhKeERYeVF0OE5EUml0Z2VybTB5UkR6UjZfdE1neWRpWWZta0E3bzBfdGNEYXFUUTRySXZDSVpRcEd0aG11SnBfRkZ2QQ?oc=5",
+          "title": "Is NATO on the verge of collapse? | Inside America",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmQxODJfRFlfUE1PcHhEUy14UWtROWowQjJTRkplaXRKUHUtU0ZabEpQeGxaVWxtaFlmY3hIekJLY2FqTGZBaWJYVUtJdW1fTDNIU3NxNW1ubU9DTy1ycUxyd2NpNkIxdDZIbWo1bVRDRF9lTkhhWllwZXd1dTY2ZE9qMk1QZEpGZWc?oc=5",
           "source": "TRT World",
           "region": "Turkey"
         }
