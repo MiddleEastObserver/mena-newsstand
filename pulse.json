@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T06:47:51.343015+00:00",
+  "updated": "2026-07-01T07:16:36.319811+00:00",
   "total_headlines": 133,
   "terms": [
     {
@@ -7,7 +7,7 @@
       "count": 26,
       "headlines": [
         {
-          "title": "Mexico beat Ecuador 2-0 to reach World Cup last-16 and break 40-year curse",
+          "title": "Mexico beat Ecuador to reach World Cup Round of 16 and break 40-year curse",
           "url": "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -133,9 +133,21 @@
       "count": 9,
       "headlines": [
         {
+          "title": "Iran, Oman to jointly charge fees along Strait of Hormuz: Report",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-jointly-charge-fees-along-strait-hormuz-report",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
           "title": "Modi urges diplomacy in call with Iran’s Pezeshkian",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/modi-urges-diplomacy-call-irans-pezeshkian",
           "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US and Iran officials in Doha to implement agreement",
+          "url": "https://www.newarab.com/news/us-and-iran-officials-doha-implement-agreement",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -157,12 +169,6 @@
           "region": "Iran"
         },
         {
-          "title": "Araghchi to US Homeland Security Secretary: You proved that you are not worthy of hosting a tournament",
-          "url": "https://en.irna.ir/news/86197463/Araghchi-to-US-Homeland-Security-Secretary-You-proved-that-you",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
           "title": "Iran, India have great potentials to expand relations: Pres.",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGJzZTlFbURDVUxzb0ZkQXJIeDNIbEtzMDF2Sk5wU0pGMS0tQm1sbW5Vdm1sX1BudTRLMjUwaGpBb3IxMDRlZVNISWdnN0V0WVZiZ3BSekNoRmxCM3hUbl8yUlAyekFrb29YUkRaUkwtZzZlVWRmWHFteWZVSEFOcW5VOVBzekJJSFlQeE9YUk90aDhGOUM4cw?oc=5",
           "source": "Mehr News",
@@ -175,12 +181,6 @@
           "region": "Levant"
         },
         {
-          "title": "الشرطة الإيرانية: مقتل شرطي خلال هجوم مسلح عليه في محافظة سيستان وبلوشيستان جنوب شرقي البلاد",
-          "url": "https://www.almanar.com.lb/article/990072/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
           "title": "Iranian police officer killed in armed attack in southeast",
           "url": "https://www.aa.com.tr/en/middle-east/iranian-police-officer-killed-in-armed-attack-in-southeast/3982817",
           "source": "Anadolu Agency",
@@ -190,11 +190,11 @@
     },
     {
       "term": "Israeli",
-      "count": 9,
+      "count": 8,
       "headlines": [
         {
-          "title": "Netanyahu says Gaza ethnic cleansing remains on agenda",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-gaza-ethnic-cleansing-remains-agenda",
+          "title": "Israeli settlers storm Al-Aqsa mosque",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-storm-al-aqsa-mosque",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
@@ -202,12 +202,6 @@
           "title": "Israel Will Stay as Long as Hezbollah ‘Threatens’: Netanyahu",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGJadXNRRk1NMmoyTGVfWHhCaXBweFJid2d1WWtMNWRVT3ZEbFdPcUNxQmswbEs4MzVmNUxxZDVYcHk0SFJtNUV1VW1qcFYzdjU1eDJ0YkJEOE5jbVRaQXZWSnJjLUt6UC1ycUZSbl9zNzFGQUNxdWhRcGVuWDNhblhCNjl4QTRVTUt0dDhkMXZiX1dLWXg2ZkRNcTBVdFV6aXh3MkRBczMwMmk1RFlvenZROG3SAbQBQVVfeXFMT1hiWnVzUUZNTTJqMkxlX1h4QmlwcHhSYndndVlrTDVkVU92RGxXT3FDcUJrMGxLODM1ZjVMcWQ1WHB5NEhSbTVFdVVtanBWM3Y1NXgydGJCRDhOY21UWkF2VkpyYy1LelAtcnFGUm5fczcxRkFDcXVoUXBlblgzYW5YQjY5eEE0VU1LdHQ4ZDF2Yl9XS1l4NmZETXEwVXRVeml4dzJEQXMzMDJpNURZb3p2UTht?oc=5",
           "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Fresh Israeli strikes on Gaza set 200 tents ablaze despite truce",
-          "url": "https://www.newarab.com/news/fresh-israeli-strikes-gaza-set-200-tents-ablaze-despite-truce",
-          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
@@ -297,86 +291,8 @@
       ]
     },
     {
-      "term": "Gaza",
-      "count": 6,
-      "headlines": [
-        {
-          "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
-          "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Netanyahu says Gaza ethnic cleansing remains on agenda",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-gaza-ethnic-cleansing-remains-agenda",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Fresh Israeli strikes on Gaza set 200 tents ablaze despite truce",
-          "url": "https://www.newarab.com/news/fresh-israeli-strikes-gaza-set-200-tents-ablaze-despite-truce",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "بإشراف منظمة الصحة العالمية.. إجلاء 30 مريضًا من غزة عبر رفح",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZV9yNXBiM1l4dTJORkkzX04wWlctZ2NUb1p4Q2hQaVl2RDdtNFlYTE50c0hWNTJvdGoyQVJNT0VWbDY5WHp2T3RWQVlRMVJCOWFlR2tzaVRpcWs5QkIzX1R4bGJ3bTlILXh5NjBWRmxXZV8xMnYwbHAwRkE1RHozUzBwdzVBQXU4VXlMOXdPclJwU0xnb3RZa0ZqQzR5Vi1tbHhJOWIwc2JmbWVYRU1qbEVVX0dZSzlyVDAyM3pFRUJ2Ylowd1ZDV2JNb19qcGhRNzA0YVlOZmxDYW00R1JKOUpLdnZNTERWWm56SXByYUlCNG5PYkdNeTVhQml2c1Y5TzljVktQY2NsVEVvNHdWaTd2bTlNVGYtTXhDXzIySHE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "ألف يوم من الإبادة الإسرائيلية وهدنة تحت النار",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdjhURHRXMnIwVEdKQ3Jmcmd3enJ2c18zX3E1UWdlTUQ2VndPbzZFbWJIeVdPUE1IcHBPUkN0TFNXSnVuZlhBMHkwZXJ1V2p1cGdKaGdCWmlaWGZ1SS1MOTdvM3UwZ1NjRHVWbi1rS0ZZblJOX1BINExSUjFRSGtwVVdfUmlLMm9UNDV5eXVWUWRpcXV3Rkp3QXZFcUJDU19sTWJCSmRYeHd5dXpoNFJDUXJPTkJZU3B5TENqQUFwbGNlb3RxU1RiZDJ1VmxlRUJwLUFMVUxPWnF5bU1XYnc2QW5IdTF5eGtqVFZ4SGRDaDNRdkpGcWZpd3hEMjRmQkJfcGhZVElpNU9yMlpvcVlCcmVYNW1sbXZMZjN0bk00QXQ?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "الصحة بغزة : 8 شهداء و26 إصابة خلال الـ24 ساعة الماضية",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb2dpb2RGdlItOU43YzRKQ2l6c2xNeUFqT2xrTGhVVDMxcjR2VExHdWlDd1l0LWNkMWptTkpuSHRFQUlxYjhIakRaUEM3dXI4YTZMTmo4NUpGQXdaaGJqMktib0gxSUdVTTZHUjNCaU81VjNfU2FnY1BZWVpnSGVCQTRlM21DTUd6bmU3T25sZ0pVSmlOeHA1YVVOMEJETFZWSXpGNmc1NFZXcXdKWlVOYVN3THdWdHhtTU5DTE5xMUQ4QWN1aEM0SktGb0lFbnh0Q0hqakRXSm0wT0JKS0xsOVMxcElYczVsVHExdGUzREpIWnJkV1oyNFlYaHh2Qzg?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Trump",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Trump administration yet to accept Iran school strike findings",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-administration-yet-accept-iran-school-strike-findings",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US Supreme Court rejects Trump bid to end birthright citizenship",
-          "url": "https://www.newarab.com/news/us-supreme-court-rejects-trump-bid-end-birthright-citizenship",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "ترامب جنى أكثر من مليار دولار من العملات المشفرة عام 2025",
-          "url": "https://www.almanar.com.lb/article/990082/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump announces first pre-midterm Republican national convention",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ekVQMnBYTlNrdGY2N2NWTnpScnBrekhBdk9RcUQ4Wm95ZjRhdzFWODN3UkF4T2xVcnJ6LXhpVW5sVHRoWDVvRGg2WlBjUWNhbVhfN1VQNzE?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
       "term": "Lebanon",
-      "count": 5,
+      "count": 6,
       "headlines": [
         {
           "title": "UN says one million remain displaced in Lebanon by Israel's war on country",
@@ -407,66 +323,78 @@
           "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNNUlUWG9yYzJ6VlBkcjdVOEFSOXhKRjdwdHVCVEpqd1hoYzdjbE9Pb3MxZmdTSEhHUlRVZG5qYjBNckMzYzhpNFBwaHBxOUVERjdxa0NGdVlNVEthVG9TVHgxR3F1VkkyZ2hYY0QxMndDcmdiM05GWnZldWZqenRkWTItN1VpczF1S3RzNXVwRk1iRGlPS1NLMUhEU1FUR19BUXZ2MFZfODJsTXpvdWEtV2tkMm9BRjVkMWVlR2lTdDUtS3JvYXVwLTFhSlRsUTR6Qko1VllPU29wVnBaYU1lR3hxX1NJQ2RjdnpPYWhLaG5la0hnRDhaTWt1UEhXcDBjTjVwQzlfOGpCR0RrdWtqYlFMZzI3VFpIeXZMN3VFdjlSVWhvVmoyaFV5VHpHZzNhSUtjS2VPUFBPVFhpSTVDeURkbms3Q3I2ZjlvOG9hRkFRRVZQcjZjNFgzM29pUzJxRkdVT2JoYnlacEw4WmlNMzVZZzE2cEVhb1hXU3hmclBieW9oekpkdm5iYi00cXJxV2lUUDZGdFBod0UxdlBUdnlPeHd6dGpDS1ZBOEhzbUtxcFdOZ2c?oc=5",
           "source": "Al-Akhbar",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Donald",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
         },
         {
-          "title": "US Supreme Court rejects Trump bid to end birthright citizenship",
-          "url": "https://www.newarab.com/news/us-supreme-court-rejects-trump-bid-end-birthright-citizenship",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "ترامب جنى أكثر من مليار دولار من العملات المشفرة عام 2025",
-          "url": "https://www.almanar.com.lb/article/990082/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump announces first pre-midterm Republican national convention",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ekVQMnBYTlNrdGY2N2NWTnpScnBrekhBdk9RcUQ4Wm95ZjRhdzFWODN3UkF4T2xVcnJ6LXhpVW5sVHRoWDVvRGg2WlBjUWNhbVhfN1VQNzE?oc=5",
-          "source": "TRT World",
+          "title": "Qatar, US push diplomatic efforts on Iran, Lebanon during Doha talks",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-us-push-diplomatic-efforts-on-iran-lebanon-during-doha-talks/3982862",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Netanyahu",
-      "count": 4,
+      "term": "Strait of Hormuz",
+      "count": 5,
       "headlines": [
         {
-          "title": "Netanyahu says Gaza ethnic cleansing remains on agenda",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-gaza-ethnic-cleansing-remains-agenda",
+          "title": "Iran, Oman to jointly charge fees along Strait of Hormuz: Report",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-jointly-charge-fees-along-strait-hormuz-report",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israel Will Stay as Long as Hezbollah ‘Threatens’: Netanyahu",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGJadXNRRk1NMmoyTGVfWHhCaXBweFJid2d1WWtMNWRVT3ZEbFdPcUNxQmswbEs4MzVmNUxxZDVYcHk0SFJtNUV1VW1qcFYzdjU1eDJ0YkJEOE5jbVRaQXZWSnJjLUt6UC1ycUZSbl9zNzFGQUNxdWhRcGVuWDNhblhCNjl4QTRVTUt0dDhkMXZiX1dLWXg2ZkRNcTBVdFV6aXh3MkRBczMwMmk1RFlvenZROG3SAbQBQVVfeXFMT1hiWnVzUUZNTTJqMkxlX1h4QmlwcHhSYndndVlrTDVkVU92RGxXT3FDcUJrMGxLODM1ZjVMcWQ1WHB5NEhSbTVFdVVtanBWM3Y1NXgydGJCRDhOY21UWkF2VkpyYy1LelAtcnFGUm5fczcxRkFDcXVoUXBlblgzYW5YQjY5eEE0VU1LdHQ4ZDF2Yl9XS1l4NmZETXEwVXRVeml4dzJEQXMzMDJpNURZb3p2UTht?oc=5",
-          "source": "Al Arabiya",
+          "title": "Thailand says 10 stranded vessels leave Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thailand-says-10-stranded-vessels-leave-strait-hormuz",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "In south Lebanon, Netanyahu says Israel will stay as long as Hizbollah 'threatens us'",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSExJRG1KdXFsUURlX0hvS2xZWGxBY2g0MFBXdUVDbzFvVEpKY0htWDBOR3U1WHFvWVY4MC1oZ0E4Y0czQ2ZPRnhQbTZVX2owSlZsMy1lczRMbE9lNFJScERZejQ4S1pRNEpSXzFBSUxmT0xfalEyRkVKU0QwXzNvMUlsYjRQdzFVTkwzX3V2TVNqY2JoLUtQTnFWamhjMjQxWHp0NW1kSy1mZWFIc3BIdEE0OHlHM1dwaXc?oc=5",
-          "source": "Jordan Times",
+          "title": "Modi urges diplomacy in call with Iran’s Pezeshkian",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/modi-urges-diplomacy-call-irans-pezeshkian",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Speaker: Iran will not back down from its rights in Strait of Hormuz",
+          "url": "https://en.irna.ir/news/86197724/Speaker-Iran-will-not-back-down-from-its-rights-in-Strait-of",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Global markets mixed amid US-Iran talks, uncertainty over Strait of Hormuz",
+          "url": "https://www.aa.com.tr/en/economy/global-markets-mixed-amid-us-iran-talks-uncertainty-over-strait-of-hormuz/3982869",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Gaza",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+          "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "بإشراف منظمة الصحة العالمية.. إجلاء 30 مريضًا من غزة عبر رفح",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZV9yNXBiM1l4dTJORkkzX04wWlctZ2NUb1p4Q2hQaVl2RDdtNFlYTE50c0hWNTJvdGoyQVJNT0VWbDY5WHp2T3RWQVlRMVJCOWFlR2tzaVRpcWs5QkIzX1R4bGJ3bTlILXh5NjBWRmxXZV8xMnYwbHAwRkE1RHozUzBwdzVBQXU4VXlMOXdPclJwU0xnb3RZa0ZqQzR5Vi1tbHhJOWIwc2JmbWVYRU1qbEVVX0dZSzlyVDAyM3pFRUJ2Ylowd1ZDV2JNb19qcGhRNzA0YVlOZmxDYW00R1JKOUpLdnZNTERWWm56SXByYUlCNG5PYkdNeTVhQml2c1Y5TzljVktQY2NsVEVvNHdWaTd2bTlNVGYtTXhDXzIySHE?oc=5",
+          "source": "Falastin al-Youm",
           "region": "Levant"
         },
         {
-          "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lQWpBTlY4eHN5WFFCZUhCY0ZtbEFwQ0pIOG1Lcmx4eXM3dUpzeE1TZzlvNl92RG0tbmZxWS01TFd0UF9RNG9OSGZQeWNGR0ZJMnd5U1NUams?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "ألف يوم من الإبادة الإسرائيلية وهدنة تحت النار",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdjhURHRXMnIwVEdKQ3Jmcmd3enJ2c18zX3E1UWdlTUQ2VndPbzZFbWJIeVdPUE1IcHBPUkN0TFNXSnVuZlhBMHkwZXJ1V2p1cGdKaGdCWmlaWGZ1SS1MOTdvM3UwZ1NjRHVWbi1rS0ZZblJOX1BINExSUjFRSGtwVVdfUmlLMm9UNDV5eXVWUWRpcXV3Rkp3QXZFcUJDU19sTWJCSmRYeHd5dXpoNFJDUXJPTkJZU3B5TENqQUFwbGNlb3RxU1RiZDJ1VmxlRUJwLUFMVUxPWnF5bU1XYnc2QW5IdTF5eGtqVFZ4SGRDaDNRdkpGcWZpd3hEMjRmQkJfcGhZVElpNU9yMlpvcVlCcmVYNW1sbXZMZjN0bk00QXQ?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "الصحة بغزة : 8 شهداء و26 إصابة خلال الـ24 ساعة الماضية",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb2dpb2RGdlItOU43YzRKQ2l6c2xNeUFqT2xrTGhVVDMxcjR2VExHdWlDd1l0LWNkMWptTkpuSHRFQUlxYjhIakRaUEM3dXI4YTZMTmo4NUpGQXdaaGJqMktib0gxSUdVTTZHUjNCaU81VjNfU2FnY1BZWVpnSGVCQTRlM21DTUd6bmU3T25sZ0pVSmlOeHA1YVVOMEJETFZWSXpGNmc1NFZXcXdKWlVOYVN3THdWdHhtTU5DTE5xMUQ4QWN1aEM0SktGb0lFbnh0Q0hqakRXSm0wT0JKS0xsOVMxcElYczVsVHExdGUzREpIWnJkV1oyNFlYaHh2Qzg?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         }
       ]
     },
@@ -481,6 +409,12 @@
           "region": "Pan-Arab"
         },
         {
+          "title": "NATO’s Ankara moment: What does Türkiye expect from the summit?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnpDSWlhcHBLazVMUF81T3JtOTZfb2hqbWVPWWs4N1RzV09Rcml3d2xPRW8xMDBqRDdJZDhpeGRSTnNhUFVHZVpzVi1WaUNNVjI1cWZoak9rUXNqbDBGZDQxZWZXdnBpRlQwaGZLR3BBRVR5bUc5clBQNWRJQzNET3RwbjVyYWVVbDQ4aktmMGlGelkzOVZudnVUYXEyWnlJYW1pNEF30gGrAUFVX3lxTE9SQjFZTmNBaVhrRllHQnE2QzY3SHQ1b3AwYUpiclpyd3JEYUtzT2RNTW1KX0Vac3QzRmhpaFNNN1lBRjh2V3dzX096a2l3ZjYtaXQ4R2VfVTNxMHhnODZPRkt5ZjQwUDk3aHllS2JkQUFTWDUyRmZuMy13bUs2N19Ka3dRTjZKTjNfTEpzb3VGQ3lQMmhDZ3VHWDM0X0hvbnhRRFRqejBwQUFxUQ?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
           "title": "Summit at crossroads: What Ankara means for NATO's future",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDJqbEdYN0NnUHlNODUzSDRvUG8tbUNia1hPbmVMdkV4YUUtX09IRE5lX3FuU2JTNGpsVkY0NGpFVDhPSjRna29mdW85ZHhLSXdiendVOHhVWFEybmRoTzNhd0J3cTZlMTBXMGlJeVltOE1QS2FDODhSeWR6UE80R3lXMThXSUU1UHoxaTFWSlJZRFFZRlFQMlRJS2zSAaIBQVVfeXFMTnFVUDRCWGt5Ykp4SldvZWc4SzlLSVcxNlVvTUxTVDJaNzJzaklPWGJTblJ1ai13NXkxbHg1Y2JWM2dWMmdjNEZac0Rvc3VocDNPeEdCNXhLN2JlejFfaFJfdzFmQnRSU21fTEFBbi1LMS1vdjRpeVZIcTVoQVFHTTR2TkhYbjlRa1k4X3FEekNIYkpaRHU1ZGppNUJUM2dJUzRR?oc=5",
           "source": "Daily Sabah",
@@ -489,12 +423,6 @@
         {
           "title": "NATO parliamentary delegation pays visit to Turkish drone giant Baykar",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDZhRG9RUXlOZjV0SDVmWGZuNVozRG5OQUo5cHVvMDB1dUNPZlNSb1ZFTmczQTMyWVVHblladUpKQTJiU1ZETy1pdWNTUWkyNk43bTUydVFuTDFuVmtVMlNBcEY0WGQtU0RPdXFjSGFyd1M4cW83MUZXdEdqdDRld212MUJUZVZxd0tybV9PTG82MFEwXzBnak11RnVLeG5wa0ZoejdJV2RrREJQMHZETUlkVTfSAboBQVVfeXFMTUlvd2dUZ3EtR1NMT3laSENLUlluRjVFZE9WWU9xcGloUUdma2dzZmMxS3BEMFNiVGoxZlR1U3pIdzYtT0x5S0xSV3JmZ1U5aTdxRUE5aUpHRDVQOEUxNU1nSDlrejRObVhCdi14ZDd1MTRaZUZvemJzYjZRRFJDdV9NbWQ1dGpJVU1Nb1FUMlNsQVNlOWU1WnpWQlRaNVBFRVZ2YUZBSzlDVjJ6Y2lnOGNPeUNXV2hMOWxB?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        },
-        {
-          "title": "Ankara taxi drivers welcome NATO guests with Turkish hospitality",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGtLSGx0S0s0dWtmaTc2LVA5UGlfSHNPaVFNRDdLTnhXdldRYThLM2FIOFFNcnJKMENUSUd0WE1falV3QnFJTFBQNzE4aHV1SlZkWjVSeVA4enRoQ2Nocl9sOVUyZEswR3RrcVdla09MRzRTeURtUHY4dnV6ZFR1WVctcGJhTUxXdWJlTUtJUE9CZjE5R01vRkFlSEVhMERZQnN2eklzc9IBrAFBVV95cUxQbXZRbmIyUXp1WmhCOUQ3VjNjMXpSVUNsY0ZWejBGS2ZGUTRKQ3g3UHF0eDRuUjlncGctNlhlQjVhcGlVT2FqcnFGT01WUkhfcGRhNnFreTl1WXROUlRBczNmTTA0cEQxT1h4b1piLTBYeHljeFlNcW9SYnJtNGwzaXMydGhIaUo0cXExRUoyT3FQWlJaQVNoNmxDX0lJQ295OG5scjFiT2Z3T0xW?oc=5",
           "source": "Daily Sabah",
           "region": "Turkey"
         }
@@ -531,91 +459,91 @@
       ]
     },
     {
-      "term": "attack",
+      "term": "Doha",
       "count": 4,
       "headlines": [
         {
-          "title": "Man arrested after arson attack on Dublin Islamic centre",
-          "url": "https://www.newarab.com/news/man-arrested-after-arson-attack-dublin-islamic-centre",
+          "title": "US and Iran officials in Doha to implement agreement",
+          "url": "https://www.newarab.com/news/us-and-iran-officials-doha-implement-agreement",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "الشرطة الإيرانية: مقتل شرطي خلال هجوم مسلح عليه في محافظة سيستان وبلوشيستان جنوب شرقي البلاد",
-          "url": "https://www.almanar.com.lb/article/990072/",
-          "source": "Al Manar",
+          "title": "Witkoff and Kushner will not meet with Iranians in Doha, Qatar says",
+          "url": "https://www.egyptindependent.com/witkoff-and-kushner-will-not-meet-with-iranians-in-doha-qatar-says/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "3 UN peacekeepers wounded in attack on C.Africa base",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HYnBfWjNURTFveHhhNVJnc2pLSEU1cDA5ZFo5bFF2c3ZKQzBOQkZKNWJWN053T182Q1pTM2RVSjRTNUNJd0ZDTjlnbk16MFhKUlRF?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "Qatar, US push diplomatic efforts on Iran, Lebanon during Doha talks",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-us-push-diplomatic-efforts-on-iran-lebanon-during-doha-talks/3982862",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         },
         {
-          "title": "Iranian police officer killed in armed attack in southeast",
-          "url": "https://www.aa.com.tr/en/middle-east/iranian-police-officer-killed-in-armed-attack-in-southeast/3982817",
-          "source": "Anadolu Agency",
+          "title": "JD Vance says Iran's denial of Doha talks 'Persian negotiating tactic'",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94NGZoOG5qc2pOOE1pVnFrQ3lkYlRZbl96OUxFYjhWdzQ2LVphazlnZVRJZTZXenM1QS01NzlpcHVWbjVod1lBYmtaZjVfLWxHU1pVQUs3U3A?oc=5",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Security",
+      "term": "United",
       "count": 4,
       "headlines": [
+        {
+          "title": "US Supreme Court rejects Trump bid to end birthright citizenship",
+          "url": "https://www.newarab.com/news/us-supreme-court-rejects-trump-bid-end-birthright-citizenship",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "تداعيات التطورات الإقليمية على العلاقات الإيرانية – الأميركية",
+          "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxOd0dtUjZ2d2xXTzI3QWpwbkxQTDJmRk51VldHT3RmWHNuTHFfMUcxcFBTX1NTbjN5eDlXdVp3dmllODBnODljR2Y0ekJGNU0tbmxGSUZWTk1NWEh1U3ZHcFl2ZXFpYVA2V2NXN08yYmwzM0o3S29vZk5PN3dJMEJYU2lnUVdVNlVpV1BCdmhkaDJyc1lWMy15VXBxUGY5TXdhemNxSDhZcTY3RTN4RGhGZUFSSHN0Q3BlcjUtMHhsaFB3bDRFT25sYjE0OUNBanduQzNxakV0TnoxWnpoNGxHbzAxUXE4VmFNM2VySm5JTkpBNkR0allTV2dpbWxJdzZwVUV5R2VadV9kRlpmdEpKTF9GQV9ydlcyNnN3ckFZNE1lQzlZcml4QWY0MGZaUkZwNXR2OEFPVmRJaEVBcDlJZEJrQWpsOVE4cFFmQlZhUVRZSERicDdoc1FxMkFpdFBaUXIwSnRmaVB6YVlRS1A5c3FObWVzc3YtQ09YOGlZY3RtV29RekR5elptTUFwaVBNZmdrU2JORHNoRElqMGd3YlRqUm5aZ3J3NksyRDVIQjAwMWpfTmJXZlZOTWJtOFJGX0FQQzdxT01naWEwYkpVM1lITVVJMkpPOVpDWWJIR1lNa2ZFWkMzLUNudHE4UEZwQ1MtZFhxOEpFOEhEejc4bzJFRHhxWkdmOEF3Y2ozYlpxN1lreXY4ZjRzanc5MjdkRXNIbDItcUtyWTFYVXlUWGduMUlzOEZ3d00yXzk1R0pLTE5oZFBMU2tKQlZEMEplcVE?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Speaker: Iran will not back down from its rights in Strait of Hormuz",
+          "url": "https://en.irna.ir/news/86197724/Speaker-Iran-will-not-back-down-from-its-rights-in-Strait-of",
+          "source": "IRNA",
+          "region": "Iran"
+        },
         {
           "title": "US, Israel failed to achieve objectives in recent aggression: Iran",
           "url": "https://en.irna.ir/news/86197655/US-Israel-failed-to-achieve-objectives-in-recent-aggression",
           "source": "IRNA",
           "region": "Iran"
-        },
-        {
-          "title": "Araghchi to US Homeland Security Secretary: You proved that you are not worthy of hosting a tournament",
-          "url": "https://en.irna.ir/news/86197463/Araghchi-to-US-Homeland-Security-Secretary-You-proved-that-you",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "'Security' annex to Lebanon-Israel agreement revealed: 'Hezbollah disarmament' for 'gradual' Israeli army withdrawal",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOVg1enA0NENYRzVUNkJ6Y2JuYVJ6a3JLV2txS1JrV1FnUWM0dkNvY1ZKa0FJTUowX2t2Yko1VTBWeVgyZHBhOXVjbHVVWEg3YjVTc0tLd0ExT0NfMUtJdmxnTzJmNGR5Ym14YkRUNHRGbjlvS2ZWRDhEMnRncndRU0I1T3JBQkZfcmJ5QXBOR1ZaYjgwWWxQcGF4aXk4SEZsRjdJR0F1bGV6dEFycnpQLVh5bUNRaHBPTUNYVVRLTHExSDlYZEhxVmU5Rk9aQklqdlZUS1owRVhacW9ZVHgyZ0oySzZJcGFYb1c3Z3NBN3htWDk3?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "US Homeland Security official 'celebrates' Iran's World Cup exit",
-          "url": "https://www.newarab.com/news/us-homeland-security-official-celebrates-irans-world-cup-exit",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
         }
       ]
     },
     {
-      "term": "Turkish",
+      "term": "talks",
       "count": 4,
       "headlines": [
         {
-          "title": "Türkiye prepared for all scenarios: President Erdoğan",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTFNS3Q4TTl6WGYtQ1psSUt0SHJjTGdibGVHYUhyQk5BX2JuQS02TnhmTTFuakxaN0NtZDFjWTZtLV9zRmdPajdLdGR3d29IM2dNOWVJc0E1MWV6WXJCcThjZWREeHQyTnA0MGlTSnpyVnhUems5cFpKcFViNnlHaGFhLUdMem9hTkUyeUZ0T2JtMHhGY2dDbDJZck5SY2PSAaQBQVVfeXFMTWRmSDBqVnBTVW8ySV96TllaQmJtcXhyWTJHc1RLNHZTc2V2M2owbFNCeTZfTWVtbW1QRHR6cGdMRWZtWmZ5NERNRDJjZ3prM2NwaW9XY1QzbVg4aVRna05QXzd1SGRyQlNZUWFxa3V1VmN1aTcxV0hZRDRCdFZkQ2xtWVozM0xwbTAtbWQ2bHRlbU5lVXUtMmZLQ2x0eDZrNW5kUGc?oc=5",
-          "source": "Daily Sabah",
+          "title": "Iran FM: Iraq visit included constructive talks on bilateral, regional issues",
+          "url": "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Global markets mixed amid US-Iran talks, uncertainty over Strait of Hormuz",
+          "url": "https://www.aa.com.tr/en/economy/global-markets-mixed-amid-us-iran-talks-uncertainty-over-strait-of-hormuz/3982869",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         },
         {
-          "title": "Turkish authorities say 134 PKK terrorists surrendered this year",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0JmdTh1UGJSRm9vcU5fZGdCN1ZIZlVvT1BEaHRWRU1XUlp2WHN2QnZiOUY5a3lnOU9Pb0xzRkw4ZU1sODBLM0o3RzZXNXAxZEw5ZXNKWllfelJQTXEwejcxVXdpdllNbElNbkZqS19sUXlCTHFSakFhM3JoS044c2UtZGQzRjhfOEZvMFcxSVZxRE5hSlBXOEkyX3VNd29yVW9mY0tMdjMxcG1tRDFWTlhKbEjSAboBQVVfeXFMTkQ5MFhNRk1MV19BekZyNm5mSkc4TEJVTEhSNHB2MlpXM2cxaWEyekdDbzdjWmpyc3FwSnd6TmlwQW5oOWZlQzY0c0huRmxXN1RHd0NGYWFNeHJVaGFBOWlSVnRRMnoyQVJXNmdOOWtCc09ycXF3U19RRXpfYm5vblgzemRkWFh4T25HbkwyZFQ0SWNWY0lDRHRGR0dGU2h0X2dRTFRRTHFMeTZUN1drSjdqay1GNENEN1N3?oc=5",
-          "source": "Daily Sabah",
+          "title": "Qatar, US push diplomatic efforts on Iran, Lebanon during Doha talks",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-us-push-diplomatic-efforts-on-iran-lebanon-during-doha-talks/3982862",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         },
         {
-          "title": "NATO parliamentary delegation pays visit to Turkish drone giant Baykar",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDZhRG9RUXlOZjV0SDVmWGZuNVozRG5OQUo5cHVvMDB1dUNPZlNSb1ZFTmczQTMyWVVHblladUpKQTJiU1ZETy1pdWNTUWkyNk43bTUydVFuTDFuVmtVMlNBcEY0WGQtU0RPdXFjSGFyd1M4cW83MUZXdEdqdDRld212MUJUZVZxd0tybV9PTG82MFEwXzBnak11RnVLeG5wa0ZoejdJV2RrREJQMHZETUlkVTfSAboBQVVfeXFMTUlvd2dUZ3EtR1NMT3laSENLUlluRjVFZE9WWU9xcGloUUdma2dzZmMxS3BEMFNiVGoxZlR1U3pIdzYtT0x5S0xSV3JmZ1U5aTdxRUE5aUpHRDVQOEUxNU1nSDlrejRObVhCdi14ZDd1MTRaZUZvemJzYjZRRFJDdV9NbWQ1dGpJVU1Nb1FUMlNsQVNlOWU1WnpWQlRaNVBFRVZ2YUZBSzlDVjJ6Y2lnOGNPeUNXV2hMOWxB?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        },
-        {
-          "title": "Ankara taxi drivers welcome NATO guests with Turkish hospitality",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGtLSGx0S0s0dWtmaTc2LVA5UGlfSHNPaVFNRDdLTnhXdldRYThLM2FIOFFNcnJKMENUSUd0WE1falV3QnFJTFBQNzE4aHV1SlZkWjVSeVA4enRoQ2Nocl9sOVUyZEswR3RrcVdla09MRzRTeURtUHY4dnV6ZFR1WVctcGJhTUxXdWJlTUtJUE9CZjE5R01vRkFlSEVhMERZQnN2eklzc9IBrAFBVV95cUxQbXZRbmIyUXp1WmhCOUQ3VjNjMXpSVUNsY0ZWejBGS2ZGUTRKQ3g3UHF0eDRuUjlncGctNlhlQjVhcGlVT2FqcnFGT01WUkhfcGRhNnFreTl1WXROUlRBczNmTTA0cEQxT1h4b1piLTBYeHljeFlNcW9SYnJtNGwzaXMydGhIaUo0cXExRUoyT3FQWlJaQVNoNmxDX0lJQ295OG5scjFiT2Z3T0xW?oc=5",
-          "source": "Daily Sabah",
+          "title": "JD Vance says Iran's denial of Doha talks 'Persian negotiating tactic'",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94NGZoOG5qc2pOOE1pVnFrQ3lkYlRZbl96OUxFYjhWdzQ2LVphazlnZVRJZTZXenM1QS01NzlpcHVWbjVod1lBYmtaZjVfLWxHU1pVQUs3U3A?oc=5",
+          "source": "TRT World",
           "region": "Turkey"
         }
       ]
@@ -729,7 +657,7 @@
       ]
     },
     {
-      "term": "Supreme",
+      "term": "Donald",
       "count": 3,
       "headlines": [
         {
@@ -745,10 +673,58 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran prepares for late supreme leader's funeral later this week",
-          "url": "https://www.newarab.com/news/iran-prepares-late-supreme-leaders-funeral-later-week",
+          "title": "Trump announces first pre-midterm Republican national convention",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ekVQMnBYTlNrdGY2N2NWTnpScnBrekhBdk9RcUQ4Wm95ZjRhdzFWODN3UkF4T2xVcnJ6LXhpVW5sVHRoWDVvRGg2WlBjUWNhbVhfN1VQNzE?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Trump",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US Supreme Court rejects Trump bid to end birthright citizenship",
+          "url": "https://www.newarab.com/news/us-supreme-court-rejects-trump-bid-end-birthright-citizenship",
           "source": "The New Arab",
           "region": "Pan-Arab"
+        },
+        {
+          "title": "Trump announces first pre-midterm Republican national convention",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ekVQMnBYTlNrdGY2N2NWTnpScnBrekhBdk9RcUQ4Wm95ZjRhdzFWODN3UkF4T2xVcnJ6LXhpVW5sVHRoWDVvRGg2WlBjUWNhbVhfN1VQNzE?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "York",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Iran, Oman to jointly charge fees along Strait of Hormuz: Report",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-jointly-charge-fees-along-strait-hormuz-report",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "RJ following up on crew bus collision in New York",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblcwWFcwMi0xRE82SWg3YzFOOGl1dG1FMVY1M2IxTDFET1Nxc2VoQXBTY09tQ080cjYyVGY1ZU9NTURjYlJIc3ktczNCSUxVM3VFWjdpd2Itdzc1WUVkTklvSnlGSER6VEdhWnNKdTNvNUZyQVFfSnBkaFhiVzJBcHhPSlBoc083TzdibA?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "World Cup turns New York's Times Square into global fan hub",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGMwdkJ5OEl1UlRsMzdLd1VjeENkdnRqQzhwd1gtUWxORW8teWFLRkpoSnJUT0tIV3R5Rzk1QTlSWG1KbXRyYTlGYXdTS29hUmNNLWRvc0hkeVMyMmhFWDNma1VFeUFFb3dCams5TnpqaXZ4dHFmRUVzTjRFMkx5YmJrTUVkRjJzOXlrLTRwQW5FS1NabFJqSlhkUVdIVnVONTlzeg?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         }
       ]
     },
@@ -777,50 +753,26 @@
       ]
     },
     {
-      "term": "Benjamin",
+      "term": "negotiations",
       "count": 3,
       "headlines": [
         {
-          "title": "Netanyahu says Gaza ethnic cleansing remains on agenda",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-gaza-ethnic-cleansing-remains-agenda",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israel Will Stay as Long as Hezbollah ‘Threatens’: Netanyahu",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGJadXNRRk1NMmoyTGVfWHhCaXBweFJid2d1WWtMNWRVT3ZEbFdPcUNxQmswbEs4MzVmNUxxZDVYcHk0SFJtNUV1VW1qcFYzdjU1eDJ0YkJEOE5jbVRaQXZWSnJjLUt6UC1ycUZSbl9zNzFGQUNxdWhRcGVuWDNhblhCNjl4QTRVTUt0dDhkMXZiX1dLWXg2ZkRNcTBVdFV6aXh3MkRBczMwMmk1RFlvenZROG3SAbQBQVVfeXFMT1hiWnVzUUZNTTJqMkxlX1h4QmlwcHhSYndndVlrTDVkVU92RGxXT3FDcUJrMGxLODM1ZjVMcWQ1WHB5NEhSbTVFdVVtanBWM3Y1NXgydGJCRDhOY21UWkF2VkpyYy1LelAtcnFGUm5fczcxRkFDcXVoUXBlblgzYW5YQjY5eEE0VU1LdHQ4ZDF2Yl9XS1l4NmZETXEwVXRVeml4dzJEQXMzMDJpNURZb3p2UTht?oc=5",
+          "title": "Vance Says ‘More Game to Play’ in Iran Negotiations",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZ9IBqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZw?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "In south Lebanon, Netanyahu says Israel will stay as long as Hizbollah 'threatens us'",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSExJRG1KdXFsUURlX0hvS2xZWGxBY2g0MFBXdUVDbzFvVEpKY0htWDBOR3U1WHFvWVY4MC1oZ0E4Y0czQ2ZPRnhQbTZVX2owSlZsMy1lczRMbE9lNFJScERZejQ4S1pRNEpSXzFBSUxmT0xfalEyRkVKU0QwXzNvMUlsYjRQdzFVTkwzX3V2TVNqY2JoLUtQTnFWamhjMjQxWHp0NW1kSy1mZWFIc3BIdEE0OHlHM1dwaXc?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Palestinians",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Netanyahu says Gaza ethnic cleansing remains on agenda",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-gaza-ethnic-cleansing-remains-agenda",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Ramallah: Occupation forces detain five Palestinians, including woman - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zWHNGYWRrNS1RbTJNdkRpVHNDVkR3MWJzRnY1UWtuSFI3WkZNYkk3a2thb0NIUkhtMFI3cTVpbGZsdV9tcWlhYjlsRGI5Q0VNVlpUMHZtdw?oc=5",
-          "source": "WAFA News",
+          "title": "إيران تعلّق المفاوضات: ملف هرمز وتحرير لبنان أولاً - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNNUlUWG9yYzJ6VlBkcjdVOEFSOXhKRjdwdHVCVEpqd1hoYzdjbE9Pb3MxZmdTSEhHUlRVZG5qYjBNckMzYzhpNFBwaHBxOUVERjdxa0NGdVlNVEthVG9TVHgxR3F1VkkyZ2hYY0QxMndDcmdiM05GWnZldWZqenRkWTItN1VpczF1S3RzNXVwRk1iRGlPS1NLMUhEU1FUR19BUXZ2MFZfODJsTXpvdWEtV2tkMm9BRjVkMWVlR2lTdDUtS3JvYXVwLTFhSlRsUTR6Qko1VllPU29wVnBaYU1lR3hxX1NJQ2RjdnpPYWhLaG5la0hnRDhaTWt1UEhXcDBjTjVwQzlfOGpCR0RrdWtqYlFMZzI3VFpIeXZMN3VFdjlSVWhvVmoyaFV5VHpHZzNhSUtjS2VPUFBPVFhpSTVDeURkbms3Q3I2ZjlvOG9hRkFRRVZQcjZjNFgzM29pUzJxRkdVT2JoYnlacEw4WmlNMzVZZzE2cEVhb1hXU3hmclBieW9oekpkdm5iYi00cXJxV2lUUDZGdFBod0UxdlBUdnlPeHd6dGpDS1ZBOEhzbUtxcFdOZ2c?oc=5",
+          "source": "Al-Akhbar",
           "region": "Levant"
         },
         {
-          "title": "Occupation forces detain seven Palestinians, including woman, in Hebron - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40dk5uZE5IOUZxUmNZME9maHQzcTVQUHVQM0RRdHlpNEEwWGw4dG1mR0ZBWG9RbDdXVy0yWmhCWjZucEVhRndOZHFsMkRLZ2dMc3NHVHdTUQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
+          "title": "Qatar, US push diplomatic efforts on Iran, Lebanon during Doha talks",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-us-push-diplomatic-efforts-on-iran-lebanon-during-doha-talks/3982862",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -849,26 +801,74 @@
       ]
     },
     {
-      "term": "United",
+      "term": "Netanyahu",
       "count": 3,
       "headlines": [
         {
-          "title": "US Supreme Court rejects Trump bid to end birthright citizenship",
-          "url": "https://www.newarab.com/news/us-supreme-court-rejects-trump-bid-end-birthright-citizenship",
+          "title": "Israel Will Stay as Long as Hezbollah ‘Threatens’: Netanyahu",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGJadXNRRk1NMmoyTGVfWHhCaXBweFJid2d1WWtMNWRVT3ZEbFdPcUNxQmswbEs4MzVmNUxxZDVYcHk0SFJtNUV1VW1qcFYzdjU1eDJ0YkJEOE5jbVRaQXZWSnJjLUt6UC1ycUZSbl9zNzFGQUNxdWhRcGVuWDNhblhCNjl4QTRVTUt0dDhkMXZiX1dLWXg2ZkRNcTBVdFV6aXh3MkRBczMwMmk1RFlvenZROG3SAbQBQVVfeXFMT1hiWnVzUUZNTTJqMkxlX1h4QmlwcHhSYndndVlrTDVkVU92RGxXT3FDcUJrMGxLODM1ZjVMcWQ1WHB5NEhSbTVFdVVtanBWM3Y1NXgydGJCRDhOY21UWkF2VkpyYy1LelAtcnFGUm5fczcxRkFDcXVoUXBlblgzYW5YQjY5eEE0VU1LdHQ4ZDF2Yl9XS1l4NmZETXEwVXRVeml4dzJEQXMzMDJpNURZb3p2UTht?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "In south Lebanon, Netanyahu says Israel will stay as long as Hizbollah 'threatens us'",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSExJRG1KdXFsUURlX0hvS2xZWGxBY2g0MFBXdUVDbzFvVEpKY0htWDBOR3U1WHFvWVY4MC1oZ0E4Y0czQ2ZPRnhQbTZVX2owSlZsMy1lczRMbE9lNFJScERZejQ4S1pRNEpSXzFBSUxmT0xfalEyRkVKU0QwXzNvMUlsYjRQdzFVTkwzX3V2TVNqY2JoLUtQTnFWamhjMjQxWHp0NW1kSy1mZWFIc3BIdEE0OHlHM1dwaXc?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lQWpBTlY4eHN5WFFCZUhCY0ZtbEFwQ0pIOG1Lcmx4eXM3dUpzeE1TZzlvNl92RG0tbmZxWS01TFd0UF9RNG9OSGZQeWNGR0ZJMnd5U1NUams?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "agreement",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "US and Iran officials in Doha to implement agreement",
+          "url": "https://www.newarab.com/news/us-and-iran-officials-doha-implement-agreement",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "تداعيات التطورات الإقليمية على العلاقات الإيرانية – الأميركية",
-          "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxOd0dtUjZ2d2xXTzI3QWpwbkxQTDJmRk51VldHT3RmWHNuTHFfMUcxcFBTX1NTbjN5eDlXdVp3dmllODBnODljR2Y0ekJGNU0tbmxGSUZWTk1NWEh1U3ZHcFl2ZXFpYVA2V2NXN08yYmwzM0o3S29vZk5PN3dJMEJYU2lnUVdVNlVpV1BCdmhkaDJyc1lWMy15VXBxUGY5TXdhemNxSDhZcTY3RTN4RGhGZUFSSHN0Q3BlcjUtMHhsaFB3bDRFT25sYjE0OUNBanduQzNxakV0TnoxWnpoNGxHbzAxUXE4VmFNM2VySm5JTkpBNkR0allTV2dpbWxJdzZwVUV5R2VadV9kRlpmdEpKTF9GQV9ydlcyNnN3ckFZNE1lQzlZcml4QWY0MGZaUkZwNXR2OEFPVmRJaEVBcDlJZEJrQWpsOVE4cFFmQlZhUVRZSERicDdoc1FxMkFpdFBaUXIwSnRmaVB6YVlRS1A5c3FObWVzc3YtQ09YOGlZY3RtV29RekR5elptTUFwaVBNZmdrU2JORHNoRElqMGd3YlRqUm5aZ3J3NksyRDVIQjAwMWpfTmJXZlZOTWJtOFJGX0FQQzdxT01naWEwYkpVM1lITVVJMkpPOVpDWWJIR1lNa2ZFWkMzLUNudHE4UEZwQ1MtZFhxOEpFOEhEejc4bzJFRHhxWkdmOEF3Y2ozYlpxN1lreXY4ZjRzanc5MjdkRXNIbDItcUtyWTFYVXlUWGduMUlzOEZ3d00yXzk1R0pLTE5oZFBMU2tKQlZEMEplcVE?oc=5",
-          "source": "Al Mayadeen",
+          "title": "'Security' annex to Lebanon-Israel agreement revealed: 'Hezbollah disarmament' for 'gradual' Israeli army withdrawal",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOVg1enA0NENYRzVUNkJ6Y2JuYVJ6a3JLV2txS1JrV1FnUWM0dkNvY1ZKa0FJTUowX2t2Yko1VTBWeVgyZHBhOXVjbHVVWEg3YjVTc0tLd0ExT0NfMUtJdmxnTzJmNGR5Ym14YkRUNHRGbjlvS2ZWRDhEMnRncndRU0I1T3JBQkZfcmJ5QXBOR1ZaYjgwWWxQcGF4aXk4SEZsRjdJR0F1bGV6dEFycnpQLVh5bUNRaHBPTUNYVVRLTHExSDlYZEhxVmU5Rk9aQklqdlZUS1owRVhacW9ZVHgyZ0oySzZJcGFYb1c3Z3NBN3htWDk3?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Little progress achieved in two weeks since Iran and US signed agreement",
+          "url": "https://www.egyptindependent.com/little-progress-achieved-in-two-weeks-since-iran-and-us-signed-agreement/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "attack",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "Man arrested after arson attack on Dublin Islamic centre",
+          "url": "https://www.newarab.com/news/man-arrested-after-arson-attack-dublin-islamic-centre",
+          "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "US, Israel failed to achieve objectives in recent aggression: Iran",
-          "url": "https://en.irna.ir/news/86197655/US-Israel-failed-to-achieve-objectives-in-recent-aggression",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "3 UN peacekeepers wounded in attack on C.Africa base",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HYnBfWjNURTFveHhhNVJnc2pLSEU1cDA5ZFo5bFF2c3ZKQzBOQkZKNWJWN053T182Q1pTM2RVSjRTNUNJd0ZDTjlnbk16MFhKUlRF?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Iranian police officer killed in armed attack in southeast",
+          "url": "https://www.aa.com.tr/en/middle-east/iranian-police-officer-killed-in-armed-attack-in-southeast/3982817",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -897,50 +897,26 @@
       ]
     },
     {
-      "term": "Abbas",
+      "term": "Security",
       "count": 3,
       "headlines": [
         {
-          "title": "Iran FM: Iraq visit included constructive talks on bilateral, regional issues",
-          "url": "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral",
+          "title": "US, Israel failed to achieve objectives in recent aggression: Iran",
+          "url": "https://en.irna.ir/news/86197655/US-Israel-failed-to-achieve-objectives-in-recent-aggression",
           "source": "IRNA",
           "region": "Iran"
         },
         {
-          "title": "Araghchi: Iraq is preparing to hold magnificent funeral procession ceremony for Martyr Ayatollah Khamenei",
-          "url": "https://en.irna.ir/news/86197509/Araghchi-Iraq-is-preparing-to-hold-magnificent-funeral-procession",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "'Security' annex to Lebanon-Israel agreement revealed: 'Hezbollah disarmament' for 'gradual' Israeli army withdrawal",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOVg1enA0NENYRzVUNkJ6Y2JuYVJ6a3JLV2txS1JrV1FnUWM0dkNvY1ZKa0FJTUowX2t2Yko1VTBWeVgyZHBhOXVjbHVVWEg3YjVTc0tLd0ExT0NfMUtJdmxnTzJmNGR5Ym14YkRUNHRGbjlvS2ZWRDhEMnRncndRU0I1T3JBQkZfcmJ5QXBOR1ZaYjgwWWxQcGF4aXk4SEZsRjdJR0F1bGV6dEFycnpQLVh5bUNRaHBPTUNYVVRLTHExSDlYZEhxVmU5Rk9aQklqdlZUS1owRVhacW9ZVHgyZ0oySzZJcGFYb1c3Z3NBN3htWDk3?oc=5",
+          "source": "L'Orient Today",
+          "region": "Levant"
         },
         {
-          "title": "Araghchi to US Homeland Security Secretary: You proved that you are not worthy of hosting a tournament",
-          "url": "https://en.irna.ir/news/86197463/Araghchi-to-US-Homeland-Security-Secretary-You-proved-that-you",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Araghchi",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iran FM: Iraq visit included constructive talks on bilateral, regional issues",
-          "url": "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Araghchi: Iraq is preparing to hold magnificent funeral procession ceremony for Martyr Ayatollah Khamenei",
-          "url": "https://en.irna.ir/news/86197509/Araghchi-Iraq-is-preparing-to-hold-magnificent-funeral-procession",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Araghchi to US Homeland Security Secretary: You proved that you are not worthy of hosting a tournament",
-          "url": "https://en.irna.ir/news/86197463/Araghchi-to-US-Homeland-Security-Secretary-You-proved-that-you",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "US Homeland Security official 'celebrates' Iran's World Cup exit",
+          "url": "https://www.newarab.com/news/us-homeland-security-official-celebrates-irans-world-cup-exit",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     },
@@ -969,49 +945,49 @@
       ]
     },
     {
-      "term": "China",
+      "term": "Health",
       "count": 3,
       "headlines": [
         {
-          "title": "China’s Xi urges ruling Communist Party to be adaptable, safeguard advances",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LSDNQMTFodUhVb19xdzBqUFlFVlpESUZmdFdYejhRNXJTRFpBR2VhT2VMb01pdlkzb1pYYXFFQXk0c1RIYmpRazhyRnZ5MTNIeC1J?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "بإشراف منظمة الصحة العالمية.. إجلاء 30 مريضًا من غزة عبر رفح",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZV9yNXBiM1l4dTJORkkzX04wWlctZ2NUb1p4Q2hQaVl2RDdtNFlYTE50c0hWNTJvdGoyQVJNT0VWbDY5WHp2T3RWQVlRMVJCOWFlR2tzaVRpcWs5QkIzX1R4bGJ3bTlILXh5NjBWRmxXZV8xMnYwbHAwRkE1RHozUzBwdzVBQXU4VXlMOXdPclJwU0xnb3RZa0ZqQzR5Vi1tbHhJOWIwc2JmbWVYRU1qbEVVX0dZSzlyVDAyM3pFRUJ2Ylowd1ZDV2JNb19qcGhRNzA0YVlOZmxDYW00R1JKOUpLdnZNTERWWm56SXByYUlCNG5PYkdNeTVhQml2c1Y5TzljVktQY2NsVEVvNHdWaTd2bTlNVGYtTXhDXzIySHE?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         },
         {
-          "title": "China's Xi reaffirms 'unshakeable' commitment to resolving Taiwan question.",
-          "url": "https://www.aa.com.tr/en/asia-pacific/chinas-xi-reaffirms-unshakeable-commitment-to-resolving-taiwan-question/3982799",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "الصحة بغزة : 8 شهداء و26 إصابة خلال الـ24 ساعة الماضية",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb2dpb2RGdlItOU43YzRKQ2l6c2xNeUFqT2xrTGhVVDMxcjR2VExHdWlDd1l0LWNkMWptTkpuSHRFQUlxYjhIakRaUEM3dXI4YTZMTmo4NUpGQXdaaGJqMktib0gxSUdVTTZHUjNCaU81VjNfU2FnY1BZWVpnSGVCQTRlM21DTUd6bmU3T25sZ0pVSmlOeHA1YVVOMEJETFZWSXpGNmc1NFZXcXdKWlVOYVN3THdWdHhtTU5DTE5xMUQ4QWN1aEM0SktGb0lFbnh0Q0hqakRXSm0wT0JKS0xsOVMxcElYczVsVHExdGUzREpIWnJkV1oyNFlYaHh2Qzg?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
         },
         {
-          "title": "North Korea's Kim reiterates commitment to strengthen ties with China",
-          "url": "https://www.aa.com.tr/en/asia-pacific/north-koreas-kim-reiterates-commitment-to-strengthen-ties-with-china/3982786",
-          "source": "Anadolu Agency",
+          "title": "Türkiye mobilized over $1.5 bln in health investments over past year: Minister",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0VWR2s2cGNkbjVLOW1XM2ticVRDckE4Q2dwbmVJcVdaZ2ZyNHJjaGlfbENONWZscG1OYnhNOHJxMzNVWVJoMGdPZE4wZHU1aEN2UVc5bFk2ekdCdFo5Nk81R1F6eFJTRkxCVTd4c2pFT18zWjBtcndHUmk4NUFRejdnUkRwd2c3MzJHeDd5Wi1mWXNDOEN6Yy1zUjFIN203aDdQQlRFeEVNUHUzVUpzSlZvRzRXbGZR?oc=5",
+          "source": "Hürriyet Daily News",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Jinping",
+      "term": "Ankara",
       "count": 3,
       "headlines": [
         {
-          "title": "China’s Xi urges ruling Communist Party to be adaptable, safeguard advances",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LSDNQMTFodUhVb19xdzBqUFlFVlpESUZmdFdYejhRNXJTRFpBR2VhT2VMb01pdlkzb1pYYXFFQXk0c1RIYmpRazhyRnZ5MTNIeC1J?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "China's Xi reaffirms 'unshakeable' commitment to resolving Taiwan question.",
-          "url": "https://www.aa.com.tr/en/asia-pacific/chinas-xi-reaffirms-unshakeable-commitment-to-resolving-taiwan-question/3982799",
-          "source": "Anadolu Agency",
+          "title": "NATO’s Ankara moment: What does Türkiye expect from the summit?",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnpDSWlhcHBLazVMUF81T3JtOTZfb2hqbWVPWWs4N1RzV09Rcml3d2xPRW8xMDBqRDdJZDhpeGRSTnNhUFVHZVpzVi1WaUNNVjI1cWZoak9rUXNqbDBGZDQxZWZXdnBpRlQwaGZLR3BBRVR5bUc5clBQNWRJQzNET3RwbjVyYWVVbDQ4aktmMGlGelkzOVZudnVUYXEyWnlJYW1pNEF30gGrAUFVX3lxTE9SQjFZTmNBaVhrRllHQnE2QzY3SHQ1b3AwYUpiclpyd3JEYUtzT2RNTW1KX0Vac3QzRmhpaFNNN1lBRjh2V3dzX096a2l3ZjYtaXQ4R2VfVTNxMHhnODZPRkt5ZjQwUDk3aHllS2JkQUFTWDUyRmZuMy13bUs2N19Ka3dRTjZKTjNfTEpzb3VGQ3lQMmhDZ3VHWDM0X0hvbnhRRFRqejBwQUFxUQ?oc=5",
+          "source": "Daily Sabah",
           "region": "Turkey"
         },
         {
-          "title": "North Korea's Kim reiterates commitment to strengthen ties with China",
-          "url": "https://www.aa.com.tr/en/asia-pacific/north-koreas-kim-reiterates-commitment-to-strengthen-ties-with-china/3982786",
-          "source": "Anadolu Agency",
+          "title": "Summit at crossroads: What Ankara means for NATO's future",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDJqbEdYN0NnUHlNODUzSDRvUG8tbUNia1hPbmVMdkV4YUUtX09IRE5lX3FuU2JTNGpsVkY0NGpFVDhPSjRna29mdW85ZHhLSXdiendVOHhVWFEybmRoTzNhd0J3cTZlMTBXMGlJeVltOE1QS2FDODhSeWR6UE80R3lXMThXSUU1UHoxaTFWSlJZRFFZRlFQMlRJS2zSAaIBQVVfeXFMTnFVUDRCWGt5Ykp4SldvZWc4SzlLSVcxNlVvTUxTVDJaNzJzaklPWGJTblJ1ai13NXkxbHg1Y2JWM2dWMmdjNEZac0Rvc3VocDNPeEdCNXhLN2JlejFfaFJfdzFmQnRSU21fTEFBbi1LMS1vdjRpeVZIcTVoQVFHTTR2TkhYbjlRa1k4X3FEekNIYkpaRHU1ZGppNUJUM2dJUzRR?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Erdoğan receives EU's Kallas in Ankara",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2xIT3g1VUhJeXl5RW4teFJWbDVuRDVzeW80RUVzM285MmR1Mk5rNjA4eDZkVGM0aUh3RnVfVEI0TGZzc1lRRGFWT3o1R2tLX0ZYa2Z2YmhnRC1JT05kdXp0VEdCejgtMnl3ZXNFQ210YmoyUm9mTlpfTTZDbVp5X0JocXk?oc=5",
+          "source": "Hürriyet Daily News",
           "region": "Turkey"
         }
       ]
@@ -1041,25 +1017,25 @@
       ]
     },
     {
-      "term": "Ankara",
+      "term": "Turkish",
       "count": 3,
       "headlines": [
         {
-          "title": "Summit at crossroads: What Ankara means for NATO's future",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDJqbEdYN0NnUHlNODUzSDRvUG8tbUNia1hPbmVMdkV4YUUtX09IRE5lX3FuU2JTNGpsVkY0NGpFVDhPSjRna29mdW85ZHhLSXdiendVOHhVWFEybmRoTzNhd0J3cTZlMTBXMGlJeVltOE1QS2FDODhSeWR6UE80R3lXMThXSUU1UHoxaTFWSlJZRFFZRlFQMlRJS2zSAaIBQVVfeXFMTnFVUDRCWGt5Ykp4SldvZWc4SzlLSVcxNlVvTUxTVDJaNzJzaklPWGJTblJ1ai13NXkxbHg1Y2JWM2dWMmdjNEZac0Rvc3VocDNPeEdCNXhLN2JlejFfaFJfdzFmQnRSU21fTEFBbi1LMS1vdjRpeVZIcTVoQVFHTTR2TkhYbjlRa1k4X3FEekNIYkpaRHU1ZGppNUJUM2dJUzRR?oc=5",
+          "title": "Türkiye prepared for all scenarios: President Erdoğan",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTFNS3Q4TTl6WGYtQ1psSUt0SHJjTGdibGVHYUhyQk5BX2JuQS02TnhmTTFuakxaN0NtZDFjWTZtLV9zRmdPajdLdGR3d29IM2dNOWVJc0E1MWV6WXJCcThjZWREeHQyTnA0MGlTSnpyVnhUems5cFpKcFViNnlHaGFhLUdMem9hTkUyeUZ0T2JtMHhGY2dDbDJZck5SY2PSAaQBQVVfeXFMTWRmSDBqVnBTVW8ySV96TllaQmJtcXhyWTJHc1RLNHZTc2V2M2owbFNCeTZfTWVtbW1QRHR6cGdMRWZtWmZ5NERNRDJjZ3prM2NwaW9XY1QzbVg4aVRna05QXzd1SGRyQlNZUWFxa3V1VmN1aTcxV0hZRDRCdFZkQ2xtWVozM0xwbTAtbWQ2bHRlbU5lVXUtMmZLQ2x0eDZrNW5kUGc?oc=5",
           "source": "Daily Sabah",
           "region": "Turkey"
         },
         {
-          "title": "Ankara taxi drivers welcome NATO guests with Turkish hospitality",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGtLSGx0S0s0dWtmaTc2LVA5UGlfSHNPaVFNRDdLTnhXdldRYThLM2FIOFFNcnJKMENUSUd0WE1falV3QnFJTFBQNzE4aHV1SlZkWjVSeVA4enRoQ2Nocl9sOVUyZEswR3RrcVdla09MRzRTeURtUHY4dnV6ZFR1WVctcGJhTUxXdWJlTUtJUE9CZjE5R01vRkFlSEVhMERZQnN2eklzc9IBrAFBVV95cUxQbXZRbmIyUXp1WmhCOUQ3VjNjMXpSVUNsY0ZWejBGS2ZGUTRKQ3g3UHF0eDRuUjlncGctNlhlQjVhcGlVT2FqcnFGT01WUkhfcGRhNnFreTl1WXROUlRBczNmTTA0cEQxT1h4b1piLTBYeHljeFlNcW9SYnJtNGwzaXMydGhIaUo0cXExRUoyT3FQWlJaQVNoNmxDX0lJQ295OG5scjFiT2Z3T0xW?oc=5",
+          "title": "Turkish authorities say 134 PKK terrorists surrendered this year",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0JmdTh1UGJSRm9vcU5fZGdCN1ZIZlVvT1BEaHRWRU1XUlp2WHN2QnZiOUY5a3lnOU9Pb0xzRkw4ZU1sODBLM0o3RzZXNXAxZEw5ZXNKWllfelJQTXEwejcxVXdpdllNbElNbkZqS19sUXlCTHFSakFhM3JoS044c2UtZGQzRjhfOEZvMFcxSVZxRE5hSlBXOEkyX3VNd29yVW9mY0tMdjMxcG1tRDFWTlhKbEjSAboBQVVfeXFMTkQ5MFhNRk1MV19BekZyNm5mSkc4TEJVTEhSNHB2MlpXM2cxaWEyekdDbzdjWmpyc3FwSnd6TmlwQW5oOWZlQzY0c0huRmxXN1RHd0NGYWFNeHJVaGFBOWlSVnRRMnoyQVJXNmdOOWtCc09ycXF3U19RRXpfYm5vblgzemRkWFh4T25HbkwyZFQ0SWNWY0lDRHRGR0dGU2h0X2dRTFRRTHFMeTZUN1drSjdqay1GNENEN1N3?oc=5",
           "source": "Daily Sabah",
           "region": "Turkey"
         },
         {
-          "title": "Erdoğan receives EU's Kallas in Ankara",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2xIT3g1VUhJeXl5RW4teFJWbDVuRDVzeW80RUVzM285MmR1Mk5rNjA4eDZkVGM0aUh3RnVfVEI0TGZzc1lRRGFWT3o1R2tLX0ZYa2Z2YmhnRC1JT05kdXp0VEdCejgtMnl3ZXNFQ210YmoyUm9mTlpfTTZDbVp5X0JocXk?oc=5",
-          "source": "Hürriyet Daily News",
+          "title": "NATO parliamentary delegation pays visit to Turkish drone giant Baykar",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDZhRG9RUXlOZjV0SDVmWGZuNVozRG5OQUo5cHVvMDB1dUNPZlNSb1ZFTmczQTMyWVVHblladUpKQTJiU1ZETy1pdWNTUWkyNk43bTUydVFuTDFuVmtVMlNBcEY0WGQtU0RPdXFjSGFyd1M4cW83MUZXdEdqdDRld212MUJUZVZxd0tybV9PTG82MFEwXzBnak11RnVLeG5wa0ZoejdJV2RrREJQMHZETUlkVTfSAboBQVVfeXFMTUlvd2dUZ3EtR1NMT3laSENLUlluRjVFZE9WWU9xcGloUUdma2dzZmMxS3BEMFNiVGoxZlR1U3pIdzYtT0x5S0xSV3JmZ1U5aTdxRUE5aUpHRDVQOEUxNU1nSDlrejRObVhCdi14ZDd1MTRaZUZvemJzYjZRRFJDdV9NbWQ1dGpJVU1Nb1FUMlNsQVNlOWU1WnpWQlRaNVBFRVZ2YUZBSzlDVjJ6Y2lnOGNPeUNXV2hMOWxB?oc=5",
+          "source": "Daily Sabah",
           "region": "Turkey"
         }
       ]
@@ -1069,7 +1045,7 @@
       "count": 3,
       "headlines": [
         {
-          "title": "Mexico beat Ecuador 2-0 to reach World Cup last-16 and break 40-year curse",
+          "title": "Mexico beat Ecuador to reach World Cup Round of 16 and break 40-year curse",
           "url": "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1093,7 +1069,7 @@
       "count": 3,
       "headlines": [
         {
-          "title": "Mexico beat Ecuador 2-0 to reach World Cup last-16 and break 40-year curse",
+          "title": "Mexico beat Ecuador to reach World Cup Round of 16 and break 40-year curse",
           "url": "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
@@ -1239,19 +1215,19 @@
       ]
     },
     {
-      "term": "Strait of Hormuz",
+      "term": "Palestinian",
       "count": 2,
       "headlines": [
         {
-          "title": "Thailand says 10 stranded vessels leave Strait of Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/thailand-says-10-stranded-vessels-leave-strait-hormuz",
+          "title": "Israeli settlers storm Al-Aqsa mosque",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-storm-al-aqsa-mosque",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Modi urges diplomacy in call with Iran’s Pezeshkian",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/modi-urges-diplomacy-call-irans-pezeshkian",
-          "source": "Middle East Eye",
+          "title": "حملة من اليمين المتطرف الإسرائيلي تستهدف مدارس الفلسطينيين",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNVzRxZUNjTHRqaV9UeFBkLWVrczFIdHEtMzZsWmRDR0ppcW1UWmpuM24teVkyVjJPdUFNYzduUjZQTXBuTVVtcU0tMEhyY19FVFlGMVQ1YVZvZ2J5Yzc0eWJFT3VnNWQzZU9rRmVVMThnako5TUpsZUpsMlM4TXotOWJkd2xTdGF5ZzZjWERwVXJwVUZrYzI3TXhsY3RYcm11eUV4UzZQeVRUVW53R0x6b0Nwb2ptVUhGbVhGakpnX19ldW8yNFpPdXkwbEphdjJSLUUteXI3RzFfQkYtdmpXcVpDQmZXcml4WG0tdUNRaUZGZnJOZlVtM1hTb3llOURSYUdMY2VPTnhUalRrUEhxbThJa3luRTlzQnFwRHluQnZSbk5hQnBVb2dCRW16MEVVNFllazNxMU5vMmVUYzR5ZmdmYTNTWWNDNFdhTC11WlRwWHJhQXBxYUVxUkthZ2xKX0NKQ2haZFlhX1VYWUpqSjA0RGNELS1KM1k2cTJNbV9SNkIzVkptZkpKNFhtMk4tV2Jid21paUhKY2V0dEoweWY3RVUyVHR6RUpYdjhTSjdTc1RxYXpUNU5fQlkwa2lIX210NFlwWU1seWloRDRzN2tVcHk5c1poRGpRTjhNeTRvd2h6S0UzZFdUNWNncEZf?oc=5",
+          "source": "Al Mayadeen",
           "region": "Pan-Arab"
         }
       ]
@@ -1347,19 +1323,19 @@
       ]
     },
     {
-      "term": "Vance",
+      "term": "European",
       "count": 2,
       "headlines": [
         {
-          "title": "Vance Says ‘More Game to Play’ in Iran Negotiations",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZ9IBqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZw?oc=5",
+          "title": "US NATO Envoy Presses Europe to Bear More Ukraine Cost",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnlMekk0YVJTQWlocWNaZ2VyRk5ESVk1czNnQkZFekhLS2JGLUdsZmpBNHdTaHdOVzhMVzk1MVRHdTloa2toSE9fSGswa21HVGVXbV9wZUc2RUx2VzcyaU55RF9KVDdLWDEzLUZ1TFU2aXhUX3Q1bm1IejZ4WGJxQlEwMFdOUXlNNFVNcmtkTjlwaXRKNFlrV2JjbzhZb3VEbmxlRTVUY0xGb3FSQTE5cNIBsAFBVV95cUxOYnlMekk0YVJTQWlocWNaZ2VyRk5ESVk1czNnQkZFekhLS2JGLUdsZmpBNHdTaHdOVzhMVzk1MVRHdTloa2toSE9fSGswa21HVGVXbV9wZUc2RUx2VzcyaU55RF9KVDdLWDEzLUZ1TFU2aXhUX3Q1bm1IejZ4WGJxQlEwMFdOUXlNNFVNcmtkTjlwaXRKNFlrV2JjbzhZb3VEbmxlRTVUY0xGb3FSQTE5cA?oc=5",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "JD Vance says Iran's denial of Doha talks 'Persian negotiating tactic'",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94NGZoOG5qc2pOOE1pVnFrQ3lkYlRZbl96OUxFYjhWdzQ2LVphazlnZVRJZTZXenM1QS01NzlpcHVWbjVod1lBYmtaZjVfLWxHU1pVQUs3U3A?oc=5",
-          "source": "TRT World",
+          "title": "Global markets mixed amid US-Iran talks, uncertainty over Strait of Hormuz",
+          "url": "https://www.aa.com.tr/en/economy/global-markets-mixed-amid-us-iran-talks-uncertainty-over-strait-of-hormuz/3982869",
+          "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
