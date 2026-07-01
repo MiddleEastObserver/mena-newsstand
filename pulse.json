@@ -1,11 +1,17 @@
 {
-  "updated": "2026-07-01T08:43:18.749802+00:00",
+  "updated": "2026-07-01T09:12:29.597560+00:00",
   "total_headlines": 132,
   "terms": [
     {
       "term": "World Cup",
       "count": 25,
       "headlines": [
+        {
+          "title": "Watch World Cup Day 20: France dominates Sweden; Mexico, Norway progress",
+          "url": "https://www.aljazeera.com/video/2026/7/1/video-world-cup-2026-highlights?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
         {
           "title": "FIFA World Cup: Wednesday schedule, predictions and bracket update",
           "url": "https://www.aljazeera.com/sports/2026/7/1/fifa_world-cup-wednesday-schedule-predictions-bracket-update?traffic_source=rss",
@@ -27,12 +33,6 @@
         {
           "title": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
           "url": "https://www.aljazeera.com/sports/2026/7/1/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran leaves World Cup with warm send-off from Mexican fans",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-leaves-world-cup-with-warm-send-off-from-mexican-fans?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
@@ -157,6 +157,12 @@
           "region": "Levant"
         },
         {
+          "title": "Israeli forces intensify military operations across Gaza - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdkpOZXhRT2FvTGtoUTlYald5dE1RVWFRX1doRWZGTmdvNU1LN0s0RkRCc0Z3bnBvS2xNY1JiUHpCalMzVzRYTVlORDRiYXdWWE0xaFAtcw?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
           "title": "Israeli colonists storm Al-Aqsa Mosque compound in occupied Jerusalem - WAFA Agency",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JdUp2NEt0M1lQTkM5NE9OTTkxOHRUNVpsb0ZVSEk4b0lwZmRNSDFHMXJORl92ajlTaUotU1dHck8xbE40Vkh5TTVIZEhRUmRtNHloNEJRcw?oc=5",
           "source": "WAFA News",
@@ -181,12 +187,6 @@
           "region": "Levant"
         },
         {
-          "title": "Netanyahu wants to phase out US aid to Israel within decade, labels it ‘welfare’",
-          "url": "https://www.aa.com.tr/en/middle-east/netanyahu-wants-to-phase-out-us-aid-to-israel-within-decade-labels-it-welfare-/3983012",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
           "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lQWpBTlY4eHN5WFFCZUhCY0ZtbEFwQ0pIOG1Lcmx4eXM3dUpzeE1TZzlvNl92RG0tbmZxWS01TFd0UF9RNG9OSGZQeWNGR0ZJMnd5U1NUams?oc=5",
           "source": "TRT World",
@@ -195,8 +195,62 @@
       ]
     },
     {
+      "term": "Iranian",
+      "count": 8,
+      "headlines": [
+        {
+          "title": "US-Iran negotiations: What’s the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran says foreign ship ran aground in Strait of Hormuz",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-foreign-ship-ran-aground-strait-hormuz",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Video: 'Unable to export even a single barrel of oil'",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-unable-export-even-single-barrel-oil",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US and Iran officials in Doha to implement agreement",
+          "url": "https://www.newarab.com/news/us-and-iran-officials-doha-implement-agreement",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran, India have great potentials to expand relations: Pres.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGJzZTlFbURDVUxzb0ZkQXJIeDNIbEtzMDF2Sk5wU0pGMS0tQm1sbW5Vdm1sX1BudTRLMjUwaGpBb3IxMDRlZVNISWdnN0V0WVZiZ3BSekNoRmxCM3hUbl8yUlAyekFrb29YUkRaUkwtZzZlVWRmWHFteWZVSEFOcW5VOVBzekJJSFlQeE9YUk90aDhGOUM4cw?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iran-Qatar talks today will cover US deal and frozen assets, Iranian official says",
+          "url": "https://www.egyptindependent.com/iran-qatar-talks-today-will-cover-us-deal-and-frozen-assets-iranian-official-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Iran plans funeral ceremonies for slain Supreme Leader Ali Khamenei across Iran and Iraq",
+          "url": "https://www.egyptindependent.com/iran-plans-funeral-ceremonies-for-slain-supreme-leader-ali-khamenei-across-iran-and-iraq/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Ship runs aground in Hormuz after leaving Iran-designated route: Reports",
+          "url": "https://www.aa.com.tr/en/middle-east/ship-runs-aground-in-hormuz-after-leaving-iran-designated-route-reports/3983028",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Israel",
-      "count": 9,
+      "count": 7,
       "headlines": [
         {
           "title": "Israeli minister vows ‘100 percent’ control over Gaza",
@@ -229,22 +283,10 @@
           "region": "Iran"
         },
         {
-          "title": "US, Israel failed to achieve objectives in recent aggression: Iran",
-          "url": "https://en.irna.ir/news/86197655/US-Israel-failed-to-achieve-objectives-in-recent-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
           "title": "In south Lebanon, Netanyahu says Israel will stay as long as Hizbollah 'threatens us'",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSExJRG1KdXFsUURlX0hvS2xZWGxBY2g0MFBXdUVDbzFvVEpKY0htWDBOR3U1WHFvWVY4MC1oZ0E4Y0czQ2ZPRnhQbTZVX2owSlZsMy1lczRMbE9lNFJScERZejQ4S1pRNEpSXzFBSUxmT0xfalEyRkVKU0QwXzNvMUlsYjRQdzFVTkwzX3V2TVNqY2JoLUtQTnFWamhjMjQxWHp0NW1kSy1mZWFIc3BIdEE0OHlHM1dwaXc?oc=5",
           "source": "Jordan Times",
           "region": "Levant"
-        },
-        {
-          "title": "Netanyahu wants to phase out US aid to Israel within decade, labels it ‘welfare’",
-          "url": "https://www.aa.com.tr/en/middle-east/netanyahu-wants-to-phase-out-us-aid-to-israel-within-decade-labels-it-welfare-/3983012",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
         },
         {
           "title": "Erdoğan slams Israel’s move on 1915 events",
@@ -255,15 +297,9 @@
       ]
     },
     {
-      "term": "Iranian",
-      "count": 7,
+      "term": "Tehran",
+      "count": 6,
       "headlines": [
-        {
-          "title": "Iran says foreign ship ran aground in Strait of Hormuz",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-foreign-ship-ran-aground-strait-hormuz",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
         {
           "title": "Video: 'Unable to export even a single barrel of oil'",
           "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-unable-export-even-single-barrel-oil",
@@ -271,21 +307,27 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "US and Iran officials in Doha to implement agreement",
-          "url": "https://www.newarab.com/news/us-and-iran-officials-doha-implement-agreement",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran FM: Iraq visit included constructive talks on bilateral, regional issues",
-          "url": "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral",
+          "title": "Iran, Belarus seek to expand agricultural cooperation",
+          "url": "https://en.irna.ir/news/86197953/Iran-Belarus-seek-to-expand-agricultural-cooperation",
           "source": "IRNA",
           "region": "Iran"
         },
         {
-          "title": "Iran, India have great potentials to expand relations: Pres.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGJzZTlFbURDVUxzb0ZkQXJIeDNIbEtzMDF2Sk5wU0pGMS0tQm1sbW5Vdm1sX1BudTRLMjUwaGpBb3IxMDRlZVNISWdnN0V0WVZiZ3BSekNoRmxCM3hUbl8yUlAyekFrb29YUkRaUkwtZzZlVWRmWHFteWZVSEFOcW5VOVBzekJJSFlQeE9YUk90aDhGOUM4cw?oc=5",
-          "source": "Mehr News",
+          "title": "Tehran Grand Mosalla prepares for farewell ceremony for martyred leader",
+          "url": "https://en.irna.ir/news/86197853/Tehran-Grand-Mosalla-prepares-for-farewell-ceremony-for-martyred",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Death toll from Israel’s aggression against Lebanon rises to 4,278",
+          "url": "https://en.irna.ir/news/86197691/Death-toll-from-Israel-s-aggression-against-Lebanon-rises-to",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Speaker: Iran will not back down from its rights in Strait of Hormuz",
+          "url": "https://en.irna.ir/news/86197724/Speaker-Iran-will-not-back-down-from-its-rights-in-Strait-of",
+          "source": "IRNA",
           "region": "Iran"
         },
         {
@@ -293,12 +335,42 @@
           "url": "https://www.egyptindependent.com/iran-qatar-talks-today-will-cover-us-deal-and-frozen-assets-iranian-official-says/",
           "source": "Egypt Independent",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Venezuela",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Rescuers race to reach survivors in Venezuela",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/rescuers-race-to-reach-survivors-in-venezuela?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
         },
         {
-          "title": "Iran plans funeral ceremonies for slain Supreme Leader Ali Khamenei across Iran and Iraq",
-          "url": "https://www.egyptindependent.com/iran-plans-funeral-ceremonies-for-slain-supreme-leader-ali-khamenei-across-iran-and-iraq/",
-          "source": "Egypt Independent",
-          "region": "Levant"
+          "title": "Venezuela quake deaths rise to 1,943, lawmaker says",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGhxX3VDYzRoYmN6NlZaUHk5cUJSNlJ1UGxYSThLOU5Ybzl0c19XdXNvNlcwVmZyU2lKVEs3amIzUHNGLUUwOGs4Q0NJelhraGRGSk9RQ1NPUGNoZVR1V2dzVGJ4YzdtbUxOb0tJampTWHlCektkWDJkamQ0dzBrcE94WF9ZbnFDcEZMeFVNQUJQd0J5UnBOZENSV3B0MG85Y21vY2NxM0TSAagBQVVfeXFMUExocV91Q2M0aGJjejZWWlB5OXFCUjZSdVBsWEk4SzlOWG85dHNfV3VzbzZXMFZmclNpSlRLN2piM1BzRi1FMDhrOENDSXpYa2hkRkpPUUNTT1BjaGVUdVdnc1RieGM3bW1MTm9LSWpqU1h5QnpLZFgyZGpkNHcwa3BPeFhfWW5xQ3BGTHhVTUFCUHdCeVJwTmRDUldwdDBvOWNtb2NjcTNE?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US military deploys over 900 personnel to Venezuela",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWI2QUVMdnAtTnlJWlFhejlwbGpPT1lWSVFNYTYwOWxGOUVCSzVFWUQyaVM2STFsYkdPUUdjNElURXMxRFdUNVBlcG9wWG9kV3M3d2lhc0tmLUdsV2VRZjdPSWJDMGZVU1NxZEpCXzRWdXp1WWpiRklyT2tsaENTSEh2V1l5YnV6NjZObVgzaG8?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Three-year-old rescued six days after Venezuela quakes",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sT0ZvUzZYM0FHME9yOE55NkhDWHBuWXp3alE3VEJ4T1l3VkZ5ZjdFdUYzRkVUNi1hRFgzWFNKQ3JGV1dlY2I3WGtnbkJaTkhDdkFJ?oc=5",
+          "source": "Arab News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Turkish through-the-wall radar saves people's lives in Venezuela from quake debris",
+          "url": "https://www.aa.com.tr/en/world/turkish-through-the-wall-radar-saves-peoples-lives-in-venezuela-from-quake-debris/3983042",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
         }
       ]
     },
@@ -332,52 +404,100 @@
         },
         {
           "title": "إيران تعلّق المفاوضات: ملف هرمز وتحرير لبنان أولاً - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNNUlUWG9yYzJ6VlBkcjdVOEFSOXhKRjdwdHVCVEpqd1hoYzdjbE9Pb3MxZmdTSEhHUlRVZG5qYjBNckMzYzhpNFBwaHBxOUVERjdxa0NGdVlNVEthVG9TVHgxR3F1VkkyZ2hYY0QxMndDcmdiM05GWnZldWZqenRkWTItN1VpczF1S3RzNXVwRk1iRGlPS1NLMUhEU1FUR19BUXZ2MFZfODJsTXpvdWEtV2tkMm9BRjVkMWVlR2lTdDUtS3JvYXVwLTFhSlRsUTR6Qko1VllPU29wVnBaYU1lR3hxX1NJQ2RjdnpPYWhLaG5la0hnRDhaTWt1UEhXcDBjTjVwQzlfOGpCR0RrdWtqYlFMZzI3VFpIeXZMN3VFdjlSVWhvVmoyaFV5VHpHZzNhSUtjS2VPUFBPVFhpSTVDeURkbms3Q3I2ZjlvOG9hRkFRRVZQcjZjNFgzM29pUzJxRkdVT2JoYnlacEw4WmlNMzVZZzE2cEVhb1hXU3hmclBieW9oekpkdm5iYi00cXJxV2lUUDZGdFBod0UxdlBUdnlPeHd6dGpDS1ZBOEhzbUtxcFdOZ2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LWmRtc1ZUZ1VDSk5uOUJRY25VZ0NHQzRXRFd4VXdxYzRZQkI2QVVnU2JlUXhVNDUtbDc0VnQyR0dkemhtanJHSnRocjlJR1F2Rm8xV0I4N0tyZTR0MENiMmc2MEFwbkVld2c?oc=5",
           "source": "Al-Akhbar",
           "region": "Levant"
         }
       ]
     },
     {
-      "term": "Tehran",
+      "term": "Gaza",
       "count": 5,
       "headlines": [
         {
-          "title": "Video: 'Unable to export even a single barrel of oil'",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-unable-export-even-single-barrel-oil",
+          "title": "Israeli minister vows ‘100 percent’ control over Gaza",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-vows-100-percent-control-over-gaza",
           "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Tehran Grand Mosalla prepares for farewell ceremony for martyred leader",
-          "url": "https://en.irna.ir/news/86197853/Tehran-Grand-Mosalla-prepares-for-farewell-ceremony-for-martyred",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Death toll from Israel’s aggression against Lebanon rises to 4,278",
-          "url": "https://en.irna.ir/news/86197691/Death-toll-from-Israel-s-aggression-against-Lebanon-rises-to",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Speaker: Iran will not back down from its rights in Strait of Hormuz",
-          "url": "https://en.irna.ir/news/86197724/Speaker-Iran-will-not-back-down-from-its-rights-in-Strait-of",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran-Qatar talks today will cover US deal and frozen assets, Iranian official says",
-          "url": "https://www.egyptindependent.com/iran-qatar-talks-today-will-cover-us-deal-and-frozen-assets-iranian-official-says/",
-          "source": "Egypt Independent",
+          "title": "Israeli forces intensify military operations across Gaza - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdkpOZXhRT2FvTGtoUTlYald5dE1RVWFRX1doRWZGTmdvNU1LN0s0RkRCc0Z3bnBvS2xNY1JiUHpCalMzVzRYTVlORDRiYXdWWE0xaFAtcw?oc=5",
+          "source": "WAFA News",
           "region": "Levant"
+        },
+        {
+          "title": "بإشراف منظمة الصحة العالمية.. إجلاء 30 مريضًا من غزة عبر رفح",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZV9yNXBiM1l4dTJORkkzX04wWlctZ2NUb1p4Q2hQaVl2RDdtNFlYTE50c0hWNTJvdGoyQVJNT0VWbDY5WHp2T3RWQVlRMVJCOWFlR2tzaVRpcWs5QkIzX1R4bGJ3bTlILXh5NjBWRmxXZV8xMnYwbHAwRkE1RHozUzBwdzVBQXU4VXlMOXdPclJwU0xnb3RZa0ZqQzR5Vi1tbHhJOWIwc2JmbWVYRU1qbEVVX0dZSzlyVDAyM3pFRUJ2Ylowd1ZDV2JNb19qcGhRNzA0YVlOZmxDYW00R1JKOUpLdnZNTERWWm56SXByYUlCNG5PYkdNeTVhQml2c1Y5TzljVktQY2NsVEVvNHdWaTd2bTlNVGYtTXhDXzIySHE?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "ألف يوم من الإبادة الإسرائيلية وهدنة تحت النار",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdjhURHRXMnIwVEdKQ3Jmcmd3enJ2c18zX3E1UWdlTUQ2VndPbzZFbWJIeVdPUE1IcHBPUkN0TFNXSnVuZlhBMHkwZXJ1V2p1cGdKaGdCWmlaWGZ1SS1MOTdvM3UwZ1NjRHVWbi1rS0ZZblJOX1BINExSUjFRSGtwVVdfUmlLMm9UNDV5eXVWUWRpcXV3Rkp3QXZFcUJDU19sTWJCSmRYeHd5dXpoNFJDUXJPTkJZU3B5TENqQUFwbGNlb3RxU1RiZDJ1VmxlRUJwLUFMVUxPWnF5bU1XYnc2QW5IdTF5eGtqVFZ4SGRDaDNRdkpGcWZpd3hEMjRmQkJfcGhZVElpNU9yMlpvcVlCcmVYNW1sbXZMZjN0bk00QXQ?oc=5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Türkiye, Egypt intelligence chiefs discuss Gaza, regional security",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTlyMTJraFItbGM0a0N0M3dwWnI5Zlg1YnFESnFWdE43Z3l1dE5YVk11ODhHeXJUUURadkNrS0ViZnQ0TmVpcTFuUVhqQU84UE9fT29fMWJrSHVnbFVIRnBFNVBNcEdqTnNLTDkyemlpSWEtWnBzdzJnYWNOQWdCal9vaC16NlBNdUVacFg0Q3RWMFRxTGFhV19XQW9vcmZoUVNUZDl2MXhnQnJic1lz0gG0AUFVX3lxTE8xRVJBMU8xUlpZc1ZVU2c1a2tZeUJYY0NNeG5yN3JiQmxZM3lYbmR2bFljNzZLcGNMcW9VdENCWG1rak1rMTZQdjlXSVd0X0k4WFR1OFVSM0ZNaFVZZ2MyUGZtcGFFaEhmeEtJT3dodUowa1NrZlBlTUdpT3Rvc1J2NzVZVlBCa2pXYVZtMnE3TjdTMFVPazI3V3FkSmJVVTRnLVduWmxSZlNDUW8wQmg4U3NlMg?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
         }
       ]
     },
     {
-      "term": "talks",
+      "term": "Turkish",
       "count": 5,
       "headlines": [
+        {
+          "title": "Turkish through-the-wall radar saves people's lives in Venezuela from quake debris",
+          "url": "https://www.aa.com.tr/en/world/turkish-through-the-wall-radar-saves-peoples-lives-in-venezuela-from-quake-debris/3983042",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        },
+        {
+          "title": "Turkish F-16s escort flight after false hijacking alert",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX25ldF95RzlfaFJFSFNDTWtrUlN6QXo4TDNWeDZDWldOa1YxbmZXWlhOY2hCQlJPRkFadXhuQVVfU212R1BwclJLQVNKalN0U1p1cjBhT0U5MWxYeU1IaFluay1oaVFhVHdIVkY3OWdHUEctSjZoX3RvVUM3UGZiYzVFSzVyTVVCb0ZkdWptYjMxeEk1RkQtQzJzMNIBoAFBVV95cUxNVTZUd0h1VXZLbkpVaGNLS2sza2xjMXFuOFhmWWNUZmpseFphNkEzTVJtekZhdWU0b0V5MVlhbjFYUE5VZE50TWd5aTFyVjRZMllwLTdKcFN2NEFIYUpCVDNZdlRXTlJvNUg1cTdYeUdsa0ZWUnZlTlIwcHZFM0c0cUZZN2RXNzdvcFhNZXNqVnFvSldUV3kwOEtSbVVuT0Ji?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Türkiye prepared for all scenarios: President Erdoğan",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTFNS3Q4TTl6WGYtQ1psSUt0SHJjTGdibGVHYUhyQk5BX2JuQS02TnhmTTFuakxaN0NtZDFjWTZtLV9zRmdPajdLdGR3d29IM2dNOWVJc0E1MWV6WXJCcThjZWREeHQyTnA0MGlTSnpyVnhUems5cFpKcFViNnlHaGFhLUdMem9hTkUyeUZ0T2JtMHhGY2dDbDJZck5SY2PSAaQBQVVfeXFMTWRmSDBqVnBTVW8ySV96TllaQmJtcXhyWTJHc1RLNHZTc2V2M2owbFNCeTZfTWVtbW1QRHR6cGdMRWZtWmZ5NERNRDJjZ3prM2NwaW9XY1QzbVg4aVRna05QXzd1SGRyQlNZUWFxa3V1VmN1aTcxV0hZRDRCdFZkQ2xtWVozM0xwbTAtbWQ2bHRlbU5lVXUtMmZLQ2x0eDZrNW5kUGc?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Turkish authorities say 134 PKK terrorists surrendered this year",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0JmdTh1UGJSRm9vcU5fZGdCN1ZIZlVvT1BEaHRWRU1XUlp2WHN2QnZiOUY5a3lnOU9Pb0xzRkw4ZU1sODBLM0o3RzZXNXAxZEw5ZXNKWllfelJQTXEwejcxVXdpdllNbElNbkZqS19sUXlCTHFSakFhM3JoS044c2UtZGQzRjhfOEZvMFcxSVZxRE5hSlBXOEkyX3VNd29yVW9mY0tMdjMxcG1tRDFWTlhKbEjSAboBQVVfeXFMTkQ5MFhNRk1MV19BekZyNm5mSkc4TEJVTEhSNHB2MlpXM2cxaWEyekdDbzdjWmpyc3FwSnd6TmlwQW5oOWZlQzY0c0huRmxXN1RHd0NGYWFNeHJVaGFBOWlSVnRRMnoyQVJXNmdOOWtCc09ycXF3U19RRXpfYm5vblgzemRkWFh4T25HbkwyZFQ0SWNWY0lDRHRGR0dGU2h0X2dRTFRRTHFMeTZUN1drSjdqay1GNENEN1N3?oc=5",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Turkish intelligence chief meets Egyptian counterpart in Ankara",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55eU5BTHRMQlJKbks3WVlYWjdvZlkzNjQteVJWTUctRzJkdDk3UGN2Y3dWMzRTM0N4Y0FWOU14MGdjRXNZb2tId3F2NFF3ZnNDZXcwTXNhOXg?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "negotiations",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "US-Iran negotiations: What’s the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Vance Says ‘More Game to Play’ in Iran Negotiations",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZ9IBqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZw?oc=5",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
         {
           "title": "Gulf-EU trade talks gain momentum",
           "url": "https://www.newarab.com/news/gulf-eu-trade-talks-gain-momentum",
@@ -385,10 +505,28 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran FM: Iraq visit included constructive talks on bilateral, regional issues",
-          "url": "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral",
-          "source": "IRNA",
-          "region": "Iran"
+          "title": "إيران تعلّق المفاوضات: ملف هرمز وتحرير لبنان أولاً - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LWmRtc1ZUZ1VDSk5uOUJRY25VZ0NHQzRXRFd4VXdxYzRZQkI2QVVnU2JlUXhVNDUtbDc0VnQyR0dkemhtanJHSnRocjlJR1F2Rm8xV0I4N0tyZTR0MENiMmc2MEFwbkVld2c?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "talks",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "US-Iran negotiations: What’s the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Gulf-EU trade talks gain momentum",
+          "url": "https://www.newarab.com/news/gulf-eu-trade-talks-gain-momentum",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         },
         {
           "title": "Iran-Qatar talks today will cover US deal and frozen assets, Iranian official says",
@@ -397,46 +535,10 @@
           "region": "Levant"
         },
         {
-          "title": "China urges US, Iran to advance negotiations amid Doha talks",
-          "url": "https://www.aa.com.tr/en/asia-pacific/china-urges-us-iran-to-advance-negotiations-amid-doha-talks/3982920",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
           "title": "JD Vance says Iran's denial of Doha talks 'Persian negotiating tactic'",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94NGZoOG5qc2pOOE1pVnFrQ3lkYlRZbl96OUxFYjhWdzQ2LVphazlnZVRJZTZXenM1QS01NzlpcHVWbjVod1lBYmtaZjVfLWxHU1pVQUs3U3A?oc=5",
           "source": "TRT World",
           "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Venezuela",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Rescuers race to reach survivors in Venezuela",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/rescuers-race-to-reach-survivors-in-venezuela?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Venezuela quake deaths rise to 1,943, lawmaker says",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGhxX3VDYzRoYmN6NlZaUHk5cUJSNlJ1UGxYSThLOU5Ybzl0c19XdXNvNlcwVmZyU2lKVEs3amIzUHNGLUUwOGs4Q0NJelhraGRGSk9RQ1NPUGNoZVR1V2dzVGJ4YzdtbUxOb0tJampTWHlCektkWDJkamQ0dzBrcE94WF9ZbnFDcEZMeFVNQUJQd0J5UnBOZENSV3B0MG85Y21vY2NxM0TSAagBQVVfeXFMUExocV91Q2M0aGJjejZWWlB5OXFCUjZSdVBsWEk4SzlOWG85dHNfV3VzbzZXMFZmclNpSlRLN2piM1BzRi1FMDhrOENDSXpYa2hkRkpPUUNTT1BjaGVUdVdnc1RieGM3bW1MTm9LSWpqU1h5QnpLZFgyZGpkNHcwa3BPeFhfWW5xQ3BGTHhVTUFCUHdCeVJwTmRDUldwdDBvOWNtb2NjcTNE?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US military deploys over 900 personnel to Venezuela",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWI2QUVMdnAtTnlJWlFhejlwbGpPT1lWSVFNYTYwOWxGOUVCSzVFWUQyaVM2STFsYkdPUUdjNElURXMxRFdUNVBlcG9wWG9kV3M3d2lhc0tmLUdsV2VRZjdPSWJDMGZVU1NxZEpCXzRWdXp1WWpiRklyT2tsaENTSEh2V1l5YnV6NjZObVgzaG8?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Three-year-old rescued six days after Venezuela quakes",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sT0ZvUzZYM0FHME9yOE55NkhDWHBuWXp3alE3VEJ4T1l3VkZ5ZjdFdUYzRkVUNi1hRFgzWFNKQ3JGV1dlY2I3WGtnbkJaTkhDdkFJ?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
         }
       ]
     },
@@ -501,36 +603,6 @@
       ]
     },
     {
-      "term": "Gaza",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Israeli minister vows ‘100 percent’ control over Gaza",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-vows-100-percent-control-over-gaza",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "بإشراف منظمة الصحة العالمية.. إجلاء 30 مريضًا من غزة عبر رفح",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZV9yNXBiM1l4dTJORkkzX04wWlctZ2NUb1p4Q2hQaVl2RDdtNFlYTE50c0hWNTJvdGoyQVJNT0VWbDY5WHp2T3RWQVlRMVJCOWFlR2tzaVRpcWs5QkIzX1R4bGJ3bTlILXh5NjBWRmxXZV8xMnYwbHAwRkE1RHozUzBwdzVBQXU4VXlMOXdPclJwU0xnb3RZa0ZqQzR5Vi1tbHhJOWIwc2JmbWVYRU1qbEVVX0dZSzlyVDAyM3pFRUJ2Ylowd1ZDV2JNb19qcGhRNzA0YVlOZmxDYW00R1JKOUpLdnZNTERWWm56SXByYUlCNG5PYkdNeTVhQml2c1Y5TzljVktQY2NsVEVvNHdWaTd2bTlNVGYtTXhDXzIySHE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "ألف يوم من الإبادة الإسرائيلية وهدنة تحت النار",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdjhURHRXMnIwVEdKQ3Jmcmd3enJ2c18zX3E1UWdlTUQ2VndPbzZFbWJIeVdPUE1IcHBPUkN0TFNXSnVuZlhBMHkwZXJ1V2p1cGdKaGdCWmlaWGZ1SS1MOTdvM3UwZ1NjRHVWbi1rS0ZZblJOX1BINExSUjFRSGtwVVdfUmlLMm9UNDV5eXVWUWRpcXV3Rkp3QXZFcUJDU19sTWJCSmRYeHd5dXpoNFJDUXJPTkJZU3B5TENqQUFwbGNlb3RxU1RiZDJ1VmxlRUJwLUFMVUxPWnF5bU1XYnc2QW5IdTF5eGtqVFZ4SGRDaDNRdkpGcWZpd3hEMjRmQkJfcGhZVElpNU9yMlpvcVlCcmVYNW1sbXZMZjN0bk00QXQ?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Türkiye, Egypt intelligence chiefs discuss Gaza, regional security",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTlyMTJraFItbGM0a0N0M3dwWnI5Zlg1YnFESnFWdE43Z3l1dE5YVk11ODhHeXJUUURadkNrS0ViZnQ0TmVpcTFuUVhqQU84UE9fT29fMWJrSHVnbFVIRnBFNVBNcEdqTnNLTDkyemlpSWEtWnBzdzJnYWNOQWdCal9vaC16NlBNdUVacFg0Q3RWMFRxTGFhV19XQW9vcmZoUVNUZDl2MXhnQnJic1lz0gG0AUFVX3lxTE8xRVJBMU8xUlpZc1ZVU2c1a2tZeUJYY0NNeG5yN3JiQmxZM3lYbmR2bFljNzZLcGNMcW9VdENCWG1rak1rMTZQdjlXSVd0X0k4WFR1OFVSM0ZNaFVZZ2MyUGZtcGFFaEhmeEtJT3dodUowa1NrZlBlTUdpT3Rvc1J2NzVZVlBCa2pXYVZtMnE3TjdTMFVPazI3V3FkSmJVVTRnLVduWmxSZlNDUW8wQmg4U3NlMg?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
       "term": "Palestinian",
       "count": 4,
       "headlines": [
@@ -561,92 +633,32 @@
       ]
     },
     {
-      "term": "Palestinians",
+      "term": "Mexico",
       "count": 4,
       "headlines": [
         {
-          "title": "Israeli forces arrest at least 20 Palestinians in West Bank raids",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-least-20-palestinians-west-bank-raids",
-          "source": "Middle East Eye",
+          "title": "Watch World Cup Day 20: France dominates Sweden; Mexico, Norway progress",
+          "url": "https://www.aljazeera.com/video/2026/7/1/video-world-cup-2026-highlights?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "UN agency for Palestinian refugees nearing 'breaking point'",
-          "url": "https://www.newarab.com/news/un-agency-palestinian-refugees-nearing-breaking-point",
+          "title": "Mexico beat Ecuador to reach World Cup Round of 16 and break 40-year curse",
+          "url": "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran thank Tijuana after World Cup exit, lend support to Mexico",
+          "url": "https://www.newarab.com/news/iran-thank-tijuana-after-world-cup-exit-lend-support-mexico",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "Prisoners’ group: Israeli forces detain at least 20 Palestinians, including five women and a journalist - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDOEQ3Y3o5YTRZaXFuS2dfbllhMnFlQU5oTVc0ZkNwWDBYRnl6YUlRcExJMHpUbVE0Mzlka1hEbHhQLUFkNDM3anFFYjlPZDJWM3JXSVpaVQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Ramallah: Occupation forces detain five Palestinians, including woman - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zWHNGYWRrNS1RbTJNdkRpVHNDVkR3MWJzRnY1UWtuSFI3WkZNYkk3a2thb0NIUkhtMFI3cTVpbGZsdV9tcWlhYjlsRGI5Q0VNVlpUMHZtdw?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "negotiations",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Vance Says ‘More Game to Play’ in Iran Negotiations",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZ9IBqgFBVV95cUxOaF82NWdLTUVWTWx3ekxoMkR2QXRTUFN5X0pqT1drS1kxUmUwZ3pLTDJoWExXeE5ySkxuVHlvX05TOHlSNE40bk1uNXJrZEE4QkVaSDhWQlVlUFJzQm11c3lpMUY2ZkQ0X2NCMUctZkd6NEZJWFJEdE8xaFhBZnMwMmI1RFc4bFRjNVVBSFRFVy1Fc1ZPQk83Tno0Mmk5VzBRSWdPSXlPLVZSZw?oc=5",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gulf-EU trade talks gain momentum",
-          "url": "https://www.newarab.com/news/gulf-eu-trade-talks-gain-momentum",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "إيران تعلّق المفاوضات: ملف هرمز وتحرير لبنان أولاً - Al Akhbar",
-          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNNUlUWG9yYzJ6VlBkcjdVOEFSOXhKRjdwdHVCVEpqd1hoYzdjbE9Pb3MxZmdTSEhHUlRVZG5qYjBNckMzYzhpNFBwaHBxOUVERjdxa0NGdVlNVEthVG9TVHgxR3F1VkkyZ2hYY0QxMndDcmdiM05GWnZldWZqenRkWTItN1VpczF1S3RzNXVwRk1iRGlPS1NLMUhEU1FUR19BUXZ2MFZfODJsTXpvdWEtV2tkMm9BRjVkMWVlR2lTdDUtS3JvYXVwLTFhSlRsUTR6Qko1VllPU29wVnBaYU1lR3hxX1NJQ2RjdnpPYWhLaG5la0hnRDhaTWt1UEhXcDBjTjVwQzlfOGpCR0RrdWtqYlFMZzI3VFpIeXZMN3VFdjlSVWhvVmoyaFV5VHpHZzNhSUtjS2VPUFBPVFhpSTVDeURkbms3Q3I2ZjlvOG9hRkFRRVZQcjZjNFgzM29pUzJxRkdVT2JoYnlacEw4WmlNMzVZZzE2cEVhb1hXU3hmclBieW9oekpkdm5iYi00cXJxV2lUUDZGdFBod0UxdlBUdnlPeHd6dGpDS1ZBOEhzbUtxcFdOZ2c?oc=5",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "China urges US, Iran to advance negotiations amid Doha talks",
-          "url": "https://www.aa.com.tr/en/asia-pacific/china-urges-us-iran-to-advance-negotiations-amid-doha-talks/3982920",
+          "title": "Mexico beat Ecuador to end 40-year World Cup knockout drought at home",
+          "url": "https://www.aa.com.tr/en/sports/mexico-beat-ecuador-to-end-40-year-world-cup-knockout-drought-at-home/3982789",
           "source": "Anadolu Agency",
           "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Security",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "US, Israel failed to achieve objectives in recent aggression: Iran",
-          "url": "https://en.irna.ir/news/86197655/US-Israel-failed-to-achieve-objectives-in-recent-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "'Security' annex to Lebanon-Israel agreement revealed: 'Hezbollah disarmament' for 'gradual' Israeli army withdrawal",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOVg1enA0NENYRzVUNkJ6Y2JuYVJ6a3JLV2txS1JrV1FnUWM0dkNvY1ZKa0FJTUowX2t2Yko1VTBWeVgyZHBhOXVjbHVVWEg3YjVTc0tLd0ExT0NfMUtJdmxnTzJmNGR5Ym14YkRUNHRGbjlvS2ZWRDhEMnRncndRU0I1T3JBQkZfcmJ5QXBOR1ZaYjgwWWxQcGF4aXk4SEZsRjdJR0F1bGV6dEFycnpQLVh5bUNRaHBPTUNYVVRLTHExSDlYZEhxVmU5Rk9aQklqdlZUS1owRVhacW9ZVHgyZ0oySzZJcGFYb1c3Z3NBN3htWDk3?oc=5",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Türkiye, Egypt intelligence chiefs discuss Gaza, regional security",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTlyMTJraFItbGM0a0N0M3dwWnI5Zlg1YnFESnFWdE43Z3l1dE5YVk11ODhHeXJUUURadkNrS0ViZnQ0TmVpcTFuUVhqQU84UE9fT29fMWJrSHVnbFVIRnBFNVBNcEdqTnNLTDkyemlpSWEtWnBzdzJnYWNOQWdCal9vaC16NlBNdUVacFg0Q3RWMFRxTGFhV19XQW9vcmZoUVNUZDl2MXhnQnJic1lz0gG0AUFVX3lxTE8xRVJBMU8xUlpZc1ZVU2c1a2tZeUJYY0NNeG5yN3JiQmxZM3lYbmR2bFljNzZLcGNMcW9VdENCWG1rak1rMTZQdjlXSVd0X0k4WFR1OFVSM0ZNaFVZZ2MyUGZtcGFFaEhmeEtJT3dodUowa1NrZlBlTUdpT3Rvc1J2NzVZVlBCa2pXYVZtMnE3TjdTMFVPazI3V3FkSmJVVTRnLVduWmxSZlNDUW8wQmg4U3NlMg?oc=5",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        },
-        {
-          "title": "US Homeland Security official 'celebrates' Iran's World Cup exit",
-          "url": "https://www.newarab.com/news/us-homeland-security-official-celebrates-irans-world-cup-exit",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
         }
       ]
     },
@@ -711,6 +723,54 @@
       ]
     },
     {
+      "term": "Doha",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "US-Iran negotiations: What’s the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "US and Iran officials in Doha to implement agreement",
+          "url": "https://www.newarab.com/news/us-and-iran-officials-doha-implement-agreement",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "JD Vance says Iran's denial of Doha talks 'Persian negotiating tactic'",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94NGZoOG5qc2pOOE1pVnFrQ3lkYlRZbl96OUxFYjhWdzQ2LVphazlnZVRJZTZXenM1QS01NzlpcHVWbjVod1lBYmtaZjVfLWxHU1pVQUs3U3A?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "war",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "The Lebanon-Israel agreement is paving the way for the next war",
+          "url": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran envoy praises witnesses for exposing US-Israel atrocities during recent war",
+          "url": "https://en.irna.ir/news/86197797/Iran-envoy-praises-witnesses-for-exposing-US-Israel-atrocities",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Attack on Dena destroyer amounts to 'war crime’: FM Araghchi",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkQ2Wl8wOTRBMnlYREpITnlQazdjb204V1NTZkN1cDVaRlZmazZtN1JVdmNXVm12bUxWMXV5dW1IZV8tN3Q1SFBNLUZDYjF5a0NBTHMzaTB4TXNTM0pHaHlELWJiVENYQWtHclJMVXYxTlktUzNtNkkwbXdYb1FCOEM4clI0UUp4QktQZ2oyMG1DTGFFckNkVg?oc=5",
+          "source": "Mehr News",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "drones",
       "count": 3,
       "headlines": [
@@ -735,26 +795,26 @@
       ]
     },
     {
-      "term": "Doha",
+      "term": "Palestinians",
       "count": 3,
       "headlines": [
         {
-          "title": "US and Iran officials in Doha to implement agreement",
-          "url": "https://www.newarab.com/news/us-and-iran-officials-doha-implement-agreement",
+          "title": "Israeli forces arrest at least 20 Palestinians in West Bank raids",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-least-20-palestinians-west-bank-raids",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "UN agency for Palestinian refugees nearing 'breaking point'",
+          "url": "https://www.newarab.com/news/un-agency-palestinian-refugees-nearing-breaking-point",
           "source": "The New Arab",
           "region": "Pan-Arab"
         },
         {
-          "title": "China urges US, Iran to advance negotiations amid Doha talks",
-          "url": "https://www.aa.com.tr/en/asia-pacific/china-urges-us-iran-to-advance-negotiations-amid-doha-talks/3982920",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "JD Vance says Iran's denial of Doha talks 'Persian negotiating tactic'",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94NGZoOG5qc2pOOE1pVnFrQ3lkYlRZbl96OUxFYjhWdzQ2LVphazlnZVRJZTZXenM1QS01NzlpcHVWbjVod1lBYmtaZjVfLWxHU1pVQUs3U3A?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "Prisoners’ group: Israeli forces detain at least 20 Palestinians, including five women and a journalist - WAFA Agency",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDOEQ3Y3o5YTRZaXFuS2dfbllhMnFlQU5oTVc0ZkNwWDBYRnl6YUlRcExJMHpUbVE0Mzlka1hEbHhQLUFkNDM3anFFYjlPZDJWM3JXSVpaVQ?oc=5",
+          "source": "WAFA News",
+          "region": "Levant"
         }
       ]
     },
@@ -807,50 +867,26 @@
       ]
     },
     {
-      "term": "Iraq",
+      "term": "York",
       "count": 3,
       "headlines": [
         {
-          "title": "Iran FM: Iraq visit included constructive talks on bilateral, regional issues",
-          "url": "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Iran plans funeral ceremonies for slain Supreme Leader Ali Khamenei across Iran and Iraq",
-          "url": "https://www.egyptindependent.com/iran-plans-funeral-ceremonies-for-slain-supreme-leader-ali-khamenei-across-iran-and-iraq/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        },
-        {
-          "title": "Iraq to probe World Cup failure, map overhaul following no wins",
-          "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Netanyahu",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "In south Lebanon, Netanyahu says Israel will stay as long as Hizbollah 'threatens us'",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSExJRG1KdXFsUURlX0hvS2xZWGxBY2g0MFBXdUVDbzFvVEpKY0htWDBOR3U1WHFvWVY4MC1oZ0E4Y0czQ2ZPRnhQbTZVX2owSlZsMy1lczRMbE9lNFJScERZejQ4S1pRNEpSXzFBSUxmT0xfalEyRkVKU0QwXzNvMUlsYjRQdzFVTkwzX3V2TVNqY2JoLUtQTnFWamhjMjQxWHp0NW1kSy1mZWFIc3BIdEE0OHlHM1dwaXc?oc=5",
+          "title": "RJ following up on crew bus collision in New York",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblcwWFcwMi0xRE82SWg3YzFOOGl1dG1FMVY1M2IxTDFET1Nxc2VoQXBTY09tQ080cjYyVGY1ZU9NTURjYlJIc3ktczNCSUxVM3VFWjdpd2Itdzc1WUVkTklvSnlGSER6VEdhWnNKdTNvNUZyQVFfSnBkaFhiVzJBcHhPSlBoc083TzdibA?oc=5",
           "source": "Jordan Times",
           "region": "Levant"
         },
         {
-          "title": "Netanyahu wants to phase out US aid to Israel within decade, labels it ‘welfare’",
-          "url": "https://www.aa.com.tr/en/middle-east/netanyahu-wants-to-phase-out-us-aid-to-israel-within-decade-labels-it-welfare-/3983012",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "More than half of social media child safety features aren’t working as advertised, new research finds",
+          "url": "https://www.egyptindependent.com/more-than-half-of-social-media-child-safety-features-arent-working-as-advertised-new-research-finds/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         },
         {
-          "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lQWpBTlY4eHN5WFFCZUhCY0ZtbEFwQ0pIOG1Lcmx4eXM3dUpzeE1TZzlvNl92RG0tbmZxWS01TFd0UF9RNG9OSGZQeWNGR0ZJMnd5U1NUams?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "World Cup turns New York's Times Square into global fan hub",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGMwdkJ5OEl1UlRsMzdLd1VjeENkdnRqQzhwd1gtUWxORW8teWFLRkpoSnJUT0tIV3R5Rzk1QTlSWG1KbXRyYTlGYXdTS29hUmNNLWRvc0hkeVMyMmhFWDNma1VFeUFFb3dCams5TnpqaXZ4dHFmRUVzTjRFMkx5YmJrTUVkRjJzOXlrLTRwQW5FS1NabFJqSlhkUVdIVnVONTlzeg?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
         }
       ]
     },
@@ -879,26 +915,20 @@
       ]
     },
     {
-      "term": "Mexico",
-      "count": 3,
+      "term": "US-Iran",
+      "count": 2,
       "headlines": [
         {
-          "title": "Mexico beat Ecuador to reach World Cup Round of 16 and break 40-year curse",
-          "url": "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie?traffic_source=rss",
+          "title": "US-Iran negotiations: What’s the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran thank Tijuana after World Cup exit, lend support to Mexico",
-          "url": "https://www.newarab.com/news/iran-thank-tijuana-after-world-cup-exit-lend-support-mexico",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Mexico beat Ecuador to end 40-year World Cup knockout drought at home",
-          "url": "https://www.aa.com.tr/en/sports/mexico-beat-ecuador-to-end-40-year-world-cup-knockout-drought-at-home/3982789",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "Iranians barely visible in US-Iran deal, UN rapporteur says - ایران اینترنشنال",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xRURyVTJGU3NHam1iWFVXb3gwcVNhZElwUVg4bkJ5NTZoNTBBNjc1WmZaTmx4QW52SnhpdHliQ3FLaE1TbngybEoxSkdpLXNuRVE?oc=5",
+          "source": "Iran International",
+          "region": "Iran"
         }
       ]
     },
@@ -917,24 +947,6 @@
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOVg1enA0NENYRzVUNkJ6Y2JuYVJ6a3JLV2txS1JrV1FnUWM0dkNvY1ZKa0FJTUowX2t2Yko1VTBWeVgyZHBhOXVjbHVVWEg3YjVTc0tLd0ExT0NfMUtJdmxnTzJmNGR5Ym14YkRUNHRGbjlvS2ZWRDhEMnRncndRU0I1T3JBQkZfcmJ5QXBOR1ZaYjgwWWxQcGF4aXk4SEZsRjdJR0F1bGV6dEFycnpQLVh5bUNRaHBPTUNYVVRLTHExSDlYZEhxVmU5Rk9aQklqdlZUS1owRVhacW9ZVHgyZ0oySzZJcGFYb1c3Z3NBN3htWDk3?oc=5",
           "source": "L'Orient Today",
           "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "war",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "The Lebanon-Israel agreement is paving the way for the next war",
-          "url": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Attack on Dena destroyer amounts to 'war crime’: FM Araghchi",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkQ2Wl8wOTRBMnlYREpITnlQazdjb204V1NTZkN1cDVaRlZmazZtN1JVdmNXVm12bUxWMXV5dW1IZV8tN3Q1SFBNLUZDYjF5a0NBTHMzaTB4TXNTM0pHaHlELWJiVENYQWtHclJMVXYxTlktUzNtNkkwbXdYb1FCOEM4clI0UUp4QktQZ2oyMG1DTGFFckNkVg?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
         }
       ]
     },
@@ -989,24 +1001,6 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclRfdWstVVUyNGh5WHZ0QXZ3VjVybFFiaUtZbUR6eWRWR1JLcG1KYlI1dzRpZWN2dDh6Y2RYenJNUk41cGtjRHRBTnZuRGJjYjNPVU1FX1ViOS1fTHEyU1BBampsNVdhb2dwQXAzdGZXeTY1NTRFSGJfVFlPNUowdDZ3VXRKdDlQQ2JETmFrQU5nQWo4UXdhQ1YyVWtEUQ?oc=5",
           "source": "Mehr News",
           "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Africa",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Africa can finally mine, beneficiate and industrialise on its own terms",
-          "url": "https://www.aljazeera.com/opinions/2026/7/1/africa-can-finally-mine-beneficiate-and-industrialise-on-its-own-terms?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "3 UN peacekeepers wounded in attack on C.Africa base",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HYnBfWjNURTFveHhhNVJnc2pLSEU1cDA5ZFo5bFF2c3ZKQzBOQkZKNWJWN053T182Q1pTM2RVSjRTNUNJd0ZDTjlnbk16MFhKUlRF?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
         }
       ]
     },
@@ -1137,56 +1131,38 @@
       ]
     },
     {
+      "term": "Representative",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "النائبة الديمقراطية \"الكساندرا كورتيز\"تطرح تعديلاً لمنع نقل الأسلحة لـ\"إسرائيل\"",
+          "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPUlAzeGhidXhXWjVJRGpYWGFkajVVTTBXdEdLbXZWMDl4OU9tLWhaUnhFSjVHM0JGXzdWYkVmWDlxNFo0dWxZcEMwT1FKbS1LYkdSdm05bW1lNy1vQTJYaDhSUE05cTlTWEpZT0JWVTV5eUcyek14SVBVdTJ3cU9EbnJpYXFqeXExUXZGMFZ5b0h2R1ZkZkhmMjhXN0xJT2VOdG0yZmd0MmQ2bmVTOWJ3Uml6dEJHOEY5M3lqNDNzZEFOMmRvUTZwa0hEZGlrVmlxSkpNaTFNYzBXNDZqRzE4UG1Ba00xejF4cjlJZzlfNHRzUWFoVE1SZWVweHlnRndWa3d4cmJKS3RlRFFiNXg0bFN0RDZidTZybUlyczJTNmNyVDhqTF9VaEhZMHRmcVZ4NjZfb1d5LWFRa3U4N0I1SFBkZnNWYXFaUl9iR0ZTME5tbDByNWRqX0lTTjBRTHFqTGc1Wmg1U3ZGM3QybXlTeVdQbXFmbWxkTE1hT0FxdDJyU2Y1RV9zeGZwM0VTbGctNEVrZm82cDZrN1FDYmtpc0tLeDBDSl9CbmRXcWpzNHFnTHNyeW9QbXdkMjFCaVRpT3NFMmJYTlM4WVI0LVlPYUlTb3otVlRyWVZ6MUUtcnJXRGE4Unp1Mlc1ZTRBY2F4bUtj?oc=5",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran envoy praises witnesses for exposing US-Israel atrocities during recent war",
+          "url": "https://en.irna.ir/news/86197797/Iran-envoy-praises-witnesses-for-exposing-US-Israel-atrocities",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
       "term": "United",
       "count": 2,
       "headlines": [
+        {
+          "title": "Iran envoy praises witnesses for exposing US-Israel atrocities during recent war",
+          "url": "https://en.irna.ir/news/86197797/Iran-envoy-praises-witnesses-for-exposing-US-Israel-atrocities",
+          "source": "IRNA",
+          "region": "Iran"
+        },
         {
           "title": "Speaker: Iran will not back down from its rights in Strait of Hormuz",
           "url": "https://en.irna.ir/news/86197724/Speaker-Iran-will-not-back-down-from-its-rights-in-Strait-of",
           "source": "IRNA",
           "region": "Iran"
-        },
-        {
-          "title": "US, Israel failed to achieve objectives in recent aggression: Iran",
-          "url": "https://en.irna.ir/news/86197655/US-Israel-failed-to-achieve-objectives-in-recent-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Araghchi",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Iran FM: Iraq visit included constructive talks on bilateral, regional issues",
-          "url": "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Attack on Dena destroyer amounts to 'war crime’: FM Araghchi",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkQ2Wl8wOTRBMnlYREpITnlQazdjb204V1NTZkN1cDVaRlZmazZtN1JVdmNXVm12bUxWMXV5dW1IZV8tN3Q1SFBNLUZDYjF5a0NBTHMzaTB4TXNTM0pHaHlELWJiVENYQWtHclJMVXYxTlktUzNtNkkwbXdYb1FCOEM4clI0UUp4QktQZ2oyMG1DTGFFckNkVg?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Organization",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US, Israel failed to achieve objectives in recent aggression: Iran",
-          "url": "https://en.irna.ir/news/86197655/US-Israel-failed-to-achieve-objectives-in-recent-aggression",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "بإشراف منظمة الصحة العالمية.. إجلاء 30 مريضًا من غزة عبر رفح",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZV9yNXBiM1l4dTJORkkzX04wWlctZ2NUb1p4Q2hQaVl2RDdtNFlYTE50c0hWNTJvdGoyQVJNT0VWbDY5WHp2T3RWQVlRMVJCOWFlR2tzaVRpcWs5QkIzX1R4bGJ3bTlILXh5NjBWRmxXZV8xMnYwbHAwRkE1RHozUzBwdzVBQXU4VXlMOXdPclJwU0xnb3RZa0ZqQzR5Vi1tbHhJOWIwc2JmbWVYRU1qbEVVX0dZSzlyVDAyM3pFRUJ2Ylowd1ZDV2JNb19qcGhRNzA0YVlOZmxDYW00R1JKOUpLdnZNTERWWm56SXByYUlCNG5PYkdNeTVhQml2c1Y5TzljVktQY2NsVEVvNHdWaTd2bTlNVGYtTXhDXzIySHE?oc=5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
         }
       ]
     },
@@ -1227,6 +1203,24 @@
       ]
     },
     {
+      "term": "Netanyahu",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "In south Lebanon, Netanyahu says Israel will stay as long as Hizbollah 'threatens us'",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSExJRG1KdXFsUURlX0hvS2xZWGxBY2g0MFBXdUVDbzFvVEpKY0htWDBOR3U1WHFvWVY4MC1oZ0E4Y0czQ2ZPRnhQbTZVX2owSlZsMy1lczRMbE9lNFJScERZejQ4S1pRNEpSXzFBSUxmT0xfalEyRkVKU0QwXzNvMUlsYjRQdzFVTkwzX3V2TVNqY2JoLUtQTnFWamhjMjQxWHp0NW1kSy1mZWFIc3BIdEE0OHlHM1dwaXc?oc=5",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lQWpBTlY4eHN5WFFCZUhCY0ZtbEFwQ0pIOG1Lcmx4eXM3dUpzeE1TZzlvNl92RG0tbmZxWS01TFd0UF9RNG9OSGZQeWNGR0ZJMnd5U1NUams?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
       "term": "Hezbollah",
       "count": 2,
       "headlines": [
@@ -1240,24 +1234,6 @@
           "title": "'Security' annex to Lebanon-Israel agreement revealed: 'Hezbollah disarmament' for 'gradual' Israeli army withdrawal",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOVg1enA0NENYRzVUNkJ6Y2JuYVJ6a3JLV2txS1JrV1FnUWM0dkNvY1ZKa0FJTUowX2t2Yko1VTBWeVgyZHBhOXVjbHVVWEg3YjVTc0tLd0ExT0NfMUtJdmxnTzJmNGR5Ym14YkRUNHRGbjlvS2ZWRDhEMnRncndRU0I1T3JBQkZfcmJ5QXBOR1ZaYjgwWWxQcGF4aXk4SEZsRjdJR0F1bGV6dEFycnpQLVh5bUNRaHBPTUNYVVRLTHExSDlYZEhxVmU5Rk9aQklqdlZUS1owRVhacW9ZVHgyZ0oySzZJcGFYb1c3Z3NBN3htWDk3?oc=5",
           "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "York",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "RJ following up on crew bus collision in New York",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblcwWFcwMi0xRE82SWg3YzFOOGl1dG1FMVY1M2IxTDFET1Nxc2VoQXBTY09tQ080cjYyVGY1ZU9NTURjYlJIc3ktczNCSUxVM3VFWjdpd2Itdzc1WUVkTklvSnlGSER6VEdhWnNKdTNvNUZyQVFfSnBkaFhiVzJBcHhPSlBoc083TzdibA?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "World Cup turns New York's Times Square into global fan hub",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGMwdkJ5OEl1UlRsMzdLd1VjeENkdnRqQzhwd1gtUWxORW8teWFLRkpoSnJUT0tIV3R5Rzk1QTlSWG1KbXRyYTlGYXdTS29hUmNNLWRvc0hkeVMyMmhFWDNma1VFeUFFb3dCams5TnpqaXZ4dHFmRUVzTjRFMkx5YmJrTUVkRjJzOXlrLTRwQW5FS1NabFJqSlhkUVdIVnVONTlzeg?oc=5",
-          "source": "Jordan Times",
           "region": "Levant"
         }
       ]
@@ -1299,18 +1275,54 @@
       ]
     },
     {
-      "term": "German",
+      "term": "Donald",
       "count": 2,
       "headlines": [
         {
-          "title": "Justice minister, German ambassador discuss judicial cooperation",
-          "url": "https://www.egyptindependent.com/justice-minister-german-ambassador-discuss-judicial-cooperation/",
+          "title": "Trump claims a glorious win streak — but history is keeping score",
+          "url": "https://www.egyptindependent.com/trump-claims-a-glorious-win-streak-but-history-is-keeping-score/",
           "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "3 killed in German apartment fire",
-          "url": "https://www.aa.com.tr/en/europe/3-killed-in-german-apartment-fire/3982931",
+          "title": "Trump announces first pre-midterm Republican national convention",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ekVQMnBYTlNrdGY2N2NWTnpScnBrekhBdk9RcUQ4Wm95ZjRhdzFWODN3UkF4T2xVcnJ6LXhpVW5sVHRoWDVvRGg2WlBjUWNhbVhfN1VQNzE?oc=5",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Iraq",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Iran plans funeral ceremonies for slain Supreme Leader Ali Khamenei across Iran and Iraq",
+          "url": "https://www.egyptindependent.com/iran-plans-funeral-ceremonies-for-slain-supreme-leader-ali-khamenei-across-iran-and-iraq/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Iraq to probe World Cup failure, map overhaul following no wins",
+          "url": "https://www.newarab.com/news/iraq-probe-world-cup-failure-map-overhaul-following-no-wins",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "Hormuz",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "إيران تعلّق المفاوضات: ملف هرمز وتحرير لبنان أولاً - Al Akhbar",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LWmRtc1ZUZ1VDSk5uOUJRY25VZ0NHQzRXRFd4VXdxYzRZQkI2QVVnU2JlUXhVNDUtbDc0VnQyR0dkemhtanJHSnRocjlJR1F2Rm8xV0I4N0tyZTR0MENiMmc2MEFwbkVld2c?oc=5",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        },
+        {
+          "title": "Ship runs aground in Hormuz after leaving Iran-designated route: Reports",
+          "url": "https://www.aa.com.tr/en/middle-east/ship-runs-aground-in-hormuz-after-leaving-iran-designated-route-reports/3983028",
           "source": "Anadolu Agency",
           "region": "Turkey"
         }
