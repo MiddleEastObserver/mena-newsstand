@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T01:55:59.462247+00:00",
+  "updated": "2026-07-01T02:25:03.557695+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,18 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Southeast Asia’s homegrown artists are knocking K-pop off its pedestal",
+            "url": "https://www.aljazeera.com/news/2026/7/1/southeast-asias-homegrown-artists-are-knocking-k-pop-off-its-pedestal?traffic_source=rss",
+            "published": "2026-07-01T01:59:54+00:00",
+            "snippet": "Drawing lessons from the global success of K-Pop, the region is finding its own voice in a new generation of artists."
+          },
+          {
+            "title": "Algeria to vote in test of post-Hirak political landscape",
+            "url": "https://www.aljazeera.com/news/2026/7/1/algeria-to-vote-in-test-of-post-hirak-political-landscape?traffic_source=rss",
+            "published": "2026-07-01T01:45:42+00:00",
+            "snippet": "Algeria holds legislative elections amid debates over reform, turnout and political stability."
+          },
           {
             "title": "North Korea’s Kim hails ‘unshakeable will’ to develop ties with China’s Xi",
             "url": "https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss",
@@ -25,18 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/6/30/a-rally-like-no-other-trump-announces-2026-midterm-convention?traffic_source=rss",
             "published": "2026-06-30T23:20:38+00:00",
             "snippet": "Donald Trump announced the 2026 Republican midterm convention, as the party aims to maintain control over both chambers of the US Congress."
-          },
-          {
-            "title": "Donald Trump reports $1.4bn in cryptocurrency income in government filing",
-            "url": "https://www.aljazeera.com/news/2026/6/30/donald-trump-reports-1-4bn-in-cryptocurrency-income-in-government-filing?traffic_source=rss",
-            "published": "2026-06-30T23:14:58+00:00",
-            "snippet": "Donald Trump reported earning $1.4 billion in cryptocurrency income through a government filing, following his return to the White House for a second term."
-          },
-          {
-            "title": "Venezuelans the US deported hours before earthquakes still missing",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/venezuelans-the-us-deported-hours-before-earthquakes-still-missing?traffic_source=rss",
-            "published": "2026-06-30T23:06:51+00:00",
-            "snippet": "Venezuelans deported by the US hours before deadly earthquakes struck last Wednesday remain missing."
           }
         ],
         "error": null
@@ -177,6 +177,12 @@
             "snippet": "The article examines the repercussions of regional developments on Iranian-US relations."
           },
           {
+            "title": "الاحتلال الإسرائيلي.. إجراءات تعسفية في الضفة الغربية",
+            "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNRG1RODl0dDJVOE9TZFVIcFpFVkJIaXl0Ni1nbnp3MUdWR2dEVHgxMng3Ui1pd2c5cHUyWU5Mek1rNlEzaUt4bG4tSWlTRDRjTmpkeG52eWxuSktycGo2NEVybC1iQWE5c1lZOS16cW1qUF9VR0ZwYTl5aVlGbkNDSUk1SVZUT0pDZG1waTVybnRVRGQ1eElyTW5yV0VEUGw2eHIxNDRjTEsyRjlkZXlQYXdtbmlOd1BDTG9RbGlsbFJuN0RBS3p0eEtINDEyZmdsaF9jUFQ2VkxXUi13aXQ2R2tGSElVSkhqd1Yta3VlTk0xVUxZLUJhNWVJTDdSUVBUYzhYYU8weTl2bEk2VmRmalA3dmtLOUgtajlucThtdVQtaTV5SmtoZ1JMNl9qT3RkbkI1TEtOTnRyUlZWeWp4ZkxmUW5oVnptYTJ1QXNYWjh1ZmtsWnB3dTQyeUFqbEpyVF94Wllnc0lZRlFtUWduTWNnYWh6Mm5sZHhJRjZrZHNza1NmNTcxNmp0eXBoS3ZhdWUtRkxHX2pvMVlkWFBWS0UzWDNUZkxmUDhRbFh5bVpZVS00a0d6VnpEY0p3Q2VuQmc?oc=5",
+            "published": "2026-07-01T00:15:47+00:00",
+            "snippet": "الاحتلال الإسرائيلي.. إجراءات تعسفية في الضفة الغربية almayadeen.net"
+          },
+          {
             "title": "فلسطين المحتلة: رئيس وزراء الاحتلال بنيامين نتنياهو حول القضايا التي يحاكم فيها: على الرغم من انهيار ملفات القضايا إلا أنني ما زلت أريد الحصول على عفو",
             "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxQeG9xMkVEeE5nMGlSeGpZRUxnNWRub3AyYWpkMmptN3pLM0NoVk9oYlUyaVdpdEtZQzA3SWpGdXIzamIzS1l6M3pRdkMwX1VhQXRJYVBHZlNGMVEtTXpzUjBHcDRvSmZsbE15dTFmXzhPYkJQWGR1T1BZQXVOdUt0UkUydnZLQkN4OHp1X2J5TG1CalI0RndieTBUdFFabkx2SDNYR2NFdUZKZDZvQWxkR0huZUo4YjZDa2hHZnpNUnRBblNBa0o5cUdUVUtWbk1YbXo1SDZra044WFBzaXhmdThiQnQtMTd1bWsxY2NVOS1LTGQ1YmV6emFYZE5IVDVPZWd3ZzJ3SFFERU1YejdiMktEUWx4dE5kWkprcTJMSkdmYzhBZWc0TEJTdXUtS1BNN1BvQ0hZQ2J6UWQ0akJqTzhLZnBVc1c4V3pkdVBIcWVfMUtUZzFDR0lFakFsTzNMZnhMTGw1WlBqRkpYZWhjMjlKdVY1Ul92N1Z0UUtzYmNQNTZ2S3pDOTNpUlFzVlRhSjZwcnR0bVVKVG4wT1BfV0RxNV8zNW13dzFydFFsNThOSGE4bzlKbDdzelhpeWxxZ2JHWUlxM3FjdHFhckRDeGFfVHR5TWptTEdES3g5eGtFM3Fzc3Bsa3NBTzMyV3FrTy12NjZLaEZUdHlaNW05bg?oc=5",
             "published": "2026-06-30T19:43:50+00:00",
@@ -187,12 +193,6 @@
             "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQV05MMHdpcWZVRk9RZlJaX3gtRGt6T2lPczFKdzExMWxaakI1a01EaTNaWUQtQlFfZHAwdzRRSXpLTl80OGhuUDc5blpuMjJyUkVTQXd2MUEzZzhuOTJlSGpqZUNuQmpVc1RsTi1qejRTMFR2WHVsUjAtN3RUcWpGTi1CUEFNS0VPcGsxVnRUaHBtOGdtS0toYW9LdC1KOXhUbUxGRFV5LWV3cW05ZFZWelF4dXZORmtSTVRETGE4bmN4SGt6UmpOcTJGSkM5a0JEa3hheDZRNUFlOXFYRGptRTlfeXdqYVF3enljN3hITU90b1loV2FRRjhtVENmRTNISUF3NTBlZ0JZdWY5U1FKcHA4N2d0alFFdVI0dGpJb0ZhY3BxeGptSVU2bXlJOXNCT2hjRThKSGpwRFVsX19RaUdLSFFFN0pBaU1Jc3JuSnRrVUdKcUEtSG9KeHpfd0FwZmZnamhoYXFQNlBZd0FKSkNnX0dfbEJINUlCTzZhSklQME4ya3NsdmhKX0ZSeEpDeHhYVURlMG9BXy03OWJMel9IcmdmckJVTVRjNjl3OUJGUHFmbWxOcS1IWllXTVRUMFE5NTJ2SXZvRGVzZ0FtNEpxUXhBTkhGNGZUVi0tU1RVY3pDMnlObjN6SmdzMUVFUjA2Vkp2cGRJaTZiS3RPYXNCRFA5QTRvN3VWV1B6YmlETnE3aU5SU1hwdTRBcGRPZ2t4Q3B3TFA4cm1kUU5r?oc=5",
             "published": "2026-06-30T19:05:18+00:00",
             "snippet": "Baqaei stated there have been no meetings with US officials and that Iran adheres to a step-by-step principle."
-          },
-          {
-            "title": "طهران: التنفيذ أولاً .. لا لقاءات مع واشنطن",
-            "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPNTc0MGZZRjVnUUlvVnE2bzJCQ251bk4xZDVnZjZjOW56alduUVMzeEdzT2wwOG5YdnY1RFdqUTRCV1VDbFlGZ0FUXzl5ZjNVS2IwaXMzYVp3aTFNaGJlNzRsS0JVNDZIWGR3X1MtLURDdFJ2RFR3a1pHcnpvVkJuS3h3Wlloa0NkcWJyRkM4b1FhdGgxdVdOWlBQVHJpZjZPMm1mSFlIaVBZZEFMUEJuRWNDb0s5X29KbFlrRkhqRlpQeFlWZ1NUdzV2QkZ0cWQ5ZTR3bUlRTWRjczNLWFp5N2VtNnNXUEdYRWNzUEROZFItNDFMSmNmSHJkTFhDVEt3UFFpalkyaDlBMzl6OWVGN09WRFhWSXBITmtOXy1PQmJYMVZGNDRWcU9TeVd4c0ZGcjh4TnFxTGJFZUIyUmtpWjd4V0tzdDNXMFMxcWg5ZEVXeFJwci1hNGNRN2U?oc=5",
-            "published": "2026-06-30T18:48:22+00:00",
-            "snippet": "Tehran has emphasized that implementation must come first, ruling out any meetings with Washington."
           }
         ],
         "error": null
@@ -257,6 +257,12 @@
             "snippet": "Iran and India have substantial potential to enhance their bilateral relations, according to the President."
           },
           {
+            "title": "Attack on Dena destroyer amounts to 'war crime’: FM Araghchi",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkQ2Wl8wOTRBMnlYREpITnlQazdjb204V1NTZkN1cDVaRlZmazZtN1JVdmNXVm12bUxWMXV5dW1IZV8tN3Q1SFBNLUZDYjF5a0NBTHMzaTB4TXNTM0pHaHlELWJiVENYQWtHclJMVXYxTlktUzNtNkkwbXdYb1FCOEM4clI0UUp4QktQZ2oyMG1DTGFFckNkVg?oc=5",
+            "published": "2026-06-30T16:58:00+00:00",
+            "snippet": "Attack on Dena destroyer amounts to 'war crime’: FM Araghchi Mehr News Agency"
+          },
+          {
             "title": "Loud car explosion reported in Haifa",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZVVuS0h0SDlOVVg0U0g5T0YzbklLcW5HdlBFNnpXdFFSUi1mV1ZvWDIwREpKV2N3X0Fzc2lNWlk2UFZKQ1FCVkR4QXFjdEpvM09SVnM5RE1oQU5TSS1TOXRmdG9sN3V4TkdJNF92RXpMei01cHF6YWRzTHREUlE?oc=5",
             "published": "2026-06-30T14:47:00+00:00",
@@ -267,12 +273,6 @@
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQko5SEN0b1g0LUxiMEZGemw5bm0xcEYyYXhBcWUzVjJHWmgtcnZWWmNleU9RYmlGaHlYQXJFWE9xZkJ5dXZnOEZfUlBTWTJYVlVJYWJ4QVhqRDVjam5BXzN5MTdpa1RDS2FFZzlTX1d6R1JJeDRJbDM1bGJ5ZTB4TUxtSFpyM2hTOUNveg?oc=5",
             "published": "2026-06-30T12:42:00+00:00",
             "snippet": "Qatar has stated that no high-level talks between Iran and the US are scheduled to occur."
-          },
-          {
-            "title": "Gaza death toll reaches 73,066 since Oct. 07: health min.",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk1sTElSMng5djhYX0FCRDJwejFOcjNreFJ0ZE95UFdTcER4MlJIRG1aS3pyYl9KM3lkd1NFMkp0bXVDYzZUalh4azZfczFCbjdQbTBhbTk4QWNZcjZWU2lUcVVOblpESTJ1UzVlSjBQZnBpUkxRRjdoVkM3aVhOdGZQMFctUkpUUVlqQmNaRTE2aEZ4?oc=5",
-            "published": "2026-06-30T10:50:00+00:00",
-            "snippet": "The health ministry in Gaza reported that the death toll has reached 73,066 since October 7."
           }
         ],
         "error": null
@@ -288,6 +288,12 @@
             "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdXh2LU83TlJQSXlSdHRLYko0MjF5UzVpMG0wZWx6b2h2WGw4M3V3R2MySzhJc0Q3dVhBTk50WGNhSFBmd25GRjhXWjFmU045UHQ0OWFPNEpVS25Vd2d0T3A4MA?oc=5",
             "published": "2026-06-30T20:13:46+00:00",
             "snippet": "The article is titled \"Atlas of Iran’s Missile Cities.\""
+          },
+          {
+            "title": "Khamenei to end Eje'i’s judiciary tenure after one term - ایران اینترنشنال",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tODBWMWVpN0RvelJKY0FJUlM5Y3JrblUtcmtDLU5xZlJBMXFiSWdwN3NhOWxoSmcxck5uR3JVUGtWNm9sWEd0LXpxZnJqb2Vyamc?oc=5",
+            "published": "2026-06-30T19:48:35+00:00",
+            "snippet": "Khamenei to end Eje'i’s judiciary tenure after one term ایران اینترنشنال"
           },
           {
             "title": "Deadly attacks shake northwest Iran as IRGC reports new clashes - ایران اینترنشنال",
@@ -306,12 +312,6 @@
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MT3I1cWIzcFZfOE5pc3I4RkNUNDVIM1RwYlVBMS1ZNlY5N21DNnBKWTNWMTk4Z3ZQaUEzUndDTjJ5NUJmNEVCTXQxdzE0bFdPc3c?oc=5",
             "published": "2026-06-30T07:11:44+00:00",
             "snippet": "A report indicates that nearly half of Iran's population resides in land subsidence zones."
-          },
-          {
-            "title": "Is Tehran preparing to reinvent the IRGC? - ایران اینترنشنال",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NN0ctd0ZpYlYtellQUElLU19qRENwYkxVeWZhQ1JSQUs4MVc2aHB3NzNEbXdwRnpmZHFoc0lrX1JCN2x0SkJqRzlhcDNNcFNZZUE?oc=5",
-            "published": "2026-06-30T06:44:33+00:00",
-            "snippet": "The article questions whether Tehran is preparing to reform the IRGC."
           }
         ],
         "error": null
@@ -442,6 +442,12 @@
         "url": "https://al-akhbar.com",
         "headlines": [
           {
+            "title": "بوركينا فاسو بعد مالي والنيجر: نُخب أفريقيا الجديدة تلفظ النفوذ الفرنسي - Al Akhbar",
+            "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPTlR1SzZzUXJlRUVNX0FkYk1ycEZxWXpyS1RxTDRiNFBEY2daeHpIeGVLbTJLandqUG54bllPXzhvb3VxU2ZidW9YdlZ6bzFFTjJSU3h4OW80Ny1QXzBoOU0zTkVLa24tZldBMzAtNWtZYlRGMDVyMk5qV0xaaEJxUVdLTURDX25Vd3B1Q0V2RVM2N2JLTnk3VzhDSzlELWhRajhHdjA2eldYSEVPaEdBZ2RiTVFmbzFTNWhNWWE4R1hkQXB2RVBScUNyTm1aRkpsUGtDellIVm1xLXozMEpkVlB1WnFIWmR4VEliSEhTMjBPcGV0ZlZGbUNaUnk5dExUZDNudW9PMzlaNWdJeTJPRkFzZlkzSTZ1MTRaRElRXzEtajBFRGNXSUxXcERnY0xoZUxmc3ZIUzZKZGdpNFdUX1p2S0FkdXZDR1A4bC05T1pHbS1rcG1tU3FjWmdYSVVxSmM1Y3BHbGU2N0lrZHhJeEl0ay16UUswV2FWTjVpdEhYUWFrQUNQTGp0cUhHdWF6UVRFclloMnpudDBTRnBOcWpIR2UycDJEX0lyZGpBSmdCdTAxLVRHS3lqRlp5ZDVWaDAyTEllN3BkWGlWT3hUdEJhTUJ5bHpfcXpudl9hdnJCS3ZjOVAxNFRKWmNTNXpXQl9jNDg1T0l5ZGF1NGdpanFfblhJQQ?oc=5",
+            "published": "2026-06-30T21:30:00+00:00",
+            "snippet": "بوركينا فاسو بعد مالي والنيجر: نُخب أفريقيا الجديدة تلفظ النفوذ الفرنسي Al Akhbar"
+          },
+          {
             "title": "قاليباف: قواتنا المسلحة ضمان تنفيذ التفاهم وليس قرارات مجلس الأمن - Al Akhbar",
             "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPU3NIZTNzYUFDMjlvcU9DSTNIV0lReXNVVWZiOElpOUsyOWZRdms5QlFJT0NTSkd2a0xCemNkWmRBYnVuS29UdnZhRjRnMlp4ZExqVXU5OEVBdk1EaTRGYmtlY01mYUpmcVJOOVNTZmZjRVY4VHV6MzVkbWRtZVdIRjQ3QmhkSGlHUWNleFkwYkU2RnRvcnB1QUROeWQ0RVRoU1hLLWN5ejVqczdNV2JpN09tNkU0OUFKeVFTT3BNX2IyNVVJdFZ5aHZ0UnVlaTdRZGZUa3BpRlY1MzBtSkpGdU1WU3EzSUdDbkZtQU4zSFM2RHQ0OEo4Z3R1Y3pnenoxQjFPU3VNMWlRUVc2QktBZzBWRUpsWmpFSUliQUp4NzEzZnVYZ3lVUm9fYXpuNEtzSkZ1TDdDQ2NOZ1hGZlIwaVJhSGdZRHpndnFYSS1TWW5qeURIdnRDTDJwWWFodHp0ODhkZWtQXzlIdk80RTA2WkUtclBfdjgwWmh3dlAyY0pFLVpsWWl3ZmFYY0lyd2kyNzJqRlhvbVZ0STRiRWhrTkxDRVZYdXdXTUNZQVRtcW1Zb095amZBaEdEZ3Q4WjlQNHdVQXlrM0psaHdlbHhfa1ZSY1FtZF9fcExhR0FPVllrMnVwRWUyU29pUW5QZ1F0NzRXMUhn?oc=5",
             "published": "2026-06-30T20:03:26+00:00",
@@ -464,12 +470,6 @@
             "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQMXk5OWtrU24zYkdYcmFVWUpHQXBqT3hvTk1EVktYOXRyZ09Gell2NGdrMHB0b1pmaWJIMHYtLTlMWHZZTk9zbUZ6VlRLbzJrNW1NNW9fVkpSR0pPbVU5YlJXcVR6R0poX1ZQWjZlT2JNUXdNdmU2Uk1qaWFjYm5jdUVCRm4yNFc5RmVkWFgxaG5La2VpenY5d3RzYmxETDZid18wTURNcW9ESFBfVzFiYUo3RzBZMnFsYnFBVzNFaUNGOU0zcDlROXJEalU4bUxQajkyb3ZZQ0VuWHVHWnRzdkdMOFJhWkFtbFk5ZDc1YURBTlhaNUVxMWs4VVhpdGgzcFJaYXllS0t5eENPOEFTOWoyZnZtUlp1SldvdndpUGU2bEQ3NmVpVkRxOGp0dzFmb3lrS3QzRTBzMENNYXNQTGlwVnc1NkZ2YzdKOWFKRThCclJ1Ry1CNzRMMkVzSHBjRWo2YzBWTm94cHljVUp3WFpDQ2E1WWpTQWo2b2tWZkJmLXNpeDBFT0VnOW9tNzRLUlhxRGVBeUpTYVZadUp3eWRJR0h0ZFhkaVZ3WTJVdE5nb25BaVViMUkxSGtXLVhkZy1VTGJyc2ZYajVZOUsyZWVSa3hfSlVmNERuUEhQUlVUR2FyVUN5SWF4NGFCMm1hdkEyVEJXOC14UUE?oc=5",
             "published": "2026-06-30T17:04:57+00:00",
             "snippet": "The Supreme Court rejected Trump's request to restrict the granting of citizenship to individuals born in the United States."
-          },
-          {
-            "title": "عقاب جماعي لطلاب السويداء: 13 ألف طالب بلا مستقبل - Al Akhbar",
-            "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQTnZ1c1pYVGdQUjZjZTBpWkkxYml4TXk4blFoc04td1IycWg1OUl5UVY2TFRWaVJXLTBjZnA0V2o2aHhoZXY4RzBiWVF5RzViWWJWbEhzSlNrazloc3g0SndwMmFGM0tTNEFVOUhwVVR5dmx4TUFZSVh2V3ltUmFLVFF1ZXhHaTNYakxqOWtrclZqRHhLQ0ZyaVRKMVJXZnFld2lHWnJZaVNWcVF1LWZqaEVSVWxkZkN6YjhaeEM3eUJQQ3VMX2wzYXBMNy1ydDVoRkdaT0FrZk9XQVMwZHhsTU1kWkFTSUlDRW5OWHVQRTlabXpfSThQbkdBcTFLOXo3Yy1xcWc2d2g5QjdqT1BlOWxvWDB4U09lbXNiRUJtTzNWbDRsZmFmeXkxcnJVcVVUYjhLYmQ2TmtfU2M1TmlWWVByVVM4eXh5clNzeTJOLTFSc2NNV0ROYjZDR3RvdEFXN3lnYzNNMWlRRm5lX0hYck9tem03Ujh6LXFpRnlVaTM4Rmc3UlQwWkJBdGhJRVZBY0drTjd3?oc=5",
-            "published": "2026-06-30T14:30:02+00:00",
-            "snippet": "Thirteen thousand students in Sweida face a collective punishment, leaving them without a future."
           }
         ],
         "error": null
@@ -618,16 +618,16 @@
             "snippet": "A three-year-old child was rescued six days after the earthquakes in Venezuela."
           },
           {
-            "title": "Saudi ambassador receives industry minister in Beirut",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SeVo3RWU0NkJQRERQTFBSRDhiSXZVUkdVb3hYejVBVGtOdG5qSGhOc3RwWjIxWVBiMlBsMlpTX3FYLXNjcE9uVEZaeGxTbWp4THBv?oc=5",
-            "published": "2026-06-30T18:35:53+00:00",
-            "snippet": "Saudi ambassador receives industry minister in Beirut Arab News"
-          },
-          {
             "title": "Pakistan interior minister arrives in Riyadh",
             "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oNUdZbDMxYUZ1WURTOVFCZkhmWVBJbjlaU2U5YzlOZVlaOVh0YUlCRldCSG9FLTRUaDE1TGFZWll5SXd4THhZREl2ZDgtb1ljMzVV?oc=5",
             "published": "2026-06-30T18:04:06+00:00",
             "snippet": "Pakistan's interior minister has arrived in Riyadh."
+          },
+          {
+            "title": "In south Lebanon, Netanyahu says Israel will stay as long as Hezbollah ‘threatens us’",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XUXh3VnBLV28zalUtMWFOZTZzZmRlTHVHdHhKcjRiWExkNEpyZ29tM0Y3elZ6dnJ6eTFKN3N6aW1heVU4WWhjTElKZjJrMHRlNFB3?oc=5",
+            "published": "2026-06-30T17:05:59+00:00",
+            "snippet": "In south Lebanon, Netanyahu says Israel will stay as long as Hezbollah ‘threatens us’ Arab News"
           }
         ],
         "error": null
@@ -638,12 +638,6 @@
         "lang": "en",
         "url": "https://gulfnews.com",
         "headlines": [
-          {
-            "title": "Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema",
-            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0dGpyamIyRWE4c3pSSnpHaWdhSGVsQjFkeWxfMmtBTDlaY1Y0YnVGaGpyV1NzZGVsWmxCM3NzYnZIMHg2eDlj?oc=5",
-            "published": "2026-06-30T20:28:39+00:00",
-            "snippet": "This section provides the latest UAE news, including Dubai news, business, travel, gold rates, prayer times, and cinema information."
-          },
           {
             "title": "Trump criticises Supreme Court birthright citizenship ruling, urges Congress to act",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN192SnZpRE1LNEktNzQ5MktBX2hTVm9WaGNoOVRMbEt6amNvOGxUZlllRHV4bS10V3FrZ1NhUnFwTnhNN2xCSk9nWHJKRjZPaEhaZlA1NS1acjd2NnVKNlRHS0xBWmRwMlV1bVc1VlhWVWVQcE9PTkY1OUhtMG05WUZUNGlVTjllVDJEVk4xdllXdU5od3RJazYzTW5EZUNnZlcwdF9BRC1pSUx0Qng3MnJwTTdYeVFqeDVwQU9zZWdYVW9lMEZPTXVB0gHcAUFVX3lxTE44WU1LLVBQOTNDa3QwckZfcko4NktTR3JYc1NJc3B5SzVEYnVJUzJScDF1V2tmd29EOUNsX1AyRFlfc29TS0k0NUc4OWNUbGRYMW9aYVFMbkhQYzYyZ1h4YUlyc1M2VElqNlo1bjR2bzl6YTRzbVFIYkNMVl9YUVloVWJzcV9QTXZSaXNtajJ6b2FyQW1rSGZod3B2RmRiUkM4YmxGOW1ncGp2T3NtX1NtNHhxa2dLWFh2bmdZNXdjREI0eTRHVUZrX0xNNWt6ZmExekhLa0padXRkRjc?oc=5",
@@ -667,6 +661,12 @@
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ZkSEN3VllnYjlfSUkyZ3U1VjJVdzhBdTZmazNEQ0kyTHVYbGppZkQ5VVI3X3lZdHRfLWFuN2Fnb3E2dktVVmh1TEdlQk91RlRheUtRVDBOMmc1SkNYczlFY3RBN3p4VHQ5SFB6aWlQNXNHclNVX0VHY25wUGwtMV9sWDA1dDRSUWc?oc=5",
             "published": "2026-06-30T09:24:05+00:00",
             "snippet": "Warehouse for Rent | Car Care Business for Sale Gulf News"
+          },
+          {
+            "title": "Royal Jordanian crew bus involved in New York road accident",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzZTUm52SHdtVmlraUJUSWVlS3pBdUo4amNaVVF5RUVNT3pYdUx2Q0FsX3NOS3RaQWVYZ2tzR2kydjN3RnF4NW1YbGFjSEVmOWptZ2MxWmdDcWx2Z3B3Z0cweUJIZ3NETVFQZmg1YzhRc1VQVzdhdUZNSzZuTDdxUDdWVi1IMldFWEU0Z2d0YUdZSnctVDlwbmVVV2ZqUDFKWDFuaF9HQ3RSX0pLXzJn0gHCAUFVX3lxTE1jejVwWGU5cXo0WFhLMm1JcFhDZ0d2UHU4Mlh5Rm5SajZGMjZZR3FUMnBHNThLYnhGN3FlZklkajhPSlFDbFNqSHR0MzByNHFkRDdwOHhWN1FfZGlUOTZfZ3dWemJIUDZLRy1HMzFXbG5RSjhMVFp1ZmxQOUN6Vm81TlpTblBFNXZvLUstOW1pdk10QzBpeFctM253YlZZY1BCaGlIZzBWQm9yaG9BTGx1RDFhMzBzX3VVdjI1VkRlSElB?oc=5",
+            "published": "2026-06-30T09:00:20+00:00",
+            "snippet": "Royal Jordanian crew bus involved in New York road accident Gulf News"
           }
         ],
         "error": null
@@ -782,10 +782,10 @@
             "snippet": "Türkiye is considering purchasing SAMP/T and Patriot missile systems, according to the defense minister."
           },
           {
-            "title": "Monaco parcel bomb blast wounds Ukrainian oligarch",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEVWZTBxRmd3UXYwclk4bHotZmFiVXNFWW5BQlBjV0F5VXZoTEdOMTVhQXpwTjV2ek8zQnhxWHAtNlAtQVBma2lfZ09mX0pwYWVCU04xR1JYVm9tUTFvTnZCc29FSE0xYXd0QTVLb3hndElJaE0zQzhWQThOeWdVUkZqR0Z2Zm9tRjgtQzJyZ3F6enlzZW5SS3QyUQ?oc=5",
-            "published": "2026-06-30T07:52:45+00:00",
-            "snippet": "Monaco parcel bomb blast wounds Ukrainian oligarch Hürriyet Daily News"
+            "title": "Armenia opposes ‘weaponization’ of 1915 events after Israeli move",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2VHNVU4NUttbV8tc2pIelZtVC1rZ0pSakIxdGU2Z3lRNzVvZlM5dy0yQzVPRGNzZWhLYUtSU29WWXY1THZ2ZlVobkl4N04yMXpIX0llMmd1VjZIY25aT2U3bUVyV2szRkJIRjU5LURuOWJHZ1lCZ3dCeURzVll2WjVCNFpzTG1NSVozRE9GNjdLOTJfdWNzSmFJbTRodUlSS3ZFaUxJNA?oc=5",
+            "published": "2026-06-30T07:44:03+00:00",
+            "snippet": "Armenia opposes ‘weaponization’ of 1915 events after Israeli move Hürriyet Daily News"
           }
         ],
         "error": null
@@ -809,6 +809,12 @@
             "snippet": "This entry is a live blog about the US-Israeli war on Iran."
           },
           {
+            "title": "War on Iran",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aT1NUbUZxdVZaanV5MzN5Z1NEMVp5ODlhZF9zdHFaRXg3MkdZQWZYcVY0WjU2TUZIOTE5RHlQengwaFhVYlF6ZGF5Vkw?oc=5",
+            "published": "2026-06-30T20:44:34+00:00",
+            "snippet": ""
+          },
+          {
             "title": "EU officials stress need for stronger ties with Türkiye after Ankara talks",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTRXpHbjBkb1JxLV9wWEQ5NzlpWWl2V0taaE9STFhBQUN3aVZiOHlXRHZscVhIdDNTcEIzQk1EYmZ6WDVhQmx1R05CQ3YwMi16VmMzZWI4dVo?oc=5",
             "published": "2026-06-30T19:34:55+00:00",
@@ -819,12 +825,6 @@
             "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUm95QkltVGhLOGVwM1NaN3djTEJNV2UwOWNGZjAtUy1NSlg3b0JyT3NaLTRpaElaZlB2a0xhcmpucFkyX1l2WXRyZlppOVUxckFWeDJ0aU55bFFHemR0eUVSRHh4X2pQWXBNcVNiZUdlNFpObENNT0Y2a1lLUFpTenhXY1Z1MFRsZElNV2F2YU14QWFnUVBlenA0QnoyWlgxRXU4bDVuSjFiazVXYU9zMU1TZy1GMmtRdk5TMWxzaUtzWmZwaDIwcDVacnM1SDNGUVB3WVJ6V0R4NWJRcHVYU3lzQS1uQQ?oc=5",
             "published": "2026-06-30T19:31:00+00:00",
             "snippet": "France's Green party is challenging the government with a no-confidence vote over its response to the heatwave."
-          },
-          {
-            "title": "President Erdogan blasts Israel over slander campaign against Türkiye",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XVXFqcFd4WkxzMUxWYlVkY0p5MGQ3Tk5INVdEbWhXbkh6M0dTa09KWVpreFhUYkNzV2RQb3lndUhFbXFZSTRlejV4UDlLTURSVW10RW93OWE?oc=5",
-            "published": "2026-06-30T16:56:18+00:00",
-            "snippet": "President Erdogan strongly criticized Israel's alleged slander campaign against Türkiye."
           }
         ],
         "error": null
