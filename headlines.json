@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T23:20:31.173433+00:00",
+  "updated": "2026-07-01T23:49:41.822499+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Couple arrested after daring Empire State marriage proposal stunt",
+            "url": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss",
+            "published": "2026-07-01T23:03:58+00:00",
+            "snippet": "Russian daredevils Vanya Beerkus and Angela Nikolau are seen as ambassadors for 'rooftopping', a climbing sport."
+          },
           {
             "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
             "url": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
             "published": "2026-07-01T21:04:19+00:00",
             "snippet": "Critics state that a recent US Supreme Court ruling increases the influence of wealthy donors and amplifies special interest power in politics."
-          },
-          {
-            "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-            "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-            "published": "2026-07-01T20:55:04+00:00",
-            "snippet": "Iran's Deputy Foreign Minister stated that part of $6bn in frozen assets will be used to purchase goods needed by Tehran."
           }
         ],
         "error": null
@@ -47,6 +47,12 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Airlines restore some Middle East flights as suspensions continue",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/airlines-restore-some-middle-east-flights-suspensions-continue",
+            "published": "2026-07-01T23:26:18+00:00",
+            "snippet": "Airlines restore some Middle East flights as suspensions continue Some airlines are restoring flights to parts of the Middle East as diplomatic efforts to end the war on Iran gather pace, though many carriers have kept suspensions in place."
+          },
           {
             "title": "Hormuz shipping may take months to return to normal, French shipping company says",
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-shipping-may-take-months-return-normal-french-shipping-company",
@@ -70,12 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-leads-regional-security-dialogue-middle-east-military-officials",
             "published": "2026-07-01T21:29:07+00:00",
             "snippet": "US Central Command, alongside Bahrain's defence forces, led a security dialogue with military officials from across the Middle East. Representatives discussed enhancing regional defense collaboration, with Admiral Brad Cooper emphasizing a shared commitment to regional security and stability."
-          },
-          {
-            "title": "RSF committed crimes against humanity in Sudan's el-Fasher, Amnesty says",
-            "url": "https://www.middleeasteye.net/news/rsf-committed-crimes-against-humanity-and-ethnic-cleansing-sudans-el-fasher-amnesty-concludes",
-            "published": "2026-07-01T21:24:03+00:00",
-            "snippet": "Amnesty International has concluded that the paramilitary Rapid Support Forces (RSF) have committed crimes against humanity and ethnic cleansing in el-Fasher, North Darfur. The report indicates that children were deliberately recruited, raped, and killed."
           }
         ],
         "error": null
@@ -86,6 +86,18 @@
         "lang": "en",
         "url": "https://english.alarabiya.net",
         "headlines": [
+          {
+            "title": "Trump Sends Troops Into Battle Fully Equipped: Vance",
+            "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/02/-trump-sends-troops-into-battle-fully-equipped-vance",
+            "published": "2026-07-01T22:29:14+00:00",
+            "snippet": "Trump Sends Troops Into Battle Fully Equipped: Vance Al Arabiya English"
+          },
+          {
+            "title": "Trump says Spain ‘Not a Good NATO Member’",
+            "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/02/trump-says-spain-not-a-good-nato-member-",
+            "published": "2026-07-01T21:38:25+00:00",
+            "snippet": "Trump says Spain ‘Not a Good NATO Member’ Al Arabiya English"
+          },
           {
             "title": "Iran says to use frozen funds in Qatar to buy ‘required goods’",
             "url": "https://english.alarabiya.net/News/middle-east/2026/07/01/iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods-",
@@ -103,18 +115,6 @@
             "url": "https://english.alarabiya.net/amp/News/middle-east/2026/07/01/lebanon-syria-join-centcomled-middle-east-security-dialogue-for-first-time",
             "published": "2026-07-01T16:15:00+00:00",
             "snippet": "Lebanon and Syria participated in a CENTCOM-led Middle East security dialogue for the first time."
-          },
-          {
-            "title": "Giant Container Ship ‘Notre-Dame’ Arrives in France",
-            "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/giant-container-ship-notredame-arrives-in-france",
-            "published": "2026-07-01T15:23:47+00:00",
-            "snippet": "The giant container ship ‘Notre-Dame’ has arrived in France."
-          },
-          {
-            "title": "Israeli Troops to Stay in Lebanon, Syria, Gaza: Katz",
-            "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/israeli-troops-to-stay-in-lebanon-syria-gaza-katz",
-            "published": "2026-07-01T15:12:05+00:00",
-            "snippet": "Israeli troops are slated to remain in Lebanon, Syria, and Gaza."
           }
         ],
         "error": null
@@ -165,34 +165,34 @@
         "url": "https://www.almayadeen.net",
         "headlines": [
           {
+            "title": "مصادر للميادين: مكتب الأمم المتحدة في مقديشو تسلم منظومات اتصالات إسرائيلية متطورة",
+            "url": "https://www.almayadeen.net/episodes-tv/2026/7/2/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D9%84%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86--%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D9%82%D8%AF%D9%8A%D8%B4%D9%88-%D8%AA%D8%B3%D9%84%D9%85-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D8%AA/%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9",
+            "published": "2026-07-01T23:32:00+00:00",
+            "snippet": "مصادر للميادين: مكتب الأمم المتحدة في مقديشو تسلم منظومات اتصالات إسرائيلية متطورة almayadeen.net"
+          },
+          {
             "title": "بين تشييع السيد خامنئي والمفاوضات... كيف تُرسم معادلات ما بعد الحرب؟",
             "url": "https://www.almayadeen.net/episodes-tv/2026/7/1/%D8%A8%D9%8A%D9%86-%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%AE%D8%A7%D9%85%D9%86%D8%A6%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA----%D9%83%D9%8A%D9%81-%D8%AA%D8%B1%D8%B3%D9%85-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D8%B5%D8%A9",
             "published": "2026-07-01T22:52:24+00:00",
             "snippet": "The article discusses the post-war equations being drawn amidst the funeral of Ayatollah Khamenei and ongoing negotiations."
           },
           {
+            "title": "وزير الخارجية السعودي الأمير فيصل بن فرحان في زيارة لبكين... ما التفاصيل؟",
+            "url": "https://www.almayadeen.net/tv-reports/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1-%D9%81%D9%8A%D8%B5%D9%84-%D8%A8%D9%86-%D9%81%D8%B1%D8%AD%D8%A7%D9%86-%D9%81%D9%8A-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D9%84%D8%A8%D9%83%D9%8A%D9%86",
+            "published": "2026-07-01T21:14:47+00:00",
+            "snippet": "وزير الخارجية السعودي الأمير فيصل بن فرحان في زيارة لبكين... ما التفاصيل؟ almayadeen.net"
+          },
+          {
+            "title": "كاميرا الميادين ترافق الجمهور المكسيكي أثناء احتفاله بتأهل المنتخب للدور القادم",
+            "url": "https://www.almayadeen.net/tv-reports/%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86-%D8%AA%D8%B1%D8%A7%D9%81%D9%82-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83%D9%8A-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D9%87-%D8%A8%D8%AA%D8%A3%D9%87%D9%84-%D8%A7",
+            "published": "2026-07-01T21:09:20+00:00",
+            "snippet": "كاميرا الميادين ترافق الجمهور المكسيكي أثناء احتفاله بتأهل المنتخب للدور القادم almayadeen.net"
+          },
+          {
             "title": "\"الخيط القرمزي\" جدار فصل جديد ينشأه الاحتلال الإسرائيلي شرقي الضفة",
             "url": "https://www.almayadeen.net/tv-reports/-%D8%A7%D9%84%D8%AE%D9%8A%D8%B7-%D8%A7%D9%84%D9%82%D8%B1%D9%85%D8%B2%D9%8A--%D8%AC%D8%AF%D8%A7%D8%B1-%D9%81%D8%B5%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D9%86%D8%B4%D8%A3%D9%87-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B4%D8%B1%D9%82%D9%8A",
             "published": "2026-07-01T20:37:29+00:00",
             "snippet": "A new separation wall is being established by Israel east of the West Bank, referred to as 'The Scarlet Thread'."
-          },
-          {
-            "title": "إيران في مرحلة مفصلية... وداع تاريخي ومفاوضات تحت الضغط",
-            "url": "https://www.almayadeen.net/episodes-tv/2026/7/1/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%81%D9%8A-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D9%85%D9%81%D8%B5%D9%84%D9%8A%D8%A9----%D9%88%D8%AF%D8%A7%D8%B9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%88%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7/%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9",
-            "published": "2026-07-01T19:00:00+00:00",
-            "snippet": "Iran is described as being in a pivotal phase, facing a historic farewell and negotiations under pressure."
-          },
-          {
-            "title": "مونديال الحسم... فرنسا والنرويج تتألقان وترقب للمواجهات القادمة",
-            "url": "https://www.almayadeen.net/episodes-tv/2026/7/1/%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%B3%D9%85----%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%88%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%A3%D9%84%D9%82%D8%A7%D9%86-%D9%88%D8%AA%D8%B1%D9%82%D8%A8-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7/%D9%85%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026",
-            "published": "2026-07-01T17:59:35+00:00",
-            "snippet": "The article highlights the performances of France and Norway in a decisive world championship and anticipates upcoming matches."
-          },
-          {
-            "title": "عراقتشي: أي تهديد يستهدف الشعب الإيراني أو قيادته سيقابَل بردٍّ فوري وحازم",
-            "url": "https://www.almayadeen.net/episodes-tv/2026/7/1/%D8%B9%D8%B1%D8%A7%D9%82%D8%AA%D8%B4%D9%8A--%D8%A3%D9%8A-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A3%D9%88-%D9%82%D9%8A%D8%A7%D8%AF%D8%AA%D9%87-%D8%B3%D9%8A%D9%82%D8%A7%D8%A8%D9%84-%D8%A8%D8%B1%D8%AF/%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9",
-            "published": "2026-07-01T15:57:34+00:00",
-            "snippet": "Araghchi stated that any threat against the Iranian people or its leadership will be met with an immediate and decisive response."
           }
         ],
         "error": null
@@ -325,6 +325,12 @@
         "url": "https://www.jordantimes.com",
         "headlines": [
           {
+            "title": "100,000 killed in Myanmar post-coup conflict- monitor",
+            "url": "https://jordantimes.com/news/world/100000-killed-in-myanmar-post-coup-conflict-monitor",
+            "published": "2026-07-01T21:28:58+00:00",
+            "snippet": "100,000 killed in Myanmar post-coup conflict- monitor Jordan Times"
+          },
+          {
             "title": "Australia boosts shark-spotting drone coverage at Sydney beaches",
             "url": "https://jordantimes.com/news/features/australia-boosts-shark-spotting-drone-coverage-at-sydney-beaches",
             "published": "2026-07-01T18:58:13+00:00",
@@ -347,12 +353,6 @@
             "url": "https://jordantimes.com/news/region/syria-president-names-last-members-to-finalise-first-post-assad-parliament",
             "published": "2026-07-01T16:01:59+00:00",
             "snippet": "Syria's president has named the final members to complete the first post-Assad parliament."
-          },
-          {
-            "title": "US, Iran officials hold indirect talks in Doha",
-            "url": "https://jordantimes.com/news/region/us-iran-officials-hold-indirect-talks-in-doha",
-            "published": "2026-07-01T14:14:12+00:00",
-            "snippet": "US and Iranian officials are engaged in indirect talks in Doha."
           }
         ],
         "error": null
@@ -481,34 +481,34 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "العراق| مسيرة مفخخة تستهدف مخيم “ديكلة” في حدود محافظة أربيل",
-            "url": "https://www.almanar.com.lb/article/991717/",
-            "published": "2026-07-01T23:13:26+00:00",
-            "snippet": "A drone strike reportedly targeted a camp belonging to the Democratic Party of Iranian Kurdistan near Erbil."
+            "title": "الرئيس بري للديار: أنا مستعد للتسوية إذا كـان الطرف الآخر مـستعداً",
+            "url": "https://www.almanar.com.lb/article/991772/",
+            "published": "2026-07-01T23:49:00+00:00",
+            "snippet": "في لحظة سياسية تُعد من الأكثر حساسية وخطورة منذ عقود، ومع تصاعد الانقسام الداخلي حول اتفاق الإطار الذي وقع في واشنطن بين لبنان و«إسرائيل» وما أثاره من مخاوف من انتقال الخلاف من السياسة إلى الشارع، برز رئيس مجلس النواب نبيه بري لاعباً أساسياً في احتواء الأزمة ومنع انزلاقها إلى مواجهة داخلية تهدد الاس"
           },
           {
-            "title": "رويترز عن شهود عيان: دوي انفجارات متعددة في العاصمة الأوكرانية كييف",
-            "url": "https://www.almanar.com.lb/article/991707/",
-            "published": "2026-07-01T23:01:47+00:00",
-            "snippet": "Witnesses reported multiple explosions in the Ukrainian capital, Kyiv."
+            "title": "الرئيس بري للديار: “إسرائيل” تريد دفع الجيش إلى مواجهة مع المقاومة وهذا لن يحصل",
+            "url": "https://www.almanar.com.lb/article/991762/",
+            "published": "2026-07-01T23:43:09+00:00",
+            "snippet": ""
           },
           {
-            "title": "قصف مدفعي إسرائيلي يستهدف مناطق شمال شرق مخيم البريج وسط قطاع غزة",
-            "url": "https://www.almanar.com.lb/article/991682/",
-            "published": "2026-07-01T22:34:54+00:00",
-            "snippet": "Israeli artillery fire has targeted areas north of the Bureij camp in the central Gaza Strip."
+            "title": "الرئيس بري للديار: المخارج موجودة إذا توافرت الإرادة",
+            "url": "https://www.almanar.com.lb/article/991752/",
+            "published": "2026-07-01T23:40:11+00:00",
+            "snippet": ""
           },
           {
-            "title": "مدفعية الاحتلال تستهدف الأراضي الزراعية بين قريتي بريقة وكودنة بريف القنيطرة الأوسط في سوريا",
-            "url": "https://www.almanar.com.lb/article/991672/",
-            "published": "2026-07-01T22:11:13+00:00",
-            "snippet": "Occupation artillery is targeting agricultural lands between the villages of Briqa and Quneitra in the Syrian Golan."
+            "title": "الرئيس بري للديار: أنا مستعد للتسوية إذا كـان الطرف الآخر مستعداً",
+            "url": "https://www.almanar.com.lb/article/991742/",
+            "published": "2026-07-01T23:38:55+00:00",
+            "snippet": ""
           },
           {
-            "title": "العراق: مسيرات انتحارية تضرب عدد من المواقع والمقرات التابعة للمجموعات الكردية بمحافظة أربيل والسليمانية",
-            "url": "https://www.almanar.com.lb/article/991662/",
-            "published": "2026-07-01T22:10:26+00:00",
-            "snippet": "Suicide drones targeted several sites and headquarters belonging to Kurdish groups in the governorates of Erbil and Sulaymaniyah in Iraq."
+            "title": "رويترز عن مسؤول أوكراني: حريق في مبنى سكني شاهق في كييف عقب هجوم روسي",
+            "url": "https://www.almanar.com.lb/article/991732/",
+            "published": "2026-07-01T23:20:32+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -600,12 +600,6 @@
         "url": "https://www.arabnews.com",
         "headlines": [
           {
-            "title": "Seven killed as tourist boat capsizes at Saifullah Lake in northwestern Pakistan",
-            "url": "https://www.arabnews.com/node/2649313/amp",
-            "published": "2026-07-01T18:16:18+00:00",
-            "snippet": "Seven people died when a tourist boat capsized at Saifullah Lake in northwestern Pakistan."
-          },
-          {
             "title": "US signs agreement to build permanent embassy in Jerusalem",
             "url": "https://www.arabnews.com/node/2649275/middle-east",
             "published": "2026-07-01T13:39:09+00:00",
@@ -628,6 +622,12 @@
             "url": "https://www.arabnews.com/node/2649199/sport",
             "published": "2026-06-30T22:40:34+00:00",
             "snippet": "Newly crowned WWE champion Sami Zayn stated that Riyadh is the closest thing to home."
+          },
+          {
+            "title": "9 children killed as tricycle plunges into a canal in Egypt",
+            "url": "https://www.arabnews.com/node/2649193/amp",
+            "published": "2026-06-30T21:34:37+00:00",
+            "snippet": "9 children killed as tricycle plunges into a canal in Egypt Arab News"
           }
         ],
         "error": null
@@ -749,9 +749,7 @@
             "snippet": "The article discusses why Türkiye must take action against obesity."
           }
         ],
-        "error": null,
-        "stale": true,
-        "stale_since": "2026-07-01T22:50:54.427994+00:00"
+        "error": null
       },
       {
         "source": "Hürriyet Daily News",
@@ -832,6 +830,5 @@
         "error": null
       }
     ]
-  },
-  "titles_hash": "4dadbd52b51c0816"
+  }
 }
