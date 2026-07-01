@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T12:24:12.297505+00:00",
+  "updated": "2026-07-01T12:53:20.291747+00:00",
   "regions": {
     "Pan-Arab": [
       {
@@ -8,6 +8,12 @@
         "lang": "en",
         "url": "https://www.aljazeera.com",
         "headlines": [
+          {
+            "title": "Who is Vadym Yermolaiev, the Ukrainian tycoon injured in Monaco blast?",
+            "url": "https://www.aljazeera.com/news/2026/7/1/who-is-vadym-yermolaiev-the-ukrainian-tycoon-injured-in-monaco-blast?traffic_source=rss",
+            "published": "2026-07-01T12:15:39+00:00",
+            "snippet": "Police in Monaco and France are hunting for a suspect seen leaving an explosive device at a residential building."
+          },
           {
             "title": "Several killed in fire at apartment block in Belgium’s Antwerp",
             "url": "https://www.aljazeera.com/news/2026/7/1/several-killed-in-fire-at-apartment-block-in-belgiums-antwerp?traffic_source=rss",
@@ -31,12 +37,6 @@
             "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/trump-made-1-4b-from-crypto-ventures-in-first-year-back-in-office?traffic_source=rss",
             "published": "2026-07-01T11:18:54+00:00",
             "snippet": "Donald Trump's financial disclosure for 2025 shows he earned over $1.4 billion from cryptocurrency ventures during his first year back in office."
-          },
-          {
-            "title": "Orange lava flows stream from Mount Etna",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/orange-lava-flows-stream-from-mount-etna?traffic_source=rss",
-            "published": "2026-07-01T10:53:31+00:00",
-            "snippet": "Orange lava is flowing from Mount Etna."
           }
         ],
         "error": null
@@ -47,6 +47,18 @@
         "lang": "en",
         "url": "https://www.middleeasteye.net",
         "headlines": [
+          {
+            "title": "Iran president says some financial restrictions eased, Trump hails 'excellent meeting' with Tehran",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-some-financial-restrictions-eased-trump-hails",
+            "published": "2026-07-01T12:45:17+00:00",
+            "snippet": "Iran president says some financial restrictions eased, Trump hails 'excellent meeting' with Tehran President Masoud Pezeshkian has announced the easing of some financial and foreign-exchange restrictions included in Iran's ongoing talks with the US, Iran's Fars news agency is reporting."
+          },
+          {
+            "title": "How Israeli president's advisor worked to set up Reform Friends of Israel group",
+            "url": "https://www.middleeasteye.net/news/how-israeli-presidents-advisor-worked-set-reform-friends-israel-group",
+            "published": "2026-07-01T12:44:13+00:00",
+            "snippet": "How Israeli president's advisor worked to set up Reform Friends of Israel group Submitted by Imran Mulla on Wed, 07/01/2026 - 10:44 Middle East Eye looks at the pro-Israel group affiliated to Nigel Farage's party and the figures behind it Reform UK leader Nigel Farage speaks as deputy leader Richard"
+          },
           {
             "title": "Israel is carrying out 'reproductive genocide' against Palestinians",
             "url": "https://www.middleeasteye.net/news/israel-carrying-out-reproductive-genocide-against-palestinians",
@@ -64,18 +76,6 @@
             "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-warns-israel-against-threatening-irans-leader",
             "published": "2026-07-01T11:41:31+00:00",
             "snippet": "Iran's Foreign Minister Abbas Araghchi issued a strong warning to Israel after Israel's Defence Minister Israel Katz made remarks about Iran’s Supreme Leader. Araghchi stated that Iran would retaliate if Israel acted against its master's orders."
-          },
-          {
-            "title": "‘Board of Peace’ to launch ‘Hamas-free’ camps as Israel tightens grip on Gaza",
-            "url": "https://www.middleeasteye.net/news/trumps-board-peace-launch-hamas-free-shelters-while-israel-tightens-grip-gaza",
-            "published": "2026-07-01T11:12:46+00:00",
-            "snippet": "The 'Board of Peace' plans to establish 'Hamas-free humanitarian zones' in Gaza as Israel increases its control over the territory. The first site is reportedly planned for Tel Sultan, near Rafah, and will house civilians without weapons or Hamas affiliation."
-          },
-          {
-            "title": "Israel threatens third attack on Iran despite diplomacy",
-            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-threatens-third-attack-iran-despite-diplomacy",
-            "published": "2026-07-01T11:06:28+00:00",
-            "snippet": "Israeli Defence Minister Israel Katz indicated that Israel might launch a third attack on Iran if deemed necessary, despite ongoing diplomatic efforts. Katz also stated that Israeli forces would occupy Lebanon, Syria, and Gaza indefinitely."
           }
         ],
         "error": null
@@ -126,6 +126,24 @@
         "url": "https://www.newarab.com",
         "headlines": [
           {
+            "title": "Iraq's PM Al-Zaidi seeks backing for corruption crackdown",
+            "url": "https://www.newarab.com/news/iraqs-pm-al-zaidi-seeks-backing-corruption-crackdown",
+            "published": "2026-07-01T12:39:44+00:00",
+            "snippet": "According to information obtained by TNA, about 53 people have been arrested so far as part of the campaign."
+          },
+          {
+            "title": "US Presbyterian Church votes to recognise Gaza genocide",
+            "url": "https://www.newarab.com/news/us-presbyterian-church-votes-recognise-gaza-genocide",
+            "published": "2026-07-01T12:38:13+00:00",
+            "snippet": "The Church voted on Sunday to divest from Palantir Technologies and GE Aerospace and voted to recognise the genocidal war and boycott Israeli products."
+          },
+          {
+            "title": "Israeli soldiers are looting from Palestinians returning to Gaza",
+            "url": "https://www.newarab.com/news/israeli-soldiers-are-looting-palestinians-returning-gaza",
+            "published": "2026-07-01T12:24:44+00:00",
+            "snippet": "Under the new arrangements, travellers undergo an additional Israeli security inspection before being allowed to continue into the besieged enclave."
+          },
+          {
             "title": "How church land became Israel's new battleground in Jerusalem",
             "url": "https://www.newarab.com/analysis/how-church-land-became-israels-new-battleground-jerusalem",
             "published": "2026-07-01T10:57:08+00:00",
@@ -136,24 +154,6 @@
             "url": "https://www.newarab.com/opinion/how-lebanon-framework-reshapes-us-iran-standoff",
             "published": "2026-07-01T10:50:09+00:00",
             "snippet": "This piece examines how a framework involving the US, Israel, and Lebanon is reshaping the US-Iran standoff, potentially undermining the US-Iran agreement and shifting regional influence."
-          },
-          {
-            "title": "Trump weighed 'full-scale' return to war with Iran: report",
-            "url": "https://www.newarab.com/news/trump-weighed-full-scale-return-war-iran-report",
-            "published": "2026-07-01T10:08:32+00:00",
-            "snippet": "A report indicates that Donald Trump considered a 'full-scale' return to conflict with Iran but has so far pursued diplomacy, as indirect talks resume in Doha."
-          },
-          {
-            "title": "In occupied southern Lebanon, Netanyahu vows Israel won't leave",
-            "url": "https://www.newarab.com/news/occupied-southern-lebanon-netanyahu-vows-israel-wont-leave",
-            "published": "2026-07-01T09:36:33+00:00",
-            "snippet": "In occupied southern Lebanon, Netanyahu stated that Israel has no intention of leaving."
-          },
-          {
-            "title": "Socialist and pro-Palestine Melat Kiros wins Colorado primary",
-            "url": "https://www.newarab.com/news/socialist-and-pro-palestine-melat-kiros-wins-colorado-primary",
-            "published": "2026-07-01T08:44:01+00:00",
-            "snippet": "Melat Kiros, a socialist and pro-Palestine candidate, won a Colorado primary election. Kiros is a 29-year-old former attorney who was dismissed after a critical social media post."
           }
         ],
         "error": null
@@ -164,6 +164,12 @@
         "lang": "ar",
         "url": "https://www.almayadeen.net",
         "headlines": [
+          {
+            "title": "إيران: أمين المجلس الأعلى للأمن القومي الإيراني: قضية الثأر لشهداء إيران مفتوحة وسيُعاقب مرتكبو الجرائم في الوقت المناسب",
+            "url": "https://www.almayadeen.net/latestnews/2026/7/1/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86--%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A--%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D8%A3%D8%B1",
+            "published": "2026-07-01T08:39:16+00:00",
+            "snippet": "إيران: أمين المجلس الأعلى للأمن القومي الإيراني: قضية الثأر لشهداء إيران مفتوحة وسيُعاقب مرتكبو الجرائم في الوقت المناسب almayadeen.net"
+          },
           {
             "title": "\"معاريف\": \"اتفاق الإطار\" مع لبنان حبر على ورق.. وفرص تطبيقه ضئيلة",
             "url": "https://www.almayadeen.net/news/politics/-%D9%85%D8%B9%D8%A7%D8%B1%D9%8A%D9%81----%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1--%D9%85%D8%B9-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AD%D8%A8%D8%B1-%D8%B9%D9%84%D9%89-%D9%88%D8%B1%D9%82---%D9%88%D9%81%D8%B1%D8%B5-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%87",
@@ -187,12 +193,6 @@
             "url": "https://www.almayadeen.net/tv-reports/%D8%AD%D9%85%D9%84%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D8%B1%D9%81-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86",
             "published": "2026-07-01T01:02:01+00:00",
             "snippet": "Far-right Israeli groups are reportedly targeting Palestinian schools."
-          },
-          {
-            "title": "\"نبيل فهمي\"أمينا عاما لجامعة الدول العربية",
-            "url": "https://www.almayadeen.net/tv-reports/-%D9%86%D8%A8%D9%8A%D9%84-%D9%81%D9%87%D9%85%D9%8A-%D8%A3%D9%85%D9%8A%D9%86%D8%A7-%D8%B9%D8%A7%D9%85%D8%A7-%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
-            "published": "2026-07-01T00:58:46+00:00",
-            "snippet": "Nabil Fahmy has been appointed as the Secretary-General of the Arab League."
           }
         ],
         "error": null
@@ -205,6 +205,18 @@
         "lang": "en",
         "url": "https://en.irna.ir",
         "headlines": [
+          {
+            "title": "Iran’s top negotiator meets with Qatari PM as working groups for final deal established in Doha",
+            "url": "https://en.irna.ir/news/86198280/Iran-s-top-negotiator-meets-with-Qatari-PM-as-working-groups",
+            "published": "2026-07-01T12:43:42+00:00",
+            "snippet": "Tehran, IRNA – Iran’s senior nuclear negotiator and deputy foreign minister for legal and international affairs Kazem Gharibabadi says Wednesday that working groups have been formed to follow up on the implementation of the understanding and to negotiate a final agreement."
+          },
+          {
+            "title": "Ghalibaf praises national team: You fought with full strength and displayed Iran’s unity, return home with pride",
+            "url": "https://en.irna.ir/news/86198255/Ghalibaf-praises-national-team-You-fought-with-full-strength",
+            "published": "2026-07-01T12:31:45+00:00",
+            "snippet": "Tehran, IRNA – The speaker of Iran’s Parliament has praised the national football team in a message addressed to the players, commending them for their determination and unity during the 2026 FIFA World Cup."
+          },
           {
             "title": "Those responsible for Leader’s martyrdom will face justice: Security chief",
             "url": "https://en.irna.ir/news/86198114/Those-responsible-for-Leader-s-martyrdom-will-face-justice-Security",
@@ -222,18 +234,6 @@
             "url": "https://en.irna.ir/news/86198024/Iran-s-nuclear-chief-calls-for-faster-implementation-of-plasma-based",
             "published": "2026-07-01T10:30:29+00:00",
             "snippet": "The Head of Iran’s Atomic Energy Organization, Mohammad Eslami, urged faster implementation of a plasma-based wastewater treatment project, highlighting its environmental benefits."
-          },
-          {
-            "title": "Exclusive | Martyred Iranian Leader’s vision will endure across Muslim world: Lebanese scholar",
-            "url": "https://en.irna.ir/news/86197975/Exclusive-Martyred-Iranian-Leader-s-vision-will-endure-across",
-            "published": "2026-07-01T10:26:53+00:00",
-            "snippet": "A Lebanese scholar believes the vision of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, will continue to influence the Muslim world, supporting Islamic unity and resistance."
-          },
-          {
-            "title": "Iran’s envoy urges accountability over Western role in Sardasht chemical attack",
-            "url": "https://en.irna.ir/news/86197963/Iran-s-envoy-urges-accountability-over-Western-role-in-Sardasht",
-            "published": "2026-07-01T10:24:05+00:00",
-            "snippet": "Iran's ambassador to Germany called for accountability from Western companies involved in providing materials and technology for the 1987 chemical attack on Sardasht."
           }
         ],
         "error": null
@@ -244,6 +244,12 @@
         "lang": "en",
         "url": "https://en.mehrnews.com",
         "headlines": [
+          {
+            "title": "Talks btw Iran, US for a final agreement not yet started",
+            "url": "https://en.mehrnews.com/news/245793/Talks-btw-Iran-US-for-a-final-agreement-not-yet-started",
+            "published": "2026-07-01T12:25:00+00:00",
+            "snippet": "Talks btw Iran, US for a final agreement not yet started Mehr News Agency"
+          },
           {
             "title": "Any threat against Iranians to receive immediate response",
             "url": "https://en.mehrnews.com/news/245791/Any-threat-against-Iranians-to-receive-immediate-response",
@@ -267,12 +273,6 @@
             "url": "https://en.mehrnews.com/news/245778/US-military-deploys-over-900-personnel-to-Venezuela",
             "published": "2026-07-01T06:00:00+00:00",
             "snippet": "The US military has deployed over 900 personnel to Venezuela."
-          },
-          {
-            "title": "Leaked Israeli report shows Iran strikes' true cost",
-            "url": "https://en.mehrnews.com/news/245776/Leaked-Israeli-report-shows-Iran-strikes-true-cost",
-            "published": "2026-07-01T04:51:00+00:00",
-            "snippet": "A leaked Israeli report purportedly reveals the true cost of strikes on Iran."
           }
         ],
         "error": null
@@ -364,6 +364,12 @@
         "url": "https://today.lorientlejour.com",
         "headlines": [
           {
+            "title": "Indirect Iran-US technical talks underway in Doha, source says",
+            "url": "https://today.lorientlejour.com/article/1539883/indirect-iran-us-technical-talks-underway-in-doha-source-says.html",
+            "published": "2026-07-01T09:26:37+00:00",
+            "snippet": "Indirect Iran-US technical talks underway in Doha, source says L'Orient Today"
+          },
+          {
             "title": "Katz: Katz: Israel will remain in Lebanon, Syria, and Gaza ‘indefinitely'; Israel establishes 2 new military checkpoints near Naqoura, southern Lebanon",
             "url": "https://today.lorientlejour.com/article/1539869/israels-withdrawal-from-pilot-areas-in-southern-lebanon-has-been-delayed-until-a-new-monitoring-mechanism-is-put-in-place-according-to-an-israeli-medi.html",
             "published": "2026-07-01T09:01:19+00:00",
@@ -386,12 +392,6 @@
             "url": "https://today.lorientlejour.com/article/1539763/financial-gap-bdl-revises-government-plan-leaving-depositors-to-wait-longer.html",
             "published": "2026-06-30T09:23:02+00:00",
             "snippet": "A revised government plan by the BDL has widened the financial gap, extending the wait for depositors."
-          },
-          {
-            "title": "'Campaigns targeting the army and its leadership will not affect its action,' Aoun says",
-            "url": "https://today.lorientlejour.com/article/1539757/campaigns-targeting-the-army-and-its-leadership-will-not-affect-its-action-aoun-says.html",
-            "published": "2026-06-30T07:53:39+00:00",
-            "snippet": "Aoun stated that campaigns targeting the army and its leadership will not impede its operations."
           }
         ],
         "error": null
@@ -481,34 +481,34 @@
         "url": "https://www.almanar.com.lb",
         "headlines": [
           {
-            "title": "الرئيس عون: لا صحة لما يشاع عن الرغبة في اقالة قائد الجيش وقادة الأجهزة الأمنية وأنوّه بموقف الرئيس بري لدرء الفتنة",
-            "url": "https://www.almanar.com.lb/article/990757/",
-            "published": "2026-07-01T12:23:01+00:00",
-            "snippet": "اكد رئيس الجمهورية العماد جوزاف عون خلال استقباله وفودا من نقابتي محامي بيروت والشمال والهيئات الاقتصادية ان” صيغة الاطار التي انبثقت عن مفاوضات واشنطن تحقق منطق الدولة من خلال البنود التي تضمنتها وهي تحفظ حقوق لبنان قضائياً وميدانياً “."
+            "title": "عراقجي ردا على كاتس: بنود مذكرة التفاهم واضحة وإذا تجاهلتم اوامر ترامب سنلقنكم درسًا لن تنسوه",
+            "url": "https://www.almanar.com.lb/article/990742/",
+            "published": "2026-07-01T12:39:30+00:00",
+            "snippet": "كتب وزير الخارجية الايراني عباس عراقجي ردا على تهديدات وزير الخارجية الصهيوني: بنود مذكرة التفاهم مع إسلام آباد واضحةٌ جليّةٌ ومتاحةٌ للجميع.لقد تعهّد الرئيس الأمريكي بكبح جماح حلفاء إيران في تل أبيب."
           },
           {
-            "title": "غريب آبادي التقى برئيس الوزراء القطري وتم بحث تسريع تنفيذ بنود مذكرة التفاهم لا سيما فيما يتعلق بلبنان",
-            "url": "https://www.almanar.com.lb/article/990747/",
-            "published": "2026-07-01T12:20:11+00:00",
-            "snippet": "Kazem Gharib Abadi, Iran's deputy foreign minister for legal and international affairs, met with the Prime Minister of Qatar to discuss accelerating the implementation of a memorandum of understanding, particularly concerning Lebanon."
+            "title": "حزب الله يشيّع ثلة من المجاهدين في الضاحية الجنوبية والبقاع",
+            "url": "https://www.almanar.com.lb/article/990782/",
+            "published": "2026-07-01T12:35:29+00:00",
+            "snippet": ""
           },
           {
-            "title": "لقاءات في عين التينة: بحث في العدوان الإسرائيلي والمستجدات الداخلية",
-            "url": "https://www.almanar.com.lb/article/990732/",
-            "published": "2026-07-01T12:15:15+00:00",
-            "snippet": "استقبل رئيس مجلس النواب نبيه بري، في مقر الرئاسة الثانية في عين التينة، نائب رئيس مجلس النواب السابق إيلي الفرزلي، حيث جرى عرض لعدد من الملفات السياسية، وفي مقدّمها الاعتداءات الإسرائيلية على لبنان، إضافة إلى ما يُعرف بـ”اتفاق الإطار” بين الدولة اللبنانية وإسرائيل."
+            "title": "الحاج حسن: ربط الإعمار ونزع السلاح “اتفاق استسلام” ولا إجماع على هذا المسار",
+            "url": "https://www.almanar.com.lb/article/990807/",
+            "published": "2026-07-01T12:34:46+00:00",
+            "snippet": "أكد رئيس تكتل بعلبك الهرمل النيابي، النائب حسين الحاج حسن، أن “أي قوة تدخل إلى لبنان تُعد قوة احتلال مهما كانت هويتها”، معتبراً أن السلطة “فقدت شرعيتها وأهليتها”."
           },
           {
-            "title": "فرعية لجنة الدفاع المكلفة بدرس تحديث قانون البلديات طلبت آراء الكتل حول مواد المجالس البلدية و أجلت البحث في بلدية بيروت",
-            "url": "https://www.almanar.com.lb/article/990717/",
-            "published": "2026-07-01T12:10:14+00:00",
-            "snippet": "عقدت اللجنة النيابية الفرعية المنبثقة عن لجنة الدفاع الوطني والمكلفة بدرس تحديث قانون البلديات جلسة بعد ظهر اليوم في المجلس النيابي برئاسة النائب جهاد الصمد وحضور الاعضاء ."
+            "title": "حزب الله يشيّع الشهيد علي الرضا الهبش في موكب حاشد بمدينة بعلبك",
+            "url": "https://www.almanar.com.lb/article/990787/",
+            "published": "2026-07-01T12:32:35+00:00",
+            "snippet": ""
           },
           {
-            "title": "غزة | اتفاق وقف إطلاق النار على طاولة البحث في القاهرة… وإعلام العدو يتحدث عن فصل سكان القطاع عن «حماس»",
-            "url": "https://www.almanar.com.lb/article/990697/",
-            "published": "2026-07-01T11:55:08+00:00",
-            "snippet": "كشفت صحيفة «يسرائيل هيوم» العبرية عن خطة إسرائيلية تهدف إلى تقويض سيطرة حركة «حماس» على سكان قطاع غزة، من خلال إنشاء مراكز إيواء إنسانية في مناطق لا تخضع لسيطرة الحركة، بإدارة «مجلس السلام» وقوات متعددة الجنسيات، بالتوازي مع استمرار الجيش الإسرائيلي في توسيع سيطرته الميدانية داخل القطاع."
+            "title": "الاحتلال يواصل احتجاز أسرى من غزة رغم انتهاء محكومياتهم",
+            "url": "https://www.almanar.com.lb/article/990777/",
+            "published": "2026-07-01T12:29:07+00:00",
+            "snippet": ""
           }
         ],
         "error": null
@@ -520,10 +520,34 @@
         "url": "https://english.wafa.ps",
         "headlines": [
           {
-            "title": "UPDATE: Infant succumbs to wounds after Israeli forces open fire on family’s vehicle south of Hebron - WAFA Agency",
-            "url": "https://english.wafa.ps/Pages/Details/171226?gsid",
-            "published": "2026-06-30T04:37:01+00:00",
-            "snippet": "UPDATE: Infant succumbs to wounds after Israeli forces open fire on family’s vehicle south of Hebron WAFA Agency"
+            "title": "Occupation notifies demolition of three residential structures south of Hebron - WAFA Agency",
+            "url": "https://english.wafa.ps/Pages/Details/172249",
+            "published": "2026-07-01T12:47:12+00:00",
+            "snippet": "Occupation notifies demolition of three residential structures south of Hebron WAFA Agency"
+          },
+          {
+            "title": "Occupation issues and renews administrative detention orders against 93 Palestinian detainees - WAFA Agency",
+            "url": "https://english.wafa.ps/Pages/Details/172248",
+            "published": "2026-07-01T12:16:44+00:00",
+            "snippet": "Occupation issues and renews administrative detention orders against 93 Palestinian detainees WAFA Agency"
+          },
+          {
+            "title": "WHO warns Europe's heatwaves will become more severe, threaten more deaths - WAFA Agency",
+            "url": "https://english.wafa.ps/Pages/Details/172239",
+            "published": "2026-07-01T11:31:39+00:00",
+            "snippet": "WHO warns Europe's heatwaves will become more severe, threaten more deaths WAFA Agency"
+          },
+          {
+            "title": "Spain's record June heat wave blamed for over 1,000 heat-related deaths - WAFA Agency",
+            "url": "https://english.wafa.ps/Pages/Details/172245",
+            "published": "2026-07-01T11:31:39+00:00",
+            "snippet": "Spain's record June heat wave blamed for over 1,000 heat-related deaths WAFA Agency"
+          },
+          {
+            "title": "Palestinian Presidency warns of dangers of settlement plans aimed at seizing 100 sites across West Bank - WAFA Agency",
+            "url": "https://english.wafa.ps/Pages/Details/172240",
+            "published": "2026-07-01T11:31:39+00:00",
+            "snippet": "Palestinian Presidency warns of dangers of settlement plans aimed at seizing 100 sites across West Bank WAFA Agency"
           }
         ],
         "error": null
@@ -594,16 +618,16 @@
             "snippet": "Spain recorded over 1,000 heat-related deaths in June."
           },
           {
+            "title": "State TV cuts short Iran negotiator interview, drawing ire",
+            "url": "https://www.arabnews.com/node/2649225/amp",
+            "published": "2026-07-01T07:05:00+00:00",
+            "snippet": "State TV cuts short Iran negotiator interview, drawing ire Arab News"
+          },
+          {
             "title": "China’s Xi urges ruling Communist Party to be adaptable, safeguard advances",
             "url": "https://www.arabnews.com/node/2649213/amp",
             "published": "2026-07-01T04:36:26+00:00",
             "snippet": "China's Xi urged the ruling Communist Party to be adaptable and safeguard its achievements."
-          },
-          {
-            "title": "‘Riyadh is the closest thing to home,’ says newly crowned WWE champion Sami Zayn",
-            "url": "https://www.arabnews.com/node/2649199/sport",
-            "published": "2026-06-30T22:40:34+00:00",
-            "snippet": "Newly crowned WWE champion Sami Zayn described Riyadh as feeling like home."
           }
         ],
         "error": null
@@ -633,16 +657,16 @@
             "snippet": "July's biggest K-drama releases featuring actors like Nam Joo-hyuk and Lee Dong-wook are highlighted."
           },
           {
+            "title": "LEORON Institute appoints Lule Bunjaku Karapinar as CEO, GCC Markets and Executive Education",
+            "url": "https://gulfnews.com/amp/story/world%2Fgulf%2Fleoron-institute-appoints-lule-bunjaku-karapinar-as-ceo-gcc-markets-and-executive-education-1.500591975",
+            "published": "2026-07-01T03:23:00+00:00",
+            "snippet": "LEORON Institute appoints Lule Bunjaku Karapinar as CEO, GCC Markets and Executive Education Gulf News"
+          },
+          {
             "title": "When will summer end in the UAE? Here's the official date",
             "url": "https://gulfnews.com/uae/weather/when-will-summer-end-in-the-uae-heres-the-official-date-1.500592783",
             "published": "2026-07-01T02:27:32+00:00",
             "snippet": "The official date for the end of summer in the UAE is provided."
-          },
-          {
-            "title": "Private Intercontinental Chef / Cook",
-            "url": "https://classifieds.gulfnews.com/job/private-intercontinental-chef-cook/",
-            "published": "2026-06-30T17:38:39+00:00",
-            "snippet": "A 'Private Intercontinental Chef / Cook' position is advertised."
           }
         ],
         "error": null
@@ -656,34 +680,34 @@
         "url": "https://www.aa.com.tr/en",
         "headlines": [
           {
-            "title": "Japan protests Chinese demand to halt East China Sea survey as tensions deepen",
-            "url": "https://www.aa.com.tr/en/asia-pacific/japan-protests-chinese-demand-to-halt-east-china-sea-survey-as-tensions-deepen/3983322",
-            "published": "2026-07-01T12:20:36+00:00",
-            "snippet": "Dispute comes as China formally arrests 2 Japanese employees over alleged rare earth-related export violations"
+            "title": "Global sea surface temperatures hit record levels for June: EU climate service",
+            "url": "https://www.aa.com.tr/en/environment/global-sea-surface-temperatures-hit-record-levels-for-june-eu-climate-service/3983349",
+            "published": "2026-07-01T12:48:09+00:00",
+            "snippet": "Scientists warn further temperature records may be likely in coming months"
           },
           {
-            "title": "Israel's top court freezes appointment of Netanyahu’s lawyer as state comptroller",
-            "url": "https://www.aa.com.tr/en/middle-east/israels-top-court-freezes-appointment-of-netanyahu-s-lawyer-as-state-comptroller/3983318",
-            "published": "2026-07-01T12:19:18+00:00",
-            "snippet": "Supreme Court order follows concerns about election of Michael Rabello, Netanyahu’s personal lawyer, Israel’s public broadcaster reports"
+            "title": "INTERVIEW – New Zealand's Free Palestine Party aims to turn solidarity movement into political force",
+            "url": "https://www.aa.com.tr/en/asia-pacific/interview-new-zealands-free-palestine-party-aims-to-turn-solidarity-movement-into-political-force/3983341",
+            "published": "2026-07-01T12:41:20+00:00",
+            "snippet": "New party seeks to keep Palestine ‘front and center’ of political debate ahead of November election"
           },
           {
-            "title": "France sets presidential election dates for next April, May",
-            "url": "https://www.aa.com.tr/en/europe/france-sets-presidential-election-dates-for-next-april-may/3983316",
-            "published": "2026-07-01T12:17:15+00:00",
-            "snippet": "Government says timetable follows constitutional constraints after consultations with political parties"
+            "title": "Palestinian killed in Israeli drone strike in central Gaza City despite ongoing ceasefire",
+            "url": "https://www.aa.com.tr/en/middle-east/palestinian-killed-in-israeli-drone-strike-in-central-gaza-city-despite-ongoing-ceasefire/3983339",
+            "published": "2026-07-01T12:39:36+00:00",
+            "snippet": "Israeli violations of ceasefire agreement had killed 1,053, injured 3,406, Health Ministry says"
           },
           {
-            "title": "Saudi Aramco makes rare spot oil sales to Asian buyers as Gulf shipments rise: Report",
-            "url": "https://www.aa.com.tr/en/economy/saudi-aramco-makes-rare-spot-oil-sales-to-asian-buyers-as-gulf-shipments-rise-report/3983305",
-            "published": "2026-07-01T12:12:05+00:00",
-            "snippet": "Saudi oil giant sells at least 6M barrels of crude to customers in South Korea, Japan and China, Bloomberg reports"
+            "title": "NATO chief warns Russia will remain long-term threat to Euro-Atlantic security",
+            "url": "https://www.aa.com.tr/en/russia-ukraine-war/nato-chief-warns-russia-will-remain-long-term-threat-to-euro-atlantic-security/3983335",
+            "published": "2026-07-01T12:38:29+00:00",
+            "snippet": "Secretary-General says next week’s Ankara summit will give allies an opportunity to discuss strengthening support for Ukraine"
           },
           {
-            "title": "Thunderstorms force cancellation of 70 flights at Zurich Airport",
-            "url": "https://www.aa.com.tr/en/europe/thunderstorms-force-cancellation-of-70-flights-at-zurich-airport/3983301",
-            "published": "2026-07-01T12:10:12+00:00",
-            "snippet": "More than 30 flights bound for Zurich diverted to other airports"
+            "title": "Iran, Qatar, Pakistan hold talks in Doha on implementing Washington-Tehran memorandum",
+            "url": "https://www.aa.com.tr/en/americas/iran-qatar-pakistan-hold-talks-in-doha-on-implementing-washington-tehran-memorandum/3983330",
+            "published": "2026-07-01T12:32:04+00:00",
+            "snippet": "Iran says working groups for final agreement in place, negotiations await 'necessary conditions'"
           }
         ],
         "error": null
@@ -734,6 +758,24 @@
         "url": "https://www.hurriyetdailynews.com",
         "headlines": [
           {
+            "title": "Rutte: Ankara summit must deliver NATO goals",
+            "url": "https://www.hurriyetdailynews.com/rutte-ankara-summit-must-deliver-nato-goals-223896",
+            "published": "2026-07-01T09:38:21+00:00",
+            "snippet": "Rutte: Ankara summit must deliver NATO goals Hürriyet Daily News"
+          },
+          {
+            "title": "Israel ex-army chief launches campaign in bid to unseat Netanyahu",
+            "url": "https://www.hurriyetdailynews.com/israel-ex-army-chief-launches-campaign-in-bid-to-unseat-netanyahu-223893",
+            "published": "2026-07-01T08:37:50+00:00",
+            "snippet": "Israel ex-army chief launches campaign in bid to unseat Netanyahu Hürriyet Daily News"
+          },
+          {
+            "title": "Venezuela quake survivors cherish kindness of strangers",
+            "url": "https://www.hurriyetdailynews.com/venezuela-quake-survivors-cherish-kindness-of-strangers-223891",
+            "published": "2026-07-01T08:30:20+00:00",
+            "snippet": "Venezuela quake survivors cherish kindness of strangers Hürriyet Daily News"
+          },
+          {
             "title": "Turkish fighter jets scrambled after erroneous hijack signal",
             "url": "https://www.hurriyetdailynews.com/turkish-fighter-jets-scrambled-after-erroneous-hijack-signal-223888",
             "published": "2026-07-01T07:18:47+00:00",
@@ -744,24 +786,6 @@
             "url": "https://www.hurriyetdailynews.com/kilicdaroglu-led-chp-purges-26-provincial-chiefs-223887",
             "published": "2026-07-01T06:49:29+00:00",
             "snippet": "The Kılıçdaroğlu-led CHP has dismissed 26 provincial chiefs."
-          },
-          {
-            "title": "Türkiye mobilized over $1.5 bln in health investments over past year: Minister",
-            "url": "https://www.hurriyetdailynews.com/turkiye-mobilized-over-1-5-bln-in-health-investments-over-past-year-minister-223877",
-            "published": "2026-07-01T03:09:25+00:00",
-            "snippet": "Türkiye mobilized over $1.5 billion in health investments over the past year."
-          },
-          {
-            "title": "Rescue dog Ego certified for disaster response",
-            "url": "https://www.hurriyetdailynews.com/rescue-dog-ego-certified-for-disaster-response-223869",
-            "published": "2026-07-01T02:58:34+00:00",
-            "snippet": "The rescue dog Ego has been certified for disaster response."
-          },
-          {
-            "title": "A rare dinosaur fossil found tucked away in a drawer",
-            "url": "https://www.hurriyetdailynews.com/a-rare-dinosaur-fossil-found-tucked-away-in-a-drawer-223865",
-            "published": "2026-07-01T02:57:46+00:00",
-            "snippet": "A rare dinosaur fossil was discovered."
           }
         ],
         "error": null
@@ -772,12 +796,6 @@
         "lang": "en",
         "url": "https://www.trtworld.com",
         "headlines": [
-          {
-            "title": "Breaking News, Live Coverage, Opinions and Visuals",
-            "url": "https://www.trtworld.com/",
-            "published": "2026-07-01T07:21:17+00:00",
-            "snippet": "TRT World offers breaking news, live coverage, opinions, and visuals."
-          },
           {
             "title": "US removes export restrictions on Anthropic AI models Fable and Mythos",
             "url": "https://www.trtworld.com/article/8ff9720251f5",
@@ -801,6 +819,12 @@
             "url": "https://www.trtworld.com/article/009db858f3d6",
             "published": "2026-07-01T01:02:21+00:00",
             "snippet": "JD Vance described Iran's denial of talks in Doha as a 'Persian negotiating tactic'."
+          },
+          {
+            "title": "Trump announces first pre-midterm Republican national convention",
+            "url": "https://www.trtworld.com/article/4a4a1b98ea50",
+            "published": "2026-06-30T23:09:53+00:00",
+            "snippet": "Trump announces first pre-midterm Republican national convention TRT World"
           }
         ],
         "error": null
