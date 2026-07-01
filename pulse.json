@@ -1,17 +1,209 @@
 {
-  "updated": "2026-07-01T21:16:33.740959+00:00",
-  "total_headlines": 132,
+  "updated": "2026-07-01T21:47:32.650035+00:00",
+  "total_headlines": 113,
   "terms": [
     {
-      "term": "World Cup",
-      "count": 28,
+      "term": "Israeli",
+      "count": 11,
       "headlines": [
         {
-          "title": "مونديال الحسم... فرنسا والنرويج تتألقان وترقب للمواجهات القادمة",
-          "url": "https://www.almayadeen.net/episodes-tv/2026/7/1/%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%B3%D9%85----%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%88%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%A3%D9%84%D9%82%D8%A7%D9%86-%D9%88%D8%AA%D8%B1%D9%82%D8%A8-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7/%D9%85%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026",
+          "title": "Israeli army detonates large explosion in southern Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli Troops to Stay in Lebanon, Syria, Gaza: Katz",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/israeli-troops-to-stay-in-lebanon-syria-gaza-katz",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "مستشفيات جنوبي لبنان تواصل لملمة جراحها بعد العدوان الإسرائيلي",
+          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D9%85%D9%84%D9%85%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
+        {
+          "title": "مسؤولون إسرائيليون: الجيش الإسرائيلي يستعد لبقاء \"طويل\" في جنوب لبنان",
+          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%88%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86--%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A8%D9%82%D8%A7%D8%A1--%D8%B7%D9%88%D9%8A%D9%84--%D9%81%D9%8A-%D8%AC",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli forces blow up homes in three south Lebanon villages",
+          "url": "https://en.mehrnews.com/news/245785/Israeli-forces-blow-up-homes-in-three-south-Lebanon-villages",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Israeli settlement expansion ‘tool of colonial cleansing, elimination’ — Royal committee",
+          "url": "https://jordantimes.com/news/local/israeli-settlement-expansion-tool-of-colonial-cleansing-elimination-royal-committee",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "سورية: قوات الاحتلال “الإسرائيلي” تطلق 3 قذائف باتجاه ريف القنيطرة الجنوبي",
+          "url": "https://www.almanar.com.lb/article/991592/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli occupation forces demolish two barracks west of Salfit - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/172259",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "محدث خروقات متواصلة.. شهيدان ومصابون بقصف \"إسرائيلي\" شمال غربي غزة",
+          "url": "https://paltoday.ps/ar/post/540739/%D9%85%D8%AD%D8%AF%D8%AB-%D8%AE%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D9%88%D9%85%D8%B5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Israel ex-army chief launches campaign in bid to unseat Netanyahu",
+          "url": "https://www.hurriyetdailynews.com/israel-ex-army-chief-launches-campaign-in-bid-to-unseat-netanyahu-223893",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey"
+        },
+        {
+          "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
+          "url": "https://www.trtworld.com/article/0a9b30a82027",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Lebanon",
+      "count": 10,
+      "headlines": [
+        {
+          "title": "Israeli army detonates large explosion in southern Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Lebanon, Syria join CENTCOM-led Middle East security dialogue for first time",
+          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/07/01/lebanon-syria-join-centcomled-middle-east-security-dialogue-for-first-time",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli Troops to Stay in Lebanon, Syria, Gaza: Katz",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/israeli-troops-to-stay-in-lebanon-syria-gaza-katz",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "مستشفيات جنوبي لبنان تواصل لملمة جراحها بعد العدوان الإسرائيلي",
+          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D9%85%D9%84%D9%85%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "مسؤولون إسرائيليون: الجيش الإسرائيلي يستعد لبقاء \"طويل\" في جنوب لبنان",
+          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%88%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86--%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A8%D9%82%D8%A7%D8%A1--%D8%B7%D9%88%D9%8A%D9%84--%D9%81%D9%8A-%D8%AC",
+          "source": "Al Mayadeen",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Israeli forces blow up homes in three south Lebanon villages",
+          "url": "https://en.mehrnews.com/news/245785/Israeli-forces-blow-up-homes-in-three-south-Lebanon-villages",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Lebanon announces in Paris its intention to abolish the death penalty",
+          "url": "https://today.lorientlejour.com/article/1539922/lebanon-announces-in-paris-its-intention-to-abolish-the-death-penalty.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "Trump says US, Iran 'getting along very well'; Aoun insists framework agreement with Israel 'safeguards Lebanon’s rights both legally and operationally'",
+          "url": "https://today.lorientlejour.com/article/1539869/israels-withdrawal-from-pilot-areas-in-southern-lebanon-has-been-delayed-until-a-new-monitoring-mechanism-is-put-in-place-according-to-an-israeli-medi.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "House of Representatives rejects resolution calling for 'withdrawal of US armed forces from all hostilities in Lebanon'",
+          "url": "https://today.lorientlejour.com/article/1539885/house-of-representatives-rejects-resolution-calling-for-withdrawal-of-us-armed-forces-from-all-hostilities-in-lebanon.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "إيران تعلّق المفاوضات: ملف هرمز وتحرير لبنان أولاً - Al Akhbar",
+          "url": "https://www.al-akhbar.com/NewspaperArticles/lebanon/897600",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "talks",
+      "count": 9,
+      "headlines": [
+        {
+          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+          "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Body tasked with Gaza governance says Cyprus talks 'highly productive'",
+          "url": "https://www.newarab.com/news/body-tasked-gaza-governance-says-cyprus-talks-highly-productive",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran talks in Qatar on implementing MoU with US concluded",
+          "url": "https://www.newarab.com/news/iran-talks-qatar-implementing-mou-us-concluded",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
+          "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
+          "source": "IRNA",
+          "region": "Iran"
+        },
+        {
+          "title": "Talks btw Iran, US for a final agreement not yet started",
+          "url": "https://en.mehrnews.com/news/245793/Talks-btw-Iran-US-for-a-final-agreement-not-yet-started",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "US, Iran officials hold indirect talks in Doha",
+          "url": "https://jordantimes.com/news/region/us-iran-officials-hold-indirect-talks-in-doha",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Indirect Iran-US technical talks underway in Doha, source says",
+          "url": "https://today.lorientlejour.com/article/1539883/indirect-iran-us-technical-talks-underway-in-doha-source-says.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "US, Iranian officials hold indirect, lower-level talks in Doha, source says",
+          "url": "https://www.egyptindependent.com/us-iranian-officials-hold-indirect-lower-level-talks-in-doha-source-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Qatar reports 'positive progress' in indirect US-Iran talks in Doha",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-reports-positive-progress-in-indirect-us-iran-talks-in-doha/3983811",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "World Cup",
+      "count": 9,
+      "headlines": [
         {
           "title": "المنتخب النرويجي يتخطى عقبة ساحل العاج ويتأهل لدور الـ16 في مونديال 2026",
           "url": "https://www.almayadeen.net/tv-reports/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC%D9%8A-%D9%8A%D8%AA%D8%AE%D8%B7%D9%89-%D8%B9%D9%82%D8%A8%D8%A9-%D8%B3%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D8%AC-%D9%88%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D9%8016-%D9%81%D9%8A",
@@ -65,300 +257,6 @@
           "url": "https://en.irna.ir/news/86198192/Infantino-hails-Iran-s-performance-in-World-Cup-as-remarkable",
           "source": "IRNA",
           "region": "Iran"
-        },
-        {
-          "title": "Iran slams US over World Cup conduct after team elimination",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0JVbnZJX2RHXzNqdjlhZnREYzlOaEJsT1llaXVFLUZYNlhDQXcwMElHMDZ3S25jbGhOckdyTkE1QTV2dXcySUlfWHdFdTc1ckpCNW9aaFFOQTZ2d3ZBZzNFUTZPc3ZCdm9fdjlGRllXa0NvTnd4b2pVY0hNZi03dDJfZDc0ajJVMFNmZ3BSQmJZT29iWHRiM0hn?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Over 1,000 drones discovered since FIFA World Cup 2026 start",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekZuYXV6d01HdEZaQ0dBY0c3dkxrVDdUdlJ4Z3E0TWdieEhSMkhLZkJqQk1URGNUTl9HemhoT2VYakNTTUNKR3FtVGlmOVk5NUplNHJFdUFXb2hzTml5dXJyODZvWHp4OWJxczlpaHhXLXczcDZhOEF4SVVWSkU3Vml6ZENyVFJMV0U1QzVTU1lzNW90YjZwYzJ2eXU?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Norway Fans \"ruuuuhing\" after win over Ivory Coast at World Cup",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTF5QUpyWGZNa196NHAtcG1FeWNjdEpUNTBSTUVLMkFCX2k2SllMRXJWeWJ1WHNtdlBZX3ZxUXhTb3FhQm95d00tNzFveGlNbko5UlpUTXByMHJjWVdaMWZKRXltSDRra0NfVjFUR3M1dUhiR0xQM1lhaWRMLTRNTUZJYW14RVUxZEVSMmNfQzZCS08zOHdzdkJGVHVpQmJycDlXMHprcjU?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Nashama squad return home after World Cup debut",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVG1LRkVGUm9LbGllNnFGOFBYSlhLeENxUl9Qb2gxMjgxd0F0UHYzYUlFZU1iWDNQNVoxalp4azlVUHcyTlA4dEZhUlE1eUR5XzJrYTJja2FLMFJTMnk1cjN2d1dSMHhMTG9FR0FGX21DdHFjQnBsb3p6aUwyd05udU5ERzM3c0FhNDIw?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "World Cup turns New York's Times Square into global fan hub",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGMwdkJ5OEl1UlRsMzdLd1VjeENkdnRqQzhwd1gtUWxORW8teWFLRkpoSnJUT0tIV3R5Rzk1QTlSWG1KbXRyYTlGYXdTS29hUmNNLWRvc0hkeVMyMmhFWDNma1VFeUFFb3dCams5TnpqaXZ4dHFmRUVzTjRFMkx5YmJrTUVkRjJzOXlrLTRwQW5FS1NabFJqSlhkUVdIVnVONTlzeg?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Regent welcomes national team upon their return from World Cup",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnlCSXRfMjZjLVk3bUNsblBrYnY5TXJPMi1EeTFGQlNCSGJNcHVLS3B5ZWxGV0t5RVZsczZ2Z1dtOVRKUEJ2Q3BUeEdaaUQ4Vm44TnhmYjd2anNhOVZGa1FVNFlXQldlTGp1alhtakp6SEx2a1JlejNsbnRsQmVIc09SbzZJQ2VhN2JvSV85TndTamVNd1NReVJ6Y0lMQQ?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Jordan's historic World Cup journey ends with loss to Argentina",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUowUi15eDJLVmZGOU1fTnRuSER5WEFmNnV5RHRoeDlDdnR1SURmZjF1Y2dCYjVBR1g1Z2NSSndZbUtBQUhOM1g1aldmcUc1ZkwzTzlmZV9ISnNmbnR4ZndBTDhDYktEMlV3R1Z3TEZvb0E3amF5ZDRKcldPS3hocHl5SU55NWM3dDZCTnI0eGtXcXpKOFFCY3hhOE82Rzg?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Morocco reach World Cup round of 16 after penalty shootout victory over Netherlands - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qamZweUczTzkwbzlsLUx1cWJSaVBGWDRyWGt5SGhlc1RvcEItQVk0V1d1bkFCOHVlVTZsSEVxYmJuZUVYWnJ4WG0yVk5ZWm5tbFk0ZmRSRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Soccer fans clash with police in The Hague after Morocco stuns the Netherlands at the World Cup",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96R2hoaTB5dVNyRjBIQ0EzMzlabjVIamh5VXJaZkhwYUNHVGhMc3plSzh4ckd1eTRhU1pMU2JWYnh5ODl2Z2RiNjNQbU9RaHhSbnNF?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "One killed in shooting at site of California World Cup fan zone",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QdEpkZHZ4QXhrNXZpR2Q1eGZtTlNtU1lwXzR5cTZTaTBTRGpXbDZSRDNZc2lMbU56enNtaEFkQThzMEcyTHplaWlGQ2g0TUZzeHJN?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Israeli",
-      "count": 14,
-      "headlines": [
-        {
-          "title": "Israeli army detonates large explosion in southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli Knesset passes bill limiting mosque loudspeakers",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-knesset-passes-bill-limiting-mosque-loudspeakers",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli Troops to Stay in Lebanon, Syria, Gaza: Katz",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/israeli-troops-to-stay-in-lebanon-syria-gaza-katz",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Peace Council to launch pilot shelter project in Gaza: report",
-          "url": "https://www.newarab.com/news/peace-council-launch-pilot-shelter-project-gaza-report",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مستشفيات جنوبي لبنان تواصل لملمة جراحها بعد العدوان الإسرائيلي",
-          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D9%85%D9%84%D9%85%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مسؤولون إسرائيليون: الجيش الإسرائيلي يستعد لبقاء \"طويل\" في جنوب لبنان",
-          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%88%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86--%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A8%D9%82%D8%A7%D8%A1--%D8%B7%D9%88%D9%8A%D9%84--%D9%81%D9%8A-%D8%AC",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli forces blow up homes in three south Lebanon villages",
-          "url": "https://en.mehrnews.com/news/245785/Israeli-forces-blow-up-homes-in-three-south-Lebanon-villages",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Israeli settlement expansion ‘tool of colonial cleansing, elimination’ — Royal committee",
-          "url": "https://jordantimes.com/news/local/israeli-settlement-expansion-tool-of-colonial-cleansing-elimination-royal-committee",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "العدو يواصل عدوانه.. حرائق وعملية تفجير ضخمة في بيت ياحون",
-          "url": "https://www.almanar.com.lb/article/991532/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "اندلاع مواجهات مع قوات العدو الاسرائيلي خلال اقتحامها قرية دير جرير بالضفة المحتلة",
-          "url": "https://www.almanar.com.lb/article/991477/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "Israeli occupation forces demolish two barracks west of Salfit - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/172259",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "محدث خروقات متواصلة.. شهيدان ومصابون بقصف \"إسرائيلي\" شمال غربي غزة",
-          "url": "https://paltoday.ps/ar/post/540739/%D9%85%D8%AD%D8%AF%D8%AB-%D8%AE%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D9%88%D9%85%D8%B5",
-          "source": "Falastin al-Youm",
-          "region": "Levant"
-        },
-        {
-          "title": "Israel ex-army chief launches campaign in bid to unseat Netanyahu",
-          "url": "https://www.hurriyetdailynews.com/israel-ex-army-chief-launches-campaign-in-bid-to-unseat-netanyahu-223893",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
-        },
-        {
-          "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
-          "url": "https://www.trtworld.com/article/0a9b30a82027",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Lebanon",
-      "count": 14,
-      "headlines": [
-        {
-          "title": "Israeli army detonates large explosion in southern Lebanon",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Lebanon, Syria join CENTCOM-led Middle East security dialogue for first time",
-          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/07/01/lebanon-syria-join-centcomled-middle-east-security-dialogue-for-first-time",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Israeli Troops to Stay in Lebanon, Syria, Gaza: Katz",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/israeli-troops-to-stay-in-lebanon-syria-gaza-katz",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مستشفيات جنوبي لبنان تواصل لملمة جراحها بعد العدوان الإسرائيلي",
-          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D9%85%D9%84%D9%85%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "مسؤولون إسرائيليون: الجيش الإسرائيلي يستعد لبقاء \"طويل\" في جنوب لبنان",
-          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%88%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%88%D9%86--%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A8%D9%82%D8%A7%D8%A1--%D8%B7%D9%88%D9%8A%D9%84--%D9%81%D9%8A-%D8%AC",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
-          "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Israeli forces blow up homes in three south Lebanon villages",
-          "url": "https://en.mehrnews.com/news/245785/Israeli-forces-blow-up-homes-in-three-south-Lebanon-villages",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "Lebanon announces in Paris its intention to abolish the death penalty",
-          "url": "https://today.lorientlejour.com/article/1539922/lebanon-announces-in-paris-its-intention-to-abolish-the-death-penalty.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump says US, Iran 'getting along very well'; Aoun insists framework agreement with Israel 'safeguards Lebanon’s rights both legally and operationally'",
-          "url": "https://today.lorientlejour.com/article/1539869/israels-withdrawal-from-pilot-areas-in-southern-lebanon-has-been-delayed-until-a-new-monitoring-mechanism-is-put-in-place-according-to-an-israeli-medi.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "House of Representatives rejects resolution calling for 'withdrawal of US armed forces from all hostilities in Lebanon'",
-          "url": "https://today.lorientlejour.com/article/1539885/house-of-representatives-rejects-resolution-calling-for-withdrawal-of-us-armed-forces-from-all-hostilities-in-lebanon.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "إيران تعلّق المفاوضات: ملف هرمز وتحرير لبنان أولاً - Al Akhbar",
-          "url": "https://www.al-akhbar.com/NewspaperArticles/lebanon/897600",
-          "source": "Al-Akhbar",
-          "region": "Levant"
-        },
-        {
-          "title": "العدو يواصل عدوانه.. حرائق وعملية تفجير ضخمة في بيت ياحون",
-          "url": "https://www.almanar.com.lb/article/991532/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "تقرير إدارة مخاطر الكوارث..",
-          "url": "https://www.almanar.com.lb/article/991497/",
-          "source": "Al Manar",
-          "region": "Levant"
-        },
-        {
-          "title": "UN says about 40% of more than 1M displaced in Lebanon have returned",
-          "url": "https://www.aa.com.tr/en/middle-east/un-says-about-40-of-more-than-1m-displaced-in-lebanon-have-returned/3983779",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "talks",
-      "count": 8,
-      "headlines": [
-        {
-          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-          "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gaza interim administration says talks in Cyprus ‘highly productive’",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-interim-administration-says-talks-cyprus-highly-productive",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran talks in Qatar on implementing MoU with US concluded",
-          "url": "https://www.newarab.com/news/iran-talks-qatar-implementing-mou-us-concluded",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
-          "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Talks btw Iran, US for a final agreement not yet started",
-          "url": "https://en.mehrnews.com/news/245793/Talks-btw-Iran-US-for-a-final-agreement-not-yet-started",
-          "source": "Mehr News",
-          "region": "Iran"
-        },
-        {
-          "title": "US, Iran officials hold indirect talks in Doha",
-          "url": "https://jordantimes.com/news/region/us-iran-officials-hold-indirect-talks-in-doha",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Indirect Iran-US technical talks underway in Doha, source says",
-          "url": "https://today.lorientlejour.com/article/1539883/indirect-iran-us-technical-talks-underway-in-doha-source-says.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "US, Iranian officials hold indirect, lower-level talks in Doha, source says",
-          "url": "https://www.egyptindependent.com/us-iranian-officials-hold-indirect-lower-level-talks-in-doha-source-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
         }
       ]
     },
@@ -379,9 +277,9 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Iran warns Israel: Any threat against Leader, people will meet firm response",
-          "url": "https://en.irna.ir/news/86198317/Iran-warns-Israel-Any-threat-against-Leader-people-will-meet",
-          "source": "IRNA",
+          "title": "Iran parliament cries censorship after Ghalibaf interview cut short",
+          "url": "https://www.iranintl.com/en/202607018757",
+          "source": "Iran International",
           "region": "Iran"
         },
         {
@@ -397,10 +295,10 @@
           "region": "Levant"
         },
         {
-          "title": "Tehran vows ‘immediate powerful response’ to threats against Iranian people, leadership",
-          "url": "https://www.aa.com.tr/en/middle-east/tehran-vows-immediate-powerful-response-to-threats-against-iranian-people-leadership/3983731",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "شمس الواعظين يكشف كواليس الاتصالات الأميركية مع إيران",
+          "url": "https://www.almanar.com.lb/article/991622/",
+          "source": "Al Manar",
+          "region": "Levant"
         },
         {
           "title": "A hero's welcome for Iranian national team upon returning from FIFA World Cup",
@@ -411,19 +309,25 @@
       ]
     },
     {
-      "term": "Trump",
+      "term": "agreement",
       "count": 6,
       "headlines": [
         {
-          "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
-          "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
+          "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
           "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "How Trump decided to strike Iran, new book reveals final hours - ایران اینترنشنال",
-          "url": "https://www.iranintl.com/en/202606305345",
-          "source": "Iran International",
+          "title": "US Signs Agreement to Build Permanent Embassy in Jerusalem",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/us-signs-agreement-to-build-permanent-embassy-in-jerusalem",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Talks btw Iran, US for a final agreement not yet started",
+          "url": "https://en.mehrnews.com/news/245793/Talks-btw-Iran-US-for-a-final-agreement-not-yet-started",
+          "source": "Mehr News",
           "region": "Iran"
         },
         {
@@ -433,100 +337,118 @@
           "region": "Levant"
         },
         {
-          "title": "«وول ستريت جورنال»: ترامب يمنح الدبلوماسية فرصة إضافية بعد تعليق إيران المفاوضات - Al Akhbar",
-          "url": "https://www.al-akhbar.com/news/world/897606/-%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D8%AC%D9%88%D8%B1%D9%86%D8%A7%D9%84---%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%81%D8%B1%D8%B5%D8%A9-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%AA",
-          "source": "Al-Akhbar",
+          "title": "US signs agreement to build permanent embassy in Jerusalem",
+          "url": "https://today.lorientlejour.com/article/1539913/us-signs-agreement-to-build-permanent-embassy-in-jerusalem.html",
+          "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "Trump slams Spain for NATO commitments, says Cuba ‘coming our way’",
-          "url": "https://www.aa.com.tr/en/europe/trump-slams-spain-for-nato-commitments-says-cuba-coming-our-way-/3983786",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "من اجتماع المنامة إلى اتفاق واشنطن: تنازع المسارات ومستقبل الإقليم - Al Akhbar",
+          "url": "https://www.al-akhbar.com/NewspaperArticles/topics-opinions/897595/%D9%85%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86--%D8%AA%D9%86%D8%A7%D8%B2%D8%B9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7",
+          "source": "Al-Akhbar",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Doha",
+      "count": 5,
+      "headlines": [
+        {
+          "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
+          "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
+          "source": "IRNA",
+          "region": "Iran"
         },
         {
-          "title": "Tehran vows ‘immediate powerful response’ to threats against Iranian people, leadership",
-          "url": "https://www.aa.com.tr/en/middle-east/tehran-vows-immediate-powerful-response-to-threats-against-iranian-people-leadership/3983731",
+          "title": "US, Iran officials hold indirect talks in Doha",
+          "url": "https://jordantimes.com/news/region/us-iran-officials-hold-indirect-talks-in-doha",
+          "source": "Jordan Times",
+          "region": "Levant"
+        },
+        {
+          "title": "Indirect Iran-US technical talks underway in Doha, source says",
+          "url": "https://today.lorientlejour.com/article/1539883/indirect-iran-us-technical-talks-underway-in-doha-source-says.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "US, Iranian officials hold indirect, lower-level talks in Doha, source says",
+          "url": "https://www.egyptindependent.com/us-iranian-officials-hold-indirect-lower-level-talks-in-doha-source-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Qatar reports 'positive progress' in indirect US-Iran talks in Doha",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-reports-positive-progress-in-indirect-us-iran-talks-in-doha/3983811",
           "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Gaza",
-      "count": 6,
+      "term": "occupation",
+      "count": 5,
       "headlines": [
         {
-          "title": "Gaza interim administration says talks in Cyprus ‘highly productive’",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-interim-administration-says-talks-cyprus-highly-productive",
-          "source": "Middle East Eye",
+          "title": "جيش الاحتلال يداهم منزلاً خلال اقتحام قرية “المغير” شمال شرق رام الله",
+          "url": "https://www.almanar.com.lb/article/991612/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "قوات الاحتلال تداهم منزلاً خلال اقتحام ضاحية شويكة شمال طولكرم",
+          "url": "https://www.almanar.com.lb/article/991602/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "سورية: قوات الاحتلال “الإسرائيلي” تطلق 3 قذائف باتجاه ريف القنيطرة الجنوبي",
+          "url": "https://www.almanar.com.lb/article/991592/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Israeli occupation forces demolish two barracks west of Salfit - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/172259",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "الاحتلال يخطر بهدم ثلاثة مساكن بالخليل",
+          "url": "https://paltoday.ps/ar/post/540737/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AE%D8%B7%D8%B1-%D8%A8%D9%87%D8%AF%D9%85-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D8%B3%D8%A7%D9%83%D9%86",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Jerusalem",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+          "source": "Al Jazeera",
           "region": "Pan-Arab"
         },
         {
-          "title": "Israeli Troops to Stay in Lebanon, Syria, Gaza: Katz",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/israeli-troops-to-stay-in-lebanon-syria-gaza-katz",
+          "title": "US Signs Agreement to Build Permanent Embassy in Jerusalem",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/us-signs-agreement-to-build-permanent-embassy-in-jerusalem",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Peace Council to launch pilot shelter project in Gaza: report",
-          "url": "https://www.newarab.com/news/peace-council-launch-pilot-shelter-project-gaza-report",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "محدث خروقات متواصلة.. شهيدان ومصابون بقصف \"إسرائيلي\" شمال غربي غزة",
-          "url": "https://paltoday.ps/ar/post/540739/%D9%85%D8%AD%D8%AF%D8%AB-%D8%AE%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D9%88%D9%85%D8%B5",
-          "source": "Falastin al-Youm",
+          "title": "US signs agreement to build permanent embassy in Jerusalem",
+          "url": "https://today.lorientlejour.com/article/1539913/us-signs-agreement-to-build-permanent-embassy-in-jerusalem.html",
+          "source": "L'Orient Today",
           "region": "Levant"
         },
         {
-          "title": "Palestine rejects attempts to ‘undermine UNRWA’s mandate’ in Gaza",
-          "url": "https://www.aa.com.tr/en/world/palestine-rejects-attempts-to-undermine-unrwa-s-mandate-in-gaza/3983728",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Türkiye, Egypt intelligence chiefs discuss Gaza, regional security",
-          "url": "https://www.dailysabah.com/politics/diplomacy/turkiye-egypt-intelligence-chiefs-discuss-gaza-regional-security",
-          "source": "Daily Sabah",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "TRT",
-      "count": 5,
-      "headlines": [
-        {
-          "title": "JD Vance just expressed frustration with Iran's Persian negotiating tactic. What is it anyway?",
-          "url": "https://www.trtworld.com/article/9660a3212f87",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "Live blog - US-Israeli war on Iran",
-          "url": "https://trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "Türkiye's guarantorship, military presence underpin regional stability: TRNC",
-          "url": "https://trtworld.com/article/f79bec1e7f60?utm_source",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
-          "url": "https://www.trtworld.com/article/0a9b30a82027",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "Turkish intelligence chief meets Egyptian counterpart in Ankara",
-          "url": "https://www.trtworld.com/article/50fa9a146975",
-          "source": "TRT World",
-          "region": "Turkey"
+          "title": "Jerusalem Governorate warns “Muezzin Bill” targeting Muslim call to prayer is declaration of religious war, direct attack on freedom of worship - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/172258",
+          "source": "WAFA News",
+          "region": "Levant"
         }
       ]
     },
@@ -561,20 +483,74 @@
       ]
     },
     {
-      "term": "agreement",
+      "term": "Gaza",
       "count": 4,
       "headlines": [
         {
-          "title": "US Signs Agreement to Build Permanent Embassy in Jerusalem",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/us-signs-agreement-to-build-permanent-embassy-in-jerusalem",
+          "title": "Israeli Troops to Stay in Lebanon, Syria, Gaza: Katz",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/israeli-troops-to-stay-in-lebanon-syria-gaza-katz",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "Talks btw Iran, US for a final agreement not yet started",
-          "url": "https://en.mehrnews.com/news/245793/Talks-btw-Iran-US-for-a-final-agreement-not-yet-started",
-          "source": "Mehr News",
+          "title": "Body tasked with Gaza governance says Cyprus talks 'highly productive'",
+          "url": "https://www.newarab.com/news/body-tasked-gaza-governance-says-cyprus-talks-highly-productive",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "محدث خروقات متواصلة.. شهيدان ومصابون بقصف \"إسرائيلي\" شمال غربي غزة",
+          "url": "https://paltoday.ps/ar/post/540739/%D9%85%D8%AD%D8%AF%D8%AB-%D8%AE%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D9%88%D9%85%D8%B5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Türkiye, Egypt intelligence chiefs discuss Gaza, regional security",
+          "url": "https://www.dailysabah.com/politics/diplomacy/turkiye-egypt-intelligence-chiefs-discuss-gaza-regional-security",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "US-Iran",
+      "count": 4,
+      "headlines": [
+        {
+          "title": "Iranians barely visible in US-Iran deal, UN rapporteur says - ایران اینترنشنال",
+          "url": "https://www.iranintl.com/en/202607014337",
+          "source": "Iran International",
           "region": "Iran"
+        },
+        {
+          "title": "شمس الواعظين يكشف كواليس الاتصالات الأميركية مع إيران",
+          "url": "https://www.almanar.com.lb/article/991622/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "Clause 5: The one clause that could make — or break — US-Iran peace deal",
+          "url": "https://gulfnews.com/world/mena/clause-5-the-one-clause-that-could-make-or-break-us-iran-peace-deal-1.500593176",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "Qatar reports 'positive progress' in indirect US-Iran talks in Doha",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-reports-positive-progress-in-indirect-us-iran-talks-in-doha/3983811",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Israel",
+      "count": 3,
+      "headlines": [
+        {
+          "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
         },
         {
           "title": "Trump says US, Iran 'getting along very well'; Aoun insists framework agreement with Israel 'safeguards Lebanon’s rights both legally and operationally'",
@@ -583,123 +559,9 @@
           "region": "Levant"
         },
         {
-          "title": "US signs agreement to build permanent embassy in Jerusalem",
-          "url": "https://today.lorientlejour.com/article/1539913/us-signs-agreement-to-build-permanent-embassy-in-jerusalem.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Morocco",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Morocco: Rights group says Gen Z activist's sentence 'worrying'",
-          "url": "https://www.newarab.com/news/morocco-rights-group-says-gen-z-activists-sentence-worrying",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Morocco reach World Cup round of 16 after penalty shootout victory over Netherlands - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qamZweUczTzkwbzlsLUx1cWJSaVBGWDRyWGt5SGhlc1RvcEItQVk0V1d1bkFCOHVlVTZsSEVxYmJuZUVYWnJ4WG0yVk5ZWm5tbFk0ZmRSRQ?oc=5",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Soccer fans clash with police in The Hague after Morocco stuns the Netherlands at the World Cup",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96R2hoaTB5dVNyRjBIQ0EzMzlabjVIamh5VXJaZkhwYUNHVGhMc3plSzh4ckd1eTRhU1pMU2JWYnh5ODl2Z2RiNjNQbU9RaHhSbnNF?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "Yassine Bounou: Morocco’s calm force as they knock out the Netherlands in World Cup showdown",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3BrSkpRZzRQWlVWQ1UxMUE5aTZzQklNa0RaLWVtamh2RkJfX0dURGZIOGhKMjMwaEoxWF9QR0VIQXE0aDF2bUpUemxFa19pZXpoQ2dVTVhiMUpLeVVaZHUwRjUzN3ZFTVMzUGpVU1NFS0NOMWo3QjRVSWZDSHV4c3h2RWdwdW13cVBNNFJ1OGpVRWFheHNBYkl3NENCTVZOeUNEdEVxWG84RFhhUUtYcWdJdG80djJ6ZllMdzM3QnVOa0V3QnlsdXFJUHgtS2VTb2dtQUdyX1VfdFItQ3FxX0pB0gH3AUFVX3lxTE04d0tnZTI2aEVsdGI0bldpalBOLUVRS2U5aC02MEFlamtVMVJMRkh4X0R1VjJiTGtCMlJMeHJQYU0yR21kUk5mWjgwUldZSDFKMHJWdVRHajhVeUZscHNDXzE4WmkwQ0V5RTk5ZHI4akJTUjNqUlhfbks3WjZjWXZidjlVX05FYlVhY2RzRkdxdGg5RVZCZ1Y2WkQ1anI5b2VaaEx3SkNfVDNzMXYxUHd5MEVGUXVoUWVQWUNpeXdVa0gzLTdCQWxNOWF4VERhVEZYdm9fVEw2WlNWZ2hQakxVZ2w3T0hjVlF1bWlTbXVXTEJlcHhQakE?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Doha",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
-          "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "US, Iran officials hold indirect talks in Doha",
-          "url": "https://jordantimes.com/news/region/us-iran-officials-hold-indirect-talks-in-doha",
-          "source": "Jordan Times",
-          "region": "Levant"
-        },
-        {
-          "title": "Indirect Iran-US technical talks underway in Doha, source says",
-          "url": "https://today.lorientlejour.com/article/1539883/indirect-iran-us-technical-talks-underway-in-doha-source-says.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "US, Iranian officials hold indirect, lower-level talks in Doha, source says",
-          "url": "https://www.egyptindependent.com/us-iranian-officials-hold-indirect-lower-level-talks-in-doha-source-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "war",
-      "count": 4,
-      "headlines": [
-        {
-          "title": "Iran warns Israel: Any threat against Leader, people will meet firm response",
-          "url": "https://en.irna.ir/news/86198317/Iran-warns-Israel-Any-threat-against-Leader-people-will-meet",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Jerusalem Governorate warns “Muezzin Bill” targeting Muslim call to prayer is declaration of religious war, direct attack on freedom of worship - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/172258",
-          "source": "WAFA News",
-          "region": "Levant"
-        },
-        {
-          "title": "Trump slams Spain for NATO commitments, says Cuba ‘coming our way’",
-          "url": "https://www.aa.com.tr/en/europe/trump-slams-spain-for-nato-commitments-says-cuba-coming-our-way-/3983786",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Live blog - US-Israeli war on Iran",
-          "url": "https://trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Politics",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "US Supreme Court hands wealthy donors more sway with latest decision",
-          "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Politics, power and the World Cup | Bigger Than Five",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1VXU1kwT0lqbm5sTHVHanpRMElfXy1ibWdrcGRrX3FITl9oSWpsbF9WMkF2cHh0eUExa2poYlpYNkpxSVNQOGRyeWI2X2gtVEY2NWdMREFDR3ZLQmt1LWdaQkcyeDAxWjZtdzhYb2Q5ZTJQYmNQcjRtQ2tpcnJrMkdwWldpd1RPR3c?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        },
-        {
-          "title": "America’s World Cup..Football, Money, and Politics | My America",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEhzVWZoSzNGeXZWX1Jva3A0VnJjTGpBMklDMTdFNnVjVTdQalc3dTZrc0dmMkVDZkI0cXYxV3BUUld4UHNSWDRoRm9yWkVVZEVQUVhvMTZJYWtzY3JFN1ZCM2ZmMWo3Y3l6RnNTVVJabTFhOGdNcUZsNlk4dEJ4bkhSNkROdlk0d3c?oc=5",
-          "source": "TRT World",
+          "title": "Israel ex-army chief launches campaign in bid to unseat Netanyahu",
+          "url": "https://www.hurriyetdailynews.com/israel-ex-army-chief-launches-campaign-in-bid-to-unseat-netanyahu-223893",
+          "source": "Hürriyet Daily News",
           "region": "Turkey"
         }
       ]
@@ -721,69 +583,21 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "US, Iranian officials hold indirect, lower-level talks in Doha, source says",
-          "url": "https://www.egyptindependent.com/us-iranian-officials-hold-indirect-lower-level-talks-in-doha-source-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Gharibabadi",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-          "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iranian deputy foreign minister says channel to be set up for MoU breaches",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-deputy-foreign-minister-says-channel-be-set-mou-breaches",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
-          "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Tehran",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-          "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "IRGC moves to seize historic Protestant church in Tehran - ایران اینترنشنال",
-          "url": "https://www.iranintl.com/en/202606304322",
-          "source": "Iran International",
-          "region": "Iran"
-        },
-        {
-          "title": "Tehran vows ‘immediate powerful response’ to threats against Iranian people, leadership",
-          "url": "https://www.aa.com.tr/en/middle-east/tehran-vows-immediate-powerful-response-to-threats-against-iranian-people-leadership/3983731",
+          "title": "Qatar reports 'positive progress' in indirect US-Iran talks in Doha",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-reports-positive-progress-in-indirect-us-iran-talks-in-doha/3983811",
           "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Building",
+      "term": "France",
       "count": 3,
       "headlines": [
         {
-          "title": "Russian couple arrested after climbing Empire State Building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "Giant Container Ship ‘Notre-Dame’ Arrives in France",
+          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/giant-container-ship-notredame-arrives-in-france",
+          "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
@@ -793,130 +607,34 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Masked couple scales Empire State Building in New York, unfurls peace banner",
-          "url": "https://www.aa.com.tr/en/americas/masked-couple-scales-empire-state-building-in-new-york-unfurls-peace-banner/3983742",
+          "title": "Wildfires burn hundreds of hectares in southern France",
+          "url": "https://www.aa.com.tr/en/europe/wildfires-burn-hundreds-of-hectares-in-southern-france/3983805",
           "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "York",
+      "term": "negotiations",
       "count": 3,
       "headlines": [
         {
-          "title": "Russian couple arrested after climbing Empire State Building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Masked couple scales Empire State Building in New York, unfurls peace banner",
-          "url": "https://www.aa.com.tr/en/americas/masked-couple-scales-empire-state-building-in-new-york-unfurls-peace-banner/3983742",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "World Cup turns New York's Times Square into global fan hub",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGMwdkJ5OEl1UlRsMzdLd1VjeENkdnRqQzhwd1gtUWxORW8teWFLRkpoSnJUT0tIV3R5Rzk1QTlSWG1KbXRyYTlGYXdTS29hUmNNLWRvc0hkeVMyMmhFWDNma1VFeUFFb3dCams5TnpqaXZ4dHFmRUVzTjRFMkx5YmJrTUVkRjJzOXlrLTRwQW5FS1NabFJqSlhkUVdIVnVONTlzeg?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Qatari",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iranian deputy foreign minister says channel to be set up for MoU breaches",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-deputy-foreign-minister-says-channel-be-set-mou-breaches",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran talks in Qatar on implementing MoU with US concluded",
-          "url": "https://www.newarab.com/news/iran-talks-qatar-implementing-mou-us-concluded",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US, Iranian officials hold indirect, lower-level talks in Doha, source says",
-          "url": "https://www.egyptindependent.com/us-iranian-officials-hold-indirect-lower-level-talks-in-doha-source-says/",
-          "source": "Egypt Independent",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Jerusalem",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "US Signs Agreement to Build Permanent Embassy in Jerusalem",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/us-signs-agreement-to-build-permanent-embassy-in-jerusalem",
-          "source": "Al Arabiya",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "US signs agreement to build permanent embassy in Jerusalem",
-          "url": "https://today.lorientlejour.com/article/1539913/us-signs-agreement-to-build-permanent-embassy-in-jerusalem.html",
-          "source": "L'Orient Today",
-          "region": "Levant"
-        },
-        {
-          "title": "Jerusalem Governorate warns “Muezzin Bill” targeting Muslim call to prayer is declaration of religious war, direct attack on freedom of worship - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/172258",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "US-Iran",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Iran talks in Qatar on implementing MoU with US concluded",
-          "url": "https://www.newarab.com/news/iran-talks-qatar-implementing-mou-us-concluded",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iranians barely visible in US-Iran deal, UN rapporteur says - ایران اینترنشنال",
-          "url": "https://www.iranintl.com/en/202607014337",
-          "source": "Iran International",
+          "title": "Pezeshkian: Government would have fully complied if Leader had ordered not to negotiate",
+          "url": "https://en.irna.ir/news/86198598/Pezeshkian-Government-would-have-fully-complied-if-Leader-had",
+          "source": "IRNA",
           "region": "Iran"
         },
         {
-          "title": "Clause 5: The one clause that could make — or break — US-Iran peace deal",
-          "url": "https://gulfnews.com/world/mena/clause-5-the-one-clause-that-could-make-or-break-us-iran-peace-deal-1.500593176",
-          "source": "Gulf News",
-          "region": "Gulf"
-        }
-      ]
-    },
-    {
-      "term": "Peace",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Peace Council to launch pilot shelter project in Gaza: report",
-          "url": "https://www.newarab.com/news/peace-council-launch-pilot-shelter-project-gaza-report",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
+          "title": "«وول ستريت جورنال»: ترامب يمنح الدبلوماسية فرصة إضافية بعد تعليق إيران المفاوضات - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/world/897606/-%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D8%AC%D9%88%D8%B1%D9%86%D8%A7%D9%84---%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%81%D8%B1%D8%B5%D8%A9-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%AA",
+          "source": "Al-Akhbar",
+          "region": "Levant"
         },
         {
-          "title": "Masked couple scales Empire State Building in New York, unfurls peace banner",
-          "url": "https://www.aa.com.tr/en/americas/masked-couple-scales-empire-state-building-in-new-york-unfurls-peace-banner/3983742",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        },
-        {
-          "title": "Palestine rejects attempts to ‘undermine UNRWA’s mandate’ in Gaza",
-          "url": "https://www.aa.com.tr/en/world/palestine-rejects-attempts-to-undermine-unrwa-s-mandate-in-gaza/3983728",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
+          "title": "إيران تعلّق المفاوضات: ملف هرمز وتحرير لبنان أولاً - Al Akhbar",
+          "url": "https://www.al-akhbar.com/NewspaperArticles/lebanon/897600",
+          "source": "Al-Akhbar",
+          "region": "Levant"
         }
       ]
     },
@@ -945,13 +663,13 @@
       ]
     },
     {
-      "term": "Israel",
+      "term": "Trump",
       "count": 3,
       "headlines": [
         {
-          "title": "Iran warns Israel: Any threat against Leader, people will meet firm response",
-          "url": "https://en.irna.ir/news/86198317/Iran-warns-Israel-Any-threat-against-Leader-people-will-meet",
-          "source": "IRNA",
+          "title": "How Trump decided to strike Iran, new book reveals final hours - ایران اینترنشنال",
+          "url": "https://www.iranintl.com/en/202606305345",
+          "source": "Iran International",
           "region": "Iran"
         },
         {
@@ -961,82 +679,34 @@
           "region": "Levant"
         },
         {
-          "title": "Israel ex-army chief launches campaign in bid to unseat Netanyahu",
-          "url": "https://www.hurriyetdailynews.com/israel-ex-army-chief-launches-campaign-in-bid-to-unseat-netanyahu-223893",
-          "source": "Hürriyet Daily News",
-          "region": "Turkey"
+          "title": "«وول ستريت جورنال»: ترامب يمنح الدبلوماسية فرصة إضافية بعد تعليق إيران المفاوضات - Al Akhbar",
+          "url": "https://www.al-akhbar.com/news/world/897606/-%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D8%AC%D9%88%D8%B1%D9%86%D8%A7%D9%84---%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%81%D8%B1%D8%B5%D8%A9-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%AA",
+          "source": "Al-Akhbar",
+          "region": "Levant"
         }
       ]
     },
     {
-      "term": "FIFA",
+      "term": "Strait of Hormuz",
       "count": 3,
       "headlines": [
         {
-          "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "A hero's welcome for Iranian national team upon returning from FIFA World Cup",
-          "url": "https://en.irna.ir/news/86198430/A-hero-s-welcome-for-Iranian-national-team-upon-returning-from",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Over 1,000 drones discovered since FIFA World Cup 2026 start",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekZuYXV6d01HdEZaQ0dBY0c3dkxrVDdUdlJ4Z3E0TWdieEhSMkhLZkJqQk1URGNUTl9HemhoT2VYakNTTUNKR3FtVGlmOVk5NUplNHJFdUFXb2hzTml5dXJyODZvWHp4OWJxczlpaHhXLXczcDZhOEF4SVVWSkU3Vml6ZENyVFJMV0U1QzVTU1lzNW90YjZwYzJ2eXU?oc=5",
-          "source": "Mehr News",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Football",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "World Cup 2026: Faith and football",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/world-cup-2026-faith-and-football?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Saudi Arabian Football Federation chief Yasser Al-Misehal resigns after World Cup group-stage exit",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWHBuWERDLWpqakpTOXJIdlhZd2ROTGIwWmFlTVJfejdJcU1vZTlIM25IbnJBd2M1c1QxSmpSbkN2UVE3WlZ2dF8yRUpvZnN5bGJ3Vlh1NzR6QQ?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
-        },
-        {
-          "title": "America’s World Cup..Football, Money, and Politics | My America",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEhzVWZoSzNGeXZWX1Jva3A0VnJjTGpBMklDMTdFNnVjVTdQalc3dTZrc0dmMkVDZkI0cXYxV3BUUld4UHNSWDRoRm9yWkVVZEVQUVhvMTZJYWtzY3JFN1ZCM2ZmMWo3Y3l6RnNTVVJabTFhOGdNcUZsNlk4dEJ4bkhSNkROdlk0d3c?oc=5",
-          "source": "TRT World",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Netherlands",
-      "count": 3,
-      "headlines": [
-        {
-          "title": "Morocco reach World Cup round of 16 after penalty shootout victory over Netherlands - WAFA Agency",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qamZweUczTzkwbzlsLUx1cWJSaVBGWDRyWGt5SGhlc1RvcEItQVk0V1d1bkFCOHVlVTZsSEVxYmJuZUVYWnJ4WG0yVk5ZWm5tbFk0ZmRSRQ?oc=5",
-          "source": "WAFA News",
+          "title": "Oman has delivered a proposal on the future of the Strait of Hormuz to the US, sources say",
+          "url": "https://www.egyptindependent.com/oman-has-delivered-a-proposal-on-the-future-of-the-strait-of-hormuz-to-the-us-sources-say/",
+          "source": "Egypt Independent",
           "region": "Levant"
         },
         {
-          "title": "Soccer fans clash with police in The Hague after Morocco stuns the Netherlands at the World Cup",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96R2hoaTB5dVNyRjBIQ0EzMzlabjVIamh5VXJaZkhwYUNHVGhMc3plSzh4ckd1eTRhU1pMU2JWYnh5ODl2Z2RiNjNQbU9RaHhSbnNF?oc=5",
-          "source": "Arab News",
-          "region": "Gulf"
+          "title": "The Strait of Hormuz pain has been China’s gain, The Asia Group says",
+          "url": "https://www.egyptindependent.com/the-strait-of-hormuz-pain-has-been-chinas-gain-the-asia-group-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
         },
         {
-          "title": "Yassine Bounou: Morocco’s calm force as they knock out the Netherlands in World Cup showdown",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3BrSkpRZzRQWlVWQ1UxMUE5aTZzQklNa0RaLWVtamh2RkJfX0dURGZIOGhKMjMwaEoxWF9QR0VIQXE0aDF2bUpUemxFa19pZXpoQ2dVTVhiMUpLeVVaZHUwRjUzN3ZFTVMzUGpVU1NFS0NOMWo3QjRVSWZDSHV4c3h2RWdwdW13cVBNNFJ1OGpVRWFheHNBYkl3NENCTVZOeUNEdEVxWG84RFhhUUtYcWdJdG80djJ6ZllMdzM3QnVOa0V3QnlsdXFJUHgtS2VTb2dtQUdyX1VfdFItQ3FxX0pB0gH3AUFVX3lxTE04d0tnZTI2aEVsdGI0bldpalBOLUVRS2U5aC02MEFlamtVMVJMRkh4X0R1VjJiTGtCMlJMeHJQYU0yR21kUk5mWjgwUldZSDFKMHJWdVRHajhVeUZscHNDXzE4WmkwQ0V5RTk5ZHI4akJTUjNqUlhfbks3WjZjWXZidjlVX05FYlVhY2RzRkdxdGg5RVZCZ1Y2WkQ1anI5b2VaaEx3SkNfVDNzMXYxUHd5MEVGUXVoUWVQWUNpeXdVa0gzLTdCQWxNOWF4VERhVEZYdm9fVEw2WlNWZ2hQakxVZ2w3T0hjVlF1bWlTbXVXTEJlcHhQakE?oc=5",
-          "source": "Gulf News",
-          "region": "Gulf"
+          "title": "شمس الواعظين يكشف كواليس الاتصالات الأميركية مع إيران",
+          "url": "https://www.almanar.com.lb/article/991622/",
+          "source": "Al Manar",
+          "region": "Levant"
         }
       ]
     },
@@ -1051,28 +721,10 @@
           "region": "Pan-Arab"
         },
         {
-          "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
-          "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        }
-      ]
-    },
-    {
-      "term": "Court",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "US Supreme Court hands wealthy donors more sway with latest decision",
-          "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
-          "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-          "source": "Al Jazeera",
-          "region": "Pan-Arab"
+          "title": "Pezeshkian: Government would have fully complied if Leader had ordered not to negotiate",
+          "url": "https://en.irna.ir/news/86198598/Pezeshkian-Government-would-have-fully-complied-if-Leader-had",
+          "source": "IRNA",
+          "region": "Iran"
         }
       ]
     },
@@ -1095,56 +747,74 @@
       ]
     },
     {
-      "term": "Empire",
+      "term": "CENTCOM",
       "count": 2,
       "headlines": [
         {
-          "title": "Russian couple arrested after climbing Empire State Building",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
-          "source": "Al Jazeera",
+          "title": "CENTCOM leads regional security dialogue with Middle East military officials",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-leads-regional-security-dialogue-middle-east-military-officials",
+          "source": "Middle East Eye",
           "region": "Pan-Arab"
         },
         {
-          "title": "Masked couple scales Empire State Building in New York, unfurls peace banner",
-          "url": "https://www.aa.com.tr/en/americas/masked-couple-scales-empire-state-building-in-new-york-unfurls-peace-banner/3983742",
+          "title": "Lebanon, Syria join CENTCOM-led Middle East security dialogue for first time",
+          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/07/01/lebanon-syria-join-centcomled-middle-east-security-dialogue-for-first-time",
+          "source": "Al Arabiya",
+          "region": "Pan-Arab"
+        }
+      ]
+    },
+    {
+      "term": "bombing",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israeli army detonates large explosion in southern Lebanon",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "محدث خروقات متواصلة.. شهيدان ومصابون بقصف \"إسرائيلي\" شمال غربي غزة",
+          "url": "https://paltoday.ps/ar/post/540739/%D9%85%D8%AD%D8%AF%D8%AB-%D8%AE%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D9%88%D9%85%D8%B5",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Palantir",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Spanish government ‘quietly bans’ use of Palantir over national security concerns",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/spanish-government-quietly-bans-use-palantir-over-national-security",
+          "source": "Middle East Eye",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Spain tells state-backed firms to avoid new Palantir contracts amid national security concerns",
+          "url": "https://www.aa.com.tr/en/europe/spain-tells-state-backed-firms-to-avoid-new-palantir-contracts-amid-national-security-concerns/3983804",
           "source": "Anadolu Agency",
           "region": "Turkey"
         }
       ]
     },
     {
-      "term": "Knesset",
+      "term": "Eastern",
       "count": 2,
       "headlines": [
         {
-          "title": "Israeli Knesset passes bill limiting mosque loudspeakers",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-knesset-passes-bill-limiting-mosque-loudspeakers",
-          "source": "Middle East Eye",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Knesset passes preliminary reading of bill to limit mosque loudspeakers - WAFA Agency",
-          "url": "https://english.wafa.ps/Pages/Details/172255",
-          "source": "WAFA News",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "France",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Giant Container Ship ‘Notre-Dame’ Arrives in France",
-          "url": "https://english.alarabiya.net/amp/webtv/media/2026/07/01/giant-container-ship-notredame-arrives-in-france",
+          "title": "Lebanon, Syria join CENTCOM-led Middle East security dialogue for first time",
+          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/07/01/lebanon-syria-join-centcomled-middle-east-security-dialogue-for-first-time",
           "source": "Al Arabiya",
           "region": "Pan-Arab"
         },
         {
-          "title": "مونديال الحسم... فرنسا والنرويج تتألقان وترقب للمواجهات القادمة",
-          "url": "https://www.almayadeen.net/episodes-tv/2026/7/1/%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%B3%D9%85----%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%88%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%A3%D9%84%D9%82%D8%A7%D9%86-%D9%88%D8%AA%D8%B1%D9%82%D8%A8-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7/%D9%85%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
+          "title": "روسيا | موسكو تحت وطأة موجة حر مع انتقال صيف أوروبا الحارق شرقاً",
+          "url": "https://www.almanar.com.lb/article/991637/",
+          "source": "Al Manar",
+          "region": "Levant"
         }
       ]
     },
@@ -1203,127 +873,19 @@
       ]
     },
     {
-      "term": "humanitarian",
+      "term": "attack",
       "count": 2,
       "headlines": [
         {
-          "title": "Peace Council to launch pilot shelter project in Gaza: report",
-          "url": "https://www.newarab.com/news/peace-council-launch-pilot-shelter-project-gaza-report",
-          "source": "The New Arab",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "UN says about 40% of more than 1M displaced in Lebanon have returned",
-          "url": "https://www.aa.com.tr/en/middle-east/un-says-about-40-of-more-than-1m-displaced-in-lebanon-have-returned/3983779",
-          "source": "Anadolu Agency",
-          "region": "Turkey"
-        }
-      ]
-    },
-    {
-      "term": "Norway",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "مونديال الحسم... فرنسا والنرويج تتألقان وترقب للمواجهات القادمة",
-          "url": "https://www.almayadeen.net/episodes-tv/2026/7/1/%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%B3%D9%85----%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%88%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%A3%D9%84%D9%82%D8%A7%D9%86-%D9%88%D8%AA%D8%B1%D9%82%D8%A8-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7/%D9%85%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026",
+          "title": "مستشفيات جنوبي لبنان تواصل لملمة جراحها بعد العدوان الإسرائيلي",
+          "url": "https://www.almayadeen.net/tv-reports/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D9%85%D9%84%D9%85%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A",
           "source": "Al Mayadeen",
           "region": "Pan-Arab"
         },
         {
-          "title": "Norway Fans \"ruuuuhing\" after win over Ivory Coast at World Cup",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTF5QUpyWGZNa196NHAtcG1FeWNjdEpUNTBSTUVLMkFCX2k2SllMRXJWeWJ1WHNtdlBZX3ZxUXhTb3FhQm95d00tNzFveGlNbko5UlpUTXByMHJjWVdaMWZKRXltSDRra0NfVjFUR3M1dUhiR0xQM1lhaWRMLTRNTUZJYW14RVUxZEVSMmNfQzZCS08zOHdzdkJGVHVpQmJycDlXMHprcjU?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Araghchi",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "عراقتشي: أي تهديد يستهدف الشعب الإيراني أو قيادته سيقابَل بردٍّ فوري وحازم",
-          "url": "https://www.almayadeen.net/episodes-tv/2026/7/1/%D8%B9%D8%B1%D8%A7%D9%82%D8%AA%D8%B4%D9%8A--%D8%A3%D9%8A-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A3%D9%88-%D9%82%D9%8A%D8%A7%D8%AF%D8%AA%D9%87-%D8%B3%D9%8A%D9%82%D8%A7%D8%A8%D9%84-%D8%A8%D8%B1%D8%AF/%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Iran warns Israel: Any threat against Leader, people will meet firm response",
-          "url": "https://en.irna.ir/news/86198317/Iran-warns-Israel-Any-threat-against-Leader-people-will-meet",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "Ivory",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "المنتخب النرويجي يتخطى عقبة ساحل العاج ويتأهل لدور الـ16 في مونديال 2026",
-          "url": "https://www.almayadeen.net/tv-reports/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC%D9%8A-%D9%8A%D8%AA%D8%AE%D8%B7%D9%89-%D8%B9%D9%82%D8%A8%D8%A9-%D8%B3%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D8%AC-%D9%88%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D9%8016-%D9%81%D9%8A",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Norway Fans \"ruuuuhing\" after win over Ivory Coast at World Cup",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTF5QUpyWGZNa196NHAtcG1FeWNjdEpUNTBSTUVLMkFCX2k2SllMRXJWeWJ1WHNtdlBZX3ZxUXhTb3FhQm95d00tNzFveGlNbko5UlpUTXByMHJjWVdaMWZKRXltSDRra0NfVjFUR3M1dUhiR0xQM1lhaWRMLTRNTUZJYW14RVUxZEVSMmNfQzZCS08zOHdzdkJGVHVpQmJycDlXMHprcjU?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Coast",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "المنتخب النرويجي يتخطى عقبة ساحل العاج ويتأهل لدور الـ16 في مونديال 2026",
-          "url": "https://www.almayadeen.net/tv-reports/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC%D9%8A-%D9%8A%D8%AA%D8%AE%D8%B7%D9%89-%D8%B9%D9%82%D8%A8%D8%A9-%D8%B3%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D8%AC-%D9%88%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D9%8016-%D9%81%D9%8A",
-          "source": "Al Mayadeen",
-          "region": "Pan-Arab"
-        },
-        {
-          "title": "Norway Fans \"ruuuuhing\" after win over Ivory Coast at World Cup",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTF5QUpyWGZNa196NHAtcG1FeWNjdEpUNTBSTUVLMkFCX2k2SllMRXJWeWJ1WHNtdlBZX3ZxUXhTb3FhQm95d00tNzFveGlNbko5UlpUTXByMHJjWVdaMWZKRXltSDRra0NfVjFUR3M1dUhiR0xQM1lhaWRMLTRNTUZJYW14RVUxZEVSMmNfQzZCS08zOHdzdkJGVHVpQmJycDlXMHprcjU?oc=5",
-          "source": "Jordan Times",
-          "region": "Levant"
-        }
-      ]
-    },
-    {
-      "term": "Affairs",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
-          "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "Millions to attend martyr Ayatollah Khamenei’s funeral procession, foundation says",
-          "url": "https://en.irna.ir/news/86198464/Millions-to-attend-martyr-Ayatollah-Khamenei-s-funeral-procession",
-          "source": "IRNA",
-          "region": "Iran"
-        }
-      ]
-    },
-    {
-      "term": "ceasefire",
-      "count": 2,
-      "headlines": [
-        {
-          "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
-          "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
-          "source": "IRNA",
-          "region": "Iran"
-        },
-        {
-          "title": "تقرير إدارة مخاطر الكوارث..",
-          "url": "https://www.almanar.com.lb/article/991497/",
-          "source": "Al Manar",
+          "title": "Jerusalem Governorate warns “Muezzin Bill” targeting Muslim call to prayer is declaration of religious war, direct attack on freedom of worship - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/172258",
+          "source": "WAFA News",
           "region": "Levant"
         }
       ]
@@ -1397,6 +959,276 @@
           "url": "https://jordantimes.com/news/features/australia-boosts-shark-spotting-drone-coverage-at-sydney-beaches",
           "source": "Jordan Times",
           "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Iranians",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Any threat against Iranians to receive immediate response",
+          "url": "https://en.mehrnews.com/news/245791/Any-threat-against-Iranians-to-receive-immediate-response",
+          "source": "Mehr News",
+          "region": "Iran"
+        },
+        {
+          "title": "Iranians barely visible in US-Iran deal, UN rapporteur says - ایران اینترنشنال",
+          "url": "https://www.iranintl.com/en/202607014337",
+          "source": "Iran International",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "House",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "House of Representatives rejects resolution calling for 'withdrawal of US armed forces from all hostilities in Lebanon'",
+          "url": "https://today.lorientlejour.com/article/1539885/house-of-representatives-rejects-resolution-calling-for-withdrawal-of-us-armed-forces-from-all-hostilities-in-lebanon.html",
+          "source": "L'Orient Today",
+          "region": "Levant"
+        },
+        {
+          "title": "White House lifts export control on Anthropic that froze its most advanced models",
+          "url": "https://www.egyptindependent.com/white-house-lifts-export-control-on-anthropic-that-froze-its-most-advanced-models/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "China",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "The Strait of Hormuz pain has been China’s gain, The Asia Group says",
+          "url": "https://www.egyptindependent.com/the-strait-of-hormuz-pain-has-been-chinas-gain-the-asia-group-says/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Xi vows to strengthen China’s military",
+          "url": "https://www.hurriyetdailynews.com/xi-vows-to-strengthen-chinas-military-223892",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Egyptian",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Egypt’s Former Irrigation Minister warns not to underestimate impact of GERD",
+          "url": "https://www.egyptindependent.com/egypts-former-irrigation-minister-warns-not-to-underestimate-impact-of-gerd/",
+          "source": "Egypt Independent",
+          "region": "Levant"
+        },
+        {
+          "title": "Turkish intelligence chief meets Egyptian counterpart in Ankara",
+          "url": "https://www.trtworld.com/article/50fa9a146975",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "raid",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "جيش الاحتلال يداهم منزلاً خلال اقتحام قرية “المغير” شمال شرق رام الله",
+          "url": "https://www.almanar.com.lb/article/991612/",
+          "source": "Al Manar",
+          "region": "Levant"
+        },
+        {
+          "title": "قوات الاحتلال تداهم منزلاً خلال اقتحام ضاحية شويكة شمال طولكرم",
+          "url": "https://www.almanar.com.lb/article/991602/",
+          "source": "Al Manar",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "war",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Jerusalem Governorate warns “Muezzin Bill” targeting Muslim call to prayer is declaration of religious war, direct attack on freedom of worship - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/172258",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "Live blog - US-Israeli war on Iran",
+          "url": "https://trtworld.com/live/69a2a1d4e4ba8e89ecd092dc",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Hebron",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Colonists block roads, spray racist graffiti in Wadi Sa’ir, Hebron - WAFA Agency",
+          "url": "https://english.wafa.ps/Pages/Details/172230",
+          "source": "WAFA News",
+          "region": "Levant"
+        },
+        {
+          "title": "الاحتلال يخطر بهدم ثلاثة مساكن بالخليل",
+          "url": "https://paltoday.ps/ar/post/540737/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AE%D8%B7%D8%B1-%D8%A8%D9%87%D8%AF%D9%85-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D8%B3%D8%A7%D9%83%D9%86",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        }
+      ]
+    },
+    {
+      "term": "Spain",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "موجة الحر تودي بحياة 1028 شخصاً في إسبانيا!",
+          "url": "https://paltoday.ps/ar/post/540731/%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1-%D8%AA%D9%88%D8%AF%D9%8A-%D8%A8%D8%AD%D9%8A%D8%A7%D8%A9-1028-%D8%B4%D8%AE%D8%B5%D8%A7",
+          "source": "Falastin al-Youm",
+          "region": "Levant"
+        },
+        {
+          "title": "Spain tells state-backed firms to avoid new Palantir contracts amid national security concerns",
+          "url": "https://www.aa.com.tr/en/europe/spain-tells-state-backed-firms-to-avoid-new-palantir-contracts-amid-national-security-concerns/3983804",
+          "source": "Anadolu Agency",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Indian",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed",
+          "url": "https://gulfnews.com/uae/new-passport-service-rules-announced-for-indian-expats-in-uae-as-alhind-takeover-delayed-1.500593564",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "India government raises concerns over WhatsApp's new username feature",
+          "url": "https://gulfnews.com/world/asia/india/india-government-raises-concerns-over-whatsapps-new-username-feature-1.500593536",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "UAE",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "New passport service rules announced for Indian expats in UAE as Alhind takeover delayed",
+          "url": "https://gulfnews.com/uae/new-passport-service-rules-announced-for-indian-expats-in-uae-as-alhind-takeover-delayed-1.500593564",
+          "source": "Gulf News",
+          "region": "Gulf"
+        },
+        {
+          "title": "UAE driving licence now recognised in 34 countries: Full list",
+          "url": "https://gulfnews.com/uae/transport/uae-driving-licence-now-recognised-in-34-countries-full-list-1.500592938",
+          "source": "Gulf News",
+          "region": "Gulf"
+        }
+      ]
+    },
+    {
+      "term": "Turkish",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Turkish F-16s escort flight after false hijacking alert",
+          "url": "https://www.dailysabah.com/world/europe/turkish-f-16s-escort-flight-after-false-hijacking-alert",
+          "source": "Daily Sabah",
+          "region": "Turkey"
+        },
+        {
+          "title": "Turkish intelligence chief meets Egyptian counterpart in Ankara",
+          "url": "https://www.trtworld.com/article/50fa9a146975",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Ankara",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Rutte: Ankara summit must deliver NATO goals",
+          "url": "https://www.hurriyetdailynews.com/rutte-ankara-summit-must-deliver-nato-goals-223896",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey"
+        },
+        {
+          "title": "Turkish intelligence chief meets Egyptian counterpart in Ankara",
+          "url": "https://www.trtworld.com/article/50fa9a146975",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "Netanyahu",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Israel ex-army chief launches campaign in bid to unseat Netanyahu",
+          "url": "https://www.hurriyetdailynews.com/israel-ex-army-chief-launches-campaign-in-bid-to-unseat-netanyahu-223893",
+          "source": "Hürriyet Daily News",
+          "region": "Turkey"
+        },
+        {
+          "title": "Former Israeli army chief and ex-PM slam Netanyahu's 'loss of direction'",
+          "url": "https://www.trtworld.com/article/0a9b30a82027",
+          "source": "TRT World",
+          "region": "Turkey"
+        }
+      ]
+    },
+    {
+      "term": "FIFA",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "A hero's welcome for Iranian national team upon returning from FIFA World Cup",
+          "url": "https://en.irna.ir/news/86198430/A-hero-s-welcome-for-Iranian-national-team-upon-returning-from",
+          "source": "IRNA",
+          "region": "Iran"
+        }
+      ]
+    },
+    {
+      "term": "Mexico",
+      "count": 2,
+      "headlines": [
+        {
+          "title": "Three dead after massive World Cup celebrations in Mexico City",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss",
+          "source": "Al Jazeera",
+          "region": "Pan-Arab"
+        },
+        {
+          "title": "Iran thank Tijuana after World Cup exit, lend support to Mexico",
+          "url": "https://www.newarab.com/news/iran-thank-tijuana-after-world-cup-exit-lend-support-mexico",
+          "source": "The New Arab",
+          "region": "Pan-Arab"
         }
       ]
     }
